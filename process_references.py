@@ -9,10 +9,14 @@ from pathlib import Path
 
 MAX_CONCURRENT_REQUESTS = 10  # 设置最大并发 HTTP 请求数
 
-async def fetch_and_map_with_semaphore(semaphore, client, data, counts, redirected_urls):
+
+async def fetch_and_map_with_semaphore(
+    semaphore, client, data, counts, redirected_urls
+):
     """受 Semaphore 限制的异步请求"""
-    async with semaphore:  
+    async with semaphore:
         await fetch_and_map(client, data, counts, redirected_urls)
+
 
 async def process_references_async(doc_page: DocPage):
     """
@@ -36,7 +40,9 @@ async def process_references_async(doc_page: DocPage):
     all_citations = all_citations[:-1]
 
     # Create an asynchronous HTTP client using httpx with timeout of 5 seconds
-    async with httpx.AsyncClient(follow_redirects=True, http2=True,timeout=5) as client:
+    async with httpx.AsyncClient(
+        follow_redirects=True, http2=True, timeout=5
+    ) as client:
         semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)  # 限制最大并发请求数
 
         tasks = []
@@ -46,7 +52,11 @@ async def process_references_async(doc_page: DocPage):
         # For each citation data with a non-None URL, issue an asynchronous GET request.
         for data in all_citations:
             if data.url:
-                tasks.append(fetch_and_map_with_semaphore(semaphore, client, data, counts, redirected_urls))
+                tasks.append(
+                    fetch_and_map_with_semaphore(
+                        semaphore, client, data, counts, redirected_urls
+                    )
+                )
 
         # Start timing
         start_time = time.time()
@@ -83,7 +93,6 @@ async def process_references_async(doc_page: DocPage):
 
         # Update the document with the processed citations
         await update_content_async(doc_page, all_citations)
-
 
 
 async def fetch_and_map(client, data, counts, redirected_urls):
@@ -133,7 +142,9 @@ async def update_content_async(doc_page, all_citations):
         await update_content(section)
 
 
-async def process_references(input_dir: Path = Path("processed"), output_dir: Path = Path("processed")):
+async def process_references(
+    input_dir: Path = Path("processed"), output_dir: Path = Path("processed")
+):
     input_path = Path(input_dir)
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)  # 确保输出目录存在
@@ -150,7 +161,6 @@ async def process_references(input_dir: Path = Path("processed"), output_dir: Pa
         logger.info(f"✅ Finished processing: {json_file.name}")
 
 
-
 async def process_single_file(input_file: Path, output_path: Path):
     """
     处理单个 JSON 文件，解析并保存处理后的结果。
@@ -162,7 +172,9 @@ async def process_single_file(input_file: Path, output_path: Path):
 
     # **检查文件是否已处理过**
     if output_file.exists():
-        logger.info(f"📌 Skipping {input_file.name} (already processed: {output_file.name})")
+        logger.info(
+            f"📌 Skipping {input_file.name} (already processed: {output_file.name})"
+        )
         return  # **直接返回，不再处理**
 
     logger.info(f"🔍 Processing file: {input_file.name}")
@@ -181,4 +193,3 @@ async def process_single_file(input_file: Path, output_path: Path):
         fw.write(doc_page.model_dump_json(indent=2))
 
     logger.info(f"✅ Processed and saved: {output_file}")
-

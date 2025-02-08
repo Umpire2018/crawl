@@ -5,9 +5,7 @@ from process_references import process_references
 from convert_references import process_json_files
 from wiki import get_current_events_links
 from loguru import logger
-
-# 配置日志
-logger.add("logfile.log", rotation="1 MB", level="INFO")
+from convert_references import process_json_files
 
 
 async def main():

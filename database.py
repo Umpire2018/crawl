@@ -40,6 +40,7 @@ def save_to_db(links, month):
         f"✅ Saved {new_links} new links for {month}. Total links processed: {len(links)}"
     )
 
+
 def get_first_n_links(month: str, n: int = 10):
     """查询数据库中指定月份的前 N 条链接"""
     with Session(engine) as session:

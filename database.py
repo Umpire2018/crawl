@@ -1,51 +1,50 @@
-from sqlmodel import SQLModel, Session, select, Field
-from sqlalchemy import create_engine
-import re
+# database.py
+from sqlmodel import SQLModel, Session, create_engine, select
+from models import NewsLink
+from loguru import logger
+
+DATABASE_URL = "sqlite:///news_links.db"
+engine = create_engine(DATABASE_URL)
 
 
-# 定义数据模型
-class Articles(SQLModel, table=True):
-    id: int = Field(default=None, primary_key=True)
-    title: str
-    link: str
+def create_db():
+    """创建数据库表"""
+    SQLModel.metadata.create_all(engine)
+    logger.info("✅ Database initialized.")
 
 
-def extract_max_year(title: str) -> int:
-    """
-    查找标题中所有 4 位数的年份，返回其中的最大值；
-    如果没有找到年份，则返回 -1。
-    """
-    matches = re.findall(r"(\d{4})", title)
-    if not matches:
-        return -1
-    # 转换为 int 后，返回最大值
-    years = [int(y) for y in matches]
-    return max(years)
-
-
-def get_filtered_links(db_url: str):
-    """
-    从数据库中读取 title 升序的前 20 条记录，
-    筛选出标题中有年份 >= 2018 的链接。
-    """
-    engine = create_engine(db_url)
+def month_exists(month: str) -> bool:
+    """检查数据库中是否已存储该月份的数据"""
     with Session(engine) as session:
-        # 按 title 升序，取前20条
-        statement = select(Articles).order_by(Articles.title).limit(20)
-        articles = session.exec(statement).all()
-
-        # 过滤：只保留最大年份 >= 2018
-        filtered_links = []
-        for article in articles:
-            max_year = extract_max_year(article.title)
-            if max_year >= 2022:
-                filtered_links.append(article.link)
-
-    return filtered_links
+        existing_entry = session.exec(
+            select(NewsLink).where(NewsLink.month == month)
+        ).first()
+        return existing_entry is not None
 
 
-# 示例调用
-if __name__ == "__main__":
-    db_url = "sqlite:///articles.db"
-    links = get_filtered_links(db_url)
-    print(links)
+def save_to_db(links, month):
+    """将链接存入数据库"""
+    with Session(engine) as session:
+        new_links = 0
+        for link in links:
+            # 避免重复插入
+            existing_link = session.exec(
+                select(NewsLink).where(NewsLink.url == link)
+            ).first()
+            if not existing_link:
+                session.add(NewsLink(url=link, month=month))
+                new_links += 1
+        session.commit()
+
+    logger.info(
+        f"✅ Saved {new_links} new links for {month}. Total links processed: {len(links)}"
+    )
+
+def get_first_n_links(month: str, n: int = 10):
+    """查询数据库中指定月份的前 N 条链接"""
+    with Session(engine) as session:
+        results = session.exec(
+            select(NewsLink.url).where(NewsLink.month == month).limit(n)
+        ).all()
+    logger.info(f"📌 Retrieved {len(results)} links from database.")
+    return results

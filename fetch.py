@@ -15,7 +15,7 @@ def fetch_and_save_wikitext(
     """
     output_dir.mkdir(parents=True, exist_ok=True)  # 确保目录存在
 
-    site = pywikibot.Site("zh", "wikipedia")  # 配置 Wikipedia 站点（简体中文）
+    site = pywikibot.Site("en", "wikipedia")  # 配置 Wikipedia 站点（简体中文）
 
     for wikipedia_url in wikipedia_urls:
         # 从 URL 提取页面标题

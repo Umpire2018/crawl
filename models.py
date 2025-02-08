@@ -53,3 +53,11 @@ class DocPage(BaseModel):
 
 # 处理 DocSection 的自引用
 DocSection.model_rebuild()
+
+from sqlmodel import SQLModel, Field
+
+
+class NewsLink(SQLModel, table=True):
+    id: int | None = Field(default=None, primary_key=True)
+    url: str = Field(unique=True, index=True)
+    month: str  # 格式："YYYY_Month"

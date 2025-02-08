@@ -7,6 +7,12 @@ from typing import List
 from validate_scraped_content import WebContentValidator, ValidationResults
 from pathlib import Path
 
+MAX_CONCURRENT_REQUESTS = 10  # 设置最大并发 HTTP 请求数
+
+async def fetch_and_map_with_semaphore(semaphore, client, data, counts, redirected_urls):
+    """受 Semaphore 限制的异步请求"""
+    async with semaphore:  
+        await fetch_and_map(client, data, counts, redirected_urls)
 
 async def process_references_async(doc_page: DocPage):
     """
@@ -31,6 +37,8 @@ async def process_references_async(doc_page: DocPage):
 
     # Create an asynchronous HTTP client using httpx with timeout of 5 seconds
     async with httpx.AsyncClient(follow_redirects=True, timeout=5) as client:
+        semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)  # 限制最大并发请求数
+
         tasks = []
         counts = {"success": 0, "failure": 0}  # Use a dictionary to track counts
         redirected_urls = []  # Store URLs that were redirected
@@ -38,7 +46,7 @@ async def process_references_async(doc_page: DocPage):
         # For each citation data with a non-None URL, issue an asynchronous GET request.
         for data in all_citations:
             if data.url:
-                tasks.append(fetch_and_map(client, data, counts, redirected_urls))
+                tasks.append(fetch_and_map_with_semaphore(semaphore, client, data, counts, redirected_urls))
 
         # Start timing
         start_time = time.time()
@@ -75,6 +83,7 @@ async def process_references_async(doc_page: DocPage):
 
         # Update the document with the processed citations
         await update_content_async(doc_page, all_citations)
+
 
 
 async def fetch_and_map(client, data, counts, redirected_urls):
@@ -124,26 +133,22 @@ async def update_content_async(doc_page, all_citations):
         await update_content(section)
 
 
-async def process_references(
-    input_dir: Path = Path("processed"),
-    output_dir: Path = Path("processed"),
-    max_concurrent: int = 2,
-):
+async def process_references(input_dir: Path = Path("processed"), output_dir: Path = Path("processed")):
     input_path = Path(input_dir)
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)  # 确保输出目录存在
 
     json_files = list(input_path.glob("*.json"))  # 获取所有 .json 文件
-    semaphore = asyncio.Semaphore(max_concurrent)  # 限制最大同时运行任务数
 
-    async def process_with_limit(json_file):
-        async with semaphore:  # 控制并发数
-            await process_single_file(json_file, output_path)
+    if not json_files:
+        logger.warning("❌ No JSON files found in the input directory.")
+        return
 
-    tasks = [process_with_limit(json_file) for json_file in json_files]
+    for json_file in json_files:
+        logger.info(f"📌 Processing file: {json_file.name}")
+        await process_single_file(json_file, output_path)  # **同步调用**
+        logger.info(f"✅ Finished processing: {json_file.name}")
 
-    # 并发执行，最多 4 个任务同时进行
-    await asyncio.gather(*tasks)
 
 
 async def process_single_file(input_file: Path, output_path: Path):

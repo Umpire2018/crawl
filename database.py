@@ -1,5 +1,5 @@
 # database.py
-from sqlmodel import SQLModel, Session, create_engine, select
+from sqlmodel import SQLModel, Session, create_engine, select, delete
 from models import NewsLink
 from loguru import logger
 
@@ -49,3 +49,15 @@ def get_first_n_links(month: str, n: int = 10):
         ).all()
     logger.info(f"📌 Retrieved {len(results)} links from database.")
     return results
+
+def delete_link(title: str):
+    """从数据库中删除指定的 Wikipedia 链接"""
+    with Session(engine) as session:
+        stmt = delete(NewsLink).where(NewsLink.url.contains(title.replace(" ", "_")))
+        result = session.exec(stmt)
+        session.commit()
+
+        if result.rowcount > 0:
+            logger.info(f"🗑 Deleted link '{title}' from database.")
+        else:
+            logger.warning(f"⚠️ No link found for '{title}' in database.")

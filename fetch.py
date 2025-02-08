@@ -1,7 +1,7 @@
 import pywikibot
 from pathlib import Path
 from loguru import logger
-
+from database import delete_link
 
 @logger.catch
 def fetch_and_save_wikitext(
@@ -34,7 +34,12 @@ def fetch_and_save_wikitext(
             continue
 
         # 获取 Wikitext
-        wikitext = page.text
+        wikitext = page.text.strip()
+
+        if len(wikitext) < 100:
+            logger.warning(f"⚠️ Page '{page_title}' is too short (<100 characters). Skipping...")
+            delete_link(page_title)  # 从数据库删除无效链接
+            continue
 
         # 保存 Wikitext 到文件
         output_file.write_text(wikitext, encoding="utf-8")

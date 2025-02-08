@@ -36,7 +36,7 @@ async def process_references_async(doc_page: DocPage):
     all_citations = all_citations[:-1]
 
     # Create an asynchronous HTTP client using httpx with timeout of 5 seconds
-    async with httpx.AsyncClient(follow_redirects=True, timeout=5) as client:
+    async with httpx.AsyncClient(follow_redirects=True, http2=True,timeout=5) as client:
         semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)  # 限制最大并发请求数
 
         tasks = []
@@ -160,6 +160,13 @@ async def process_single_file(input_file: Path, output_path: Path):
     """
     output_file = output_path / f"{input_file.stem}_url_test.json"
 
+    # **检查文件是否已处理过**
+    if output_file.exists():
+        logger.info(f"📌 Skipping {input_file.name} (already processed: {output_file.name})")
+        return  # **直接返回，不再处理**
+
+    logger.info(f"🔍 Processing file: {input_file.name}")
+
     # 读取 JSON 文件
     with open(input_file, "r", encoding="utf-8") as f:
         doc_json = f.read()
@@ -173,4 +180,5 @@ async def process_single_file(input_file: Path, output_path: Path):
     with open(output_file, "w", encoding="utf-8") as fw:
         fw.write(doc_page.model_dump_json(indent=2))
 
-    logger.info(f"Processed and saved: {output_file}")
+    logger.info(f"✅ Processed and saved: {output_file}")
+

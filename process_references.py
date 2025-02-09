@@ -36,10 +36,9 @@ async def process_references_async(doc_page: DocPage):
     for section in doc_page.content:
         traverse_content(section)
 
-    # Limit to the first 10 URLs for testing (optional)
-    all_citations = all_citations[:100]
+    all_citations = all_citations
 
-    timeout = aiohttp.ClientTimeout(total=10)  # 设置超时时间为 5 秒
+    timeout = aiohttp.ClientTimeout(total=30)  # 设置超时时间为 5 秒
 
     async with aiohttp.ClientSession(timeout=timeout) as session:
         tasks = []
@@ -68,7 +67,7 @@ async def process_references_async(doc_page: DocPage):
         logger.info(f"Total checked URLs: {len(all_citations)}")
         logger.info(f"Successful checks: {counts['success']}")
         logger.info(f"Failed checks: {counts['failure']}")
-        logger.info(f"redirect checks: {counts['redirect']}")
+        # logger.info(f"redirect checks: {counts['redirect']}")
 
         # Update the document with the processed citations
         await update_content_async(doc_page, all_citations)

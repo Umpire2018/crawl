@@ -4,7 +4,7 @@ from pydantic import BaseModel
 from typing import List, Union
 import json
 from loguru import logger
-
+import re
 
 class DocSentenceProcessed(BaseModel):
     """Represents a sentence after processing references to a list of strings."""
@@ -53,10 +53,14 @@ def transform_content(content) -> Union[DocSectionProcessed, DocBlockProcessed, 
         processed_sentences = [
             DocSentenceProcessed(
                 id=sentence.id,
-                text=sentence.text,
-                references=[
-                    ref.url for ref in sentence.references if ref.status_code == 200
-                ],
+                # use DOTALL so that '.' matches new line
+                text=re.sub(
+                    r"<ref[^>]*?/>|\{\{clear\}\}|\{\{Main.*?\|.*?\}\}",
+                    "",
+                    sentence.text,
+                    flags=re.DOTALL
+                ).strip(),
+                references=[ref.url for ref in sentence.references if ref.status_code == 200],
             )
             for sentence in content.sentences
             if any(ref.status_code == 200 for ref in sentence.references)

@@ -44,7 +44,11 @@ async def process_references_async(doc_page: DocPage):
 
     async with aiohttp.ClientSession(timeout=timeout) as session:
         tasks = []
-        counts = {"success": 0, "failure": 0, 'redirect':0}  # Use a dictionary to track counts
+        counts = {
+            "success": 0,
+            "failure": 0,
+            "redirect": 0,
+        }  # Use a dictionary to track counts
 
         # For each citation data with a non-None URL, issue an asynchronous GET request.
         for data in all_citations:
@@ -71,7 +75,9 @@ async def process_references_async(doc_page: DocPage):
         await update_content_async(doc_page, all_citations)
 
 
-async def fetch_and_map(session: aiohttp.ClientSession, data: CitationData, counts: dict):
+async def fetch_and_map(
+    session: aiohttp.ClientSession, data: CitationData, counts: dict
+):
     # Skip archive.org URLs
     if data.url and "archive.org" in data.url:
         logger.info(f"Skipping {data.url} as it is an archive.org link.")
@@ -79,12 +85,11 @@ async def fetch_and_map(session: aiohttp.ClientSession, data: CitationData, coun
         data.reason = "Blocked: Archive.org URL"
         counts["failure"] += 1
         return
-    
 
     try:
         async with session.get(data.url) as req:
             data.status_code = req.status  # Store HTTP status code
-            
+
             if req.status == 200:
                 if req.history:  # If there was a redirection
                     if is_inaccessible(target_domain=data.url, final_url=str(req.url)):
@@ -92,16 +97,16 @@ async def fetch_and_map(session: aiohttp.ClientSession, data: CitationData, coun
                         data.reason = "Inaccessible after redirect"
                         counts["failure"] += 1
                         return
-                    
+
                     # URL changed after redirection
                     data.url = str(req.url)
                     counts["redirect"] = counts.get("redirect", 0) + 1
-                    
+
                 counts["success"] += 1
             else:
                 data.reason = req.reason
                 counts["failure"] += 1
-    
+
     except ClientError as e:
         logger.error(f"Request to {data.url} failed with: {e}")
         data.status_code = None
@@ -112,6 +117,7 @@ async def fetch_and_map(session: aiohttp.ClientSession, data: CitationData, coun
         data.status_code = None
         data.reason = "Timeout"
         counts["failure"] += 1
+
 
 async def update_content_async(doc_page, all_citations):
     async def update_content(content):
@@ -171,7 +177,6 @@ async def process_single_file(input_file: Path, output_path: Path):
     # 保存处理后的 JSON 文件
     with open(output_file, "w", encoding="utf-8") as fw:
         fw.write(doc_page.model_dump_json(indent=2))
-
 
 
 if __name__ == "__main__":

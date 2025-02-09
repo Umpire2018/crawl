@@ -170,56 +170,61 @@ class Rewriter:
         return result
 
     @staticmethod
-    def extract_title(x: str) -> str:
+    def replace_info(content: str) -> str:
         """
-        从文本中提取形如 "|title=xxx" 的标题，
-        若无法提取则返回 "Untitled"。
+        Finds the first occurrence of '==(any content)==' (heading).
+        Searches upwards for the last '}}' before that heading.
+        Replaces that '}}' line with '== Preface ==' and removes all content above it.
         """
-        t = re.search(r"\|title\s*=\s*(.*?)\n", x)
-        return t.group(1).strip() if t else "Untitled"
+        # Find the first heading like "== Some Section =="
+        heading_match = re.search(r"^==.*==\s*$", content, re.MULTILINE)
+        if not heading_match:
+            return content  # No heading found, return original text
+
+        heading_start = heading_match.start()
+
+        # Improved regex: Matches '}}' that may appear anywhere (not just on its own line)
+        closing_braces = list(re.finditer(r"\}\}\s*(?:\n|$)", content[:heading_start]))
+
+        if not closing_braces:
+            return content  # No '}}' found before heading, return original text
+
+        last_closing_brace = closing_braces[-1]  # Get the last occurrence of '}}'
+
+        # Replace the found '}}' position with '== Preface ==' and remove all content above it
+        return "== Preface ==\n" + content[last_closing_brace.end() :]
 
     @staticmethod
-    def replace_info(x: str) -> str:
+    def parse_file(file_path: Path) -> str:
         """
-        将从文件起始行到第二个独立 '}}' 行之间的内容替换为 "==序言=="。
-        主要用于去除特定的 infobox 块或其他元信息。
+        Reads a .txt file, extracts its title, processes sections and text blocks, and returns a JSON string.
         """
-        fs = list(re.finditer(r"^\}\}\s*$", x, re.MULTILINE))
-        if len(fs) >= 2:
-            x = "==序言==\n" + x[fs[1].end() :]
-        return x
+        file_content = file_path.read_text(encoding="utf-8")
+        doc_title = file_path.stem  # Get filename without extension
+        cleaned_content = Rewriter.replace_info(file_content)
 
-    @staticmethod
-    def parse_file(path: str) -> str:
-        """
-        读取指定文件，提取标题，并解析章节和文本块，最终返回 JSON 串。
-        """
-        with open(path, "r", encoding="utf-8") as f:
-            data = f.read()
+        # Match top-level headings like "== Section Name =="
+        section_pattern = re.compile(r"^\s*==\s*([^=]+?)\s*==\s*$", re.MULTILINE)
+        section_matches = list(section_pattern.finditer(cleaned_content))
 
-        doc_title = Rewriter.extract_title(data)
-        data = Rewriter.replace_info(data)
-
-        # 匹配顶级章节行，如 "== XXX =="
-        pat = re.compile(r"^\s*==\s*([^=]+?)\s*==\s*$", re.MULTILINE)
-        top = list(pat.finditer(data))
         sections = []
-
-        for i, heading in enumerate(top):
+        for i, heading in enumerate(section_matches):
             heading_text = heading.group(1).strip()
-            start = heading.end()
-            end = top[i + 1].start() if (i + 1 < len(top)) else len(data)
-            sub = data[start:end].strip()
+            start_idx = heading.end()
+            end_idx = (
+                section_matches[i + 1].start()
+                if (i + 1 < len(section_matches))
+                else len(cleaned_content)
+            )
+            section_text = cleaned_content[start_idx:end_idx].strip()
 
-            # 解析次级章节
-            parsed = Rewriter.section_parse(sub, str(i + 1), 2)
+            # Parse sub-sections recursively
+            parsed_content = Rewriter.section_parse(section_text, str(i + 1), 2)
             sections.append(
-                DocSection(id=str(i + 1), title=heading_text, content=parsed)
+                DocSection(id=str(i + 1), title=heading_text, content=parsed_content)
             )
 
         doc = DocPage(title=doc_title, content=sections)
-
-        # 以 JSON 格式导出
         return doc.model_dump_json(indent=2)
 
     @staticmethod
@@ -227,27 +232,22 @@ class Rewriter:
         input_dir: Path = Path("original"), output_dir: Path = Path("processed")
     ):
         """
-        处理 input_dir 目录下的所有 .txt 文件，并将解析结果保存到 output_dir 目录。
-
-        :param input_dir: 输入文件夹路径，包含待处理的 .txt 文件
-        :param output_dir: 输出文件夹路径，解析后的 JSON 文件将保存在这里
+        Processes all .txt files in `input_dir`, parses them, and saves the JSON output in `output_dir`.
         """
-
-        output_dir.mkdir(parents=True, exist_ok=True)  # 确保输出目录存在
+        output_dir.mkdir(parents=True, exist_ok=True)  # Ensure output directory exists
 
         for txt_file in input_dir.glob("*.txt"):
             try:
-                # 解析文件
-                parsed_json = Rewriter.parse_file(str(txt_file))
+                # Parse file and generate JSON output
+                json_output = Rewriter.parse_file(txt_file)
 
-                # 生成输出文件路径（更改扩展名为 .json）
-                output_file = output_dir / (txt_file.stem + ".json")
+                # Define output file path (.json instead of .txt)
+                output_file = output_dir / f"{txt_file.stem}.json"
 
-                # 保存 JSON
-                with open(output_file, "w", encoding="utf-8") as f:
-                    f.write(parsed_json)
+                # Save JSON output
+                output_file.write_text(json_output, encoding="utf-8")
 
-                logger.success(f"Saved parsed file: {output_file}")
+                logger.success(f"✅ Saved parsed file: {output_file}")
 
             except Exception as e:
-                logger.error(f"Error processing {txt_file.name}: {e}")
+                logger.exception(f"❌ Error processing {txt_file.name}: {e}")

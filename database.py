@@ -27,8 +27,8 @@ def save_to_db(links, year):
     """将链接中包含四位数年份的存入数据库"""
     with Session(engine) as session:
         new_links = 0
-        year_pattern = re.compile(r'\d{4}')
-        
+        year_pattern = re.compile(r"\d{4}")
+
         for link in links:
             if year_pattern.search(link):  # 仅处理包含年份的链接
                 existing_link = session.exec(
@@ -37,9 +37,9 @@ def save_to_db(links, year):
                 if not existing_link:
                     session.add(NewsLink(url=link, year=year))
                     new_links += 1
-        
+
         session.commit()
-    
+
     logger.info(
         f"✅ Saved {new_links} new links containing a year for {year}. Total links processed: {len(links)}"
     )

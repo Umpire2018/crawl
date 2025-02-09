@@ -20,8 +20,8 @@ async def main():
         logger.info(f"🔍 Fetching Wikipedia links for {year}...")
         links = get_yearly_events_links(year)
         save_to_db(links, year)
-    
-    links = links[:4]  # 仅取前 10 条
+
+    links = links[:4]
 
     fetch_and_save_wikitext(links)
 

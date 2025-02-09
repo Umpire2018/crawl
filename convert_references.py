@@ -2,7 +2,7 @@ from pathlib import Path
 from models import DocPage, DocSection, DocBlock
 from pydantic import BaseModel
 from typing import List, Union
-import asyncio
+import json
 from loguru import logger
 
 
@@ -11,7 +11,7 @@ class DocSentenceProcessed(BaseModel):
 
     id: str
     text: str
-    references: List[str]  # Converted from List[CitationData] to List[str]
+    references: List[str]
 
 
 class DocBlockProcessed(BaseModel):
@@ -21,9 +21,7 @@ class DocBlockProcessed(BaseModel):
 class DocSectionProcessed(BaseModel):
     id: str
     title: str
-    content: List[
-        Union["DocSectionProcessed", DocBlockProcessed]
-    ]  # Allow nested structure
+    content: List[Union["DocSectionProcessed", DocBlockProcessed]]
 
 
 class DocPageProcessed(BaseModel):
@@ -33,92 +31,127 @@ class DocPageProcessed(BaseModel):
     content: List[DocSectionProcessed]
 
 
-async def transform_content(content) -> Union[DocSectionProcessed, DocBlockProcessed]:
+def transform_content(content) -> Union[DocSectionProcessed, DocBlockProcessed, None]:
     """
     Recursively process DocSection and DocBlock content, converting references to List[str].
+    Removes empty sentences, blocks, and sections, while ensuring IDs are sequentially reordered.
     """
     if isinstance(content, DocSection):
+        processed_content = [transform_content(item) for item in content.content]
+        processed_content = [item for item in processed_content if item is not None]
+
+        if not processed_content:
+            return None  # Remove empty sections
+
         return DocSectionProcessed(
             id=content.id,
             title=content.title,
-            content=[await transform_content(item) for item in content.content],
+            content=processed_content,
         )
+
     elif isinstance(content, DocBlock):
-        return DocBlockProcessed(
-            sentences=[
-                DocSentenceProcessed(
-                    id=sentence.id,
-                    text=sentence.text,
-                    references=[
-                        ref.url for ref in sentence.references if ref.status_code == 200
-                    ],
-                )
-                for sentence in content.sentences
-            ]
-        )
+        processed_sentences = [
+            DocSentenceProcessed(
+                id=sentence.id,
+                text=sentence.text,
+                references=[
+                    ref.url for ref in sentence.references if ref.status_code == 200
+                ],
+            )
+            for sentence in content.sentences
+            if any(ref.status_code == 200 for ref in sentence.references)
+        ]
+
+        if not processed_sentences:
+            return None  # Remove empty blocks
+
+        return DocBlockProcessed(sentences=processed_sentences)
 
 
-
-async def process_single_file(input_file: Path, output_dir: Path):
+def reorder_section_ids(page: DocPageProcessed):
     """
-    处理单个 JSON 文件，转换引用并保存到 `final/` 目录。
+    Reorders section and sentence IDs to ensure proper sequential numbering.
     """
-    # 生成去掉 `_url_test` 后缀的最终文件名
+    for section_index, section in enumerate(page.content, start=1):
+        section.id = f"{section_index}"  # ✅ Assign sequential section IDs
+        reorder_subsection_ids(section, parent_id=section.id)
+
+
+def reorder_subsection_ids(section: DocSectionProcessed, parent_id: str):
+    """
+    Recursively reorders IDs for nested sections.
+    """
+    for index, sub in enumerate(section.content, start=1):
+        if isinstance(sub, DocSectionProcessed):  # ✅ Only sections have IDs
+            sub.id = f"{parent_id}.{index}"
+            reorder_subsection_ids(sub, parent_id=sub.id)
+        elif isinstance(sub, DocBlockProcessed):  # ❌ No ID for DocBlockProcessed
+            for sentence_index, sentence in enumerate(sub.sentences, start=1):
+                sentence.id = f"{parent_id}.s{sentence_index}"  # ✅ Reorder sentences
+
+
+def process_page(page: DocPage) -> DocPageProcessed:
+    """Processes an entire document page, applying transformations, removals, and ID reordering."""
+    processed_sections = [transform_content(section) for section in page.content]
+    processed_sections = [
+        section for section in processed_sections if section is not None
+    ]
+
+    processed_page = DocPageProcessed(title=page.title, content=processed_sections)
+
+    # Reorder section and sentence IDs
+    reorder_section_ids(processed_page)
+
+    return processed_page
+
+
+def process_single_file(input_file: Path, output_dir: Path):
+    """
+    Processes a single JSON file, transforms content, and saves the result to `final/`.
+    """
     output_file = output_dir / (input_file.stem.replace("_url_test", "") + ".json")
 
-    # **检查是否已处理，避免重复**
+    # **Avoid reprocessing already completed files**
     if output_file.exists():
         logger.info(
             f"📌 Skipping {input_file.name} (already processed as {output_file.name})"
         )
         return
 
-    # 读取 JSON 文件
+    # Read JSON file
     with open(input_file, "r", encoding="utf-8") as f:
-        doc_json = f.read()
+        doc_json = json.load(f)
 
-    # 解析为 DocPage
-    doc_page = DocPage.model_validate_json(doc_json)
+    # Parse JSON into DocPage model
+    doc_page = DocPage.model_validate(doc_json)
 
-    # 转换内容结构
-    processed_content = [
-        await transform_content(section) for section in doc_page.content
-    ]
+    # Process content structure
+    processed_page = process_page(doc_page)
 
-    # 生成处理后的 DocPageProcessed 对象
-    doc_page_processed = DocPageProcessed(
-        title=doc_page.title, content=processed_content
-    )
-
-    # 保存转换后的 JSON 文件
+    # Save transformed JSON
     with open(output_file, "w", encoding="utf-8") as fw:
-        fw.write(doc_page_processed.model_dump_json(indent=2))
+        json.dump(processed_page.model_dump(), fw, indent=2, ensure_ascii=False)
 
     logger.success(f"✅ Processed and saved: {output_file}")
 
 
-async def process_json_files(
+def process_json_files(
     input_dir: Path = Path("processed"), output_dir: Path = Path("final")
 ):
-    """
-    处理所有 `url_test.json` 结尾的 JSON 文件，并保存到 `final/` 目录，去掉 `_url_test` 后缀。
-    """
-    output_dir.mkdir(parents=True, exist_ok=True)  # 确保输出目录存在
+    output_dir.mkdir(parents=True, exist_ok=True)  # Ensure output directory exists
 
-    # 只选取文件名包含 `_url_test.json` 的 JSON 文件
-    input_files = [file for file in input_dir.glob("*.json") if "url_test" in file.stem]
+    input_files = list(input_dir.glob("*url_test.json"))
 
     if not input_files:
-        logger.warning("❌ No `url_test.json` files found in input directory.")
+        logger.warning("❌ No JSON files found in input directory.")
         return
 
-    tasks = [process_single_file(input_file, output_dir) for input_file in input_files]
+    for input_file in input_files:
+        process_single_file(input_file, output_dir)
 
-    await asyncio.gather(*tasks)  # 并发处理文件
-
-    logger.info("✅ Finished processing all `url_test.json` files.")
+    logger.info("✅ Finished processing all JSON files.")
 
 
 # Example execution
 if __name__ == "__main__":
-    asyncio.run(process_json_files())
+    process_json_files()

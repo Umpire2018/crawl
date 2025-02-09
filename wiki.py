@@ -50,7 +50,7 @@ def get_yearly_events_links(year_page):
         r"\d{4}_in_.*|"  # /wiki/2024_in_religion
         r"\d{1,2}(st|nd|rd|th)_century|"
         r"(?:January|February|March|April|May|June|July|August|September|October|November|December)_\d{1,2}|"
-        r".*#Timeline.*"
+        r".*#Timeline.*|"
         r".*Olympics.*"
     )
 
@@ -71,5 +71,5 @@ if __name__ == "__main__":
     year_page = "2024"
     event_links = get_yearly_events_links(year_page)
     print(f"Found {len(event_links)} links:")
-    for link in event_links[:100]:  # 仅显示前 10 个链接
+    for link in event_links[:100]:
         print(link)

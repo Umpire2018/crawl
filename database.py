@@ -24,24 +24,27 @@ def year_exists(year: str) -> bool:
 
 
 def save_to_db(links, year):
-    """将链接中包含四位数年份的存入数据库"""
+    """将链接中包含四位数年份的存入数据库，并检查年份范围"""
     with Session(engine) as session:
         new_links = 0
         year_pattern = re.compile(r"\d{4}")
 
         for link in links:
-            if year_pattern.search(link):  # 仅处理包含年份的链接
-                existing_link = session.exec(
-                    select(NewsLink).where(NewsLink.url == link)
-                ).first()
-                if not existing_link:
-                    session.add(NewsLink(url=link, year=year))
-                    new_links += 1
+            match = year_pattern.search(link)  # Find only the first match
+            if match:
+                found_year = match.group()
 
+                if found_year == str(year):
+                    try:
+                        session.add(NewsLink(url=link, year=year))
+                        session.commit()  # Try inserting directly
+                        new_links += 1
+                    except Exception as e:
+                        session.rollback()  # Rollback if unique constraint fails
         session.commit()
 
     logger.info(
-        f"✅ Saved {new_links} new links containing a year for {year}. Total links processed: {len(links)}"
+        f"✅ Saved {new_links} new links for {year}. Total links processed: {len(links)}"
     )
 
 

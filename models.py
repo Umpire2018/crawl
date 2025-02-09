@@ -1,6 +1,7 @@
 from __future__ import annotations
 from pydantic import BaseModel
 from typing import List, Optional
+from sqlmodel import SQLModel, Field
 
 
 class CitationData(BaseModel):
@@ -50,8 +51,6 @@ class DocPage(BaseModel):
 
 # 处理 DocSection 的自引用
 DocSection.model_rebuild()
-
-from sqlmodel import SQLModel, Field
 
 
 class NewsLink(SQLModel, table=True):

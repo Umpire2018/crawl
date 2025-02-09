@@ -5,7 +5,6 @@ from models import CitationData, DocPage, DocSection, DocBlock
 from loguru import logger
 import time
 from typing import List
-from validate_scraped_content import WebContentValidator, ValidationResults
 from pathlib import Path
 
 from urllib.parse import urlparse

@@ -3,6 +3,7 @@ from pathlib import Path
 from loguru import logger
 from database import delete_link
 
+
 @logger.catch
 def fetch_and_save_wikitext(
     wikipedia_urls: list[str], output_dir: Path = Path("original")
@@ -37,7 +38,9 @@ def fetch_and_save_wikitext(
         wikitext = page.text.strip()
 
         if len(wikitext) < 100:
-            logger.warning(f"⚠️ Page '{page_title}' is too short (<100 characters). Skipping...")
+            logger.warning(
+                f"⚠️ Page '{page_title}' is too short (<100 characters). Skipping..."
+            )
             delete_link(page_title)  # 从数据库删除无效链接
             continue
 

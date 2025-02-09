@@ -1,5 +1,6 @@
 import asyncio
-import httpx
+import aiohttp
+from aiohttp import ClientError
 from models import CitationData, DocPage, DocSection, DocBlock
 from loguru import logger
 import time
@@ -7,22 +8,22 @@ from typing import List
 from validate_scraped_content import WebContentValidator, ValidationResults
 from pathlib import Path
 
-MAX_CONCURRENT_REQUESTS = 10  # 设置最大并发 HTTP 请求数
+from urllib.parse import urlparse
 
 
-async def fetch_and_map_with_semaphore(
-    semaphore, client, data, counts, redirected_urls
-):
-    """受 Semaphore 限制的异步请求"""
-    async with semaphore:
-        await fetch_and_map(client, data, counts, redirected_urls)
+def is_inaccessible(target_domain, final_url):
+    parsed_final = urlparse(str(final_url))
+    final_domain = parsed_final.netloc
+    final_path = parsed_final.path
+
+    # 检查最终域名是否不同且路径为根
+    return final_domain != str(target_domain) and final_path == "/"
 
 
 async def process_references_async(doc_page: DocPage):
     """
     Process all references in a DocPage asynchronously, replacing reference strings with CitationData objects.
     """
-    # Collect all citations from the entire document
     all_citations: List[CitationData] = []
 
     def traverse_content(content):
@@ -37,14 +38,9 @@ async def process_references_async(doc_page: DocPage):
         traverse_content(section)
 
     # Limit to the first 10 URLs for testing (optional)
-    all_citations = all_citations[:-1]
+    all_citations = all_citations[:100]
 
-    # Create an asynchronous HTTP client using httpx with timeout of 5 seconds
-    async with httpx.AsyncClient(
-        follow_redirects=True, http2=True, timeout=5
-    ) as client:
-        semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)  # 限制最大并发请求数
-
+    async with aiohttp.ClientSession() as session:
         tasks = []
         counts = {"success": 0, "failure": 0}  # Use a dictionary to track counts
         redirected_urls = []  # Store URLs that were redirected
@@ -52,11 +48,7 @@ async def process_references_async(doc_page: DocPage):
         # For each citation data with a non-None URL, issue an asynchronous GET request.
         for data in all_citations:
             if data.url:
-                tasks.append(
-                    fetch_and_map_with_semaphore(
-                        semaphore, client, data, counts, redirected_urls
-                    )
-                )
+                tasks.append(fetch_and_map(session, data, counts, redirected_urls))
 
         # Start timing
         start_time = time.time()
@@ -95,31 +87,33 @@ async def process_references_async(doc_page: DocPage):
         await update_content_async(doc_page, all_citations)
 
 
-async def fetch_and_map(client, data, counts, redirected_urls):
+async def fetch_and_map(session: aiohttp.ClientSession, data, counts, redirected_urls):
     try:
-        # Send the GET request asynchronously with timeout of 5 seconds
-        req = await client.get(data.url)
+        async with session.get(data.url) as req:
+            if req.status == 200:
+                if req.history:
+                    if is_inaccessible(target_domain=data.url, final_url=req.url):
+                        logger.warning(
+                            f"URL {data.url} is inaccessible after redirection."
+                        )
+                        data.accessible = False
+                        counts["failure"] += 1
+                        redirected_urls.append(data.url)
+                        return
 
-        # Check the final destination and redirection history
-        original_url = data.url  # The original URL (before redirect)
-        final_url = str(req.url)  # The final URL (after following all redirects)
+                    data.url = str(req.url)
 
-        # Compare if the URL was redirected
-        if original_url != final_url:
-            logger.info(f"Original URL {original_url} was redirected to {final_url}")
-            # Update the CitationData object's URL to the final redirected URL
-            data.url = final_url
-            redirected_urls.append(final_url)  # Store for secondary validation
+                data.accessible = True
+                counts["success"] += 1
+            else:
+                logger.warning(
+                    f"Request to {data.url} failed with status: {req.status}: {req.reason}"
+                )
+                data.accessible = False
+                counts["failure"] += 1
 
-        # Update accessibility based on final response status code
-        if req.status_code == 200:
-            data.accessible = True
-            counts["success"] += 1
-        else:
-            data.accessible = False
-            counts["failure"] += 1
-
-    except (httpx.ReadTimeout, httpx.ConnectTimeout, httpx.ConnectError):
+    except ClientError as e:
+        logger.error(f"Request to {data.url} failed with: {e}")
         data.accessible = False
         counts["failure"] += 1
 
@@ -193,3 +187,7 @@ async def process_single_file(input_file: Path, output_path: Path):
         fw.write(doc_page.model_dump_json(indent=2))
 
     logger.info(f"✅ Processed and saved: {output_file}")
+
+
+if __name__ == "__main__":
+    asyncio.run(process_references())

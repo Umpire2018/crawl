@@ -4,14 +4,11 @@ from typing import List, Optional
 
 
 class CitationData(BaseModel):
-    # Original text
-    text: Optional[str] = None
-    # Extracted URL from '|url=' field; if extraction fails, remains None
-    url: Optional[str] = None
-    # Whether the URL is accessible; if not checked, remains None
-    accessible: Optional[bool] = None
-    # Type extracted from '{{Cite ...' (e.g., 'news' or 'web'); if extraction fails, remains None
-    type: Optional[str] = None
+    text: Optional[str] = None  # Original text
+    url: Optional[str] = None  # Extracted URL
+    status_code: Optional[int] = None  # HTTP status code
+    reason: Optional[str] = None  # Failure reason
+    type: Optional[str] = None  # Citation type (e.g., 'news', 'web')
 
 
 class DocSentence(BaseModel):
@@ -60,4 +57,4 @@ from sqlmodel import SQLModel, Field
 class NewsLink(SQLModel, table=True):
     id: int | None = Field(default=None, primary_key=True)
     url: str = Field(unique=True, index=True)
-    month: str  # 格式："YYYY_Month"
+    year: str  

@@ -40,15 +40,16 @@ async def process_references_async(doc_page: DocPage):
     # Limit to the first 10 URLs for testing (optional)
     all_citations = all_citations[:100]
 
-    async with aiohttp.ClientSession() as session:
+    timeout = aiohttp.ClientTimeout(total=10)  # 设置超时时间为 5 秒
+
+    async with aiohttp.ClientSession(timeout=timeout) as session:
         tasks = []
-        counts = {"success": 0, "failure": 0}  # Use a dictionary to track counts
-        redirected_urls = []  # Store URLs that were redirected
+        counts = {"success": 0, "failure": 0, 'redirect':0}  # Use a dictionary to track counts
 
         # For each citation data with a non-None URL, issue an asynchronous GET request.
         for data in all_citations:
             if data.url:
-                tasks.append(fetch_and_map(session, data, counts, redirected_urls))
+                tasks.append(fetch_and_map(session, data, counts))
 
         # Start timing
         start_time = time.time()
@@ -60,77 +61,63 @@ async def process_references_async(doc_page: DocPage):
         end_time = time.time()
         logger.info(f"Time taken to check URLs: {end_time - start_time:.2f} seconds")
 
-        # Perform secondary validation only for redirected URLs
-        if redirected_urls:
-            logger.info("Performing secondary validation for redirected URLs...")
-            validator = WebContentValidator(redirected_urls)
-            validation_results: ValidationResults = await validator.validate()
-
-            print(validation_results.model_dump_json(indent=2))
-
-            for result in validation_results.results:
-                for citation in all_citations:
-                    if citation.url == result.url:
-                        citation.accessible = result.valid
-                        if result.valid:
-                            counts["success"] += 1
-                            counts["failure"] -= (
-                                1  # Adjust failure count if validated successfully
-                            )
-
         # Output total count, success and failure counts
         logger.info(f"Total checked URLs: {len(all_citations)}")
         logger.info(f"Successful checks: {counts['success']}")
         logger.info(f"Failed checks: {counts['failure']}")
+        logger.info(f"redirect checks: {counts['redirect']}")
 
         # Update the document with the processed citations
         await update_content_async(doc_page, all_citations)
 
 
-async def fetch_and_map(session: aiohttp.ClientSession, data, counts, redirected_urls):
+async def fetch_and_map(session: aiohttp.ClientSession, data: CitationData, counts: dict):
+    # Skip archive.org URLs
+    if data.url and "archive.org" in data.url:
+        logger.info(f"Skipping {data.url} as it is an archive.org link.")
+        data.status_code = 403  # Using 403 to indicate intentional blocking
+        data.reason = "Blocked: Archive.org URL"
+        counts["failure"] += 1
+        return
+    
+
     try:
         async with session.get(data.url) as req:
+            data.status_code = req.status  # Store HTTP status code
+            
             if req.status == 200:
-                if req.history:
-                    if is_inaccessible(target_domain=data.url, final_url=req.url):
-                        logger.warning(
-                            f"URL {data.url} is inaccessible after redirection."
-                        )
-                        data.accessible = False
+                if req.history:  # If there was a redirection
+                    if is_inaccessible(target_domain=data.url, final_url=str(req.url)):
+                        data.status_code = 403
+                        data.reason = "Inaccessible after redirect"
                         counts["failure"] += 1
-                        redirected_urls.append(data.url)
                         return
-
+                    
+                    # URL changed after redirection
                     data.url = str(req.url)
-
-                data.accessible = True
+                    counts["redirect"] = counts.get("redirect", 0) + 1
+                    
                 counts["success"] += 1
             else:
-                logger.warning(
-                    f"Request to {data.url} failed with status: {req.status}: {req.reason}"
-                )
-                data.accessible = False
+                data.reason = req.reason
                 counts["failure"] += 1
-
+    
     except ClientError as e:
         logger.error(f"Request to {data.url} failed with: {e}")
-        data.accessible = False
+        data.status_code = None
+        data.reason = str(e)
         counts["failure"] += 1
-
+    except asyncio.TimeoutError:
+        logger.error(f"Request to {data.url} failed because of timeout.")
+        data.status_code = None
+        data.reason = "Timeout"
+        counts["failure"] += 1
 
 async def update_content_async(doc_page, all_citations):
     async def update_content(content):
         if isinstance(content, DocSection):
             for item in content.content:
                 await update_content(item)
-        elif isinstance(content, DocBlock):
-            for sentence in content.sentences:
-                for ref in sentence.references:
-                    for processed_ref in all_citations:
-                        if (
-                            ref.url == processed_ref.url
-                        ):  # Match by updated URL (if redirected)
-                            ref.accessible = processed_ref.accessible
 
     for section in doc_page.content:
         await update_content(section)
@@ -150,7 +137,6 @@ async def process_references(
         return
 
     for json_file in json_files:
-        logger.info(f"📌 Processing file: {json_file.name}")
         await process_single_file(json_file, output_path)  # **同步调用**
         logger.info(f"✅ Finished processing: {json_file.name}")
 
@@ -186,7 +172,6 @@ async def process_single_file(input_file: Path, output_path: Path):
     with open(output_file, "w", encoding="utf-8") as fw:
         fw.write(doc_page.model_dump_json(indent=2))
 
-    logger.info(f"✅ Processed and saved: {output_file}")
 
 
 if __name__ == "__main__":

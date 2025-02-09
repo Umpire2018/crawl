@@ -50,17 +50,13 @@ async def transform_content(content) -> Union[DocSectionProcessed, DocBlockProce
                     id=sentence.id,
                     text=sentence.text,
                     references=[
-                        ref.url for ref in sentence.references if ref.accessible
+                        ref.url for ref in sentence.references if ref.status_code == 200
                     ],
                 )
                 for sentence in content.sentences
             ]
         )
 
-
-import asyncio
-from pathlib import Path
-from loguru import logger
 
 
 async def process_single_file(input_file: Path, output_dir: Path):

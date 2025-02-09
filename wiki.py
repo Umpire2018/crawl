@@ -1,43 +1,72 @@
 import requests
-import re
 from bs4 import BeautifulSoup
+import re
 
-
-def get_current_events_links(month_page):
-    """获取 Wikipedia `Portal:Current events/YYYY_Month` 页面中的 `current-events` 下的链接"""
-    url = "https://en.wikipedia.org/w/api.php"
-    params = {
-        "action": "parse",
-        "format": "json",
-        "page": f"Portal:Current events/{month_page}",
-        "prop": "text",
-        "redirects": True,
-    }
-
-    response = requests.get(url, params=params)
-    data = response.json()
-
-    if "parse" not in data:
-        print(f"❌ Failed to retrieve page: {month_page}")
+def get_yearly_events_links(year_page):
+    """获取 Wikipedia `year_page` 页面中的 `<ul>` 下的链接"""
+    url = f"https://en.wikipedia.org/wiki/{year_page}"
+    
+    response = requests.get(url)
+    if response.status_code != 200:
+        print(f"❌ Failed to retrieve page: {year_page}")
         return []
 
     # 解析 HTML
-    html_content = data["parse"]["text"]["*"]
-    soup = BeautifulSoup(html_content, "html.parser")
+    soup = BeautifulSoup(response.text, "html.parser")
 
-    # 提取 `class="current-events"` 的 <div>
-    current_events_divs = soup.find_all("div", class_="current-events")
+    # 排除 class="reflist" 所在的 <div> 内的所有链接
+    for reflist_div in soup.find_all("div", class_="reflist"):
+        for a in reflist_div.find_all("a", href=True):
+            a.extract()
+
+    # 提取所有 <ul> 标签
+    ul_tags = soup.find_all("ul")
 
     links = []
-    for div in current_events_divs:
-        for link in div.find_all("a", href=True):
+    excluded_patterns = re.compile(
+        r"Category:|"
+        r"Wikipedia:|"
+        r"Help:|"
+        r"Special:|"
+        r"Talk:|"
+        r"Portal:|"
+        r"Main_Page|"
+        r"Contents|"
+        r"Community_portal|"
+        r"File_upload_wizard|"
+        r"MyContributions|"
+        r"MyTalk|"
+        r"RecentChangesLinked/\d{4}|"
+        r"WhatLinksHere/\d{4}|"
+        r"\d{4}$|"         # /wiki/2024
+        r"\d{4}s|"         # /wiki/2020s
+        r"AD_\d{4}|"       # /wiki/AD_2024
+        r"Template:|"
+        r"Template_talk|"
+        r"Timeline_of|"
+        r"File:|"
+        r"List_of_.*|"     # /wiki/List_of_state_leaders_in_2024
+        r"\d{4}_in_.*|"    # /wiki/2024_in_religion
+        r"\d{1,2}(st|nd|rd|th)_century|"
+        r"(?:January|February|March|April|May|June|July|August|September|October|November|December)_\d{1,2}|" 
+        r".*#Timeline.*"   # 只要链接中包含 #Timeline 就排除
+    )
+    
+    for ul in ul_tags:
+        for link in ul.find_all("a", href=True):
             href = link["href"]
-
-            # 只保留 Wikipedia 内部链接
-            if href.startswith("/wiki/") and not re.search(
-                r":", href
-            ):  # 过滤 `Special:`, `File:`, `Help:` 等
-                full_url = f"https://en.wikipedia.org{href}"
+            full_url = f"https://en.wikipedia.org{href}"
+            
+            # 只保留 Wikipedia 内部链接，并排除日期、Category 以及特定链接
+            if href.startswith("/wiki/") and not excluded_patterns.search(href):
                 links.append(full_url)
-
+    
     return links
+
+# 运行示例
+if __name__ == "__main__":
+    year_page = "2024"
+    event_links = get_yearly_events_links(year_page)
+    print(f"Found {len(event_links)} links:")
+    for link in event_links[:100]:  # 仅显示前 10 个链接
+        print(link)

@@ -45,7 +45,7 @@ class Rewriter:
         )
         type_value = type_match.group(1) if type_match else None
 
-        return CitationData(text=text, url=url, accessible=None, type=type_value)
+        return CitationData(text=text, url=url, type=type_value)
 
     @staticmethod
     def block_build(x: str, sid: str, sc: int) -> Tuple[List[DocBlock], int]:
@@ -237,8 +237,6 @@ class Rewriter:
 
         for txt_file in input_dir.glob("*.txt"):
             try:
-                logger.info(f"Processing file: {txt_file.name}")
-
                 # 解析文件
                 parsed_json = Rewriter.parse_file(str(txt_file))
 

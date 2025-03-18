@@ -1,0 +1,1441 @@
+{
+  "title": "2024_Hualien_earthquake",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "On 3 April 2024, at 07:58:11 Time in Taiwan|NST (23:58:11 Coordinated Universal Time|UTC on 2 April), a {{M|w|link=y}} 7.4 earthquake struck {{cvt|15|km|mi}} south of Hualien City, Hualien County, Taiwan. At least 19 people were killed and over 1,100 were injured in the earthquake. It is the strongest earthquake in Taiwan since the 1999 Jiji earthquake, with three aftershocks above M<sub>w</sub> 6.0.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|title=M 7.4 – 15&nbsp;km S of Hualien City, Taiwan|publisher=Earthquake Hazards Program|url=https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9g4/executive|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403001604/https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9g4/executive|url-status=live}}</ref>",
+                  "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9g4/executive",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|first1=Chris|last1=Lau|first2=Antoinette|last2=Radford|date=4 April 2024|title=Taiwan earthquake live updates: Hundreds stranded after 7.4 magnitude quake|url=https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html|access-date=4 April 2024|publisher=CNN|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404065047/https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html|url-status=live}}</ref>",
+                  "url": "https://www.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Tectonic setting",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "{{Main article|Geography of Taiwan#Geology}}\nTaiwan has a history of strong earthquakes. The island is located within a complex Convergent boundary|zone of convergence between the Philippine Sea plate and Eurasian plate. At the location of the earthquake, these plates converge at a rate of {{convert|75|mm}} per year. To the south of Taiwan, oceanic crust of the Eurasian plate is subducting beneath the Philippine Sea plate creating an island arc, the Luzon Volcanic Arc|Luzon Arc. At Taiwan, the oceanic crust has all been subducted and the arc is colliding with continental crust of the Eurasian plate. To the north of Taiwan, the Philippine Sea plate is in contrast subducting beneath the Eurasian plate, forming the Ryukyu Arc.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|last1=Hume|first1=Tim|title=More than 50 people could be trapped inside this building|url=https://news.vice.com/en_us/article/7x7v8e/taiwan-earthquake-hualien|website=VICE News|access-date=8 February 2018|date=7 February 2018|archive-date=7 February 2018|archive-url=https://web.archive.org/web/20180207231926/https://news.vice.com/en_us/article/7x7v8e/taiwan-earthquake-hualien|url-status=live}}</ref>",
+                  "url": "https://news.vice.com/en_us/article/7x7v8e/taiwan-earthquake-hualien",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite journal|last1=Molli G.|last2=Malavieille J.|title=Orogenic processes and the Corsica/Apennines geodynamic evolution: insights from Taiwan|journal=International Journal of Earth Sciences|year=2010|volume=100|issue=5|pages=1207–1224|doi=10.1007/s00531-010-0598-y|s2cid=129517282}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "journal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Earthquake",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "Taiwan's Central Weather Administration (CWA) measured the earthquake's local magnitude at 7.2, while the United States Geological Survey (USGS) placed the earthquake at {{M|w}}7.4. It was the strongest earthquake to hit Taiwan since the 1999 Jiji earthquake, which measured {{M|w}}7.7.",
+              "references": [
+                {
+                  "text": "<ref name=\"Central Weather Administration\">{{cite web|title=019 4/3 7:58 ML 7.2 23.77N 121.67E, i.e. 25.0&nbsp;km SSE of Hualien County|url=https://scweb.cwa.gov.tw/en-us/earthquake/details/EE2024040307580972019|website=Central Weather Administration|access-date=3 April 2024|date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403190939/https://scweb.cwa.gov.tw/en-us/earthquake/details/EE2024040307580972019|url-status=live}}</ref>",
+                  "url": "https://scweb.cwa.gov.tw/en-us/earthquake/details/EE2024040307580972019",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"United States Geological Survey\">{{Cite web|author=National Earthquake Information Center|title=M 7.4 – 18&nbsp;km SSW of Hualien City, Taiwan|url=https://earthquake.usgs.gov/earthquakes/eventpage/pt24094050/executive|publisher=United States Geological Survey|date=3 April 2024|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014201/https://earthquake.usgs.gov/earthquakes/eventpage/pt24094050/executive|url-status=live}}</ref>",
+                  "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt24094050/executive",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.cnn.com/2024/04/02/asia/taiwan-earthquake-tsunami-warning-intl-hnk/index.html|title=Tsunami warnings issued after strong earthquake off east coast of Taiwan|publisher=CNN|date=3 April 2024|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403004219/https://www.cnn.com/2024/04/02/asia/taiwan-earthquake-tsunami-warning-intl-hnk/index.html|url-status=live}}</ref>",
+                  "url": "https://www.cnn.com/2024/04/02/asia/taiwan-earthquake-tsunami-warning-intl-hnk/index.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "At least 1,400 aftershocks were recorded following the earthquake. A {{M|w}}6.4 aftershock struck at 00:11 UTC, followed by a {{M|w}}5.7 event at 00:35, a {{M|w}}5.5 at 00:43 and a {{M|w}}5.7 at 00:46. On 22 April, a {{M|w}}5.8 event struck at 14:11, followed in the evening (early morning of 23 April Time in Taiwan|NST) by two large aftershocks that occurred south of Hualien City, both of them measuring {{M|w}}6.1. A {{M|w}}5.7 aftershock occurred near Taroko National Park on 26 April.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|date=10 May 2024|title=Magnitude 5.8 quake an aftershock of massive April temblor: CWA|url=https://focustaiwan.tw/society/202405100018|access-date=10 May 2024|website=Focus Taiwan}}</ref>",
+                  "url": "https://focustaiwan.tw/society/202405100018",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|author=National Earthquake Information Center|title=M 6.4 – 15&nbsp;km NNE of Hualien City, Taiwan|url=https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gc/executive|publisher=United States Geological Survey|date=3 April 2024|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403010349/https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gc/executive|url-status=live}}</ref>",
+                  "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gc/executive",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|author=National Earthquake Information Center|title=M 5.7 – 23&nbsp;km NNE of Hualien City, Taiwan|url=https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gh/executive|publisher=United States Geological Survey|date=3 April 2024|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014319/https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gh/executive|url-status=live}}</ref>",
+                  "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gh/executive",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|author=National Earthquake Information Center|title=M 5.5 – 2&nbsp;km SSW of Hualien City, Taiwan|url=https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gm/executive|publisher=United States Geological Survey|date=3 April 2024|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014202/https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gm/executive|url-status=live}}</ref>",
+                  "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gm/executive",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|author=National Earthquake Information Center|title=M 5.7 – 23&nbsp;km NE of Hualien City, Taiwan|url=https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gp/executive|publisher=United States Geological Survey|date=3 April 2024|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014202/https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gp/executive|url-status=live}}</ref>",
+                  "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gp/executive",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|author=National Earthquake Information Center|title=M 5.8 – 27&nbsp;km S of Hualien City, Taiwan|url=https://earthquake.usgs.gov/earthquakes/eventpage/us7000mduw/executive|publisher=United States Geological Survey|date=22 April 2024|access-date=22 April 2024}}</ref>",
+                  "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000mduw/executive",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|author=National Earthquake Information Center|title=M 6.1 – 29&nbsp;km S of Hualien City, Taiwan|url=https://earthquake.usgs.gov/earthquakes/eventpage/us6000mt0r/executive|publisher=United States Geological Survey|date=22 April 2024|access-date=22 April 2024}}</ref>",
+                  "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000mt0r/executive",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|author=National Earthquake Information Center|title=M 6.1 – 13&nbsp;km SSW of Hualien City, Taiwan|url=https://earthquake.usgs.gov/earthquakes/eventpage/us6000mt0s/executive|publisher=United States Geological Survey|date=22 April 2024|access-date=22 April 2024}}</ref>",
+                  "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000mt0s/executive",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|author=National Earthquake Information Center|title=M 5.7 – 19&nbsp;km NNE of Hualien City, Taiwan|url=https://earthquake.usgs.gov/earthquakes/eventpage/us6000mu3y/executive|publisher=United States Geological Survey|date=26 April 2024|access-date=26 April 2024}}</ref>",
+                  "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000mu3y/executive",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s3",
+              "text": "The earthquake had a maximum Central Weather Administration seismic intensity scale|CWA seismic intensity of 6+ in Hualien City and 5- in Taipei. Intensity 4 or higher was felt across much of the island except its southern extent, which felt intensities 2 to 3. In China, shaking was felt in Shanghai, Suzhou, Shenzhen, Guangzhou, Shantou, and parts of Fujian, It was also felt in Hong Kong and on the island of Yonaguni, Japan, where it measured ''Shindo'' 4 on the Japan Meteorological Agency seismic intensity scale.<ref name=\"M7\"/>",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|title=快訊/花蓮7.2地震！整棟大樓「整根拔起」倒塌 驚悚畫面曝光|url=https://news.tvbs.com.tw/life/2444251?from=life_content_pack|publisher=TVBS|date=3 April 2024|access-date=3 April 2024|language=zh|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014330/https://news.tvbs.com.tw/life/2444251?from=life_content_pack|url-status=live}}</ref>",
+                  "url": "https://news.tvbs.com.tw/life/2444251?from=life_content_pack",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Central Weather Administration\" /> At Taroko National Park, a maximum peak ground acceleration of 1,491.14 ''Gal (unit)|gal'' (1.52 ''g'') was recorded by a CWB station.<ref>{{cite web|title=第019號 4月3日7時58分 規模 7.1 花蓮縣政府南南西方 13.6 公里 (位於花蓮縣壽豐鄉)|url=https://scweb.cwa.gov.tw/zh-tw/earthquake/Parameters/2024040307580971019|access-date=13 February 2025|lang=zh|publisher=Central Weather Administration|date=3 April 2024}}</ref>",
+                  "url": "https://scweb.cwa.gov.tw/zh-tw/earthquake/Parameters/2024040307580971019",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Reuters\">{{Cite news|date=3 April 2024|title=Strong quake rocks Taiwan, tsunami warnings issued|url=https://www.reuters.com/world/asia-pacific/strong-72-magnitude-earthquake-hits-taipei-2024-04-03/|access-date=3 April 2024|work=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/world/asia-pacific/strong-72-magnitude-earthquake-hits-taipei-2024-04-03/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"South China Morning Post\"/> Zhejiang, and Jiangsu provinces.<ref name=\"Kyodo News-2\">{{Cite news|date=3 April 2024|title=M7.7 quake in Taiwan kills 9, injures more than 960|url=https://english.kyodonews.net/news/2024/04/7a869940ecb5-urgent-m75-quake-hits-off-taiwan-tsunami-alert-for-southwest-japan-isles.html|access-date=3 April 2024|work=Kyodo News|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403064009/https://english.kyodonews.net/news/2024/04/7a869940ecb5-urgent-m75-quake-hits-off-taiwan-tsunami-alert-for-southwest-japan-isles.html|url-status=live}}</ref>",
+                  "url": "https://english.kyodonews.net/news/2024/04/7a869940ecb5-urgent-m75-quake-hits-off-taiwan-tsunami-alert-for-southwest-japan-isles.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"France 24\">{{Cite news|date=3 April 2024|title=Nine dead, more than 1,000 injured in most powerful Taiwan quake in 25 years|url=https://www.france24.com/en/live-news/20240403-one-feared-dead-dozens-injured-in-most-powerful-taiwan-quake-in-25-years|access-date=3 April 2024|work=France 24|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403063337/https://www.france24.com/en/live-news/20240403-one-feared-dead-dozens-injured-in-most-powerful-taiwan-quake-in-25-years|url-status=live}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20240403-one-feared-dead-dozens-injured-in-most-powerful-taiwan-quake-in-25-years",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "3.s4",
+              "text": "The earthquake had a Focus (earthquake)|focal mechanism corresponding to reverse-faulting at a {{cvt|34.8|km}} depth. According to the USGS, the rupture occurred on a northeast–southwest-striking, moderately dipping, reverse fault within the Eurasian plate. The estimated rupture dimensions for a similarly sized reverse-faulting earthquake is {{cvt|60|km}} by {{cvt|35|km}}. Its finite fault model indicated rupture on an east-southeast dipping plane. The slip occurred within an elliptical rupture area {{cvt|60|km}} by {{cvt|60|km}} on the plane. The maximum displacement was estimated at {{Cvt|1.2471|m}}.",
+              "references": [
+                {
+                  "text": "<ref name=\"United States Geological Survey\"/> The shock's magnitude was identical to a 1986 Hualien earthquake|1986 earthquake that killed 15 people in Hualien.<ref>{{cite web|title=M 7.4 – 8&nbsp;km SSW of Hualien City, Taiwan|url=https://earthquake.usgs.gov/earthquakes/eventpage/usp0003009/executive|access-date=3 April 2024|publisher=United States Geological Survey|archive-date=3 April 2023|archive-url=https://web.archive.org/web/20230403155005/https://earthquake.usgs.gov/earthquakes/eventpage/usp0003009/executive|url-status=live}}</ref>",
+                  "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003009/executive",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s5",
+              "text": "The China Earthquake Administration (PRC) estimated the earthquake rupture process did not exceed 35 seconds in duration. The slip was distributed across a fault {{cvt|50|km}} across. According to their finite fault model, slip was mainly concentrated around the epicenter, reaching {{cvt|3|m}} of maximum displacement. The model's geometry consists of a northeast striking fault dipping at a shallow angle to the northwest. About {{cvt|1|m}} of slip occurred at the shallow part of the fault that reaches the seafloor off the island's coast. As of November 2024, Hualien City was still experiencing aftershocks.<ref name=\"auto\"/>\n{{maplink|frame=yes|frame-align=right|frame-width=|frame-height=|from=2024 Hualien earthquake.map|frame-latitude=24|frame-longitude=121.74|zoom=8|text=Main shock and aftershocks (c:Data:2024 Hualien earthquake.map|map data)}}",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|title=2024 Nián 4 yuè 3 rì táiwān shěng huālián xiàn hǎiyù 7.3 Jí dìzhèn kējì zhīchēng jiǎnbào|trans-title=Briefing on scientific and technological support for the 7.3-magnitude earthquake in the waters of Hualien County, Taiwan Province on April 3, 2024|script-title=zh:2024年4月3日台湾省花莲县海域7.3级地震科技支撑简报|url=https://www.cea-igp.ac.cn/kydt/280530.html|publisher=China Earthquake Administration|access-date=3 April 2024|language=zh|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403125623/https://www.cea-igp.ac.cn/kydt/280530.html|url-status=live}}</ref>",
+                  "url": "https://www.cea-igp.ac.cn/kydt/280530.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Tsunami",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "A tsunami was triggered by the earthquake, with a maximum height of {{cvt|1|m|ft}} in parts of Hualien City. The Ministry of Natural Resources (China)|Ministry of Natural Resources of the People's Republic of China issued a second-highest level orange tsunami alert, warning of potential localized waves that could cause significant damage in affected coastal areas.",
+              "references": [
+                {
+                  "text": "<ref name=\"NGDCTSUNAMI\"/> A {{Cvt|0.5|m}} wave was observed in Chenggong, Taitung, while an {{Cvt|82|cm}} surge was recorded in Wushi Harbor. The CWA issued an alert advising residents to evacuate to higher ground.<ref name=\"Chang\"/><ref>{{Cite web|date=3 April 2024|title=Strong earthquake hits Taiwan|url=https://www3.nhk.or.jp/nhkworld/en/news/backstories/3210/|access-date=3 April 2024|website=NHK|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403063418/https://www3.nhk.or.jp/nhkworld/en/news/backstories/3210/|url-status=live}}</ref>",
+                  "url": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/3210/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|author1=Zhang Yi|author2=Li Menghan|date=3 April 2024|title=Mainland offers aid to Taiwan after powerful earthquake|url=https://www.chinadaily.com.cn/a/202404/03/WS660cc9daa31082fc043c03d6.html|work=China Daily|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403063339/https://www.chinadaily.com.cn/a/202404/03/WS660cc9daa31082fc043c03d6.html|url-status=live}}</ref>",
+                  "url": "https://www.chinadaily.com.cn/a/202404/03/WS660cc9daa31082fc043c03d6.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "In the Philippines, evacuations were ordered by the National Disaster Risk Reduction and Management Council in the provinces of Batanes, Cagayan, Isabela (province)|Isabela and Ilocos Norte following a warning by the Philippine Institute of Volcanology and Seismology (PHIVOLCS). An advisory was issued to 23 provinces for \"high tsunami waves\" measuring {{Cvt|3|m}}, which was later reduced to {{Cvt|30|cm}}.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|title=Philippines warns of tsunami, orders evacuation of coastal areas after Taiwan quake|url=https://www.nst.com.my/world/region/2024/04/1033720/philippines-warns-tsunami-orders-evacuation-coastal-areas-after-taiwan|access-date=3 April 2024|agency=Agence France-Presse|work=New Straits Times|date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014203/https://www.nst.com.my/world/region/2024/04/1033720/philippines-warns-tsunami-orders-evacuation-coastal-areas-after-taiwan|url-status=live}}</ref>",
+                  "url": "https://www.nst.com.my/world/region/2024/04/1033720/philippines-warns-tsunami-orders-evacuation-coastal-areas-after-taiwan",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Reuters\" /><ref>{{Cite news|date=3 April 2024|title=Philippines warns of tsunami, orders evacuations after Taiwan quake|url=https://news.abs-cbn.com/news/2024/4/3/tsunami-waves-threaten-23-areas-in-philippines-after-m7-5-quake-847|url-status=live|access-date=3 April 2024|work=ABS-CBN News|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403015753/https://news.abs-cbn.com/news/2024/4/3/tsunami-waves-threaten-23-areas-in-philippines-after-m7-5-quake-847}}</ref>",
+                  "url": "https://news.abs-cbn.com/news/2024/4/3/tsunami-waves-threaten-23-areas-in-philippines-after-m7-5-quake-847",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Associated Press News-2\"/> At 10:03 (Philippine Standard Time|PST), the Pacific Tsunami Warning Center said \"the tsunami threat has now largely passed\", prompting PHIVOLCS to cancel the tsunami warning.<ref>{{Cite news|date=3 April 2024|title=Philippines cancels tsunami warning after Taiwan quake|url=https://news.abs-cbn.com/news/2024/4/3/philippines-lifts-tsunami-warning-after-taiwan-quake-1117|access-date=3 April 2024|work=ABS-CBN News}}</ref>",
+                  "url": "https://news.abs-cbn.com/news/2024/4/3/philippines-lifts-tsunami-warning-after-taiwan-quake-1117",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "{{Location map+|Taiwan|relief=1|width=300|float=right|caption=Maximum tsunami heights observed at different places in Taiwan|places=\n{{Location map~|Taiwan|relief=1\n | label=\n | lat=23.835\n | long=121.598\n | mark=Bullseye1.png\n | marksize=30\n | position=left}}\n{{Location map~|Taiwan|lat_deg=23.9806|lon_deg=121.6236|position=left|background=|label=<small>Hualien: {{cvt|1|m}}</small> }}\n{{Location map~|Taiwan|lat_deg=25.0975|lon_deg=121.9181|position=left|background=|label=<small>Longdong: {{cvt|22|cm}}</small> }}\n{{Location map~|Taiwan|lat_deg=23.0972|lon_deg=121.3799|position=left|background=|label=<small>Chenggong: {{cvt|54|cm}}</small> }}\n{{Location map~|Taiwan|lat_deg=24.2878|lon_deg=120.5331|position=left|background=|label=<small>Taichung port: {{cvt|27|cm}}</small> }}\n{{Location map~|Taiwan|lat_deg=23.45|lon_deg=120.1394|position=left|background=|label=<small>Dongshih: {{cvt|21|cm}}</small> }}\n{{Location map~|Taiwan|lat_deg=24.5925|lon_deg=121.8658|position=left|background=|label=<small>Suao: {{cvt|43|cm}}</small> }}\n{{Location map~|Taiwan|lat_deg=24.8686|lon_deg=121.8396|position=left|background=|label=<small>Wushi: {{cvt|82|cm}}</small> }}\n{{Location map~|Taiwan|lat_deg=25.2839|lon_deg=121.5103|position=left|background=|label=<small>Linshanbi: {{cvt|26|cm}}</small> }}\n}}",
+              "references": [
+                {
+                  "text": "<ref name=\"NGDCTSUNAMI\">{{Cite web|url=https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/runup-more-info/37832|title=National Geophysical Data Center / World Data Service (NGDC/WDS): NCEI/WDS Global Historical Tsunami Database|publisher=NOAA National Centers for Environmental Information|doi=10.7289/V5PN93H7|access-date=1 May 2024|author=NOAA|date=1972}}</ref>",
+                  "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/runup-more-info/37832",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|publisher=Central Weather Administration|title=中央氣象署海嘯警報(近海)解除|url=https://www.cwa.gov.tw/Data/Tsunami/TSU11300303.gif|access-date=3 April 2024|language=zh-tw|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403041213/https://www.cwa.gov.tw/Data/Tsunami/TSU11300303.gif|url-status=live}}</ref>",
+                  "url": "https://www.cwa.gov.tw/Data/Tsunami/TSU11300303.gif",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s4",
+              "text": "The Japan Meteorological Agency issued a tsunami warning for Okinawa Prefecture and as waves of {{Cvt|3|m}} were expected, which was later downgraded to a \"tsunami advisory\". A {{Cvt|30|cm}} wave was observed at Yonaguni about 15 minutes after the earthquake. Waves were also expected along the Miyako Islands|Miyako and Yaeyama Islands, The tsunami warning was the first to be issued in Okinawa Prefecture since the 2011 Tōhoku earthquake and tsunami, while the tsunami was the first to strike the area since 1998. The Japan Self-Defense Forces ordered its air assets at Naha Air Base to fly out or be moved to secure hangars or higher ground to prevent its possible destruction. China's Tsunami Warning Centre, which is under the Ministry of Natural Resources, issued its highest alert level at level 1, or red.<ref name=\"South China Morning Post\" />",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|title=Tsunami warning issued for Okinawa after strong quake hits near Taiwan|url=https://www.japantimes.co.jp/news/2024/04/03/japan/okinawa-tsunami-warning/|access-date=3 April 2024|work=The Japan Times|date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014317/https://www.japantimes.co.jp/news/2024/04/03/japan/okinawa-tsunami-warning/|url-status=live}}</ref>",
+                  "url": "https://www.japantimes.co.jp/news/2024/04/03/japan/okinawa-tsunami-warning/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=3 April 2024|title=Live: Taiwan hit by magnitude-7.5 earthquake, collapsing buildings|url=https://www.abc.net.au/news/2024-04-03/taiwan-blog-earthquake-tsunami-warning/103662440|access-date=3 April 2024|publisher=ABC News|location=Australia|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403040354/https://www.abc.net.au/news/2024-04-03/taiwan-blog-earthquake-tsunami-warning/103662440|url-status=live}}</ref>",
+                  "url": "https://www.abc.net.au/news/2024-04-03/taiwan-blog-earthquake-tsunami-warning/103662440",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"A strong earthquake rocks Taiwan\" /> with {{Cvt|20|cm}}-waves reaching the islands of Miyako-jima and Ishigaki Island|Ishigaki.<ref>{{Cite web|date=3 April 2024|title=Tsunami reaches areas of Okinawa, advisory in effect|url=https://www3.nhk.or.jp/nhkworld/en/news/20240403_17/|access-date=3 April 2024|website=NHK|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403063428/https://www3.nhk.or.jp/nhkworld/en/news/20240403_17/|url-status=live}}</ref>",
+                  "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240403_17/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|date=3 April 2024|title=Tsunami advisory lifted for areas of Okinawa|url=https://www3.nhk.or.jp/nhkworld/en/news/20240403_21/|access-date=3 April 2024|website=NHK|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403063337/https://www3.nhk.or.jp/nhkworld/en/news/20240403_21/|url-status=live}}</ref>",
+                  "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240403_21/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Chang\" /> These warnings prompted flight suspensions in Okinawa and Kagoshima Prefectures; evacuations to the third floors were held at Naha Airport and Miyako Airport.<ref>{{Cite web|date=3 April 2024|title=People in Okinawa evacuate from coast after quake, tsunami warning|url=https://www3.nhk.or.jp/nhkworld/en/news/20240403_19/|access-date=3 April 2024|website=NHK|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403063338/https://www3.nhk.or.jp/nhkworld/en/news/20240403_19/|url-status=live}}</ref>",
+                  "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240403_19/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|date=3 April 2024|title=Japan's Naha Airport on Okinawa has diverted all flights|url=https://edition.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/h_5cd10e6276d3d72ce13f5acca0002ec3|access-date=3 April 2024|publisher=CNN|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403040353/https://edition.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/h_5cd10e6276d3d72ce13f5acca0002ec3|url-status=live}}</ref>",
+                  "url": "https://edition.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/h_5cd10e6276d3d72ce13f5acca0002ec3",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|date=3 April 2024|title=Flights to and from Japan's Okinawa and Kagoshima regions suspended, Japan Airlines says|url=https://edition.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/h_e8572ac49ad7a0bade1bfdaadc3dc7ea|access-date=3 April 2024|publisher=CNN|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403024825/https://edition.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/h_e8572ac49ad7a0bade1bfdaadc3dc7ea|url-status=live}}</ref>",
+                  "url": "https://edition.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/h_e8572ac49ad7a0bade1bfdaadc3dc7ea",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|date=10 April 2024|title=SDF aircraft in Okinawa evacuated following tsunami warning after Taiwan quake|url=https://www3.nhk.or.jp/nhkworld/en/news/20240410_18/|access-date=10 April 2024|publisher=NHK|archive-date=10 April 2024|archive-url=https://web.archive.org/web/20240410095335/https://www3.nhk.or.jp/nhkworld/en/news/20240410_18/|url-status=live}}</ref>",
+                  "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240410_18/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Impact",
+      "content": [
+        {
+          "id": "5.1",
+          "title": "3 April",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.1.s1",
+                  "text": "Eighteen fatalities were initially reported, along with a total of 1,145 people injured and 442 others initially declared stranded. Two people were listed as missing, namely a couple carrying dual Australian and Singaporean nationality. In December 2024, a court in Hualien issued death certificates for the two missing, while the remains of one of them were found in January 2025. The National Fire Agency recorded at least 1,151 earthquake-related incidents.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"FocusTaiwan0426\">{{Cite news|date=26 April 2024|title=High school student injured in earthquake dies|url=https://focustaiwan.tw/society/202404250021|access-date=26 April 2024|work=Focus Taiwan}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404250021",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=台湾花莲地震已造成13人死亡1145人受伤|url=https://news.southcn.com/node_179d29f1ce/cfdc380820.shtml|access-date=6 April 2024|work=Southern News Network|date=6 April 2024|archive-date=6 April 2024|archive-url=https://web.archive.org/web/20240406192953/https://news.southcn.com/node_179d29f1ce/cfdc380820.shtml|url-status=live}}</ref>",
+                      "url": "https://news.southcn.com/node_179d29f1ce/cfdc380820.shtml",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=13 April 2024|title=Body of truck driver recovered, 2 still missing after Hualien quake|url=https://focustaiwan.tw/society/202404130009|access-date=13 April 2024|work=Focus Taiwan|archive-date=13 April 2024|archive-url=https://web.archive.org/web/20240413083816/https://focustaiwan.tw/society/202404130009|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404130009",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=7 April 2024|title=First group comprising 44 people evacuated from quake-hit Tianxiang|url=https://focustaiwan.tw/society/202404070012|access-date=7 April 2024|work=Focus Taiwan|archive-date=7 April 2024|archive-url=https://web.archive.org/web/20240407105243/https://focustaiwan.tw/society/202404070012|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404070012",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=26 January 2025 |title=Taroko Park remains identified as tourist missing since April 3 quake |url=https://focustaiwan.tw/society/202501260009 |access-date=26 January 2025 |work=Focus Taiwan}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202501260009",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"SET News\">{{cite news|date=3 April 2024|title=不斷更新/花蓮大樓尋獲1罹難者！7.2規模強震 全台9死963傷、152受困|url=https://www.setn.com/News.aspx?NewsID=1448849|access-date=3 April 2024|work=SET News|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403044936/https://www.setn.com/news.aspx?newsid=1448849|url-status=live}}</ref>",
+                      "url": "https://www.setn.com/News.aspx?NewsID=1448849",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=403大地震》1900統計：9死946傷137受困 全台災情1151件|url=https://tw.news.yahoo.com/403%E5%A4%A7%E5%9C%B0%E9%9C%87-1900%E7%B5%B1%E8%A8%88-9%E6%AD%BB946%E5%82%B7137%E5%8F%97%E5%9B%B0-%E5%85%A8%E5%8F%B0%E7%81%BD%E6%83%851151%E4%BB%B6-114725888.html|access-date=3 April 2024|publisher=Yahoo News Taiwan|date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403115914/https://tw.news.yahoo.com/403%E5%A4%A7%E5%9C%B0%E9%9C%87-1900%E7%B5%B1%E8%A8%88-9%E6%AD%BB946%E5%82%B7137%E5%8F%97%E5%9B%B0-%E5%85%A8%E5%8F%B0%E7%81%BD%E6%83%851151%E4%BB%B6-114725888.html|url-status=live}}</ref>",
+                      "url": "https://tw.news.yahoo.com/403%E5%A4%A7%E5%9C%B0%E9%9C%87-1900%E7%B5%B1%E8%A8%88-9%E6%AD%BB946%E5%82%B7137%E5%8F%97%E5%9B%B0-%E5%85%A8%E5%8F%B0%E7%81%BD%E6%83%851151%E4%BB%B6-114725888.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.1.s2",
+                  "text": "All fatalities occurred in Hualien County; most of the dead were killed in Taroko National Park, including ten hikers who were caught in rockfalls on Dekalun Trail, Xiaozhuilu Trail, and Shakadang Trail. This also included five members of the same family. Five people died after rockfalls occurred along the Central Cross-Island Highway and the Suhua Highway, A woman in Hualien City died after she returned to her building to retrieve her cat, during which she was pinned down by a column following an aftershock. Five cats trapped in the building, including the deceased woman's cat, were later found alive and were rescued.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"SET News\"/><ref name=\"focus16\">{{Cite news|date=10 April 2024|title=Two bodies retrieved, three more found on Shakadang Trail one week post-quake|url=https://focustaiwan.tw/society/202404100021|access-date=10 April 2024|work=Focus Taiwan|archive-date=10 April 2024|archive-url=https://web.archive.org/web/20240410173411/https://focustaiwan.tw/society/202404100021|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404100021",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"SET News\"/><ref name=\"FocusTaiwan0426\"/> while two fatalities occurred inside mining areas of Xiulin, Hualien|Xiulin after rockfalls.<ref name=\"Focus Taiwan-4\">{{Cite news|date=3 April 2024|title=Death toll rises to 9, over 800 injured in Hualien earthquake|url=https://focustaiwan.tw/society/202404030017|access-date=3 April 2024|work=Focus Taiwan|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403130025/https://focustaiwan.tw/society/202404030017|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404030017",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|url=https://www.taipeitimes.com/News/taiwan/archives/2024/04/14/2003816405|title=Body of quake victim found in Hualien quarry|work=Taipei Times|date=14 April 2024|access-date=27 April 2024}}</ref>",
+                      "url": "https://www.taipeitimes.com/News/taiwan/archives/2024/04/14/2003816405",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=3 April 2024|title=Woman dies attempting to rescue cat from quake-hit building|url=https://focustaiwan.tw/society/202404030020|access-date=3 April 2024|work=Focus Taiwan|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403130332/https://focustaiwan.tw/society/202404030020|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404030020",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=10 April 2024|title=Cat whose owner died trying to save it spotted in building|url=https://focustaiwan.tw/society/202404100008|access-date=10 April 2024|work=Focus Taiwan|archive-date=10 April 2024|archive-url=https://web.archive.org/web/20240410080822/https://focustaiwan.tw/society/202404100008|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404100008",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|url=https://www.ftvnews.com.tw/news/detail/2024419N05M1|title=好消息！「歐膩」成功誘捕 天王星「5隻貓、雞群」全數平安|work=FTV News|language=zh|date=19 April 2024|access-date=27 April 2024}}</ref>",
+                      "url": "https://www.ftvnews.com.tw/news/detail/2024419N05M1",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.1.s3",
+                  "text": "Taiwan's Earthquake warning system|earthquake alert system did not send an advance alert of the mainshock, unlike in previous instances. Authorities later said that they had initially estimated the earthquake to be of a smaller magnitude ranging between 6.2 and 6.8. The CWA Seismology Center later clarified that it had sent out two alerts that covered the immediate area of the epicenter as well as parts of southern and central Taiwan but not the Taipei area, adding that conditions for issuing a national-level warning depended on the earthquake measuring a magnitude above five and its intensity reaching four on the CWA's seven-level scale.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news|title=Taiwan hit by strong quake as tsunami threat recedes in Japan, Philippines|url=https://www.aljazeera.com/news/2024/4/3/japan-issues-tsunami-alert-after-7-5-magnitude-earthquake|access-date=3 April 2024|publisher=Al Jazeera|date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403010838/https://www.aljazeera.com/news/2024/4/3/japan-issues-tsunami-alert-after-7-5-magnitude-earthquake|url-status=live}}</ref>",
+                      "url": "https://www.aljazeera.com/news/2024/4/3/japan-issues-tsunami-alert-after-7-5-magnitude-earthquake",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Associated Press\">{{Cite news|date=4 April 2024|title=Rescuers in Taiwan search for those missing or stranded after major earthquake kills 10|url=https://apnews.com/article/taiwan-earthquake-hualien-taroko-park-f7e6df36441dc3cde69038e0744aa01d|access-date=4 April 2024|work=Associated Press News|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404042041/https://apnews.com/article/taiwan-earthquake-hualien-taroko-park-f7e6df36441dc3cde69038e0744aa01d|url-status=live}}</ref>",
+                      "url": "https://apnews.com/article/taiwan-earthquake-hualien-taroko-park-f7e6df36441dc3cde69038e0744aa01d",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Focus Taiwan-3\">{{Cite news|date=5 April 2024|title=Taiwan to consider issuing nationwide quake alert more widely: CWA|url=https://focustaiwan.tw/society/202404040018|access-date=5 April 2024|work=Focus Taiwan|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404173457/https://focustaiwan.tw/society/202404040018|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404040018",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.1.s4",
+                  "text": "Six hundred people were stranded in Taroko National Park. while 40 others were injured. Injuries were also reported across Hualien City, Yilan City|Yilan, Taipei, New Taipei City, Keelung, Taichung and Taoyuan, Taiwan|Taoyuan due to falls or toppled objects. Sixty people were trapped inside the {{Cvt|400|m}} Jinwen Tunnel along the Suhua Highway, while 50 employees of the Silk's Place Hotel Taroko who were traveling in four minibuses were also declared trapped after none of them could be contacted by authorities over the phone. A rescued employee later said that their convoy had been trapped in a tunnel following a rockfall and that the vehicle she was in was severely damaged by a rock. Seventy people were also trapped in two rock quarries, while nine people were trapped inside a cave.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"Nine dead\"/> Twelve park visitors, including two Canadian nationals, were stranded along a trail,<ref name=\"Chang\">{{cite news|last1=Chang|first1=Wayne|last2=Regan|first2=Helen|title=Taiwan searches for dozens trapped by strongest quake in 25 years as casualties mount|url=https://edition.cnn.com/2024/04/02/asia/taiwan-earthquake-tsunami-warning-intl-hnk/index.html|access-date=3 April 2024|publisher=CNN|date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403010031/https://edition.cnn.com/2024/04/02/asia/taiwan-earthquake-tsunami-warning-intl-hnk/index.html|url-status=live}}</ref>",
+                      "url": "https://edition.cnn.com/2024/04/02/asia/taiwan-earthquake-tsunami-warning-intl-hnk/index.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"South China Morning Post\">{{cite news|last1=Chung|first1=Lawrence|last2=Liang|first2=Xinlu|title=Taiwan toll rises to 7 dead, 736 injured after 7.3 magnitude earthquake rocks island and sparks tsunami warnings|url=https://www.scmp.com/news/china/article/3257638/73-magnitude-earthquake-rocks-taiwan-collapsing-buildings|access-date=3 April 2024|work=South China Morning Post|date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403063840/https://www.scmp.com/news/china/article/3257638/73-magnitude-earthquake-rocks-taiwan-collapsing-buildings|url-status=live}}</ref>",
+                      "url": "https://www.scmp.com/news/china/article/3257638/73-magnitude-earthquake-rocks-taiwan-collapsing-buildings",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Focus Taiwan-7\">{{cite news|title=Hualien earthquake leaves 4 dead, 57 injured|url=https://focustaiwan.tw/society/202404030009|access-date=3 April 2024|work=Focus Taiwan|date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403064215/https://focustaiwan.tw/society/202404030009|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404030009",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Chang\"/> The hotel management later said that the employees were safe, citing three staff who had reached the hotel on foot.<ref name=\"Nine dead\">{{cite news|title=Nine dead, over 1,000 injured as earthquake rescue operations continue|url=https://focustaiwan.tw/society/202404030028|access-date=3 April 2024|agency=Focus Taiwan|date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403162000/https://focustaiwan.tw/society/202404030028|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404030028",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Focus Taiwan-8\"/> The road immediately outside the Qingshui Tunnel caved in, trapping several people inside.<ref name=\"Wingfield-Hayes\">{{cite news|last1=Wingfield-Hayes|first1=Rupert|last2=Ng|first2=Kelly|title=Taiwan: Rescue efforts continue after 700 injured in earthquake|url=https://www.bbc.com/news/world-asia-68719996|access-date=3 April 2024|publisher=BBC|date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403030157/https://www.bbc.com/news/world-asia-68719996|url-status=live}}</ref>",
+                      "url": "https://www.bbc.com/news/world-asia-68719996",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Associated Press News\">{{cite news|last1=Bodeen|first1=Christopher|last2=Lai|first2=Johnson|title=Strongest earthquake in 25 years rocks Taiwan, killing 9 people and trapping 70 workers in quarries|url=https://apnews.com/article/taiwan-earthquake-tsunami-f086aac0c3082036d1ca77c01828fb28|access-date=3 April 2024|work=Associated Press News|date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014323/https://apnews.com/article/taiwan-earthquake-tsunami-f086aac0c3082036d1ca77c01828fb28|url-status=live}}</ref>",
+                      "url": "https://apnews.com/article/taiwan-earthquake-tsunami-f086aac0c3082036d1ca77c01828fb28",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|last1=Zhao|first1=Yan|last2=Wang|first2=Amber|title=Taiwan Rescuers Free Nine From Cave After Quake|url=https://www.barrons.com/news/taiwan-rescuers-free-nine-from-cave-after-quake-b019a66c|access-date=5 April 2024|agency=Barron's|date=5 April 2024|archive-date=5 April 2024|archive-url=https://web.archive.org/web/20240405152109/https://www.barrons.com/news/taiwan-rescuers-free-nine-from-cave-after-quake-b019a66c|url-status=live}}</ref>",
+                      "url": "https://www.barrons.com/news/taiwan-rescuers-free-nine-from-cave-after-quake-b019a66c",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.1.s5",
+                  "text": "The Central Emergency Operation Center reported at least 2,498 cases of damage nationwide following the earthquake, with 1,140 instances in Taipei, 497 in New Taipei and 366 in Hualien County. At least 111 structures were destroyed, while 1,939 houses, 870 buildings and 75 roads and tunnels were damaged by the earthquake. Of the 28 reported building collapses, 17 of them occurred in Hualien, while the other 11 occurred in Yilan, New Taipei and Keelung. Twelve buildings deemed unsafe were ordered demolished by authorities. In Hualien City, two houses, the nine-story Uranus building and a restaurant collapsed, trapping many people inside. One person was found dead Forty-eight residential buildings in the city were damaged, At least 200 residents living near the epicenter were displaced.<ref name=\"Associated Press\"/> A total of 1,400 households in Hualien County were damaged.<ref name=\"NHK-2\"/>",
+                  "references": [
+                    {
+                      "text": "<ref name=\"Focus Taiwan-6\">{{cite news|title=41 still missing inside Taroko National Park following quake|url=https://focustaiwan.tw/society/202404040006|access-date=4 April 2024|work=Focus Taiwan|date=4 April 2024|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404105152/https://focustaiwan.tw/society/202404040006|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404040006",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"NGDC\">{{Cite web|url=https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/10737|title=National Geophysical Data Center / World Data Service (NGDC/WDS): NCEI/WDS Global Significant Earthquake Database|publisher=NOAA National Centers for Environmental Information|doi=10.7289/V5TD9V7K|access-date=1 May 2024|author=NOAA|date=1972}}</ref>",
+                      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/10737",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"NHK-2\">{{cite news|title=Taiwan earthquake: Authorities race to spur recovery|url=https://www3.nhk.or.jp/nhkworld/en/news/20240410_03/|access-date=10 April 2024|work=NHK|date=10 April 2024|archive-date=10 April 2024|archive-url=https://web.archive.org/web/20240410021506/https://www3.nhk.or.jp/nhkworld/en/news/20240410_03/|url-status=live}}</ref>",
+                      "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240410_03/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Focus Taiwan-4\"/> Collapses trapped at least 20 people in the immediate aftermath.<ref>{{cite news|last1=Blanchard|first1=Ben|last2=Lee|first2=Yimou|title=Taiwan hit by strongest quake in 25 years, four deaths reported|url=https://www.reuters.com/world/asia-pacific/strong-72-magnitude-earthquake-hits-taipei-2024-04-03/|access-date=3 April 2024|work=Reuters|date=3 April 2024}}</ref>",
+                      "url": "https://www.reuters.com/world/asia-pacific/strong-72-magnitude-earthquake-hits-taipei-2024-04-03/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=Dozens rescued after major Taiwan quake but more than 600 still cut off|url=https://edition.cnn.com/2024/04/03/asia/taiwan-hualien-earthquake-rescue-efforts-intl-hnk/index.html|access-date=4 April 2024|publisher=CNN|date=4 April 2024|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404054500/https://edition.cnn.com/2024/04/03/asia/taiwan-hualien-earthquake-rescue-efforts-intl-hnk/index.html|url-status=live}}</ref>",
+                      "url": "https://edition.cnn.com/2024/04/03/asia/taiwan-hualien-earthquake-rescue-efforts-intl-hnk/index.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=0403花蓮地震 本報記者現場直擊 9層大樓傾倒 地下室3人受困|url=https://udn.com/news/story/123995/7874083|publisher=United Daily News|date=3 April 2024|access-date=3 April 2024|language=zh|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014319/https://udn.com/news/story/123995/7874083|url-status=live}}</ref>",
+                      "url": "https://udn.com/news/story/123995/7874083",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=大地震！花蓮2棟民宅倒塌「屋內人數不明」 當地警消搶救中|url=https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%A4%A7%E5%9C%B0%E9%9C%87-%E8%8A%B1%E8%93%AE%E6%B0%91%E5%AE%85%E8%BD%9F%E7%84%B6%E5%80%92%E5%A1%8C%E5%B1%8B%E5%85%A7%E4%BA%BA%E6%95%B8%E4%B8%8D%E6%98%8E-%E7%95%B6%E5%9C%B0%E8%AD%A6%E6%B6%88%E6%90%B6%E6%95%91%E4%B8%AD-004518705.html|publisher=Yahoo Kimo|date=3 April 2024|access-date=3 April 2024|language=zh|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014209/https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%A4%A7%E5%9C%B0%E9%9C%87-%E8%8A%B1%E8%93%AE%E6%B0%91%E5%AE%85%E8%BD%9F%E7%84%B6%E5%80%92%E5%A1%8C%E5%B1%8B%E5%85%A7%E4%BA%BA%E6%95%B8%E4%B8%8D%E6%98%8E-%E7%95%B6%E5%9C%B0%E8%AD%A6%E6%B6%88%E6%90%B6%E6%95%91%E4%B8%AD-004518705.html|url-status=live}}</ref>",
+                      "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%A4%A7%E5%9C%B0%E9%9C%87-%E8%8A%B1%E8%93%AE%E6%B0%91%E5%AE%85%E8%BD%9F%E7%84%B6%E5%80%92%E5%A1%8C%E5%B1%8B%E5%85%A7%E4%BA%BA%E6%95%B8%E4%B8%8D%E6%98%8E-%E7%95%B6%E5%9C%B0%E8%AD%A6%E6%B6%88%E6%90%B6%E6%95%91%E4%B8%AD-004518705.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"SET News\"/> while 22 others were later rescued from the Uranus building,<ref name=\"Chang\"/> which was built in 1986 prior to the introduction of more stringent building codes in the wake of the 1999 Jiji earthquake and was found to be lacking supporting ground-floor front pillars.<ref name=\"NHK\">{{cite news|title=Building left sharply tilted by quake in Taiwan's Hualien City to be demolished|url=https://www3.nhk.or.jp/nhkworld/en/news/20240405_03/|access-date=5 April 2024|work=NHK|date=5 April 2024|archive-date=6 April 2024|archive-url=https://web.archive.org/web/20240406192953/https://www3.nhk.or.jp/nhkworld/en/news/20240405_03/|url-status=live}}</ref>",
+                      "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240405_03/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Associated Press\"/> and the National Hualien Girls' Senior High School also sustained heavy damage.<ref>{{Cite web|date=4 April 2024|title=國立花蓮女子高級中學外觀 (圖)|url=https://tw.news.yahoo.com/%E5%9C%8B%E7%AB%8B%E8%8A%B1%E8%93%AE%E5%A5%B3%E5%AD%90%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8%E5%A4%96%E8%A7%80-%E5%9C%96-032754507.html|access-date=5 April 2024|publisher=Yahoo News|language=zh-Hant-TW|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404203438/https://tw.news.yahoo.com/%E5%9C%8B%E7%AB%8B%E8%8A%B1%E8%93%AE%E5%A5%B3%E5%AD%90%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8%E5%A4%96%E8%A7%80-%E5%9C%96-032754507.html|url-status=live}}</ref>",
+                      "url": "https://tw.news.yahoo.com/%E5%9C%8B%E7%AB%8B%E8%8A%B1%E8%93%AE%E5%A5%B3%E5%AD%90%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8%E5%A4%96%E8%A7%80-%E5%9C%96-032754507.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=花蓮7.2大地震！花蓮女中校舍驚傳塌陷 鋼筋外露「現場畫面」曝|url=https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE7-2%E5%A4%A7%E5%9C%B0%E9%9C%87-%E8%8A%B1%E8%93%AE%E5%A5%B3%E4%B8%AD%E6%A0%A1%E8%88%8D%E9%A9%9A%E5%82%B3%E5%A1%8C%E9%99%B7-%E9%8B%BC%E7%AD%8B%E5%A4%96%E9%9C%B2-%E7%8F%BE%E5%A0%B4%E7%95%AB%E9%9D%A2-014013193.html|publisher=Yahoo Kimo|date=3 April 2024|access-date=3 April 2024|language=zh|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403015253/https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE7-2%E5%A4%A7%E5%9C%B0%E9%9C%87-%E8%8A%B1%E8%93%AE%E5%A5%B3%E4%B8%AD%E6%A0%A1%E8%88%8D%E9%A9%9A%E5%82%B3%E5%A1%8C%E9%99%B7-%E9%8B%BC%E7%AD%8B%E5%A4%96%E9%9C%B2-%E7%8F%BE%E5%A0%B4%E7%95%AB%E9%9D%A2-014013193.html|url-status=live}}</ref>",
+                      "url": "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE7-2%E5%A4%A7%E5%9C%B0%E9%9C%87-%E8%8A%B1%E8%93%AE%E5%A5%B3%E4%B8%AD%E6%A0%A1%E8%88%8D%E9%A9%9A%E5%82%B3%E5%A1%8C%E9%99%B7-%E9%8B%BC%E7%AD%8B%E5%A4%96%E9%9C%B2-%E7%8F%BE%E5%A0%B4%E7%95%AB%E9%9D%A2-014013193.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.1.s6",
+                  "text": "In Taipei, 249 people were injured, six of them seriously, and 10 houses were severely damaged. A warehouse collapsed in New Taipei City, causing three minor injuries. Fifty people were subsequently rescued from the building. The Legislative Yuan building also sustained damage to its walls and ceilings, while debris fell from the Liberty Square (Taipei)|Liberty Square archway of Chiang Kai-shek Memorial Hall. A viaduct of the Circular line (New Taipei Metro)|New Taipei Circular line between Banxin metro station|Banxin and Zhongyuan metro station|Zhongyuan stations was disaligned, while a train was derailed at Jingan metro station|Jingan station, damaging the station platform and track bed. All service on the Taipei Metro was briefly suspended for safety checks. Nevertheless, train service through the epicenter region was restored within 24 hours. A portion of the ceiling in Taoyuan International Airport collapsed. In Nantou County, 66 schools submitted disaster reports and nine residential homes sustained damage.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news|title=花蓮大地震/新北累計391起災情 10屋嚴重毀損、6重傷|url=https://udn.com/news/story/7323/7876305|publisher=United Daily News|date=3 April 2024|access-date=3 April 2024|language=zh|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403124038/https://udn.com/news/story/7323/7876305|url-status=live}}</ref>",
+                      "url": "https://udn.com/news/story/7323/7876305",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=0403花蓮大地震 中和倉庫倒塌！ 3人受傷1人待援|url=https://udn.com/news/story/123995/7874069|publisher=United Daily News|date=3 April 2024|access-date=3 April 2024|language=zh|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014206/https://udn.com/news/story/123995/7874069|url-status=live}}</ref>",
+                      "url": "https://udn.com/news/story/123995/7874069",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"France 24\"/> Tiles were dislodged and fell off older buildings and some newer structures in the capital.<ref name=\"A strong earthquake rocks Taiwan\">{{cite news|title=A strong earthquake rocks Taiwan, collapsing buildings and causing a tsunami|url=https://www.cnbc.com/2024/04/03/taiwan-earthquake-updates.html|access-date=3 April 2024|agency=Associated Press|publisher=CNBC|date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403005937/https://www.cnbc.com/2024/04/03/taiwan-earthquake-updates.html|url-status=live}}</ref>",
+                      "url": "https://www.cnbc.com/2024/04/03/taiwan-earthquake-updates.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Associated Press News-2\">{{cite news|last1=Bodeen|first1=Christopher|title=Taiwan's strongest earthquake in nearly 25 years damages buildings, leaving 7 dead|url=https://apnews.com/article/taiwan-earthquake-tsunami-f086aac0c3082036d1ca77c01828fb28|access-date=3 April 2024|work=Associated Press News|date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014323/https://apnews.com/article/taiwan-earthquake-tsunami-f086aac0c3082036d1ca77c01828fb28|url-status=live}}</ref>",
+                      "url": "https://apnews.com/article/taiwan-earthquake-tsunami-f086aac0c3082036d1ca77c01828fb28",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"M7\"/> Subsidence in Xindian District caused seven houses to collapse, forcing 12 people to evacuate.<ref>{{cite news|title=0403大地震/新店安泰路傳7棟房屋下陷 疏散12人|url=https://udn.com/news/story/7320/7874124|publisher=United Daily News|date=3 April 2024|access-date=3 April 2024|language=zh|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403015146/https://udn.com/news/story/7320/7874124|url-status=live}}</ref>",
+                      "url": "https://udn.com/news/story/7320/7874124",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"mrt\"/><ref>{{Cite web|url=https://news.ltn.com.tw/news/life/breakingnews/4628419|title=花蓮強震》新北捷運環狀線疑歪斜 乘客疏散畫面曝光|date=3 April 2024|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403040608/https://news.ltn.com.tw/news/life/breakingnews/4628419|url-status=live}}</ref>",
+                      "url": "https://news.ltn.com.tw/news/life/breakingnews/4628419",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|last=Feng|first=Emily|date=4 April 2024|title=Taiwan emerges remarkably unscathed after massive earthquake|url=https://www.npr.org/2024/04/04/1242721841/taiwan-emerges-remarkably-unscathed-after-massive-earthquake|url-status=live|archive-url=https://web.archive.org/web/20240404092436/https://www.npr.org/2024/04/04/1242721841/taiwan-emerges-remarkably-unscathed-after-massive-earthquake|archive-date=4 April 2024|access-date=5 April 2024|publisher=NPR}}</ref>",
+                      "url": "https://www.npr.org/2024/04/04/1242721841/taiwan-emerges-remarkably-unscathed-after-massive-earthquake",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"South China Morning Post\"/> Another 68 people were injured in Yilan City, where walls collapsed and water pipes ruptured.<ref>{{cite news|title=花蓮大地震/宜蘭68人受傷就醫 林姿妙慰問傷者送紅包|url=https://money.udn.com/money/story/7307/7876714?from=edn_newest_index|publisher=United Daily News|date=3 April 2024|access-date=3 April 2024|language=zh|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403160247/https://money.udn.com/money/story/7307/7876714?from=edn_newest_index|url-status=live}}</ref>",
+                      "url": "https://money.udn.com/money/story/7307/7876714?from=edn_newest_index",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=南投66校9民宅因地震受損 許淑華再籲國6延伸、籌建台14線支線|url=https://www.ettoday.net/news/20240408/2715618.htm|website=ETtoday|date=8 April 2024|access-date=8 April 2024|language=zh|archive-date=8 April 2024|archive-url=https://web.archive.org/web/20240408102904/https://www.ettoday.net/news/20240408/2715618.htm|url-status=live}}</ref>",
+                      "url": "https://www.ettoday.net/news/20240408/2715618.htm",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.1.s7",
+                  "text": "Power outages affected 371,869 homes in Taiwan according to the Ministry of Economic Affairs (Taiwan)|Ministry of Economic Affairs, Electricity was restored in 70 percent of households within two hours of the earthquake by Taipower, Eighty cell phone base stations were damaged. No anomalies were recorded in any of Taiwan's Nuclear power in Taiwan|three nuclear plants.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"Nine dead\"/> of which, 14,833 were in Taichung; 5,306 were restored within approximately 25 minutes of the earthquake.<ref>{{cite news|title=影/0403大地震 台中9千多戶停電 山城住戶：嚇到腿軟|url=https://udn.com/news/story/123995/7874029|publisher=United Daily News|date=3 April 2024|access-date=3 April 2024|language=zh|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014206/https://udn.com/news/story/123995/7874029|url-status=live}}</ref>",
+                      "url": "https://udn.com/news/story/123995/7874029",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Focus Taiwan-5\"/> leaving around 91,000 homes without power.<ref name=\"Chang\"/> By the morning of 4 April, the number was reduced to 337.<ref name=\"Focus Taiwan-6\"/> Water shortages affected 125,675 households,<ref name=\"Nine dead\"/> while outages of natural gas affecting 394 households<ref name=\"Focus Taiwan-6\"/> and internet disruptions were also reported.<ref>{{Cite news|date=3 April 2024|title=Taiwan quake leaves one dead, at least 50 injured|url=https://www3.nhk.or.jp/nhkworld/en/news/20240403_23/|access-date=3 April 2024|work=NHK|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403063843/https://www3.nhk.or.jp/nhkworld/en/news/20240403_23/|url-status=live}}</ref>",
+                      "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240403_23/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=3 April 2024|title=Four dead as strongest earthquake in 25 years hits Taiwan|url=https://www.bbc.com/news/world-asia-68719996|access-date=3 April 2024|publisher=BBC News|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403030157/https://www.bbc.com/news/world-asia-68719996|url-status=live}}</ref>",
+                      "url": "https://www.bbc.com/news/world-asia-68719996",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Nine dead\"/> There were reports of damaged walls, debris and toppled bricks across much of the island.<ref name=\"South China Morning Post\" /> Taiwan High Speed Rail|High-speed railway services across Taiwan were partially suspended and major expressways in the eastern part of the island were closed.<ref name=\"M7\">{{Cite news|date=3 April 2024|title=M7.7 quake in Taiwan kills 1, injures more than 50|url=https://english.kyodonews.net/news/2024/04/7a869940ecb5-urgent-m75-quake-hits-off-taiwan-tsunami-alert-for-southwest-japan-isles.html|access-date=3 April 2024|agency=Kyodo News|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403064009/https://english.kyodonews.net/news/2024/04/7a869940ecb5-urgent-m75-quake-hits-off-taiwan-tsunami-alert-for-southwest-japan-isles.html|url-status=live}}</ref>",
+                      "url": "https://english.kyodonews.net/news/2024/04/7a869940ecb5-urgent-m75-quake-hits-off-taiwan-tsunami-alert-for-southwest-japan-isles.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=3 April 2024|title=Third nuclear power plant not affected by massive earthquake|url=https://focustaiwan.tw/society/202404030008|access-date=3 April 2024|work=Focus Taiwan|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403065139/https://focustaiwan.tw/society/202404030008|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404030008",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.1.s8",
+                  "text": "A total of 779 landslides were recorded following the earthquake, affecting 433.93 hectares. The Suhua Highway was closed after sections of it were struck by at least nine rockfalls. Rockfalls occurred on another highway which hit at least 12 cars and injured nine people. A landslide along Provincial Highway 9 (Taiwan)|Provincial Highway 9 between Su'ao and Hualien blocked traffic at Chongde railway station, while a rockfall also occurred in the Heren railway station|Heren-Chongde section of the Eastern Trunk line in Hualien. A section of the Central Cross-Island Highway between Dayuling and Taroko was also closed. A portion of Guishan Island (Yilan)|Guishan Island collapsed into the sea.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"focus16\"/> A massive landslide occurred near Xiulin, Hualien|Xiulin.<ref>{{cite news|title=快訊/7.2地震花蓮崇德山崩 石塊高處掉落塵土飛揚恐怖畫面曝|url=https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-7-2%E5%9C%B0%E9%9C%87%E8%8A%B1%E8%93%AE%E5%B4%87%E5%BE%B7%E5%B1%B1%E5%B4%A9-%E7%9F%B3%E5%A1%8A%E9%AB%98%E8%99%95%E6%8E%89%E8%90%BD%E5%A1%B5%E5%9C%9F%E9%A3%9B%E6%8F%9A%E6%81%90%E6%80%96%E7%95%AB%E9%9D%A2%E6%9B%9D-005349284.html|publisher=Yahoo Kimo|date=3 April 2024|access-date=3 April 2024|language=zh|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403014329/https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-7-2%E5%9C%B0%E9%9C%87%E8%8A%B1%E8%93%AE%E5%B4%87%E5%BE%B7%E5%B1%B1%E5%B4%A9-%E7%9F%B3%E5%A1%8A%E9%AB%98%E8%99%95%E6%8E%89%E8%90%BD%E5%A1%B5%E5%9C%9F%E9%A3%9B%E6%8F%9A%E6%81%90%E6%80%96%E7%95%AB%E9%9D%A2%E6%9B%9D-005349284.html|url-status=live}}</ref>",
+                      "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-7-2%E5%9C%B0%E9%9C%87%E8%8A%B1%E8%93%AE%E5%B4%87%E5%BE%B7%E5%B1%B1%E5%B4%A9-%E7%9F%B3%E5%A1%8A%E9%AB%98%E8%99%95%E6%8E%89%E8%90%BD%E5%A1%B5%E5%9C%9F%E9%A3%9B%E6%8F%9A%E6%81%90%E6%80%96%E7%95%AB%E9%9D%A2%E6%9B%9D-005349284.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|date=3 April 2024|title=9 injured on Taiwan highway as earthquake causes landslides and rockfalls|url=https://edition.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/h_6e0d18e3d05227121cb90e563f90c649|access-date=3 April 2024|publisher=CNN|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403040359/https://edition.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/h_6e0d18e3d05227121cb90e563f90c649|url-status=live}}</ref>",
+                      "url": "https://edition.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl/h_6e0d18e3d05227121cb90e563f90c649",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"Focus Taiwan-5\">{{Cite news|date=3 April 2024|title=Major earthquake shakes Taiwan, causing landslides, partial building collapse|url=https://focustaiwan.tw/society/202404030006|access-date=3 April 2024|work=Focus Taiwan|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403064403/https://focustaiwan.tw/society/202404030006|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404030006",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Focus Taiwan-7\"/> Two German nationals were reported to have been trapped in a tunnel in Hualien.<ref name=\"Chang\"/> In Taichung, rockfalls blocked a road, damaging three cars and injuring a driver.<ref>{{cite news|title=花蓮7.2大地震！中橫便道落石猛砸釀1傷 11人受困明隧道待救|url=https://www.chinatimes.com/realtimenews/20240403001914-260402?ctrack=pc_main_rtime_p04&chdtv|work=China Times|date=3 April 2024|access-date=3 April 2024|language=zh}}</ref>",
+                      "url": "https://www.chinatimes.com/realtimenews/20240403001914-260402?ctrack=pc_main_rtime_p04&chdtv",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|date=2 April 2024|title=台湾7.2可怕强震 宜兰外海惊见龟山岛「龟头断裂」|url=https://www.iask.ca/news/844318|access-date=3 April 2024|language=zh-CN|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403015313/https://www.iask.ca/news/844318|url-status=live}}</ref>",
+                      "url": "https://www.iask.ca/news/844318",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.1.s9",
+                  "text": "Six F-16 fighter jets of the Republic of China Air Force were slightly damaged at a base in Hualien. At the distillery of the Taiwan Tobacco and Liquor Corporation in Hualien, around 192,000 alcohol bottles were shattered, causing financial losses of at least NT$14 million (US$435,845). The earthquake also destroyed 1,000 vats of Shaoxing wine in the distillery. The Ministry of Education (Taiwan)|Education Ministry said that 434 schools suffered damage from the earthquake totaling NT$470 million (US$14.66 million), mostly in Hualien and Pingtung County|Pingtung Counties and Hsinchu City. The Ministry of the Interior (Taiwan)|Interior Ministry said damage to the Taroko National Park reached NT$1 billion (US$30.92 million).",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news|title=Taiwan's strongest earthquake in 25 years kills at least nine, with 50 missing|url=https://www.japantimes.co.jp/news/2024/04/04/asia-pacific/taiwan-earthquake/|access-date=3 April 2024|agency=Reuters|work=The Japan Times|date=3 April 2024|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404215112/https://www.japantimes.co.jp/news/2024/04/04/asia-pacific/taiwan-earthquake/|url-status=live}}</ref>",
+                      "url": "https://www.japantimes.co.jp/news/2024/04/04/asia-pacific/taiwan-earthquake/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=Taiwan earthquake: rescuers search for survivors amid landslides and aftershocks|url=https://www.theguardian.com/world/2024/apr/04/taiwan-earthquake-2024-news-landslides-quake-aftershocks-survivors-search|access-date=4 April 2024|work=The Guardian|date=4 April 2024|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404002843/https://www.theguardian.com/world/2024/apr/04/taiwan-earthquake-2024-news-landslides-quake-aftershocks-survivors-search|url-status=live}}</ref>",
+                      "url": "https://www.theguardian.com/world/2024/apr/04/taiwan-earthquake-2024-news-landslides-quake-aftershocks-survivors-search",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|date=8 April 2024|title=TTL's Hualien Distillery begins massive cleanup after April 3 quake|url=https://focustaiwan.tw/business/202404080012|access-date=8 April 2024|work=Focus Taiwan|archive-date=8 April 2024|archive-url=https://web.archive.org/web/20240408100612/https://focustaiwan.tw/business/202404080012|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/business/202404080012",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=4 April 2024|title=Dayuling-Taroko road still closed following earthquake|url=https://focustaiwan.tw/society/202404040012|access-date=4 April 2024|work=Focus Taiwan|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404160506/https://focustaiwan.tw/society/202404040012|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404040012",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Focus Taiwan\"/> The Hualien County Tourism Association estimated damage to tourism from the earthquake to reach NT$5.3 billion (US$166 million), with hotel booking rates expected to drop to less than 10%.<ref>{{Cite web|date=8 April 2024|title=Hualien could lose NT$5.3 billion in April tourism income after quake|url=https://focustaiwan.tw/business/202404080010|access-date=8 April 2024|work=Focus Taiwan|archive-date=8 April 2024|archive-url=https://web.archive.org/web/20240408090850/https://focustaiwan.tw/business/202404080010|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/business/202404080010",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"taroko\">{{Cite web|date=15 April 2024|title=Taroko park post-quake restoration estimated at NT$1b: Minister|url=https://focustaiwan.tw/society/202404150013|access-date=15 April 2024|work=Focus Taiwan|archive-date=15 April 2024|archive-url=https://web.archive.org/web/20240415125117/https://focustaiwan.tw/society/202404150013|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404150013",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.1.s10",
+                  "text": "The Ministry of Agriculture (Taiwan)|Ministry of Agriculture estimated agricultural damage from the earthquake at NT$80.8 million (US$2.53 million), with Hualien County accounting for NT$79.15 million.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"focus16\"/> Most of the damage in the county came from losses to the fishing industry at NT$40.95 million, while the remaining NT$1.05 million coming from damages to livestock facilities and loss of animal feed in the county. Crop losses reached up to NT$10,000 and affected 0.3 hectares of farmland, primarily those cultivated with wood ear mushrooms. The ministry also said Hualien incurred NT$25.98 million in damage to agricultural infrastructure, with NT$13.98 million coming from fisheries infrastructure, as well as NT$50,000 in livestock losses, mainly to pigs. Damage to public agricultural infrastructure in Hualien was estimated at NT$33.98 million, with NT$20 million coming from soil and water conservation infrastructure.<ref>{{Cite web|date=7 April 2024|title=Taiwan's agriculture losses from quake top NT$76 million, all in Hualien|url=https://focustaiwan.tw/society/202404070017|access-date=7 April 2024|work=Focus Taiwan|archive-date=7 April 2024|archive-url=https://web.archive.org/web/20240407114740/https://focustaiwan.tw/society/202404070017|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404070017",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.1.s11",
+                  "text": "In China, railway services were temporarily suspended in eastern parts of the country. Two people were slightly injured during evacuation due to the tsunami warnings in Okinawa Prefecture, Japan.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"Kyodo News-2\"/> In Shantou, a residential building tilted.<ref>{{cite news|title=广东一楼房因地震变亲嘴楼？官方通报来了|url=https://new.qq.com/rain/a/20240404A0636Z00|publisher=Tencent QQ|date=4 April 2024|access-date=15 May 2024|language=zh}}</ref>",
+                      "url": "https://new.qq.com/rain/a/20240404A0636Z00",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=避難時に転倒、本部町で90代女性けが 沖縄県内で計2人搬送|url=https://www.okinawatimes.co.jp/articles/-/1336552|website=Okinawa Times|date=3 April 2024|access-date=15 May 2024|language=ja}}</ref>",
+                      "url": "https://www.okinawatimes.co.jp/articles/-/1336552",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "23 April",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.2.s1",
+                  "text": "In Hualien City, two buildings collapsed, namely the Fukai Hotel and the Commander Building, the latter of which sustained damage in the 3 April earthquake and was deemed unsafe. Two houses were also destroyed in Ji'an, Hualien|Ji'an. In Shoufeng, a two-story house partially collapsed, while 100 houses lost power. As a result, schools and offices throughout Hualien County were closed on 23 April. A section of the Central Cross-Island Highway between Taroko and Tianxiang was closed due to rockslides, while the Silk's Place Hotel Taroko moved its reopening date from 1 May to 30 June due to concerns over damage in the Taroko National Park. The hotel eventually reopened on 3 October.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news|title=快訊/對照畫面曝！統帥大樓軟腳傾斜「3樓變1樓」5支撐鋼樑噴飛剩4根|url=https://www.setn.com/news.aspx?newsid=1457906|publisher=SET News|date=22 April 2024|access-date=22 April 2024|language=zh}}</ref>",
+                      "url": "https://www.setn.com/news.aspx?newsid=1457906",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=花蓮吉安民宅再傳倒塌 警方封鎖現場|url=https://today.line.me/tw/v2/article/aG3JVW3|website=today.line.me|date=22 April 2024|access-date=22 April 2024|language=zh}}</ref>",
+                      "url": "https://today.line.me/tw/v2/article/aG3JVW3",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=快訊/驚悚！花蓮自強路「第六攤牛排」後方建築倒塌 「2樓變一樓」對比照曝|url=https://ctinews.com/news/items/v7x3Q3m7Wj|publisher=CTi News|date=22 April 2024|access-date=22 April 2024|language=zh}}</ref>",
+                      "url": "https://ctinews.com/news/items/v7x3Q3m7Wj",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=More Hualien buildings found partially collapsed after quakes|url=https://focustaiwan.tw/society/202404230016|publisher=Focus Taiwan|date=23 April 2024|access-date=23 April 2024}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404230016",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=A cluster of earthquakes shakes Taiwan after a strong one killed 13 earlier this month|url=https://apnews.com/article/taiwan-earthquake-hualien-usgs-7ac3e6db25489a2da80f3e06ecc61b27|work=Associated Press News|date=23 April 2024|access-date=23 April 2024}}</ref>",
+                      "url": "https://apnews.com/article/taiwan-earthquake-hualien-usgs-7ac3e6db25489a2da80f3e06ecc61b27",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=Provincial Highway 8 section closed due to rockfalls after quakes|url=https://focustaiwan.tw/society/202404230011|publisher=Focus Taiwan|date=23 April 2024|access-date=23 April 2024}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404230011",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|title=Silks Place Taroko hotel closes until Jan. 15 in typhoon aftermath|url=https://focustaiwan.tw/business/202411080021|publisher=Focus Taiwan|date=8 November 2024|access-date=8 November 2024}}</ref>",
+                      "url": "https://focustaiwan.tw/business/202411080021",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Response",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "responds to the earthquake.]]\nIncumbent President of the Republic of China|Taiwanese president Tsai Ing-wen expressed concern about the damage and ordered the Republic of China Armed Forces|ROC Armed Forces to support the local government in Hualien and others parts of the island in rescue missions. Vice President of the Republic of China|Vice-president and president-elect Lai Ching-te called on the public to be careful and stay calm and announced the formation of an emergency centre to deal with the disaster. while Premier of the Republic of China|Premier Chen Chien-jen visited temporary shelters for displaced residents in Hualien on 4 April. Chen also announced that the Directorate General of Budget, Accounting and Statistics would allocate NT$300 million (US$9,366,144) in disaster relief to the Hualien County government and would exempt from taxation income received by affected residents taking up temporary employment because of the earthquake. Tsai, Lai, Chen and Vice Premier of the Republic of China|Vice Premier Cheng Wen-tsan also pledged to donate a month's worth of their salaries for disaster relief. Tsai also warned citizens against non-essential travel to mountains for the long weekend brought about by the Qingming Festival, which began a day after the earthquake. On 10 April, Tsai visited affected areas of Hualien County and Taroko National Park, where she met with rescue workers. The Executive Yuan subsequently allotted more than NT$28.55 billion (US$878.15 million) in disaster relief and recovery efforts.",
+              "references": [
+                {
+                  "text": "<ref name=\"South China Morning Post\"/> In the afternoon of 3 April, Lai visited Hualien County to inspect rescue and relief efforts,<ref>{{Cite news|date=3 April 2024|title=President-elect Lai emphasizes rescue work during visit to quake-hit Hualien|url=https://focustaiwan.tw/politics/202404030023|access-date=3 April 2024|work=Focus Taiwan|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403130332/https://focustaiwan.tw/politics/202404030023|url-status=live}}</ref>",
+                  "url": "https://focustaiwan.tw/politics/202404030023",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Associated Press\"/><ref>{{cite web|url=https://english.kyodonews.net/news/2024/04/c5a7af48577c-taiwan-quake-injured-toll-rises-to-1050-with-30-missing-9-dead.html|title=Taiwan quake injured toll rises to 1,100 with 15 missing, 10 dead|date=4 April 2024|work=Kyodo News|access-date=4 April 2024|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404110740/https://english.kyodonews.net/news/2024/04/c5a7af48577c-taiwan-quake-injured-toll-rises-to-1050-with-30-missing-9-dead.html|url-status=live}}</ref>",
+                  "url": "https://english.kyodonews.net/news/2024/04/c5a7af48577c-taiwan-quake-injured-toll-rises-to-1050-with-30-missing-9-dead.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Focus Taiwan-2\">{{Cite news|date=4 April 2024|title=Local, central governments set up earthquake aid accounts|url=https://focustaiwan.tw/society/202404040009|access-date=5 April 2024|work=Focus Taiwan|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404161844/https://focustaiwan.tw/society/202404040009|url-status=live}}</ref>",
+                  "url": "https://focustaiwan.tw/society/202404040009",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=5 April 2024|title=Taiwan searches for 18 still missing after Wednesday's earthquake|url=https://www.aljazeera.com/news/2024/4/5/taiwan-searches-for-18-still-missing-after-wednesdays-quake|access-date=5 April 2024|publisher=Al Jazeera|archive-date=5 April 2024|archive-url=https://web.archive.org/web/20240405164202/https://www.aljazeera.com/news/2024/4/5/taiwan-searches-for-18-still-missing-after-wednesdays-quake|url-status=live}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2024/4/5/taiwan-searches-for-18-still-missing-after-wednesdays-quake",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=10 April 2024|title=Taiwan President Tsai visits quake-hit region|url=https://www3.nhk.or.jp/nhkworld/en/news/20240410_22/|access-date=8 April 2024|work=NHK|archive-date=10 April 2024|archive-url=https://web.archive.org/web/20240410095334/https://www3.nhk.or.jp/nhkworld/en/news/20240410_22/|url-status=live}}</ref>",
+                  "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240410_22/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=2 May 2024|title=Cabinet greenlights post-earthquake recovery plans for Hualien|url=https://focustaiwan.tw/politics/202405020014|access-date=2 May 2024|work=Focus Taiwan}}</ref>",
+                  "url": "https://focustaiwan.tw/politics/202405020014",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "6.s2",
+              "text": "Hualien County magistrate Hsu Chen-wei said all residents and businesses in buildings that were in a dangerous state had been evacuated. Low-orbit satellites were used to facilitate communications in their first deployment for a disaster in Taiwan. to rescue at least 82 stranded individuals, and drop food to stranded individuals pending rescue. Emergency workers propped up the Uranus building with gravel and rocks to prevent it from completely falling over in an aftershock. Demolition works on the building began on 5 April The Ministry of Health and Welfare (Taiwan)|Health Ministry placed medical staff in Yilan and Taitung County|Taitung on stand-by to help victims in Hualien.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|url=https://www.theguardian.com/world/live/2024/apr/03/taiwan-earthquake-today-live-updates-magnitude-tsunami-warning-japan-evacuations-okinawa-buildings-collapse-tapei|title=Taiwan earthquake: search for survivors continues into night after nine people killed in quake – as it happened|date=3 April 2024|work=The Guardian|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403024920/https://www.theguardian.com/world/live/2024/apr/03/taiwan-earthquake-today-live-updates-magnitude-tsunami-warning-japan-evacuations-okinawa-buildings-collapse-tapei|url-status=live}}</ref>",
+                  "url": "https://www.theguardian.com/world/live/2024/apr/03/taiwan-earthquake-today-live-updates-magnitude-tsunami-warning-japan-evacuations-okinawa-buildings-collapse-tapei",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"focus16\"/> Helicopters were deployed by the National Airborne Service Corps<ref name=\"Focus Taiwan-8\">{{Cite news|date=5 April 2024|title=Earthquake survivor's horrifying account: Rocks falling like bullets|url=https://focustaiwan.tw/society/202404050009|access-date=5 April 2024|work=Focus Taiwan|archive-date=5 April 2024|archive-url=https://web.archive.org/web/20240405125353/https://focustaiwan.tw/society/202404050009|url-status=live}}</ref>",
+                  "url": "https://focustaiwan.tw/society/202404050009",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Kyodo News\"/> including trapped miners<ref>{{Cite news|date=4 April 2024|title=Taiwan Earthquake: Helicopter rescues miners as quake injuries top 1,000|url=https://english.alarabiya.net/News/world/2024/04/04/taiwan-earthquake-over-1-000-injured-48-still-missing|access-date=4 April 2024|work=al-Arabiya|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404215023/https://english.alarabiya.net/News/world/2024/04/04/taiwan-earthquake-over-1-000-injured-48-still-missing|url-status=live}}</ref>",
+                  "url": "https://english.alarabiya.net/News/world/2024/04/04/taiwan-earthquake-over-1-000-injured-48-still-missing",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=4 April 2024|title=Taiwan earthquake: The mountain 'rained rocks like bullets' – survivor|url=https://www.bbc.com/news/world-asia-68729048|access-date=4 April 2024|publisher=BBC|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404065232/https://www.bbc.com/news/world-asia-68729048|url-status=live}}</ref>",
+                  "url": "https://www.bbc.com/news/world-asia-68729048",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"NHK\"/> and finished on 17 April.<ref>{{Cite news|date=17 April 2024|title=PHOTO ESSAY/Demolition of building damaged in Hualien earthquake completed|url=https://focustaiwan.tw/society/202404175001|access-date=18 April 2024|work=Focus Taiwan|archive-date=18 April 2024|archive-url=https://web.archive.org/web/20240418022514/https://focustaiwan.tw/society/202404175001|url-status=live}}</ref>",
+                  "url": "https://focustaiwan.tw/society/202404175001",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Focus Taiwan-4\"/> The mayor of Kaohsiung, Chen Chi-mai, also ordered the deployment of a rescue team and dogs to Taroko National Park.<ref>{{Cite news|date=8 April 2024|title=Taiwan's search dogs win hearts in search for quake victims|url=https://www.france24.com/en/live-news/20240408-taiwan-s-search-dogs-win-hearts-in-search-for-quake-victims|access-date=8 April 2024|work=France 24|archive-date=8 April 2024|archive-url=https://web.archive.org/web/20240408085112/https://www.france24.com/en/live-news/20240408-taiwan-s-search-dogs-win-hearts-in-search-for-quake-victims|url-status=live}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20240408-taiwan-s-search-dogs-win-hearts-in-search-for-quake-victims",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "6.s3",
+              "text": "The Ministry of Transportation and Communications (Taiwan)|Ministry of Transportation and Communications initiated maritime ferry services between Suao Township|Su'ao Port in Yilan County, Taiwan|Yilan County and the Port of Hualien beginning on 4 April, while Mandarin Airlines and UNI Air added seven extra flights between Hualien Airport and the rest of Taiwan. Railway services between Hualien and Yilan Counties reopened on 4 April following repairs and clearing operations by the Taiwan Railway Corporation. The New Taipei City Government opened 15 shelters for 269 displaced residents Partial operations at the New Taipei Circular Line resumed on the afternoon of 3 April, with other sections reopening on 7 April, leaving only a portion of the line between Banqiao station|Banqiao and Zhonghe metro station|Zhonghe stations still under repair.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news|date=3 April 2024|title=Massive earthquake leaves transportation in eastern Taiwan paralyzed|url=https://focustaiwan.tw/society/202404030019|access-date=3 April 2024|work=Focus Taiwan|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403130021/https://focustaiwan.tw/society/202404030019|url-status=live}}</ref>",
+                  "url": "https://focustaiwan.tw/society/202404030019",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=4 April 2024|title=Rail traffic between Yilan, Hualien reopens after quake|url=https://focustaiwan.tw/society/202404040004|access-date=4 April 2024|work=Focus Taiwan|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404063450/https://focustaiwan.tw/society/202404040004|url-status=live}}</ref>",
+                  "url": "https://focustaiwan.tw/society/202404040004",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Nine dead\"/> and offered free bus rides to alleviate complications on transportation brought by the earthquake, particularly on the railway system.<ref>{{cite news|title=Taiwan earthquake: Authorities race to spur recovery|url=https://www3.nhk.or.jp/nhkworld/en/news/20240405_05/|access-date=5 April 2024|work=NHK|date=5 April 2024|archive-date=6 April 2024|archive-url=https://web.archive.org/web/20240406193018/https://www3.nhk.or.jp/nhkworld/en/news/20240405_05/|url-status=live}}</ref>",
+                  "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240405_05/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"mrt\">{{Cite news|date=7 April 2024|title=Service restored between Zhonghe, Dapinglin on MRT Circular Line|url=https://focustaiwan.tw/society/202404070013|access-date=7 April 2024|work=Focus Taiwan|archive-date=7 April 2024|archive-url=https://web.archive.org/web/20240407105222/https://focustaiwan.tw/society/202404070013|url-status=live}}</ref>",
+                  "url": "https://focustaiwan.tw/society/202404070013",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "6.s4",
+              "text": "Several semiconductor firms, including Powerchip, InnoLux Corporation|InnoLux, United Microelectronics Corporation|UMC, {{ill|King Yuan Electronics Company|zh|京元電子}}, Taimide Tech, and TSMC temporarily suspended operations and evacuated their facilities in Hsinchu. TSMC said it expected losses of about $60 million from the earthquake and reported minimal damage to some of its facilities and equipment, Other manufacturers resumed operations on 4 April. The Taiwan Stock Exchange continued regular operations on 3 April despite the earthquake.<ref name=\"Associated Press News-2\"/>",
+              "references": [
+                {
+                  "text": "<ref name=\"South China Morning Post\"/><ref>{{Cite news|date=3 April 2024|title=TSMC Evacuates Production Lines After Major Taiwan Quake|url=https://www.bloomberg.com/news/articles/2024-04-03/tsmc-evacuates-production-lines-after-major-taiwan-quake|access-date=3 April 2024|publisher=Bloomberg News|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403040841/https://www.bloomberg.com/news/articles/2024-04-03/tsmc-evacuates-production-lines-after-major-taiwan-quake|url-status=live}}</ref>",
+                  "url": "https://www.bloomberg.com/news/articles/2024-04-03/tsmc-evacuates-production-lines-after-major-taiwan-quake",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=3 April 2024|title=Strong quake leads to halts in production at TSMC, other tech firms|url=https://focustaiwan.tw/business/202404030010|access-date=3 April 2024|work=Focus Taiwan|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403064324/https://focustaiwan.tw/business/202404030010|url-status=live}}</ref>",
+                  "url": "https://focustaiwan.tw/business/202404030010",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"France 24\"/> adding that more than 70 percent of its chip manufacturing equipment had resumed production later on 3 April.<ref>{{Cite news|date=4 April 2024|title=More than 70% of TSMC equipment back online after major quake in Taiwan|url=https://focustaiwan.tw/business/202404040002|access-date=4 April 2024|work=Focus Taiwan|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404115541/https://focustaiwan.tw/business/202404040002|url-status=live}}</ref>",
+                  "url": "https://focustaiwan.tw/business/202404040002",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=4 April 2024|title=Manufacturers in Taiwan's science parks resume operation: NSTC|url=https://focustaiwan.tw/business/202404040015|access-date=5 April 2024|work=Focus Taiwan|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404160154/https://focustaiwan.tw/business/202404040015|url-status=live}}</ref>",
+                  "url": "https://focustaiwan.tw/business/202404040015",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "6.s5",
+              "text": "The Health Ministry and the Hualien County government set up dedicated bank accounts and online platforms for receiving earthquake-related donations. The Ministry of Finance (Taiwan)|Finance Ministry also said that 12 government-owned businesses would donate a total of NT$21 million. The Ministry of Economic Affairs said that it was planning to provide loans totaling NT$20 billion to support affected businesses, and Taitung County|Taitung Counties.",
+              "references": [
+                {
+                  "text": "<ref name=\"Focus Taiwan-2\"/> The Health Ministry said it had received at least NT$720 million (US$22.35 million) in donations by 11 April.<ref name=\"focusjapan\"/> and released NT$490 million in aid. The Taiwan Foundation for Disaster Relief announced that it had received about NT$1.4 billion (US$42.92 million) in donations by 28 April.<ref>{{Cite news|date=28 April 2024|title=Disaster relief donations in wake of Hualien quake top NT$1 billion|url=https://focustaiwan.tw/society/202404280007|access-date=28 April 2024|work=Focus Taiwan}}</ref>",
+                  "url": "https://focustaiwan.tw/society/202404280007",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"focus16\"/> and introduced vouchers and subsidies to support the tourism industry in Hualien<ref>{{Cite news|date=18 April 2024|title=Government to roll out voucher plan to help quake-hit Hualien tourism|url=https://focustaiwan.tw/business/202404180017|access-date=18 April 2024|work=Focus Taiwan}}</ref>",
+                  "url": "https://focustaiwan.tw/business/202404180017",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=13 May 2024|title=Post-quake travel subsidies to extend to Taitung|url=https://focustaiwan.tw/society/202405130005|access-date=13 May 2024|work=Focus Taiwan}}</ref>",
+                  "url": "https://focustaiwan.tw/society/202405130005",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "6.s6",
+              "text": "Several prominent Taiwanese firms announced donations towards disaster relief. Foxconn pledged NT$80 million while its founder, Terry Gou personally pledged NT$60 million. Taishin Financial Holdings pledged NT$10 million while Acer Inc. pledged NT$6 million. Quanta Computer and Fubon Financial Holding Co. respectively pledged donations of NT$50 million for earthquake relief, while Wanin International Co., Tung Ho Steel Enterprise Corp., and Yageo pledged a combined total of NT$36 million.",
+              "references": [
+                {
+                  "text": "<ref name=\"Focus Taiwan\">{{Cite news|date=4 April 2024|title=Private quake relief pledges top NT$156 million|url=https://focustaiwan.tw/society/202404030027|access-date=4 April 2024|work=Focus Taiwan|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404063514/https://focustaiwan.tw/society/202404030027|url-status=live}}</ref>",
+                  "url": "https://focustaiwan.tw/society/202404030027",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Focus Taiwan-2\"/> The Red Cross Society of the Republic of China and the Tzu Chi foundation provided meals and shelters to displaced residents.<ref>{{Cite news|date=4 April 2024|title=Rescue teams in Taiwan searching for family feared trapped in rockslide following earthquake|url=https://apnews.com/article/taiwan-earthquake-taroko-national-park-family-missing-bd01953781a73c29d09902f784543293|access-date=5 April 2024|work=Associated Press News|archive-date=5 April 2024|archive-url=https://web.archive.org/web/20240405050219/https://apnews.com/article/taiwan-earthquake-taroko-national-park-family-missing-bd01953781a73c29d09902f784543293|url-status=live}}</ref>",
+                  "url": "https://apnews.com/article/taiwan-earthquake-taroko-national-park-family-missing-bd01953781a73c29d09902f784543293",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Impact on local economy",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "Tourist arrivals to Hualien fell by about 200,000 in the month following the earthquake. Taiwan's tourism administration began offering subsidies for tourists travelling to the area after the earthquake, which were extended after they were initially rolled out.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news|last=Thomson|first=Jono|date= 11 July 2024|title=Taiwan tourist arrivals fell sharply in month following Hualien earthquake|url=https://www.taiwannews.com.tw/news/5900278|access-date=14 July 2024|work=Taiwan News}}</ref>",
+                  "url": "https://www.taiwannews.com.tw/news/5900278",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web|date=13 May 2024|title=Taiwan extends post-quake travel subsidy to Taitung|url=https://taiwannews.com.tw/en/news/5685431|access-date=14 July 2024|website=taiwannews.com.tw}}</ref>",
+                  "url": "https://taiwannews.com.tw/en/news/5685431",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "International reactions",
+      "content": [
+        {
+          "id": "8.1",
+          "title": "Countries",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.1.s1",
+                  "text": "The Taiwan Affairs Office of the People's Republic of China (PRC) said it was highly concerned with the earthquake and was willing to provide disaster relief assistance. In response, Taiwan's Mainland Affairs Council expressed thanks for its concern but said that there would be no request for assistance from Taiwan. On 4 April, the Ministry of Foreign Affairs (Taiwan)|Taiwanese foreign ministry condemned the PRC for its \"shameless use of the Taiwan earthquake to conduct psychological warfare|cognitive operations internationally\" after Geng Shuang, China's deputy ambassador to the United Nations, said China is \"ready to provide disaster relief\" and thanked \"the international community for their care and good wishes\" at a UN meeting. The ministry also criticized Bolivia for expressing solidarity with China over the earthquake.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://www.jpost.com/breaking-news/article-795074|title=China's Taiwan affairs office offers disaster relief assistance|date=3 April 2024|work=The Jerusalem Post|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403063843/https://www.jpost.com/breaking-news/article-795074|url-status=live}}</ref>",
+                      "url": "https://www.jpost.com/breaking-news/article-795074",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"Wingfield-Hayes\"/> Lai Ching-te, however, wrote to Prime Minister of Japan|Japanese prime minister Fumio Kishida on X (social network)|X, \"Let us continue to help each other and join hands to overcome these difficult times\". This is the second instance of Taipei rebuffing China's aid; after the 2018 Hualien earthquake, it turned down a $3 million donation from the PRC as well as its offer of search and rescue workers, but later accepted assistance from other countries.<ref>{{cite news|title=Taiwan quake: Taipei rebuffs aid offer from mainland China amid deadly disaster|url=https://www.scmp.com/news/china/article/3257638/73-magnitude-earthquake-rocks-taiwan-collapsing-buildings|work=South China Morning Post|date=3 April 2024|language=en|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403063840/https://www.scmp.com/news/china/article/3257638/73-magnitude-earthquake-rocks-taiwan-collapsing-buildings|url-status=live}}</ref>",
+                      "url": "https://www.scmp.com/news/china/article/3257638/73-magnitude-earthquake-rocks-taiwan-collapsing-buildings",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.rappler.com/world/asia-pacific/taiwan-condemns-shameless-china-accepting-world-concern-quake/|title=Taiwan condemns 'shameless' China for accepting world's concern on quake|date=4 April 2024|work=Rappler|access-date=4 April 2024|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404152105/https://www.rappler.com/world/asia-pacific/taiwan-condemns-shameless-china-accepting-world-concern-quake/|url-status=live}}</ref>",
+                      "url": "https://www.rappler.com/world/asia-pacific/taiwan-condemns-shameless-china-accepting-world-concern-quake/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|title=Remarks by Ambassador Geng Shuang at the UN Security Council Briefing on Children and Armed Conflict|url=http://un.china-mission.gov.cn/eng/hyyfy/202404/t20240404_11276480.htm|website=un.china-mission.gov.cn|access-date=4 April 2024|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404060953/http://un.china-mission.gov.cn/eng/hyyfy/202404/t20240404_11276480.htm|url-status=live}}</ref>",
+                      "url": "http://un.china-mission.gov.cn/eng/hyyfy/202404/t20240404_11276480.htm",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|title=Bolivia expressing concern to China over Taiwan quake 'serious mistake': MOFA|url=https://focustaiwan.tw/politics/202404060010|website=Focus Taiwan|date=6 April 2024|access-date=6 April 2024|archive-date=6 April 2024|archive-url=https://web.archive.org/web/20240406192953/https://focustaiwan.tw/politics/202404060010|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/politics/202404060010",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.1.s2",
+                  "text": "Japan deployed military aircraft to observe possible damage in Okinawa Prefecture following the tsunami alert. with Foreign Minister Yoko Kamikawa announcing a donation of $1 million that was turned over on 10 April. South Korea also pledged US$500,000 in aid, while Thailand provided a NT$1 million (US$31,018) donation. Lithuania pledged 50,000 euros (US$53,205) for reconstruction efforts in Hualien County, while the Czech Republic pledged US$150,000 for relief efforts. The United States said that it was \"ready to provide any necessary assistance\". At least 47 countries, including those with Foreign relations of Taiwan|no official diplomatic relations with Taiwan, as well as the European Union, expressed sympathies and offered support to Taiwan.{{efn|including Paraguay, Guatemala, Palau, Eswatini, Saint Kitts and Nevis, Belize, Tuvalu, Saint Lucia, Japan, the Philippines, India, Singapore, the United Kingdom, Thailand, Saint Vincent and the Grenadines, France, Ukraine, the United States, China, Estonia, Latvia, South Korea and Vatican City}}",
+                  "references": [
+                    {
+                      "text": "<ref name=\"Associated Press News-2\"/> The Japanese government later announced that no damage had occurred.<ref name=\"A strong earthquake rocks Taiwan\" /> Prime Minister Fumio Kishida expressed condolences and sympathy with Taiwan and offered the government's support,<ref>{{cite web|url=https://japan.kantei.go.jp/101_kishida/decisions/2024/03message.html|title=Message of condolences from Prime Minister KISHIDA Fumio following the earthquake in eastern Taiwan|date=3 April 2024|work=Naikaku Sōri Daijin Kantei|Prime Minister's Office of Japan|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403190922/https://japan.kantei.go.jp/101_kishida/decisions/2024/03message.html|url-status=live}}</ref>",
+                      "url": "https://japan.kantei.go.jp/101_kishida/decisions/2024/03message.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"Kyodo News\">{{cite web|title=2 more bodies found after Taiwan quake as 72-hour window nears end|url=https://english.kyodonews.net/news/2024/04/13e286547dda-2-more-bodies-found-after-taiwan-quake-as-72-hour-window-nears-end.html|website=Kyodo News|access-date=5 April 2024|archive-date=5 April 2024|archive-url=https://web.archive.org/web/20240405140807/https://english.kyodonews.net/news/2024/04/13e286547dda-2-more-bodies-found-after-taiwan-quake-as-72-hour-window-nears-end.html|url-status=live}}</ref>",
+                      "url": "https://english.kyodonews.net/news/2024/04/13e286547dda-2-more-bodies-found-after-taiwan-quake-as-72-hour-window-nears-end.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|title=Japan hands over emergency aid list to quake-hit Taiwan|url=https://www3.nhk.or.jp/nhkworld/en/news/20240410_23/|website=NHK|access-date=10 April 2024|archive-date=10 April 2024|archive-url=https://web.archive.org/web/20240410131549/https://www3.nhk.or.jp/nhkworld/en/news/20240410_23/|url-status=live}}</ref>",
+                      "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240410_23/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=11 April 2024|title=S. Korea to provide US$500,000 worth of humanitarian aid to quake-hit Taiwan|url=https://en.yna.co.kr/view/AEN20240411004000315|access-date=11 April 2024|work=Yonhap News Agency|archive-date=13 April 2024|archive-url=https://web.archive.org/web/20240413002138/https://en.yna.co.kr/view/AEN20240411004000315|url-status=live}}</ref>",
+                      "url": "https://en.yna.co.kr/view/AEN20240411004000315",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=12 April 2024|title=Taiwan thanks Thai government for NT$1 million quake relief donation|url=https://focustaiwan.tw/politics/202404120019|work=Focus Taiwan|access-date=12 April 2024|archive-date=12 April 2024|archive-url=https://web.archive.org/web/20240412160948/https://focustaiwan.tw/politics/202404120019|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/politics/202404120019",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=13 April 2024|title=Taiwan thanks Lithuania for quake donation|url=https://focustaiwan.tw/politics/202404130014|work=Focus Taiwan|access-date=13 April 2024|archive-date=13 April 2024|archive-url=https://web.archive.org/web/20240413122124/https://focustaiwan.tw/politics/202404130014|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/politics/202404130014",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=30 April 2024|title=Taiwan thanks Czech Republic for earthquake donation pledge|url=https://focustaiwan.tw/politics/202404300006|work=Focus Taiwan|access-date=30 April 2024}}</ref>",
+                      "url": "https://focustaiwan.tw/politics/202404300006",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=3 April 2024|title=White House standing by to provide aid after deadly Taiwan earthquake|url=https://thehill.com/homenews/administration/4571969-white-house-aid-taiwan-earthquake/|access-date=3 April 2024|work=The Hill|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403163743/https://thehill.com/homenews/administration/4571969-white-house-aid-taiwan-earthquake/|url-status=live}}</ref>",
+                      "url": "https://thehill.com/homenews/administration/4571969-white-house-aid-taiwan-earthquake/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=4 April 2024|title=President, VP thank world leaders for thoughts and prayers after deadly quake|url=https://focustaiwan.tw/politics/202404040005|access-date=4 April 2024|work=Focus Taiwan|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404080841/https://focustaiwan.tw/politics/202404040005|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/politics/202404040005",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=4 April 2024|title=Pope assures victims of Taiwan quake of solidarity and closeness|url=https://www.vaticannews.va/en/pope/news/2024-04/pope-assures-victims-of-taiwan-quake-of-solidarity-and-closeness.html|access-date=5 April 2024|work=Vatican News|archive-date=4 April 2024|archive-url=https://web.archive.org/web/20240404174834/https://www.vaticannews.va/en/pope/news/2024-04/pope-assures-victims-of-taiwan-quake-of-solidarity-and-closeness.html|url-status=live}}</ref>",
+                      "url": "https://www.vaticannews.va/en/pope/news/2024-04/pope-assures-victims-of-taiwan-quake-of-solidarity-and-closeness.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=4 April 2024|title=S. Korea sends condolences to quake-hit Taiwan|url=https://en.yna.co.kr/view/AEN20240404007200315|work=Yonhap News Agency|access-date=6 April 2024|archive-date=6 April 2024|archive-url=https://web.archive.org/web/20240406042943/https://en.yna.co.kr/view/AEN20240404007200315|url-status=live}}</ref>",
+                      "url": "https://en.yna.co.kr/view/AEN20240404007200315",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.1.s3",
+                  "text": "On 6 April, Taiwan announced that it had accepted an offer from Turkey to send a team of seven rescue specialists carrying drones who were expected to arrive later in the day, adding that it was the only foreign rescue team that it had allowed to enter in reciprocation for the aid given by Taiwanese rescue workers in the 2023 Turkey–Syria earthquakes. On 7 April, the Manila Economic and Cultural Office (MECO), the de facto embassy of the Philippines in Taiwan, distributed humanitarian aid to Overseas Filipino Workers in Hualien.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news|date=6 April 2024|title=Turkish team set to help boost quake rescue efforts: Minister|url=https://focustaiwan.tw/society/202404060009|work=Focus Taiwan|access-date=7 April 2024|archive-date=6 April 2024|archive-url=https://web.archive.org/web/20240406193104/https://focustaiwan.tw/society/202404060009|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/society/202404060009",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=8 April 2024|title=Turkish rescuer workers assist Taiwan's quake relief efforts|url=https://focustaiwan.tw/business/202404080010|work=Focus Taiwan|access-date=8 April 2024|archive-date=8 April 2024|archive-url=https://web.archive.org/web/20240408090850/https://focustaiwan.tw/business/202404080010|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/business/202404080010",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|date=6 April 2024|title=Filipino envoy visits Hualien, expresses Manila's sympathy over quake|url=https://focustaiwan.tw/politics/202404070015|work=Focus Taiwan|access-date=7 April 2024|archive-date=7 April 2024|archive-url=https://web.archive.org/web/20240407104656/https://focustaiwan.tw/politics/202404070015|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/politics/202404070015",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Private entities",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.2.s1",
+                  "text": "Multinational firms such as Japan's Kura Sushi and South Korea's Coupang pledged NTS$2 million each for disaster relief, while FamilyMart and 7-Eleven opened donation channels in their respective mobile applications. Cathay Financial Holdings pledged NT$30 million, while Shin Kong Financial Holdings pledged NT$10 million, with NT$6 million specifically earmarked to the Hualien County government.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"Focus Taiwan-2\"/> Other Japanese companies such as LY Corporation, Rakuten, and Toyota raised a combined total of more than 258 million yen in donations.<ref name=\"focusjapan\">{{Cite news|date=11 April 2024|title=South Korea, Japan extend aid for Taiwan earthquake relief|url=https://focustaiwan.tw/politics/202404110011|access-date=11 April 2024|work=Focus Taiwan|archive-date=11 April 2024|archive-url=https://web.archive.org/web/20240411115116/https://focustaiwan.tw/politics/202404110011|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/politics/202404110011",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.2.s2",
+                  "text": "The Red Cross Society of the Republic of China received a 10 million yen (US$65,903) donation from Japanese musician Yoshiki (musician)|Yoshiki.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"Focus Taiwan-2\"/> The Yomiuri Giants, who play in the Nippon Professional Baseball pledged 10 million yen (US$66,112) and set up a three-day fundraiser starting on 5 April, citing their exhibition games in Taiwan in March 2024 as a reason.<ref>{{Cite news|date=5 April 2024|title=Japanese baseball team to donate 10 million yen for earthquake relief|url=https://focustaiwan.tw/sports/202404050010|access-date=5 April 2024|work=Focus Taiwan|archive-date=5 April 2024|archive-url=https://web.archive.org/web/20240405125609/https://focustaiwan.tw/sports/202404050010|url-status=live}}</ref>",
+                      "url": "https://focustaiwan.tw/sports/202404050010",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Notes",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "External links",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "title": "2024_Haneda_Airport_runway_collision",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "As Japan Airlines Flight 516 was landing, it collided with the Coast Guard plane, immediately igniting fires that destroyed both aircraft. Five of the six crew on board the Dash 8 died in the collision, with only the captain surviving. Everyone on board the A350 survived. Investigations have determined that Japan Airlines Flight 516 was given landing clearance, while the Coast Guard aircraft did not have permission to be on the runway.",
+              "references": [
+                "https://avherald.com/h?article=5132b9fe&opt=0",
+                "https://www.bbc.com/news/live/world-asia-67862184",
+                "https://www.bbc.com/news/world-asia-67874607"
+              ]
+            },
+            {
+              "id": "1.s2",
+              "text": "The accident marked the first hull-loss accidents|hull-loss accident involving Japan Airlines since Flight 123 in 1985, and also the first hull-loss accident of an Airbus A350 since its introduction in January 2015.",
+              "references": [
+                "https://aviationweek.com/air-transport/safety-ops-regulation/first-airbus-a350-hull-loss-after-haneda-runway-incursion"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Aircraft",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The JAL aircraft involved in the accident was an Airbus A350-941,",
+              "references": [
+                "https://www.flightglobal.com/safety/tokyo-haneda-operating-in-mixed-mode-at-time-of-jal-a350-landing-collision/156341.article",
+                "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/jl516-tokyo-accident/"
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "The Japan Coast Guard aircraft involved was a De Havilland Canada Dash 8#Series 300|De Havilland Canada DHC-8-315Q MPA, manufacturer serial number 656, nicknamed ''Mizunagi-1'' ({{langx|ja|みずなぎ1号}}), and registered as JA722A. The aircraft was approximately 16 years old, first flying in November 2007, and acquired by the Coast Guard in March 2009. The aircraft had been damaged in the 2011 Tōhoku earthquake and tsunami while parked at Sendai Airport, and was the only aircraft damaged there to be repaired afterwards. The Dash 8 was fitted with a Aviation transponder interrogation modes|Mode S-capable Transponder (aeronautics)|transponder but was reportedly not equipped with Automatic Dependent Surveillance–Broadcast|ADS-B; this meant the aircraft's position and speed were not reported by the aircraft itself and instead relied on multilateration by on-ground receivers.",
+              "references": [
+                "https://www.scramble.nl/database/civil/details/DHC8_843",
+                "https://nymag.com/intelligencer/2024/01/japan-airlines-crash-at-haneda-couldve-been-much-worse.html"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Accident",
+      "content": [
+        {
+          "id": "3.1",
+          "title": "Coast Guard aircraft",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.1.s1",
+                  "text": "The Japan Coast Guard aircraft, carrying six crew members, was transporting emergency supplies to an airbase in Niigata (city)|Niigata in response to the 2024 Noto earthquake, which had occurred the day before. It was one of four aircraft deployed by the government to provide help to the affected areas.",
+                  "references": [
+                    "https://edition.cnn.com/2024/01/02/asia/japan-airlines-plane-fire-airport-intl-hnk/index.html",
+                    "https://www.bbc.com/news/world-67862011"
+                  ]
+                },
+                {
+                  "id": "3.1.s2",
+                  "text": "The aircraft was reported to be stationary on the runway for around 40 seconds before the collision. Genki Miyamoto (宮本 元気, ''Miyamoto Genki''), the captain, reported that the back of the aircraft suddenly caught fire shortly after he had increased the engine power before exploding following the collision. The wreckage of the Coast Guard aircraft was left several hundred meters from the final stopping point of the JAL plane.",
+                  "references": [
+                    "https://myprivacy.dpgmedia.nl/consent?siteKey=ucf98legs1caotgh&callbackUrl=https://www.nu.nl/privacy-gate/accept?redirectUri%3D%252Fbuitenland%252F6296395%252Falle-379-inzittenden-van-brandend-vliegtuig-in-tokio-geevacueerd-toestel-botste-op-ander-vliegtuig.html",
+                    "https://news.sky.com/story/japan-plane-fire-latest-hundreds-were-on-board-plane-footage-shows-explosion-as-it-taxies-on-runway-13040808#7001138",
+                    "https://www.france24.com/en/live-news/20240103-japan-airlines-says-jet-cleared-to-land-before-collision"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "JAL 516",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "At approximately 17:47 JST (08:47 UTC), JAL516 collided with a Japan Coast Guard Dash 8, identified by its call sign and Aircraft registration|registration number JA722A, while landing on runway 34R at Haneda Airport. Closed-circuit television|CCTV footage shows a fireball erupting from the aircraft, with the JAL plane leaving a fiery trail as it traveled down the runway on the grass apron beside the runway. Smoke filled the A350's cabin quickly after the accident. Firefighters arrived at the scene in about three minutes, with about 70 fire trucks responding. by which time the plane's structure had collapsed due to the intensity of the flames. The collision and subsequent fire were captured by CCTV cameras in Terminal 2. After the collision, the ADS-B signals, except for position information, from the aircraft were received for about one minute. Firefighters later said that the fire spread from the vicinity of the plane's left engine.",
+                  "references": [
+                    "https://www3.nhk.or.jp/nhkworld/en/news/backstories/2941/",
+                    "https://english.kyodonews.net/news/2024/01/0b3984aaa764-urgent-japan-airlines-aircraft-catches-fire-at-haneda-airport-jal.html",
+                    "https://news.sky.com/story/plane-in-flames-on-runway-of-tokyo-airport-13040799",
+                    "https://www.bbc.co.uk/news/live/world-asia-67862184",
+                    "https://www3.nhk.or.jp/news/html/20240102/k10014307191000.html#anchor-03",
+                    "https://abc7ny.com/japan-airlines-fire-haneda-airport-airplane/14258485/",
+                    "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/jl516-tokyo-accident/"
+                  ]
+                },
+                {
+                  "id": "3.2.s2",
+                  "text": "According to a statement by a JAL spokesman, the three pilots felt a sudden shock immediately after landing and lost control of the aircraft while trying to maintain its course along the runway. They were unaware that a fire had broken out on board until they were informed by a cabin attendant that the left engine was on fire, and one of the pilots later said that he had seen an object that had caused him concern before the collision. However, the three pilots denied that they had visually confirmed the presence of the Coast Guard aircraft.\n\nWith the right engine still running, all 367 passengers and 12 crew members on board JAL516 evacuated through three of the plane's eight evacuation slides, located at doors 1L, 1R and 4L. Forty-three foreign nationals and eight children were on board. Two pets, a dog and a cat, were checked in on board and died. Seventeen people on board suffered injuries. It was noted that no one exited with hand luggage, a factor that facilitated a smoother evacuation. JAL's original announcement stated that the evacuation of all crew and passengers was completed at 18:05 JST (09:05 UTC), 18 minutes after the plane collided, but a subsequent investigation by the Japan Transport Safety Board revealed that it was completed at 17:58 (08:58 UTC), 11 minutes after the plane collision. Paul Hayes, the director of air safety at Ascend, a British-based aviation consultancy, told Reuters, \"The cabin crew must have done an excellent job. It was a miracle that all the passengers got off considering the wreckage shown in many images\".",
+                  "references": [
+                    "https://www.bbc.com/news/world-asia-67879308",
+                    "https://english.kyodonews.net/news/2024/01/0fd6205ee3ae-crews-quick-decisions-behind-safe-escape-from-burning-jal-plane.html",
+                    "https://english.kyodonews.net/news/2024/01/84c5d91cfe38-jal-pilots-did-not-see-coast-guard-plane-when-touching-down.html",
+                    "https://english.kyodonews.net/news/2024/01/a822d7c64171-feature-passengers-mutual-aid-in-deadly-jal-crash-made-for-miracle-escape.html",
+                    "https://www.france24.com/en/live-news/20240102-japan-airlines-plane-on-fire-on-runway-at-tokyo-s-haneda-airport-tv-images",
+                    "https://www3.nhk.or.jp/news/html/20240628/k10014495861000.html"
+                  ]
+                },
+                {
+                  "id": "3.2.s3",
+                  "text": "Another factor cited in the survival of those on board was that the aircraft, one of the first commercial models to be made of composite Carbon-fiber reinforced polymer|carbon fiber materials, appeared to have withstood the initial impact of the collision and fire relatively well.",
+                  "references": [
+                    "https://www.bbc.com/news/world-asia-67865132"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Aftermath",
+      "content": [
+        {
+          "id": "4.1",
+          "title": "Operations at Haneda Airport",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.1.s1",
+                  "text": "The accident occurred as millions were traveling for the Public holidays in Japan|New Year holidays, one of the busiest travel periods of the year. All runways at Haneda Airport were temporarily closed following the accident, and many flights were diverted to nearby Narita Airport, as well as Chubu Centrair International Airport and Kansai International Airport. Others were cancelled as the result of the accident, with All Nippon Airways registering 112 domestic flight cancellations for the rest of the day and JAL cancelling 116 domestic flights. Cancellations continued through 7 January, by which time at least 1,227 flights and 221,910 passengers had been affected. The accident reduced Haneda Airport's flight capacity to 70%. In response to these delays, Japan Railways Group|JR group set up supplemental Shinkansen services on the Tokaido Shinkansen|Tokaido, Hokuriku Shinkansen|Hokuriku, and Tōhoku Shinkansen|Tohoku Shinkansen routes on 4 January out to Osaka, Kanazawa, and Hokkaido respectively. These extra services were offered without seat reservations. The clearance operations, which included restoring damaged sections of pavement on the runway, were completed on 7 January. The affected runway reopened to traffic on 8 January. Operations at the airport were expected to fully normalize on 10 January.",
+                  "references": [
+                    "https://www.japantimes.co.jp/news/2024/01/02/japan/haneda-airport-fire/",
+                    "https://www3.nhk.or.jp/news/html/20240102/k10014307191000.html",
+                    "https://www.straitstimes.com/asia/east-asia/aircraft-on-fire-at-tokyo-haneda-airport-reports",
+                    "https://www.france24.com/en/asia-pacific/20240102-japanese-airliner-burns-after-apparent-collision-with-coast-guard-aircraft-at-tokyo-s-haneda-airport",
+                    "https://news.mynavi.jp/article/20240104-2856970/",
+                    "https://english.kyodonews.net/news/2024/01/f28f7d14053f-last-runway-set-to-reopen-at-tokyos-haneda-with-jal-wreckage-cleared.html"
+                  ]
+                },
+                {
+                  "id": "4.1.s2",
+                  "text": "On 12 January, the Japan Coast Guard suspended personnel at the {{ill|Haneda Air Station|ja|羽田特殊救難基地}}, which has jurisdiction over the coastal waters between Ibaraki Prefecture|Ibaraki and Shizuoka Prefectures, from operating the facility's two helicopters and three remaining fixed-wing aircraft as part of efforts to ensure safety and psychological care to the staff, delegating the operation of the station's air assets to personnel from other Coast Guard facilities. Base personnel received retraining at Chitose Air Station in Hokkaido, while helicopter flights resumed on 1 March. Full operations at the base fully resumed on 28 March.",
+                  "references": [
+                    "https://www.yomiuri.co.jp/national/20240327-OYT1T50119/",
+                    "https://www.jiji.com/jc/article?k=2024032800752&g=soc"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Commemorations",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "JAL announced that it was considering preserving the wreckage of Flight 516 to remind employees of the importance of prioritizing safety, similar to what it had done with the wreckage of Japan Air Lines Flight 123 which crashed in 1985.",
+                  "references": [
+                    "https://english.kyodonews.net/news/2024/01/632b5719bf07-jal-to-preserve-part-of-burned-aircraft-from-tokyo-airport-collision.html"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Reactions",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "Japanese Prime Minister Fumio Kishida extended his condolences to the dead, referring to their service to the victims of the 2024 Noto earthquake. Tokyo Governor Yuriko Koike also expressed sadness over \"the fact that 'one disaster led to another disaster'\".",
+              "references": [
+                "https://www.bbc.co.uk/news/live/world-asia-67862184",
+                "https://www.agenzianova.com/en/news/collision-at-haneda-airport-in-tokyo-the-airliner-was-authorized-to-land/",
+                "https://www.yomiuri.co.jp/national/20240102-OYT1T50212/"
+              ]
+            },
+            {
+              "id": "5.s2",
+              "text": "Airbus released a statement confirming it was in communication with JAL and would \"communicate further details when available\". It also said that it was sending specialists to help in the investigation.",
+              "references": [
+                "https://www.bbc.co.uk/news/live/world-asia-67862184",
+                "https://www.airbus.com/en/newsroom/press-releases/2024-01-airbus-statement-on-flight-jal516"
+              ]
+            },
+            {
+              "id": "5.s3",
+              "text": "The Japan Federation of Civil Aviation Workers' Union for Air Safety (JFAS) said that, in line with Convention on International Civil Aviation#Annexes|ICAO Annex 13, finding out the facts should be the first priority, adding that in many cases police intervention prevented the identification of the cause of aircraft accidents.",
+              "references": [
+                "https://jfas-sky.jp/2024%E5%B9%B41%E6%9C%882%E6%97%A5%E3%81%AB%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E3%81%A7%E7%99%BA%E7%94%9F%E3%81%97%E3%81%9F%E8%88%AA%E7%A9%BA%E6%A9%9F%E4%BA%8B%E6%95%85/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Investigation",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "The Japan Transport Safety Board is the lead agency for the investigation. The French Bureau of Enquiry and Analysis for Civil Aviation Safety (BEA) announced on Twitter that they will be cooperating with Airbus during the investigation. It also added that it would send a team to Japan to investigate the accident, as part of their protocol for accidents involving an Airbus aircraft. UK investigators from the A350 engine manufacturer Rolls-Royce Holdings|Rolls-Royce also planned to join them. The Transportation Safety Board of Canada, along with technical advisers from the Dash 8's manufacturer De Havilland Canada and engine manufacturer Pratt & Whitney Canada, announced they would also be taking part in the investigation. The United States' National Transportation Safety Board (NTSB) will also provide assistance in the investigation.",
+              "references": [
+                "https://english.kyodonews.net/news/2024/01/5afa283f5a85-japan-begins-probing-cause-of-jal-jet-collision-at-tokyo-airport.html",
+                "https://www.theguardian.com/world/2024/jan/03/japan-plane-crash-jet-haneda-airport-clear-to-land-japan-airlines",
+                "https://www.ctvnews.ca/canada/article/canadian-safety-watchdog-pitching-in-on-probe-into-fatal-japan-airlines-crash/"
+              ]
+            },
+            {
+              "id": "6.s2",
+              "text": "On 3 January, the MLIT released the transcript of air traffic control communication, covering the last 4 minutes and 27 seconds before the crash. It showed that prior to the accident, air traffic controllers cleared the JAL aircraft to land on runway 34R, while the Coast Guard aircraft was instructed to hold short of the runway at a holding point on taxiway C5. An MLIT official said that the pilot of the Coast Guard aircraft may not have heard the air traffic control tower authorizing the JAL aircraft for landing as at the time, his radio could have been set on the same frequency as that of ground control. Another MLIT official also said that the Coast Guard was not informed of measures introduced by a government task force to prevent airport runway incursions following similar accidents in 2007. Japanese police were reportedly investigating possible professional negligence, including fatigue and staffing levels, that may have caused the accident.",
+              "references": [
+                "https://www3.nhk.or.jp/nhkworld/en/news/backstories/2948/",
+                "https://edition.cnn.com/2024/01/02/asia/japan-airlines-plane-fire-airport-intl-hnk/index.html",
+                "https://english.kyodonews.net/news/2024/01/3095c29e2df7-coast-guard-pilot-unlikely-heard-jal-tower-comms-before-crash.html",
+                "https://english.kyodonews.net/news/2024/01/afc485d5a59b-japan-runway-incursion-measures-not-shared-suitably-with-coast-guard.html"
+              ]
+            },
+            {
+              "id": "6.s3",
+              "text": "On 24 June, the MLIT released the first interim report. The investigation pointed out issues such as the lack of personnel gathered at the airport and the delay with the guidance of emergency vehicles. Moreover, it was revealed that over 100 emergency vehicles were waiting to enter the airport and several ambulances carrying injured passengers were unable to leave for about 30 minutes. For future measures, the ministry is scheduled to revise its emergency guidance by August and also requested the number of airport staff that are available to respond to such emergencies on holidays and at night be increased.",
+              "references": [
+                "https://www.yomiuri.co.jp/national/20240628-OYT1T50165/"
+              ]
+            },
+            {
+              "id": "6.s4",
+              "text": "A progress report was released by the Japan Transport Safety Board on 25 December. The report indicated that the captain of the Coast Guard aircraft mistook air traffic control's instruction when their aircraft was told that they were \"number one,\" and entered runway 34R believing that takeoff clearance was given. The report added that neither the controller in charge nor the JAL pilots noticed that the Coast Guard aircraft entered the runway, and that the three circumstances combined resulted in the accident. It also provided details on the evacuation of the JAL plane, and the actions of its pilots and cabin crew.",
+              "references": [
+                "https://www.asahi.com/ajw/articles/15565047",
+                "https://jtsb.mlit.go.jp/aircraft/rep-acci/keika20241225-JA722A_JA13XJ.pdf"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

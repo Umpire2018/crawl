@@ -1,0 +1,452 @@
+{
+  "title": "2024_Hualien_earthquake",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "On 3 April 2024, at 07:58:11 Time in Taiwan|NST (23:58:11 Coordinated Universal Time|UTC on 2 April), a {{M|w|link=y}} 7.4 earthquake struck {{cvt|15|km|mi}} south of Hualien City, Hualien County, Taiwan. At least 19 people were killed and over 1,100 were injured in the earthquake. It is the strongest earthquake in Taiwan since the 1999 Jiji earthquake, with three aftershocks above M<sub>w</sub> 6.0.",
+              "references": [
+                "https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9g4/executive",
+                "https://edition.cnn.com/asia/live-news/taiwan-earthquake-hualien-04-04-23-hnk-intl/index.html"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Tectonic setting",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "Taiwan has a history of strong earthquakes. The island is located within a complex Convergent boundary|zone of convergence between the Philippine Sea plate and Eurasian plate. At the location of the earthquake, these plates converge at a rate of {{convert|75|mm}} per year. To the south of Taiwan, oceanic crust of the Eurasian plate is subducting beneath the Philippine Sea plate creating an island arc, the Luzon Volcanic Arc|Luzon Arc. At Taiwan, the oceanic crust has all been subducted and the arc is colliding with continental crust of the Eurasian plate. To the north of Taiwan, the Philippine Sea plate is in contrast subducting beneath the Eurasian plate, forming the Ryukyu Arc.",
+              "references": [
+                "https://www.vice.com/en/article/taiwan-earthquake-hualien/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Earthquake",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "Taiwan's Central Weather Administration (CWA) measured the earthquake's local magnitude at 7.2, while the United States Geological Survey (USGS) placed the earthquake at {{M|w}}7.4. It was the strongest earthquake to hit Taiwan since the 1999 Jiji earthquake, which measured {{M|w}}7.7.",
+              "references": [
+                "https://earthquake.usgs.gov/earthquakes/eventpage/pt24094050/executive",
+                "https://edition.cnn.com/2024/04/02/asia/taiwan-earthquake-tsunami-warning-intl-hnk/index.html"
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "At least 1,400 aftershocks were recorded following the earthquake. A {{M|w}}6.4 aftershock struck at 00:11 UTC, followed by a {{M|w}}5.7 event at 00:35, a {{M|w}}5.5 at 00:43 and a {{M|w}}5.7 at 00:46. On 22 April, a {{M|w}}5.8 event struck at 14:11, followed in the evening (early morning of 23 April Time in Taiwan|NST) by two large aftershocks that occurred south of Hualien City, both of them measuring {{M|w}}6.1. A {{M|w}}5.7 aftershock occurred near Taroko National Park on 26 April.",
+              "references": [
+                "https://focustaiwan.tw/society/202405100018",
+                "https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gc/executive",
+                "https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gh/executive",
+                "https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gm/executive",
+                "https://earthquake.usgs.gov/earthquakes/eventpage/us7000m9gp/executive",
+                "https://earthquake.usgs.gov/earthquakes/eventpage/us7000mduw/executive",
+                "https://earthquake.usgs.gov/earthquakes/eventpage/us6000mt0r/executive",
+                "https://earthquake.usgs.gov/earthquakes/eventpage/us6000mt0s/executive",
+                "https://earthquake.usgs.gov/earthquakes/eventpage/us6000mu3y/executive"
+              ]
+            },
+            {
+              "id": "3.s3",
+              "text": "The earthquake had a maximum Central Weather Administration seismic intensity scale|CWA seismic intensity of 6+ in Hualien City and 5- in Taipei. Intensity 4 or higher was felt across much of the island except its southern extent, which felt intensities 2 to 3. In China, shaking was felt in Shanghai, Suzhou, Shenzhen, Guangzhou, Shantou, and parts of Fujian, It was also felt in Hong Kong and on the island of Yonaguni, Japan, where it measured ''Shindo'' 4 on the Japan Meteorological Agency seismic intensity scale.",
+              "references": [
+                "https://news.tvbs.com.tw/life/2444251?from=life_content_pack",
+                "https://scweb.cwa.gov.tw/zh-tw/earthquake/Parameters/2024040307580971019",
+                "https://english.kyodonews.net/news/2024/04/7a869940ecb5-urgent-m75-quake-hits-off-taiwan-tsunami-alert-for-southwest-japan-isles.html",
+                "https://www.france24.com/en/live-news/20240403-one-feared-dead-dozens-injured-in-most-powerful-taiwan-quake-in-25-years"
+              ]
+            },
+            {
+              "id": "3.s4",
+              "text": "The earthquake had a Focus (earthquake)|focal mechanism corresponding to reverse-faulting at a {{cvt|34.8|km}} depth. According to the USGS, the rupture occurred on a northeast–southwest-striking, moderately dipping, reverse fault within the Eurasian plate. The estimated rupture dimensions for a similarly sized reverse-faulting earthquake is {{cvt|60|km}} by {{cvt|35|km}}. Its finite fault model indicated rupture on an east-southeast dipping plane. The slip occurred within an elliptical rupture area {{cvt|60|km}} by {{cvt|60|km}} on the plane. The maximum displacement was estimated at {{Cvt|1.2471|m}}.",
+              "references": [
+                "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003009/executive"
+              ]
+            },
+            {
+              "id": "3.s5",
+              "text": "The China Earthquake Administration (PRC) estimated the earthquake rupture process did not exceed 35 seconds in duration. The slip was distributed across a fault {{cvt|50|km}} across. According to their finite fault model, slip was mainly concentrated around the epicenter, reaching {{cvt|3|m}} of maximum displacement. The model's geometry consists of a northeast striking fault dipping at a shallow angle to the northwest. About {{cvt|1|m}} of slip occurred at the shallow part of the fault that reaches the seafloor off the island's coast. As of November 2024, Hualien City was still experiencing aftershocks.\n{{maplink|frame=yes|frame-align=right|frame-width=|frame-height=|from=2024 Hualien earthquake.map|frame-latitude=24|frame-longitude=121.74|zoom=8|text=Main shock and aftershocks (c:Data:2024 Hualien earthquake.map|map data)}}",
+              "references": [
+                "https://www.cea-igp.ac.cn/kydt/280530.html"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Tsunami",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "A tsunami was triggered by the earthquake, with a maximum height of {{cvt|1|m|ft}} in parts of Hualien City. The Ministry of Natural Resources (China)|Ministry of Natural Resources of the People's Republic of China issued a second-highest level orange tsunami alert, warning of potential localized waves that could cause significant damage in affected coastal areas.",
+              "references": [
+                "https://www3.nhk.or.jp/nhkworld/en/news/backstories/3210/",
+                "https://www.chinadaily.com.cn/a/202404/03/WS660cc9daa31082fc043c03d6.html"
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "In the Philippines, evacuations were ordered by the National Disaster Risk Reduction and Management Council in the provinces of Batanes, Cagayan, Isabela (province)|Isabela and Ilocos Norte following a warning by the Philippine Institute of Volcanology and Seismology (PHIVOLCS). An advisory was issued to 23 provinces for \"high tsunami waves\" measuring {{Cvt|3|m}}, which was later reduced to {{Cvt|30|cm}}.",
+              "references": [
+                "https://www.nst.com.my/world/region/2024/04/1033720/philippines-warns-tsunami-orders-evacuations-after-taiwan-quake"
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "{{Location map+|Taiwan|relief=1|width=300|float=right|caption=Maximum tsunami heights observed at different places in Taiwan|places=\n{{Location map~|Taiwan|relief=1\n | label=\n | lat=23.835\n | long=121.598\n | mark=Bullseye1.png\n | marksize=30\n | position=left}}\n{{Location map~|Taiwan|lat_deg=23.9806|lon_deg=121.6236|position=left|background=|label=<small>Hualien: {{cvt|1|m}}</small> }}\n{{Location map~|Taiwan|lat_deg=25.0975|lon_deg=121.9181|position=left|background=|label=<small>Longdong: {{cvt|22|cm}}</small> }}\n{{Location map~|Taiwan|lat_deg=23.0972|lon_deg=121.3799|position=left|background=|label=<small>Chenggong: {{cvt|54|cm}}</small> }}\n{{Location map~|Taiwan|lat_deg=24.2878|lon_deg=120.5331|position=left|background=|label=<small>Taichung port: {{cvt|27|cm}}</small> }}\n{{Location map~|Taiwan|lat_deg=23.45|lon_deg=120.1394|position=left|background=|label=<small>Dongshih: {{cvt|21|cm}}</small> }}\n{{Location map~|Taiwan|lat_deg=24.5925|lon_deg=121.8658|position=left|background=|label=<small>Suao: {{cvt|43|cm}}</small> }}\n{{Location map~|Taiwan|lat_deg=24.8686|lon_deg=121.8396|position=left|background=|label=<small>Wushi: {{cvt|82|cm}}</small> }}\n{{Location map~|Taiwan|lat_deg=25.2839|lon_deg=121.5103|position=left|background=|label=<small>Linshanbi: {{cvt|26|cm}}</small> }}\n}}",
+              "references": [
+                "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/runup-more-info/37832",
+                "https://www.cwa.gov.tw/Data/Tsunami/TSU11300303.gif"
+              ]
+            },
+            {
+              "id": "4.s4",
+              "text": "The Japan Meteorological Agency issued a tsunami warning for Okinawa Prefecture and as waves of {{Cvt|3|m}} were expected, which was later downgraded to a \"tsunami advisory\". A {{Cvt|30|cm}} wave was observed at Yonaguni about 15 minutes after the earthquake. Waves were also expected along the Miyako Islands|Miyako and Yaeyama Islands, The tsunami warning was the first to be issued in Okinawa Prefecture since the 2011 Tōhoku earthquake and tsunami, while the tsunami was the first to strike the area since 1998. The Japan Self-Defense Forces ordered its air assets at Naha Air Base to fly out or be moved to secure hangars or higher ground to prevent its possible destruction. China's Tsunami Warning Centre, which is under the Ministry of Natural Resources, issued its highest alert level at level 1, or red.",
+              "references": [
+                "https://www.japantimes.co.jp/news/2024/04/03/japan/okinawa-tsunami-warning/",
+                "https://www.abc.net.au/news/2024-04-03/taiwan-blog-earthquake-tsunami-warning/103662440",
+                "https://edition.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl",
+                "https://edition.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Impact",
+      "content": [
+        {
+          "id": "5.1",
+          "title": "3 April",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.1.s1",
+                  "text": "Eighteen fatalities were initially reported, along with a total of 1,145 people injured and 442 others initially declared stranded. Two people were listed as missing, namely a couple carrying dual Australian and Singaporean nationality. In December 2024, a court in Hualien issued death certificates for the two missing, while the remains of one of them were found in January 2025. The National Fire Agency recorded at least 1,151 earthquake-related incidents.",
+                  "references": [
+                    "https://focustaiwan.tw/society/202404250021",
+                    "https://news.southcn.com/node_179d29f1ce/cfdc380820.shtml",
+                    "https://focustaiwan.tw/society/202404130009",
+                    "https://focustaiwan.tw/society/202404070012",
+                    "https://focustaiwan.tw/society/202501260009",
+                    "https://www.setn.com/News.aspx?NewsID=1448849",
+                    "https://tw.news.yahoo.com/403%E5%A4%A7%E5%9C%B0%E9%9C%87-1900%E7%B5%B1%E8%A8%88-9%E6%AD%BB946%E5%82%B7137%E5%8F%97%E5%9B%B0-%E5%85%A8%E5%8F%B0%E7%81%BD%E6%83%851151%E4%BB%B6-114725888.html"
+                  ]
+                },
+                {
+                  "id": "5.1.s2",
+                  "text": "All fatalities occurred in Hualien County; most of the dead were killed in Taroko National Park, including ten hikers who were caught in rockfalls on Dekalun Trail, Xiaozhuilu Trail, and Shakadang Trail. This also included five members of the same family. Five people died after rockfalls occurred along the Central Cross-Island Highway and the Suhua Highway, A woman in Hualien City died after she returned to her building to retrieve her cat, during which she was pinned down by a column following an aftershock. Five cats trapped in the building, including the deceased woman's cat, were later found alive and were rescued.",
+                  "references": [
+                    "https://focustaiwan.tw/society/202404100021",
+                    "https://focustaiwan.tw/society/202404030017",
+                    "https://www.taipeitimes.com/News/taiwan/archives/2024/04/14/2003816405",
+                    "https://focustaiwan.tw/society/202404030020",
+                    "https://focustaiwan.tw/society/202404100008"
+                  ]
+                },
+                {
+                  "id": "5.1.s3",
+                  "text": "Taiwan's Earthquake warning system|earthquake alert system did not send an advance alert of the mainshock, unlike in previous instances. Authorities later said that they had initially estimated the earthquake to be of a smaller magnitude ranging between 6.2 and 6.8. The CWA Seismology Center later clarified that it had sent out two alerts that covered the immediate area of the epicenter as well as parts of southern and central Taiwan but not the Taipei area, adding that conditions for issuing a national-level warning depended on the earthquake measuring a magnitude above five and its intensity reaching four on the CWA's seven-level scale.",
+                  "references": [
+                    "https://www.aljazeera.com/news/2024/4/3/japan-issues-tsunami-alert-after-7-5-magnitude-earthquake",
+                    "https://focustaiwan.tw/society/202404040018"
+                  ]
+                },
+                {
+                  "id": "5.1.s4",
+                  "text": "Six hundred people were stranded in Taroko National Park. while 40 others were injured. Injuries were also reported across Hualien City, Yilan City|Yilan, Taipei, New Taipei City, Keelung, Taichung and Taoyuan, Taiwan|Taoyuan due to falls or toppled objects. Sixty people were trapped inside the {{Cvt|400|m}} Jinwen Tunnel along the Suhua Highway, while 50 employees of the Silk's Place Hotel Taroko who were traveling in four minibuses were also declared trapped after none of them could be contacted by authorities over the phone. A rescued employee later said that their convoy had been trapped in a tunnel following a rockfall and that the vehicle she was in was severely damaged by a rock. Seventy people were also trapped in two rock quarries, while nine people were trapped inside a cave.",
+                  "references": [
+                    "https://edition.cnn.com/2024/04/02/asia/taiwan-earthquake-tsunami-warning-intl-hnk/index.html",
+                    "https://www.scmp.com/news/china/article/3257638/73-magnitude-earthquake-rocks-taiwan-collapsing-buildings",
+                    "https://focustaiwan.tw/society/202404030009",
+                    "https://focustaiwan.tw/society/202404030028",
+                    "https://www.bbc.com/news/world-asia-68719996"
+                  ]
+                },
+                {
+                  "id": "5.1.s5",
+                  "text": "The Central Emergency Operation Center reported at least 2,498 cases of damage nationwide following the earthquake, with 1,140 instances in Taipei, 497 in New Taipei and 366 in Hualien County. At least 111 structures were destroyed, while 1,939 houses, 870 buildings and 75 roads and tunnels were damaged by the earthquake. Of the 28 reported building collapses, 17 of them occurred in Hualien, while the other 11 occurred in Yilan, New Taipei and Keelung. Twelve buildings deemed unsafe were ordered demolished by authorities. In Hualien City, two houses, the nine-story Uranus building and a restaurant collapsed, trapping many people inside. One person was found dead Forty-eight residential buildings in the city were damaged, At least 200 residents living near the epicenter were displaced. A total of 1,400 households in Hualien County were damaged.",
+                  "references": [
+                    "https://focustaiwan.tw/society/202404040006",
+                    "https://www.ngdc.noaa.gov/hazel/view/hazards/earthquake/event-more-info/10737",
+                    "https://edition.cnn.com/2024/04/03/asia/taiwan-hualien-earthquake-rescue-efforts-intl-hnk/index.html",
+                    "https://udn.com/news/story/123995/7874083",
+                    "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E5%A4%A7%E5%9C%B0%E9%9C%87-%E8%8A%B1%E8%93%AE%E6%B0%91%E5%AE%85%E8%BD%9F%E7%84%B6%E5%80%92%E5%A1%8C%E5%B1%8B%E5%85%A7%E4%BA%BA%E6%95%B8%E4%B8%8D%E6%98%8E-%E7%95%B6%E5%9C%B0%E8%AD%A6%E6%B6%88%E6%90%B6%E6%95%91%E4%B8%AD-004518705.html",
+                    "https://tw.news.yahoo.com/%E5%9C%8B%E7%AB%8B%E8%8A%B1%E8%93%AE%E5%A5%B3%E5%AD%90%E9%AB%98%E7%B4%9A%E4%B8%AD%E5%AD%B8%E5%A4%96%E8%A7%80-%E5%9C%96-032754507.html",
+                    "https://tw.news.yahoo.com/%E8%8A%B1%E8%93%AE7-2%E5%A4%A7%E5%9C%B0%E9%9C%87-%E8%8A%B1%E8%93%AE%E5%A5%B3%E4%B8%AD%E6%A0%A1%E8%88%8D%E9%A9%9A%E5%82%B3%E5%A1%8C%E9%99%B7-%E9%8B%BC%E7%AD%8B%E5%A4%96%E9%9C%B2-%E7%8F%BE%E5%A0%B4%E7%95%AB%E9%9D%A2-014013193.html"
+                  ]
+                },
+                {
+                  "id": "5.1.s6",
+                  "text": "In Taipei, 249 people were injured, six of them seriously, and 10 houses were severely damaged. A warehouse collapsed in New Taipei City, causing three minor injuries. Fifty people were subsequently rescued from the building. The Legislative Yuan building also sustained damage to its walls and ceilings, while debris fell from the Liberty Square (Taipei)|Liberty Square archway of Chiang Kai-shek Memorial Hall. A viaduct of the Circular line (New Taipei Metro)|New Taipei Circular line between Banxin metro station|Banxin and Zhongyuan metro station|Zhongyuan stations was disaligned, while a train was derailed at Jingan metro station|Jingan station, damaging the station platform and track bed. All service on the Taipei Metro was briefly suspended for safety checks. Nevertheless, train service through the epicenter region was restored within 24 hours. A portion of the ceiling in Taoyuan International Airport collapsed. In Nantou County, 66 schools submitted disaster reports and nine residential homes sustained damage.",
+                  "references": [
+                    "https://udn.com/news/story/7323/7876305",
+                    "https://udn.com/news/story/123995/7874069",
+                    "https://udn.com/news/story/7320/7874124",
+                    "https://news.ltn.com.tw/news/life/breakingnews/4628419",
+                    "https://www.npr.org/2024/04/04/1242721841/taiwan-emerges-remarkably-unscathed-after-massive-earthquake",
+                    "https://money.udn.com/money/story/7307/7876714?from=edn_newest_index",
+                    "https://www.ettoday.net/news/20240408/2715618.htm"
+                  ]
+                },
+                {
+                  "id": "5.1.s7",
+                  "text": "Power outages affected 371,869 homes in Taiwan according to the Ministry of Economic Affairs (Taiwan)|Ministry of Economic Affairs, Electricity was restored in 70 percent of households within two hours of the earthquake by Taipower, Eighty cell phone base stations were damaged. No anomalies were recorded in any of Taiwan's Nuclear power in Taiwan|three nuclear plants.",
+                  "references": [
+                    "https://udn.com/news/story/123995/7874029",
+                    "https://www.bbc.com/news/world-asia-68719996",
+                    "https://english.kyodonews.net/news/2024/04/7a869940ecb5-urgent-m75-quake-hits-off-taiwan-tsunami-alert-for-southwest-japan-isles.html",
+                    "https://focustaiwan.tw/society/202404030008"
+                  ]
+                },
+                {
+                  "id": "5.1.s8",
+                  "text": "A total of 779 landslides were recorded following the earthquake, affecting 433.93 hectares. The Suhua Highway was closed after sections of it were struck by at least nine rockfalls. Rockfalls occurred on another highway which hit at least 12 cars and injured nine people. A landslide along Provincial Highway 9 (Taiwan)|Provincial Highway 9 between Su'ao and Hualien blocked traffic at Chongde railway station, while a rockfall also occurred in the Heren railway station|Heren-Chongde section of the Eastern Trunk line in Hualien. A section of the Central Cross-Island Highway between Dayuling and Taroko was also closed. A portion of Guishan Island (Yilan)|Guishan Island collapsed into the sea.",
+                  "references": [
+                    "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-7-2%E5%9C%B0%E9%9C%87%E8%8A%B1%E8%93%AE%E5%B4%87%E5%BE%B7%E5%B1%B1%E5%B4%A9-%E7%9F%B3%E5%A1%8A%E9%AB%98%E8%99%95%E6%8E%89%E8%90%BD%E5%A1%B5%E5%9C%9F%E9%A3%9B%E6%8F%9A%E6%81%90%E6%80%96%E7%95%AB%E9%9D%A2%E6%9B%9D-005349284.html",
+                    "https://edition.cnn.com/asia/live-news/taiwan-earthquake-hualien-tsunami-warning-hnk-intl",
+                    "https://focustaiwan.tw/society/202404030006"
+                  ]
+                },
+                {
+                  "id": "5.1.s9",
+                  "text": "Six F-16 fighter jets of the Republic of China Air Force were slightly damaged at a base in Hualien. At the distillery of the Taiwan Tobacco and Liquor Corporation in Hualien, around 192,000 alcohol bottles were shattered, causing financial losses of at least NT$14 million (US$435,845). The earthquake also destroyed 1,000 vats of Shaoxing wine in the distillery. The Ministry of Education (Taiwan)|Education Ministry said that 434 schools suffered damage from the earthquake totaling NT$470 million (US$14.66 million), mostly in Hualien and Pingtung County|Pingtung Counties and Hsinchu City. The Ministry of the Interior (Taiwan)|Interior Ministry said damage to the Taroko National Park reached NT$1 billion (US$30.92 million).",
+                  "references": [
+                    "https://www.japantimes.co.jp/news/2024/04/04/asia-pacific/taiwan-earthquake/",
+                    "https://www.theguardian.com/world/2024/apr/04/taiwan-earthquake-2024-news-landslides-quake-aftershocks-survivors-search",
+                    "https://focustaiwan.tw/business/202404080012",
+                    "https://focustaiwan.tw/society/202404040012",
+                    "https://focustaiwan.tw/business/202404080010",
+                    "https://focustaiwan.tw/society/202404150013"
+                  ]
+                },
+                {
+                  "id": "5.1.s10",
+                  "text": "The Ministry of Agriculture (Taiwan)|Ministry of Agriculture estimated agricultural damage from the earthquake at NT$80.8 million (US$2.53 million), with Hualien County accounting for NT$79.15 million.",
+                  "references": [
+                    "https://focustaiwan.tw/society/202404070017"
+                  ]
+                },
+                {
+                  "id": "5.1.s11",
+                  "text": "In China, railway services were temporarily suspended in eastern parts of the country. Two people were slightly injured during evacuation due to the tsunami warnings in Okinawa Prefecture, Japan.",
+                  "references": [
+                    "https://news.qq.com/rain/a/20240404A0636Z00",
+                    "https://www.okinawatimes.co.jp/articles/-/1336552"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "23 April",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.2.s1",
+                  "text": "In Hualien City, two buildings collapsed, namely the Fukai Hotel and the Commander Building, the latter of which sustained damage in the 3 April earthquake and was deemed unsafe. Two houses were also destroyed in Ji'an, Hualien|Ji'an. In Shoufeng, a two-story house partially collapsed, while 100 houses lost power. As a result, schools and offices throughout Hualien County were closed on 23 April. A section of the Central Cross-Island Highway between Taroko and Tianxiang was closed due to rockslides, while the Silk's Place Hotel Taroko moved its reopening date from 1 May to 30 June due to concerns over damage in the Taroko National Park. The hotel eventually reopened on 3 October.",
+                  "references": [
+                    "https://www.setn.com/News.aspx?NewsID=1457906",
+                    "https://today.line.me/tw/v2/article/aG3JVW3",
+                    "https://ctinews.com/news/items/v7x3Q3m7Wj",
+                    "https://focustaiwan.tw/society/202404230016",
+                    "https://focustaiwan.tw/society/202404230011",
+                    "https://focustaiwan.tw/business/202411080021"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Response",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "responds to the earthquake.]]\nIncumbent President of the Republic of China|Taiwanese president Tsai Ing-wen expressed concern about the damage and ordered the Republic of China Armed Forces|ROC Armed Forces to support the local government in Hualien and others parts of the island in rescue missions. Vice President of the Republic of China|Vice-president and president-elect Lai Ching-te called on the public to be careful and stay calm and announced the formation of an emergency centre to deal with the disaster. while Premier of the Republic of China|Premier Chen Chien-jen visited temporary shelters for displaced residents in Hualien on 4 April. Chen also announced that the Directorate General of Budget, Accounting and Statistics would allocate NT$300 million (US$9,366,144) in disaster relief to the Hualien County government and would exempt from taxation income received by affected residents taking up temporary employment because of the earthquake. Tsai, Lai, Chen and Vice Premier of the Republic of China|Vice Premier Cheng Wen-tsan also pledged to donate a month's worth of their salaries for disaster relief. Tsai also warned citizens against non-essential travel to mountains for the long weekend brought about by the Qingming Festival, which began a day after the earthquake. On 10 April, Tsai visited affected areas of Hualien County and Taroko National Park, where she met with rescue workers. The Executive Yuan subsequently allotted more than NT$28.55 billion (US$878.15 million) in disaster relief and recovery efforts.",
+              "references": [
+                "https://focustaiwan.tw/politics/202404030023",
+                "https://english.kyodonews.net/news/2024/04/c5a7af48577c-taiwan-quake-injured-toll-rises-to-1050-with-30-missing-9-dead.html",
+                "https://focustaiwan.tw/society/202404040009",
+                "https://www.aljazeera.com/news/2024/4/5/taiwan-searches-for-18-still-missing-after-wednesdays-quake",
+                "https://focustaiwan.tw/politics/202405020014"
+              ]
+            },
+            {
+              "id": "6.s2",
+              "text": "Hualien County magistrate Hsu Chen-wei said all residents and businesses in buildings that were in a dangerous state had been evacuated. Low-orbit satellites were used to facilitate communications in their first deployment for a disaster in Taiwan. to rescue at least 82 stranded individuals, and drop food to stranded individuals pending rescue. Emergency workers propped up the Uranus building with gravel and rocks to prevent it from completely falling over in an aftershock. Demolition works on the building began on 5 April The Ministry of Health and Welfare (Taiwan)|Health Ministry placed medical staff in Yilan and Taitung County|Taitung on stand-by to help victims in Hualien.",
+              "references": [
+                "https://www.theguardian.com/world/live/2024/apr/03/taiwan-earthquake-today-live-updates-magnitude-tsunami-warning-japan-evacuations-okinawa-buildings-collapse-tapei",
+                "https://focustaiwan.tw/society/202404050009",
+                "https://www.bbc.com/news/world-asia-68729048",
+                "https://focustaiwan.tw/society/202404175001",
+                "https://www.france24.com/en/live-news/20240408-taiwan-s-search-dogs-win-hearts-in-search-for-quake-victims"
+              ]
+            },
+            {
+              "id": "6.s3",
+              "text": "The Ministry of Transportation and Communications (Taiwan)|Ministry of Transportation and Communications initiated maritime ferry services between Suao Township|Su'ao Port in Yilan County, Taiwan|Yilan County and the Port of Hualien beginning on 4 April, while Mandarin Airlines and UNI Air added seven extra flights between Hualien Airport and the rest of Taiwan. Railway services between Hualien and Yilan Counties reopened on 4 April following repairs and clearing operations by the Taiwan Railway Corporation. The New Taipei City Government opened 15 shelters for 269 displaced residents Partial operations at the New Taipei Circular Line resumed on the afternoon of 3 April, with other sections reopening on 7 April, leaving only a portion of the line between Banqiao station|Banqiao and Zhonghe metro station|Zhonghe stations still under repair.",
+              "references": [
+                "https://focustaiwan.tw/society/202404030019",
+                "https://focustaiwan.tw/society/202404040004",
+                "https://focustaiwan.tw/society/202404070013"
+              ]
+            },
+            {
+              "id": "6.s4",
+              "text": "Several semiconductor firms, including Powerchip, InnoLux Corporation|InnoLux, United Microelectronics Corporation|UMC, {{ill|King Yuan Electronics Company|zh|京元電子}}, Taimide Tech, and TSMC temporarily suspended operations and evacuated their facilities in Hsinchu. TSMC said it expected losses of about $60 million from the earthquake and reported minimal damage to some of its facilities and equipment, Other manufacturers resumed operations on 4 April. The Taiwan Stock Exchange continued regular operations on 3 April despite the earthquake.",
+              "references": [
+                "https://focustaiwan.tw/business/202404030010",
+                "https://focustaiwan.tw/business/202404040002",
+                "https://focustaiwan.tw/business/202404040015"
+              ]
+            },
+            {
+              "id": "6.s5",
+              "text": "The Health Ministry and the Hualien County government set up dedicated bank accounts and online platforms for receiving earthquake-related donations. The Ministry of Finance (Taiwan)|Finance Ministry also said that 12 government-owned businesses would donate a total of NT$21 million. The Ministry of Economic Affairs said that it was planning to provide loans totaling NT$20 billion to support affected businesses, and Taitung County|Taitung Counties.",
+              "references": [
+                "https://focustaiwan.tw/society/202404280007",
+                "https://focustaiwan.tw/business/202404180017",
+                "https://focustaiwan.tw/society/202405130005"
+              ]
+            },
+            {
+              "id": "6.s6",
+              "text": "Several prominent Taiwanese firms announced donations towards disaster relief. Foxconn pledged NT$80 million while its founder, Terry Gou personally pledged NT$60 million. Taishin Financial Holdings pledged NT$10 million while Acer Inc. pledged NT$6 million. Quanta Computer and Fubon Financial Holding Co. respectively pledged donations of NT$50 million for earthquake relief, while Wanin International Co., Tung Ho Steel Enterprise Corp., and Yageo pledged a combined total of NT$36 million.",
+              "references": [
+                "https://focustaiwan.tw/society/202404030027"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Impact on local economy",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "Tourist arrivals to Hualien fell by about 200,000 in the month following the earthquake. Taiwan's tourism administration began offering subsidies for tourists travelling to the area after the earthquake, which were extended after they were initially rolled out.",
+              "references": [
+                "https://www.taiwannews.com.tw/news/5900278",
+                "https://taiwannews.com.tw/news/5685431"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "International reactions",
+      "content": [
+        {
+          "id": "8.1",
+          "title": "Countries",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.1.s1",
+                  "text": "The Taiwan Affairs Office of the People's Republic of China (PRC) said it was highly concerned with the earthquake and was willing to provide disaster relief assistance. In response, Taiwan's Mainland Affairs Council expressed thanks for its concern but said that there would be no request for assistance from Taiwan. On 4 April, the Ministry of Foreign Affairs (Taiwan)|Taiwanese foreign ministry condemned the PRC for its \"shameless use of the Taiwan earthquake to conduct psychological warfare|cognitive operations internationally\" after Geng Shuang, China's deputy ambassador to the United Nations, said China is \"ready to provide disaster relief\" and thanked \"the international community for their care and good wishes\" at a UN meeting. The ministry also criticized Bolivia for expressing solidarity with China over the earthquake.",
+                  "references": [
+                    "https://www.jpost.com/breaking-news/article-795074",
+                    "https://www.scmp.com/news/china/article/3257638/73-magnitude-earthquake-rocks-taiwan-collapsing-buildings",
+                    "https://www.rappler.com/world/asia-pacific/taiwan-condemns-shameless-china-accepting-world-concern-quake/",
+                    "http://un.china-mission.gov.cn/eng/hyyfy/202404/t20240404_11276480.htm",
+                    "https://focustaiwan.tw/politics/202404060010"
+                  ]
+                },
+                {
+                  "id": "8.1.s2",
+                  "text": "Japan deployed military aircraft to observe possible damage in Okinawa Prefecture following the tsunami alert. with Foreign Minister Yoko Kamikawa announcing a donation of $1 million that was turned over on 10 April. South Korea also pledged US$500,000 in aid, while Thailand provided a NT$1 million (US$31,018) donation. Lithuania pledged 50,000 euros (US$53,205) for reconstruction efforts in Hualien County, while the Czech Republic pledged US$150,000 for relief efforts. The United States said that it was \"ready to provide any necessary assistance\". At least 47 countries, including those with Foreign relations of Taiwan|no official diplomatic relations with Taiwan, as well as the European Union, expressed sympathies and offered support to Taiwan.{{efn|including Paraguay, Guatemala, Palau, Eswatini, Saint Kitts and Nevis, Belize, Tuvalu, Saint Lucia, Japan, the Philippines, India, Singapore, the United Kingdom, Thailand, Saint Vincent and the Grenadines, France, Ukraine, the United States, China, Estonia, Latvia, South Korea and Vatican City}}",
+                  "references": [
+                    "https://japan.kantei.go.jp/101_kishida/decisions/2024/03message.html",
+                    "https://english.kyodonews.net/news/2024/04/13e286547dda-2-more-bodies-found-after-taiwan-quake-as-72-hour-window-nears-end.html",
+                    "https://en.yna.co.kr/view/AEN20240411004000315",
+                    "https://focustaiwan.tw/politics/202404120019",
+                    "https://focustaiwan.tw/politics/202404130014",
+                    "https://focustaiwan.tw/politics/202404300006",
+                    "https://focustaiwan.tw/politics/202404040005",
+                    "https://www.vaticannews.va/en/pope/news/2024-04/pope-assures-victims-of-taiwan-quake-of-solidarity-and-closeness.html",
+                    "https://en.yna.co.kr/view/AEN20240404007200315"
+                  ]
+                },
+                {
+                  "id": "8.1.s3",
+                  "text": "On 6 April, Taiwan announced that it had accepted an offer from Turkey to send a team of seven rescue specialists carrying drones who were expected to arrive later in the day, adding that it was the only foreign rescue team that it had allowed to enter in reciprocation for the aid given by Taiwanese rescue workers in the 2023 Turkey–Syria earthquakes. On 7 April, the Manila Economic and Cultural Office (MECO), the de facto embassy of the Philippines in Taiwan, distributed humanitarian aid to Overseas Filipino Workers in Hualien.",
+                  "references": [
+                    "https://focustaiwan.tw/society/202404060009",
+                    "https://focustaiwan.tw/business/202404080010",
+                    "https://focustaiwan.tw/politics/202404070015"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Private entities",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.2.s1",
+                  "text": "Multinational firms such as Japan's Kura Sushi and South Korea's Coupang pledged NTS$2 million each for disaster relief, while FamilyMart and 7-Eleven opened donation channels in their respective mobile applications. Cathay Financial Holdings pledged NT$30 million, while Shin Kong Financial Holdings pledged NT$10 million, with NT$6 million specifically earmarked to the Hualien County government.",
+                  "references": [
+                    "https://focustaiwan.tw/politics/202404110011"
+                  ]
+                },
+                {
+                  "id": "8.2.s2",
+                  "text": "The Red Cross Society of the Republic of China received a 10 million yen (US$65,903) donation from Japanese musician Yoshiki (musician)|Yoshiki.",
+                  "references": [
+                    "https://focustaiwan.tw/sports/202404050010"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

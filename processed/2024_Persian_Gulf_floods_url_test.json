@@ -1,0 +1,780 @@
+{
+  "title": "2024_Persian_Gulf_floods",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "In April 2024 heavy rain severely impacted states in the Persian Gulf, causing flash flooding across the region. Several states recorded nearly a year's worth of rain in a single day. The floods had a significant impact across the region, with Oman and the 2024 United Arab Emirates floods|United Arab Emirates being particularly affected, resulting in the deaths of at least 46 people, including 20 in Oman, and 18 in Iran. Yemen, Bahrain, Qatar, and the Eastern Province, Saudi Arabia|Eastern Province of Saudi Arabia also experienced heavy rainfall and subsequent flooding.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Singh |first=Marisha |date=18 April 2024 |title=Unusual weather system brings rain to Saudi Arabia, Bahrain |url=https://gulfbusiness.com/unusual-weather-system-rain-saudi-arabia-bahrain/ |access-date=18 April 2024 |language=en-US |archive-date=20 April 2024 |archive-url=https://web.archive.org/web/20240420180114/https://gulfbusiness.com/unusual-weather-system-rain-saudi-arabia-bahrain/ |url-status=live }}</ref>",
+                  "url": "https://gulfbusiness.com/unusual-weather-system-rain-saudi-arabia-bahrain/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Rannard |first=Georgina |date=25 April 2024 |title=Deadly Dubai floods made worse by climate change |url=https://www.bbc.com/news/science-environment-68897443 |access-date=2024-08-04 |work=BBC News}}</ref>",
+                  "url": "https://www.bbc.com/news/science-environment-68897443",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=20 April 2024 |title=Death Toll From Region-Wide Floods Rises To 18 In Southeast Iran |url=https://www.iranintl.com/en/202404208333 |access-date=2024-08-04 |work=Iran International}}</ref>",
+                  "url": "https://www.iranintl.com/en/202404208333",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Causes",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The Persian Gulf region is known for its hot and dry weather, though heavy rains causing flooding have also occurred with greater regularity in recent years. Britain's Royal Meteorological Society stated that the likely cause is a mesoscale convective system. Senior forecaster Esraa Alnaqbi of the UAE's National Centre of Meteorology (NCM) further explained that \"a low pressure system in the upper atmosphere, coupled with low pressure at the surface had acted like a pressure 'squeeze' on the air. That squeeze, intensified by the contrast between warmer temperatures at ground level and colder temperatures higher up, created the conditions for the powerful thunderstorm\". Climate scientist Michael Mann at the University of Pennsylvania stated that three low-pressure systems formed a train of storms which moved along the jet stream toward the Persian Gulf. The strong low-pressure system delivered multiple rounds of high winds and heavy rain. Meteorologists from the University of Reading affirmed that the heavy rain was caused by large thunderstorms.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=16 April 2024 |title=Fierce storm lashes UAE as Dubai diverts flights |url=https://www.bbc.com/news/world-middle-east-68831408 |access-date=17 April 2024 |website=BBC News |language=en-GB |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417001907/https://www.bbc.com/news/world-middle-east-68831408 |url-status=live }}</ref>",
+                  "url": "https://www.bbc.com/news/world-middle-east-68831408",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Ahmar |first=Abir |date=30 August 2022 |title=Parched UAE turns to science to squeeze more rainfall from clouds |url=https://www.reuters.com/world/middle-east/parched-uae-turns-science-squeeze-more-rainfall-clouds-2022-08-30/ |url-status=live |archive-url=https://web.archive.org/web/20231117094001/https://www.reuters.com/world/middle-east/parched-uae-turns-science-squeeze-more-rainfall-clouds-2022-08-30/ |archive-date=17 November 2023 |access-date=17 April 2024 |website=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/parched-uae-turns-science-squeeze-more-rainfall-clouds-2022-08-30/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":6\">{{Cite news |last=McCabe |first=Kirsty |date=18 April 2024 |title=Dubai floods and cloud seeding |url=https://www.rmets.org/metmatters/dubai-floods-and-cloud-seeding |access-date=2024-04-19 |work=Royal Meteorological Society |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419170941/https://www.rmets.org/metmatters/dubai-floods-and-cloud-seeding |url-status=live }}</ref>",
+                  "url": "https://www.rmets.org/metmatters/dubai-floods-and-cloud-seeding",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":5\">{{Cite news |last=Cornwell |first=Alexander |date=18 April 2024 |title=What caused Dubai floods? Experts cite climate change, not cloud seeding |url=https://www.reuters.com/world/middle-east/what-caused-storm-that-brought-dubai-standstill-2024-04-17/ |access-date=2024-04-19 |work=Reuters |archive-date=18 April 2024 |archive-url=https://web.archive.org/web/20240418132922/https://www.reuters.com/world/middle-east/what-caused-storm-that-brought-dubai-standstill-2024-04-17/ |url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/what-caused-storm-that-brought-dubai-standstill-2024-04-17/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |last1=Seth |first1=Borenstein |last2=Peterson |first2=Brittany |date=17 April 2024 |title=Here's why experts don't think cloud seeding played a role in Dubai's downpour |url=https://apnews.com/article/dubai-united-arab-emirates-oman-flooding-cloud-seeding-2f8c12854017e11ac7438579646b3758 |access-date=2024-04-22 |website=Associated Press |language=en |archive-date=21 April 2024 |archive-url=https://web.archive.org/web/20240421182555/https://apnews.com/article/dubai-united-arab-emirates-oman-flooding-cloud-seeding-2f8c12854017e11ac7438579646b3758 |url-status=live }}</ref>",
+                  "url": "https://apnews.com/article/dubai-united-arab-emirates-oman-flooding-cloud-seeding-2f8c12854017e11ac7438579646b3758",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":4\">{{Cite news |last=Knapton |first=Sarah |date=18 April 2024 |title=Reading University denies causing flooding in Dubai |url=https://www.telegraph.co.uk/news/2024/04/18/university-of-reading-denies-causing-dubai-flooding/ |url-status=live |archive-url=https://web.archive.org/web/20240418105018/https://www.telegraph.co.uk/news/2024/04/18/university-of-reading-denies-causing-dubai-flooding/ |archive-date=18 April 2024 |access-date=18 April 2024 |work=The Telegraph |language=en-GB |issn=0307-1235}}</ref>",
+                  "url": "https://www.telegraph.co.uk/news/2024/04/18/university-of-reading-denies-causing-dubai-flooding/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "Richard Allan, professor in climate science at the University of Reading and Friederike Otto, senior lecturer in climate science at Imperial College London, both linked the unusual weather to climate change, and stated that \"rainfall was becoming much heavier around the world as the climate warms\". and with rising temperatures and humidity levels, researchers expect an increased risk of flooding in the Persian Gulf.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite magazine |last=Katwala |first=Amit |title=No, Dubai's Floods Weren't Caused by Cloud Seeding |url=https://www.wired.com/story/dubai-flooding-uae-cloud-seeding-climate-change/ |url-status=live |archive-url=https://web.archive.org/web/20240417223520/https://www.wired.com/story/dubai-flooding-uae-cloud-seeding-climate-change/ |archive-date=17 April 2024 |access-date=18 April 2024 |magazine=Wired |language=en-US |issn=1059-1028}}</ref>",
+                  "url": "https://www.wired.com/story/dubai-flooding-uae-cloud-seeding-climate-change/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "magazine"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Mulhern |first=Owen |date=17 September 2020 |title=Sea Level Rise Projection Map – The Persian Gulf |url=https://earth.org/data_visualization/sea-level-rise-by-2100-the-persian-gulf/ |url-status=live |archive-url=https://web.archive.org/web/20231210110123/https://earth.org/data_visualization/sea-level-rise-by-2100-the-persian-gulf/ |archive-date=10 December 2023 |access-date=17 April 2024 |website=Earth.org}}</ref>",
+                  "url": "https://earth.org/data_visualization/sea-level-rise-by-2100-the-persian-gulf/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":5\" /> The region has been hit by heatwaves and cyclones in recent years,<ref>{{Cite news |last=Wintour |first=Patrick |date=29 October 2021 |title='Apocalypse soon': reluctant Middle East forced to open eyes to climate crisis |url=https://www.theguardian.com/environment/2021/oct/29/apocalypse-soon-reluctant-middle-east-forced-to-open-eyes-to-climate-crisis |url-status=live |archive-url=https://web.archive.org/web/20240111205535/https://www.theguardian.com/environment/2021/oct/29/apocalypse-soon-reluctant-middle-east-forced-to-open-eyes-to-climate-crisis |archive-date=11 January 2024 |access-date=17 April 2024 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>",
+                  "url": "https://www.theguardian.com/environment/2021/oct/29/apocalypse-soon-reluctant-middle-east-forced-to-open-eyes-to-climate-crisis",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":3\">{{Cite web |date=18 April 2024 |title=Fourth day after disastrous storm, flash floods – Oman and UAE grapple with aftermath |url=https://maktoobmedia.com/world/fourth-day-after-disastrous-storm-flash-floods-oman-and-uae-grapple-with-aftermath/ |access-date=18 April 2024 |website=Maktoob media |language=en-US |archive-date=20 April 2024 |archive-url=https://web.archive.org/web/20240420180105/https://maktoobmedia.com/world/fourth-day-after-disastrous-storm-flash-floods-oman-and-uae-grapple-with-aftermath/ |url-status=live }}</ref>",
+                  "url": "https://maktoobmedia.com/world/fourth-day-after-disastrous-storm-flash-floods-oman-and-uae-grapple-with-aftermath/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Impact",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "3.2",
+          "title": "Oman",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "In Oman at least 19 people were killed due to the floods. This included 10 schoolchildren and their driver whose vehicle was washed away by flood waters in Samad al-Shan on 14 April. Rescuers found the body of a girl in Saham. The hardest hit region was the Ash Sharqiyah North Governorate where widespread flooding was reported. Some flights were cancelled or delayed at Muscat International Airport.<ref name=\":3\" />",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=16 April 2024 |title=Dubai airport chaos as UAE and Oman reel from deadly storms |url=https://www.bbc.com/news/world-middle-east-68831408 |access-date=17 April 2024 |work=BBC News |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417001907/https://www.bbc.com/news/world-middle-east-68831408 |url-status=live }}</ref>",
+                      "url": "https://www.bbc.com/news/world-middle-east-68831408",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=16 April 2024 |title=Fierce storm lashes United Arab Emirates as Dubai diverts flights |url=https://www.bbc.com/news/world-middle-east-68831408 |access-date=17 April 2024 |language=en-GB |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417001907/https://www.bbc.com/news/world-middle-east-68831408 |url-status=live }}</ref>",
+                      "url": "https://www.bbc.com/news/world-middle-east-68831408",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=al Dhafri |first=Badr |date=15 April 2024 |title=The tragedy which took the lives of 10 students |url=https://www.omanobserver.om/article/1152370/oman/weather/the-tragedy-which-took-the-lives-of-10-students |access-date=18 April 2024 |website=Oman Observer |language=en |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417232104/https://www.omanobserver.om/article/1152370/oman/weather/the-tragedy-which-took-the-lives-of-10-students |url-status=live }}</ref>",
+                      "url": "https://www.omanobserver.om/article/1152370/oman/weather/the-tragedy-which-took-the-lives-of-10-students",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=16 April 2024 |title=Dubai airport chaos as UAE and Oman reel from deadly storms |url=https://www.bbc.com/news/world-middle-east-68831408 |access-date=18 April 2024 |language=en-GB |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417001907/https://www.bbc.com/news/world-middle-east-68831408 |url-status=live }}</ref>",
+                      "url": "https://www.bbc.com/news/world-middle-east-68831408",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "United Arab Emirates",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.3.s1",
+                  "text": "{{main|2024 United Arab Emirates floods }}\n\nThe rains began in UAE late on 15 April 2024, intensifying on 16 April, The UAE witnessed record-breaking rainfall in a 24-hour period, surpassing Emirati meteorological data since records began in 1949. According to the National Centre of Meteorology, the highest rainfall was recorded in the Khatm Al Shakla area in Al Ain, reaching {{convert|254.8|mm|in|abbr=on}} in less than 24 hours. Widespread flooding was reported in all seven emirates. Ahead of the flooding, a rainfall more than 100mm was estimated and anticipated in most parts of the UAE, including Dubai, Sharjah, Al-Ain, Abu Dhabi, Ajman and Ras-al-Khaimah.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":6\" /> and officially concluding on 17 April.<ref>{{Cite news |last=Mair |first=Findlay |date=17 April 2024 |title=UAE confirms the end of worst ever storm |url=https://www.timeoutdubai.com/news/uae-weather-storm-over |access-date=2024-04-19 |work=TimeOut UAE |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419171552/https://www.timeoutdubai.com/news/uae-weather-storm-over |url-status=live }}</ref>",
+                      "url": "https://www.timeoutdubai.com/news/uae-weather-storm-over",
+                      "status_code": 403,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=UAE witnesses record-breaking rains, highest in 75 years |url=https://www.khaleejtimes.com/uae/uae-witnesses-record-breaking-rains-highest-in-75-years |access-date=17 April 2024 |website=Khaleej Times |language=en |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417035625/https://www.khaleejtimes.com/uae/uae-witnesses-record-breaking-rains-highest-in-75-years |url-status=live }}</ref>",
+                      "url": "https://www.khaleejtimes.com/uae/uae-witnesses-record-breaking-rains-highest-in-75-years",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":0\">{{Cite web |date=16 April 2024 |title=Dubai flights: All arrivals diverted away from airport amid floods and rain in UAE |url=https://www.thenationalnews.com/news/uae/2024/04/16/abu-dhabi-and-dubai-lashed-by-heavy-rain-thunder-and-lightning/ |access-date=17 April 2024 |website=The National |language=en |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416175635/https://www.thenationalnews.com/news/uae/2024/04/16/abu-dhabi-and-dubai-lashed-by-heavy-rain-thunder-and-lightning/ |url-status=live }}</ref>",
+                      "url": "https://www.thenationalnews.com/news/uae/2024/04/16/abu-dhabi-and-dubai-lashed-by-heavy-rain-thunder-and-lightning/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=15 April 2024 |title=Weather tracker: Gulf braced for thunderstorms |url=https://www.theguardian.com/environment/2024/apr/15/weather-tracker-gulf-braced-for-thunderstorms |access-date=17 April 2024 |work=The Guardian |language=en-GB |issn=0261-3077 |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416014449/https://www.theguardian.com/environment/2024/apr/15/weather-tracker-gulf-braced-for-thunderstorms |url-status=live }}</ref>",
+                      "url": "https://www.theguardian.com/environment/2024/apr/15/weather-tracker-gulf-braced-for-thunderstorms",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s2",
+                  "text": "One Emirati citizen, a 70-year-old man, died after his car was swept away by floods in a wadi in Ras Al Khaimah. Three overseas Filipino workers also died, two after being trapped inside a vehicle trapped in flooding, and the third after their vehicle fell into a sinkhole. A Pakistani man in his 50s drowned after the municipality tanker he was driving was swept into a wadi.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=17 April 2024 |title=UAE citizen dies after being swept away by flooded wadi amid heavy rains |url=https://www.khaleejtimes.com/uae/uae-emirati-man-dies-after-being-swept-away-by-flooded-wadi-amid-heavy-rains |access-date=17 April 2024 |website=Khaleej Times |language=en |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417035627/https://www.khaleejtimes.com/uae/uae-emirati-man-dies-after-being-swept-away-by-flooded-wadi-amid-heavy-rains |url-status=live }}</ref>",
+                      "url": "https://www.khaleejtimes.com/uae/uae-emirati-man-dies-after-being-swept-away-by-flooded-wadi-amid-heavy-rains",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |title=3 OFWs died in UAE floods, DMW says |url=https://news.abs-cbn.com/news/2024/4/18/3-ofws-died-in-uae-floods-dmw-says-1909 |work=ABS-CBN |access-date=18 April 2024 |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419170924/https://news.abs-cbn.com/news/2024/4/18/3-ofws-died-in-uae-floods-dmw-says-1909 |url-status=live }}</ref>",
+                      "url": "https://news.abs-cbn.com/news/2024/4/18/3-ofws-died-in-uae-floods-dmw-says-1909",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |title=1 sa 3 OFW na nasawi sa Dubai, UAE noong kasagsagan ng ulan at baha, nahulog sa sinkhole |url=https://www.gmanetwork.com/news/balitambayan/content/904199/1-sa-3-ofw-na-nasawi-sa-dubai-uae-noong-kasagsagan-ng-ulan-at-baha-nahulog-sa-sinkhole/story/?just_in |work=GMA News |access-date=18 April 2024 |lang=fil |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419171419/https://www.gmanetwork.com/news/balitambayan/content/904199/1-sa-3-ofw-na-nasawi-sa-dubai-uae-noong-kasagsagan-ng-ulan-at-baha-nahulog-sa-sinkhole/story/?just_in |url-status=live }}</ref>",
+                      "url": "https://www.gmanetwork.com/news/balitambayan/content/904199/1-sa-3-ofw-na-nasawi-sa-dubai-uae-noong-kasagsagan-ng-ulan-at-baha-nahulog-sa-sinkhole/story/?just_in",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Ali |first=Aghaddir |date=20 April 2024 |title=UAE rains: Municipality worker drowns after tanker swept away by floodwaters in Al Dhaid region |url=https://gulfnews.com/uae/emergencies/uae-rains-municipality-worker-drowns-after-tanker-swept-away-by-floodwaters-in-al-dhaid-region-1.102251666 |access-date=2024-04-21 |work=Gulf News |archive-date=20 April 2024 |archive-url=https://web.archive.org/web/20240420194552/https://gulfnews.com/uae/emergencies/uae-rains-municipality-worker-drowns-after-tanker-swept-away-by-floodwaters-in-al-dhaid-region-1.102251666 |url-status=live }}</ref>",
+                      "url": "https://gulfnews.com/uae/emergencies/uae-rains-municipality-worker-drowns-after-tanker-swept-away-by-floodwaters-in-al-dhaid-region-1.102251666",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s3",
+                  "text": "Landslides were reported in Ras Al Khaimah and Al Ain. Residents were warned with an emergency alert message, advising residents to stay home and avoid driving unless absolutely necessary. In the entire country, schools and the private sector were instructed to work the remainder of the week (excluding Monday) remotely from home.<ref name=\":0\" />",
+                  "references": [
+                    {
+                      "text": "<ref name=\":0\" /> Internet and power outages were widespread as residents lost water.<ref>{{Cite web |last=Alawlaqi |first=Ahmed Waqqas |title='We underestimated this storm': UAE residents face electricity, water outages after flooding, heavy rains |url=https://www.khaleejtimes.com/uae/we-underestimated-this-storm-uae-residents-face-electricity-water-outages-after-flooding-heavy |url-status=live |archive-url=https://web.archive.org/web/20240417035620/https://www.khaleejtimes.com/uae/we-underestimated-this-storm-uae-residents-face-electricity-water-outages-after-flooding-heavy |archive-date=17 April 2024 |access-date=17 April 2024 |website=Khaleej Times |language=en}}</ref>",
+                      "url": "https://www.khaleejtimes.com/uae/we-underestimated-this-storm-uae-residents-face-electricity-water-outages-after-flooding-heavy",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Dubai announces extension of remote work, learning for second day amid unstable weather |url=https://www.khaleejtimes.com/uae/dubai-announces-extension-of-remote-work-learning-for-second-day-amid-unstable-weather |url-status=live |archive-url=https://web.archive.org/web/20240417035755/https://www.khaleejtimes.com/uae/dubai-announces-extension-of-remote-work-learning-for-second-day-amid-unstable-weather |archive-date=17 April 2024 |access-date=17 April 2024 |website=Khaleej Times |language=en}}</ref>",
+                      "url": "https://www.khaleejtimes.com/uae/dubai-announces-extension-of-remote-work-learning-for-second-day-amid-unstable-weather",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s4",
+                  "text": "Dubai Metro services were severely impacted, leaving around 200 commuters stranded at several stations when service was suspended. The next day, the Road and Transit Authority (RTA) carried out maintenance checks and opened limited service on both lines. Intercity bus service on the Dubai-Abu Dhabi, Dubai-Sharjah, and Dubai-Ajman routes were suspended. A total of 1,244 flights at Dubai International Airport were cancelled over a two-day period with 41 others diverted. All Flydubai flights scheduled for departure on 16 April from Dubai were cancelled. At the Dubai airport, a total of {{convert|6.45|in|mm|order=flip|abbr=on}} of rain fell.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=Dubai Metro update: RTA to carry out maintenance after rains put stations out of service |url=https://www.khaleejtimes.com/uae/transport/dubai-metro-update-rta-to-carry-out-maintenance-after-rains-put-stations-out-of-service |access-date=17 April 2024 |website=Khaleej Times |language=en |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417035618/https://www.khaleejtimes.com/uae/transport/dubai-metro-update-rta-to-carry-out-maintenance-after-rains-put-stations-out-of-service |url-status=live }}</ref>",
+                      "url": "https://www.khaleejtimes.com/uae/transport/dubai-metro-update-rta-to-carry-out-maintenance-after-rains-put-stations-out-of-service",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |url=https://twitter.com/rta_dubai/status/1780586601401176174 |title=Archived copy |access-date=21 April 2024 |archive-date=18 April 2024 |archive-url=https://web.archive.org/web/20240418033122/https://twitter.com/rta_dubai/status/1780586601401176174 |url-status=live }}</ref>",
+                      "url": "https://twitter.com/rta_dubai/status/1780586601401176174",
+                      "status_code": null,
+                      "reason": "400, message='Got more than 8190 bytes (9605) when reading Header value is too long.', url='https://twitter.com/rta_dubai/status/1780586601401176174'",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=16 April 2024 |title=UAE rains: Intercity bus services suspended due to unstable weather |url=https://gulfnews.com/uae/transport/uae-rains-intercity-bus-services-suspended-due-to-unstable-weather-1.1713288601599 |url-status=live |archive-url=https://web.archive.org/web/20240417040856/https://gulfnews.com/uae/transport/uae-rains-intercity-bus-services-suspended-due-to-unstable-weather-1.1713288601599 |archive-date=17 April 2024 |access-date=17 April 2024 |website=gulfnews.com |language=en}}</ref>",
+                      "url": "https://gulfnews.com/uae/transport/uae-rains-intercity-bus-services-suspended-due-to-unstable-weather-1.1713288601599",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url=https://tribune.com.pk/story/2462878/dubai-airport-diverts-flights-as-exceptional-weather-hits-gulf|title=Dubai Airport diverts flights as Exceptional weather hits Gulf|date=17 April 2024|access-date=19 April 2024|website=The Express Tribune|language=en|archive-date=18 April 2024|archive-url=https://web.archive.org/web/20240418175417/https://tribune.com.pk/story/2462878/dubai-airport-diverts-flights-as-exceptional-weather-hits-gulf|url-status=live}}</ref>",
+                      "url": "https://tribune.com.pk/story/2462878/dubai-airport-diverts-flights-as-exceptional-weather-hits-gulf",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Abbas |first=Waheed |title=884 Dubai flights cancelled over 2 days; DXB resumes arrivals for some airlines |url=https://www.khaleejtimes.com/business/aviation/884-dubai-flights-cancelled-over-2-days-dxb-resumes-arriving-flights-out-of-terminal-1 |access-date=18 April 2024 |website=Khaleej Times |language=en |archive-date=18 April 2024 |archive-url=https://web.archive.org/web/20240418061853/https://www.khaleejtimes.com/business/aviation/884-dubai-flights-cancelled-over-2-days-dxb-resumes-arriving-flights-out-of-terminal-1 |url-status=live }}</ref>",
+                      "url": "https://www.khaleejtimes.com/business/aviation/884-dubai-flights-cancelled-over-2-days-dxb-resumes-arriving-flights-out-of-terminal-1",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":0\" /><ref>{{Cite web |last=Abbas |first=Waheed |title=Dubai airports temporarily diverts all inbound flights |url=https://www.khaleejtimes.com/business/aviation/dubai-airports-temporarily-diverts-all-inbound-flights |access-date=17 April 2024 |website=Khaleej Times |language=en |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417035627/https://www.khaleejtimes.com/business/aviation/dubai-airports-temporarily-diverts-all-inbound-flights |url-status=live }}</ref>",
+                      "url": "https://www.khaleejtimes.com/business/aviation/dubai-airports-temporarily-diverts-all-inbound-flights",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>[https://www.accuweather.com/en/severe-weather/dubai-flooded-by-extreme-rain-as-deadly-storms-sweep-through-uae-oman/1641590 Dubai flooded by extreme rain as deadly storms sweep through UAE, Oman] {{Webarchive|url=https://web.archive.org/web/20240417195514/https://www.accuweather.com/en/severe-weather/dubai-flooded-by-extreme-rain-as-deadly-storms-sweep-through-uae-oman/1641590 |date=17 April 2024 }}, AccuWeather, 17 April 2024</ref>",
+                      "url": "https://web.archive.org/web/20240417195514/https://www.accuweather.com/en/severe-weather/dubai-flooded-by-extreme-rain-as-deadly-storms-sweep-through-uae-oman/1641590",
+                      "status_code": 403,
+                      "reason": "Blocked: Archive.org URL",
+                      "type": null
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s5",
+                  "text": "The Asian Champions League|AFC Asian Champions League 2023–24_AFC_Champions_League_knockout_stage#SF_West_1.1|semi-final football match between the Emirati Al Ain FC|Al Ain and the Saudi Al Hilal SFC|Al Hilal football clubs, due to be played in Al Ain, was postponed for a day due to the floods.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=17 April 2024 |title=UAE witnesses largest amount of rainfall in 75 years |url=https://english.alarabiya.net/News/gulf/2024/04/17/uae-witnesses-largest-amount-of-rainfall-in-75-years |access-date=17 April 2024 |work=Al Arabiya English |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417192737/https://english.alarabiya.net/News/gulf/2024/04/17/uae-witnesses-largest-amount-of-rainfall-in-75-years |url-status=live }}</ref>",
+                      "url": "https://english.alarabiya.net/News/gulf/2024/04/17/uae-witnesses-largest-amount-of-rainfall-in-75-years",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s6",
+                  "text": "More than 100 families living in a multistory tower in Muhaisnah 4 in Dubai were evacuated from the premises late on 19 April after its structure suffered damages. The torrential rains flooded the basement of the building. Although water was pumped out, even after five days, there was stagnant water with cars submerged in the basement.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=Dubai: Families evacuated after building tilts due to structural damages |url=https://www.khaleejtimes.com/uae/dubai-families-evacuated-after-building-tilts-due-to-structural-damages |access-date=21 April 2024 |archive-date=24 April 2024 |archive-url=https://web.archive.org/web/20240424073756/https://www.khaleejtimes.com/uae/dubai-families-evacuated-after-building-tilts-due-to-structural-damages |url-status=live }}</ref>",
+                      "url": "https://www.khaleejtimes.com/uae/dubai-families-evacuated-after-building-tilts-due-to-structural-damages",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s7",
+                  "text": "Five days after the rains, large parts of Sharjah grappled with health concerns from stagnant water contaminated with sewage. There were reports of individuals falling sick and children vomiting, prompting the need for urgent medical attention.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Farooqui |first=Mazhar |title=UAE floods: Sewage-contaminated waters add to the stress of some Sharjah residents |url=https://www.khaleejtimes.com/uae/uae-floods-sewage-contaminated-waters-add-to-the-stress-of-some-sharjah-residents |access-date=2024-04-21 |website=Khaleej Times |language=en |archive-date=24 April 2024 |archive-url=https://web.archive.org/web/20240424073840/https://www.khaleejtimes.com/uae/uae-floods-sewage-contaminated-waters-add-to-the-stress-of-some-sharjah-residents |url-status=live }}</ref>",
+                      "url": "https://www.khaleejtimes.com/uae/uae-floods-sewage-contaminated-waters-add-to-the-stress-of-some-sharjah-residents",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Farooqui |first=Mazhar |title=UAE floods: Hospitals, clinics offer free services amid reports of illness |url=https://www.khaleejtimes.com/uae/uae-floods-hospitals-clinics-offer-free-services-amid-reports-of-illness |access-date=2024-04-21 |website=Khaleej Times |language=en |archive-date=24 April 2024 |archive-url=https://web.archive.org/web/20240424073758/https://www.khaleejtimes.com/uae/uae-floods-hospitals-clinics-offer-free-services-amid-reports-of-illness |url-status=live }}</ref>",
+                      "url": "https://www.khaleejtimes.com/uae/uae-floods-hospitals-clinics-offer-free-services-amid-reports-of-illness",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.4",
+          "title": "Bahrain",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.4.s1",
+                  "text": ", Bahrain]]\nHeavy rainfall and thunderstorms occurred on 15 and 16 April that resulted in widespread flooding, leading to cars being abandoned on roads. The Ministry of Interior (Bahrain)|Bahraini Ministry of Interior issued a public safety warning to residents to stay at home. The Ministry of Education (Bahrain)|Ministry of Education announced a closure of schools and higher education institutions as a result of the floods. Windspeed gusts of 70 km/h were estimated. A supermarket's ceiling in the town of Sitra collapsed due to the rain.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":1\" /> According to the Bahrain meteorological directorate, an average of {{convert|67.6|mm|in|abbr=on}} of rainfall was reported over 48 hours, the second highest rainfall recorded in Bahraini history.<ref>{{Cite news |last=Adnan |first=Nader |title=Second Heaviest Downpour |url=https://www.gdnonline.com/Details/1309650/Second-heaviest-downpour |url-status=live |work=Gulf Daily News |access-date=18 April 2024 |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417232149/http://www.gdnonline.com/Details/1309650/Second-heaviest-downpour }}</ref>",
+                      "url": "https://www.gdnonline.com/Details/1309650/Second-heaviest-downpour",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":2\">{{Cite web |last=Farag |first=Mona |date=16 April 2024 |title=Heavy rain and flash flood warnings sweep the Gulf, with Oman bearing brunt of wet weather |url=https://www.thenationalnews.com/news/gulf/2024/04/16/heavy-rains-and-flash-flood-warnings-sweep-the-gulf-with-oman-bearing-the-brunt/ |access-date=17 April 2024 |website=The National |language=en |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416171019/https://www.thenationalnews.com/news/gulf/2024/04/16/heavy-rains-and-flash-flood-warnings-sweep-the-gulf-with-oman-bearing-the-brunt/ |url-status=live }}</ref>",
+                      "url": "https://www.thenationalnews.com/news/gulf/2024/04/16/heavy-rains-and-flash-flood-warnings-sweep-the-gulf-with-oman-bearing-the-brunt/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":1\">{{Cite web |title=Residents struggle to cope with severe flooding amidst heavy rainfall |url=https://www.newsofbahrain.com/bahrain/98412.html |access-date=17 April 2024 |website=www.newsofbahrain.com |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417192717/https://www.newsofbahrain.com/bahrain/98412.html |url-status=live }}</ref>",
+                      "url": "https://www.newsofbahrain.com/bahrain/98412.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Bahrain braces for heavy rain and thunderstorms today |url=https://www.zawya.com/en/world/middle-east/bahrain-braces-for-heavy-rain-and-thunderstorms-today-xyi2k1cz |access-date=17 April 2024 |website=www.zawya.com |language=en |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417041644/https://www.zawya.com/en/world/middle-east/bahrain-braces-for-heavy-rain-and-thunderstorms-today-xyi2k1cz |url-status=live }}</ref>",
+                      "url": "https://www.zawya.com/en/world/middle-east/bahrain-braces-for-heavy-rain-and-thunderstorms-today-xyi2k1cz",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Heavy rains kill 18 in Oman as flash floods lash UAE |url=https://www.aljazeera.com/news/2024/4/16/heavy-rains-kill-18-in-oman-as-flash-floods-lash-uae |access-date=17 April 2024 |website=Al Jazeera |language=en |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417034826/https://www.aljazeera.com/news/2024/4/16/heavy-rains-kill-18-in-oman-as-flash-floods-lash-uae |url-status=live }}</ref>",
+                      "url": "https://www.aljazeera.com/news/2024/4/16/heavy-rains-kill-18-in-oman-as-flash-floods-lash-uae",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.5",
+          "title": "Qatar",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.5.s1",
+                  "text": "Heavy rainfall and strong winds were largely confined to the northern parts of the country centered around the towns of Madinat ash Shamal and Ar-Ruʼays. Scattered showers were reported in Doha. Schools and public buildings were closed due to the weather, with services shifted online for the day.<ref name=\"auto\"/>",
+                  "references": [
+                    {
+                      "text": "<ref name=\"auto\">{{Cite web |last=Varghese |first=Joseph |date=16 April 2024 |title=Qatar experiences moderate to heavy rains, strong winds |url=https://www.gulf-times.com/article/680758/qatar/qatar-experiences-moderate-to-heavy-rains-strong-winds |access-date=18 April 2024 |website=Gulf Times |language=en |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416203735/https://www.gulf-times.com/article/680758/qatar/qatar-experiences-moderate-to-heavy-rains-strong-winds |url-status=live }}</ref>",
+                      "url": "https://www.gulf-times.com/article/680758/qatar/qatar-experiences-moderate-to-heavy-rains-strong-winds",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Salari |first=Fatemeh |date=16 April 2024 |title=Qatar announces closure of schools, public bodies over severe weather conditions |url=https://dohanews.co/qatar-announces-closure-of-schools-public-bodies-over-severe-weather-conditions/ |access-date=17 April 2024 |website=Doha News |language=en-US |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417021802/https://dohanews.co/qatar-announces-closure-of-schools-public-bodies-over-severe-weather-conditions/ |url-status=live }}</ref>",
+                      "url": "https://dohanews.co/qatar-announces-closure-of-schools-public-bodies-over-severe-weather-conditions/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.6",
+          "title": "Iran",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.6.s1",
+                  "text": "Heavy rain and flash flooding were also reported in southeastern Iran. The provinces of Sistan and Baluchestan province|Sistan-Baluchistan, Hormozgan and Kerman province|Kerman were the worst affected, with eight people killed in Sistan-Baluchistan and three people reported missing in Kerman province.",
+                  "references": [
+                    {
+                      "text": "<ref name=iran1>{{Cite web |url=https://www.iranintl.com/en/202404184847 |title=Flood Kills 8, Damages Infrastructure in Iran's Sistan-Baluchestan &#124; Iran International |access-date=19 April 2024 |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419230730/https://www.iranintl.com/en/202404184847 |url-status=live }}</ref>",
+                      "url": "https://www.iranintl.com/en/202404184847",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |url=https://www.cnn.com/2024/04/18/middleeast/iran-flooding-crocodile-warning-intl/index.html |title=Iranians told to watch out for loose crocodiles as flooding hits country's southeast |website=CNN |date=18 April 2024 |access-date=19 April 2024 |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419230737/https://www.cnn.com/2024/04/18/middleeast/iran-flooding-crocodile-warning-intl/index.html |url-status=live }}</ref>",
+                      "url": "https://edition.cnn.com/2024/04/18/middleeast/iran-flooding-crocodile-warning-intl/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=17 April 2024 |title=Heavy downpour and flash floods hit southeast Iran |url=https://en.mehrnews.com/news/214045/Heavy-downpour-and-flash-floods-hit-southeast-Iran |access-date=18 April 2024 |website=Mehr News Agency |language=en}}</ref>",
+                      "url": "https://en.mehrnews.com/news/214045/Heavy-downpour-and-flash-floods-hit-southeast-Iran",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.7",
+          "title": "Saudi Arabia",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.7.s1",
+                  "text": "Heavy rainfall was reported in the Eastern Province, Saudi Arabia|Eastern Province. Widespread flooding affected the province, particularly the capital Dammam, resulting in road tunnel closures and the closure of schools.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Ebrahim |first=Brandon Miller, Nadeen |date=17 April 2024 |title=Chaos in Dubai as UAE records heaviest rainfall in 75 years |url=https://www.cnn.com/2024/04/17/weather/dubai-rain-flooding-climate-wednesday-intl/index.html |url-status=live |archive-url=https://web.archive.org/web/20240417135104/https://www.cnn.com/2024/04/17/weather/dubai-rain-flooding-climate-wednesday-intl/index.html |archive-date=17 April 2024 |access-date=17 April 2024 |website=CNN |language=en}}</ref>",
+                      "url": "https://edition.cnn.com/2024/04/17/weather/dubai-rain-flooding-climate-wednesday-intl/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Heavy rain lashes in Eastern Province while near zero-visibility in Qassim and Riyadh |url=https://www.zawya.com/en/life/heavy-rain-lashes-in-eastern-province-while-near-zero-visibility-in-qassim-and-riyadh-u57ef7yw |access-date=18 April 2024 |website=www.zawya.com |language=en |archive-date=18 April 2024 |archive-url=https://web.archive.org/web/20240418021655/https://www.zawya.com/en/life/heavy-rain-lashes-in-eastern-province-while-near-zero-visibility-in-qassim-and-riyadh-u57ef7yw |url-status=live }}</ref>",
+                      "url": "https://www.zawya.com/en/life/heavy-rain-lashes-in-eastern-province-while-near-zero-visibility-in-qassim-and-riyadh-u57ef7yw",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.8",
+          "title": "Kuwait",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "3.9",
+          "title": "Yemen",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.9.s1",
+                  "text": "Torrential rain and flash flooding occurred in Yemen's Hadhramaut Governorate on 17 April, with one death reported and widespread damage to property. Heavy rain in the mountains close to the port of Mukalla raised the possibility of landslides.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=Death reported in Yemen as weather continues to worsen |url=https://www.albawaba.com/news/death-reported-yemen-weather-continues-worsen-1561963 |access-date=18 April 2024 |website=www.albawaba.com |language=en |archive-date=18 April 2024 |archive-url=https://web.archive.org/web/20240418203625/https://www.albawaba.com/news/death-reported-yemen-weather-continues-worsen-1561963 |url-status=live }}</ref>",
+                      "url": "https://www.albawaba.com/news/death-reported-yemen-weather-continues-worsen-1561963",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.10",
+          "title": "Afghanistan and Pakistan",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.10.s1",
+                  "text": "{{Main|2024 Afghanistan–Pakistan floods}}\nRemnants of the severe thunderstorm system that caused the 2024 Persian Gulf floods affected Pakistan and Afghanistan, killing 700 people.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=19 April 2024 |title=Weather tracker: rains bring deadly flash floods to Afghanistan and Pakistan |url=https://www.theguardian.com/environment/2024/apr/19/weather-tracker-rains-bring-deadly-flash-floods-to-afghanistan-and-pakistan |access-date=2024-06-14 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>",
+                      "url": "https://www.theguardian.com/environment/2024/apr/19/weather-tracker-rains-bring-deadly-flash-floods-to-afghanistan-and-pakistan",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Responses",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "On 17 April, Crown Prince and Prime Minister of Bahrain Salman bin Hamad Al Khalifa announced plans to assess and compensate residents with rainfall-related damages to their homes. In the leadup to the heavy rainfall, a nationwide emergency joint task force was set up between the Ministry of Works (Bahrain)|Ministry of Works and the Governorates of Bahrain|four municipality councils of Bahrain to coordinate flood relief efforts including the removing of rainwater from flooded streets and pumping it to Al-Luzi lake.<ref name=\":1\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |date=17 April 2024 |title=THE BIG SPLASH: HRH Prince Salman orders compensation for rain-affected |url=https://www.gdnonline.com/Details/1309557/THE-BIG-SPLASH-HRH-Prince-Salman-orders-compensation-for-rain-affected |url-status=live |archive-url=https://web.archive.org/web/20240417055128/http://www.gdnonline.com/Details/1309557/THE-BIG-SPLASH-HRH-Prince-Salman-orders-compensation-for-rain-affected |archive-date=17 April 2024 |access-date=17 April 2024 |work=Gulf Daily News}}</ref>",
+                  "url": "https://www.gdnonline.com/Details/1309557/THE-BIG-SPLASH-HRH-Prince-Salman-orders-compensation-for-rain-affected",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "The Royal Oman Police conducted 152 operations, rescuing 1,630 individuals stranded from flooding across the country.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Over 1,600 Individuals Rescued in Oman After Flash Floods |url=https://www.omanmoments.com/over-1600-individuals-rescued-in-oman-after-flash-floods-650438.html |url-status=live |archive-url=https://web.archive.org/web/20240418203619/https://www.omanmoments.com/over-1600-individuals-rescued-in-oman-after-flash-floods-650438.html |archive-date=18 April 2024 |access-date=18 April 2024 |website=Oman Moments |language=en}}</ref>",
+                  "url": "https://www.omanmoments.com/over-1600-individuals-rescued-in-oman-after-flash-floods-650438.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "United Arab Emirates",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "On 17 April, UAE President Mohamed bin Zayed Al Nahyan announced plans to assess the damages and provide support to the impacted families. Moreover, he ordered a study of the country's infrastructure. On 18 April, Crown Prince of Dubai and Chairman of The Executive Council of Dubai Hamdan bin Mohammed Al Maktoum held a meeting to prepare for future natural crises. On 21 April, he ordered early payment of salaries for Dubai government employees. Developers Nakheel Properties|Nakheel, Emaar Properties|Emaar, Dubai Holding, Union Properties and Dubai Investments Park started offering free services such as alternative housing for affected residents.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=19 April 2024 |title=Dubai faces massive clean up after deluge swamps glitzy desert city |url=https://www.reuters.com/world/middle-east/flooded-uae-counts-cost-epic-rainstorm-airport-still-facing-disruptions-2024-04-18/ |access-date=2024-04-21 |work=Reuters}}</ref>",
+                      "url": "https://www.reuters.com/world/middle-east/flooded-uae-counts-cost-epic-rainstorm-airport-still-facing-disruptions-2024-04-18/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=17 April 2024 |title=President orders infrastructure study as UAE tackles rain aftermath |url=https://www.khaleejtimes.com/uae/uae-president-orders-study-of-infrastructure-after-record-breaking-rains-impact-nation |access-date=2024-04-21 |website=Khaleej Times |language=en |archive-date=20 April 2024 |archive-url=https://web.archive.org/web/20240420054628/https://www.khaleejtimes.com/uae/uae-president-orders-study-of-infrastructure-after-record-breaking-rains-impact-nation |url-status=live }}</ref>",
+                      "url": "https://www.khaleejtimes.com/uae/uae-president-orders-study-of-infrastructure-after-record-breaking-rains-impact-nation",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=18 April 2024 |title=UAE storm: Dubai officials meet to discuss future crisis plans |url=https://www.timeoutdubai.com/news/uae-storm-aftermath |access-date=2024-04-21 |work=Time Out Dubai |language=en-US |archive-date=24 April 2024 |archive-url=https://web.archive.org/web/20240424073815/https://www.timeoutdubai.com/news/uae-storm-aftermath |url-status=live }}</ref>",
+                      "url": "https://www.timeoutdubai.com/news/uae-storm-aftermath",
+                      "status_code": 403,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=21 April 2024 |title=Dubai floods: Sheikh Hamdan orders early payment of salaries for govt employees |url=https://www.khaleejtimes.com/uae/dubai-sheikh-hamdan-orders-early-payment-of-salaries |access-date=2024-04-22 |website=Khaleej Times |language=en |archive-date=21 April 2024 |archive-url=https://web.archive.org/web/20240421195053/https://www.khaleejtimes.com/uae/dubai-sheikh-hamdan-orders-early-payment-of-salaries |url-status=live }}</ref>",
+                      "url": "https://www.khaleejtimes.com/uae/dubai-sheikh-hamdan-orders-early-payment-of-salaries",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=20 April 2024 |title=Dubai: Free services offered by major developers as residents grapple with after-effects of floods |url=https://www.khaleejtimes.com/uae/dubai-free-services-offered-by-major-developers-as-residents-grapple-with-after-effects-of-floods |access-date=2024-04-22 |website=Khaleej Times |language=en |archive-date=21 April 2024 |archive-url=https://web.archive.org/web/20240421103816/https://www.khaleejtimes.com/uae/dubai-free-services-offered-by-major-developers-as-residents-grapple-with-after-effects-of-floods |url-status=live }}</ref>",
+                      "url": "https://www.khaleejtimes.com/uae/dubai-free-services-offered-by-major-developers-as-residents-grapple-with-after-effects-of-floods",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.2.s2",
+                  "text": "By 17 April, the National Guard's Search and Rescue Centre had carried out 136 operations involving 71 search and rescues and 65 medical evacuations.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=17 April 2024 |title=UAE rains: 136 search-and-rescue operations conducted in 24 hours |url=https://www.khaleejtimes.com/uae/emergencies/uae-rains-136-search-and-rescue-operations-conducted-in-24-hours |access-date=2024-04-21 |website=Khaleej Times |language=en |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419193507/https://www.khaleejtimes.com/uae/emergencies/uae-rains-136-search-and-rescue-operations-conducted-in-24-hours |url-status=live }}</ref>",
+                      "url": "https://www.khaleejtimes.com/uae/emergencies/uae-rains-136-search-and-rescue-operations-conducted-in-24-hours",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Reactions",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "The Secretary-General of the Organisation of Islamic Cooperation (OIC), Hissein Brahim Taha, offered condolences to flood victims.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=OIC Secretary General Offers Condolences To Oman Over Flood Victims |url=https://www.urdupoint.com/en/world/oic-secretary-general-offers-condolences-to-o-1815344.html |access-date=17 April 2024 |website=UrduPoint |language=en |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417192716/https://www.urdupoint.com/en/world/oic-secretary-general-offers-condolences-to-o-1815344.html |url-status=live }}</ref>",
+                  "url": "https://www.urdupoint.com/en/world/oic-secretary-general-offers-condolences-to-o-1815344.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Cloud seeding allegations",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.2.s1",
+                  "text": "In the aftermath of the floods, some news outlets quoted specialist meteorologist Ahmed Habib linking the heavy downpours to the UAE's cloud seeding program. Due to the arid desert climate and high temperatures, Cloud seeding in the United Arab Emirates|cloud seeding has been used previously in the United Arab Emirates to combat water scarcity, which has been alleged to cause the severe thunderstorm system.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=16 April 2024 |title=Dubai Grinds to Standstill as Cloud Seeding Worsens Flooding |url=https://www.bloomberg.com/news/articles/2024-04-16/dubai-grinds-to-standstill-as-cloud-seeding-worsens-flooding |access-date=18 April 2024 |work=Bloomberg.com |language=en |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417143209/https://www.bloomberg.com/news/articles/2024-04-16/dubai-grinds-to-standstill-as-cloud-seeding-worsens-flooding |url-status=live }}</ref>",
+                      "url": "https://www.bloomberg.com/news/articles/2024-04-16/dubai-grinds-to-standstill-as-cloud-seeding-worsens-flooding",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Vlamis |first=Kelsey |title=Photos of torrential Dubai flash floods show the downsides of trying to control the weather |url=https://www.businessinsider.com/photos-dubai-airport-flash-floods-show-downsides-controlling-the-weather-2024-4 |url-status=live |archive-url=https://web.archive.org/web/20240417080342/https://www.businessinsider.com/photos-dubai-airport-flash-floods-show-downsides-controlling-the-weather-2024-4 |archive-date=17 April 2024 |access-date=17 April 2024 |website=Business Insider |language=en-US}}</ref>",
+                      "url": "https://www.businessinsider.com/photos-dubai-airport-flash-floods-show-downsides-controlling-the-weather-2024-4",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.2.s2",
+                  "text": "Dismissing the allegations, Omar Al Yazeedi, the deputy director-general of the UAE's National Centre of Meteorology (NCM), said the institution \"did not conduct any seeding operations during this event\". Other news commentators have also dismissed the link to cloud seeding, stating that the technology marginally increases rainfall and that the UAE's cloud seeding program is localised to the eastern part of the country, away from densely populated metropolitan areas; other experts, such as the Royal Meteorological Society, stated that cloud seeding would only have a minimal effect,<ref name=\":5\" />",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=Did controversial 'cloud seeding' flights cause torrential downpours and huge flooding in Dubai? |url=https://www.lbc.co.uk/news/uae-dubai-united-arab-emirtates-cloud-seeding-flooding-rainfall/ |url-status=live |archive-url=https://web.archive.org/web/20240417153848/https://www.lbc.co.uk/news/uae-dubai-united-arab-emirtates-cloud-seeding-flooding-rainfall/ |archive-date=17 April 2024 |access-date=17 April 2024 |website=LBC |language=en}}</ref>",
+                      "url": "https://www.lbc.co.uk/news/uae-dubai-united-arab-emirtates-cloud-seeding-flooding-rainfall/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":6\" /> with others even stating that the focus on cloud seeding is \"misleading\".<ref>{{Cite news |date=17 April 2024 |title=What is cloud seeding and did it cause Dubai flooding? |url=https://www.bbc.com/news/science-environment-68839043 |url-status=live |archive-url=https://web.archive.org/web/20240417220232/https://www.bbc.com/news/science-environment-68839043 |archive-date=17 April 2024 |access-date=18 April 2024 |language=en-GB}}</ref>",
+                      "url": "https://www.bbc.com/news/science-environment-68839043",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

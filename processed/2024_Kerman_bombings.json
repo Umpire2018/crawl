@@ -1,0 +1,734 @@
+{
+  "title": "2024_Kerman_bombings",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "meeting with Qasem Soleimani's family two days before the bombings.]]\nOn 3 January 2024, a commemorative ceremony marking the assassination of Qasem Soleimani at his grave in eastern Kerman, Iran, was attacked by two bomb explosions. The attacks killed at least 95 people, The Iranian government declared the bombings a terrorist attack, the deadliest such incident in the country since the Cinema Rex attack of 1978. On the following day, the Islamic State, a Sunni extremist group, claimed responsibility for the attack in the Shia dominated country. According to Reuters, the United States Intelligence Community concluded that the attack was perpetrated by the Afghanistan branch of the Islamic State, Islamic State – Khorasan Province.<ref name=\"iskp\"/>",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2 January 2024 |title=واکنش‌های گسترده به ادعای خامنه‌ای درباره \"حرف خدا\" از \"زبان\" او \"دیکتاتور\" دیگر کنترلی بر خود ندارد |trans-title=Wide reactions to Khamenei's claim about the 'word of God' from his 'language': the 'dictator' no longer has control over himself |url=https://ir.voanews.com/a/reactions-khamenei-statements-iran/7421484.html |url-status=live |archive-url=https://web.archive.org/web/20240102190130/https://ir.voanews.com/a/reactions-khamenei-statements-iran/7421484.html |archive-date=2 January 2024 |access-date=3 January 2024 |language=fa}}</ref>",
+                  "url": "https://ir.voanews.com/a/reactions-khamenei-statements-iran/7421484.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://english.khamenei.ir/news/10431/Martyr-of-Quds |title=Martyr of Quds – Khamenei.ir |access-date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103175810/https://english.khamenei.ir/news/10431/Martyr-of-Quds |url-status=live}}</ref>",
+                  "url": "https://english.khamenei.ir/news/10431/Martyr-of-Quds",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Entekhab.ir |first=پایگاه خبری تحلیلی انتخاب |title=وزیر بهداشت: آمار نهایی شهدای انفجار کرمان ۹۵ نفر است / علت بیشتر اعلام‌شدنِ آمار این بود که نام برخی به اشتباه ۲ بار ثبت شده بود |url=https://www.entekhab.ir/fa/news/755038/%D9%88%D8%B2%DB%8C%D8%B1-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA-%D8%A2%D9%85%D8%A7%D8%B1-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%B4%D9%87%D8%AF%D8%A7%DB%8C-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%DB%B9%DB%B5-%D9%86%D9%81%D8%B1-%D8%A7%D8%B3%D8%AA-%D8%B9%D9%84%D8%AA-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A7%D8%B9%D9%84%D8%A7%D9%85%E2%80%8C%D8%B4%D8%AF%D9%86%D9%90-%D8%A2%D9%85%D8%A7%D8%B1-%D8%A7%DB%8C%D9%86-%D8%A8%D9%88%D8%AF-%DA%A9%D9%87-%D9%86%D8%A7%D9%85-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%87-%DB%B2-%D8%A8%D8%A7%D8%B1-%D8%AB%D8%A8%D8%AA-%D8%B4%D8%AF%D9%87-%D8%A8%D9%88%D8%AF |access-date=2024-04-22 |website=fa |language=fa}}</ref>",
+                  "url": "https://www.entekhab.ir/fa/news/755038/%D9%88%D8%B2%DB%8C%D8%B1-%D8%A8%D9%87%D8%AF%D8%A7%D8%B4%D8%AA-%D8%A2%D9%85%D8%A7%D8%B1-%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%B4%D9%87%D8%AF%D8%A7%DB%8C-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%DB%B9%DB%B5-%D9%86%D9%81%D8%B1-%D8%A7%D8%B3%D8%AA-%D8%B9%D9%84%D8%AA-%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1-%D8%A7%D8%B9%D9%84%D8%A7%D9%85%E2%80%8C%D8%B4%D8%AF%D9%86%D9%90-%D8%A2%D9%85%D8%A7%D8%B1-%D8%A7%DB%8C%D9%86-%D8%A8%D9%88%D8%AF-%DA%A9%D9%87-%D9%86%D8%A7%D9%85-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%A8%D9%87-%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%87-%DB%B2-%D8%A8%D8%A7%D8%B1-%D8%AB%D8%A8%D8%AA-%D8%B4%D8%AF%D9%87-%D8%A8%D9%88%D8%AF",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"ap94\"/> and injured 284 others.<ref name=\"Washington\"/><ref name=\"NYT\">{{Cite news |last1=Yee |first1=Vivian |last2=Fassihi |first2=Farnaz |date=3 January 2024 |title=Bombing in Iran Kills Over 100, Sowing Confusion and Speculation |work=The New York Times |url=https://www.nytimes.com/2024/01/03/world/middleeast/iran-explosion-qassim-suleimani-ceremony.html |access-date=2024-01-03 |archive-url=https://web.archive.org/web/20240103222519/https://www.nytimes.com/2024/01/03/world/middleeast/iran-explosion-qassim-suleimani-ceremony.html |archive-date=2024-01-03}}</ref>",
+                  "url": "https://www.nytimes.com/2024/01/03/world/middleeast/iran-explosion-qassim-suleimani-ceremony.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Verkaik |first=Robert |date=2024-01-13 |title=A bloody attack by Islamic State provides a chilling warning of the terror group's resurgence |url=https://www.independent.co.uk/news/world/middle-east/islamic-state-attack-isis-terrorism-resurgence-b2477692.html |access-date=2024-04-01 |work=The Independent}}</ref>",
+                  "url": "https://www.independent.co.uk/news/world/middle-east/islamic-state-attack-isis-terrorism-resurgence-b2477692.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"BBC\">{{cite news |date=3 January 2024 |title=Twin bomb blasts near Iran general Qasem Soleimani's tomb kill 73 – state TV |publisher=BBC News |url=https://www.bbc.com/news/world-middle-east-67872281 |url-status=live |access-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103124852/https://www.bbc.com/news/world-middle-east-67872281 |archive-date=3 January 2024}}</ref>",
+                  "url": "https://www.bbc.com/news/world-middle-east-67872281",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite web |url=https://www.france24.com/en/live-news/20240103-bombs-kill-73-at-iran-commemorations-for-slain-general-state-media |title=Iran blames Israel, US for deadly blasts near grave of Guards general Soleimani |date=3 January 2024 |access-date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103152003/https://www.france24.com/en/live-news/20240103-bombs-kill-73-at-iran-commemorations-for-slain-general-state-media |url-status=live}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20240103-bombs-kill-73-at-iran-commemorations-for-slain-general-state-media",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"isis\">{{cite news |title=Islamic State claims responsibility for deadly Iran attack, Tehran vows revenge |url=https://www.reuters.com/world/middle-east/islamic-state-claims-responsibility-attacks-that-killed-nearly-100-people-iran-2024-01-04/ |access-date=4 January 2024 |publisher=Reuters |date=4 January 2024}}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/islamic-state-claims-responsibility-attacks-that-killed-nearly-100-people-iran-2024-01-04/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "On 3 January 2020, General Qasem Soleimani was Assassination of Qasem Soleimani|killed by a United States drone attack in Iraq. Soleimani was the commander of the Quds Force of the Islamic Revolutionary Guard Corps|IRGC. Soleimani held a position of significant influence in Iran, widely considered the second most powerful figure in the country after Supreme Leader Ayatollah Ali Khamenei. As leader of the Quds Force, the overseas operations arm of the IRGC, he played a key role in shaping Iranian policy across the region. Soleimani was responsible for overseeing clandestine missions and providing guidance, funding, weapons, intelligence, and logistical support to allied governments and armed groups, including Hamas and Hezbollah.",
+              "references": [
+                {
+                  "text": "<ref name=\"BBC\"/><ref name=\":0\">{{Cite news|date=3 January 2024|title=Iran says at least 73 killed in 'terror' blasts near grave of IRGC general Soleimani|work=Times of Israel|url=https://www.timesofisrael.com/liveblog-january-03-2024/|access-date=3 January 2024|archive-date=3 January 2024|archive-url=https://web.archive.org/web/20240103001122/https://www.timesofisrael.com/liveblog-january-03-2024/|url-status=live}}</ref>",
+                  "url": "https://www.timesofisrael.com/liveblog-january-03-2024/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "During the Funeral of Qasem Soleimani|burial procession for Soleimani in Kerman on 7 January 2020, a stampede occurred, killing at least 50 mourners and causing injuries to over 200 individuals. Into the 2020s, the Islamic State and other Sunni extremist groups have launched similar attacks in the Shiite-majority country, including a 2022 Shah Cheragh attack|mass shooting that killed 13 people in Shiraz in 2022.",
+              "references": [
+                {
+                  "text": "<ref name=\"BBC\"/> The 2024 attack came amidst heightened tensions in the Middle East following the 2023 Israel–Hamas war and its spillover conflicts. A day before the bombings, an Assassination of Saleh al-Arouri|Israeli drone strike in Lebanon killed Hamas's deputy leader Saleh al-Arouri,<ref name=\"BBC\"/> while a week prior, an Israeli airstrike killed Iranian Brigadier General Sayyed Razi Mousavi in Syria.<ref>{{cite news |url=https://www.bbc.com/news/world-middle-east-67820538 |title=Israeli strike in Syria kills Iranian commander, Iran says |date=25 December 2023 |access-date=4 January 2024 |archive-date=1 January 2024 |archive-url=https://web.archive.org/web/20240101143244/https://www.bbc.com/news/world-middle-east-67820538 |url-status=live}}</ref>",
+                  "url": "https://www.bbc.com/news/world-middle-east-67820538",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"ap141\">{{cite news |title=Iran says at least 103 people killed, 141 wounded in blasts at ceremony honoring slain general |url=https://apnews.com/article/iran-us-soleimani-explosion-kerman-2524cfed1d040370bf98000e2b53ad5a |access-date=3 January 2024 |publisher=Associated Press |date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103143210/https://apnews.com/article/iran-us-soleimani-explosion-kerman-2524cfed1d040370bf98000e2b53ad5a |url-status=live}}</ref>",
+                  "url": "https://apnews.com/article/iran-us-soleimani-explosion-kerman-2524cfed1d040370bf98000e2b53ad5a",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.2",
+          "title": "U.S. warning to Iran",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.2.s1",
+                  "text": "The United States secretly warned Iran about intelligence that the Islamic State was planning a potential terrorism|terror attack inside Iran's borders before the deadly 3 January bombings in Kerman, according to a U.S. official. The private warning was based on U.S. intelligence about ISIS' plans and was provided to Iran based on the U.S. government's \"duty to warn\" policy, which applies even to adversaries, to warn about potential lethal threats.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |last1=Bertrand |first1=Natasha |title=US secretly warned Iran before ISIS terror attack |url=https://www.cnn.com/2024/01/25/politics/us-secretly-warned-iran-isis-terror-attack/index.html |access-date=26 January 2024 |publisher=CNN |date=25 January 2024}}</ref>",
+                      "url": "https://www.cnn.com/2024/01/25/politics/us-secretly-warned-iran-isis-terror-attack/index.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"wsj\">{{cite news |title=U.S. Secretly Alerted Iran Ahead of Islamic State Terrorist Attacks |url=https://www.wsj.com/world/middle-east/u-s-secretly-alerted-iran-ahead-of-islamic-state-terrorist-attack-af77a19a |work=Wall Street Journal |date=25 January 2024}}</ref>",
+                      "url": "https://www.wsj.com/world/middle-east/u-s-secretly-alerted-iran-ahead-of-islamic-state-terrorist-attack-af77a19a",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Bombings",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The twin explosions struck a procession going towards Soleimani's grave in the Golzar Shohada (Garden of Martyrs) cemetery, around the Saheb al-Zaman mosque, to commemorate the fourth anniversary of his death. The explosives were placed in such a manner as to prevent their detection at the security gates.",
+              "references": [
+                {
+                  "text": "<ref name=\"guardian\">{{cite news |title=Over 100 dead in blasts at memorial for assassinated Iranian commander |url=https://www.theguardian.com/world/2024/jan/03/dead-in-blasts-at-memorial-for-assassinated-iranian-commander |access-date=3 January 2024 |work=The Guardian |date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103133623/https://www.theguardian.com/world/2024/jan/03/dead-in-blasts-at-memorial-for-assassinated-iranian-commander |url-status=live}}</ref>",
+                  "url": "https://www.theguardian.com/world/2024/jan/03/dead-in-blasts-at-memorial-for-assassinated-iranian-commander",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"BBC\" /> The first explosion occurred 700 metres from Soleimani's grave near a parking lot, while the second occurred one kilometre away at Shohada Street, where many had fled.<ref name=\"ap211\" /><ref>{{Cite web |title=Iran: Deadly blasts near grave of slain Qassem Soleimani |url=https://www.dw.com/en/iran-deadly-blasts-near-grave-of-slain-qassem-soleimani/a-67882464 |access-date=2024-01-03 |website=dw.com |language=en |quote=\"We are deeply saddened by the many deaths in today's explosions in #Kerman, including many children,\" Germany's Foreign Ministry wrote on Wednesday on X, formerly Twitter. |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103135308/https://www.dw.com/en/iran-deadly-blasts-near-grave-of-slain-qassem-soleimani/a-67882464 |url-status=live}}</ref>",
+                  "url": "https://www.dw.com/en/iran-deadly-blasts-near-grave-of-slain-qassem-soleimani/a-67882464",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=aj103/> The explosions occurred between 10 and 20 minutes apart.<ref>{{cite news |title=Bombs kill 73 at Iran commemorations for slain general: state media |url=https://www.france24.com/en/live-news/20240103-bombs-kill-73-at-iran-commemorations-for-slain-general-state-media |access-date=3 January 2024 |publisher=France 24 |date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103152003/https://www.france24.com/en/live-news/20240103-bombs-kill-73-at-iran-commemorations-for-slain-general-state-media |url-status=live}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20240103-bombs-kill-73-at-iran-commemorations-for-slain-general-state-media",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Iran says at least 84 were killed in blasts at a ceremony honoring slain general |url=https://apnews.com/article/iran-us-soleimani-explosion-kerman-2524cfed1d040370bf98000e2b53ad5a |access-date=3 January 2024 |publisher=Associated Press |date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103143210/https://apnews.com/article/iran-us-soleimani-explosion-kerman-2524cfed1d040370bf98000e2b53ad5a |url-status=live}}</ref>",
+                  "url": "https://apnews.com/article/iran-us-soleimani-explosion-kerman-2524cfed1d040370bf98000e2b53ad5a",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "According to Iranian media reports, the attack was carried out using two briefcase bombs placed at the entrance that were detonated remotely. A witness said one of the bombs was placed inside a trash bin. Another bomb was reportedly placed inside a car. The deputy governor of Kerman province said the incident was a terrorist attack.",
+              "references": [
+                {
+                  "text": "<ref name=aj103>{{cite news |title=More than 100 killed in Iran blasts near Soleimani's tomb during ceremony |url=https://www.aljazeera.com/news/2024/1/3/blasts-reported-as-iran-commemorates |access-date=3 January 2024 |publisher=Al Jazeera |date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103152113/https://www.aljazeera.com/news/2024/1/3/blasts-reported-as-iran-commemorates |url-status=live}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2024/1/3/blasts-reported-as-iran-commemorates",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=f103>{{cite news |title=Bombs kill 103 at Iran memorial for slain general: state media |url=https://www.france24.com/en/live-news/20240103-bombs-kill-73-at-iran-commemorations-for-slain-general-state-media |access-date=3 January 2024 |publisher=France 24 |date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103152003/https://www.france24.com/en/live-news/20240103-bombs-kill-73-at-iran-commemorations-for-slain-general-state-media |url-status=live}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20240103-bombs-kill-73-at-iran-commemorations-for-slain-general-state-media",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"cnnisis\" /> However, the state news agency IRNA reported on 4 January that investigators suspected that the attacks were carried out by suicide bombers.<ref>{{cite news |title=Iran suspects suicide bombers carried out attack on commemoration for slain general that killed 84 |url=https://apnews.com/article/iran-kerman-bombing-qassem-soleimani-mideast-tensions-3503bdbaa3d0815996e4010224bd5dcc |access-date=4 January 2024 |publisher=Associated Press |date=4 January 2024 |archive-date=7 January 2024 |archive-url=https://web.archive.org/web/20240107015645/https://apnews.com/article/iran-kerman-bombing-qassem-soleimani-mideast-tensions-3503bdbaa3d0815996e4010224bd5dcc |url-status=live}}</ref>",
+                  "url": "https://apnews.com/article/iran-kerman-bombing-qassem-soleimani-mideast-tensions-3503bdbaa3d0815996e4010224bd5dcc",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"BBC\"/><ref name=\":0\" /><ref name=\"i24\">{{cite news |title=Iranian official declares explosion near Soleimani's tomb was a 'terrorist attack' |url=https://www.i24news.tv/en/news/middle-east/iran-eastern-states/1704283321-iranian-media-reports-explosion-near-soleimani-s-tomb-on-anniversary-of-irgc-commander-s-death |access-date=3 January 2024 |publisher=i24 News |date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103152004/https://www.i24news.tv/en/news/middle-east/iran-eastern-states/1704283321-iranian-media-reports-explosion-near-soleimani-s-tomb-on-anniversary-of-irgc-commander-s-death |url-status=live}}</ref>",
+                  "url": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/1704283321-iranian-media-reports-explosion-near-soleimani-s-tomb-on-anniversary-of-irgc-commander-s-death",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "3.s3",
+              "text": "At least 94 people were killed 14 Afghan nationals Early reports quoting Iranian officials put the death toll at 103, but authorities later revised the count down to 89.",
+              "references": [
+                {
+                  "text": "<ref name=\"ap94\" /> and at least another 284 were injured, 27 of them critically.<ref name=\"BBC\" /><ref name=\"ap211\" /> The dead included 23 students,<ref>{{Cite web |url=https://www.eghtesadnews.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%D8%A7%DB%8C%D8%B1-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D9%87%D8%A7-61/620330-%DB%8C%DA%A9-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B4%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%B4%D9%87%D8%AF%D8%A7%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%D8%A8%D9%87-%D9%86%D9%81%D8%B1 |title=یک دانش آموز کرمانی در بیمارستان شهید شد/ افزایش شهدای دانش آموز به 23 نفر |access-date=9 January 2024 |archive-date=9 January 2024 |archive-url=https://web.archive.org/web/20240109041828/https://www.eghtesadnews.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%D8%A7%DB%8C%D8%B1-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D9%87%D8%A7-61/620330-%DB%8C%DA%A9-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B4%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%B4%D9%87%D8%AF%D8%A7%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%D8%A8%D9%87-%D9%86%D9%81%D8%B1 |url-status=live}}</ref>",
+                  "url": "https://www.eghtesadnews.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B3%D8%A7%DB%8C%D8%B1-%D8%B1%D8%B3%D8%A7%D9%86%D9%87-%D9%87%D8%A7-61/620330-%DB%8C%DA%A9-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%DA%A9%D8%B1%D9%85%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A8%DB%8C%D9%85%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86-%D8%B4%D9%87%DB%8C%D8%AF-%D8%B4%D8%AF-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%B4%D9%87%D8%AF%D8%A7%DB%8C-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2-%D8%A8%D9%87-%D9%86%D9%81%D8%B1",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"ap94\"/> and three paramedics who responded to the site of the first explosion and were caught in the second blast.<ref name=f103/> Most of the casualties were believed to have been caused by the second explosion.<ref name=\"BBC\" /><ref name=\"ap141\" /> Several of the injured were trampled in the panic that followed the explosions.<ref>{{cite news |title=Blasts reported as Iran commemorates assassinated general Soleimani |url=https://www.aljazeera.com/news/2024/1/3/blasts-reported-as-iran-commemorates |access-date=3 January 2024 |publisher=Al Jazeera |date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103152113/https://www.aljazeera.com/news/2024/1/3/blasts-reported-as-iran-commemorates |url-status=live}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2024/1/3/blasts-reported-as-iran-commemorates",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"ap89\">{{Cite news |date=5 January 2024 |title=Iran mourns those slain in Islamic State-claimed suicide blasts as death toll rises to 89 |publisher=Associated Press |url=https://apnews.com/article/iran-funeral-suicide-bombings-islamic-state-mideast-41ee9a74dfa0191acefa58705e318c70 |access-date=5 January 2024 |archive-date=5 January 2024 |archive-url=https://web.archive.org/web/20240105130819/https://apnews.com/article/iran-funeral-suicide-bombings-islamic-state-mideast-41ee9a74dfa0191acefa58705e318c70 |url-status=live}}</ref>",
+                  "url": "https://apnews.com/article/iran-funeral-suicide-bombings-islamic-state-mideast-41ee9a74dfa0191acefa58705e318c70",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "IRIB showed Iranian Red Crescent Society|Red Crescent rescuers assisting injured individuals at the ceremony. Several Iranian news agencies reported a higher count of wounded individuals. Reza Fallah, the head of the provincial Red Crescent, stated that their rapid response teams were evacuating the injured, but faced challenges due to waves of crowds obstructing roads. Hospitals in Kerman and surrounding areas were placed on alert to treat victims.<ref name=\"guardian\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |date=3 January 2024 |title=Dozens killed in 'terrorist attacks' near tomb of Iranian Guards' Soleimani |work=Reuters |url=https://www.reuters.com/world/middle-east/iran-media-report-explosion-near-guards-commander-soleimanis-tomb-anniversary-2024-01-03/|access-date=3 January 2024}}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/iran-media-report-explosion-near-guards-commander-soleimanis-tomb-anniversary-2024-01-03/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "In the evening following the explosion, crowds gathered at the Golzar Shohada cemetery chanting \"Death to Israel\" and \"Death to America\".",
+              "references": [
+                {
+                  "text": "<ref name=blame>{{Cite news |date=3 January 2024 |title=Iran blames Israel, US for deadly blasts near grave of Guards general Soleimani |work=France 24 |url=https://www.france24.com/en/live-news/20240103-bombs-kill-73-at-iran-commemorations-for-slain-general-state-media |access-date=4 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103152003/https://www.france24.com/en/live-news/20240103-bombs-kill-73-at-iran-commemorations-for-slain-general-state-media |url-status=live}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20240103-bombs-kill-73-at-iran-commemorations-for-slain-general-state-media",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "A mass funeral for the victims of the attack was held at the Emam Ali mosque in Kerman on 5 January, with Iranian president Ebrahim Raisi and IRGC commander Hossein Salami in attendance. On the same day, authorities called for mass rallies against the bombings following the funerals and Friday prayers.",
+              "references": [
+                {
+                  "text": "<ref name=\"ap89\" /><ref>{{Cite news |date=3 January 2024 |title=Iran Lays To Rest Victims Of IS Twin Bombings |work=Barron's |url=https://www.barrons.com/news/iran-lays-to-rest-victims-of-is-twin-bombings-72be528b |access-date=5 January 2024 |archive-date=6 January 2024 |archive-url=https://web.archive.org/web/20240106053919/https://www.barrons.com/news/iran-lays-to-rest-victims-of-is-twin-bombings-72be528b |url-status=live}}</ref>",
+                  "url": "https://www.barrons.com/news/iran-lays-to-rest-victims-of-is-twin-bombings-72be528b",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s4",
+              "text": "Two days after the attack, Ministry of Interior (Iran)|Iran's Ministry of Interior ordered Iran–Pakistan border barrier|walls to be built on its Afghanistan–Iran border|borders with Afghanistan and Iran–Pakistan border|Pakistan.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |url=https://www.afintl.com/202401049463 |title=وزیر داخله جمهوری اسلامی از اجرایی شدن طرح انسداد مرز ایران با افغانستان خبر داد |date=6 January 2024 |access-date=6 January 2024 |archive-date=6 January 2024 |archive-url=https://web.archive.org/web/20240106063703/https://www.afintl.com/202401049463 |url-status=live}}</ref>",
+                  "url": "https://www.afintl.com/202401049463",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |url=https://da.azadiradio.com/amp/32762651.html |title=طرح انسداد مرز های ایران با افغانستان و پاکستان؛ آیا این شیوه به تامین امنیت کمک میکند؟ |access-date=6 January 2024 |archive-date=6 January 2024 |archive-url=https://web.archive.org/web/20240106021825/https://da.azadiradio.com/amp/32762651.html |url-status=live}}</ref>",
+                  "url": "https://da.azadiradio.com/amp/32762651.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s5",
+              "text": "On 15 and 16 January 2024, Iran launched 2024 Iranian missile strikes in Iraq and Syria|missile attacks at Iraq, Syria, and 2024 Iranian missile strikes in Pakistan|Pakistan, describing them as retaliatory attacks in response to the bombing. \"#Pink Jacket\" was written in Persian on one of the missiles,",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |last1=Malekian |first1=Somayeh |last2=Shalvey |first2=Kevin |title=US condemns Iran for missile strikes in Iraq and Syria |url=https://abcnews.go.com/International/us-condemns-iran-missile-strikes-iraq-syria/story?id=106404935 |access-date=17 January 2024 |publisher=ABC News |date=16 January 2024}}</ref>",
+                  "url": "https://abcnews.go.com/International/us-condemns-iran-missile-strikes-iraq-syria/story?id=106404935",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Wintour |first1=Patrick |title=Iran hails strikes in Pakistan as it is warned of 'serious consequences' |url=https://www.theguardian.com/world/2024/jan/17/iran-hails-strikes-in-pakistan-as-it-is-warned-of-serious-consequences |access-date=17 January 2024 |work=The Guardian |date=17 January 2024}}</ref>",
+                  "url": "https://www.theguardian.com/world/2024/jan/17/iran-hails-strikes-in-pakistan-as-it-is-warned-of-serious-consequences",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=Dagres/> referring to Girl in pink jacket|Reyhaneh Soltaninejad,{{citation needed|date=January 2024}} a toddler who was killed in the 2024 attack while wearing a pink jacket.<ref name=Dagres>{{Cite web |last=Dagres |first=Holly |author-link=Holly Dagres|date=2024-01-16 |title=Experts react: What to expect after Iranian attacks on Erbil |url=https://www.atlanticcouncil.org/blogs/menasource/experts-react-what-to-expect-after-iranian-attacks-on-erbil/ |access-date=2025-01-11 |website=Atlantic Council |language=en-US}}</ref>",
+                  "url": "https://www.atlanticcouncil.org/blogs/menasource/experts-react-what-to-expect-after-iranian-attacks-on-erbil/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Suspect arrested",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "According to the statement, the intelligence obtained from Quetta has played a \"significant role\" in uncovering \"many Takfiri conspiracies\" and identifying other major elements involved in the plot.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | url=https://iranpress.com/iran-arrests-alleged-mastermind-of-deadly-kerman-terror-attack | title=Iran Arrests Alleged Mastermind of Deadly Kerman Terror Attack }}</ref>",
+                  "url": "https://iranpress.com/iran-arrests-alleged-mastermind-of-deadly-kerman-terror-attack",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Reactions",
+      "content": [
+        {
+          "id": "6.1",
+          "title": "Domestic",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.1.s1",
+                  "text": "Ayatollah Ali Khamenei, the Supreme Leader of Iran, pledged a \"hard response\" to the attack and declared that those responsible \"will be the definite target of repression and just punishment from now on\".",
+                  "references": [
+                    {
+                      "text": "<ref>[https://www.isna.ir/news/1402101309556 Leader of the Revolution: Criminals should know that from now on they will be the target of repression and fair punishment] {{Webarchive|url=https://web.archive.org/web/20240104151801/https://t.me/isna94 |date=4 January 2024}} Iranian Students' News Agency. Retrieved 3 January 2024.</ref>",
+                      "url": "https://web.archive.org/web/20240104151801/https://t.me/isna94",
+                      "status_code": null,
+                      "reason": null,
+                      "type": null
+                    }
+                  ]
+                },
+                {
+                  "id": "6.1.s2",
+                  "text": "Iranian clerics and Grand Ayatollahs vehemently condemned the bombings and urged severe punishment for the perpetrators.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=2024-01-05 |title=Iran's ulema, top clerics slam Kerman terrorist attacks |url=https://www.theiranproject.com/en/news/411058/iran-s-ulema-top-clerics-slam-kerman-terrorist-attacks |access-date=2024-01-06 |website=The Iran Project |language=en |archive-date=6 January 2024 |archive-url=https://web.archive.org/web/20240106150259/https://www.theiranproject.com/en/news/411058/iran-s-ulema-top-clerics-slam-kerman-terrorist-attacks |url-status=live}}</ref>",
+                      "url": "https://www.theiranproject.com/en/news/411058/iran-s-ulema-top-clerics-slam-kerman-terrorist-attacks",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.1.s3",
+                  "text": "Iranian President Ebrahim Raisi cancelled a scheduled visit to Turkey and declared a national day of mourning for the victims of the attacks on 4 January. Interior minister Ahmad Vahidi vowed an imminent response for the responsible parties. In his visit to the scene, Law Enforcement Command of the Islamic Republic of Iran|FARAJA head Brigadier General Ahmad-Reza Radan vowed to uproot terrorists. Mohammad Bagher Ghalibaf, the speaker of the Islamic Consultative Assembly urged authorities to identify those behind the attacks.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=4 January 2024 |title=Confusion, speculation in Iran after twin blasts kill more than 80 people |work=Al Jazeera |url=https://www.aljazeera.com/news/2024/1/4/confusion-speculation-in-iran-after-twin-blasts-kill-more-than-80-people |access-date=4 January 2024 |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104151803/https://www.aljazeera.com/news/2024/1/4/confusion-speculation-in-iran-after-twin-blasts-kill-more-than-80-people |url-status=live}}</ref>",
+                      "url": "https://www.aljazeera.com/news/2024/1/4/confusion-speculation-in-iran-after-twin-blasts-kill-more-than-80-people",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"ap211\">{{Cite news |date=3 January 2024 |title=Iran says at least 103 people killed, 211 wounded in bombing at ceremony honoring slain general |work=Associated Press |url=https://apnews.com/article/iran-us-soleimani-explosion-kerman-2524cfed1d040370bf98000e2b53ad5a |access-date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103143210/https://apnews.com/article/iran-us-soleimani-explosion-kerman-2524cfed1d040370bf98000e2b53ad5a |url-status=live}}</ref>",
+                      "url": "https://apnews.com/article/iran-us-soleimani-explosion-kerman-2524cfed1d040370bf98000e2b53ad5a",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |title=Iran Vows Response After Explosions Kill More Than 100 Near Ceremony For Slain General |language=en |work=Radio Free Europe/Radio Liberty |url=https://www.rferl.org/a/iran-explosions-soleimani-death-anniversary/32758522.html |access-date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103175808/https://www.rferl.org/a/iran-explosions-soleimani-death-anniversary/32758522.html |url-status=live}}</ref>",
+                      "url": "https://www.rferl.org/a/iran-explosions-soleimani-death-anniversary/32758522.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |date=3 January 2024 |title=سردار رادان در واکنش به حمله تروریستی کرمان: ریشه ترور را می‌سوزانیم |trans-title=Sardar Radan in response to the terrorist attack in Kerman: We burn the root of terror |url=https://www.yjc.ir/fa/news/8636612 |url-status=live |archive-url=https://web.archive.org/web/20240104151900/https://www.yjc.ir/fa/news/8636612/%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D8%B1%D8%A7%D8%AF%D8%A7%D9%86-%D8%AF%D8%B1-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%A8%D9%87-%D8%AD%D9%85%D9%84%D9%87-%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D8%AA%DB%8C-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%B1%DB%8C%D8%B4%D9%87-%D8%AA%D8%B1%D9%88%D8%B1-%D8%B1%D8%A7-%D9%85%DB%8C%E2%80%8C%D8%B3%D9%88%D8%B2%D8%A7%D9%86%DB%8C%D9%85 |archive-date=4 January 2024 |access-date=3 January 2024 |language=fa}}</ref>",
+                      "url": "https://www.yjc.ir/fa/news/8636612",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2024-01-03 |title=قالیباف: نهادهای امنیتی و انتظامی با جدیت عاملان و آمران حادثه خونین کرمان را شناسایی کنند |trans-title=Qalibaf: Security and law enforcement institutions should seriously identify the perpetrators and leaders of the bloody incident in Kerman |url=https://www.isna.ir/news/1402101309522/%D9%82%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%81-%D9%86%D9%87%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C-%D9%88-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D9%85%DB%8C-%D8%A8%D8%A7-%D8%AC%D8%AF%DB%8C%D8%AA-%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%D8%A7%D9%86-%D8%AD%D8%A7%D8%AF%D8%AB%D9%87 |access-date=2024-01-05 |website=ISNA |language=fa}}</ref>",
+                      "url": "https://www.isna.ir/news/1402101309522/%D9%82%D8%A7%D9%84%DB%8C%D8%A8%D8%A7%D9%81-%D9%86%D9%87%D8%A7%D8%AF%D9%87%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA%DB%8C-%D9%88-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D9%85%DB%8C-%D8%A8%D8%A7-%D8%AC%D8%AF%DB%8C%D8%AA-%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D9%86-%D9%88-%D8%A2%D9%85%D8%B1%D8%A7%D9%86-%D8%AD%D8%A7%D8%AF%D8%AB%D9%87",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "International",
+          "content": [
+            {
+              "id": "6.2.1",
+              "title": "Countries",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "6.2.1.s1",
+                      "text": "Russian president Vladimir Putin expressed condolences to the victims of the attacks, calling it \"shocking in cruelty and cynicism\". Turkish president Recep Tayyip Erdoğan expressed his condolences to the \"friendly and brotherly\" people of Iran via a social media post. Pope Francis issued a telegram expressing his deep sadness over the \"loss of life\".<ref name=\"ap89\" />",
+                      "references": [
+                        {
+                          "text": "<ref>{{Cite news |date=3 January 2024 |title=Deadly blasts rock ceremony for slain Iranian general Soleimani |work=France 24 |url=https://www.france24.com/en/middle-east/20240103-deadly-blasts-hit-ceremony-for-slain-iranian-general-soleimani-state-tv-reports |access-date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103152938/https://www.france24.com/en/middle-east/20240103-deadly-blasts-hit-ceremony-for-slain-iranian-general-soleimani-state-tv-reports |url-status=live}}</ref>",
+                          "url": "https://www.france24.com/en/middle-east/20240103-deadly-blasts-hit-ceremony-for-slain-iranian-general-soleimani-state-tv-reports",
+                          "status_code": null,
+                          "reason": null,
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{cite news|date=3 January 2024|work=TRT|title=Türkiye expresses condolence upon the deadly terrorist attack in Iran|url=https://www.trtworld.com/turkiye/turkiye-expresses-condolence-upon-the-deadly-terrorist-attack-in-iran-16514777|access-date=3 January 2024|archive-date=3 January 2024|archive-url=https://web.archive.org/web/20240103175839/https://www.trtworld.com/turkiye/turkiye-expresses-condolence-upon-the-deadly-terrorist-attack-in-iran-16514777|url-status=live}}</ref>",
+                          "url": "https://www.trtworld.com/turkiye/turkiye-expresses-condolence-upon-the-deadly-terrorist-attack-in-iran-16514777",
+                          "status_code": null,
+                          "reason": null,
+                          "type": "news"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "6.2.1.s2",
+                      "text": "Pakistan's foreign minister Jalil Abbas Jilani strongly condemned \"inhuman terrorist attacks\" and said \"Pakistan stands in solidarity with Iran at this hour of grief\". Syria, Saudi Arabia and the United Arab Emirates expressed condemnation of the attack. The foreign ministries of Ministry of Foreign Affairs (Afghanistan)|Afghanistan, Ministry of Foreign Affairs (Iraq)|Iraq, Ministry of Foreign Affairs (Azerbaijan)|Azerbaijan and Ministry of External Affairs (India)|India also expressed support for the Iranian people as well.",
+                      "references": [
+                        {
+                          "text": "<ref>{{cite news |date=3 January 2024 |title=Pakistan condemns 'inhuman terrorist attacks' in Iran as death toll surges past 100 |work=Arab News.pk |url=https://www.arabnews.pk/node/2435786/pakistan |url-status=live |access-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103180930/https://www.arabnews.pk/node/2435786/pakistan |archive-date=3 January 2024}}</ref>",
+                          "url": "https://www.arabnews.pk/node/2435786/pakistan",
+                          "status_code": null,
+                          "reason": null,
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{cite news |date=4 January 2024 |title=Iran Revises Down Blasts Death Toll To 84 |work=Barron's |url=https://www.barrons.com/news/iran-revises-down-blasts-death-toll-to-84-a68a4acf |access-date=4 January 2024 |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104101937/https://www.barrons.com/news/iran-revises-down-blasts-death-toll-to-84-a68a4acf |url-status=live}}</ref>",
+                          "url": "https://www.barrons.com/news/iran-revises-down-blasts-death-toll-to-84-a68a4acf",
+                          "status_code": null,
+                          "reason": null,
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{cite news |date=4 January 2024 |title=وزارت امور خارجه افغانستان وقوع دو انفجار در ایران را محکوم کرد |trans-title=The Ministry of Foreign Affairs of Afghanistan condemned two explosions in Iran |url=https://www.bakhtarnews.af/dr/%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%A7%D9%85%D9%88%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D9%82%D9%88%D8%B9-%D8%AF%D9%88-%D8%A7%D9%86%D9%81/ |url-status=live |archive-url=https://web.archive.org/web/20240105050024/https://www.bakhtarnews.af/dr/%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%A7%D9%85%D9%88%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D9%82%D9%88%D8%B9-%D8%AF%D9%88-%D8%A7%D9%86%D9%81/ |archive-date=5 January 2024 |access-date=4 January 2024 |language=fa |agency=Bakhtar News Agency}}</ref>",
+                          "url": "https://www.bakhtarnews.af/dr/%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D8%A7%D9%85%D9%88%D8%B1-%D8%AE%D8%A7%D8%B1%D8%AC%D9%87-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86-%D9%88%D9%82%D9%88%D8%B9-%D8%AF%D9%88-%D8%A7%D9%86%D9%81/",
+                          "status_code": null,
+                          "reason": null,
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref name=\"Jazeera\" /> Ministry of Foreign Affairs (Armenia)|Armenia,<ref>{{cite tweet|user=MFAofArmenia|number=1742591440184541322|title=Shocked by the news of explosions in Kerman city #Iran🇮🇷, causing death over 100 innocent civilians. Our thoughts and prayers are with the casualties and their families. @IRIMFA_EN}}</ref>",
+                          "url": null,
+                          "status_code": null,
+                          "reason": null,
+                          "type": "tweet"
+                        },
+                        {
+                          "text": "<ref>{{Cite web |title=Azerbaijan MFA condemns terror attack in Iran, extends condolences |url=https://apa.az/foreign-policy/azerbaijan-mfa-condemns-terror-attack-in-iran-extends-condolences-409572?locale=en |access-date=2024-01-03 |website=Apa.az |language=en |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104151850/https://apa.az/foreign-policy/azerbaijan-mfa-condemns-terror-attack-in-iran-extends-condolences-409572?locale=en |url-status=live}}</ref>",
+                          "url": "https://apa.az/foreign-policy/azerbaijan-mfa-condemns-terror-attack-in-iran-extends-condolences-409572?locale=en",
+                          "status_code": null,
+                          "reason": null,
+                          "type": "web"
+                        },
+                        {
+                          "text": "<ref>{{Cite web |date=4 January 2024 |title=Transcript of Weekly Media Briefing by the Official Spokesperson (4 January 2024) |url=https://www.mea.gov.in/media-briefings.htm?dtl/37494/transcript+of+weekly+media+briefing+by+the+official+spokesperson+january+04+2024 |access-date=5 January 2024 |website=Ministry of External Affairs}}</ref>",
+                          "url": "https://www.mea.gov.in/media-briefings.htm?dtl/37494/transcript+of+weekly+media+briefing+by+the+official+spokesperson+january+04+2024",
+                          "status_code": null,
+                          "reason": null,
+                          "type": "web"
+                        },
+                        {
+                          "text": "<ref name=\"Jazeera\" /> North Korean leader Kim Jong-un expressed support to Iran and condemned the bombings.<ref>{{cite web|url=https://www.koreatimes.co.kr/www/nation/2024/01/103_366417.html|title=Kim Jong-un sends sympathy messages to Iran, Japan: KCNA|website=The Korea Times|date=6 January 2025|access-date=6 January 2024|archive-date=6 January 2024|archive-url=https://web.archive.org/web/20240106163832/https://www.koreatimes.co.kr/www/nation/2024/01/103_366417.html|url-status=live}}</ref>",
+                          "url": "https://www.koreatimes.co.kr/www/nation/2024/01/103_366417.html",
+                          "status_code": null,
+                          "reason": null,
+                          "type": "web"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6.2.2",
+              "title": "Supranational organizations",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "6.2.2.s1",
+                      "text": "The United Nations and the European Union also condemned the attack.",
+                      "references": [
+                        {
+                          "text": "<ref name=Jazeera>{{cite news |title='Heinous': World reacts to twin blasts that kill dozens in Iran |url=https://www.aljazeera.com/news/2024/1/3/heinous-world-reacts-to-twin-blasts-that-kill-dozens-in-iran |publisher=Al Jazeera |date=3 January 2024 |access-date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103225030/https://www.aljazeera.com/news/2024/1/3/heinous-world-reacts-to-twin-blasts-that-kill-dozens-in-iran |url-status=live}}</ref>",
+                          "url": "https://www.aljazeera.com/news/2024/1/3/heinous-world-reacts-to-twin-blasts-that-kill-dozens-in-iran",
+                          "status_code": null,
+                          "reason": null,
+                          "type": "news"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6.2.3",
+              "title": "Non-state entities",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Responsibility",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "On 4 January, the Islamic State claimed responsibility for the attack in a statement posted on Telegram (software)|Telegram. Based on U.S. intelligence assessments, the attack was executed by the Afghanistan branch of the Islamic State, known as Islamic State – Khorasan Province|ISIS–K. The United States had warned Iran of an Islamic State attack prior to the bombings, with US officials stating that the information was timely enough and had enough details about the location to thwart or mitigate the bombings.<ref name=\"wsj\"/>",
+              "references": [
+                {
+                  "text": "<ref name=\"isis\"/> It later released images on its news outlet Amaq showing two masked individuals who it claimed were brothers who carried out the attack as suicide bombers.<ref>{{cite web |url=https://www.bbc.com/news/world-middle-east-67888283 |title=IS claims responsibility for deadly Iran bombings that killed 84 |website=BBC |date=4 January 2024 |access-date=5 January 2024 |archive-date=5 January 2024 |archive-url=https://web.archive.org/web/20240105015430/https://www.bbc.com/news/world-middle-east-67888283 |url-status=live}}</ref>",
+                  "url": "https://www.bbc.com/news/world-middle-east-67888283",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"cnnisis\">{{cite web |url=https://edition.cnn.com/2024/01/04/middleeast/iran-islamic-state-attack-kerman-intl/index.html |title=ISIS claims responsibility for deadliest attack in Iran since 1979 revolution |website=CNN |date=4 January 2024 |access-date=5 January 2024 |archive-date=5 January 2024 |archive-url=https://web.archive.org/web/20240105050131/https://edition.cnn.com/2024/01/04/middleeast/iran-islamic-state-attack-kerman-intl/index.html |url-status=live}}</ref>",
+                  "url": "https://edition.cnn.com/2024/01/04/middleeast/iran-islamic-state-attack-kerman-intl/index.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"iskp\">{{cite news |last1=Landay |first1=Jonathan |last2=Holland |first2=Steve |title=Exclusive: US intelligence confirms Islamic State's Afghanistan branch behind Iran blasts -sources |url=https://www.reuters.com/world/middle-east/us-intelligence-confirms-islamic-states-afghanistan-branch-behind-iran-blasts-2024-01-05/ |access-date=5 January 2024 |publisher=Reuters |date=5 January 2024}}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/us-intelligence-confirms-islamic-states-afghanistan-branch-behind-iran-blasts-2024-01-05/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "7.s2",
+              "text": "Prior to Islamic State's claim of responsibility, Iranian president Ebrahim Raisi blamed Israel for the attack. Vice President Mohammad Mokhber and Expediency Discernment Council member General Mohsen Rezaee also blamed Israel for the bombings. Quds Force commander Esmail Qaani claimed that the perpetrators were \"supplied by the United States and the Zionist regime\". The United States said there is no reason to believe Israel was involved in the bombing, and rejected suggestions of US involvement, calling such allegations \"ridiculous\", and expressed its sympathies towards the victims.<ref name=Jazeera/> Asked for comment regarding the bombings, Israel Defense Forces spokesperson Daniel Hagari said it was \"focused on the 2023 Israel–Hamas war|combat with Hamas\".<ref name=blame />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2024-01-03 |title=واکنش رئیسی به جنایت تروریستی کرمان؛ \"بدانید در مقابل این جنایت هولناک هزینه سختی خواهید داد\" |trans-title=Raisi's reaction to Kerman's terrorist crime; \"Know that you will pay a heavy price for this horrible crime\" |url=http://snn.ir/fa/news/1122978 |access-date=2024-01-03 |website=SNN.IR |language=fa |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104151859/https://snn.ir/fa/news/1122978/%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%D8%B1%D8%A6%DB%8C%D8%B3%DB%8C-%D8%A8%D9%87-%D8%AC%D9%86%D8%A7%DB%8C%D8%AA-%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D8%AA%DB%8C-%DA%A9%D8%B1%D9%85%D8%A7%D9%86-%D8%A8%D8%AF%D8%A7%D9%86%DB%8C%D8%AF-%D8%AF%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%A7%DB%8C%D9%86-%D8%AC%D9%86%D8%A7%DB%8C%D8%AA-%D9%87%D9%88%D9%84%D9%86%D8%A7%DA%A9-%D9%87%D8%B2%DB%8C%D9%86%D9%87-%D8%B3%D8%AE%D8%AA%DB%8C-%D8%AE%D9%88%D8%A7%D9%87%DB%8C%D8%AF-%D8%AF%D8%A7%D8%AF |url-status=live}}</ref>",
+                  "url": "http://snn.ir/fa/news/1122978",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=واکنش معاون اول رئیسی به حادثه تروریستی کرمان/ محسن رضایی: منتظر پایانِ اسرائیل باشید/ کوثری: انتقام می‌گیریم – خبرآنلاین |trans-title=Raisi's first deputy's reaction to the terrorist incident in Kerman – Mohsen Rezaei: Wait for the end of Israel/Kowshari: We will take revenge |url=https://www.khabaronline.ir/amp/1856435/ |url-status=live |archive-url=https://web.archive.org/web/20240103180931/https://www.khabaronline.ir/amp/1856435/ |archive-date=3 January 2024 |access-date=3 January 2024}}</ref>",
+                  "url": "https://www.khabaronline.ir/amp/1856435/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=واکنش مهم به اقدام تروریستی کرمان &#124; پایان اسرائیل ؛ منتظر باشید! – همشهری آنلاین |trans-title=An important response to the terrorist act of Kerman &#124; The end of Israel; wait! – Online citizenship |url=https://www.hamshahrionline.ir/amp/821508/ |url-status=live |archive-url=https://web.archive.org/web/20240103180840/https://www.hamshahrionline.ir/amp/821508/ |archive-date=3 January 2024 |access-date=3 January 2024 |language=fa}}</ref>",
+                  "url": "https://www.hamshahrionline.ir/amp/821508/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | url=https://www.france24.com/en/live-news/20240104-what-to-know-about-iran-s-deadly-twin-blasts | title=What to know about Iran's deadly twin blasts | website=France 24 | date=4 January 2024 | access-date=5 January 2024 | archive-date=5 January 2024 | archive-url=https://web.archive.org/web/20240105050023/https://www.france24.com/en/live-news/20240104-what-to-know-about-iran-s-deadly-twin-blasts | url-status=live}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20240104-what-to-know-about-iran-s-deadly-twin-blasts",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=3 January 2024 |title=ארה\"ב: אין סיבה להאמין שישראל מעורבת בפיצוצים הקטלניים באיראן |trans-title=USA: There is no reason to believe that Israel is involved in the deadly explosions in Iran |url=https://www.ynet.co.il/news/article/SyqhY7mdp |url-status=live |archive-url=https://web.archive.org/web/20240104151803/https://www.ynet.co.il/news/article/SyqhY7mdp |archive-date=4 January 2024 |access-date=2024-01-03 |work=Ynet |language=he}}</ref>",
+                  "url": "https://www.ynet.co.il/news/article/SyqhY7mdp",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "7.s3",
+              "text": "Despite the Islamic State's claims of responsibility for the attacks, Iranian officials continued to accuse the United States and Israel of involvement in the attacks, with IRGC commanding general Hossein Salami saying that the group \"has disappeared\" and that its members \"only act as Mercenary|mercenaries\" for American and Israeli interests on 5 January. Authorities later arrested two people on suspicion of providing support to the suspected suicide bombers and arrested a total of 35 people who were believed to have been involved in the attack.<ref name=\"ap94\" />",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |url=https://www.france24.com/en/live-news/20240105-iran-lays-to-rest-victims-of-is-twin-bombings |title=Iran lays to rest victims of IS twin bombings |website=France 24 |date=5 January 2024 |access-date=5 January 2024 |archive-date=6 January 2024 |archive-url=https://web.archive.org/web/20240106053915/https://www.france24.com/en/live-news/20240105-iran-lays-to-rest-victims-of-is-twin-bombings |url-status=live}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20240105-iran-lays-to-rest-victims-of-is-twin-bombings",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |date=5 January 2024 |title=Iran's Raisi promises retaliation at funeral for victims of twin bombings |url=https://www.aljazeera.com/news/2024/1/5/irans-raisi-promises-retaliation-at-funeral-for-victims-of-twin-bombings |url-status=live |archive-url=https://web.archive.org/web/20240105150334/https://www.aljazeera.com/news/2024/1/5/irans-raisi-promises-retaliation-at-funeral-for-victims-of-twin-bombings |archive-date=5 January 2024 |access-date=6 January 2024 |website=Al Jazeera English}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2024/1/5/irans-raisi-promises-retaliation-at-funeral-for-victims-of-twin-bombings",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s4",
+              "text": "One of the suicide bombers was identified as a citizen of Tajikistan. On 11 January, the Iranian Ministry of Intelligence (Iran)|Ministry of Intelligence said it had identified the mastermind of the attacks as a Tajikistani national known by his alias Abdollah Tajiki, who illegally entered Iran through its southeastern border in December 2023 and manufactured the bombs used in the attacks before leaving the country on 1 January. It also identified one of the bombers as a 24-year old Tajikistani and Israeli national surnamed Bozrov, who was trained by Islamic State in Afghanistan before entering Iran through its southeastern border.<ref name=\"ap94\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=6 January 2024 |title=Iran arrests 11 suspects over bomb blasts, mourners demand revenge – state TV |url=https://www.reuters.com/world/middle-east/iran-leaders-vow-revenge-funeral-bomb-attack-victims-state-media-2024-01-05/ |website=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/iran-leaders-vow-revenge-funeral-bomb-attack-victims-state-media-2024-01-05/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |date=11 January 2024 |title=Iran identifies suspected bomb-maker behind twin blasts, arrests 35 people |url=https://www.aljazeera.com/news/2024/1/11/iran-identifies-suspected-bomb-maker-behind-twin-blasts-arrests-35-people |access-date=11 January 2024 |website=Al Jazeera English |archive-date=11 January 2024 |archive-url=https://web.archive.org/web/20240111142419/https://www.aljazeera.com/news/2024/1/11/iran-identifies-suspected-bomb-maker-behind-twin-blasts-arrests-35-people |url-status=live}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2024/1/11/iran-identifies-suspected-bomb-maker-behind-twin-blasts-arrests-35-people",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Gallery",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "External links",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

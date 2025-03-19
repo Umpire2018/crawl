@@ -1,0 +1,1707 @@
+{
+  "title": "2024_Syrian_opposition_offensives",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "On 27 November 2024, a coalition of Syrian opposition to Bashar al-Assad|Syrian revolutionary factions called the Military Operations Command (Syria)|Military Operations Command led by Tahrir al-Sham|Hay'at Tahrir al-Sham (HTS) and supported by allied Turkey|Turkish-backed groups in the Syrian National Army (SNA) launched an offensive against the Ba'athist Syria|Ba'athist regime's armed forces in Idlib Governorate|Idlib, Aleppo Governorate|Aleppo and Hama Governorates in Syria. The operation was codenamed '''Deterrence of Aggression'''{{refn|group=note|{{langx|ar|ردع العدوان|translit=Rade Aleudwan}}}} by HTS. This is the first time that opposition forces in the Syrian civil war launched a military offensive campaign since the Northwestern Syria offensive (December 2019 – March 2020)#Second Russia–Turkey ceasefire|March 2020 Idlib ceasefire.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |first1=Eyad |last1=Kourdi |first2= Mostafa |last2=Salem |first3=Christian |last3=Edwards |first4= Allegra |last4=Goodwin|first5= Christian |last5=Edwards |first6=Annoa |last6=Abekah-Mensah| first7=Lauren |last7=Kent |first8=Avery |last8=Schmitz |title=Syrian rebels enter Aleppo for first time in eight years during shock offensive |url= https://edition.cnn.com/2024/11/29/world/syria-rebels-aleppo-war-intl/index.html |access-date=29 November 2024 |work=CNN |date=29 November 2024 |language=en }}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.bbc.com/news/articles/czr7rkzz2gmo|title=Syrian troops withdraw from Aleppo as rebels advance|website=BBC News|quote=The latest offensive has been led by an Islamist militant group known at Hayat Tahrir al-Sham (HTS) and allied factions backed by Turkey.}}</ref>",
+                  "url": "https://www.bbc.com/news/articles/czr7rkzz2gmo",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.reuters.com/world/middle-east/aleppo-airport-closed-sources-say-syrian-rebels-reach-heart-city-2024-11-29/|title=Syrian rebels sweep into Aleppo, Russia conducts strikes in support of Assad|quote=With Assad backed by Russia and Iran, and Turkey supporting some of the rebels in the northwest where it maintains troops, the offensive has brought into focus the conflict's knotted geopolitics.|website=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/aleppo-airport-closed-sources-say-syrian-rebels-reach-heart-city-2024-11-29/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://news.sky.com/story/amp/aleppo-airport-and-major-roads-closed-as-syrian-rebel-fighters-step-up-attacks-reports-13263439|title=Aleppo: Rebels 'take control' of airport as thousands of fighters seize most of Syria's second-biggest city|quote=The insurgents, led by the Islamist militant group Hayat Tahrir al Sham and including Turkey-backed fighters, also claim to be in control of all of Idlib province after launching their offensive on Wednesday.|website=Sky}}</ref>",
+                  "url": "https://news.sky.com/story/amp/aleppo-airport-and-major-roads-closed-as-syrian-rebel-fighters-step-up-attacks-reports-13263439",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"g008\">{{cite web | last1=Kourdi | first1=Eyad | last2=Edwards | first2=Christian | title=Syrian rebels launch major attack on regime forces in Aleppo province | website=AOL.com | date=27 November 2024 | url=https://www.aol.com/syrian-rebels-launch-major-attack-183728627.html | access-date=3 December 2024}}</ref>",
+                  "url": "https://www.aol.com/syrian-rebels-launch-major-attack-183728627.html",
+                  "status_code": 200,
+                  "reason": "Too Many Requests",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=27 November 2024 |title=Syrian rebels launch surprise offensive in northwest as regime retaliates with airstrikes |url=https://www.newarab.com/news/syrian-rebels-launch-shock-offensive-against-regime-northwest |work=The New Arab }}</ref>",
+                  "url": "https://www.newarab.com/news/syrian-rebels-launch-shock-offensive-against-regime-northwest",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"cnn 27-11\">{{Cite web |last1=Kourdi |first1=Eyad |last2=Edwards |first2=Christian |date=27 November 2024 |title=Syrian rebels launch major attack on regime forces in Aleppo province |url=https://edition.cnn.com/2024/11/27/middleeast/syria-rebel-attack-aleppo-assad-intl-latam/index.html |access-date=27 November 2024 |website=CNN |language=en}}</ref>",
+                  "url": "https://edition.cnn.com/2024/11/27/middleeast/syria-rebel-attack-aleppo-assad-intl-latam/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "1.s2",
+              "text": "On 29 November 2024, HTS and later the Syrian Democratic Forces (SDF) entered Aleppo and Battle of Aleppo (2024)|captured most of the city, amid the collapse of pro-government forces. The next day, opposition forces made rapid advances, capturing dozens of towns and villages as pro-government forces disintegrated, and 2024 Hama offensive|advanced toward Hama in central Syria, subsequently capturing it on 5 December.",
+              "references": [
+                {
+                  "text": "<ref name=\"collapse30\">{{cite news |date=30 November 2024 |title=\"The Authority\" controls Aleppo International Airport and many cities and towns in the northern Hama countryside amid a complete collapse of the regime forces |url=https://www.syriahr.com/%d8%a7%d9%84%d9%87%d9%80-%d9%80%d9%8a%d9%80-%d9%80%d8%a6%d8%a9-%d8%aa%d8%b3%d9%8a%d8%b7%d8%b1-%d8%b9%d9%84%d9%89-%d9%85%d8%b7%d8%a7%d8%b1-%d8%ad%d9%84%d8%a8-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a/738447/ |access-date=30 November 2024 |publisher=Syrian Observatory for Human Rights |language=Arabic}}</ref>",
+                  "url": "https://www.syriahr.com/%d8%a7%d9%84%d9%87%d9%80-%d9%80%d9%8a%d9%80-%d9%80%d8%a6%d8%a9-%d8%aa%d8%b3%d9%8a%d8%b7%d8%b1-%d8%b9%d9%84%d9%89-%d9%85%d8%b7%d8%a7%d8%b1-%d8%ad%d9%84%d8%a8-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a/738447/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"hamafall\" /> By 6 December, the SDF captured Deir ez-Zor in an Deir ez-Zor offensive (2024)|offensive east of the Euphrates, while the newly formed Southern Operations Room and Al-Jabal Brigade captured Daraa and Suwayda in an Southern Syria offensive (2024)|offensive in the south. The HTS 2024 Homs offensive|advanced further south toward Homs.<ref name=SO/><ref name=SO2/> The US-backed Revolutionary Commando Army|Syrian Free Army (SFA) Palmyra offensive (2024)|took control of Palmyra in the southeast of the country.<ref>{{Cite web |date=6 December 2024 |title=US-backed Syrian Free Army advances in Homs, with reports of clashes with regime forces in Palmyra |url=https://www.aa.com.tr/en/americas/us-backed-syrian-free-army-advances-in-homs-with-reports-of-clashes-with-regime-forces-in-palmyra/3416630 |access-date= |website=Anadolu Agency}}</ref>",
+                  "url": "https://www.aa.com.tr/en/americas/us-backed-syrian-free-army-advances-in-homs-with-reports-of-clashes-with-regime-forces-in-palmyra/3416630",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "1.s3",
+              "text": "On 7 December 2024, Southern Operations Room forces entered the Rif Dimashq Governorate from the south, and came within 10 kilometers of the capital Damascus. SFA forces moved towards the capital from the south east.{{bsn|date=December 2024}} By 8 December, they had captured Homs, which effectively cut Assad's forces from Syria's coast. The same day, rebels also Fall of Damascus (2024)|captured the capital Damascus, toppling Bashar al-Assad's government and Fall of the Assad regime|ending the Assad family's 53-year-long rule over the country.",
+              "references": [
+                {
+                  "text": "<ref name=\"damas1\"/><ref name=\"damas2\"/> Later, opposition forces were reported to have entered the suburbs of the capital.<ref name=\"skynews20241207\">{{Cite web |date=7 December 2024 |title=Rebel forces 'reach Damascus suburbs' as protesters topple statue on outskirts |url=https://news.sky.com/story/rebel-forces-reach-damascus-suburbs-as-protesters-topple-statue-on-outskirts-13268577 |access-date= |website=Sky News |language=en}}</ref>",
+                  "url": "https://news.sky.com/story/rebel-forces-reach-damascus-suburbs-as-protesters-topple-statue-on-outskirts-13268577",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=7 December 2024 |title=US-backed anti-regime groups began expanding to north and towards Damascus from southern Syria |url=https://www.aa.com.tr/en/middle-east/us-backed-anti-regime-groups-began-expanding-to-north-and-towards-damascus-from-southern-syria/3417341# |access-date= |website=Anadolu Agency}}</ref>",
+                  "url": "https://www.aa.com.tr/en/middle-east/us-backed-anti-regime-groups-began-expanding-to-north-and-towards-damascus-from-southern-syria/3417341#",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=homscaptured>{{cite news|url=https://www.reuters.com/world/middle-east/syrian-rebels-seize-fourth-city-close-homs-threat-assads-rule-2024-12-07/|title=Syria rebels celebrate in captured Homs, set sights on Damascus|first1=Suleimi|last1=Al-Khalidi|first2=Timour|last2=Azhari|publisher=Reuters|date=7 December 2024|accessdate=7 December 2024}}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/syrian-rebels-seize-fourth-city-close-homs-threat-assads-rule-2024-12-07/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"fall\">{{cite news |title=Syrian rebels topple President Assad, prime minister calls for free elections |url=https://www.reuters.com/world/middle-east/syria-rebels-celebrate-captured-homs-set-sights-damascus-2024-12-07/ |access-date=8 December 2024 |publisher=Reuters |date=8 December 2024}}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/syria-rebels-celebrate-captured-homs-set-sights-damascus-2024-12-07/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "{{Main|Northwestern Syria clashes (December 2022–November 2024)|Turkish military operation in Idlib Governorate}}\nSince the March 2020 Idlib ceasefire agreement, large scale operations ceased between opposition and pro-government forces in Northwestern Syria. However, revolutionary groups based in northwestern Syria prepared for a resumption of hostilities, with HTS in particular strengthening its military capabilities by reforming its structures into a \"conventional armed force\", improving training, and setting up special forces specializing in raids and night-time operations. Meanwhile, the Syrian government suffered from Corruption in Syria|growing corruption, with researcher Charles Lister describing it as the \"world's biggest narco state\" whose \"corrupt business elite and a powerful network of military commanders, militia leaders and warlords\" were held together by drug trade revenue, especially Syrian Captagon industry|trade of Captagon.  Aleppo had been controlled by Bashar al-Assad's government and Iranian-backed militias since the Aleppo offensive (November–December 2016)|Aleppo offensive in 2016.<ref name=\"cnn 28-11\" /><ref name=\"lister\" />",
+              "references": [
+                {
+                  "text": "<ref name=\"cnn 28-11\" /><ref name=\"lister\">{{Cite web |last=Lister |first=Charles |date=30 November 2024 |title=Syria's conflict is heating up once more |url=https://www.spectator.co.uk/article/syrias-conflict-is-heating-up-once-more/ |access-date=30 November 2024 |website=Spectator |language=en }}</ref>",
+                  "url": "https://www.spectator.co.uk/article/syrias-conflict-is-heating-up-once-more/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"lister\" /> According to the ''Kyiv Post'', some Islamist social media accounts said that the Idlib-based rebels received some training and other support by Ukraine's Main Directorate of Intelligence (Ukraine)|Main Directorate of Intelligence.<ref name=\"KP\">{{Cite web |title= Ukrainian Trained, Turkish Sponsored Syrian Rebels Lead Assault on Aleppo |url=https://www.kyivpost.com/post/43117 |date=1 December 2024 |access-date=1 December 2024 |website=Kyiv Post |language=en-US}}</ref>",
+                  "url": "https://www.kyivpost.com/post/43117",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"lister\" /> Starting in late 2022, HTS forces Northwestern Syria clashes (December 2022–November 2024)|launched a series of infiltration and sniper attacks on government forces, leading up to the offensive. In retaliation, there was shelling of Idlib Governorate as well as Russian air strikes.<ref>{{Cite web |author1=Husam Hezaber |author2=Ali Haj Suleiman|title='Like Judgement Day': Syrian IDPs recount deadly shelling by Assad forces |url=https://www.aljazeera.com/news/2023/9/24/syrians-idps-in-idlib-recount-deadly-shelling-by-assad-forces |access-date=8 December 2024 |website=Al Jazeera |language=en}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/9/24/syrians-idps-in-idlib-recount-deadly-shelling-by-assad-forces",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "According to Abu Hassan al-Hamwi, head of HTS's military wing, the offensive had been planned for a year prior to its launch. Beginning in 2019, HTS developed a military doctrine aimed at transforming loosely organized opposition and jihadist fighters into a conventional military force. The group established specialized military branches, most notably a drone unit that produced reconnaissance, attack, and suicide drones. HTS additionally established coordination with southern Syrian rebels, creating a unified command structure that incorporated leaders from approximately 25 rebel groups, with the strategic objective of encircling Damascus from multiple directions. HTS initiated the offensive partly to disrupt regional powers' diplomatic normalization with the Assad regime and to counter escalating aerial attacks on northwestern Syria. The group determined that Assad's international allies were strategically constrained, with Russia committed to its war in Ukraine and both Iran and Hezbollah engaged in conflict with Israel, presenting a favorable tactical opportunity.<ref name=\"guardian-plot\"/>",
+              "references": [
+                {
+                  "text": "<ref name=\"guardian-plot\">{{cite news |last=Christou |first=William |date=13 December 2024 |title=Syrian rebels reveal year-long plot that brought down Assad regime |url=https://www.theguardian.com/world/2024/dec/13/syrian-rebels-reveal-year-long-plot-that-brought-down-assad-regime |work=The Guardian}}</ref>",
+                  "url": "https://www.theguardian.com/world/2024/dec/13/syrian-rebels-reveal-year-long-plot-that-brought-down-assad-regime",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "In October 2024, a large mobilization by HTS and government forces was initiated in the Aleppo countryside, as the Syrian rebels reported that they had been preparing for months for a large-scale offensive against government forces within the city of Aleppo. On 26 November 2024, government forces artillery struck the opposition held town of Ariha, killing and injuring 16 civilians.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Abdulrahim |first=Raja |date=29 November 2024 |title=Syrian Rebels Reach Outskirts of Major City in Escalating Offensive |url=https://www.nytimes.com/2024/11/29/world/middleeast/syria-war-aleppo-rebels-government.html |access-date=29 November 2024 |work=The New York Times }}</ref>",
+                  "url": "https://www.nytimes.com/2024/11/29/world/middleeast/syria-war-aleppo-rebels-government.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"casusbelli\">{{cite news |title=Most of them are children. 16 citizens were killed and injured in regime forces' shelling of the city of Ariha |url=https://www.syriahr.com/%d8%ac%d9%84%d9%87%d9%85-%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-16-%d9%85%d9%88%d8%a7%d8%b7%d9%86/737978/ |access-date=27 November 2024 |publisher=Syrian Observatory for Human Rights |date=27 November 2024 |language=Arabic }}</ref>",
+                  "url": "https://www.syriahr.com/%d8%ac%d9%84%d9%87%d9%85-%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af-%d9%88%d8%a5%d8%b5%d8%a7%d8%a8%d8%a9-16-%d9%85%d9%88%d8%a7%d8%b7%d9%86/737978/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Offensive",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "On 27 November 2024, HTS announced that it had launched an offensive dubbed \"Deterrence of Aggression\" toward pro-government forces in western Aleppo Governorate. The offensive was a response to recent artillery shelling by the Syrian government of Bashar al-Assad against rebel-held Idlib, which killed at least 30 civilians.<ref name=\"cnn 27-11\" /><ref name=\"cnn 28-11\" />",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Syrian opposition launches \"Deterrence of Aggression\" operation in the north of the country |url=https://www.aljazeera.net/news/2024/11/27/%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B1%D8%AF%D8%B9 |access-date=27 November 2024 |publisher=Al Jazeera Arabic |date=27 November 2024 |language=Arabic }}</ref>",
+                  "url": "https://www.aljazeera.net/news/2024/11/27/%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B1%D8%AF%D8%B9",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Opening advances",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "During the first ten hours of the offensive, HTS captured 20 towns and villages from pro-government forces, including the towns of Urum al-Kubra|Urm al-Kubra, Anjara, Urum al-Sughra, Sheikh Aqil, Bara, Syria|Bara, Ajil, Awijil, al-Hawtah, Tal al-Dabaa, Hayr Darkal, Qubtan al-Jabal, al-Saloum, al-Qasimiyah, Kafr Basin, Hawr, Anaz and Basratoun. In addition, the 46th regiment base of government forces was besieged by the HTS and captured a few hours later. Russian fighters also conducted airstrikes around Atarib, Darat Izza, and surrounding villages, while government forces shelled rebel-controlled Idlib, Ariha, Idlib|Ariha, Sarmada and other areas in southern Idlib Governorate.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"terr\">{{cite news |title=Weeks after the Syrian Observatory published the preparations... \"Hay'at Tahrir al-Sham\" attacks the Aleppo countryside in the \"Response to Aggression\" operation |url=https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a3%d8%b3%d8%a7%d8%a8%d9%8a%d8%b9-%d9%85%d9%86-%d9%86%d8%b4%d8%b1-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-%d9%84%d9%84%d8%a7%d8%b3%d8%aa%d8%b9/738073/ |access-date=27 November 2024 |publisher=Syrian Observatory for Human Rights |date=27 November 2024 |language=Arabic }}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a3%d8%b3%d8%a7%d8%a8%d9%8a%d8%b9-%d9%85%d9%86-%d9%86%d8%b4%d8%b1-%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-%d9%84%d9%84%d8%a7%d8%b3%d8%aa%d8%b9/738073/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"new\" /> The Syrian Observatory for Human Rights reported that 37 Syrian government soldiers and allied militias and 60 fighters from the opposition forces were killed in the clashes.<ref name=\"cnn 27-11\" /> A Spetsnaz GRU|Russian special forces unit was ambushed by rebels, who later posted photos of a dead Russian soldier and captured equipment. In response, Syrian and Russian forces launched Air assault|aerial assaults on areas controlled by revolutionary groups.<ref>{{Cite news |date=27 November 2024 |url=https://www.newarab.com/news/syrian-rebels-launch-shock-offensive-against-regime-northwest |work=The New Arab |title=Syrian rebels launch surprise offensive in northwest as regime retaliates with airstrikes }}</ref>",
+                      "url": "https://www.newarab.com/news/syrian-rebels-launch-shock-offensive-against-regime-northwest",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=27 November 2024 |title=Opposition Forces Capture Key Villages Near Aleppo, Assad's Army Retaliates |url=https://themedialine.org/headlines/opposition-forces-capture-key-villages-near-aleppo-assads-army-retaliates/ |access-date=27 November 2024 |website=The Media Line |language=en-US }}</ref>",
+                      "url": "https://themedialine.org/headlines/opposition-forces-capture-key-villages-near-aleppo-assads-army-retaliates/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Al-Khalidi |first=Suleiman |title=Syrian rebels launch attack against army in Aleppo province |url=https://www.reuters.com/world/middle-east/syrian-rebels-launch-attack-against-army-aleppo-province-2024-11-27/ |website=Reuters }}</ref>",
+                      "url": "https://www.reuters.com/world/middle-east/syrian-rebels-launch-attack-against-army-aleppo-province-2024-11-27/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Syrian rebels launch attack against army in Aleppo province |url=https://www.timesofisrael.com/liveblog_entry/syrian-rebels-launch-attack-against-army-in-aleppo-province/ |access-date=28 November 2024 |website=The Times of Israel |language=en-US }}</ref>",
+                      "url": "https://www.timesofisrael.com/liveblog_entry/syrian-rebels-launch-attack-against-army-in-aleppo-province/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.2.s2",
+                  "text": "On 28 November, HTS launched an offensive on the eastern Idlib countryside, capturing the villages of Dadikh, Kafr Batikh and Sheikh Ali as well as a neighborhood in the city of Saraqib. This advance brought them within two kilometers of the M5 Motorway (Syria)|M5 highway, a strategic route that had been secured by pro-government forces in 2020. HTS also attacked al-Nayrab's airport located east of Aleppo, where Iranian intervention in the Syrian civil war|Iranian-backed militants have a presence. In the latter half of the day, HTS captured the villages of Kafr Basin, Arnaz and Al-Zarba in the western Aleppo countryside, and cut off the M5 highway. The Syrian rebels had captured around 40 towns and villages in total by the end of the day.<ref name=\"cnn 28-11\" />",
+                  "references": [
+                    {
+                      "text": "<ref name=\"al jazeera\">{{Cite web |title=Dozens killed as armed groups attack Syrian military in northern Aleppo |url=https://www.aljazeera.com/news/2024/11/28/dozen-killed-as-armed-groups-attack-syrian-military-in-northern-aleppo |access-date=28 November 2024 |website=Al Jazeera |language=en}}</ref>",
+                      "url": "https://www.aljazeera.com/news/2024/11/28/dozen-killed-as-armed-groups-attack-syrian-military-in-northern-aleppo",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"cas28\">{{cite news |title=\"The Authority\" cuts off the \"M5\" road... and the death toll in the \"Deterrence of Aggression\" operation rises to 182 elements |url=https://www.syriahr.com/الهيئة-تقطع-طريق-m5-وحصيلة-القتلى-في-عم/738167/ |access-date=28 November 2024 |publisher=Syrian Observatory for Human Rights |date=28 November 2024 |language=Arabic }}</ref>",
+                      "url": "https://www.syriahr.com/الهيئة-تقطع-طريق-m5-وحصيلة-القتلى-في-عم/738167/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.2.s3",
+                  "text": "A Russian airstrike killed fifteen civilians in Atarib in the western Aleppo countryside. Four others were killed in either a Syrian or Russian airstrike in Darat Izza. Iranian state media reported that Islamic Revolutionary Guard Corps (IRGC) Brigadier General Kioumars Pourhashemi, who served as a senior military advisor in Syria, was killed by rebels in Aleppo.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"CivCas1\">{{cite web |url=https://www.syriahr.com/en/350107/ |title=Committing new massacre in Al-Atareb: Russian and regime fighter jets execute nearly 60 airstrikes in Idlib and Aleppo countryside |work=Syrian Observatory for Human Rights |date=28 November 2024 }}</ref>",
+                      "url": "https://www.syriahr.com/en/350107/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"cnn 28-11\" /> An SDF fighter was killed by Turkish drone strike in the north of Raqqah Governorate.<ref name=sohr28nov>{{cite web|url=https://www.syriahr.com/en/350067/|title=Leaving SDF member dead: Turkish drone attacks motorbike in Ain Issa countryside north of Al-Raqqah|work=SOHR|date=28 November 2024}}</ref>",
+                      "url": "https://www.syriahr.com/en/350067/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.2.s4",
+                  "text": "On 29 November, HTS captured the villages of Tal Karatabeen, Abu Qansa, and Al-Talhiya in Idlib countryside and Al-Mansoura, Jab Kas, and Al-Bawabiya in Aleppo countryside. Strong fighting around the town of Saraqib continued. By this point, other Idlib-based Islamist groups were backing the HTS advance, including Ajnad al-Kavkaz, and Liwa al-Muhajireen wal-Ansar. Seven SNA fighters were killed in a Russian airstrike on a SNA military headquarters in Mare'. Four civilians were also killed in separate Russian airstrikes in Idlib.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"cas29\">{{cite news |title=During three days of battles: Number of casualties among civilians and combatants rise to 287 |url=https://www.syriahr.com/en/350178/ |access-date=29 November 2024 |publisher=Syrian Observatory for Human Rights |date=29 November 2024 }}</ref>",
+                      "url": "https://www.syriahr.com/en/350178/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"TRAC\" /> Four civilians were killed and two others were injured by HTS shelling in the al-Hamdaniya neighborhood of Aleppo city.<ref name=\"cas29\"/> An attack by the SDF was carried near Al-Bab with 15 SNA fighters dying.<ref name=\"auto3\">{{Cite web|url=https://thearabweekly.com/kurdish-forces-attack-turkish-backed-fighters-northern-syria-kill-15|title=Kurdish forces attack Turkish-backed fighters in northern Syria, kill 15}}</ref>",
+                      "url": "https://thearabweekly.com/kurdish-forces-attack-turkish-backed-fighters-northern-syria-kill-15",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.syriahr.com/en/350226/|title=Russian airstrike: Seven members of the \"National Army\" kil*led in Aleppo within \"Euphrates Shield\" area|work=SOHR|date=30 November 2024}}</ref>",
+                      "url": "https://www.syriahr.com/en/350226/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.syriahr.com/en/350170/|title=Dea*th toll update: 23 civilians kil*le and injured under Russian airstrikes on Idlib|work=SOHR|date=29 November 2024}}</ref>",
+                      "url": "https://www.syriahr.com/en/350170/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "Battle of Aleppo",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.3.s1",
+                  "text": "{{Main|Battle of Aleppo (2024)}}\nOn 29 November, opposition forces launched a large-scale offensive in Aleppo Governorate aimed at capturing the city of Aleppo and surrounding areas. The rapid fall of Aleppo, which had taken the regime four years to capture from rebels in 2016, surprised even HTS leadership. Al-Hamwi later stated \"We had a conviction, supported by historical precedent, that 'Damascus cannot fall until Aleppo falls.' The strength of the Syrian revolution was concentrated in the north, and we believed that once Aleppo was liberated, we could move southward toward Damascus.\"<ref name=\"guardian-plot\"/>",
+                  "references": [
+                    {
+                      "text": "<ref name=\"one\">{{cite news |title=After detonating two car bombs, the factions of the \"Deterrence of Aggression\" operation enter parts of neighborhoods in the city of Aleppo |url=https://www.syriahr.com/بعد-تفجير-سيارتين-مفخختين-فصائل-عملية/738253/ |access-date=29 November 2024 |publisher=Syrian Observatory for Human Rights |date=29 November 2024 |page=Arabic }}</ref>",
+                      "url": "https://www.syriahr.com/بعد-تفجير-سيارتين-مفخختين-فصائل-عملية/738253/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s2",
+                  "text": "That day, revolutionaries entered the Hamdaniya and New Aleppo districts of Aleppo city, after carrying out a double suicide attack with two car bombs.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"one\"/> HTS-led forces captured five city districts, subsequently reaching the main square and captured parts of four other districts.<ref name=\"collapse\">{{cite news |title=Amid failure of regime forces to counter attacks: H-T-S and factions take control of five neighborhoods in Aleppo city and 20 villages and towns in Idlib and Aleppo countryside |url=https://www.syriahr.com/en/350160/ |access-date=29 November 2024 |date=29 November 2024 }}</ref>",
+                      "url": "https://www.syriahr.com/en/350160/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"collapse2\">{{cite news |title=After controlling 5 neighborhoods, \"Hay'at Tahrir al-Sham\" and factions enter the streets of a number of other neighborhoods in Aleppo city |url=https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%b3%d9%8a%d8%b7%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-5-%d8%a3%d8%ad%d9%8a%d8%a7%d8%a1-%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d9%88%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6/738323/ |access-date=29 November 2024 |publisher=Syrian Observatory for Human Rights |date=29 November 2024 |language=Arabic }}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%b3%d9%8a%d8%b7%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-5-%d8%a3%d8%ad%d9%8a%d8%a7%d8%a1-%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d9%88%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6/738323/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=(AJABreaking) |first=الجزيرة – عاجل |date=20 November 2024 |title=عاجل: المعارضة السورية: سيطرنا على الساحة الرئيسية وسط مدينة #حلب |url=https://x.com/AJABreaking/status/1862575707248902567 |access-date=29 November 2024 |website=X }}</ref>",
+                      "url": "https://x.com/AJABreaking/status/1862575707248902567",
+                      "status_code": null,
+                      "reason": "400, message='Got more than 8190 bytes (9623) when reading Header value is too long.', url='https://x.com/AJABreaking/status/1862575707248902567'",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s3",
+                  "text": "In Idlib and Aleppo governorates, revolutionaries captured 50 towns and villages, including the town of Saraqib, Abu al-Duhur and Maarat al-Numan amid the collapse of pro-government forces' defense lines. Pro-government forces retreated from most of the Idlib Governorate, with the exception of Khan Shaykhun and Kafranbel. In Aleppo region, pro-government forces withdrew to Aleppo International Airport|Aleppo airport, Maskanah, As Safirah and Khanaser road.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"collapse\"/><ref name=\"collapse4\"/><ref name=\"collapse5\">{{cite news |title=Regime forces withdraw from Maarat al-Numan city... and \"Deterrence of Aggression\" forces impose their control over about 50 villages and towns during the day |url=https://www.syriahr.com/%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d9%86%d8%b3%d8%ad%d8%a8-%d9%85%d9%86-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%85%d8%b9%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%b9%d9%85%d8%a7/738405/ |access-date=30 November 2024 |publisher=Syrian Observatory for Human Rights |date=30 November 2024 |page=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d9%86%d8%b3%d8%ad%d8%a8-%d9%85%d9%86-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d9%85%d8%b9%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%b9%d9%85%d8%a7/738405/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s4",
+                  "text": "An airstrike, reportedly of Russian origin, killed 16 civilians and injured 20 others in Aleppo city.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"casciv30\">{{cite news |title=16 people killed.. A horrific massacre committed by warplanes in the city of Aleppo |url=https://www.syriahr.com/%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af-16-%d8%b4%d8%ae%d8%b5-%d9%85%d8%ac%d8%b2%d8%b1%d8%a9-%d9%85%d8%b1%d9%88%d8%b9%d8%a9-%d8%aa%d8%b1%d8%aa%d9%83%d8%a8%d9%87%d8%a7-%d8%a7%d9%84%d8%b7%d8%a7/738431/ |access-date=30 November 2024 |publisher=Syrian Observatory for Human Rights |date=30 November 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af-16-%d8%b4%d8%ae%d8%b5-%d9%85%d8%ac%d8%b2%d8%b1%d8%a9-%d9%85%d8%b1%d9%88%d8%b9%d8%a9-%d8%aa%d8%b1%d8%aa%d9%83%d8%a8%d9%87%d8%a7-%d8%a7%d9%84%d8%b7%d8%a7/738431/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.4",
+          "title": "Government withdrawal and SDF advances",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.4.s1",
+                  "text": "In the early hours of 30 November, revolutionary forces captured the Citadel of Aleppo, the government headquarters in the city, as well as \"more than half of Aleppo city\". By morning, revolutionary forces had seized control of most of Aleppo, forcing pro-government troops to retreat toward as-Safirah.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=Syrian opposition enters Aleppo, takes control of government headquarters and citadel |url=https://www.aljazeera.net/news/2024/11/29/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%88%D8%A7%D8%AA%D9%86%D8%A7-%D8%B3%D9%8A%D8%B7%D8%B1%D8%AA |access-date=29 November 2024 |publisher=Al Jazeera |date=29 November 2024 |page=Arabic }}</ref>",
+                      "url": "https://www.aljazeera.net/news/2024/11/29/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%82%D9%88%D8%A7%D8%AA%D9%86%D8%A7-%D8%B3%D9%8A%D8%B7%D8%B1%D8%AA",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"auto1\">{{Cite news |last=Abdulrahim |first=Raja |date=29 November 2024 |title=Syrian Rebels Breach City of Aleppo, in Biggest Advance in Years |url=https://www.nytimes.com/2024/11/29/world/middleeast/syria-war-aleppo-rebels-government.html |work=The New York Times }}</ref>",
+                      "url": "https://www.nytimes.com/2024/11/29/world/middleeast/syria-war-aleppo-rebels-government.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"collapse3\">{{cite news |title=After an absence of about 8 years.. Warplanes target Aleppo neighborhoods.. and the \"Deterrence of Aggression\" forces penetrate most of Aleppo city neighborhoods |url=https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%ba%d9%8a%d8%a7%d8%a8-%d9%84%d9%86%d8%ad%d9%88-8-%d8%b3%d9%86%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d9%8a%d8%b3/738353/ |access-date=30 November 2024 |publisher=Syrian Observatory for Human Rights |date=30 November 2024 |page=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%ba%d9%8a%d8%a7%d8%a8-%d9%84%d9%86%d8%ad%d9%88-8-%d8%b3%d9%86%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d9%8a%d8%b3/738353/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.4.s2",
+                  "text": "On 30 November 2024, amid the collapse of pro-government forces in Northwestern Syria, the Kurds|Kurdish majority Syrian Democratic Forces (SDF) entered the towns of Dayr Hafir, Tell Aran, Tell Hasel, and the Shaykh Najjar district of Aleppo city, taking over from pro-government forces. In the afternoon, the SDF captured Aleppo International Airport and the towns of Nubbul and Al-Zahraa, following the withdrawal of pro-government forces. Clashes between Turkish backed militias and the SDF were reported in Tell Abyad region in northern Raqqa Governorate.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |title=Following withdrawal of Iranian-backed militias and regime forces; Kurdish forces deploy in Aleppo international airport, Nubl and Al-Zahraa and take control of checkpoints |url=https://www.syriahr.com/en/350205/ |website=syriahr.com |date=30 November 2024 |publisher=Syrian Observatory for Human Rights |access-date=30 November 2024}}</ref>",
+                      "url": "https://www.syriahr.com/en/350205/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"collapse4\">{{cite news |title=On the fourth day of the \"Deterrence of Aggression\" operation: Regime forces collapse and are stationed in 3 cities south of Idlib and centers in areas east and south of Aleppo city |url=https://www.syriahr.com/%d9%81%d9%8a-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d8%b1%d8%af%d8%b9-%d8%a7%d9%84%d8%b9%d8%af%d9%88%d8%a7%d9%86-%d9%82%d9%88/738364/ |access-date=30 November 2024 |publisher=Syrian Observatory for Human Rights |date=30 November 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%81%d9%8a-%d8%a7%d9%84%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d9%84%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d8%b1%d8%af%d8%b9-%d8%a7%d9%84%d8%b9%d8%af%d9%88%d8%a7%d9%86-%d9%82%d9%88/738364/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"sdf2\">{{cite news |title=After the withdrawal of Iranian militias and regime forces.. Kurdish forces deploy in Aleppo International Airport, Nubl and Zahraa and control the checkpoints |url=https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%86%d8%b3%d8%ad%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d9%8a%d9%84%d9%8a%d8%b4%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d9%88%d9%82%d9%88%d8%a7/738399/ |access-date=30 November 2024 |publisher=Syrian Observatory for Human Rights |date=30 November 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%86%d8%b3%d8%ad%d8%a7%d8%a8-%d8%a7%d9%84%d9%85%d9%8a%d9%84%d9%8a%d8%b4%d9%8a%d8%a7%d8%aa-%d8%a7%d9%84%d8%a5%d9%8a%d8%b1%d8%a7%d9%86%d9%8a%d8%a9-%d9%88%d9%82%d9%88%d8%a7/738399/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"auto3\"/><ref>{{cite web | url=https://www.syriahr.com/en/350030/ | title=\"Peace Spring\" area &#124; SDF infiltrate military positions of Ankara-backed factions in western countryside of Tel Abyad – the Syrian Observatory for Human Rights | date=27 November 2024 }}</ref>",
+                      "url": "https://www.syriahr.com/en/350030/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.4.s3",
+                  "text": "Concurrently on 30 November, the Turkish-backed Syrian National Army located in the Euphrates Shield region of Turkish occupation of northern Syria|Turkish occupied northern Syria announced the start of ''Operation Dawn of Freedom'' with the objective of cutting off SDF's supply networks and establishing a corridor connecting al-Bab to Tell Rifaat. SNA forces captured the town of Tadef from pro-government forces during their advances as pro-government forces began withdrawing from the region.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=Syrian National Coalition PM: Operation Freedom Dawn aims to cut PKK supply lines |work=Türkiye Today |url=https://www.turkiyetoday.com/region/syrian-interim-pm-operation-freedom-dawn-aims-to-cut-pkk-supply-lines-86862/ |access-date=30 November 2024 |language=en-US}}</ref>",
+                      "url": "https://www.turkiyetoday.com/region/syrian-interim-pm-operation-freedom-dawn-aims-to-cut-pkk-supply-lines-86862/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=1 December 2024 |title=Escalating conflict in northern Aleppo: Pro-Turkish factions launch offensive as Syrian army tightens control – MAP/VIDEO |url=https://caliber.az/en/post/escalating-conflict-in-northern-aleppo-pro-turkish-factions-launch-offensive-as-syrian-army-tightens-control |access-date=30 November 2024 |website=caliber.az |language=en}}</ref>",
+                      "url": "https://caliber.az/en/post/escalating-conflict-in-northern-aleppo-pro-turkish-factions-launch-offensive-as-syrian-army-tightens-control",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.4.s4",
+                  "text": "Pro-government forces left a substantial amount of military equipment behind during their retreat from Aleppo governorate, including two T-90A tanks, an entire S-125 Neva system battery, a Pantsir-S1 system and a Buk-M2. Revolutionaries also captured helicopters and fighter jets at the Aleppo and Menagh air bases.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=4 December 2024 |title=Syrian rebels seize Aleppo, capturing advanced military assets|url=https://www.msn.com/en-ie/news/other/syrian-rebels-seize-aleppo-capturing-advanced-military-assets/ar-AA1vbMMR |access-date=6 December 2024 |via=MSN|language=en|first=Przemysław |last=Juraszek |work=Daily Wrap}}</ref>",
+                      "url": "https://www.msn.com/en-sg",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.5",
+          "title": "Clashes between SDF and opposition forces",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.5.s1",
+                  "text": "On 30 November, the HTS-led opposition reportedly took control of Aleppo airport after the local SDF troops opted to withdraw.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"collapse30\" /> By afternoon on the next day, the SNA had captured the towns of as-Safirah, Khanasir, and the Kuweires Military Aviation Institute|Kuweires airbase, while clashes occurred between SNA and SDF in the Sheikh Najjar district of Aleppo city. Concurrently HTS captured the thermal power plant, field artillery college, and the military academy on the outskirts of Aleppo.<ref>{{cite news |date=1 December 2024 |title=\"Hay'at Tahrir al-Sham\" and \"National Army\" control the towns of Khanaser and Al-Safira, Kuweires Airport in the Aleppo countryside, and military sites on the outskirts of Aleppo |url=https://www.syriahr.com/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d9%88%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%8a%d8%b3%d9%8a%d8%b7%d8%b1%d8%a7%d9%86-%d8%b9%d9%84%d9%89-%d8%a8%d9%84%d8%af/738575/ |access-date=1 December 2024 |publisher=Syrian Observatory for Human Rights |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a7%d9%84%d9%87%d9%8a%d8%a6%d8%a9-%d9%88%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a-%d9%8a%d8%b3%d9%8a%d8%b7%d8%b1%d8%a7%d9%86-%d8%b9%d9%84%d9%89-%d8%a8%d9%84%d8%af/738575/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.5.s2",
+                  "text": "On the evening of 1 December, the Turkish-backed Syrian National Army (SNA) launched an offensive on the SDF-held town of Tell Rifaat, capturing the town along with several surrounding villages. The remaining SDF-controlled towns in the region were cut off from communication after being encircled by opposition forces.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |date=1 December 2024 |title=More than 200,000 Syrians trapped in Operation \"Dawn of Freedom\"... Communications cut off in northern Aleppo countryside and fears of massacres against Kurdish citizens |url=https://www.syriahr.com/%d8%ad%d8%b5%d8%a7%d8%b1-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-200-%d8%a3%d9%84%d9%81-%d8%b3%d9%88%d8%b1%d9%8a-%d9%81%d9%8a-%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d9%81%d8%ac%d8%b1-%d8%a7%d9%84%d8%ad%d8%b1/738649/ |access-date=1 December 2024 |publisher=Syrian Observatory for Human Rights |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%ad%d8%b5%d8%a7%d8%b1-%d8%a3%d9%83%d8%ab%d8%b1-%d9%85%d9%86-200-%d8%a3%d9%84%d9%81-%d8%b3%d9%88%d8%b1%d9%8a-%d9%81%d9%8a-%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d9%81%d8%ac%d8%b1-%d8%a7%d9%84%d8%ad%d8%b1/738649/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.5.s3",
+                  "text": "On 2 December, the SDF announced plans to evacuate Kurdish IDPs from Tel Rifaat and the Shahba Canton to SDF-held areas in Aleppo's Sheikh Maqsood district and northeastern Syria.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |date=2 December 2024 |title=In harsh humanitarian conditions, tens of thousands of displaced people from Afrin and the people of the Shahba region gathered, waiting to be transferred to the Sheikh Maqsoud neighborhood |url=https://www.syriahr.com/%d8%a8%d8%b8%d8%b1%d9%88%d9%81-%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%82%d8%a7%d8%b3%d9%8a%d8%a9-%d8%aa%d8%ac%d9%85%d8%b9-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a2%d9%84%d8%a7%d9%81-%d8%a7%d9%84/738700/ |access-date=2 December 2024 |publisher=Syrian Observatory for Human Rights |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a8%d8%b8%d8%b1%d9%88%d9%81-%d8%a5%d9%86%d8%b3%d8%a7%d9%86%d9%8a%d8%a9-%d9%82%d8%a7%d8%b3%d9%8a%d8%a9-%d8%aa%d8%ac%d9%85%d8%b9-%d8%b9%d8%b4%d8%b1%d8%a7%d8%aa-%d8%a2%d9%84%d8%a7%d9%81-%d8%a7%d9%84/738700/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |date=2 December 2024 |title=Mazloum Abdi: Our efforts are continuing to secure a safe exit for the residents of Tal Rifaat and al-Shahba |url=https://www.rudawarabia.net/arabic/kurdistan/02122024 |access-date=2 December 2024 |publisher=Rudaw |language=Arabic}}</ref>",
+                      "url": "https://www.rudawarabia.net/arabic/kurdistan/02122024",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.6",
+          "title": "Capture of Hama",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.6.s1",
+                  "text": "On the evening of 30 November 2024, HTS-led opposition forces rapidly advanced in the Hama Governorate, capturing dozens of towns and villages in the countryside by 7 in the evening (Local Syrian time, UTC+03:00|UTC+3:00). As the HTS forces started closing in on Hama, pro-government forces established new military positions on the outskirts of the city, including reinforcements to Jabal Zayn al-Abidin and the towns of Taybat al Imam, Qamhana, and Khitab. Additionally, Russia launched airstrikes on towns recently captured by rebels in the Idlib and Hama regions. This includes one targeting a refugee camp in Idlib city that killed nine civilians and injured 62 others, and another 2024 Aleppo University Hospital airstrike|airstrike targeting Aleppo university hospital killed eight civilians.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=Amidst the withdrawal of regime forces from the city of Hama and its military airport, \"Hay'at Tahrir al-Sham\" continues to advance in its countryside and takes control of new cities and towns |url=https://www.syriahr.com/%d9%88%d8%b3%d8%b7-%d8%a7%d9%86%d8%b3%d8%ad%d8%a7%d8%a8-%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d9%85%d9%86-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%ad%d9%85%d8%a7%d8%a9-%d9%88/738472/ |access-date=30 November 2024 |publisher=Syrian Observatory for Human Rights |date=30 November 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%88%d8%b3%d8%b7-%d8%a7%d9%86%d8%b3%d8%ad%d8%a7%d8%a8-%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d9%85%d9%86-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%ad%d9%85%d8%a7%d8%a9-%d9%88/738472/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=30 November 2024 |title=Syrian rebels closing in on city of Hama – report |url=https://www.jpost.com/breaking-news/article-831386 |access-date=30 November 2024 |website=The Jerusalem Post |language=en}}</ref>",
+                      "url": "https://www.jpost.com/breaking-news/article-831386",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Regime forces reposition themselves and impose a tight cordon on Hama city |url=https://www.syriahr.com/%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%b9%d9%8a%d8%af-%d8%aa%d9%85%d9%88%d8%b6%d8%b9%d9%87%d8%a7-%d9%88%d8%aa%d9%81%d8%b1%d8%b6-%d8%b7%d9%88%d9%82%d8%a7%d9%8b-%d9%85/738543/ |access-date=30 November 2024 |publisher=Syrian Observatory for Human Rights |date=30 November 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%b9%d9%8a%d8%af-%d8%aa%d9%85%d9%88%d8%b6%d8%b9%d9%87%d8%a7-%d9%88%d8%aa%d9%81%d8%b1%d8%b6-%d8%b7%d9%88%d9%82%d8%a7%d9%8b-%d9%85/738543/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Russian warplanes launch airstrikes on cities and towns in the Hama and Idlib countrysides |url=https://www.syriahr.com/%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a-%d9%8a%d8%b4%d9%86-%d8%ba%d8%a7%d8%b1%d8%a7%d8%aa-%d8%ac%d9%88%d9%8a%d8%a9-%d8%b9-5/738560/ |access-date=1 December 2024 |publisher=Syrian Observatory for Human Rights |date=1 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a-%d9%8a%d8%b4%d9%86-%d8%ba%d8%a7%d8%b1%d8%a7%d8%aa-%d8%ac%d9%88%d9%8a%d8%a9-%d8%b9-5/738560/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"cas1dec\">{{cite news |title=Two massacres committed by Russian aircraft.. 49 people killed and martyred, including 17 from the regime forces |url=https://www.syriahr.com/%d9%85%d8%ac%d9%80-%d9%80%d8%b2-%d8%b1-%d8%aa%d9%80-%d9%80%d8%a7%d9%86-%d8%a7%d8%b1%d8%aa%d9%83%d8%a8%d8%aa%d9%87%d9%85%d8%a7-%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%88/738644/ |access-date=1 December 2024 |publisher=Syrian Observatory for Human Rights |date=1 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%85%d8%ac%d9%80-%d9%80%d8%b2-%d8%b1-%d8%aa%d9%80-%d9%80%d8%a7%d9%86-%d8%a7%d8%b1%d8%aa%d9%83%d8%a8%d8%aa%d9%87%d9%85%d8%a7-%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d8%b1%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%88/738644/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.6.s2",
+                  "text": "On 2 December, Russia again launched airstrikes on opposition-held territory, including one on Idlib city that killed 11 civilians. Opposition forces then launched a drone strike targeting pro-government military leaders near Jabal Zayn al-Abidin just north of Hama, which led to multiple deaths and injuries among their ranks. In the evening, the Russian forces carried out massive airstrikes against opposition forces, the heaviest clashes since the start of the offensive. By the end of the day, opposition forces took control of several villages and shelled Hama city, killing eight civilians, while government forces successfully defended Qalaat al-Madiq.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=Russian and Syrian warplanes launch intensive air strikes on Aleppo city and the countryside of Hama and Idlib |url=https://www.syriahr.com/%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a-%d9%88%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-%d9%8a%d8%b4%d9%86-%d8%ba%d8%a7%d8%b1/738705/ |access-date=2 December 2024 |publisher=Syrian Observatory for Human Rights |date=2 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a-%d9%88%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-%d9%8a%d8%b4%d9%86-%d8%ba%d8%a7%d8%b1/738705/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Russian and Syrian warplanes commit a horrific massacre against civilians in Idlib and its countryside |url=https://www.syriahr.com/%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a-%d9%88%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-%d9%8a%d9%86%d9%81%d8%b0-%d8%ba%d8%a7/738708/ |access-date=2 December 2024 |publisher=Syrian Observatory for Human Rights |date=2 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a-%d9%88%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a-%d9%8a%d9%86%d9%81%d8%b0-%d8%ba%d8%a7/738708/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Hayat Tahrir al-Sham and factions target a gathering of military leaders from the regime forces north of Hama city |url=https://www.syriahr.com/%d9%87%d9%8a%d8%a6%d8%a9-%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1-%d8%a7%d9%84%d8%b4%d8%a7%d9%85-%d9%88%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%aa%d8%b3%d8%aa%d9%87%d8%af%d9%81%d8%a7%d9%86-%d8%aa%d8%ac/738722/ |access-date=2 December 2024 |publisher=Syrian Observatory for Human Rights |date=2 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%87%d9%8a%d8%a6%d8%a9-%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1-%d8%a7%d9%84%d8%b4%d8%a7%d9%85-%d9%88%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%aa%d8%b3%d8%aa%d9%87%d8%af%d9%81%d8%a7%d9%86-%d8%aa%d8%ac/738722/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |date=2 December 2024 |title=8 citizens martyred in shelling on Hama city.. The number of martyrs from the shells of the Authority and the factions rises to 12 since the beginning of the \"Deterrence of Aggression\" operation |url=https://www.syriahr.com/%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af-8-%d9%85%d9%88%d8%a7%d8%b7%d9%86%d9%8a%d9%86-%d8%a8%d9%8a%d9%86%d9%87%d9%85-%d8%b7%d9%81%d9%84-%d8%a8%d9%82%d8%b5%d9%81-%d8%b9%d9%84%d9%89-%d9%85%d8%af%d9%8a/738830/ |access-date=2 December 2024 |publisher=Syrian Observatory for Human Rights |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af-8-%d9%85%d9%88%d8%a7%d8%b7%d9%86%d9%8a%d9%86-%d8%a8%d9%8a%d9%86%d9%87%d9%85-%d8%b7%d9%81%d9%84-%d8%a8%d9%82%d8%b5%d9%81-%d8%b9%d9%84%d9%89-%d9%85%d8%af%d9%8a/738830/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=In the fiercest clashes since the launch of Operation \"Deterrence of Aggression\", regime forces, with heavy air support, thwart the organization's attempts to advance to strategic points in the northern Hama countryside |url=https://www.syriahr.com/%d9%81%d9%8a-%d8%a3%d8%b9%d9%86%d9%80-%d9%80%d9%81-%d8%a7%d8%b4%d8%aa%d8%a8%d8%a7%d9%83%d8%a7%d8%aa-%d9%85%d9%86%d8%b0-%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d8%b1/738871/ |access-date=2 December 2024 |publisher=Syrian Observatory for Human Rights |date=2 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%81%d9%8a-%d8%a3%d8%b9%d9%86%d9%80-%d9%80%d9%81-%d8%a7%d8%b4%d8%aa%d8%a8%d8%a7%d9%83%d8%a7%d8%aa-%d9%85%d9%86%d8%b0-%d8%a7%d9%86%d8%b7%d9%84%d8%a7%d9%82-%d8%b9%d9%85%d9%84%d9%8a%d8%a9-%d8%b1/738871/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=After making progress in the eastern Hama countryside.. \"Deterrence of Aggression\" forces control a town and 5 villages in the northern Hama countryside and are trying to control the strategic Qalaat Al-Madiq |url=https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a5%d8%ad%d8%b1%d8%a7%d8%b2-%d8%aa%d9%82%d8%af%d9%85-%d9%81%d9%8a-%d8%b1%d9%8a%d9%81-%d8%ad%d9%85%d8%a7%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a-%d9%82%d9%88%d8%a7%d8%aa/738765/ |access-date=2 December 2024 |publisher=Syrian Observatory for Human Rights |date=2 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a5%d8%ad%d8%b1%d8%a7%d8%b2-%d8%aa%d9%82%d8%af%d9%85-%d9%81%d9%8a-%d8%b1%d9%8a%d9%81-%d8%ad%d9%85%d8%a7%d8%a9-%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a-%d9%82%d9%88%d8%a7%d8%aa/738765/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.6.s3",
+                  "text": "On 3 December, opposition forces captured more than 10 towns and villages near Hama, including the towns of Taybat al-Imam, Halfaya, Sawran, Syria|Soran, and Maardis. Meanwhile, fighting between government forces and SNA were ongoing in Khanasir. North of Hama, at least 17 SAA soldiers, eight HTS fighters, and two civilians were killed in clashes and airstrikes.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |date=3 December 2024 |title=As violent clashes continue for more than 24 hours in the Hama countryside, Hay'at Tahrir al-Sham is at the gates of Hama city and is trying to expand to cut off two main roads with Hama and impose a siege on the city |url=https://www.syriahr.com/%d9%85%d8%b9-%d8%a7%d8%b3%d8%aa%d9%85%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%a8%d8%a7%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%86%d9%80-%d9%80%d9%8a%d9%80-%d9%80%d9%81%d8%a9-%d9%85%d9%86/739000/ |access-date=3 December 2024 |publisher=Syrian Observatory for Human Rights |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%85%d8%b9-%d8%a7%d8%b3%d8%aa%d9%85%d8%b1%d8%a7%d8%b1-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%a8%d8%a7%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%86%d9%80-%d9%80%d9%8a%d9%80-%d9%80%d9%81%d8%a9-%d9%85%d9%86/739000/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=After the fiercest clashes and intensive aerial bombardment, Hayat Tahrir al-Sham and the factions control more cities and towns in the Hama countryside |url=https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%a8%d8%a7%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b9%d9%86%d9%81-%d9%88%d8%a7%d9%84%d9%82%d8%b5%d9%81-%d8%a7%d9%84%d8%ac%d9%88%d9%8a-%d8%a7%d9%84/738892/ |access-date=3 December 2024 |publisher=Syrian Observatory for Human Rights |date=3 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%a8%d8%a7%d9%83%d8%a7%d8%aa-%d8%a7%d9%84%d8%a3%d8%b9%d9%86%d9%81-%d9%88%d8%a7%d9%84%d9%82%d8%b5%d9%81-%d8%a7%d9%84%d8%ac%d9%88%d9%8a-%d8%a7%d9%84/738892/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Intensified fighting between pro-Turkish factions and regime forces in Khanaser town east of Aleppo |url=https://www.syriahr.com/%d8%a7%d8%b4%d8%aa%d8%af%d8%a7%d8%af-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d9%83-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%84%d9%8a%d8%a9-%d9%84/738956/ |access-date=3 December 2024 |publisher=Syrian Observatory for Human Rights|date=3 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a7%d8%b4%d8%aa%d8%af%d8%a7%d8%af-%d8%a7%d9%84%d9%85%d8%b9%d8%a7%d8%b1%d9%83-%d8%a8%d9%8a%d9%86-%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d9%85%d9%88%d8%a7%d9%84%d9%8a%d8%a9-%d9%84/738956/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.syriahr.com/en/350512/?doing_wp_cron=1733247072.5927150249481201171875|title=Casualties under shelling by H*T*S on Hama: At least 24 members of regime forces and H*T*S kil*led in clashes near Hama|work=SOHR|date=3 December 2024}}</ref>",
+                      "url": "https://www.syriahr.com/en/350512/?doing_wp_cron=1733247072.5927150249481201171875",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.6.s4",
+                  "text": "On 4 December, pro-government forces briefly counterattacked and retook the villages of Kafr'a and Maar Shuhur, while the opposition advanced to the Ghab Plain, which serves as a gateway to the majority-Alawites|Alawite coastal region of Syria. Anas Alkharboutli, a photographer working for Deutsche Presse-Agentur|DPA, was killed in an airstrike in Morek amidst the clashes near Hama. By the evening, opposition forces had cut off the roads connecting Hama to Raqqa and Aleppo and took control of several villages in the eastern Hama country side. Opposition forces also captured the towns of Khitab and Mubarakat, while fighting persisted in Jabal Zayn al-Abidin.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=In a counterattack... Regime forces confront the \"Hay'at Tahrir al-Sham\" and the \"Deterrence of Aggression\" factions and secure the city of Hama with air and ground support |url=https://www.syriahr.com/%d9%81%d9%8a-%d9%87%d8%ac%d9%88%d9%85-%d9%85%d8%b9%d8%a7%d9%83%d8%b3-%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%aa%d8%b5%d8%af%d9%89-%d9%84%d9%80%d8%a7%d9%84%d9%87/739053/ |access-date=4 December 2024 |publisher=Syrian Observatory for Human Rights |date=4 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%81%d9%8a-%d9%87%d8%ac%d9%88%d9%85-%d9%85%d8%b9%d8%a7%d9%83%d8%b3-%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%aa%d8%b5%d8%af%d9%89-%d9%84%d9%80%d8%a7%d9%84%d9%87/739053/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.france24.com/en/live-news/20241204-german-news-agency-dpa-says-photographer-killed-near-syria-s-hama |title=German news agency DPA says photographer killed near Syria's Hama |work=France 24 |date=4 December 2024}}</ref>",
+                      "url": "https://www.france24.com/en/live-news/20241204-german-news-agency-dpa-says-photographer-killed-near-syria-s-hama",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=\"Red Bands\" encircle Hama city... \"Hay'at Tahrir al-Sham\" cuts off Hama-Raqqa and Hama-Aleppo roads and paves the way with ground shelling on a strategic mountain near Hama city |url=https://www.syriahr.com/%d8%a7%d9%84%d8%b9%d8%b5%d8%a7%d8%a6%d8%a8-%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7%d8%a1-%d8%aa%d8%b7%d9%88%d9%82-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%ad%d9%85%d8%a7%d8%a9-%d8%a7%d9%84%d9%87%d9%80/739174/ |access-date=4 December 2024 |publisher=Syrian Observatory for Human Rights |date=4 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a7%d9%84%d8%b9%d8%b5%d8%a7%d8%a6%d8%a8-%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7%d8%a1-%d8%aa%d8%b7%d9%88%d9%82-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%ad%d9%85%d8%a7%d8%a9-%d8%a7%d9%84%d9%87%d9%80/739174/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=3 km to reach Hama city.. Hayat Tahrir al-Sham surrounds Hama city from 3 sides and cuts off roads with the city |url=https://www.syriahr.com/3-%d9%83%d9%8a%d9%84%d9%88%d9%85%d8%aa%d8%b1-%d9%84%d9%84%d9%88%d8%b5%d9%88%d9%84-%d8%a5%d9%84%d9%89-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%ad%d9%85%d8%a7%d8%a9-%d9%87%d9%8a%d9%80-%d9%80%d8%a6%d8%a9/739232/ |access-date=4 December 2024 |publisher=Syrian Observatory for Human Rights |date=4 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/3-%d9%83%d9%8a%d9%84%d9%88%d9%85%d8%aa%d8%b1-%d9%84%d9%84%d9%88%d8%b5%d9%88%d9%84-%d8%a5%d9%84%d9%89-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%ad%d9%85%d8%a7%d8%a9-%d9%87%d9%8a%d9%80-%d9%80%d8%a6%d8%a9/739232/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.6.s5",
+                  "text": "On 5 December, opposition forces entered the northeastern part of Hama city amid pro-government airstrikes on its eastern side and by the afternoon, HTS-led rebels had established full control over the city, as pro-government forces withdrew. In a statement, the Syrian government reasoned its withdrawal from Hama city in concurrence with \"preserving the lives of civilians\".",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=After hours of grinding battles.. HTS and factions enter the northeastern side of Hama amid aerial bombardment from warplanes |url=https://www.syriahr.com/بعد-ساعات-من-المعارك-الطاحنة-هيئة-تحري/739303/ |access-date=5 December 2024 |publisher=Syrian Observatory for Human Rights |date=5 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/بعد-ساعات-من-المعارك-الطاحنة-هيئة-تحري/739303/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"hamafall\">{{cite news |title=Syrian rebels capture second major city as army withdraws from Hama |url=https://edition.cnn.com/2024/12/05/middleeast/syria-rebels-hama-government-intl/index.html |access-date=5 December 2024 |publisher=CNN |date=5 December 2024}}</ref>",
+                      "url": "https://edition.cnn.com/2024/12/05/middleeast/syria-rebels-hama-government-intl/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=5 December 2024 |title=Syrian rebels take new city as army announces withdrawal from Hama |url=https://www.washingtonpost.com/world/2024/12/05/israel-hamas-war-news-gaza-lebanon-syria/ |newspaper=The Washington Post}}</ref>",
+                      "url": "https://www.washingtonpost.com/world/2024/12/05/israel-hamas-war-news-gaza-lebanon-syria/",
+                      "status_code": null,
+                      "reason": "Timeout",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Salem |first=Mostafa |date=5 December 2024 |title=Syrian army withdraws from strategic city of Hama as rebels advance |url=https://edition.cnn.com/2024/12/05/middleeast/syria-rebels-hama-government-intl/index.html |access-date=5 December 2024 |website=CNN |language=en}}</ref>",
+                      "url": "https://edition.cnn.com/2024/12/05/middleeast/syria-rebels-hama-government-intl/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.6.s6",
+                  "text": "Following the fall of Hama, Hezbollah announced it was sending fighters across the border toward Hama and Homs to support government forces.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"wsj20241204\"/><ref name=\"aljazeera20241205\" /><ref name=\"dec524\">{{cite web|url=https://www.syriahr.com/en/350637/|title=Amid rebels' failure to advance into the city: Fierce clashes continue on frontlines around Hama city and regime forces restore town in eastern countryside|work=SOHR|date=5 December 2024}}</ref>",
+                      "url": "https://www.syriahr.com/en/350637/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.7",
+          "title": "Capture of Homs",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.7.s1",
+                  "text": "{{Main article|2024 Homs offensive}}\n\nOn 5 December 2024, pro-government forces withdrew from the cities of Salamiyah and Talbiseh towards the city of Homs, hours after their withdrawal from Hama as rebels approached the former town's outskirts. In the evening, opposition forces entered Salamiyah without fighting, after reaching an agreement with the city's elders and its religious Isma'ilism|Ismaili council. By the evening opposition forces had reached the outskirts of Al-Rastan and captured a pro-government military base north of it. Concurrently with the opposition advance, Russian aircraft bombed the main bridge connecting Homs and Hama, in an attempt to slow the rebel advance.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=After the collapse of the regime forces in the city of Hama.. the withdrawal of the regime forces and the National Defense from the cities of Salamiyah and Talbiseh towards the city of Homs |url=https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%86%d9%87%d9%8a%d8%a7%d8%b1-%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d9%81%d9%8a-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%ad%d9%85%d8%a7%d8%a9-%d8%a7/739364/ |access-date=5 December 2024 |publisher=Syrian Observatory for Human Rights |date=5 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%86%d9%87%d9%8a%d8%a7%d8%b1-%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d9%81%d9%8a-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%ad%d9%85%d8%a7%d8%a9-%d8%a7/739364/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Major collapse of the regime forces.. \"Hay'at Tahrir al-Sham\" controls strategic sites near the city of Hama and enters the city of Salamiyah without fighting |url=https://www.syriahr.com/%d8%a7%d9%86%d9%87%d9%8a%d8%a7%d8%b1-%d9%83%d8%a8%d9%8a%d8%b1-%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d9%87%d9%80-%d9%80%d9%8a%d9%80-%d9%80%d8%a6%d8%a9/739376/ |access-date=5 December 2024 |publisher=Syrian Observatory for Human Rights |date=5 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a7%d9%86%d9%87%d9%8a%d8%a7%d8%b1-%d9%83%d8%a8%d9%8a%d8%b1-%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%a7%d9%84%d9%87%d9%80-%d9%80%d9%8a%d9%80-%d9%80%d8%a6%d8%a9/739376/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Regime forces isolate Homs city from northern countryside.. and warplanes target outskirts of Rastan city near a main bridge on Homs-Hama road |url=https://www.syriahr.com/%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%b9%d8%b2%d9%84-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%ad%d9%85%d8%b5-%d8%b9%d9%86-%d8%a7%d9%84%d8%b1%d9%8a%d9%81-%d8%a7%d9%84%d8%b4/739407/ |access-date=5 December 2024 |publisher=Syrian Observatory for Human Rights |date=5 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d8%b9%d8%b2%d9%84-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%ad%d9%85%d8%b5-%d8%b9%d9%86-%d8%a7%d9%84%d8%b1%d9%8a%d9%81-%d8%a7%d9%84%d8%b4/739407/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.7.s2",
+                  "text": "On 6 December 2024, opposition forces captured five towns, and approached the outskirts of Homs, as pro-government forces withdrew from more territory. In the eastern Deir ez-Zor Governorate, pro-government forces began withdrawing from the towns of Deir ez-Zor, Mayadin, Al-Quriyah and Abu Kamal, towards the capital Damascus. By the afternoon, pro-government forces had reportedly completely withdrawn from Homs towards the city of Latakia, with only local pro-government gunmen remaining in the Shia Islam|Shia majority neighborhoods of the city. The Syrian Defense Ministry denied reports that it had given orders to fully evacuate Homs city.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=Despite warplanes' attempts to prevent progress, Hay'at Tahrir al-Sham and factions control the cities of Talbiseh and Rastan, north of Homs, amid the absence of regime forces |url=https://www.syriahr.com/%d8%b1%d8%ba%d9%85-%d9%85%d8%ad%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d9%85%d9%86%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%85/739449/ |access-date=6 December 2024 |publisher=Syrian Observatory for Human Rights |date=6 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%b1%d8%ba%d9%85-%d9%85%d8%ad%d8%a7%d9%88%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d9%85%d9%86%d8%b9-%d8%a7%d9%84%d8%aa%d9%82%d8%af%d9%85/739449/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Coinciding with the advance of the factions and their approach to the city of Homs... warplanes launch air strikes on the city of Talbiseh |url=https://www.syriahr.com/%d8%aa%d8%b2%d8%a7%d9%85%d9%86%d8%a7%d9%8b-%d9%85%d8%b9-%d8%aa%d9%82%d8%af%d9%85-%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d9%88%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%a8%d9%87%d8%a7-%d9%85%d9%86-%d9%85/739451/ |access-date=6 December 2024 |publisher=Syrian Observatory for Human Rights |date=6 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%aa%d8%b2%d8%a7%d9%85%d9%86%d8%a7%d9%8b-%d9%85%d8%b9-%d8%aa%d9%82%d8%af%d9%85-%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d9%88%d8%a7%d9%82%d8%aa%d8%b1%d8%a7%d8%a8%d9%87%d8%a7-%d9%85%d9%86-%d9%85/739451/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=\"Deterrence of Aggression\" factions approach the largest military college in Syria.. and 11 civilians killed and injured in airstrikes in the northern Homs countryside |url=https://www.syriahr.com/%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%b1%d8%af%d8%b9-%d8%a7%d9%84%d8%b9%d8%af%d9%88%d8%a7%d9%86-%d8%aa%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%a3%d9%83%d8%a8%d8%b1-%d9%83%d9%84%d9%8a%d8%a9-%d8%ad/739486/ |access-date=6 December 2024 |publisher=Syrian Observatory for Human Rights |date=6 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%b1%d8%af%d8%b9-%d8%a7%d9%84%d8%b9%d8%af%d9%88%d8%a7%d9%86-%d8%aa%d9%82%d8%aa%d8%b1%d8%a8-%d9%85%d9%86-%d8%a3%d9%83%d8%a8%d8%b1-%d9%83%d9%84%d9%8a%d8%a9-%d8%ad/739486/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Towards the capital Damascus.. Regime forces withdraw from several points in Deir Ezzor, Al-Mayadeen and Al-Bukamal |url=https://www.syriahr.com/%d8%a8%d8%a7%d8%aa%d8%ac%d8%a7%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d8%a9-%d8%af%d9%85%d8%b4%d9%82-%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d9%86%d8%b3%d8%ad%d8%a8/739482/ |access-date=6 December 2024 |publisher=Syrian Observatory for Human Rights |date=6 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a8%d8%a7%d8%aa%d8%ac%d8%a7%d9%87-%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d8%a9-%d8%af%d9%85%d8%b4%d9%82-%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d9%86%d8%b3%d8%ad%d8%a8/739482/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=SO2>{{cite news |title=Regime forces withdraw from Homs city, helicopters drop explosive barrels on outskirts of Deir Baalba neighborhood...and death toll in northern countryside rises to 5 as a result of violent escalation |url=https://www.syriahr.com/%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d9%86%d8%b3%d8%ad%d8%a8-%d9%85%d9%86-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%ad%d9%85%d8%b5-%d9%88%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7/739519/ |access-date=6 December 2024 |publisher=Syrian Observatory for Human Rights |date=6 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d8%aa%d9%86%d8%b3%d8%ad%d8%a8-%d9%85%d9%86-%d9%85%d8%af%d9%8a%d9%86%d8%a9-%d8%ad%d9%85%d8%b5-%d9%88%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7/739519/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Syria's defense ministry denies report that government troops withdrew from Homs |url=https://english.alarabiya.net/News/middle-east/2024/12/06/syria-s-defense-ministry-denies-report-that-government-troops-withdrew-from-homs-|publisher=Alarabiya News}}</ref>",
+                      "url": "https://english.alarabiya.net/News/middle-east/2024/12/06/syria-s-defense-ministry-denies-report-that-government-troops-withdrew-from-homs-",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.7.s3",
+                  "text": "Iran began withdrawing its personnel from Syria in the early hours of 6 December, pulling out top commanders of the Islamic Revolutionary Guard Corps|IRGC's Quds Force and ordering evacuations at the Iranian Embassy in Damascus and at IRGC bases across Syria. Evacuating Iranians headed towards Lebanon and Iraq.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last=Abdulrahim |first=Raja |date=6 December 2024 |title=As Syrian Rebels Advance, Iran Grows Nervous and Neighbors Close Their Borders |url=https://www.nytimes.com/2024/12/06/world/middleeast/syria-rebels-damascus-iran.html |work=The New York Times}}</ref>",
+                      "url": "https://www.nytimes.com/2024/12/06/world/middleeast/syria-rebels-damascus-iran.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"auto4\">{{Cite news |last=Fassihi |first=Farnaz |date=6 December 2024 |title=Iran Begins to Evacuate Military Officials and Personnel From Syria |url=https://www.nytimes.com/2024/12/06/world/middleeast/iran-syria-evacuation.html |work=The New York Times}}</ref>",
+                      "url": "https://www.nytimes.com/2024/12/06/world/middleeast/iran-syria-evacuation.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.7.s4",
+                  "text": "On 7/8 December, it was confirmed that the Ba'athist Syrian forces withdrew from Homs, with revolutionaries afterwards shown to be celebrating in the city.",
+                  "references": [
+                    {
+                      "text": "<ref name=homscaptured /> This effectively cut Assad's forces, including those based from Damascus, from Syria's west coast, which houses the country's Russian bases.<ref>{{cite news|url=https://apnews.com/article/israel-hamas-war-gaza-lebanon-news-7-december-2024-53419e23991cfc14a7857c82f49eb26f|title=Middle East latest: Syria's forces withdraw from Homs, a key link between the capital and coast|publisher=The Associated Press|date=7 December 2024|accessdate=7 December 2024}}</ref>",
+                      "url": "https://apnews.com/article/israel-hamas-war-gaza-lebanon-news-7-december-2024-53419e23991cfc14a7857c82f49eb26f",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.8",
+          "title": "Capture of Daraa, Suwayda, Deir ez-Zor and Palmyra",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.8.s1",
+                  "text": "In the evening of 6 December 2024, local forces captured the regional capital of Suwayda, in southern Syria, following the pro-Assad forces' withdrawal from the city. Concurrently, SDF captured the provincial capital of Deir ez-Zor from pro-Ba'athist forces, which also left the town of Palmyra in central Homs Governorate. By midnight, opposition forces in the southern Daraa Governorate captured its capital Daraa, as well as 90% of the province, as pro-government forces withdrew towards the capital Damascus. Meanwhile, the Revolutionary Commando Army|Syrian Free Army, a different rebel group backed by the United States, Palmyra offensive (2024)|took control of Palmyra in an offensive launched from the al-Tanf \"Safe Zone (Syria)|deconfliction zone\".",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=Sweida is out of the regime's control.. Local gunmen control many security centers in the city and its surroundings, and the governor flees after tensions escalate |url=https://www.syriahr.com/%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%af%d8%a7%d8%a1-%d8%ae%d8%a7%d8%b1%d8%ac-%d8%b3%d9%8a%d8%b7%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d9%85%d8%b3%d9%84%d8%ad%d9%88%d9%86-%d9%85%d8%ad%d9%84/739570/ |access-date=24 December 2024 |publisher=Syrian Observatory for Human Rights |date=6 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%af%d8%a7%d8%a1-%d8%ae%d8%a7%d8%b1%d8%ac-%d8%b3%d9%8a%d8%b7%d8%b1%d8%a9-%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85-%d9%85%d8%b3%d9%84%d8%ad%d9%88%d9%86-%d9%85%d8%ad%d9%84/739570/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url= https://www.eremnews.com/news/arab-world/jgf1ru2 | title= المعارضة المسلحة تصل السويداء وتسيطر على مقرات أمنية (فيديو)|date= 6 December 2024|work= Erem news}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=With the withdrawal of Russian forces to the Hmeimim base.. Regime forces and Iranian militias leave the city of Palmyra, east of Homs |url=https://www.syriahr.com/%d9%85%d8%b9-%d8%a7%d9%86%d8%b3%d8%ad%d8%a7%d8%a8-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a9-%d8%a5%d9%84%d9%89-%d9%82%d8%a7%d8%b9%d8%af%d8%a9-%d8%ad%d9%85%d9%8a/739552/ |access-date=6 December 2024 |publisher=Syrian Observatory for Human Rights |date=6 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%85%d8%b9-%d8%a7%d9%86%d8%b3%d8%ad%d8%a7%d8%a8-%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa-%d8%a7%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a9-%d8%a5%d9%84%d9%89-%d9%82%d8%a7%d8%b9%d8%af%d8%a9-%d8%ad%d9%85%d9%8a/739552/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=After the entry of the \"SDF\" .. the pro-Iranian militias evacuate their positions in Al-Bukamal in the eastern countryside of Deir Ezzor |url=https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%af%d8%ae%d9%88%d9%84-%d9%82%d8%b3%d8%af-%d8%a7%d9%84%d9%85%d9%80-%d9%80%d9%8a%d9%80-%d9%80%d9%84%d9%80-%d9%80%d9%8a%d9%80-%d9%80%d8%b4%d9%80-%d9%80%d9%8a%d8%a7%d8%aa/739546/ |access-date=6 December 2024 |publisher=Syrian Observatory for Human Rights |date=6 December 2024}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%af%d8%ae%d9%88%d9%84-%d9%82%d8%b3%d8%af-%d8%a7%d9%84%d9%85%d9%80-%d9%80%d9%8a%d9%80-%d9%80%d9%84%d9%80-%d9%80%d9%8a%d9%80-%d9%80%d8%b4%d9%80-%d9%80%d9%8a%d8%a7%d8%aa/739546/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"SO\">{{cite news |title=After the advance of local factions to Daraa al-Balad.. Regime forces lose almost complete control over the province |url=https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%aa%d9%82%d8%af%d9%85-%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d8%a9-%d8%a5%d9%84%d9%89-%d8%af%d8%b1%d8%b9%d8%a7-%d8%a7%d9%84%d8%a8%d9%84/739623/ |access-date=6 December 2024 |publisher=Syrian Observatory for Human Rights |date=6 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%aa%d9%82%d8%af%d9%85-%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d8%a9-%d8%a5%d9%84%d9%89-%d8%af%d8%b1%d8%b9%d8%a7-%d8%a7%d9%84%d8%a8%d9%84/739623/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=6 December 2024 |title=US-backed Syrian Free Army advances in Homs, with reports of clashes with regime forces in Palmyra |url=https://www.middleeastmonitor.com/20241206-us-backed-syrian-free-army-advances-in-homs-with-reports-of-clashes-with-regime-forces-in-palmyra/ |access-date=7 December 2024 |website=Middle East Monitor}}</ref>",
+                      "url": "https://www.middleeastmonitor.com/20241206-us-backed-syrian-free-army-advances-in-homs-with-reports-of-clashes-with-regime-forces-in-palmyra/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.8.s2",
+                  "text": "On 7 December 2024, pro-Assad forces withdrew from the Quneitra Governorate, which borders the Israeli-occupied Golan Heights. That day, the Israeli army helped the United Nations Disengagement Observer Force|UNDOF repel an attack.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=For the first time since Israel occupied the Syrian Golan Heights, regime forces withdraw from their positions on the border with the Golan Heights and most of the southern regions, and Russia withdraws from its points |url=https://www.syriahr.com/%d9%84%d9%84%d9%85%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89-%d9%85%d9%86%d8%b0-%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d9%84%d9%84%d8%ac%d9%88%d9%84/739669/ |access-date=7 December 2024 |publisher=Syrian Observatory for Human Rights |date=7 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d9%84%d9%84%d9%85%d8%b1%d8%a9-%d8%a7%d9%84%d8%a3%d9%88%d9%84%d9%89-%d9%85%d9%86%d8%b0-%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d9%84%d9%84%d8%ac%d9%88%d9%84/739669/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.barrons.com/news/israel-army-says-assisting-un-forces-in-repelling-attack-in-syria-2377247f|title=Israel Army Says Assisting UN Forces In 'Repelling Attack' In Syria|website=Barron's|date=7 December 2024|access-date=7 December 2024}}</ref>",
+                      "url": "https://www.barrons.com/news/israel-army-says-assisting-un-forces-in-repelling-attack-in-syria-2377247f",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.9",
+          "title": "Fall of Damascus",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.9.s1",
+                  "text": "{{Main|Fall of Damascus (2024)}}\n\nOn 7 December 2024, revolutionary forces entered the Rif Dimashq Governorate from the south, and came within {{convert|20|km}} of the capital Damascus. Concurrently with the advance towards Damascus, revolutionary forces in the north launched an offensive into Homs city. In the Rif Dimashq region, pro-Assad forces withdrew from the towns of Assal al-Ward, Yabroud, Flitah, Al-Naseriyah and Artouz, while rebels came within {{convert|10|km}} of Damascus. By the evening, pro-Assad forces had left the towns on the outskirts of Damascus, including Jaramana, Qatana, Muadamiyat al-Sham, Darayya, Al-Kiswah, Al-Dumayr and sites near the Mezzeh Air Base. Revolutionary forces were later reported to have reached the suburbs of Damascus. making a stopover at the Russian-operated Khmeimim Air Base near Latakia before proceeding to Moscow where he was given asylum by the Russian government. On 16 December, the Telegram account of the Syrian presidency published a statement attributed to Assad saying that he had gone to a Russian military base in Latakia Governorate \"to oversee combat operations\" following the fall of Damascus but was evacuated out of the country by Russia after coming under siege from rebel forces, adding that he had no intention of resigning or going into exile.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"damas1\">{{cite news |title=10 km from the capital Damascus.. The regime is withdrawing rapidly in southern Syria and the factions are advancing |url=https://www.syriahr.com/%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d8%a9-%d8%aa%d9%83%d8%b3%d8%b1-%d8%ae%d8%b7%d9%88%d8%b7-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d8%a7%d9%84%d8%a3%d9%88/739707/ |access-date=7 December 2024 |publisher=Syrian Observatory for Human Rights |date=7 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d8%a9-%d8%aa%d9%83%d8%b3%d8%b1-%d8%ae%d8%b7%d9%88%d8%b7-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d8%a7%d9%84%d8%a3%d9%88/739707/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Local factions break the first lines of defense of Homs city and attack the headquarters of the 26th Division and the College of Engineering near the city |url=https://www.syriahr.com/%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d8%a9-%d8%aa%d9%83%d8%b3%d8%b1-%d8%ae%d8%b7%d9%88%d8%b7-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d8%a7%d9%84%d8%a3%d9%88/739707/ |access-date=7 December 2024 |publisher=Syrian Observatory for Human Rights |date=7 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a7%d9%84%d9%81%d8%b5%d8%a7%d8%a6%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a%d8%a9-%d8%aa%d9%83%d8%b3%d8%b1-%d8%ae%d8%b7%d9%88%d8%b7-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d8%a7%d9%84%d8%a3%d9%88/739707/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"damas2\">{{cite news |title=Successive withdrawals from the Damascus countryside to secure the capital.. Reconciliation factions are a few kilometers away from the capital Damascus |url=https://www.syriahr.com/%d8%a7%d9%86%d8%b3%d8%ad%d8%a7%d8%a8%d8%a7%d8%aa-%d9%85%d8%aa%d8%aa%d8%a7%d9%84%d9%8a%d8%a9-%d9%85%d9%86-%d8%b1%d9%8a%d9%81-%d8%af%d9%85%d8%b4%d9%82-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a7%d9%84/739717/ |access-date=7 December 2024 |publisher=Syrian Observatory for Human Rights |date=7 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a7%d9%86%d8%b3%d8%ad%d8%a7%d8%a8%d8%a7%d8%aa-%d9%85%d8%aa%d8%aa%d8%a7%d9%84%d9%8a%d8%a9-%d9%85%d9%86-%d8%b1%d9%8a%d9%81-%d8%af%d9%85%d8%b4%d9%82-%d9%84%d8%aa%d8%a3%d9%85%d9%8a%d9%86-%d8%a7%d9%84/739717/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=After the major withdrawal in the Damascus countryside and cities adjacent to the capital.. Regime forces redeploy in the capital Damascus |url=https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%ad%d8%a7%d8%a8-%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1-%d9%81%d9%8a-%d8%b1%d9%8a%d9%81-%d8%af%d9%85%d8%b4%d9%82-%d9%88%d9%85%d8%af%d9%86-%d9%85%d8%aa/739738/ |access-date=7 December 2024 |publisher=Syrian Observatory for Human Rights |date=7 December 2024 |language=Arabic}}</ref>",
+                      "url": "https://www.syriahr.com/%d8%a8%d8%b9%d8%af-%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%ad%d8%a7%d8%a8-%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1-%d9%81%d9%8a-%d8%b1%d9%8a%d9%81-%d8%af%d9%85%d8%b4%d9%82-%d9%88%d9%85%d8%af%d9%86-%d9%85%d8%aa/739738/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"skynews20241207\"/> Later that day, Bashar al-Assad fled the city,<ref>{{cite web |title=Syrian army command tells officers that Assad's rule has ended, officer says |url=https://www.reuters.com/world/middle-east/syria-rebels-celebrate-captured-homs-set-sights-damascus-2024-12-07/ |website=Reuters |access-date=8 December 2024}}</ref>",
+                      "url": "https://www.reuters.com/world/middle-east/syria-rebels-celebrate-captured-homs-set-sights-damascus-2024-12-07/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |date=13 December 2024 |title=Assad's final hours in Syria: Deception, despair and flight |url=https://www.reuters.com/world/middle-east/assads-final-hours-syria-deception-despair-flight-2024-12-13/ |access-date=10 December 2024 |publisher=Reuters}}</ref>",
+                      "url": "https://www.reuters.com/world/middle-east/assads-final-hours-syria-deception-despair-flight-2024-12-13/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |date=16 December 2024 |title='I didn't intend to leave Syria,' purported statement by Assad says |url=https://www.bbc.com/news/articles/c5yd0zz5edqo |access-date=16 December 2024 |publisher=BBC}}</ref>",
+                      "url": "https://www.bbc.com/news/articles/c5yd0zz5edqo",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.9.s2",
+                  "text": "In the early hours of 8 December 2024, revolutionary groups in the north captured Homs, and began advancing towards Damascus. It was also reported that rebels managed to enter the Damascus neighborhood of Barzeh. On that day, the Syrian Army command informed its officers that Fall of the Assad regime|Assad's government had ended, and Prime Minister Mohammad Ghazi al-Jalali announced that he was ready \"to cooperate with any leadership chosen by the people\".",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=Syrian rebels claim control of Homs and advance toward Damascus |url=https://www.nbcnews.com/news/world/syrian-rebels-claim-control-fourth-city-advance-damascus-rcna183291 |access-date=8 December 2024 |publisher=NBC News |date=8 December 2024}}</ref>",
+                      "url": "https://www.nbcnews.com/news/world/syrian-rebels-claim-control-fourth-city-advance-damascus-rcna183291",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=enterdamascus>{{cite news |url=https://www.cnn.com/2024/12/07/middleeast/syria-rebels-homs-damascus-assad-intl/index.html|title=Syrian rebels appear to have entered Damascus as Assad regime's defenses crumble|first1=Eyad|last1=Kourdi|first2=Christian|last2=Edwards|first3=Nic|last3=Robertson|first4=Avery|last4=Schmitz|publisher=CNN|date=7 December 2024|accessdate=7 December 2024}}</ref>",
+                      "url": "https://edition.cnn.com/2024/12/07/middleeast/syria-rebels-homs-damascus-assad-intl/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Syrian army command tells officers that Assad's rule has ended, officer says |url=https://www.reuters.com/world/middle-east/syria-rebels-celebrate-captured-homs-set-sights-damascus-2024-12-07/ |access-date=8 December 2024 |work=Reuters |date=8 December 2024}}</ref>",
+                      "url": "https://www.reuters.com/world/middle-east/syria-rebels-celebrate-captured-homs-set-sights-damascus-2024-12-07/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Syrian Prime Minister: Ready to Cooperate |url=https://www.wsj.com/livecoverage/syria-civil-war-damascus/card/syrian-prime-minister-ready-to-cooperate-gG7okAui3MTS7vJA6oHR |access-date=8 December 2024 |work=Wall Street Journal |date=8 December 2024}}</ref>",
+                      "url": "https://www.wsj.com/livecoverage/syria-civil-war-damascus/card/syrian-prime-minister-ready-to-cooperate-gG7okAui3MTS7vJA6oHR",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.10",
+          "title": "Closing offensives",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.10.s1",
+                  "text": "After the capture of Damascus by the Southern Operations Room, Latakia and Tartus were the last two regional capitals held by Ba'athist forces. Anti-regime protests broke out in Latakia and later in Tartus, as demonstrators began to tear down posters and topple statues of Hafez al-Assad. On 8 December, the HTS began advancing on both cities, capturing them without a battle.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url= https://www.aljazeera.net/amp/politics/2024/12/8/تفاصيل-الأيام-الأخيرة-من-حكم-بشار | title= تفاصيل الأيام الأخيرة من حكم بشار الأسد | date= 8 December 2024|work=Aljazeera}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url= https://www.intellinews.com/syrian-opposition-captures-key-port-city-of-tartus-357233/ | title= Syrian opposition captures key port city of Tartus | date= 8 December 2024|work= intellinews news}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.aljazeera.net/amp/news/2024/12/8/خبير-عسكري-دخول-المعارضة-لمدينة-جبلة | title= خبير عسكري: دخول المعارضة لمدينة جبلة \"رسالة واضحة\" لروسيا | date= 8 December 2024|work= Aljazeera}}</ref>",
+                      "url": "https://www.aljazeera.net/amp/news/2024/12/8/خبير-عسكري-دخول-المعارضة-لمدينة-جبلة",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Resumed conflict December 2024 to present",
+      "content": [
+        {
+          "id": "4.1",
+          "title": "Immediate aftermath",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.1.s1",
+                  "text": "Following the 2024 Manbij offensive, Turkish involvement in the Syrian civil war continued in mid-December with the 2024 Kobani offensive.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"SOHR_TR_attack_Tal_Mishtanour\">{{cite Q|Q131460344}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "Q"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.1.s2",
+                  "text": "In December 2024, the factions supported by Turkey announced they would discontinue the ceasefire with groups supported by the US, such as Syrian Democratic Forces. One news article noted: \"The SNA, an umbrella of several armed factions, informed the SDF on Monday that it would be returning to 'a state of combat against us,' one of the sources briefing Al-Monitor said. The sources said negotiations between the SDF and the SNA had 'failed' and that 'significant military buildups' in areas east and west of the Kurdish town of Kobani on the Turkish border were being observed.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://www.al-monitor.com/originals/2024/12/turkey-backed-syrian-factions-end-us-mediated-ceasefire-kurdish-led-sdf|title=Turkey-backed Syrian factions end US-mediated ceasefire with Kurdish-led SDF|author=Amberin Zaman|date=16 December 2024}}</ref>",
+                      "url": "https://www.al-monitor.com/originals/2024/12/turkey-backed-syrian-factions-end-us-mediated-ceasefire-kurdish-led-sdf",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Reactions",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "5.2",
+          "title": "Domestic",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.2.s1",
+                  "text": "* {{Flagicon|Syria|1980}} Ba'athist Syria: The Syrian Arab Army (SAA) described the offensive as \"a huge and large-scale terrorist attack\" in which \"large numbers of terrorists using medium and heavy weapons\" targeted villages, towns, and military sites. On 30 November, a pro-government commentator on Syrian state TV said that \"reinforcements and Russia's assistance would repel the terrorist groups\" and blamed Turkey for supporting the insurgents' push into Aleppo and Idlib provinces. In a phone call with Iranian President of Iran|president Masoud Pezeshkian, President Bashar al-Assad said the offensive was aimed at \"dividing the region and fragmenting the countries in it and redraw the map in line with the objectives of the United States and the West\".\n* {{Flag|Syrian opposition}}: Hassan Abdel Ghani|Hassan Abdelghani, spokesperson for the Syrian revolutionary coalition, stated that the targets of the operation are Assad's forces, Russian Army and Iranian militias, whom he accused of bringing \"devastation, death, and killing to the region\" while \"exploiting Arab and Muslim populations\" to push their \"sabotaging plans\" under \"the guise of resistance\".",
+                  "references": [
+                    {
+                      "text": "<ref name=\"al jazeera\" /> On 30 November, the Syrian government announced a \"temporary troop withdrawal\" from Aleppo.<ref>{{Cite web |title=Syrian army announces temporary withdrawal from Aleppo after rebel assault |url=https://www.aljazeera.com/news/2024/11/30/syrian-army-announces-temporary-withdrawal-from-aleppo-after-rebel-assault |access-date=30 November 2024 |website=Al Jazeera}}</ref>",
+                      "url": "https://www.aljazeera.com/news/2024/11/30/syrian-army-announces-temporary-withdrawal-from-aleppo-after-rebel-assault",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url=https://www.cbsnews.com/amp/news/syria-insurgents-push-aleppo-assad-government/|title=Syrian insurgents are inside Aleppo in a major setback for Assad as government forces regroup|website=CBS News|date=December 2024 |quote=On a state TV morning show Saturday, commentators said army reinforcements and Russia's assistance will repel the \"terrorist groups,\" blaming Turkey for supporting the insurgents' push into Aleppo and Idlib provinces.}}</ref>",
+                      "url": "https://www.cbsnews.com/news/syria-insurgents-push-aleppo-assad-government/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url=https://www.france24.com/en/live-news/20241202-syria-russia-conduct-deadly-strikes-to-push-back-rebel-advance |title=Syria's Assad says rebel advance a bid to 'redraw' regional map |website=France 24 |date=2 December 2024}}</ref>",
+                      "url": "https://www.france24.com/en/live-news/20241202-syria-russia-conduct-deadly-strikes-to-push-back-rebel-advance",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"cnn 28-11\" />\n* {{flagicon image|De facto SA-NES Flag.svg}} Autonomous Administration of North and East Syria: The Syrian Democratic Forces (SDF) announced a general mobilization in response to rebel advances in Aleppo and released a statement condemning the resurgence of violence, which it blamed on the Syrian government and Turkish occupation.<ref>{{Cite web |title=SDF urges joining mobilization as Turkey-backed groups escalate attacks |url=https://www.rudaw.net/english/middleeast/syria/011220243 |access-date=3 December 2024 |website=www.rudaw.net}}</ref>",
+                      "url": "https://www.rudaw.net/english/middleeast/syria/011220243",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Syrian Democratic Council: The Syrian crisis can only be resolved through a just political solution |url=https://anfenglish.com/rojava-syria/syrian-democratic-council-issues-statement-about-latest-developments-76634 |access-date=3 December 2024 |website=ANF News}}</ref>",
+                      "url": "https://anfenglish.com/rojava-syria/syrian-democratic-council-issues-statement-about-latest-developments-76634",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.3",
+          "title": "International",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.3.s1",
+                  "text": "* {{Flag|EU}}: Kaja Kallas, Vice President of the European Commission, congratulated the rebels for toppling the Assad regime, noting it \"a historic moment\", and vowed to keep supporting the aspiration of Syrian people.\n* {{Flag|Iran}}: Ministry of Foreign Affairs (Iran)|Foreign Minister Abbas Araghchi described the offensive as \"a plot orchestrated by the U.S. and the Zionist regime following the regime's defeat in Lebanon and Palestine\". Mojtaba Damirchiloo, Assistant Minister of Foreign Affairs of Iran and Director General of the Eurasia Department also claimed Ukraine was supplying rebels. After the toppling of the Assad regime, government spokesperson Fatemeh Mohajerani called for \"respect for Syria's territorial integrity\" and further stated that the Syrian people should decide their own fate.\n* {{Flag|Russia}}: Presidential spokesperson Dmitry Peskov called the offensive \"a violation of Syria's sovereignty in this region\".\n* {{Flag|Turkey}}: The Ministry of Foreign Affairs (Turkey)|foreign ministry called for an end to the airstrikes on Idlib and demanded that \"greater instability is avoided and civilians are not harmed\". President of Turkey|President Recep Tayyip Erdoğan|Recep Tayyip Erdogan criticised Assad for refusing his offers of negotiations and claimed \"the target, of course, is Damascus. The opposition's march continues. Our wish is that this march in Syria continues without accidents.\"\n* {{Flag|Ukraine}}: Ukraine issued a statement blaming Russia and Iran as well as the actions of the Assad government in refusing internal dialogue for the destabilisation of Syria. Ukraine also denied accusations by Iran and Russia that it was supporting rebels in the offensive. President-elect Donald Trump responded to the offensives by stating the US should not intervene, remarking \"this is not our fight\" and to \"let it play out\".\n; Organizations\n* {{Flag|Hezbollah}}: Following the 2024 Hama offensive|capture of Hama, Hezbollah Secretary-General of Hezbollah|secretary-general Naim Qassem pledged that \"Hezbollah will be by Syria's side against this aggression,\" which he said was sponsored by the United States and Israel.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web | url=https://ejpress.org/fall-of-assads-criminal-regime-a-historic-moment-for-the-syrian-people-says-eus-kaja-kallas/ | title=Fall of Assad's criminal regime 'a historic moment' for the Syrian people, says EU's Kaja Kallas | date=9 December 2024| last=Lempkowicz | first=Yossi|work=European Jewish Press|accessdate=17 January 2025}}</ref>",
+                      "url": "https://ejpress.org/fall-of-assads-criminal-regime-a-historic-moment-for-the-syrian-people-says-eus-kaja-kallas/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"wapost 29-11\">{{Cite news |last=El Deeb |first=Sarah |date=29 November 2024 |title=In a shock offensive, insurgents breach Syria's largest city for the first time since 2016 |url=https://www.washingtonpost.com/world/2024/11/29/syria-attack-clashes-aleppo/a8e3165a-ae3b-11ef-b98c-b3bed6509e98_story.html |access-date=20 November 2024 |newspaper=The Washington Post}}</ref>",
+                      "url": "https://www.washingtonpost.com/world/2024/11/29/syria-attack-clashes-aleppo/a8e3165a-ae3b-11ef-b98c-b3bed6509e98_story.html",
+                      "status_code": null,
+                      "reason": "Timeout",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=iranaccusation>{{cite news |title=MFA rejects Iran's accusations of Ukraine's involvement in escalation in Syria |url=https://newsukraine.rbc.ua/news/mfa-rejects-iran-s-accusations-of-ukraine-1733509280.html |access-date=6 December 2024 |work=RBC-Ukraine}}</ref>",
+                      "url": "https://newsukraine.rbc.ua/news/mfa-rejects-iran-s-accusations-of-ukraine-1733509280.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"aljazeera20241210\">{{Cite web |last=Motamedi |first=Maziar |title=What is Iran signalling since the fall of Syria's Bashar al-Assad? |url=https://www.aljazeera.com/news/2024/12/10/what-is-iran-signalling-since-the-fall-of-syrias-bashar-al-assad |access-date=11 December 2024 |website=Al Jazeera |language=en}}</ref>",
+                      "url": "https://www.aljazeera.com/news/2024/12/10/what-is-iran-signalling-since-the-fall-of-syrias-bashar-al-assad",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"wapost 29-11\" /> Russia also blamed Ukraine for the involvement.<ref name=russiaaccusation>{{cite news |title=Ukraine's Ministry of Foreign Affairs responds to Russia's accusations of involvement in Syria |url=https://tsn.ua/en/ato/ukraine-s-ministry-of-foreign-affairs-responds-to-russia-s-accusations-of-involvement-in-syria-2716833.html |access-date=6 December 2024 |work=ТСН.ua |date=5 December 2024}}</ref>",
+                      "url": "https://tsn.ua/en/ato/ukraine-s-ministry-of-foreign-affairs-responds-to-russia-s-accusations-of-involvement-in-syria-2716833.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Michaelson |first=Ruth |date=29 November 2024 |title=Syrian rebels enter Aleppo three days into surprise offensive |url=https://www.theguardian.com/world/2024/nov/29/syrian-rebels-launch-surprise-attack-on-aleppo |access-date=29 November 2024 |work=The Guardian |issn=0261-3077 }}</ref>",
+                      "url": "https://www.theguardian.com/world/2024/nov/29/syrian-rebels-launch-surprise-attack-on-aleppo",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Türkiye wishes Syrian opposition's march to continue 'without accidents': President Erdogan |url=https://www.aa.com.tr/en/middle-east/turkiye-wishes-syrian-oppositions-march-to-continue-without-accidents-president-erdogan/3416234 |access-date=7 December 2024 |work=www.aa.com.tr}}</ref>",
+                      "url": "https://www.aa.com.tr/en/middle-east/turkiye-wishes-syrian-oppositions-march-to-continue-without-accidents-president-erdogan/3416234",
+                      "status_code": null,
+                      "reason": "Timeout",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=iranaccusation /><ref name=russiaaccusation />\n* {{Flag|United States}}: White House National Security Council spokesperson Sean Savett released a statement stating \"The United States has nothing to do with this offensive, which is led by Hay'at Tahrir al-Sham (HTS), a designated terrorist organization\".<ref>{{cite web |last1=Keating |first1=Joshua |title=How the Syrian rebels' surprise offensive shocked the world |url=https://www.vox.com/world-politics/389694/syria-rebels-bashar-assad-iran-hts-united-states-refugees-middle-east |work=Vox (website)|Vox |date=5 December 2024 |access-date=7 December 2024}}</ref>",
+                      "url": "https://www.vox.com/world-politics/389694/syria-rebels-bashar-assad-iran-hts-united-states-refugees-middle-east",
+                      "status_code": 200,
+                      "reason": "Timeout",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Al-Khalidi |first1=Suleiman |last2=Azhari |first2=Timour |title=Syrian rebels battle for Homs and advance on Damascus, Assad's rule at stake |url=https://www.reuters.com/world/middle-east/syrian-rebels-seize-fourth-city-close-homs-threat-assads-rule-2024-12-07/ |work=Reuters |date=7 December 2024 |access-date=7 December 2024}}</ref>",
+                      "url": "https://www.reuters.com/world/middle-east/syrian-rebels-seize-fourth-city-close-homs-threat-assads-rule-2024-12-07/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Knickmeyer |first1=Ellen |last2=Weissert |first2=Will |title=Trump says US shouldn't intervene in Syria as opposition forces gain ground |url=https://abcnews.go.com/US/wireStory/trump-us-intervene-syria-opposition-forces-gain-ground-116558026 |publisher=ABC News (United States)|ABC News |date=7 December 2024 |access-date=7 December 2024}}</ref>",
+                      "url": "https://abcnews.go.com/US/wireStory/trump-us-intervene-syria-opposition-forces-gain-ground-116558026",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"aljazeera20241205\">{{Cite web |title=Hezbollah backs Syria's al-Assad as opposition forces intensify offensive |url=https://www.aljazeera.com/news/2024/12/5/hezbollah-backs-syrias-al-assad-as-opposition-forces-intensify-offensive |access-date=5 December 2024 |website=Al Jazeera}}</ref>",
+                      "url": "https://www.aljazeera.com/news/2024/12/5/hezbollah-backs-syrias-al-assad-as-opposition-forces-intensify-offensive",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Involvement of other countries",
+      "content": [
+        {
+          "id": "6.1",
+          "title": "Russia",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.1.s1",
+                  "text": "Russia has conducted joint airstrikes with the Syrian Arab Army against the rebels. Starting 2 December, Russian warships began leaving the Tartus naval base.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=Syria's civil war reignites in dramatic fashion as Russia joins airstrikes on rebels who seized Aleppo |url=https://www.cbsnews.com/news/syria-war-aleppo-airstrikes-russia-assad-rebels-offensive/ |work=CBS News |date=2 December 2024}}</ref>",
+                      "url": "https://www.cbsnews.com/news/syria-war-aleppo-airstrikes-russia-assad-rebels-offensive/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Sutton |first=H. I. |date=3 December 2024 |title=First Signs Russia Is Evacuating Navy Ships From Syria |url=https://www.navalnews.com/naval-news/2024/12/first-sign-russian-navy-evacuating-naval-vessels-from-tartus-syria/ |access-date=8 December 2024 |website=Naval News |language=en-US}}</ref>",
+                      "url": "https://www.navalnews.com/naval-news/2024/12/first-sign-russian-navy-evacuating-naval-vessels-from-tartus-syria/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Iran",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.2.s1",
+                  "text": "Iran said it \"firmly\" supported the Assad regime. Prior to the rebel capture of Aleppo, Iranian General Kioumars Pourhashemi was killed by the rebels during clashes. On 5 December, Iranian General Javad Ghafari arrived in Syria to help the Syrian government. By 7 December, Iran had withdrawn some military and diplomatic personnel from Syria. Government spokesperson Mohajerani said that 4,000 Iranian citizens had returned home from Syria on board 10 flights organized by Iranian airline Mahan Air.<ref name=\"aljazeera20241210\"/>",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=Iran throws its support behind Assad as rebels expand their shock offensive in Syria |url=https://www.nbcnews.com/news/world/syria-civil-war-rebels-aleppo-iran-bashar-assad-offensive-airport-hama-rcna182325 |work=NBC News |date=1 December 2024 |language=en}}</ref>",
+                      "url": "https://www.nbcnews.com/news/world/syria-civil-war-rebels-aleppo-iran-bashar-assad-offensive-airport-hama-rcna182325",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=28 November 2024 |title=Iran commander killed in Syria amid clashes between government, opposition forces |url=https://english.alarabiya.net/News/middle-east/2024/11/28/iranian-revolutionary-guards-officer-killed-in-syria-report |access-date=8 December 2024 |website=Al Arabiya English |language=en}}</ref>",
+                      "url": "https://english.alarabiya.net/News/middle-east/2024/11/28/iranian-revolutionary-guards-officer-killed-in-syria-report",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Iran withdraws IRGC commanders, civilians from Syria: Report |url=https://www.firstpost.com/world/iran-withdraws-irgc-commanders-civilians-from-syria-report-13842533.html |work=Firstpost |date=7 December 2024 |language=en-us}}</ref>",
+                      "url": "https://www.firstpost.com/world/iran-withdraws-irgc-commanders-civilians-from-syria-report-13842533.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.3",
+          "title": "Israel",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.3.s1",
+                  "text": "{{Seealso|2024 Israeli invasion of Syria}}\n and Israeli invasion of Syria in 2024]]\nIsrael conducted airstrikes on Hezbollah weapons depots inside Syria, after Hezbollah pledged backing for Assad and claimed to have sent \"supervising forces\". Israel warned Iran against sending support to the Assad government and prevented Iranian planes from landing in Damascus. Israeli Prime Minister Benjamin Netanyahu took credit for the fall of the Assad government.",
+                  "references": [
+                    {
+                      "text": "<ref name=aj1>{{cite news |title=Thousands flee Syria's Homs as opposition forces advance on key city |url=https://www.aljazeera.com/news/2024/12/6/thousands-flee-syrian-city-of-homs-as-rebel-fighters-close-in-war-monitor |work=Al Jazeera |language=en |quote=Israel launched air attacks on two border crossings between Syria and Lebanon, hitting the Syrian side of the Arida and Jousiyeh crossings...claimed to have hit weapons transfer hubs and infrastructure used by Lebanese armed group Hezbollah, which has pledged backing for al-Assad and claims to have sent \"supervising forces\" to Homs.}}</ref>",
+                      "url": "https://www.aljazeera.com/news/2024/12/6/thousands-flee-syrian-city-of-homs-as-rebel-fighters-close-in-war-monitor",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=haaretz1>{{cite news |title=Israel Believes Iran Will Use Syrian Rebel Uprising to Send Weapons to Hezbollah |url=https://www.haaretz.com/israel-news/2024-12-02/ty-article/.premium/israel-believes-iran-will-use-syrian-rebel-uprising-to-send-weapons-to-hezbollah/00000193-8605-d49a-a797-9e9f2bef0000 |publisher=Haaretz |quote=\"a Damascus-bound Iranian plane was turned around by Israel\"}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2024-12-02/ty-article/.premium/israel-believes-iran-will-use-syrian-rebel-uprising-to-send-weapons-to-hezbollah/00000193-8605-d49a-a797-9e9f2bef0000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |title=Israel takes credit, in part, for the fall of the Assad regime. But what now? |url=https://www.npr.org/2024/12/10/nx-s1-5221635/israel-takes-credit-in-part-for-the-fall-of-the-assad-regime-but-what-now|date=10 December 2024|accessdate=8 January 2025|work=NPR|last1=Kelemen|first1=Michele}}</ref>",
+                      "url": "https://www.npr.org/2024/12/10/nx-s1-5221635/israel-takes-credit-in-part-for-the-fall-of-the-assad-regime-but-what-now",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.3.s2",
+                  "text": "Israel also bombed Syrian government weapons depots believed to contain chemical weapons to prevent them from falling into another party's hands. As the Southern Operations Room seized control of southern Syria, the IDF announced the deployment of additional air force and army units to the Golan Heights.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"ynet1\">{{cite news |title=As Syria rebels gain ground, Israel vows to halt Iran's arms pipeline to Hezbollah |url=https://www.ynetnews.com/article/b1yexu1v1l |work=Ynetnews |date=5 December 2024 |language=en}}</ref>",
+                      "url": "https://www.ynetnews.com/article/b1yexu1v1l",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Second front opens up in southern Syria, as Druze militias clash with fleeing regime forces |url=https://www.jpost.com/breaking-news/article-832307 |access-date=8 December 2024 |work=The Jerusalem Post |date=6 December 2024 |language=en}}</ref>",
+                      "url": "https://www.jpost.com/breaking-news/article-832307",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.4",
+          "title": "Turkey",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.4.s1",
+                  "text": "{{Seealso|Turkish involvement in the Syrian civil war}}\n on 6–9 December 2024]]\n''The Guardian'' reported \"It is widely assumed Turkey broadly approved of the HTS-led offensive in advance but Turkey denies this.\" During a meeting in Doha between Sergey Lavrov, Abbas Araghchi and Hakan Fidan, the Russian and Iranian foreign ministers both tacitly blamed Turkey for the downfall of Assad regime.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last=Wintour |first=Patrick |date=2 December 2024 |title=Syria crisis due to Assad's refusal to engage with opposition, says Turkish minister |url=https://www.theguardian.com/world/2024/dec/02/syria-crisis-summit-turkey-iran-russia |access-date=8 December 2024 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>",
+                      "url": "https://www.theguardian.com/world/2024/dec/02/syria-crisis-summit-turkey-iran-russia",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news | url=https://www.theguardian.com/world/2024/dec/07/assad-syria-turkey-iran-russia-diplomats-regime | title=As Assad's power crumbles, Turkey, Iran and Russia disagree on way forward for Syria | newspaper=The Observer | last1=Wintour | first1=Patrick }}</ref>",
+                      "url": "https://www.theguardian.com/world/2024/dec/07/assad-syria-turkey-iran-russia-diplomats-regime",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.4.s2",
+                  "text": "Despite the collapse of the Assad regime, Turkey and Turkish-backed Syrian National Army|SNA fighters in northern Syria continued to attack U.S.-backed Syrian Democratic Forces|SDF forces. On 9 December, SNA fighters captured the city of Manbij.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=As Assad falls, fighting intensifying over northern Syria town |url=https://www.voanews.com/a/as-assad-falls-fighting-intensifying-over-northern-syria-town-/7891689.html |work=VOA News |date=8 December 2024}}</ref>",
+                      "url": "https://www.voanews.com/a/as-assad-falls-fighting-intensifying-over-northern-syria-town-/7891689.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=War Monitor Says Turkish Drone Strike Kills 11 Civilians In North Syria |url=https://www.barrons.com/news/war-monitor-says-turkish-drone-strike-kills-11-civilians-in-north-syria-391e4506 |work=Barron's |agency=Agence France Presse |date=9 December 2024}}</ref>",
+                      "url": "https://www.barrons.com/news/war-monitor-says-turkish-drone-strike-kills-11-civilians-in-north-syria-391e4506",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Rebels take Syrian city from U.S.-backed group after U.S.-Turkey deal, source says |url=https://www.reuters.com/world/middle-east/rebels-take-north-syria-town-us-backed-group-turkish-source-says-2024-12-09/ |work=Reuters |date=9 December 2024}}</ref>",
+                      "url": "https://www.reuters.com/world/middle-east/rebels-take-north-syria-town-us-backed-group-turkish-source-says-2024-12-09/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.5",
+          "title": "Ukraine",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.5.s1",
+                  "text": "Ukraine is known to have provided training and equipment to the Syrian opposition in the preparation of offensive. The Main Directorate of Intelligence (Ukraine)|Ukrainian HUR is also alleged to have dispatched advisors to the rebels to coordinate this offensive",
+                  "references": [
+                    {
+                      "text": "<ref name=\"KP\"/> as well as intelligence and material support to opposition forces including HTS.<ref>{{Cite news |last=Soylu |first=Ragip |date=2 December 2024 |title=Has Ukraine helped the Syrian rebel offensive in Aleppo? |url=https://www.middleeasteye.net/news/has-ukraine-helped-syrian-rebel-offensive-aleppo |archive-url=https://web.archive.org/web/20241202193210/https://www.middleeasteye.net/news/has-ukraine-helped-syrian-rebel-offensive-aleppo |archive-date=2 December 2024 |work=Middle East Eye}}</ref>",
+                      "url": "https://www.middleeasteye.net/news/has-ukraine-helped-syrian-rebel-offensive-aleppo",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=4 December 2024 |title=Ukrainian intelligence coordinating with Syrian rebels against 'mutual enemy', says opposition figure |url=https://www.newarab.com/news/ukraine-intelligence-may-be-coordinating-syrian-rebels |archive-url=https://web.archive.org/web/20241204184206/https://www.newarab.com/news/ukraine-intelligence-may-be-coordinating-syrian-rebels |archive-date=4 December 2024 |work=The New Arab}}</ref>",
+                      "url": "https://www.newarab.com/news/ukraine-intelligence-may-be-coordinating-syrian-rebels",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Analysis",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "{{See also|Middle Eastern crisis (2023–present)}}\nHezbollah, which was a \"major ally\" of the Syrian government during the Syrian civil war|civil war, was severely weakened during its Israel–Hezbollah conflict (2023–present)|war with Israel since October 2023. The deaths of Hassan Nasrallah and much of its military leadership, combined with the redeployment of Hezbollah fighters in Syria back to Lebanon, left a large power vacuum. With the Russian military concentrating on its Russian invasion of Ukraine|invasion of Ukraine and Iran under significant pressure, it provided an opportunity for rebel groups to launch an offensive.",
+              "references": [
+                {
+                  "text": "<ref name=\"cnn 28-11\">{{Cite web |last=Salem |first=Mostafa |date=28 November 2024 |title=Syria's rebels exploit weaknesses in Iran's proxies to launch surprise offensive |url=https://edition.cnn.com/2024/11/28/europe/syria-rebels-government-iran-analysis-intl/index.html |access-date=28 November 2024 |website=CNN |language=en}}</ref>",
+                  "url": "https://edition.cnn.com/2024/11/28/europe/syria-rebels-government-iran-analysis-intl/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s2",
+              "text": "According to Nick Heras, an analyst with the New Lines Institute for Strategy and Policy, the rebels were trying to pre-empt a Syrian government offensive which was being shaped by Russian and Syrian airstrikes on rebel areas. The presence of Turkish-backed groups in the offensive was believed to be a warning from Turkey to Russia and the Syrian government to avoid any offensives in the region.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Syrian insurgents cut off key road as 200 die in escalating violence |url=https://www.theguardian.com/world/2024/nov/28/syrian-insurgents-cut-damascus-aleppo-highway-amid-fresh-offensive |access-date=29 November 2024 |work=The Guardian |date=28 November 2024 }}</ref>",
+                  "url": "https://www.theguardian.com/world/2024/nov/28/syrian-insurgents-cut-damascus-aleppo-highway-amid-fresh-offensive",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "7.s3",
+              "text": "Prior to the fall of the Assad government, the Institute for the Study of War (ISW) assessed that if this were to occur, it would damage the global perception of Russia as an effective partner and protector which together with the loss of bases in Syria which are the primary logistical hubs for shipments from Russia sent to Libya and eventually sub-Saharan Africa would undermine Russia's goals of expanding its influence in Africa. Tartus naval base|Tartus base is Russia's only formal overseas naval base and links Russia's Black Sea assets to the Mediterranean and is central for future expansion plans in the Mediterranean and Red Seas, which would threaten NATO's southern flank. The ISW analysed that the Africa Corps (Russia)|Africa Corps, while the easiest to deploy to Syria, lacks the numbers to make a difference and its limited forces are already overstretched across Africa or recalled to fight in Kursk to repel the 2024 Kursk offensive|Ukrainian incursion into Russia.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |title=Africa File Special Edition: Syria's Potential Impact on Russia's Africa and Mediterranean Ambitions |url=https://understandingwar.org/backgrounder/africa-file-special-edition-syria%E2%80%99s-potential-impact-russia%E2%80%99s-africa-and-mediterranean |website=Institute for the Study of War |access-date=5 December 2024 |language=en}}</ref>",
+                  "url": "https://understandingwar.org/backgrounder/africa-file-special-edition-syria%E2%80%99s-potential-impact-russia%E2%80%99s-africa-and-mediterranean",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s4",
+              "text": "According to analysts, Syrian government defeats can largely be attributed to its confidence in an ultimate victory over the rebels and the lack of effort it has put in strengthening its military ranks over the four years since the Northwestern Syria offensive (December 2019 – March 2020)|Idlib ceasefire in 2020. Pointing to the prevalence of unwilling and poorly paid young conscripts in the army, observers noted that Iran would be hesitant to provide Assad with needed ground support. Analysts have also said that Russia sees little purpose to intervene more forcefully against the rebels, beyond some limited airstrikes, given the perceived ineffectiveness of Assad's forces.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Abdulrahim |first=Raja |date=7 December 2024 |title=Syria Live Updates: Assad did little to support the military ranks, analysts say. |url=https://www.nytimes.com/live/2024/12/07/world/syria-war-damascus/assad-did-little-to-support-the-military-ranks-analysts-say?smid=url-share |access-date=7 December 2024 |work=The New York Times}}</ref>",
+                  "url": "https://www.nytimes.com/live/2024/12/07/world/syria-war-damascus/assad-did-little-to-support-the-military-ranks-analysts-say?smid=url-share",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Troianovski |first=Anton |date=7 December 2024 |title=Syria Live Updates: Russia, an Assad ally, is unlikely to come to his aid. |url=https://www.nytimes.com/live/2024/12/07/world/syria-war-damascus/russia-an-assad-ally-is-unlikely-to-come-to-his-aid?smid=url-share |access-date=7 December 2024 |work=The New York Times}}</ref>",
+                  "url": "https://www.nytimes.com/live/2024/12/07/world/syria-war-damascus/russia-an-assad-ally-is-unlikely-to-come-to-his-aid?smid=url-share",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "7.s5",
+              "text": "Russian analysts generally blamed al-Assad for losing the war. Speaking to ''Komsomolskaya Pravda'', Semyon Bagdasarov argued that the Syrian government failed to motivate its troops and to unite the various Syrian ethnic and religious groups around its cause. Similarly, political scientist Andrey Kortunov wrote that al-Assad had failed to unite Syrians and achieve national reconciliation, comparing him to former Afghan president Ashraf Ghani, who Fall of Kabul (2021)|was overthrown by the Taliban in 2021. Journalist Vitaly Ryumshin shared this comparison, but partially defended the Syrian government, arguing that the lack of reform was due to economic sanctions on the country and loss of control over the oil's resources to the United States and the Kurds. In a different view, Anton Mardasov, a Russian expert on the Middle East, told ''Nezavisimaya Gazeta'' that the government's collapse was not due to Western sanctions but because of al-Assad's failure in dealing with the country's problems, specifically mentioning the economic crisis, endemic corruption and nepotism and \"the loss of touch with reality and thinking in the paradigm of 50 years ago\".",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Baranov |first=Andrey |date=8 December 2024 |title=The Syrian cauldron could not withstand the pressure and exploded: What will happen next |url=https://www.kp.ru/daily/27670.5/5021691/ |work=Komsomolskaya Pravda |language=ru}}</ref>",
+                  "url": "https://www.kp.ru/daily/27670.5/5021691/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Kortunov |first=Andrey |date=9 December 2024 |title=In Syria, everything is just beginning |url=https://www.kommersant.ru/doc/7362127?from=author_1 |access-date= |website=Kommersant |language=ru}}</ref>",
+                  "url": "https://www.kommersant.ru/doc/7362127?from=author_1",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Vitaly |first=Ryumshin |date=9 December 2024 |title=What will happen to Syria after Assad? |url=https://www.gazeta.ru/comments/column/articles/20209946.shtml |access-date= |website=Gazeta.Ru |language=ru}}</ref>",
+                  "url": "https://www.gazeta.ru/comments/column/articles/20209946.shtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last1=Subbotin |first1=Igor |last2=Petrov |first2=Gennady |date=8 December 2024 |title=The fall of Damascus Assad |url=https://www.ng.ru/world/2024-12-08/1_9151_syria.html |access-date= |website=Nezavisimaya Gazeta |language=ru}}</ref>",
+                  "url": "https://www.ng.ru/world/2024-12-08/1_9151_syria.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s6",
+              "text": "According to ''The Sunday Telegraph'', the collapse of the Assad regime carries repercussions for both Russia and Iran due to their investment on the survival of the regime; Iran's Axis of Resistance had effectively collapsed with the loss of Assad's rule in Syria, undermining Iran's ability to supply Hezbollah, while Russia's invasion of Ukraine distracted Putin from Syria and exposed his struggle to keep supporting Russia's allies in Latin America and Africa (in particular Mali, Burkina Faso and Niger).",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |last1=Collins |first1=Tim |date=8 December 2024 |title=The fall of Assad is a disaster for Putin. More dominoes may fall across the Middle East |url=https://www.telegraph.co.uk/news/2024/12/08/assad-fall-syria-putin-disaster-iran-mullahs-threat/ |newspaper=The Sunday Telegraph}}</ref>",
+                  "url": "https://www.telegraph.co.uk/news/2024/12/08/assad-fall-syria-putin-disaster-iran-mullahs-threat/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Blomfield |first1=Adrian |last2=Makoii |first2=Akhtar |date=8 December 2024 |title=How Oct 7 led to the fall of Syria – and the retreat of Iran |url=https://www.telegraph.co.uk/world-news/2024/12/07/iran-proxies-torn-shreds-danger/ |newspaper=The Sunday Telegraph}}</ref>",
+                  "url": "https://www.telegraph.co.uk/world-news/2024/12/07/iran-proxies-torn-shreds-danger/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Kilner |first1=James |date=8 December 2024 |title=Rebels' success in Syria is a humiliation for Putin – no matter how Kremlin spins it |url=https://www.telegraph.co.uk/world-news/2024/12/08/rebels-success-in-syria-looking-is-humiliation-putin/ |newspaper=The Sunday Telegraph}}</ref>",
+                  "url": "https://www.telegraph.co.uk/world-news/2024/12/08/rebels-success-in-syria-looking-is-humiliation-putin/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite web | url=https://edition.cnn.com/2024/12/09/europe/syria-russia-bashar-al-assad-analysis-intl-hnk/index.html | title=Assad's fall is huge blow for Putin, highlighting fragility of his own rule | date=9 December 2024 }}</ref>",
+                  "url": "https://edition.cnn.com/2024/12/09/europe/syria-russia-bashar-al-assad-analysis-intl-hnk/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news | url=https://www.rferl.org/a/russia-syria-assad-ukraine/33229577.html | title=Losing Syria is A 'Huge Slap in the Face' for Russia | newspaper=Radio Free Europe/Radio Liberty | last1=Scollon | first1=Michael | last2=Bezhan | first2=Frud }}</ref>",
+                  "url": "https://www.rferl.org/a/russia-syria-assad-ukraine/33229577.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Notes",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

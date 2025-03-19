@@ -1,0 +1,898 @@
+{
+  "title": "2024_Mexican_general_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "Claudia Sheinbaum, a member of the left-wing political party Morena (political party)|Morena, was widely regarded by her party as the top contender to succeed President Andrés Manuel López Obrador and ultimately secured the nomination of the ruling coalition, Sigamos Haciendo Historia. Xóchitl Gálvez emerged as the frontrunner of Fuerza y Corazón por México following a surge in popularity due to criticisms from López Obrador. Citizens' Movement (Mexico)|Citizens' Movement, the only national party without a coalition, nominated Jorge Máynez. This was the first general election in Mexico's history in which most contenders for the country's presidency were women.",
+              "references": [
+                "https://www.france24.com/en/americas/20240603-sheinbaum-set-to-win-mexico-election-becoming-first-female-president",
+                "https://edition.cnn.com/2023/07/22/americas/amlo-xochitl-galvez-mexico-intl-latam/index.html"
+              ]
+            },
+            {
+              "id": "1.s2",
+              "text": "Sheinbaum won the presidential election by a landslide margin of over 33 points, becoming the first woman and the first person of full History of the Jews in Mexico|Jewish descent to be elected president of Mexico and the first Jewish woman elected head of state in Latin America. The election saw Sheinbaum receiving the highest number of votes ever recorded for a candidate in Mexican history, surpassing López Obrador's record of 30.1 million votes 2018 Mexican general election|from 2018. Sheinbaum was officially sworn into office on 1 October 2024.",
+              "references": [
+                "https://elpais.com/mexico/elecciones-mexicanas/2024-06-03/datos-sheinbaum-la-presidenta-mas-votada-en-la-historia-de-mexico.html"
+              ]
+            },
+            {
+              "id": "1.s3",
+              "text": "In the legislative elections, the Sigamos Haciendo Historia coalition won a supermajority in the Chamber of Deputies, securing 73% of the seats, the highest share for a party or coalition since 1982 Mexican general election|1982. The alliance fell three seats short of a supermajority in the Senate, but defections by the two senators elected for the PRD on 28 August closed the shortfall to one; the supermajority was ultimately secured with the defection to Morena of Cynthia López Castro|Cynthia López, elected for the PRI in Mexico City, on 12 November.",
+              "references": [
+                "https://forbes.com.mx/ine-aprueba-proyecto-que-da-a-morena-y-aliados-mayoria-calificada-en-diputados-no-asi-en-en-el-senado/",
+                "https://brujulapolitica.com/contenido/4668/morena-logra-supermayoria-en-el-senado-con-la-adhesion-de-cynthia-lopez-castro"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "id": "2.1",
+          "title": "Political background",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.1.s1",
+                  "text": "As president, López Obrador expanded the Mexican welfare state with programs aimed at the elderly and low-income students, raised the minimum wage significantly, and invested heavily in infrastructure projects such as the Tren Maya and the Felipe Ángeles International Airport. While his administration achieved a poverty reduction, it faced accusations of democratic backsliding and undermining institutional independence, including frequent attacks on journalists and judges during his morning press conferences and questioning the necessity of independent public agencies such as the INE and INAI. His term was also marked as one of the bloodiest in Mexico's history—although the homicide rate declined, the total number of deaths exceeded those recorded under any previous administration.",
+                  "references": [
+                    "https://psmag.com/economics/combatting-corruption-in-mexico-through-austerity/",
+                    "https://www.theguardian.com/world/2020/apr/24/mexico-amlo-severe-cuts-amid-coronavirus",
+                    "https://www.csis.org/analysis/uncertain-future-democratic-backsliding-through-executive-aggrandizement-under-amlo",
+                    "https://www.aljazeera.com/news/2024/9/30/what-is-the-legacy-of-mexican-president-andres-manuel-lopez-obrador",
+                    "https://www.elfinanciero.com.mx/nacional/2024/10/02/termina-el-sexenio-de-amlo-con-199-mil-619-asesinatos-la-cifra-mas-alta-en-la-historia-reciente/"
+                  ]
+                },
+                {
+                  "id": "2.1.s2",
+                  "text": "During the 2021 Mexican legislative election|2021 elections, party alliances shifted significantly. The National Action Party (Mexico)|National Action Party (PAN), the Institutional Revolutionary Party (PRI), and the Party of the Democratic Revolution (PRD) formed Va por México|a big-tent coalition to challenge Morena's growing dominance. While Juntos Hacemos Historia, an alliance of Morena, the PT, and the Ecologist Green Party of Mexico (PVEM), lost its supermajority in the Chamber of Deputies, it achieved significant success in 2021 Mexican local elections|local elections, flipping numerous governorships.",
+                  "references": [
+                    "https://www.infobae.com/america/mexico/2020/12/23/si-por-mexico-formaliza-alianza-pri-pan-prd-nos-une-la-amenaza-que-hoy-vivimos-todos-aseguro-marko-cortes/",
+                    "https://www.ft.com/content/36e737a9-ae48-4ff8-8e6c-88f54344b372",
+                    "https://www.theguardian.com/world/2021/jun/07/mexico-elections-midterms-amlo",
+                    "https://english.elpais.com/international/2023-06-04/the-rise-of-morena-in-one-decade-the-political-party-has-wiped-the-pri-from-mexicos-electoral-map.html"
+                  ]
+                },
+                {
+                  "id": "2.1.s3",
+                  "text": "López Obrador remained highly popular throughout his presidency, consistently maintaining a 60% approval rating, making him one of the most popular leaders globally.",
+                  "references": [
+                    "https://www.theguardian.com/world/2023/nov/16/amlo-polls-latest-mexico-president-popularity"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.2",
+          "title": "Political violence",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.2.s1",
+                  "text": "Political violence in Mexico typically escalates during election season, with candidates often facing threats, abductions, assaults, or assassinations. While this violence is most common at the municipal level, it can also occur at the federal level.",
+                  "references": [
+                    "https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1665-20372020000200008"
+                  ]
+                },
+                {
+                  "id": "2.2.s2",
+                  "text": "During the 2021 elections, 102 politicians were killed, including 36 who were nominees or candidates for public office.",
+                  "references": [
+                    "https://www.infobae.com/mexico/2024/01/28/elecciones-2024-se-tinen-de-rojo-cuantos-politicos-y-precandidatos-han-sido-asesinados-en-mexico/"
+                  ]
+                },
+                {
+                  "id": "2.2.s3",
+                  "text": "By January 2024, before the campaigning period started, multiple aspiring candidates for political office had been killed. The government provided security guards to around 560 candidates and election officials. Around 27,000 Mexican Armed Forces|Armed Forces and National Guard (Mexico)|National Guard personnel were deployed to secure the electoral process. By May 2024, the candidate death toll had risen to 37.",
+                  "references": [
+                    "https://www.aljazeera.com/news/2024/6/1/mayoral-candidate-murdered-in-mexico-two-days-before-vote"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Electoral system",
+      "content": [
+        {
+          "id": "3.1",
+          "title": "Presidential election",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.1.s1",
+                  "text": "The president is elected by plurality voting in a single round; there is no provision for a second run-off round. Article 83 of the Mexican Constitution limits the president to a single six-year term, called a ''Sexenio (Mexico)|sexenio''; no one who has served as president, even on a caretaker basis, may run for or serve in the office again. The new president will be sworn in on 1 October.",
+                  "references": [
+                    "https://cnnespanol.cnn.com/2024/01/20/junio-octubre-nuevas-fechas-clave-elecciones-2024-mexico-orix/"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Legislative elections",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "The 128 members of the Senate of the Republic (Mexico)|Senate are also elected in two ways: 96 are elected in 32 three-seat constituencies based on the country's States of Mexico|states, and the remaining 32 in a single nationwide constituency by proportional representation. In the three-seat constituencies, two seats are allocated to the party or coalition receiving the most votes (''mayoría relativa'') and one seat to the party or coalition receiving the second-highest votes (''primera minoría''). Senators are elected for six-year terms and will serve in the LXVI Legislature of the Mexican Congress|66th and LXVII Legislature of the Mexican Congress|67th Congresses.",
+                  "references": [
+                    "http://archive.ipu.org/parline-e/reports/2212_B.htm"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "Redistricting",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.3.s1",
+                  "text": "In December 2022, the INE redistributed the country's Federal electoral districts of Mexico|300 electoral districts, making this the first election with the new boundaries. Minor adjustments were also made to the Electoral regions of Mexico|five multi-member constituencies, affecting the states of Hidalgo (state)|Hidalgo and Querétaro.{{div col}}",
+                  "references": [
+                    "https://forbes.com.mx/nueva-distritacion-electoral-le-quita-diputados-a-la-cdmx-y-le-agrega-a-nuevo-leon/"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Political parties and coalitions",
+      "content": [
+        {
+          "id": "4.1",
+          "title": "Sigamos Haciendo Historia",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.1.s1",
+                  "text": "Sigamos Haciendo Historia (\"Let's Keep Making History\") was established on 19 November 2023 as the direct successor to Juntos Hacemos Historia, encompassing the National Regeneration Movement (Morena), the Labor Party (Mexico)|Labor Party (PT), and the Ecologist Green Party of Mexico (PVEM).",
+                  "references": [
+                    "https://www.dw.com/es/claudia-sheinbaum-se-registra-en-m%C3%A9xico-como-precandidata/a-67484170"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Fuerza y Corazón por México",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "On 26 June 2023, the leaders of the constituent parties of Va por México, a big tent opposition coalition, announced the formation of Frente Amplio por México (\"Broad Front for Mexico\"). Comprising the National Action Party (Mexico)|National Action Party (PAN), the Institutional Revolutionary Party (PRI), and the Party of the Democratic Revolution (PRD), the grouping was created to select a presidential nominee.",
+                  "references": [
+                    "https://www.unotv.com/nacional/va-por-mexico-presenta-el-frente-amplio-por-mexico-para-elegir-al-candidato-de-2024/"
+                  ]
+                },
+                {
+                  "id": "4.2.s2",
+                  "text": "On 29 August 2023, Dante Delgado Rannauro|Dante Delgado, the party leader of Citizens' Movement (Mexico)|Citizens' Movement, ruled out joining Frente Amplio por México.",
+                  "references": [
+                    "https://www.infobae.com/mexico/2023/08/29/movimiento-ciudadano-rechaza-alianza-con-el-prian-no-vamos-a-unirnos-con-los-que-causaron-la-tragedia-en-mexico/",
+                    "https://movimientociudadano.mx/replica-de-medios/mc-contamos-con-el-tiempo-necesario-para-ganar-eleccion-presidencial-y-en-cdmx"
+                  ]
+                },
+                {
+                  "id": "4.2.s3",
+                  "text": "On 20 November 2023, the grouping registered as a coalition under the name Fuerza y Corazón por México (\"Strength and Heart for Mexico\"), composed of the same parties.",
+                  "references": [
+                    "https://politica.expansion.mx/elecciones/2023/11/21/pan-pri-y-prd-amarran-coalicion-fuerza-y-corazon-por-mexico-para-2024"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Presidential candidates",
+      "content": [
+        {
+          "id": "5.1",
+          "title": "Sigamos Haciendo Historia",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.1.s1",
+                  "text": "On 11 June 2023, Juntos Hacemos Historia, the predecessor coalition to Sigamos Haciendo Historia, announced an internal selection process to select a presumptive presidential nominee. To prevent the misuse of power, the alliance required prospective candidates to resign from their government positions before standing for nomination. The selection process was based on five opinion polls, with four conducted by polling firms suggested by the candidates and one conducted by the coalition. The polls were conducted from 28 August to 4 September.",
+                  "references": [
+                    "https://24-horas.mx/mexico/en-morena-ya-inicio-el-proceso-de-eleccion-del-candidato-presidencial-amlo/",
+                    "https://www.elfinanciero.com.mx/nacional/2023/06/08/corcholatas-de-morena-es-ilegal-no-renunciar-a-un-cargo-publico-y-hacer-campana/",
+                    "https://elpais.com/mexico/2023-06-11/morena-anunciara-su-candidato-a-la-presidencia-el-6-de-septiembre.html"
+                  ]
+                },
+                {
+                  "id": "5.1.s2",
+                  "text": "Marcelo Ebrard, Secretary of Foreign Affairs (Mexico)|secretary of foreign affairs, was the first to register as a candidate, followed by Claudia Sheinbaum, List of mayors of Mexico City|Head of Government of Mexico City. Other candidates included Adán Augusto López Hernández|Adán Augusto López, Gerardo Fernández Noroña, Ricardo Monreal, and Manuel Velasco Coello|Manuel Velasco. On 6 September 2023, Sheinbaum was declared the winner and was later confirmed as the presumptive nominee.",
+                  "references": [
+                    "https://www.elfinanciero.com.mx/estados/2023/06/10/adan-augusto-se-despide-en-chiapas-anuncia-renuncia-para-ser-candidato-a-la-presidencia/",
+                    "https://elpais.com/mexico/2023-09-07/claudia-sheinbaum-gana-la-encuesta-de-morena-y-sera-la-candidata-a-la-presidencia-de-mexico.html"
+                  ]
+                },
+                {
+                  "id": "5.1.s3",
+                  "text": "On 19 November 2023, the day Sigamos Haciendo Historia was officially registered as a coalition, it designated Sheinbaum as its presidential nominee.\n{| class=\"wikitable\" style=\"font-size:100%\"\n! colspan=\"2\" style=\"width: 170px\" |Candidate\n! style=\"width: 40px\" |%\n|-\n! style=\"background-color: {{party color|Morena (political party)}}\" |\n|'''Claudia Sheinbaum'''\n| align=\"right\" |'''39.38'''\n|-\n! style=\"background-color: {{party color|Morena (political party)}}\" |\n|Marcelo Ebrard\n| align=\"right\" |25.80\n|-\n! style=\"background-color: {{party color|Labor Party (Mexico)}}\" |\n|Gerardo Fernández Noroña\n| align=\"right\" |12.2\n|-\n! style=\"background-color: {{party color|Morena (political party)}}\" |\n|Adán Augusto López\n| align=\"right\" |10.0\n|-\n! style=\"background-color: {{party color|Ecologist Green Party of Mexico\n}}\" |\n|Manuel Velasco Coello\n| align=\"right\" |7.16\n|-\n! style=\"background-color: {{party color|Morena (political party)}}\" |",
+                  "references": [
+                    "https://www.eleconomista.com.mx/politica/Claudia-Sheinbaum-gana-la-encuesta-de-Morena-20230906-0095.html"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Fuerza y Corazón por México",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.2.s1",
+                  "text": "Frente Amplio por México required prospective candidates to gather 150,000 signatures, including at least 1,000 signatures from 17 of the country's 32 states. The selection process then included a series of polls to narrow the field, with the first one, conducted from 11 to 14 August, aimed to identify the top three candidates. A second poll was scheduled for 27–30 August, contributing 50% of the points needed for nomination, with the remaining 50% determined through an online survey on 3 September.",
+                  "references": [
+                    "https://www.eleconomista.com.mx/politica/Frente-Amplio-por-Mexico-arrancara-el-4-de-julio-la-busqueda-de-su-aspirante-presidencial-20230626-0051.html"
+                  ]
+                },
+                {
+                  "id": "5.2.s2",
+                  "text": "Thirty-three individuals registered for the race, but only thirteen were approved by the grouping. Of those, four candidates successfully gathered the required signatures: Xóchitl Gálvez Ruiz|Xóchitl Gálvez, Beatriz Paredes Rangel|Beatriz Paredes, Santiago Creel, and Enrique de la Madrid Cordero|Enrique de la Madrid. During the first poll, Enrique de la Madrid was eliminated. On 21 August, just before the second poll, Santiago Creel withdrew and endorsed Xóchitl Gálvez. In the second poll, Gálvez defeated Paredes by 15 points. On 31 August, the PRI officially endorsed Gálvez, effectively withdrawing its support for Paredes. Later that day, the third poll was canceled, and Gálvez was confirmed as the presumptive presidential nominee.",
+                  "references": [
+                    "https://www.yucatan.com.mx/mexico/2023/08/09/frente-amplio-por-mexico-que-aspirantes-pasaron-la-siguiente-etapa-424349.html",
+                    "https://www.infobae.com/mexico/2023/08/16/de-la-madrid-quedo-fuera-del-proceso-del-frente-amplio-por-mexico-tras-primer-sondeo/",
+                    "https://elpais.com/mexico/2023-08-31/el-pri-retira-a-beatriz-paredes-y-lanza-a-xochitl-galvez-a-la-carrera-presidencial-por-el-frente-amplio-por-mexico.html",
+                    "https://www.rfi.fr/en/international-news/20230831-mexico-opposition-picks-businesswoman-galvez-as-presidential-candidate"
+                  ]
+                },
+                {
+                  "id": "5.2.s3",
+                  "text": "On 20 November 2023, the day Frente Amplio por México registered as a coalition under the name Fuerza y Corazón por México, it designated Gálvez as the coalition's presidential nominee. She formally registered her candidacy at the INE on 20 February 2024.\n{| class=\"wikitable\" style=\"font-size:100%\"\n! colspan=\"2\" rowspan=\"2\" style=\"width: 170px\" |Candidate\n!First poll\n!Second poll\n|-\n!%\n!%\n|-\n! style=\"background-color: {{party color|National Action Party (Mexico)}}\" |\n| style=\"width: 170px\" |'''Xóchitl Gálvez'''\n| align=\"right\" |'''38.3'''\n| align=\"right\" |'''57.58'''\n|-\n! style=\"background-color: {{party color|Institutional Revolutionary Party}}\" |\n| style=\"width: 170px\" |Beatriz Paredes Rangel|Beatriz Paredes\n| align=\"right\" | 26.0\n| align=\"right\" |42.42\n|-\n! style=\"background-color: {{party color|National Action Party (Mexico)}}\" |\n|Santiago Creel\n| align=\"right\" |20.1\n| style=\"background:lightgrey; text-align:center\" | ''Withdrawn''\n|-\n! style=\"background-color: {{party color|Institutional Revolutionary Party}}\" |\n|Enrique de la Madrid Cordero|Enrique de la Madrid\n| align=\"right\" |15.6\n| style=\"background:lightgrey; text-align:center\" | ''Eliminated''\n|}\n'''Nominee'''",
+                  "references": [
+                    "https://www.jornada.com.mx/noticia/2023/11/20/politica/registran-pan-pri-y-prd-ante-ine-coalicion-fuerza-y-corazon-por-mexico-2170",
+                    "https://www.infobae.com/mexico/2023/08/16/de-la-madrid-quedo-fuera-del-proceso-del-frente-amplio-por-mexico-tras-primer-sondeo/",
+                    "https://www.tvazteca.com/aztecanoticias/frente-amplio-por-mexico-da-a-conocer-segundo-sondeo-opinion-xochitl-galvez-con-preferencia"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.3",
+          "title": "Citizens' Movement",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.3.s1",
+                  "text": "Citizens' Movement's presidential candidate registration period was open from 3 to 12 November. The first person to register was Senator Indira Kempis Martínez, who had previously declared her intention to run for president. Seven others, including Samuel García (politician)|Samuel García, governor of Nuevo León, registered in the race. On 12 November, Marcelo Ebrard, who had failed to be selected as the candidate for Sigamos Haciendo Historia, announced he was not seeking the party's nomination despite being courted by the party.",
+                  "references": [
+                    "https://www.elfinanciero.com.mx/nacional/2023/11/12/samuel-garcia-se-registra-como-precandidato-de-movimiento-ciudadano-a-la-presidencia-en-2024/",
+                    "https://www.eluniversal.com.mx/elecciones/marcelo-ebrard-dice-no-a-mc-rechaza-inscripcion-a-su-proceso-rumbo-a-2024/"
+                  ]
+                },
+                {
+                  "id": "5.3.s2",
+                  "text": "On 17 November, the party disqualified seven out of eight candidates, leaving only Samuel García. However, on 2 December, García suspended his campaign due to a Samuel García (politician)#2023 Nuevo León political crisis|political crisis in his state over appointing an interim governor to replace him. On 9 January 2024, federal deputy Jorge Máynez was nominated as a substitute for Samuel García, with García announcing on social media that Máynez would be the party's next presidential candidate. Máynez was officially designated as the party's presidential nominee the next day. Máynez formally registered his candidacy at the INE on 22 February 2024.",
+                  "references": [
+                    "https://mexiconewsdaily.com/politics/samuel-garcia-is-back-as-nuevo-leon-governor-ending-2024-campaign/",
+                    "https://www.eluniversal.com.mx/elecciones/se-registra-jorge-alvarez-maynez-ante-el-ine-como-candidato-presidencial-por-mc/"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.4",
+          "title": "Independents",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.4.s1",
+                  "text": "To formalize their candidacies, independent presidential hopefuls must collect the signatures of voters endorsing them in an amount equal to 1% of the country's entire electoral roll – a total of 961,405 – distributed equally across at least 17 of the nation's states within 120 days.",
+                  "references": [
+                    "https://www.animalpolitico.com/politica/eduardo-verastegui-candidato-presidencial-firmas"
+                  ]
+                },
+                {
+                  "id": "5.4.s2",
+                  "text": "A total of 27 individuals informed the INE of their wish to run for the presidency as independent candidates before the deadline. By 7 September, six of them had been permitted to begin collecting signatures; the remaining 21 were given 48 hours to correct shortcomings in the documentation they had presented. The six green-lighted prospective independent candidates were Rocío Gabriela González Castañeda, Ulises Ernesto Ruiz Ortiz, César Enrique Asiain del Castillo, Hugo Eric Flores Cervantes, María Ofelia Edgar Mares, and Eduardo Verástegui|José Eduardo Verástegui Córdoba.",
+                  "references": [
+                    "https://www.jornada.com.mx/2023/09/28/politica/012n3pol"
+                  ]
+                },
+                {
+                  "id": "5.4.s3",
+                  "text": "After the 120-day deadline, the INE announced that no prospective independent candidates had successfully collected the required signatures.",
+                  "references": [
+                    "https://www.infobae.com/mexico/2024/01/07/no-habra-candidatos-independientes-a-la-presidencia-asi-le-fue-a-eduardo-verastegui-y-al-resto-de-los-aspirantes/"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Campaigns",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "The INE established that the campaigning period for president, senators, and federal deputies would officially begin on 1 March and conclude on 29 May, three days before the elections. Election silence was observed from 30 May until the polls closed on 2 June.",
+              "references": [
+                "https://cnnespanol.cnn.com/2024/05/30/que-es-y-como-funciona-la-veda-electoral-en-mexico-orix/"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Issues",
+          "content": [
+            {
+              "id": "6.2.1",
+              "title": "Security",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "6.2.1.s1",
+                      "text": "Polling indicated that crime and violence ranked high on voters' concerns in the election. During the outgoing presidency of Andrés Manuel López Obrador, Mexico experienced one of its bloodiest periods. From 2018 to 2022, the number of List of countries by intentional homicide rate|intentional homicides surpassed 30,000, with the peak in 2020 at 36,773 homicides. However, since 2020, homicide rates have decreased. In 2023, homicides fell below 30,000 for the first time since 2018, totaling 29,675. Despite this decrease, the numbers remain higher than recorded between 1990 and 2017.",
+                      "references": [
+                        "https://datosmacro.expansion.com/demografia/homicidios/mexico",
+                        "https://www.gob.mx/sspc/galerias/informe-de-seguridad-358359?idiom=es",
+                        "https://forbes.com.mx/los-homicidios-dolosos-caen-un-4-18-en-2023-en-mexico-primera-vez-por-debajo-de-los-30000/"
+                      ]
+                    },
+                    {
+                      "id": "6.2.1.s2",
+                      "text": "López Obrador tackled this issue by endorsing the \"Abrazos, no balazos|hugs, not bullets\" slogan and establishing the civilian-led National Guard (Mexico)|National Guard. Some have raised suspicions that López Obrador's administration is underreporting intentional homicides, with some cases possibly being reclassified as having undetermined intentions to bring the figure down.",
+                      "references": [
+                        "https://houstonherald.com/2024/01/mexico-marks-another-record-breaking-year-for-murders/"
+                      ]
+                    },
+                    {
+                      "id": "6.2.1.s3",
+                      "text": "Xóchitl Gálvez highlighted that security would be a top priority in her government. She opposed López Obrador's \"hugs, not bullets\" approach. She proposed several measures to strengthen state police forces nationwide, including raising their salaries to MXN 20,000 per month, building a university for aspiring police officers, and providing state governments with increased economic resources and advanced technology to combat crime. Gálvez also suggested doubling the numbers of prosecutors and judges and the size of the National Guard, redirecting the Secretariat of National Defense's (SEDENA) focus from public works back to national security, vowing to work closely with the United States to confront the Mexican drug war|drug cartels and to construct a new maximum security prison.",
+                      "references": [
+                        "https://www.excelsior.com.mx/nacional/xochitl-galvez-construira-la-universidad-nacional-para-la-seguridad/1639417",
+                        "https://www.elfinanciero.com.mx/elecciones-mexico-2024/2024/03/04/xochitl-galvez-que-dijo-hoy-4-de-marzo-campana-presidencial-ultimas-noticias/",
+                        "https://www.excelsior.com.mx/nacional/sheinbaum-xochitl-galvez-alvarez-maynez-esto-proponen-seguridad-elecciones-2024/1638757"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6.2.2",
+              "title": "Social programs",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "6.2.2.s1",
+                      "text": "President López Obrador implemented various social programs, the largest being the Pension for the Well-being of Older People (''Pensión para el Bienestar de las Personas Adultas Mayores''), targeting individuals aged 65 and above. These programs are very popular among voters.",
+                      "references": [
+                        "https://dds.cepal.org/bpsnc/programme?id=173",
+                        "https://politica.expansion.mx/mexico/2023/09/12/gasto-en-programas-sociales-crecio-30-con-amlo",
+                        "https://www.as-coa.org/articles/approval-tracker-mexicos-president-amlo"
+                      ]
+                    },
+                    {
+                      "id": "6.2.2.s2",
+                      "text": "Both Xóchitl Gálvez and Claudia Sheinbaum expressed their support for the social programs established by the outgoing administration and pledged not to abolish them. Gálvez proposed reducing the age eligibility for the Pension for the Well-being of Older People from 65 to 60. Sheinbaum pledged to ensure that any increases to the pensions from all social programs will always be above the inflation rate.",
+                      "references": [
+                        "https://www.elfinanciero.com.mx/elecciones-mexico-2024/2024/03/01/xochitl-galvez-primer-dia-de-campana-guanajuato-firma-con-sangre/"
+                      ]
+                    },
+                    {
+                      "id": "6.2.2.s3",
+                      "text": "Sheinbaum has proposed two new social programs: one aimed at students from preschool to secondary education and the other targeting women aged 60 to 64, where they would receive half the amount provided by the Pension for the Well-being of Older People.",
+                      "references": [
+                        "https://interdiario.com.mx/2024/04/01/propone-claudia-sheinbaum-becas-para-ninos-de-nivel-basico/"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6.2.3",
+              "title": "Energy",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "6.2.3.s1",
+                      "text": "Claudia Sheinbaum is committed to following López Obrador's approach, believing that the country's energy policy should have a low rate of energy imports. She has claimed to be committed to diversifying Mexico's energy matrix, particularly with renewable energies.",
+                      "references": [
+                        "https://www.wilsoncenter.org/article/mexican-energy-sector-after-amlo"
+                      ]
+                    },
+                    {
+                      "id": "6.2.3.s2",
+                      "text": "Xóchitl Gálvez advocated for a more free-market model approach to Mexico's energy sector, proposing significant reforms to Pemex by opening it up to private investment and reinstating oil auctions and joint ventures, using Petrobras as an example. She stated that she would use the oil drilled by private companies for the petrochemical industry and would produce electricity with renewable energies. Additionally, Gálvez emphasized the role of natural gas as a transitional fuel and intended to increase investments in hydrogen and solar power.",
+                      "references": [
+                        "https://www.elfinanciero.com.mx/nacional/2023/09/07/xochitl-galvez-va-por-reforma-radical-en-pemex-invita-a-inversion-privada/",
+                        "https://www.bloomberglinea.com/english/mexican-opposition-candidate-calls-for-private-investment-in-pemex/",
+                        "https://forbes.com.mx/galvez-apuesta-por-el-gas-natural-y-pequenas-plantas-nucleares-en-mexico/"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6.2.4",
+              "title": "Electoral reform",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "6.2.4.s1",
+                      "text": "President López Obrador unsuccessfully attempted to pass electoral reforms multiple times during his term. His latest proposal, unveiled on 5 February 2024 as one of twenty proposed constitutional reforms, aims to restructure the INE by reducing the number of counselors and requiring that electoral judges be elected by popular vote. Additionally, it would eliminate all seats allocated by proportional representation, reducing the Chamber of Deputies (Mexico)|Chamber of Deputies from 500 to 300 seats and the Senate of the Republic (Mexico)|Senate from 128 to 64 seats.",
+                      "references": [
+                        "https://elpais.com/mexico/2024-02-06/las-20-reformas-constitucionales-que-propone-lopez-obrador.html"
+                      ]
+                    },
+                    {
+                      "id": "6.2.4.s2",
+                      "text": "''Fuerza y Corazón por México'' members have been critical of López Obrador's efforts to reform the electoral system and have successfully blocked previous legislative attempts, deeming them undemocratic. On 18 February 2024, the coalition organized nationwide protests, dubbed the \"march for democracy\", in multiple cities, with the largest one occurring at the Zócalo in Mexico City. Government figures estimate turnout at 90,000; however, organizers claim about 700,000 attendees were at the protests. Gálvez lauded the protests, asserting that Mexico's institutions would remain free from interference by authoritative figures.",
+                      "references": [
+                        "https://www.aljazeera.com/gallery/2024/2/19/mexicans-rally-to-protect-democracy-ahead-of-elections"
+                      ]
+                    },
+                    {
+                      "id": "6.2.4.s3",
+                      "text": "Sheinbaum suggested passing López Obrador's electoral reform if the outgoing administration failed to do so, supporting reducing the INE's costs, eliminating seats allocated by proportional representation, and advocating for counselors and electoral judges to be elected via popular vote. Additionally, she proposed a constitutional amendment to prevent reelection for any popularly elected position. Furthermore, she announced her willingness to subject herself to a recall election, mirroring 2022 Mexican presidential recall referendum|López Obrador in 2022.",
+                      "references": [
+                        "https://www.jornada.com.mx/noticia/2024/05/19/politica/sheinbaum-ofrece-eliminacion-de-pluris-galvez-afirma-que-es-una-trampa-7254",
+                        "https://www.elfinanciero.com.mx/elecciones-mexico-2024/2024/05/06/ministros-y-consejeros-del-ine-por-voto-popular-eso-es-democracia-sostiene-claudia-sheinbaum/",
+                        "https://www.eluniversal.com.mx/elecciones/100-propuestas-y-discurso-integro-de-claudia-sheinbaum/"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.3",
+          "title": "Debates",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.3.s1",
+                  "text": "Before the campaigning period, the INE set the date and venue for the three presidential debates. According to electoral law, presidential candidates are required to take part in a minimum of two debates. Moderators were selected 30 days before the debate date. All debates were held in Mexico City and were broadcast on the INE's official YouTube channel, INETV.\n{| class=\"wikitable\" style=\"white-space: nowrap; text-align: center;\"\n|+Debates for the 2024 Mexican presidential election\n!Date\n!Time\n!Venue\n!Moderator(s)\n!Participants\n!Viewership<br />(millions)\n|-\n|7 April 2024\n|8:00&nbsp;p.m. Central Time Zone|CST\n|Instituto Nacional Electoral\n|Denise Maerker<br />Manuel López San Martín\n| rowspan=\"3\" | Claudia Sheinbaum<br />Xóchitl Gálvez<br />Jorge Máynez\n|13.7\n|-\n|28 April 2024\n|8:00&nbsp;p.m. Central Time Zone|CST\n|Estudios Churubusco\n|Adriana Pérez Cañedo<br />Alejandro Cacho\n|16.18\n|-\n|19 May 2024\n|8:00&nbsp;p.m. Central Time Zone|CST\n|{{ill|Centro Cultural Universitario Tlatelolco|es}} (National Autonomous University of Mexico|UNAM)\n|Luisa Cantú Ríos<br />Elena Solís<br />{{Ill|Javier Solórzano Zinser|es|Javier Solórzano}}\n|13.9\n|}",
+                  "references": [
+                    "https://cnnespanol.cnn.com/2024/02/23/debates-electorales-elecciones-presidenciales-mexico-orix/",
+                    "https://politica.expansion.mx/elecciones/2024/01/16/fechas-debates-presidenciales-ine-2024"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6.3.2",
+              "title": "First debate",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "6.3.2.s1",
+                      "text": "The first debate was held on 7 April 2024 at the INE's headquarters. The theme of the debate was \"the society we want\", with questions focused on health and education, corruption and governmental transparency, discrimination against vulnerable groups, and violence against women. The debate was the first in 18 years without Andrés Manuel López Obrador|López Obrador, who participated in the presidential debates during the 2006 Mexican general election|2006, 2012 Mexican general election|2012, and 2018 Mexican general election|2018 elections.",
+                      "references": [
+                        "https://politica.expansion.mx/elecciones/2024/04/07/debate-presidencial-2024-primero-sin-amlo-desde-2006"
+                      ]
+                    },
+                    {
+                      "id": "6.3.2.s2",
+                      "text": "The debate was characterized as light on proposals, with frequent personal attacks being prevalent. Gálvez was described as attempting to attack Sheinbaum whenever she had the opportunity to do so to provoke her opponent, interlacing attacks with incidents where Sheinbaum was involved, such as the collapse of the Colegio Rébsamen during the 2017 Puebla earthquake|2017 Mexico City earthquake, the Mexico City Metro overpass collapse, and the COVID-19 pandemic in Mexico|COVID-19 pandemic in Mexico City. Gálvez called Sheinbaum the cold and heartless \"ice lady\" and stated, \"You're no Andrés Manuel López Obrador|AMLO. You don't even have his charisma\". Máynez accused Sheinbaum and Gálvez of belonging to the \"old politics\", highlighting that Gálvez was endorsed by the \"worst Institutional Revolutionary Party|PRI in history\".",
+                      "references": [
+                        "https://elpais.com/mexico/elecciones-mexicanas/2024-04-08/los-ataques-entre-sheinbaum-y-galvez-dominan-el-primer-debate-presidencial-y-quitan-foco-a-las-propuestas.html",
+                        "https://www.elfinanciero.com.mx/elecciones-mexico-2024/2024/04/07/debate-presidencial-2024-frases-candidatos-mentirosa-fria-sin-corazon/"
+                      ]
+                    },
+                    {
+                      "id": "6.3.2.s3",
+                      "text": "Many stated there was no clear winner and the debate would not influence polling. However, some highlighted Sheinbaum's calm and disciplined demeanor throughout the debate, even amid provocations from Gálvez. López Obrador stated that \"the whole narrative of the debate was not to recognize anything\" done under his administration. At the same time, sources from his government said that the president was dissatisfied with Sheinbaum for not adequately defending his policies.",
+                      "references": [
+                        "https://cnnespanol.cnn.com/2024/04/08/debate-presidencial-en-mexico-quien-gano-quien-perdio-orix/",
+                        "https://elpais.com/mexico/elecciones-mexicanas/2024-04-08/quien-ha-ganado-el-debate-siete-expertos-dan-su-veredicto.html",
+                        "https://politica.expansion.mx/elecciones/2024/04/07/quien-gano-el-debate-presidencial"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6.3.3",
+              "title": "Second debate",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "6.3.3.s1",
+                      "text": "The second debate was held on 28 April 2024 at Estudios Churubusco. The theme was \"the route to the development of Mexico\", addressing economic growth, employment, inflation, infrastructure, poverty, climate change, and sustainable development. To ensure state inclusivity, the INE gathered questions from citizens of all 32 federal entities. The debate was the most watched in Mexican history, with 16.18 million viewers.",
+                      "references": [
+                        "https://oem.com.mx/elsoldemexico/elecciones-2024/segundo-debate-presidencial-es-el-mas-visto-en-la-historia-ine-13058073"
+                      ]
+                    },
+                    {
+                      "id": "6.3.3.s2",
+                      "text": "Like the first debate, Gálvez was again described as the aggressor, holding placards several times while Sheinbaum spoke, prompting moderator Pérez Cañedo to reprimand her. Gálvez questioned Sheinbaum about investigating potential corruption within López Obrador's administration, including allegations involving one of the president's sons and the illicit enrichment of Rocío Nahle García, to which Sheinbaum challenged her to file a complaint. Throughout the debate, Sheinbaum avoided addressing Gálvez by name, referring to her instead as the \"candidate of the PRIAN\" and the \"corrupt one\"; in retaliation, Gálvez called her the \"candidate of lies\" and the \"narco-candidate\". Máynez was mostly ignored by the other candidates, which allowed him to flesh out proposals with periodic attacks on Gálvez. Some praise was also drawn to López Obrador's social programs, with Sheinbaum and Gálvez agreeing to maintain them.",
+                      "references": [
+                        "https://www.sdpnoticias.com/mexico/a-xochitl-galvez-la-reganaron-en-el-segundo-debate-presidencial-por-esta-razon/",
+                        "https://elpais.com/mexico/elecciones-mexicanas/2024-04-29/galvez-y-sheinbaum-protagonizan-un-debate-plagado-de-ataques.html"
+                      ]
+                    },
+                    {
+                      "id": "6.3.3.s3",
+                      "text": "Many stated that the debate would not influence polling as there was no clear consensus on a winner. It was described that on social media, opinions on the winner were closely linked to views about the candidates before the debate. In Google Trends, Máynez led in average interest during the debate, although there were moments when Sheinbaum had higher peaks than Máynez.",
+                      "references": [
+                        "https://www.infobae.com/mexico/2024/04/29/quien-genero-mas-interacciones-en-google-tras-segundo-debate-presidencial-galvez-sheinbaum-o-maynez/"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6.3.4",
+              "title": "Third debate",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "6.3.4.s1",
+                      "text": "The third and final debate was held on 19 May 2024 at National Autonomous University of Mexico|UNAM's ''Centro Cultural Universitario Tlatelolco''. The theme was \"democracy and government: constructive dialogues\". Questions focused on social policy, insecurity and organized crime, migration and foreign policy, democracy, pluralism, and division of powers. On 18 April 2024, the INE selected journalists Luisa Cantú Ríos, Elena Arcila, and Javier Solórzano Zinser as moderators of the debate, each respectively representing Mexico's northern, southern, and central regions. The debate's format would have initially allowed candidates to engage with each other directly.",
+                      "references": [
+                        "https://www.excelsior.com.mx/nacional/partidos-cambian-formato-del-tercer-debate-presidencial/1651185"
+                      ]
+                    },
+                    {
+                      "id": "6.3.4.s2",
+                      "text": "Many commentators criticized the debate's format and the removal of the face-to-face portion, arguing that it hindered meaningful dialogue. Opinions on the winner varied, with some finding it unclear and others declaring Sheinbaum the victor, claiming that Sheinbaum won because Gálvez had lost, as she spent too much time attacking Sheinbaum instead of presenting her proposals. Most polls indicated that Sheinbaum was perceived as the winner.",
+                      "references": [
+                        "https://cnnespanol.cnn.com/2024/05/20/analisis-quien-gano-tercer-debate-presidencial-mexico-elecciones-orix/",
+                        "https://elpais.com/mexico/elecciones-mexicanas/2024-05-20/quien-ha-ganado-el-tercer-debate-presidencial-siete-expertos-dan-su-veredicto.html",
+                        "https://www.infobae.com/mexico/2024/05/20/quien-gano-el-tercer-y-ultimo-debate-presidencial-2024-esto-revelaron-las-encuestas/",
+                        "https://mexico.as.com/actualidad/quien-gano-el-tercer-debate-presidencial-en-mexico-2024-asi-fueron-los-resultados-de-las-encuestas-n/"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Incidents",
+      "content": [
+        {
+          "id": "7.1",
+          "title": "Gaffes",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.1.s1",
+                  "text": "In April 2024, Xóchitl Gálvez stated that people who did not own a house by the age of 60 were poor money managers before later clarifying that the words were meant solely at Claudia Sheinbaum, who lives in a rented apartment and had attacked Gálvez for the circumstances in which she acquired her home. Jorge Máynez also sparked outrage and apologized after posting a video in which he appeared to be drinking while criticizing electoral officials.",
+                  "references": [
+                    "https://elpais.com/mexico/elecciones-mexicanas/2024-04-12/galvez-critica-a-sheinbaum-por-vivir-en-un-departamento-alquilado-si-a-los-60-anos-no-has-podido-hacer-un-patrimonio-eres-bien-guey.html"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Conduct",
+      "content": [
+        {
+          "id": "8.1",
+          "title": "Polling stations",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.1.s1",
+                  "text": "There were 170,182 polling stations approved to be installed nationwide. On 2 June at 20:00 CST, it was announced that 23 were not installed.",
+                  "references": [
+                    "https://oem.com.mx/elsoldemexico/elecciones-2024/cifra-de-casillas-no-instaladas-supera-el-de-las-cuatro-elecciones-previas-13055760"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Result reporting",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.2.s1",
+                  "text": "On election day, the INE uses two processes to report results, both strictly for informational purposes and not official. The Preliminary Electoral Results Program (PREP) progressively counts votes from tally sheets at polling stations, digitizing and recording them online after being delivered to INE district offices. The quick count is a statistical process that randomly selects a sample of votes to estimate voter turnout and candidate results, providing a preliminary indication of the election outcome.",
+                  "references": [
+                    "https://elpais.com/mexico/elecciones-mexicanas/2024-06-02/prep-conteo-rapido-o-computos-distritales-que-son-cuando-se-publican-y-cuales-son-las-diferencias.html",
+                    "https://www.elfinanciero.com.mx/elecciones-mexico-2024/2024/06/02/elecciones-en-mexico-que-es-el-prep-2024-y-a-que-hora-arranca-este-domingo-2-de-junio/"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Results",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "9.s1",
+              "text": "About 60 million votes were cast in each election, with most of them being cast on election day. The election saw a lower turnout than the 2012 Mexican general election|2012 and 2018 Mexican general election|2018 presidential elections, at 61.05%. Claudia Sheinbaum received 35.9 million votes, surpassing Andrés Manuel López Obrador|López Obrador's 2018 record of 30.1 million and making her the candidate with the most votes in Mexican history. She also achieved the highest vote percentage of any candidate since 1982 Mexican general election|1982.",
+              "references": [
+                "https://politica.expansion.mx/elecciones/2024/06/03/cuanta-gente-voto-por-amlo-2028"
+              ]
+            },
+            {
+              "id": "9.s2",
+              "text": "Sheinbaum carried 31 out of 32 states, with Aguascalientes being the only state where a plurality voted for Xóchitl Gálvez. Sheinbaum managed to flip Guanajuato – the home state of former president Vicente Fox – and a state considered a bastion for the National Action Party (Mexico)|National Action Party since 2000; it was the only state not voting for López Obrador in 2018.",
+              "references": [
+                "https://www.bbc.com/mundo/articles/cg33ylzwgdgo"
+              ]
+            },
+            {
+              "id": "9.s3",
+              "text": "Besides Aguascalientes, Gálvez placed second in all states except Campeche, where Jorge Máynez defeated her by five and a half points. She also obtained 5.4 million fewer votes than the combined total of both Ricardo Anaya and José Antonio Meade, the PAN and PRI nominees for president in 2018, respectively; Gálvez obtained 16.5 million in total, while Anaya and Meade obtained 21.9 million votes combined.",
+              "references": [
+                "https://www.infobae.com/mexico/2024/06/06/cual-es-el-estado-donde-jorge-alvarez-maynez-le-gano-a-xochitl-galvez-con-mas-de-18-mil-votos/",
+                "https://www.infobae.com/mexico/2024/06/04/xochitl-galvez-obtuvo-menos-votos-que-anaya-y-meade-juntos-en-2018-segun-el-prep/"
+              ]
+            },
+            {
+              "id": "9.s4",
+              "text": "Máynez's performance in the election marked the best result for Citizens' Movement (Mexico)|Citizens' Movement in its history. The party received 5.2 million more votes compared to 2018 when it received about 1 million – about a 500% increase. Citizens' Movement secured the third-highest votes among all parties in the election, behind Morena and the PAN.",
+              "references": [
+                "https://www.infobae.com/mexico/2024/06/11/movimiento-ciudadano-presume-triunfo-sobre-el-pri-y-el-pan-en-elecciones-crecimos-jugando-limpio/",
+                "https://elpais.com/mexico/2024-06-06/del-triunfalismo-de-movimiento-ciudadano-a-la-perdida-de-territorio-el-doble-efecto-maynez.html"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Aftermath",
+      "content": [
+        {
+          "id": "10.1",
+          "title": "Election night",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "10.1.s1",
+                  "text": "Shortly after the INE's announcement, Xóchitl Gálvez and Jorge Máynez called Sheinbaum to congratulate her on her victory. During their respective press conferences, both Gálvez and Máynez publicly conceded, with Máynez highlighting that the results represented the best performance for Citizens' Movement (Mexico)|Citizens' Movement. However, Gálvez later described the electoral campaign as an \"unequal competition against the entire state apparatus dedicated to favoring its candidate\", adding that she would challenge the result.",
+                  "references": [
+                    "https://elpais.com/mexico/elecciones-mexicanas/2024-06-06/resultados-de-las-elecciones-en-mexico-2024-en-vivo.html",
+                    "https://www.elfinanciero.com.mx/elecciones-mexico-2024/2024/06/02/elecciones-presidenciales-2024-xochitl-galvez-pide-esperar-conteo-tras-cierre-de-casillas/",
+                    "https://www.bbc.com/news/articles/c166n3p6r49o"
+                  ]
+                },
+                {
+                  "id": "10.1.s2",
+                  "text": "Reacting to the result on X (social network)|X, Sheinbaum said that she would not let the electorate down. She later addressed her supporters at the Zócalo in Mexico City, who had gathered at the plaza to celebrate her victory. President Andrés Manuel López Obrador described Sheinbaum's victory as historic and reiterated his pledge not to interfere in her incoming administration.",
+                  "references": [
+                    "https://www.aljazeera.com/news/2024/6/3/claudia-sheinbaum-wins-in-historic-mexico-election-mandate",
+                    "https://www.france24.com/en/americas/20240603-sheinbaum-set-to-win-mexico-election-becoming-first-female-president"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.2",
+          "title": "District tally and certification",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "10.2.s1",
+                  "text": "showing Sheinbaum's margin of victory in one of his ''mañaneras'', 25 July 2024.]]\nThe district tally started on 5 June at 8:00 CST. The INE announced it would recount ballots from 60% of the polling stations, a decrease from the 75% recounted during the 2018 election. Xóchitl Gálvez requested that 80% of the votes be recounted, asserting there were irregularities at some polling stations.",
+                  "references": [
+                    "https://animalpolitico.com/elecciones-2024/electoral/ine-recuento-votos-casillas",
+                    "https://forbes.com.mx/xochitl-galvez-pide-la-revision-voto-a-voto-en-el-80-de-las-casillas/"
+                  ]
+                },
+                {
+                  "id": "10.2.s2",
+                  "text": "On 6 June, the district tally concluded for the presidential election, increasing Sheinbaum's margin of victory by 0.85%. On 9 June, the INE released constituency seats and final vote count results for each district. Projections using the final vote count to calculate party-list deputies and senators confirmed a supermajority in the Chamber of Deputies but not in the Senate, falling three seats short of the two-thirds majority needed to change the Constitution of Mexico|Constitution.",
+                  "references": [
+                    "https://www.elfinanciero.com.mx/elecciones-mexico-2024/2024/06/06/claudia-sheinbaum-gana-eleccion-presidencial-con-35-millones-de-votos-a-su-favor-segun-computos-distritales-del-ine/",
+                    "https://www.jornada.com.mx/2024/06/11/politica/005n1pol"
+                  ]
+                },
+                {
+                  "id": "10.2.s3",
+                  "text": "On 15 August, after all challenges to the presidential election were resolved, Sheinbaum's victory was officially certified, and she received the certificate designating her as president-elect.",
+                  "references": [
+                    "https://aristeguinoticias.com/1907/mexico/por-que-a-mes-y-medio-del-2-de-julio-no-se-ha-certificado-el-triunfo-de-sheinbaum/",
+                    "https://www.infobae.com/mexico/2024/08/15/claudia-sheinbaum-recibe-constancia-como-presidenta-electa-en-evento-historico/"
+                  ]
+                },
+                {
+                  "id": "10.2.s4",
+                  "text": "On 21 August, the INE's Commission on Prerogatives and Political Parties unanimously approved a draft assigning party-list deputies and senators.",
+                  "references": [
+                    "https://animalpolitico.com/elecciones-2024/congreso/mayoria-morena-pt-verde-congreso-ine"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.3",
+          "title": "Party registrations",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "10.3.s1",
+                  "text": "On 10 June, for the first time in the party's three-decade-long history, the INE notified the Party of the Democratic Revolution (PRD) that it had failed to meet 3% of the popular vote to keep its registration as a national political party. On 19 June, an auditor was chosen to oversee the party's liquidation, and on 19 September, the INE declared that the PRD had lost its registration.",
+                  "references": [
+                    "https://animalpolitico.com/politica/interventor-ine-liquidacion-prd-perdida-registro"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.4",
+          "title": "Lawsuits",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "10.4.s1",
+                  "text": "After the election, the National Action Party (Mexico)|National Action Party (PAN), the Institutional Revolutionary Party (PRI), the Party of the Democratic Revolution (PRD), and Citizens' Movement (Mexico)|Citizens' Movement (MC) collectively filed 240 challenges against the presidential election results. The PRD spearheaded most of these challenges, which sought to annul millions of ballots to meet the 3% threshold required to maintain its registration as a national political party. However, by 8 August, the Federal Electoral Tribunal|Electoral Tribunal of the Federal Judiciary had rejected all of the challenges.",
+                  "references": [
+                    "https://www.eleconomista.com.mx/politica/TEPJF-confirma-los-resultados-que-le-dan-el-triunfo-a-Sheibaum-desechan-todas-las-impugnaciones-de-la-oposicion-20240808-0072.html"
+                  ]
+                },
+                {
+                  "id": "10.4.s2",
+                  "text": "For the legislative elections, all political parties challenged the results for deputies and senators, citing allegations of exceeding campaign spending limits, vote buying, voter intimidation, and various irregularities in vote counting. Most of these challenges, when presented to the Electoral Tribunal of the Federal Judiciary, were rejected, and any rulings from lower courts did not alter the overall election results. resulting in his alternate assuming the position instead.",
+                  "references": [
+                    "https://www.eleconomista.com.mx/politica/Descartan-impugnaciones-por-eleccion-al-Congreso-20240813-0164.html",
+                    "https://www.infobae.com/mexico/2024/06/29/deudor-alimentario-del-pvem-ve-anulada-su-constancia-de-mayoria-en-edomex/"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.5",
+          "title": "Reactions",
+          "content": [
+            {
+              "id": "10.5.1",
+              "title": "Financial markets",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "10.5.1.s1",
+                      "text": "Amid concerns that a supermajority in both chambers of Congress would lead to anti-market reforms, the Mexican peso|peso dropped nearly 4% against the U.S. dollar following initial reporting; by the end of the week, it was down 10% from its pre-election level. From less than 17 to the U.S. dollar on 2 June, the peso fell over the nine days following the election to trade at 18.50 on 11 June, still considerably stronger than the all-time low of over 25 seen at the start of the COVID-19 pandemic in March 2020.\nOn 3 June, the two largest Exchange-traded fund|ETFs focused on Mexico (iShares MSCI Mexico ETF EWW and Franklin Templeton Investments|Franklin FTSE Mexico ETF FLMX) dropped more than 10%, the biggest daily decline COVID-19 pandemic in Mexico|in four years. The Mexican Stock Exchange ended the 3 June trading day down 6.1%, while the MSCI Mexico Index dropped 8.8%.",
+                      "references": [
+                        "https://exchangerates.org/usd/mxn/in-2020"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "10.5.2",
+              "title": "International",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "10.5.2.s1",
+                      "text": "* {{Flag|Argentina}}: The Ministry of Foreign Affairs, International Trade and Worship|Ministry of Foreign Affairs congratulated Sheinbaum, stating it \"renews its willingness to continue developing the bilateral work agenda\".\n* {{Flag|Belgium}}: Prime Minister Alexander De Croo congratulated Sheinbaum, describing her victory as an \"important milestone.\"\n* {{Flag|Belize}}: Prime Minister John Briceño congratulated Sheinbaum on her victory.\n* {{Flag|Bolivia}}: President Luis Arce congratulated Sheinbaum, describing her victory as \"resounding.\"\n* {{Flag|Brazil}}: President Luiz Inácio Lula da Silva congratulated Sheinbaum, calling it \"a victory for democracy, and also for my great colleague Andrés Manuel López Obrador|AMLO, who made an extraordinary government\".\n* {{Flag|Canada}}: Prime Minister Justin Trudeau welcomed Sheinbaum's election in a tweet, citing an intent to maintain and strengthen Canada-Mexico relations.\n* {{Flag|Chile}}: President Gabriel Boric congratulated Sheinbaum on her victory, stating that \"her leadership and her program of social progress inspire the region and continue to unite us as sister countries.\"\n* {{Flag|China}}: President Xi Jinping congratulated Sheinbaum on her victory, saying he is willing to strengthen strategic communication with the president-elect to lead bilateral relations to a new level and bring more benefits to the two peoples.\n* {{Flag|Colombia}}: President Gustavo Petro and Vice President Francia Márquez congratulated Sheinbaum, with Petro stating that her election was \"a victory for the Mexican people and their democracy.\"\n* {{Flag|Costa Rica}}: President Rodrigo Chaves congratulated Sheinbaum on her victory and sent her best wishes for her future management.\n* {{Flag|Cuba}}: President Miguel Díaz-Canel congratulated Sheinbaum and offered his support \"to continue strengthening the close brotherhood that unites our peoples.\"\n* {{Flag|El Salvador}}: President Nayib Bukele congratulated Sheinbaum and pledged to \"continue working for the inclusive development of our region\" through a call.\n* {{Flag|European Union}}: President of the European Commission Ursula von der Leyen congratulated Sheinbaum on her victory, calling her election \"historic\" as the first woman to preside over Mexico in its democratic history.\n* {{Flag|France}}: President Emmanuel Macron congratulated Sheinbaum and agreed to \"work closely on major global challenges,\" especially climate change and biodiversity loss, and \"continue acting in favor of women's rights\".\n* {{Flag|Germany}}: Chancellor Olaf Scholz congratulated Sheinbaum and expressed his desire to deepen cooperation between Germany and Mexico.\n* {{Flag|India}}: Prime Minister of India|Prime Minister Narendra Modi congratulated Sheinbaum, expressing his desire to work with the President-elect to strengthen their cooperation.\n* {{Flag|Japan}}: Prime Minister Fumio Kishida congratulated Sheinbaum and expressed his desire to work with Mexico as a Strategic Global Partner to develop traditional and strong bilateral relations.\n* {{Flag|Nicaragua}}: President Daniel Ortega and Vice President Rosario Murillo congratulated Sheinbaum on her \"historic victory.\"\n* {{Flag|Panama}}: President Laurentino Cortizo congratulated Sheinbaum.\n* {{Flag|Paraguay}}: President Santiago Peña congratulated Sheinbaum and said he hopes they continue working for the well-being of their people.\n* {{Flag|Russia}}: President Vladimir Putin congratulated Sheinbaum on her victory and highlighted friendly ties between Russia and Mexico, which he described as \"traditional\".\n* {{Flag|Saudi Arabia}}: Prime Minister Mohammed bin Salman congratulated Sheinbaum on her victory.\n* {{Flag|Spain}}: Prime Minister Pedro Sánchez congratulated Sheinbaum on her victory as Mexico's first female president.\n* {{Flag|Ukraine}}: President Volodymyr Zelenskyy congratulated Sheinbaum on her victory, saying he wished her \"much success during her term\".\n* {{Flag|United Arab Emirates}}: President Mohamed bin Zayed Al Nahyan congratulated Sheinbaum by phone for winning the election.\n* {{Flag|United Nations}}: Secretary-General of the United Nations|Secretary-General António Guterres congratulated Sheinbaum and highlighted the gender perspective.\n* {{Flag|Uruguay}}: President Luis Lacalle Pou congratulated Sheinbaum and wished for closer ties between both countries.\n* {{Flag|Venezuela}}: President Nicolás Maduro congratulated Sheinbaum, calling it a \"victory for Patria Grande|the great homeland\".",
+                      "references": [
+                        "https://www.infobae.com/politica/2024/06/03/el-gobierno-argentino-felicito-a-claudia-sheinbaum-la-presidenta-electa-de-mexico/",
+                        "https://www.infobae.com/america/agencias/2024/06/03/belgica-califica-de-hito-importante-la-victoria-de-sheinbaum-en-las-elecciones-de-mexico/",
+                        "https://www.nacion321.com/elecciones/comienzan-los-festejos-presidentes-felicitan-a-claudia-sheinbaum/",
+                        "https://quepasamedia.com/noticias/luis-arce-felicita-a-claudia-sheinbaum-por-su-contundente-victoria-en-las-elecciones/",
+                        "https://pulsoslp.com.mx/mundo/relaciones-comerciales-entre-mexico-y-brasil-fortalecidas-por-lula/1802766",
+                        "https://english.news.cn/20240604/a052fd516f8a4bac9d01bad55a2c8064/c.html",
+                        "https://english.elpais.com/international/2024-06-03/latin-american-left-celebrates-sheinbaums-victory-in-mexicos-presidential-election.html",
+                        "https://www.informador.mx/mexico/Ecuador-felicita-a-Mexico-tres-dias-despues-de-las-elecciones-presidenciales-20240605-0119.html",
+                        "https://lanoticiasv.com/nayib-bukele-felicito-a-la-presidenta-electa-de-mexico-claudia-sheinbaum/",
+                        "https://aristeguinoticias.com/0306/mexico/la-ue-felicita-a-sheinbaum-por-su-historica-eleccion-espera-fortalecer-las-relaciones-con-mexico/",
+                        "https://www.informador.mx/internacional/Sheinbaum-Macron-se-suma-a-las-felicitaciones-20240603-0144.html",
+                        "https://www.swissinfo.ch/spa/daniel-ortega-felicita-a-claudia-sheinbaum-y-expresa-su-disposici%C3%B3n-a-%22trabajar-juntos%22/79553531",
+                        "https://www.prensa-latina.cu/2024/06/03/panama-felicita-a-presidenta-electa-de-mexico/",
+                        "https://caretas.pe/politica/dina-boluarte-felicita-a-claudia-sheinbaum-por-ganar-las-elecciones-en-mexico/",
+                        "https://www.informador.mx/internacional/Elecciones-Mexico-2024-Putin-felicita-a-Sheinbaum-buscara-cooperacion-constructiva-entre-Rusia-y-Mexico-20240603-0074.html",
+                        "https://www.abc.es/espana/pedro-sanchez-felicita-claudia-sheinbaum-primera-presidenta-20240603094716-nt.html",
+                        "https://periodicolavoz.com.mx/mundo/presidente-de-ucrania-felicita-a-claudia-sheinbaum/304716",
+                        "https://www.elcorreo.ae/articulo/emiratos-arabes/lideres-emiratos-arabes-felicitan-sheinbaum-victoria-elecciones-mexico/20240605095144162256.html",
+                        "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/06/03/statement-from-president-joe-biden-congratulating-claudia-sheinbaum-as-president-elect-of-mexico/",
+                        "https://www.elimparcial.com/mundo/2024/06/03/maduro-felicita-a-claudia-sheinbaum-por-su-triunfo-en-las-elecciones-presidenciales-de-mexico/"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

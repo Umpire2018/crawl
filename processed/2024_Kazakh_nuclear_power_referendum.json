@@ -1,0 +1,1224 @@
+{
+  "title": "2024_Kazakh_nuclear_power_referendum",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "A referendum on the construction of the first nuclear power plant in Kazakhstan took place on 6 October 2024. The initiative was aimed at reducing fossil fuel reliance, curbing greenhouse gas emissions and bolstering national electricity generation in light of frequent power outages in recent years. At the time of the referendum, Kazakhstan has not had any Nuclear power in Kazakhstan|nuclear power generation capacity since 1999. President Kassym-Jomart Tokayev first proposed the idea of holding a referendum in 2019, and in September 2023, he officially announced that the referendum would take place to address the nation's need to develop nuclear power, leveraging Kazakhstan's status as the world's largest uranium producer. In June 2024, President Tokayev announced that the referendum would be held in autumn, with the specific date determined by the Government.",
+              "references": [
+                {
+                  "text": "<ref name=\"azattyq902\">{{Cite web |date=2024-09-02 |title= Референдум по АЭС в Казахстане состоится 6 октября 2024 года — Токаев |trans-title= Tokayev: The referendum on the nuclear power plant will be held on 6 October |url=https://rus.azattyq.org/amp/33102329.html |access-date=2024-09-02 |website=Radio Free Europe |language=ru}}</ref>",
+                  "url": "https://rus.azattyq.org/amp/33102329.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Satubaldina |first=Assel |date=2023-09-01 |title=Kazakhstan to Hold Referendum on Nuclear Power Plant Construction |url=https://astanatimes.com/2023/09/kazakhstan-to-hold-referendum-on-nuclear-power-plant-construction/ |access-date=2023-10-17 |website=The Astana Times |language=en}}</ref>",
+                  "url": "https://astanatimes.com/2023/09/kazakhstan-to-hold-referendum-on-nuclear-power-plant-construction/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Konurbaeva |first=Aigerim |date=2022-01-27 |title=Blackout in Central Asia. Countries Need to Expand Power Capacity |url=https://cabar.asia/en/blackout-in-central-asia-countries-need-to-expand-power-capacity |access-date=2023-10-17 |website=CABAR.asia |language=en-GB}}</ref>",
+                  "url": "https://cabar.asia/en/blackout-in-central-asia-countries-need-to-expand-power-capacity",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-09-05 |title=Kazakhstan dispatch: President Tokayev announces nuclear power plant proposal will be decided in a national referendum |url=https://www.jurist.org/news/2023/09/kazakhstan-dispatch-president-tokayev-announces-nuclear-power-plant-proposal-will-be-decided-in-a-national-referendum/ |access-date=2023-10-17 |website=JURIST |language=en-US}}</ref>",
+                  "url": "https://www.jurist.org/news/2023/09/kazakhstan-dispatch-president-tokayev-announces-nuclear-power-plant-proposal-will-be-decided-in-a-national-referendum/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"kozhanova\">{{Cite web |last=Kozhanova |first=Nazira |date=2021-10-01 |title=Nuclear Energy in Kazakhstan? The Problem of Accountability |url=https://thediplomat.com/2021/10/nuclear-energy-in-kazakhstan-the-problem-of-accountability/ |access-date=2023-10-17 |website=thediplomat.com |language=en-US}}</ref>",
+                  "url": "https://thediplomat.com/2021/10/nuclear-energy-in-kazakhstan-the-problem-of-accountability/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-09-01 |title=Kazakhstan to hold referendum on nuclear plant construction |url=https://asia.nikkei.com/Politics/Kazakhstan-to-hold-referendum-on-nuclear-plant-construction |access-date=2023-10-17 |website=Nikkei Asia |language=en-GB}}</ref>",
+                  "url": "https://asia.nikkei.com/Politics/Kazakhstan-to-hold-referendum-on-nuclear-plant-construction",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-09-01 |title=Kazakhstan to hold referendum on first nuclear plant |url=https://www.euractiv.com/section/central-asia/news/kazakhstan-to-hold-referendum-on-first-nuclear-plant/ |access-date=2023-10-17 |website=www.euractiv.com |language=en-GB}}</ref>",
+                  "url": "https://www.euractiv.com/section/central-asia/news/kazakhstan-to-hold-referendum-on-first-nuclear-plant/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"azattyq627\">{{Cite news |date=2024-06-27 |title=Тоқаев: АЭС бойынша референдум биыл күзде өтеді |trans-title= Tokayev: The referendum on the nuclear power plant will be held this autumn |url=https://www.azattyq.org/a/33011760.html |access-date=2024-06-27 |website=Radio Free Europe |language=kk |last1=Радиосы |first1=Азаттық }}</ref>",
+                  "url": "https://www.azattyq.org/a/33011760.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "Since gaining independence, Kazakhstan has repeatedly considered constructing a nuclear power plant. The need for such a facility was first publicly expressed in 1997 by then-Minister of Science Vladimir Shkolnik. The idea of building a new plant gained momentum in the late 1990s, after the decommissioning of the Soviet-era BN-350 reactor at the {{Interlanguage link|Mangystau Atomic Energy Combine|lt=Mangyshlak Atomic Energy Combine|kk|Маңғыстау атом энергетикалық комбинаты|ru|Мангистауский атомно-энергетический комбинат}} (MAEK) in the city of Aktau|Aqtau, which had provided electricity, desalinated water from the Caspian Sea, and Weapons-grade nuclear material|weapons-grade plutonium for Russia and weapons of mass destruction|Soviet nuclear weapons. The MAEK was shut down in 1999 due to concerns over aging infrastructure and nuclear proliferation risks, especially after Kazakhstan ratified the Treaty on the Non-Proliferation of Nuclear Weapons|Nuclear Non-Proliferation Treaty in 1994. The decommissioning was supported by international partners, particularly the International Atomic Energy Agency and the United States Department of Energy.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite magazine |date=Fall 2011 |editor-last=Pearce |editor-first=Jim |title=The Sum of All Fears: ORNL plays a role in securing nuclear materials in Kazakhstan |url=https://www.ornl.gov/sites/default/files/ORNL%20Review%20v44n1%202011.pdf |access-date=2024-08-26 |department=Oak Ridge National Laboratory |magazine=ORNL Review |pages=10–12 |volume=44 |issue=1 |issn=0048-1262}}</ref>",
+                  "url": "https://www.ornl.gov/sites/default/files/ORNL%20Review%20v44n1%202011.pdf",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "magazine"
+                },
+                {
+                  "text": "<ref>{{Cite conference |last1=Newton |first1=David E. |last2=Connery |first2=Joyce |last3=Wells |first3=Peter |year=2002 |title=U.S. Experience in the Decommissioning of the BN-350 Fast Breeder Reactor in Kazakhstan |url=https://nsarchive2.gwu.edu/NunnLugar/2015/54.%202002-00-00%20BN-350%20Reactor.pdf |conference=International Conference on Safe Decommissioning for Nuclear Activities: Assuring the Safe Termination of Practices Involving Radioactive Materials |location=Germantown, Maryland |publisher=US Department of Energy |publication-place=Berlin |pages=278–280 |id=XA 0202915 |access-date=2024-08-26 |via=International Atomic Energy Agency |conference-url=https://inis.iaea.org/collection/NCLCollectionStore/_Public/33/052/33052257.pdf}}</ref>",
+                  "url": "https://nsarchive2.gwu.edu/NunnLugar/2015/54.%202002-00-00%20BN-350%20Reactor.pdf",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "conference"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "Over the years, Kazakhstan has repeatedly revisited the idea of building a new nuclear power plant, with several proposed locations, including the city of Kurchatov, Kazakhstan|Kurchatov, the village of Ülken on the shores of Lake Balkhash, or the site of the former MAEK plant in Aqtau. Government efforts, including international cooperation with Russia, France, Japan, and South Korea to conduct feasibility studies, have been made to support each proposal for nuclear plant projects. However, these nuclear energy proposals have faced significant opposition, emerging amidst controversy fueled by Kazakhstan's history of environmental and public health issues due to Kazakhstan and weapons of mass destruction|Soviet nuclear weapon testing at Semipalatinsk Test Site|Semipalatinsk-21, as well as broader fears stemming from the Chernobyl disaster and the Fukushima nuclear accident. Additionally, concerns over Russian involvement have been heightened due to risks related to environmental safety and geopolitical interests. Development projects have repeatedly faced delays or cancellations due to indecision among key figures and attempts to negotiate lower prices. However, in 2015, the project was indefinitely postponed due to an electricity surplus and economic uncertainty. By 2016, it was revealed that the nuclear power plant construction would be delayed until 2023, as no electricity shortage was expected during the seven-year period.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |date= |title=Kazakhstan: Russia Offers To Build Nuclear Plant |url=https://www.rferl.org/a/1087437.html |access-date=2024-08-26 |work=Radio Free Europe/Radio Liberty |language=en |publication-date=1997-11-20}}</ref>",
+                  "url": "https://www.rferl.org/a/1087437.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Saidazimova |first=Gulnoza |date=2006-02-24 |title=Government Pushing Nuclear Power Despite Public Fears |url=https://www.rferl.org/a/1066137.html |access-date=2024-08-26 |work=Radio Free Europe/Radio Liberty |language=en}}</ref>",
+                  "url": "https://www.rferl.org/a/1066137.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":0\">{{Cite web |last=Алхабаев |first=Шокан |date=2021-09-08 |title=\"Вновь заговорили об АЭС\". Как возрождается атомная энергетика Казахстана |trans-title= \"Started talking about a nuclear power plant once again\": How Kazakh nuclear energy comes back to life |url=https://tengrinews.kz/kazakhstan_news/vnov-zagovorili-aes-vozrojdaetsya-atomnaya-energetika-447830/ |access-date=2024-08-26 |website=Tengrinews.kz |language=ru}}</ref>",
+                  "url": "https://tengrinews.kz/kazakhstan_news/vnov-zagovorili-aes-vozrojdaetsya-atomnaya-energetika-447830/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Козыбаева |first=Зарина |date=2011-04-28 |editor-last=Бушуев |editor-first=Михаил |title=Стоит ли Казахстану строить первую в Центральной Азии АЭС? |trans-title= Is it worth it for Kazakhstan to be first in nuclear power plant construction? |url=https://www.dw.com/ru/%D1%81%D1%82%D0%BE%D0%B8%D1%82-%D0%BB%D0%B8-%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%83-%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D0%BF%D0%B5%D1%80%D0%B2%D1%83%D1%8E-%D0%B2-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%B0%D0%B7%D0%B8%D0%B8-%D0%B0%D1%8D%D1%81/a-15035524 |access-date=2024-08-28 |website=Deutsche Welle |language=ru}}</ref>",
+                  "url": "https://www.dw.com/ru/%D1%81%D1%82%D0%BE%D0%B8%D1%82-%D0%BB%D0%B8-%D0%BA%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D1%83-%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D1%8C-%D0%BF%D0%B5%D1%80%D0%B2%D1%83%D1%8E-%D0%B2-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%B0%D0%B7%D0%B8%D0%B8-%D0%B0%D1%8D%D1%81/a-15035524",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":22\">{{Cite web |last=Altynbayev |first=Kanat |date=2021-02-26 |title=Moscow tries to foist nuclear power plant on Kazakhstan, again |url=https://central.asia-news.com/en_GB/articles/cnmi_ca/features/2021/02/26/feature-01 |access-date=2024-08-27 |website=Caravanserai}}</ref>",
+                  "url": "https://central.asia-news.com/en_GB/articles/cnmi_ca/features/2021/02/26/feature-01",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":22\"/><ref>{{Cite web |date=2014-08-19 |title=Kazakhstan's nuclear power plans - the mysteries only deepen |url=https://theecologist.org/2014/aug/19/kazakhstans-nuclear-power-plans-mysteries-only-deepen |access-date=2024-08-27 |website=theecologist.org |language=en}}</ref>",
+                  "url": "https://theecologist.org/2014/aug/19/kazakhstans-nuclear-power-plans-mysteries-only-deepen",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":0\" /> Since 2014, Kazakhstan has signed separate memorandum agreements with Russia and Japan regarding the construction of a nuclear power plant, with construction initially scheduled to begin in 2018.<ref>{{Cite web |last= |date=2014-06-04 |title=Қазақстанда АЭС құрылысы 2018 жылы басталады |trans-title= Nuclear power plant construction in Kazakhstan to start in 2018 |url=https://kaz.tengrinews.kz/kazakhstan_news/kazakstanda-aes-kuryilyisyi-2018-jyilyi-bastaladyi-254484/ |access-date=2024-08-31 |website=Tengrinews.kz |language=kk}}</ref>",
+                  "url": "https://kaz.tengrinews.kz/kazakhstan_news/kazakstanda-aes-kuryilyisyi-2018-jyilyi-bastaladyi-254484/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |last= |first= |date=2015-10-27 |title=Жапония Қазақстанға АЭС салуға көмектеспек |trans-title= Japan to help Kazakhstan to build a nuclear power plant |url=https://www.azattyq.org/a/27328905.html |access-date=2024-08-31 |work=Азаттық радиосы |language=kk}}</ref>",
+                  "url": "https://www.azattyq.org/a/27328905.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last= |first= |date=2015-12-11 |title=Министр Школьник: Қазақстан АЭС-ке әзір мұқтаж емес |trans-title= Minister Shkolnik: Kazakhstan not really in need of a nuclear power plant for now |url=https://www.azattyq.org/a/27420805.html |access-date=2024-08-31 |work=Азаттық радиосы |language=kk}}</ref>",
+                  "url": "https://www.azattyq.org/a/27420805.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2016-11-02 |title=Бозымбаев: Алдағы 7 жылда Қазақстанда АЭС салынбайды |trans-title= Bozumbayev: A nuclear power plant will not be built in Kazakhstan the next 7 years |url=https://kaz.inform.kz/news/bozymbaev-aldagy-7-zhylda-kazakstanda-aes-salynbaydy_a2965373/ |access-date=2024-08-31 |website=Kazinform |language=kk}}</ref>",
+                  "url": "https://kaz.inform.kz/news/bozymbaev-aldagy-7-zhylda-kazakstanda-aes-salynbaydy_a2965373/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2016-11-02 |title=ҚР ЭМ: алдағы 7 жылда АЭС салу мәселесі өзекті болмайды |trans-title= Kazakh Energy Ministry: the nuclear power plant construction not to be relevant in the next 7 years |url=https://inbusiness.kz/kz/last/kr-em-aldagy-7-zhylda-aes-salu-maselesi-ozekti-bolmajdy |access-date=2024-08-31 |website=inbusiness.kz |language=kk}}</ref>",
+                  "url": "https://inbusiness.kz/kz/last/kr-em-aldagy-7-zhylda-aes-salu-maselesi-ozekti-bolmajdy",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "In April 2019, Russian President Vladimir Putin proposed the construction of a nuclear power plant in Kazakhstan using Russian technologies, sparking renewed discussions about nuclear energy development. This proposal faced scrutiny among Kazakh society, becoming a widescale issue during the 2018–2020 Kazakh protests. In response to the controversy, President Kassym-Jomart Tokayev emphasized that decisions regarding the potential construction of a nuclear power plant could not be made without considering public opinion. Shortly after his 2019 Kazakh presidential election|election as president in June 2019, Tokayev acknowledged that discussions about the project were ongoing, underscoring that public consultations with citizens would be held if necessary, and indicating that a referendum could also be conducted regarding the initiative. Kanat Bozumbayev, the Minister of Energy, confirmed that building a nuclear power plant was not in the ministry's immediate plans but might be considered within the next decade.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last= |first= |date=2019-04-04 |title=Путин: Қазақстанда АЭС құрылысын талқылауды ұсынамыз |trans-title= Putin: We propose to discuss nuclear power plant construction in Kazakhstan|url=https://www.azattyq.org/a/29860222.html |access-date=2024-08-29 |work=Азаттық радиосы |language=kk}}</ref>",
+                  "url": "https://www.azattyq.org/a/29860222.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Әбдіғаниұлы |first=Нұргелді |date=2019-04-04 |title=Ресейдің АЭС-і Жамбыл ауданының Үлкен ауылы маңына салынады |trans-title= Russian nuclear power plant to be built in Ülken, Jambyl District |url=https://abai.kz/index.php/post/88402 |access-date=2024-08-29 |website=Abai.kz |language=kk}}</ref>",
+                  "url": "https://abai.kz/index.php/post/88402",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2019-04-06 |title=Атом электр станциясы қауіп пе - Ғалымдар не дейді |trans-title= Is there a danger with the nuclear power plant construction: Here's what scientists say |url=https://tengrinews.kz/kazakhstan_news/atom-elektr-stantsiyasyi-kaup-pe-galyimdar-ne-deyd-366623/ |access-date=2024-08-29 |website=Tengrinews.kz |language=kk}}</ref>",
+                  "url": "https://tengrinews.kz/kazakhstan_news/atom-elektr-stantsiyasyi-kaup-pe-galyimdar-ne-deyd-366623/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=2019-05-01 |title=Жүздеген адам наразылыққа шықты |trans-title= Hundreds are protesting |url=https://www.azattyq.org/a/kazakhstan-almaty-nursultan-protests/29914050/p1.html |access-date=2024-08-28 |work=Азаттық радиосы |language=kk}}</ref>",
+                  "url": "https://www.azattyq.org/a/kazakhstan-almaty-nursultan-protests/29914050/p1.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2019-04-26 |title=Қазақстандағы электр энергиясының тапшылығы мәселесін қазір шешуіміз керек - Тоқаев |trans-title=Tokayev: We need to solve the energy shortage of Kazakhstan |url=https://kaztag.kz/kz/news/aza-standa-y-elektr-energiyasyny-tapshyly-y-m-selesin-azir-sheshuimiz-kerek-to-ae |access-date=2024-08-29 |website=KazTAG |language=kk}}</ref>",
+                  "url": "https://kaztag.kz/kz/news/aza-standa-y-elektr-energiyasyny-tapshyly-y-m-selesin-azir-sheshuimiz-kerek-to-ae",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2019-06-10 |title=Тоқаев АЭС құрылысына қатысты: Тіпті қажет болса референдум өткіземіз |trans-title= Tokayev on the nuclear power plant construction: We may even hold a referendum if needed |url=https://kaz.inform.kz/news/tokaev-aes-kurylysyna-katysty-tipti-kazhet-bolsa-referendum-otkizemiz_a3536537/ |access-date=2024-08-29 |website=Kazinform |language=kk}}</ref>",
+                  "url": "https://kaz.inform.kz/news/tokaev-aes-kurylysyna-katysty-tipti-kazhet-bolsa-referendum-otkizemiz_a3536537/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2019-06-20 |title=Қанат Бозымбаев:\"Жаңа АЭС – бұл тек қауесет\" |trans-title= Qanat Bozymbaev: \"A new nuclear power plant is just a rumor\" |url=https://inbusiness.kz/kz/last/kanat-bozymbaev-zhana-aes-bul-tek-kaueset |access-date=2024-08-31 |website=inbusiness.kz |language=kk}}</ref>",
+                  "url": "https://inbusiness.kz/kz/last/kanat-bozymbaev-zhana-aes-bul-tek-kaueset",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s4",
+              "text": "In May 2021, Tokayev stated it was premature to dismiss nuclear energy in Kazakhstan, emphasizing its reliance in the developed world, and while the government wouldn't rush construction, it shouldn't delay either, highlighting the need for ongoing communication with citizens to address their concerns. In June 2021, Energy Minister Nurlan Nogaev reaffirmed President Tokayev's commitment to gauging public opinion on nuclear energy. He identified Ülken and Kurchatov as potential sites for a future nuclear power plant. By September 2021, at the Eastern Economic Forum, Tokayev emphasized the need to move forward, stating that it was time to \"substantively consider\" the issue. In June 2022, the village of Ülken was officially selected as the site for the plant after extensive evaluations.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Сатиева |first=Камшат |date=2021-06-30 |title=Ноғаев АЭС құрылысы туралы: Шешім әлі қабылданған жоқ... |trans-title=Nogaev on nuclear power plant construction: A decision was not yet made... |url=https://kaz.zakon.kz/redaktsiia-zakonkz/5074269-no-aev-aes-rylysy-turaly-shesh-m-l.html |access-date=2024-08-31 |website=zakon.kz |language=kk}}</ref>",
+                  "url": "https://kaz.zakon.kz/redaktsiia-zakonkz/5074269-no-aev-aes-rylysy-turaly-shesh-m-l.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Дарибаева |first=Айнура |date=2021-06-30 |title=Қазақстанда екі атом электр станциясы салынады |url=https://kaz.orda.kz/aza-standa-eki-atom-jelektr-stancijasy-salynady/ |access-date=2024-09-12 |website=Orda.kz |language=kk}}</ref>",
+                  "url": "https://kaz.orda.kz/aza-standa-eki-atom-jelektr-stancijasy-salynady/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Асылбек |first=Бағдат |date=2021-07-01 |title=Билік халықтың АЭС жөнінде пікірін сұрайды, \"түсіндіру жұмыстарына\" блогерлер тартылуы мүмкін |url=https://www.azattyq.org/a/31335353.html |access-date=2024-09-12 |work=Азаттық радиосы |language=kk}}</ref>",
+                  "url": "https://www.azattyq.org/a/31335353.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Дарибаева |first=Айнура |date=2021-09-03 |title=Тоқаев Қазақстанға АЭС қажет екенін айтты |url=https://kaz.orda.kz/to-aev-aza-stan-a-ajes-azhet-ekenin-ajtty/ |access-date=2024-09-12 |website=Orda.kz |language=kk}}</ref>",
+                  "url": "https://kaz.orda.kz/to-aev-aza-stan-a-ajes-azhet-ekenin-ajtty/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Жамбылұлы |first=Шерхан |date=2021-09-03 |title=Мемлекет басшысы VI Шығыс экономикалық форумына қатысты |url=https://qazaqstan.tv/news/144844/ |access-date=2024-09-12 |website=Qazaqstan (TV channel)|Qazaqstan |language=kk}}</ref>",
+                  "url": "https://qazaqstan.tv/news/144844/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Шарипханова |first=Дина |date=2021-09-03 |title=Қазақстанға атом станциясы қажет - Тоқаев |url=https://kaz.tengrinews.kz/kazakhstan_news/kazakstanga-atom-stantsiyasyi-kajet-tokaev-326695/ |access-date=2024-09-12 |website=Tengrinews.kz |language=kk}}</ref>",
+                  "url": "https://kaz.tengrinews.kz/kazakhstan_news/kazakstanga-atom-stantsiyasyi-kajet-tokaev-326695/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Тоғанбек |first=Аяна |date=2022-06-09 |title=Алматы облысында атом электр стансасы салынады |url=https://egemen.kz/article/314914-almaty-oblysynda-atom-elektr-stansasy-salynady |access-date=2024-09-12 |website=Egemen Qazaqstan |language=kk-KK}}</ref>",
+                  "url": "https://egemen.kz/article/314914-almaty-oblysynda-atom-elektr-stansasy-salynady",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Сатиева |first=Камшат |date=2022-06-10 |title=АЭС салынуы ықтимал Үлкен ауылы туралы не білеміз |url=https://kaz.zakon.kz/tehnologiya/6008396-aes-salynuy-yktimal-ulken-auyly-turaly-ne-bilemiz.html |access-date=2024-09-12 |website=zakon.kz |language=kk}}</ref>",
+                  "url": "https://kaz.zakon.kz/tehnologiya/6008396-aes-salynuy-yktimal-ulken-auyly-turaly-ne-bilemiz.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.2",
+          "title": "Energy crisis",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.2.s1",
+                  "text": "Kazakhstan's ongoing energy crisis, part of a broader regional issue affecting Central Asia, was exacerbated in 2021 by a sudden surge in cryptocurrency mining following an influx of miners from China, leading to significant electricity shortages, power outages, and a reliance on imported power. In response to these challenges, President Tokayev described the situation as revealing \"the first signs of electricity shortages\" and did not rule out the possibility of making \"inherently unpopular decisions\" regarding the construction of a nuclear power plant. There have been suggestions to build two or three nuclear power plants with six 1.2 GWe units across Kazakhstan's Northern, Southern, and Western energy zones to address the growing nationwide energy deficit, balance regional needs, and support desalination. Energy expert Petr Svoik warns that Kazakhstan faces challenges similar to its neighbors, including underfunded infrastructure and the need for new capacity. By the 2030s, Kazakhstan will require an additional 4,000 megawatts of power, which these plants could help provide while boosting infrastructure and the economy.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Bartlett |first=Paul |date=2021-11-24 |title=Crypto influx from China pushes Kazakhstan toward nuclear power |url=https://asia.nikkei.com/Spotlight/Cryptocurrencies/Crypto-influx-from-China-pushes-Kazakhstan-toward-nuclear-power |access-date=2024-09-04 |website=Nikkei Asia |language=en-GB}}</ref>",
+                      "url": "https://asia.nikkei.com/Spotlight/Cryptocurrencies/Crypto-influx-from-China-pushes-Kazakhstan-toward-nuclear-power",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2022-01-26 |title=Power gradually restored after massive blackout in three Central Asia's nations |url=https://asiaplustj.info/en/news/centralasia/20220126/power-gradually-restored-after-massive-blackout-in-three-central-asias-nations#:~:text=Kazakhstan%20has%20reportedly%20experienced%20power,in%20China%20late%20last%20year. |access-date=2024-09-04 |website=asiaplustj.info}}</ref>",
+                      "url": "https://asiaplustj.info/en/news/centralasia/20220126/power-gradually-restored-after-massive-blackout-in-three-central-asias-nations#:~:text=Kazakhstan%20has%20reportedly%20experienced%20power,in%20China%20late%20last%20year.",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Олжаев |first=Айдын |date=2021-11-19 |title=АЭС-ке қатысты нақты шешім қабылдауымыз керек — Тоқаев |url=https://kaz.zakon.kz/akimdikter/5091469-aes-ke-atysty-na-ty-shesh-m-abyldauymyz.html |access-date=2024-09-04 |website=zakon.kz |language=kk}}</ref>",
+                      "url": "https://kaz.zakon.kz/akimdikter/5091469-aes-ke-atysty-na-ty-shesh-m-abyldauymyz.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Шарипханова |first=Дина |date=2021-11-19 |title=Тоқаев: АЭС құрылысы туралы шешім шығаруымызға тура келеді |url=https://kaz.tengrinews.kz/kazakhstan_news/tokaev-aes-kuryilyisyi-turalyi-sheshm-shyigaruyimyizga-tura-329926/ |access-date=2024-09-04 |website=Tengrinews.kz |language=kk}}</ref>",
+                      "url": "https://kaz.tengrinews.kz/kazakhstan_news/tokaev-aes-kuryilyisyi-turalyi-sheshm-shyigaruyimyizga-tura-329926/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last= |first= |date=2021-11-19 |title=Қасым-Жомарт Тоқаев Қазақстанның болашағын АЭС-пен байланыстырды |url=https://www.azattyq.org/a/31569382.html |access-date=2024-09-04 |work=Азаттық радиосы |language=kk}}</ref>",
+                      "url": "https://www.azattyq.org/a/31569382.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Урманов |first=Адил |date=2023-07-24 |title=Казахстану нужны две, а лучше сразу три АЭС - эксперт |url=https://www.caravan.kz/news/kazakhstanu-nuzhny-dve-a-luchshe-srazu-tri-aehs-ehkspert-947271/ |access-date=2024-09-04 |website=Caravan.kz |publisher=Kazakhstan Today |language=ru}}</ref>",
+                      "url": "https://www.caravan.kz/news/kazakhstanu-nuzhny-dve-a-luchshe-srazu-tri-aehs-ehkspert-947271/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2021-11-18 |title=Expert Meeting: Nuclear Power as a Solution to the Energy Crisis in Central Asia? |url=https://cabar.asia/en/expert-meeting-nuclear-power-as-a-solution-to-the-energy-crisis-in-central-asia |access-date=2024-08-27 |website=Central Asian Bureau for Analytical Reporting (CABAR) |publisher=Institute for War and Peace Reporting |language=en-GB}}</ref>",
+                      "url": "https://cabar.asia/en/expert-meeting-nuclear-power-as-a-solution-to-the-energy-crisis-in-central-asia",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.2.s2",
+                  "text": "In 2023, the KEGOC reported that the electricity consumption increased by 1.9% to 115.06 billion kWh, while generation stagnated at 112.82 billion kWh, resulting in a 1,519 MW deficit covered by imports from Russia. This deficit is projected to grow to 6.2 GWe by 2030. With demand expected to reach 152.4 billion kWh by 2035, while aging Thermal power station|thermal plants can only produce 135 billion kWh, the Kazakh government views nuclear energy as a viable long-term solution, supported by the country's significant uranium reserves, scientific expertise, and skilled specialists.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Жұмаділлә |first=Балнұр |date=2024-03-06 |title=Қазақстан бірыңғай уақыт белдеуіне көшкеннен кейін электр энергиясын тұтыну қаншалық артты? |trans-title= How much did energy consumption increase since the Kazakh timezone change? |url=https://massaget.kz/news/kazakstan-bryingay-uakyit-beldeune-koshkennen-keyn-elektr-102649/ |access-date=2024-08-27 |website=Massaget.kz |language=kk}}</ref>",
+                      "url": "https://massaget.kz/news/kazakstan-bryingay-uakyit-beldeune-koshkennen-keyn-elektr-102649/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":1\">{{Cite press release |title=KEGOC ҚР Энергетика министрлігінің алқалы отырысында 2023 жылғы жұмысы туралы есеп берді |trans-title=KEGOC reported on its 2023 progress during a Kazakh Energy Ministry meeting |date=2024-03-05 |publisher=KEGOC |url=https://www.kegoc.kz/press-center/press-releases/163167/ |language=Kazakh |access-date=2024-08-27}}</ref>",
+                      "url": "https://www.kegoc.kz/press-center/press-releases/163167/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "press"
+                    },
+                    {
+                      "text": "<ref name=\":1\" /> Independent expert Jaqyp Hayrushev suggests that a nuclear plant could have met the current shortfall of 1.5 GWe, similar to the consumption of regional centers like Oral, Kazakhstan|Oral.<ref>{{Cite web |last=Скибан |first=Оксана |date=2023-08-03 |title=Строительство АЭС в Казахстане: есть ли угрозы и каковы плюсы |trans-title=The nuclear power plant construction in Kazakhstan: Are there dangers, and what are the advantages? |url=https://www.zakon.kz/stati/6402114-stroitelstvo-aes-v-kazakhstane-est-li-ugrozy-i-kakovy-plyusy.html |access-date=2024-08-27 |website=zakon.kz |language=ru}}</ref>",
+                      "url": "https://www.zakon.kz/stati/6402114-stroitelstvo-aes-v-kazakhstane-est-li-ugrozy-i-kakovy-plyusy.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Нуруллин |first=Эльдар |date=2024-01-08 |title=Без АЭС не обойтись? Готов ли Казахстан к масштабному строительству |trans-title= Do we really have to have a nuclear power plant? Is Kazakhstan ready for such a massive construction? |url=https://tengrinews.kz/article/aes-ne-oboytis-gotov-kazahstan-masshtabnomu-stroitelstvu-2279/ |access-date=2024-08-27 |website=Tengrinews.kz |language=ru}}</ref>",
+                      "url": "https://tengrinews.kz/article/aes-ne-oboytis-gotov-kazahstan-masshtabnomu-stroitelstvu-2279/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Shuriev |first=Telman |date=2024-08-05 |title=Atomic power: How Kazakhstan will overcome the energy crisis |url=https://news.az/news/-atomic-power-how-kazakhstan-will-overcome-the-energy-crisis |access-date=2024-08-27 |website=News.az |language=en}}</ref>",
+                      "url": "https://news.az/news/-atomic-power-how-kazakhstan-will-overcome-the-energy-crisis",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.3",
+          "title": "Carbon neutrality",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.3.s1",
+                  "text": "In 2012, then-President Nursultan Nazarbayev launched the Kazakhstan-2050 Strategy, aiming to position Kazakhstan among the top 30 most developed nations by 2050, with a focus on transitioning to a low-carbon economy. This strategy laid the groundwork for Kazakhstan's commitment to sustainable energy, including the concept adoption for green economy in 2013, which set ambitious targets for the power sector to achieve 50% alternative and renewable energy by 2050, along with plans to integrate 1.5 GWe of nuclear energy by 2030 and 2.0 GWe by 2050. In 2016, Kazakhstan further solidified its commitment to these goals by signing the Paris Agreement, pledging to reduce greenhouse gas emissions and transition toward sustainable energy practices.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite speech |title=Address by the President of the Republic of Kazakhstan, Leader of the Nation, N.Nazarbayev \"Strategy Kazakhstan-2050\": new political course of the established state\" |first=Nursultan |last=Nazarbayev |author-link=Nursultan  Nazarbayev |event=State of the Nation Address |location=Astana |date=14 December 2012 |url=https://www.akorda.kz/en/addresses/addresses_of_president/address-by-the-president-of-the-republic-of-kazakhstan-leader-of-the-nation-nnazarbayev-strategy-kazakhstan-2050-new-political-course-of-the-established-state |access-date= }}</ref>",
+                      "url": "https://www.akorda.kz/en/addresses/addresses_of_president/address-by-the-president-of-the-republic-of-kazakhstan-leader-of-the-nation-nnazarbayev-strategy-kazakhstan-2050-new-political-course-of-the-established-state",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "speech"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=\"Қазақстан Республикасының \"жасыл\" экономикаға көшуі жөніндегі тұжырымдама туралы\" Қазақстан Республикасының Президенті Жарлығының жобасы туралы |url=https://adilet.zan.kz/kaz/docs/P1300000496 |access-date=2024-09-04 |website=adilet.zan.kz |language=kk}}</ref>",
+                      "url": "https://adilet.zan.kz/kaz/docs/P1300000496",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2013-06-01 |title=\"Қазақстан Республикасының \"жасыл экономикаға\" көшуі жөніндегі тұжырымдама туралы\" Мемлекет басшысының Жарлығы бекітілді |url=https://kaz.inform.kz/news/kazakstan-respublikasynyn-zhasyl-ekonomikaga-koshui-zhonindegi-tuzhyrymdama-turaly-memleket-basshysynyn-zharlygy-bekitildi_a2562730/ |access-date=2024-09-04 |website=Kazinform |language=kk}}</ref>",
+                      "url": "https://kaz.inform.kz/news/kazakstan-respublikasynyn-zhasyl-ekonomikaga-koshui-zhonindegi-tuzhyrymdama-turaly-memleket-basshysynyn-zharlygy-bekitildi_a2562730/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-06-06 |title=Carbon neutrality |url=https://qazaqgreen.com/en/journal-qazaqgreen/environmental-policy/1210/ |access-date=2024-08-27 |website=QazaqGreen |publisher=Konrad Adenauer Foundation |language=en}}</ref>",
+                      "url": "https://qazaqgreen.com/en/journal-qazaqgreen/environmental-policy/1210/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.3.s2",
+                  "text": "At the Climate Ambition Summit 2020, President Kassym-Jomart Tokayev outlined Kazakhstan's commitment to achieving carbon neutrality by 2060, emphasizing nuclear power's role as a Low-carbon electricity|low-carbon source. To diversify its energy development and Fossil fuel phase-out|reduce reliance on fossil fuels, Tokayev urged the government and Samruk-Kazyna to explore \"safe and environmentally friendly\" nuclear energy options, positioning them as a viable solution for national energy demands and international climate obligations.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=2021-05-25 |title=Қазақстан 2060 жылға қарай көміртегінен таза ел болуға қол жеткізуге ниетті – Президент |trans-title= President: Kazakhstan determined to be a country free of carbon emissions by 2060 |url=https://inbusiness.kz/kz/news/kazakstan-2060-zhylga-karaj-komirteginen-taza-el-boluga-kol-zhetkizuge-nietti-prezident |access-date=2024-08-27 |website=inbusiness.kz |language=kk}}</ref>",
+                      "url": "https://inbusiness.kz/kz/news/kazakstan-2060-zhylga-karaj-komirteginen-taza-el-boluga-kol-zhetkizuge-nietti-prezident",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Сатиева |first=Камшат |date=2021-05-26 |title=Тоқаевтың атом энергетикасы туралы сөзі: Бұл ретте үрейге бой алдыру орынсыз |trans-title= Tokayev on nuclear energy: It is unnecessary to fear this |url=https://kaz.zakon.kz/redaktsiia-zakonkz/5070190-to-aev-atom-energetikasy-turaly-b-l.html |access-date=2024-08-27 |website=zakon.kz |language=kk}}</ref>",
+                      "url": "https://kaz.zakon.kz/redaktsiia-zakonkz/5070190-to-aev-atom-energetikasy-turaly-b-l.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2021-09-03 |title=Kazakhstan banks on nuclear energy for transition to low-carbon future |url=https://www.europeanscientist.com/en/energy/kazakhstan-banks-on-nuclear-energy-for-transition-to-low-carbon-future/ |url-status=dead |archive-url=https://web.archive.org/web/20210903172917/https://www.europeanscientist.com/en/energy/kazakhstan-banks-on-nuclear-energy-for-transition-to-low-carbon-future/ |archive-date=2021-09-03 |access-date=2024-08-27 |website=European Scientist |language=en}}</ref>",
+                      "url": "https://www.europeanscientist.com/en/energy/kazakhstan-banks-on-nuclear-energy-for-transition-to-low-carbon-future/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.3.s3",
+                  "text": "While nuclear power has the potential to significantly reduce air pollution and environmental degradation compared to fossil fuels, concerns regarding radioactive waste management present critical challenges for safe implementation. By integrating nuclear power into its energy strategy, Kazakhstan aims to lower its carbon footprint, enhance energy security, and contribute to global climate change efforts, aligning its green policies with the broader goals of the Paris Agreement.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Мырзахмет |first=Нұрсұлу |date=2021-09-23 |title=Қазақстанға АЭС керек пе? |trans-title= Does Kazakhstan need a nuclear power plant? |url=https://zhasalash.kz/news/qazaqstanga-aes-kerek-pe-18064/ |access-date=2024-08-27 |website=Jas Alash |language=kk}}</ref>",
+                      "url": "https://zhasalash.kz/news/qazaqstanga-aes-kerek-pe-18064/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Сатубалдина |first=Асель |date=2024-01-24 |title=One year later: unveiling progress of Kazakhstan's carbon neutrality strategy |url=https://en.inform.kz/news/one-year-later-unveiling-progress-of-kazakhstans-carbon-neutrality-strategy-744f31/ |access-date=2024-08-27 |website=Kazinform |language=en}}</ref>",
+                      "url": "https://en.inform.kz/news/one-year-later-unveiling-progress-of-kazakhstans-carbon-neutrality-strategy-744f31/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Қазақбекова |first=Сабина |date=2023-07-01 |title=Қазақстан 2030 жылға қарай жаңартылатын энергия көздерінің үлесін 15% жеткізеді |trans-title= Kazakhstan to have a 15% increase of the output of renewable energy sources by 2030 |url=https://kz.kursiv.media/kk/2023-07-01/qazaqstan-2030-zhylgha-qaraj-zhangartylatyn-energiya-koezderining-uelesin-15-zhetkizedi/ |access-date=2024-08-27 |website=Kursiv Media Kazakhstan |language=kk}}</ref>",
+                      "url": "https://kz.kursiv.media/kk/2023-07-01/qazaqstan-2030-zhylgha-qaraj-zhangartylatyn-energiya-koezderining-uelesin-15-zhetkizedi/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-07-01 |title=Қазақстан 2030 жылға қарай энергия теңгеріміндегі жаңартылатын энергия көздерінің үлесін 15%-ға дейін арттыруды жоспарлап отыр |trans-title= Kazakhstan plans a 15% renewable energy increase in the energy balance by 2030 |url=https://www.kt.kz/kaz/economy/aza_stan_2030_zhyl_a_aray_energiya_te_gerimindegi_1377952254.html |access-date=2024-08-27 |website=www.kt.kz |language=kk}}</ref>",
+                      "url": "https://www.kt.kz/kaz/economy/aza_stan_2030_zhyl_a_aray_energiya_te_gerimindegi_1377952254.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Prelude",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "Speculations about holding a referendum on the construction of a nuclear power plant arose after President Tokayev's 2019 proposal, as the government continued moving forward with the project. Political scientist Dimaş Äljanov expressed skepticism about the fairness of a potential referendum on the nuclear power plant, arguing that without proper mechanisms, the voting results could be falsified in favor of the Kazakh government's interests, especially given the general public's negative sentiment toward the authorities.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2021-09-10 |title=АЭС в Казахстане: за и против / \"Своими словами\" |url=https://inbusiness.kz/ru/last/aes-v-kazahstane-za-i-protiv-svoimi-slovami |access-date=2024-09-12 |website=inbusiness.kz |language=ru}}</ref>",
+                  "url": "https://inbusiness.kz/ru/last/aes-v-kazahstane-za-i-protiv-svoimi-slovami",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2021-10-29 |title=АЭС в Казахстане: о выгодах и рисках |url=https://cso-central.asia/aes-v-kazaxstane-o-vygodax-i-riskax/ |access-date=2024-09-12 |website=cso-central.asia |publisher=Civil Society Development Association ARGO |language=ru-RU}}</ref>",
+                  "url": "https://cso-central.asia/aes-v-kazaxstane-o-vygodax-i-riskax/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "In April 2023, Energy Minister Almasadam Sätqaliev, responding to journalists' inquiries about the possibility of a referendum, cited the need for one to gauge majority support for the project, asserting that if the majority votes against the proposal, the plant will not be built. However, in June 2023, Vice Minister of Energy Jandos Nurmaganbetov ruled out the possibility of a referendum on the construction of the nuclear power plant in Kazakhstan.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Шарипханова |first=Дина |date=2023-04-11 |title=Халық қарсы болса, АЭС салынбайды - жаңа энергетика министрі |url=https://kaz.tengrinews.kz/kazakhstan_news/halyik-karsyi-bolsa-aes-salyinbaydyi-jana-energetika-ministr-349807/ |access-date=2024-09-12 |website=Tengrinews.kz |language=kk}}</ref>",
+                  "url": "https://kaz.tengrinews.kz/kazakhstan_news/halyik-karsyi-bolsa-aes-salyinbaydyi-jana-energetika-ministr-349807/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last= |date=2023-06-15 |title=Қазақстанда АЭС салу бойынша референдум болмайды - энергетика вице-министрі |url=https://kaz.tengrinews.kz/kazakhstan_news/kazakstanda-aes-salu-boyyinsha-referendum-bolmaydyi-351822/ |access-date=2024-09-13 |website=Tengrinews.kz |language=kk}}</ref>",
+                  "url": "https://kaz.tengrinews.kz/kazakhstan_news/kazakstanda-aes-salu-boyyinsha-referendum-bolmaydyi-351822/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-06-15 |title=Елде АЭС салу үшін референдум өткізіле ме? |url=https://baq.kz/elde-aes-salu-ushin-referendum-otkizile-me-307085/ |access-date=2024-09-13 |website=BAQ.kz |publisher=Qazcontent |language=kk}}</ref>",
+                  "url": "https://baq.kz/elde-aes-salu-ushin-referendum-otkizile-me-307085/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s3",
+              "text": "On 1 September 2023, President Tokayev announced during his State of the Nation Address that a nationwide referendum on the construction of a nuclear power plant will take place, with specific voting date to be determined later, highlighting its significance for Kazakhstan's future as the largest uranium producer in the world. The Ministry of Energy (Kazakhstan)|Ministry of Energy stated that it, along with other government agencies, parliamentary deputies, industry experts, and public activists, will work out the details of the referendum and provide the public with comprehensive information. Energy Minister Almasadam Sätqaliev added that the referendum aims to encourage Kazakhstanis to express their views on the need for technological development, while the government will provide solutions that align with societal needs. Vice Minister of Energy Nurmaganbetov stated that the decision will be up to Tokayev. At the XV Kazenergy Eurasian Forum in October 2023, Energy Minister Almasadam Sätqaliev discussed plans for a referendum on the construction of a nuclear power plant, stating that the Ministry of Energy is ready to provide expert support and analytics as required by the constitutional law.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2023-09-01 |title=Атом электр стансасын салу мәселесін жалпыұлттық референдум арқылы шешкен жөн – Президент |url=https://kaz.inform.kz/news/atom-elektr-stansasyn-salu-maselesin-zhalpyulttyk-referendum-arkyly-sheshken-zhon-prezident_a4107039/ |access-date=2024-09-12 |website=Kazinform |language=kk}}</ref>",
+                  "url": "https://kaz.inform.kz/news/atom-elektr-stansasyn-salu-maselesin-zhalpyulttyk-referendum-arkyly-sheshken-zhon-prezident_a4107039/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Ермекқызы |first=Айзат |date=2023-09-01 |title=Энергетика министрлігі АЭС салу бойынша референдум өткізуге дайындық жасайды |url=https://kaz.nur.kz/society/2034971-energetika-ministrligi-aes-salu-boiynsa-referendumga-daiyndyq-zasaidy/ |access-date=2024-09-13 |website=NUR.KZ |language=kk}}</ref>",
+                  "url": "https://kaz.nur.kz/society/2034971-energetika-ministrligi-aes-salu-boiynsa-referendumga-daiyndyq-zasaidy/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Бакелекова |first=Умитжан |date=2023-09-01 |title=Халықтың дауыс беруіне шығарылатын мәселенің тұжырымдамасы анықталуы керек - Энергетика министрлігі |url=https://kz.kursiv.media/kk/2023-09-01/halyqtyng-dauys-beruine-shygharylatyn-maeselening-tuzhyrymdamasy-anyqtaluy-kerek-energetika-ministrligi/ |access-date=2024-09-13 |website=Kursiv Media Казахстан |language=kk}}</ref>",
+                  "url": "https://kz.kursiv.media/kk/2023-09-01/halyqtyng-dauys-beruine-shygharylatyn-maeselening-tuzhyrymdamasy-anyqtaluy-kerek-energetika-ministrligi/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Есмағамбетов |first=Рамазан |date=2023-09-19 |title=\"Президент жарлығын күтудеміз\": министрлік АЭС салу бойынша референдум қашан өтуі мүмкін екенін хабарлады |url=https://kaz.nur.kz/politics/2037210-prezident-zarlygyn-kutudemiz-ministrlik-aes-salu-boiynsa-referendum-qasan-otui-mumkin-ekenin-xabarlady/ |access-date=2024-09-13 |website=NUR.KZ |language=kk}}</ref>",
+                  "url": "https://kaz.nur.kz/politics/2037210-prezident-zarlygyn-kutudemiz-ministrlik-aes-salu-boiynsa-referendum-qasan-otui-mumkin-ekenin-xabarlady/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Бақберген |first=Ботакөз |date=2023-10-04 |title=АЭС бойынша барлық шешімдер референдум нәтижесіне қарай қабылданады - министр |url=https://egemen.kz/article/350293-aes-boyynsha-barlyq-sheshimder-referendum-natidgesine-qaray-qabyldanady-ministr |access-date=2024-09-13 |website=Egemen Qazaqstan |language=kk-KK}}</ref>",
+                  "url": "https://egemen.kz/article/350293-aes-boyynsha-barlyq-sheshimder-referendum-natidgesine-qaray-qabyldanady-ministr",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":2\">{{Cite web |last=Тарина |first=Айгерим |date=2023-10-04 |title=Қазақстанда атом электр станциясының қандай нұсқалары қарастырылуда |url=https://kaz.zakon.kz/kogam-tynysy/6032639-azastanda-atom-elektr-stantsiyasyny-anday-nsalary-arastyryluda.html |access-date=2024-09-13 |website=zakon.kz |language=kk}}</ref>",
+                  "url": "https://kaz.zakon.kz/kogam-tynysy/6032639-azastanda-atom-elektr-stantsiyasyny-anday-nsalary-arastyryluda.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-10-04 |title=АЭС салу референдум нәтижесіне қарай шешіледі – министр |url=https://inbusiness.kz/kz/last/aes-salu-referendum-natizhesine-karaj-sheshiledi-ministr |access-date=2024-09-13 |website=inbusiness.kz |publisher=Atameken Business |language=kk}}</ref>",
+                  "url": "https://inbusiness.kz/kz/last/aes-salu-referendum-natizhesine-karaj-sheshiledi-ministr",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Referendum announcement",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "On 27 June 2024, at a speech during an awarding ceremony, President Tokayev announced, that the referendum will take place in the autumn of 2024. In the building of the Senate of Kazakhstan|Senate, Ministry of Energy (Kazakhstan)|Deputy Minister of Energy Sūñğat Esimhanov talked about the questions that will be asked on the referendum. According to him, the people will be asked only one thing, whether they support or are against the building of a nuclear power plant. However he also noted that this was \"his opinion\" and the details will be worked out by the Government of Kazakhstan|Government.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"kursiv27\">{{Cite web|url= https://kz.kursiv.media/kk/2024-06-27/qntd-referendum-2/ |title= Тоқаев атом электр станциясын салу бойынша референдум күзде өтетінін айтты |trans-title= Tokayev announced that the nuclear power plant referendum will be held this autumn |language= kk |website= kz.kursiv.media |last= Төленді |first= Ақниет |date= 2024-06-27 |access-date= 2024-06-27}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.2.s2",
+                  "text": "The next day, he signed the corresponding order, which also included the ballot question itself: {{blockquote|Do you agree with the construction of a nuclear power plant in Kazakhstan?{{efn|{{Langx|kk|«Сіз Қазақстанда атом электр станциясын салуға келісесіз бе?»|translit=«Siz Qazaqstanda atom elektr stantsiasyn saluğa kelısesız be?»}}<br>{{Langx|ru|«Согласны ли Вы со строительством атомной электростанции в Казахстане?»|translit=«Soglasny li Vy so stroitel'stvom atomnoy elektrostantsii v Kazakhstane?»}}}}}}",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=2024-09-02 |title=2024 жылғы 6 қазанда республикалық референдум өткiзу туралы |url=https://akorda.kz/kz/2024-zhylgy-6-kazanda-respublikalyk-referendum-otkizu-turaly-282039 |access-date=2024-09-03 |website=Akorda.kz |language=kk}}</ref>",
+                      "url": "https://akorda.kz/kz/2024-zhylgy-6-kazanda-respublikalyk-referendum-otkizu-turaly-282039",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2024-09-02 |title=О проведении 6 октября 2024 года республиканского референдума |url=https://akorda.kz/ru/o-provedenii-6-oktyabrya-2024-goda-respublikanskogo-referenduma-282222 |access-date=2024-09-03 |website=Akorda.kz |language=ru}}</ref>",
+                      "url": "https://akorda.kz/ru/o-provedenii-6-oktyabrya-2024-goda-respublikanskogo-referenduma-282222",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "Negotiations with energy providers",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.3.s1",
+                  "text": "The Ministry of Energy reviewed reactor technologies from various international companies before compiling a shortlist in June 2022. After evaluating 13 reactor designs from six companies—NuScale Power, GE Hitachi Nuclear Energy (GEH), Korea Hydro & Nuclear Power (KHNP), China National Nuclear Corporation (CNNC), Russian Rosatom, and French Électricité de France (EDF)—the ministry selected KHNP, CNNC, Rosatom, and EDF as potential suppliers.<ref name=\":3\" /> The American and Japanese companies, NuScale Power and GEH, were excluded due to their limited experience with low-power reactors, with focus instead being on suppliers with proven high-power reactor technologies.<ref name=\"Atameken Business\"/>",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Сайлауқызы |first=Раушан |date=2022-02-23 |title=Атом электр станциясын салу үшін 6 елдің технологиясы зерттеліп жатыр (толығырақ) |url=https://qazaqstan.tv/news/153542/ |access-date=2024-09-13 |website=Qazaqstan (TV channel)|Qazaqstan |publisher=Qazaqstan Radio and Television Corporation |language=kk}}</ref>",
+                      "url": "https://qazaqstan.tv/news/153542/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"Atameken Business\">{{Cite web |date=2022-06-29 |title=Қазақстан АЭС салуы ықтимал елдердің тізімінен АҚШ пен Жапонияны алып тастады |url=https://inbusiness.kz/kz/last/kazakstan-aes-saluy-yktimal-elderdin-tiziminen-aksh-pen-zhaponiyany-alyp-tastady |access-date=2024-09-14 |website=inbusiness.kz |publisher=Atameken Business |language=kk}}</ref>",
+                      "url": "https://inbusiness.kz/kz/last/kazakstan-aes-saluy-yktimal-elderdin-tiziminen-aksh-pen-zhaponiyany-alyp-tastady",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Шарипханова |first=Дина |date=2022-06-27 |title=Қазақстан АЭС салуы мүмкін мердігерлер тізімін жасады |url=https://kaz.tengrinews.kz/kazakhstan_news/kazakstan-aes-saluyi-mumkn-merdgerler-tzmn-jasadyi-339967/ |access-date=2024-09-14 |website=Tengrinews.kz |language=kk}}</ref>",
+                      "url": "https://kaz.tengrinews.kz/kazakhstan_news/kazakstan-aes-saluyi-mumkn-merdgerler-tzmn-jasadyi-339967/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s2",
+                  "text": "The Kazakh government explored international practices in nuclear power plant construction by examining the experiences of countries with operational facilities. The Kazakh delegation toured nuclear power plants in South Korea, signed a memorandum of understanding with KHNP, and sent specialists to France to study their facilities. They also toured the Rosatom's commissioning of Akkuyu Nuclear Power Plant in Turkey and the Paks Nuclear Power Plant in Hungary, hosted by General Electric.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=2022-06-28 |title=Қазақстан мен Оңтүстік Корея атом энергетикасы саласында ынтымақтасатын болады |url=https://www.kt.kz/kaz/economy/aza_stan_men_o_t_stik_koreya_atom_energetikasy_salasynda_1377935857.html |access-date=2024-09-13 |website=Kazakhstan Today |language=kk}}</ref>",
+                      "url": "https://www.kt.kz/kaz/economy/aza_stan_men_o_t_stik_koreya_atom_energetikasy_salasynda_1377935857.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2022-06-29 |title=Қазақстан мен Оңтүстік Корея атом энергиясын дамыту саласындағы стратегиялық серіктестікті нығайтуда |url=https://ortcom.kz/kk/novosti/1656484949 |access-date=2024-09-13 |website=Central Communications Service under the President of the Republic of Kazakhstan |language=kk-KK}}</ref>",
+                      "url": "https://ortcom.kz/kk/novosti/1656484949",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite press release |title=Kazakhstan to Study the Experience of France in the Development of Nuclear Energy and Operation of Nuclear Power Plants |date=2022-07-21 |publisher=Samruk-Kazyna |url=https://sk.kz/press-center/news/73394/?lang=en |access-date=2024-09-13}}</ref>",
+                      "url": "https://sk.kz/press-center/news/73394/?lang=en",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "press"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2022-08-05 |title=Қазақстан делегациясы Түркияда салынып жатқан \"Аккую\" АЭС-те болды, оның бірінші блогы 2023 жылы іске қосылады |url=https://ortcom.kz/kk/novosti/1659681731 |access-date=2024-09-13 |website=Central Communications Service under the President of the Republic of Kazakhstan |language=kk}}</ref>",
+                      "url": "https://ortcom.kz/kk/novosti/1659681731",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2022-08-24 |title=Қазақстан делегациясы Түркиядағы \"Аккую\" атом электр станциясының құрылысымен танысты |url=https://jjtv.kz/kk/kazakstan-delegatsiyasy-turkiyadagy-akkuyu-atom-elektr-stantsiyasynyn-kurylysymen-tanysty |access-date=2024-09-13 |website=Jibek Joly TV |language=kk |last1=Tv |first1=Jibek Joly }}</ref>",
+                      "url": "https://jjtv.kz/kk/kazakstan-delegatsiyasy-turkiyadagy-akkuyu-atom-elektr-stantsiyasynyn-kurylysymen-tanysty",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-01-29 |title=Қазақстандық делегация \"Пакш\" атом электр станциясында болды |url=https://forbes.kz/news/newsid_293921 |access-date=2024-09-13 |website=Forbes.kz |language=kk}}</ref>",
+                      "url": "https://forbes.kz/news/newsid_293921",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-01-29 |title=Қазақстандық делегация \"Пакш\" атом электр станциясында болды |url=https://dknews.kz/kz/alem-zhanalyktary/272601-kazakstandyk-delegaciya-paksh-atom-elektr |access-date=2024-09-13 |website=DKnews.kz |language=kk}}</ref>",
+                      "url": "https://dknews.kz/kz/alem-zhanalyktary/272601-kazakstandyk-delegaciya-paksh-atom-elektr",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":3\">{{Cite web |date=2022-10-27 |title=Атом энергетикасы: Қазақстандағы болашағы қандай? |url=https://inbusiness.kz/kz/news/atom-energetikasy-kazakstandagy-bolashagy-kandaj |access-date=2024-09-13 |website=inbusiness.kz |publisher=Atameken Business |language=kk}}</ref>",
+                      "url": "https://inbusiness.kz/kz/news/atom-energetikasy-kazakstandagy-bolashagy-kandaj",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Аймағамбет |first=Абай |date=2022-11-08 |title=АЭС: Әлемдік және өңірлік тәжірибе |url=https://egemen.kz/article/327548-aes-alemdik-dgane-onhirlik-tadgiribe |access-date=2024-09-13 |website=Egemen Qazaqstan |language=kk-KK}}</ref>",
+                      "url": "https://egemen.kz/article/327548-aes-alemdik-dgane-onhirlik-tadgiribe",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s3",
+                  "text": "In August 2022, Energy Minister Bolat Aqşolaqov announced that the technology operator for Kazakhstan's nuclear power plant would be selected by late 2022 or early 2023. In February 2023, it was revealed that the decision would be made sometime later that year. Samruk-Kazyna chairman Nurlan Jaqypov did not rule out Rosatom's strong chances of winning the bid while also expressing concerns about various difficulties in implementing the project. However, European Union discussions on potential sanctions against Russia's nuclear industry complicated Kazakhstan's plans to cooperate with Rosatom, leading to delays in selecting a foreign partner. In August 2023, the Ministry of Energy compiled a shortlist of potential reactor technologies, which included the CNNC's CNP / ACP nuclear reactors#ACP-1000|HPR-1000 reactor, the KHNP's APR-1400 reactor, Rosatom's VVER#VVER-1200|VVER-1200 and VVER#VVER-1000|VVER-1000 reactors, and EDF's EPR (nuclear reactor)#EPR1200 design|EPR-1200 reactor. Energy Minister Almasadam Sätqaliev stated that the ministry was also evaluating proposals from NuScale Power and GEH for constructing small modular reactors, with the final decision on selecting a foreign proposal to be made only after the referendum.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=2022-08-03 |title=2023 жылы АЭС-ті қай мемлекет салатыны анықталады – Энергетика министрі |url=https://baq.kz/2023-zhyly-aes-ti-qay-memleket-salatyny-anyqtalady-energetika-ministri-284351/ |access-date=2024-09-14 |website=BAQ.kz |publisher=Qazcontent |language=kk}}</ref>",
+                      "url": "https://baq.kz/2023-zhyly-aes-ti-qay-memleket-salatyny-anyqtalady-energetika-ministri-284351/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Ерболат |first=Дәурен |date=2022-08-03 |title=2023 жылы АЭС-ті қай мемлекет салатыны белгілі болады – министр |url=https://halyq-uni.kz/ekonomika/6917-2023-zhyly-elimizde-aes-ti-kai-memleket-salatyny-belgili-bolady-ministr/ |access-date=2024-09-14 |website=Halyq-uni.kz |language=kk}}</ref>",
+                      "url": "https://halyq-uni.kz/ekonomika/6917-2023-zhyly-elimizde-aes-ti-kai-memleket-salatyny-belgili-bolady-ministr/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Сатиева |first=Камшат |date=2023-02-01 |title=Энергетика министрлігі АЭС құрылысы мәселесіне келгенде асығыстық танытпауға уәде берді |url=https://kaz.zakon.kz/ekonomika-biznes/6020020-energetika-ministrlg-aes-rylysy-mselesne-kelgende-asyysty-tanytpaua-ude-berd.html |access-date=2024-09-14 |website=zakon.kz |language=kk}}</ref>",
+                      "url": "https://kaz.zakon.kz/ekonomika-biznes/6020020-energetika-ministrlg-aes-rylysy-mselesne-kelgende-asyysty-tanytpaua-ude-berd.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Әділбеков |first=Ақжігіт |date=2023-02-02 |title=Қазақстанға АЭС-ті кім салады? |url=https://kz.kursiv.media/kk/2023-02-02/aes-ti-kim-salady-zhaene-onyng-qorshaghan-ortagha-tigizer-aeseri-qandaj-bolmaq/ |access-date=2024-09-14 |website=Kursiv Media Казахстан |language=kk}}</ref>",
+                      "url": "https://kz.kursiv.media/kk/2023-02-02/aes-ti-kim-salady-zhaene-onyng-qorshaghan-ortagha-tigizer-aeseri-qandaj-bolmaq/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Мамышев |first=Жанболат |date=2023-07-13 |title=Глава \"Самрук-Казыны\" рассказал о сложностях со строительством АЭС, не исключив победы \"Росатома\" в конкурсе |url=https://kz.kursiv.media/2023-07-13/zhnb-aessamruk/ |access-date=2024-09-14 |website=Kursiv Media Казахстан |language=ru}}</ref>",
+                      "url": "https://kz.kursiv.media/2023-07-13/zhnb-aessamruk/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Ардақ |first=Жанат |date=2023-06-28 |title=Еуроодақтың жаңа санкциялық пакеті Қазақстанды шектеуге бағытталмақ |url=https://inbusiness.kz/kz/news/euroodaktyn-zhana-sankciyalyk-paketi-kazakstandy-shekteuge-bagyttalmak |access-date=2024-09-14 |website=inbusiness.kz |publisher=Atameken Business |language=kk}}</ref>",
+                      "url": "https://inbusiness.kz/kz/news/euroodaktyn-zhana-sankciyalyk-paketi-kazakstandy-shekteuge-bagyttalmak",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Мамышев |first=Жанболат |date=2023-09-01 |title=Токаев предложил вынести решение по строительству АЭС в Казахстане на референдум |url=https://kz.kursiv.media/2023-09-01/zhnb-aeskzref/ |access-date=2024-09-14 |website=Kursiv Media Казахстан |language=ru}}</ref>",
+                      "url": "https://kz.kursiv.media/2023-09-01/zhnb-aeskzref/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Шарипханова |first=Дина |date=2023-08-17 |title=Қазақстанда атом электр станциясы қай жерде салынады? |url=https://kaz.tengrinews.kz/kazakhstan_news/kazakstanda-atom-elektr-stantsiyasyi-kay-jerde-salyinadyi-353258/ |access-date=2024-09-14 |website=Tengrinews.kz |language=kk}}</ref>",
+                      "url": "https://kaz.tengrinews.kz/kazakhstan_news/kazakstanda-atom-elektr-stantsiyasyi-kay-jerde-salyinadyi-353258/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Тоғжан |first=Аманалина |date=2023-08-17 |title=Энергетика министрлігінде атом электр станциясының құрылысы үшін ең қолайлы аудан аталды |url=https://azattyq-ruhy.kz/society/59426-energetika-ministrliginde-atom-elektr-stantsiiasynyn-ku-rylysynyn-en-kolaily-audany-ataldy |access-date=2024-09-14 |website=Azattyq-ruhy.kz |language=kk}}</ref>",
+                      "url": "https://azattyq-ruhy.kz/society/59426-energetika-ministrliginde-atom-elektr-stantsiiasynyn-ku-rylysynyn-en-kolaily-audany-ataldy",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Сатыбалдина |first=Сымбат |date=2023-08-17 |title=Атом электр станциясы қайда салынатыны белгілі болды |url=https://massaget.kz/news/atom-elektr-stantsiyasyi-kayda-salyinatyinyi-belgl-boldyi-88957/ |access-date=2024-09-14 |website=Massaget.kz |language=kk}}</ref>",
+                      "url": "https://massaget.kz/news/atom-elektr-stantsiyasyi-kayda-salyinatyinyi-belgl-boldyi-88957/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":2\" /><ref>{{Cite web |last=Шарипханова |first=Дина |date=2023-11-08 |title=АЭС құрылысы: Қазақстан 5 елдің ұсынысын қарастырып жатыр |url=https://kaz.tengrinews.kz/kazakhstan_news/aes-kuryilyisyi-kazakstan-5-eldn-usyinyisyin-karastyiryip-355429/ |access-date=2024-10-04 |website=Tengrinews.kz |language=kk}}</ref>",
+                      "url": "https://kaz.tengrinews.kz/kazakhstan_news/aes-kuryilyisyi-kazakstan-5-eldn-usyinyisyin-karastyiryip-355429/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Аскарова |first1=Айгерим |last2=Айбекова |first2=Сауле |date=2023-11-08 |title=Когда выберут компанию, которая построит АЭС в Казахстане, сообщил Саткалиев |url=https://www.nur.kz/society/2044714-kogda-vyberut-kompaniyu-kotoraya-postroit-aes-v-kazahstane-soobschil-satkaliev/ |access-date=2024-10-04 |website=NUR.KZ |language=ru}}</ref>",
+                      "url": "https://www.nur.kz/society/2044714-kogda-vyberut-kompaniyu-kotoraya-postroit-aes-v-kazahstane-soobschil-satkaliev/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.4",
+          "title": "Public hearings",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.4.s1",
+                  "text": "The Kazakh government engaged in public deliberations regarding the proposed construction of the Ülken Nuclear Power Plant, emphasizing careful consideration over haste in making their decision.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Abbasova |first=Vusala |date=2021-09-05 |title=President Tokayev Says Kazakhstan Needs Nuclear Power Plant |url=https://caspiannews.com/news-detail/president-tokayev-says-kazakhstan-needs-nuclear-power-plant-2021-9-5-0/ |access-date=2023-10-17 |website=caspiannews.com |language=en}}</ref>",
+                      "url": "https://caspiannews.com/news-detail/president-tokayev-says-kazakhstan-needs-nuclear-power-plant-2021-9-5-0/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.4.s2",
+                  "text": "In August 2024, 20 different official hearings on the potential nuclear power plant were held publicly in 20 different cities.{{efn|The cities include: Almaty, Karagandy, Turkistan (city)|Turkistan, Shymkent, Aktobe, Atyrau, Aktau, Oral, Kazakhstan|Oral, Oskemen, Semey and Taldykorgan, representing Regions of Kazakhstan|each region of the country.}} The last one, held in Astana, took place on 20 August. Radio Free Europe criticised the environment of the hearings, reporting that opposition voices were silenced, with microphones turned off, and dissenters barred from participating. The official hearing event in Astana was attended by Mäjilis deputies and Amanat (political party)|Amanat party officials, who expressed support for the nuclear plant construction. Political activist Nağyzhan Töleubaev and other like-minded people complained that the talks were biased and undemocratic.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"azattyq08-19\">{{Cite news|url= https://www.azattyq.org/a/33083833.html |title= АЭС жобасы бойынша соңғы талқы Астанада өтеді |newspaper= Азаттық Радиосы |trans-title= The last public nuclear power plant talks will be held in Astana |language= kk |publisher= Radio Free Europe |date= 2024-08-19 |access-date= 2024-08-21 |last1= Радиосы |first1= Азаттық }}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url= https://www.maslihat01.kz/ru/news/novosti/2806 |title= В Астане начались финальные обсуждения по вопросу строительства АЭС в Казахстане |trans-title= Final talks on the building of a nuclear power plant in Kazakhstan have begun in Astana |language= ru |publisher= Astana City Mäslihat |date= 2024-08-20 |access-date= 2024-08-21}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"azattyq08-20\">{{Cite news|url= https://www.azattyq.org/a/33085622.html |title= Астанада АЭС бойынша жария талқы өтті |trans-title= The nuclear power plant public talks were held in Astana |language= kk |publisher= Radio Free Europe |last= Мұхитқызы |first= Әсемгүл |newspaper= Азаттық Радиосы |date= 2024-08-20 |access-date= 2024-08-21}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"azattyq08-20\" /> Prominent ecologist, Mels Eleusizov, opposed the idea citing danger risks.<ref name=\"vlast08-16\">{{Cite web|url= https://vlast.kz/obsshestvo/61491-eto-ne-publicnye-obsuzdenia-a-reklama-aes.html |title= \"Это не публичные обсуждения, а реклама АЭС!\" |trans-title= \"These are not public talks, these are nuclear power plant advertisement campaigns!\" |language= ru |website= vlast.kz |last1= Узбекбай |first1= Ақбота |last2= Қайсар |first2= Алмас |date= 2024-08-16 |access-date= 2024-08-21}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"azattyq08-20\" /><ref name=\"vlast08-16\" /> Before the Semey talks, a local activist and reporter Eldos Dosanov was detained by the police.<ref>{{Cite web|url= https://www.azattyq.org/a/33070864.html |title= АЭС-ке наразы белсенді ұсталды, көпшілік қолдады. Семейдегі жария талқы |trans-title= An activist opposing the nuclear power plant was detained, the majority approved. The Semey public talks |language= kk |publisher= Radio Free Europe |last1= Тапаева |first1= Нұргүл |last2= Ақаева |first2= Хадиша |last3= Ақсейітов |first3= Кенжетай |date= 2024-08-08 |access-date= 2024-08-21}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Conduct",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "Elections in Kazakhstan are organized by various election commissions, with the Central Election Commission (Kazakhstan)|Central Election Commission (CEC) serving as the Central Referendum Commission (CRC).",
+              "references": [
+                {
+                  "text": "<ref>{{Cite act|title=On the Republican Referendum|date=2 November 1995|at=§ 20|authority=President of the Republic of Kazakhstan|periodical=Bulletin of the Supreme Council of the Republic of Kazakhstan|publisher=Institute of Legislation and Legal Information of the Republic of Kazakhstan|url=https://adilet.zan.kz/eng/docs/Z950002592_|index=N 2592|type=Constitutional Law|location=Almaty|access-date=2024-09-13}}</ref>",
+                  "url": "https://adilet.zan.kz/eng/docs/Z950002592_",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "act"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "Following President Tokayev's referendum announcement, CEC member Şavkat Ötemisov announced in September 2023 that the CEC was ready to conduct the referendum as early that year if the date was announced, confirming that all necessary preparations were in place.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Тақабаева |first=Аида |date=2023-09-06 |title=ОСК Қазақстанда АЭС салу бойынша референдум өткізуге дайын |url=https://kaz.zakon.kz/kogam-tynysy/6031116-osk-azastanda-aes-salu-boyynsha-referendum-tkzuge-dayyn.html |access-date=2024-09-13 |website=zakon.kz |language=kk}}</ref>",
+                  "url": "https://kaz.zakon.kz/kogam-tynysy/6031116-osk-azastanda-aes-salu-boyynsha-referendum-tkzuge-dayyn.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Қазақбекова |first=Сабина |date=2023-09-06 |title=АЭС құрылысы бойынша референдум өткізуге дайынбыз - ОСК |url=https://kz.kursiv.media/kk/2023-09-06/aes-qurylysy-bojynsha-referendum-oetkizuge-dajynbyz-osk/ |access-date=2024-09-13 |website=Kursiv Media Казахстан |language=kk}}</ref>",
+                  "url": "https://kz.kursiv.media/kk/2023-09-06/aes-qurylysy-bojynsha-referendum-oetkizuge-dajynbyz-osk/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |last= |first= |date=2023-09-06 |title=Қазақстан билігі АЭС салу бойынша референдумды 2023 жылы өткізуге дайын |url=https://www.azattyq.org/a/32581042.html |access-date=2024-09-13 |work=Азаттық радиосы |language=kk}}</ref>",
+                  "url": "https://www.azattyq.org/a/32581042.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2024-09-06 |title=ОСК Қазақстанда АЭС салу бойынша референдум өткізуге дайын |url=https://www.kt.kz/kaz/state/osk_aza_standa_aes_salu_boyynsha_referendum_tkizuge_dayyn_1377955010.html |access-date=2024-09-13 |website=Kazakhstan Today |language=kk}}</ref>",
+                  "url": "https://www.kt.kz/kaz/state/osk_aza_standa_aes_salu_boyynsha_referendum_tkizuge_dayyn_1377955010.html",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Смаилова |first=Балжан |date=2023-09-06 |title=ОСК АЭС құрылысы бойынша референдум өткізуге дайын екенін мәлімдеді |url=https://inbusiness.kz/kz/last/osk-aes-kurylysy-bojynsha-referendum-otkizuge-dajyn-ekenin-malimdedi |access-date=2024-09-13 |website=inbusiness.kz |publisher=Atameken Business |language=kk}}</ref>",
+                  "url": "https://inbusiness.kz/kz/last/osk-aes-kurylysy-bojynsha-referendum-otkizuge-dajyn-ekenin-malimdedi",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "On 5 July 2024, President Tokayev signed a series of amendments to constitutional laws adopted by the Parliament of Kazakhstan, including the Constitutional Law \"On the Republican Referendum,\" which clarified the rights and responsibilities of national and international observers and foreign media, areas previously unaddressed. The amendments also provided guidelines for media coverage, the conduct of public opinion polls during the referendum, and introduced new rules for referendum commission members, including their remuneration and the process for appealing decisions. According to Şavkat Ötemisov, the amendments aim to enhance transparency, improve organization, and align with Organization for Security and Co-operation in Europe|OSCE/Office for Democratic Institutions and Human Rights|ODIHR recommendations.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last= |date=2024-07-05 |title=Поправки в конституционные законы подписал Касым-Жомарт Токаев |url=https://tengrinews.kz/kazakhstan_news/popravki-konstitutsionnyie-zakonyi-podpisal-kasyim-jomart-540589/ |access-date=2024-10-07 |website=Tengrinews.kz |language=ru}}</ref>",
+                  "url": "https://tengrinews.kz/kazakhstan_news/popravki-konstitutsionnyie-zakonyi-podpisal-kasyim-jomart-540589/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite act|title=On the Republican Referendum|date=5 July 2024|at=|authority=Parliament of the Republic of Kazakhstan|periodical=Egemen Kazakhstan No 130 (30859), Kazakhstanskaya Pravda No 130 (30257), Reference Control Bank of Regulatory Legal Acts of the Republic of Kazakhstan (in electronic form)|publisher=Institute of Legislation and Legal Information of the Republic of Kazakhstan|url=https://adilet.zan.kz/kaz/docs/Z2400000109|index=N 109-VIII|type=Constitutional Law|location=Astana|access-date=2024-09-13|language=kk}}</ref>",
+                  "url": "https://adilet.zan.kz/kaz/docs/Z2400000109",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "act"
+                },
+                {
+                  "text": "<ref name=\":5\">{{Cite press release |title=Республикалық референдумды ұйымдастыру және өткізу мәселелері бойынша ОРК отырысы өтті |date=2024-09-03 |publisher=Central Election Commission (Kazakhstan)|Central Election Commission of the Republic of Kazakhstan |url=https://www.election.gov.kz/kaz/news/releases/index.php?ID=9393 |language=kk |access-date=2024-10-07}}</ref>",
+                  "url": "https://www.election.gov.kz/kaz/news/releases/index.php?ID=9393",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "press"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Referendum funding",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "In September 2023, Minister of Finance Erulan Jamaubaev stated that the costs of the nuclear power referendum could potentially be lower than that of the 2022 Kazakh constitutional referendum|2022 constitutional referendum, as new methods might be applied, but he also noted that estimating the expenses would be impossible until the voting date is determined.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Сақтан |first=Еңлік |date=2023-09-06 |title=Қазақстанда АЭС салу: референдум өткізуге қанша қаражат жұмсалмақ |url=https://kaz.zakon.kz/sayasat/6031119-azastanda-aes-salu-referendum-tkzuge-ansha-arazhat-zhmsalma.html |access-date=2024-10-04 |website=zakon.kz |publisher=YurInfo |language=kk}}</ref>",
+                      "url": "https://kaz.zakon.kz/sayasat/6031119-azastanda-aes-salu-referendum-tkzuge-ansha-arazhat-zhmsalma.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Ерболат |first=Дәурен |date=2023-09-06 |title=АЭС салу бойынша референдум өткізуге қомақты қаражат жұмсалмауы мүмкін – министр |url=https://halyq-uni.kz/news/24952-aes-salu-boiynsha-referendum-otkizuge-komakty-karazhat-zhumsalmauy-mumkin-ministr/ |access-date=2024-10-04 |website=Halyq Uni |language=kk}}</ref>",
+                      "url": "https://halyq-uni.kz/news/24952-aes-salu-boiynsha-referendum-otkizuge-komakty-karazhat-zhumsalmauy-mumkin-ministr/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-09-06 |title=АЭС референдумы: Жамаубаев қанша қаражат кететінін атай алмады |url=https://qaz365.kz/society/4375-aes-referendumy-zhamaubaev-kansha-karazhat-ketetinin-atai-almady/ |access-date=2024-10-04 |website=Qaz365.kz |language=kk}}</ref>",
+                      "url": "https://qaz365.kz/society/4375-aes-referendumy-zhamaubaev-kansha-karazhat-ketetinin-atai-almady/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.2.s2",
+                  "text": "After the referendum date was announced in September 2024, CEC member Sabila Mustafina estimated the cost of the referendum to be 15.5 billion tenge, including expenses for organizing 78 foreign polling stations, with 71% allocated to commission member salaries, and CEC chairman Nurlan Äbdirov stated that any submitted leftover funds would be returned as surplus to the state budget.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Отарбаева |first=Бақытжан |date=2024-09-03 |title=Қазақстанда АЭС бойынша референдумға 15,5 млрд теңге жұмсалады |url=https://kaz.nur.kz/society/2156553-qazaqstanda-aes-boiynsha-referendumga-15-5-mlrd-tengge-zhumsalady/ |access-date=2024-10-04 |website=Nur.kz |language=kk}}</ref>",
+                      "url": "https://kaz.nur.kz/society/2156553-qazaqstanda-aes-boiynsha-referendumga-15-5-mlrd-tengge-zhumsalady/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Ақиқат |first=Ботагөз |date=2024-09-03 |title=ОСК референдумға неге 15,5 млрд теңге жұмсауды жоспарлап отырғанын түсіндірді |url=https://kaz.zakon.kz/kogam-tynysy/6048558-osk-referenduma-nege-155-mlrd-tege-zhmsaudy-zhosparlap-otyranyn-tsndrd.html |access-date=2024-10-04 |website=zakon.kz |publisher=YurInfo |language=kk}}</ref>",
+                      "url": "https://kaz.zakon.kz/kogam-tynysy/6048558-osk-referenduma-nege-155-mlrd-tege-zhmsaudy-zhosparlap-otyranyn-tsndrd.html",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Ерболат |first=Дәурен |date=2024-09-03 |title=АЭС салу бойынша референдум өткізуге 15,5 млрд теңге қажет – ОСК |url=https://halyq-uni.kz/aleumet/39537-aes-salu-boiynsha-referendum-otkizuge-15-5-mlrd-tenge-kazhet-osk/ |access-date=2024-10-04 |website=Halyq Uni |language=kk}}</ref>",
+                      "url": "https://halyq-uni.kz/aleumet/39537-aes-salu-boiynsha-referendum-otkizuge-15-5-mlrd-tenge-kazhet-osk/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Voter registration",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.3.s1",
+                  "text": "By 1 July and 1 January every year, information on voters and the boundaries of polling stations are submitted by the local executive bodies (akimats) in electronic form to their territorial election commissions, which ensure the verification and submission of information to the higher election commissions. According to the CEC, as of 1 July 2024, approximately 12,176,968 voters were registered in Kazakhstan; however, CEC deputy chairman Konstantin Petrov, clarified that this figure was provisional and not final.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":6\">{{Cite act|title=On Elections in the Republic of Kazakhstan|date=28 September 1995|at=§ 24|authority=President of the Republic of Kazakhstan|periodical=Bulletin of the Supreme Council of the Republic of Kazakhstan|publisher=Institute of Legislation and Legal Information of the Republic of Kazakhstan|url=https://adilet.zan.kz/eng/docs/Z950002464_|index=N 2464|type=Constitutional Law|location=Almaty|access-date=2024-09-13}}</ref>",
+                      "url": "https://adilet.zan.kz/eng/docs/Z950002464_",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "act"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last= |date=2024-09-03 |title=АЭС салуға қатысты референдумға қанша қазақстандық қатыса алады? |url=https://kaz.tengrinews.kz/kazakhstan_news/aes-saluga-katyistyi-referendumga-kansha-kazakstandyik-362126/ |access-date=2024-10-07 |website=Tengrinews.kz |language=kk}}</ref>",
+                      "url": "https://kaz.tengrinews.kz/kazakhstan_news/aes-saluga-katyistyi-referendumga-kansha-kazakstandyik-362126/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.3.s2",
+                  "text": "Voter registration in Kazakhstan is conducted by a local executive body from the moment of announcement or appointment of referendum and are compiled within the Electoral roll|voter list, which are based on place of residence in the territory of the given electoral precinct.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":6\" /> The voter list for each polling station is approved by the akim (local head), who issues an ordinance twenty days (15 September 2024) before the election and delivering to referendum polling stations and electronic version to the CRC.<ref name=\":6\" /><ref name=\":4\">{{Cite web |last=Адильченов |first=Ильдар |date=2024-09-03 |title=АЭС бойынша референдумға мемлекет бюджетінен 15,5 миллиард теңге бөлінді |url=https://kaz.orda.kz/ajes-bojynsha-referendumga-memleket-bjudzhetinen-155-milliard-tenge-bolindi-126677/ |access-date=2024-10-07 |website=Orda.kz |language=kk}}</ref>",
+                      "url": "https://kaz.orda.kz/ajes-bojynsha-referendumga-memleket-bjudzhetinen-155-milliard-tenge-bolindi-126677/",
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Opinion polls",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "As of September 2024, only two opinion polls on the issue are known to have been made. One of them, made by the Konrad Adenauer Foundation was conducted in the autumn of 2023, and the other one was made by the government-affiliated Kazakhstan Institute for Strategic Studies (KazISS) under the President of Kazakhstan.\n{| class=\"wikitable\" style=\"text-align:center;font-size:95%;\"\n! rowspan=\"2\" |Fieldwork<br>date\n! rowspan=\"2\" |Polling firm/Commissioner\n! rowspan=\"2\" |Sample size\n!Yes\n!No\n!Undecided\n!Would not vote\n! rowspan=\"2\" |Lead\n|-\n! class=\"unsortable\" style=\"background: rgb(0, 129, 66); width: 100px; color: white;\" |\n! class=\"unsortable\" style=\"background: rgb(220, 36, 31); width: 100px; color: white;\" |\n! class=\"unsortable\" style=\"background: gray; width: 90px; color: white;\" |\n! class=\"unsortable\" style=\"background: gray; width: 90px; color: white;\" |\n|-\n|7–18 Aug 2024\n|Kazakhstan Institute for Strategic Studies|KazISS/President of the Republic of Kazakhstan\n|1,200\n| style=\"background: rgb(153, 255, 153);\" |'''53.1%'''\n|32.5%\n|14.4%\n|34.2%\n| style=\"background: rgb(0, 129, 66); color: white;\" |20.6%\n|-\n|22 Sep–4 Oct 2023\n|Demoscope/Konrad Adenauer Foundation\n|1,100\n| style=\"background: rgb(153, 255, 153);\" |'''46.6%'''\n|37.7%\n|18.8%\n|19.8%\n| style=\"background: rgb(0, 129, 66); color: white;\" |8.9%\n|}",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last= |date=2024-08-22 |title=Халық АЭС салу идеясына қалай қарайды – әлеуметтік сауалнаманың нәтижелері |url=https://kisi.kz/halyk-aes-salu-ideyasyna-kalaj-karajdy-aleumettik-saualnamanyn-natizheleri/ |access-date=2024-09-04 |website=Kazakhstan Institute for Strategic Studies |publisher= |language=kk}}</ref>",
+                  "url": "https://kisi.kz/halyk-aes-salu-ideyasyna-kalaj-karajdy-aleumettik-saualnamanyn-natizheleri/",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite press release |title=САУАЛНАМА: Қазақстандықтардың АЭС туралы пікірі екіге бөлінді |date=2023-10-11 |publisher=Demoscope |url=https://demos.kz/saualnama-aza-standy-tardy-ajes-turaly-pikiri-ekige-b-lindi/?lang=kz |language=Kazakh |access-date=2024-09-04}}</ref>",
+                  "url": "https://demos.kz/saualnama-aza-standy-tardy-ajes-turaly-pikiri-ekige-b-lindi/?lang=kz",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "press"
+                }
+              ]
+            },
+            {
+              "id": "5.s2",
+              "text": "On 27 August 2024, Minister of Energetics of Kazakhstan, Almasadam Sätqaliev alleged that there was an unspecified group and political campaign trying to change the public opinion on the issue to be against the construction. When asked for specifics, Sätqaliev claimed that the ministry already contacted the corresponding law enforcement agencies, and is planning to file an official complaint.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url= https://halyq-uni.kz/news/39264-aes-ku-rylysyna-karsy-top-kogamdyk-pikirge-ykpal-etkisi-keledi-ministr/ |title= АЭС құрылысына қарсы топ қоғамдық пікірге ықпал еткісі келеді – министр |trans-title= Minister: A group wants to alter the public opinion on the nuclear power plant construction |language= kk |website= halyq-uni.kz |last1= Дәурен |first1= Ерболат |date= 2024-08-27 |access-date= 2024-09-03}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Results",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "Preliminary results was released on 7 October 2024.\n}}",
+              "references": [
+                {
+                  "text": "<ref name=results/>\n{{Referendum results\n| for = 5561937\n| against = 2045271\n| invalid = 130267\n| blank = 82729\n| electorate = 12284487\n| source = Central Election Commission<ref name=results>{{cite web |url=https://www.election.gov.kz/eng/news/releases/index.php?ID=9565 |title=Preliminary results of the republican referendum |archive-url=https://web.archive.org/web/20241007073428/https://www.election.gov.kz/eng/news/releases/index.php?ID=9565 |archive-date=7 October 2024 |url-status=live}}</ref>",
+                  "url": "https://www.election.gov.kz/eng/news/releases/index.php?ID=9565",
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Notes",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

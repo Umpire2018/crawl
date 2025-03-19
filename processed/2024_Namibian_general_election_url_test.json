@@ -1,0 +1,456 @@
+{
+  "title": "2024_Namibian_general_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "General elections were held in Namibia to elect a new President of Namibia|president and members of the National Assembly (Namibia)|National Assembly. Initially scheduled on 27 November 2024, these were later extended in some areas to 30 November due to poor planning. Opposition parties decried the move, boycotting the declaration of results and pledging to challenge the results of the election in court. They were the country's seventh general elections since gaining independence from Union of South Africa|apartheid South Africa in 1990.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Matthys |first=Donald |date=8 March 2024 |title=ECN releases timetable for 27 November elections |url=https://www.namibian.com.na/ecn-releases-timetable-for-27-november-elections/ |newspaper=The Namibian |language=en-ZA |archive-date=20 April 2024 |archive-url=https://web.archive.org/web/20240420080311/https://www.namibian.com.na/ecn-releases-timetable-for-27-november-elections/ |url-status=live }}</ref>",
+                  "url": "https://www.namibian.com.na/ecn-releases-timetable-for-27-november-elections/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=7 March 2024 |title=Namibia's 2024 general elections slated for November 27 |url=https://apanews.net/namibias-2024-general-elections-slated-for-november-27/ |website=African Press Agency |language=en-US |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318120502/https://apanews.net/namibias-2024-general-elections-slated-for-november-27/ |url-status=live }}</ref>",
+                  "url": "https://apanews.net/namibias-2024-general-elections-slated-for-november-27/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Matthys |first=Donald |date=7 March 2024 |title=Namibia votes on 27 November |url=https://www.namibian.com.na/namibia-votes-on-27-november/ |newspaper=The Namibian |language=en-ZA}}</ref>",
+                  "url": "https://www.namibian.com.na/namibia-votes-on-27-november/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "Outgoing president Hage Geingob died on 4 February 2024 whilst receiving treatment for cancer and was replaced by his vice-president of Namibia|vice-president, Nangolo Mbumba. Mbumba announced that he had no intention of running for president. He will serve out the remainder of Geingob's term which expires on 21 March 2025.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |last1=Nyaungwa |first1=Nyasha |title=Namibia interim president says no plan to run in this year's election |url=https://www.reuters.com/world/africa/namibia-interim-president-says-no-plan-run-this-years-election-2024-02-04/ |website=Reuters  |location=Namibia |language=en | date=5 February 2024 |access-date=6 December 2024}}</ref>",
+                  "url": "https://www.reuters.com/world/africa/namibia-interim-president-says-no-plan-run-this-years-election-2024-02-04/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news | title=Namibian President Hage Geingob dies in a hospital where he was receiving treatment, his office says | work=Associated Press News | date=4 February 2024 | url=https://apnews.com/article/namibia-president-hage-geingob-dies-hospital-f01eb59f2ea02c9459ffa96b0c25e0e0 | archive-date=4 February 2024 | archive-url=https://web.archive.org/web/20240204140622/https://apnews.com/article/namibia-president-hage-geingob-dies-hospital-f01eb59f2ea02c9459ffa96b0c25e0e0 | url-status=live }}</ref>",
+                  "url": "https://apnews.com/article/namibia-president-hage-geingob-dies-hospital-f01eb59f2ea02c9459ffa96b0c25e0e0",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "In 2019, the ruling SWAPO party received 56% of the vote, down from 87% in 2014. SWAPO, which gained its base fighting against apartheid in 1990, is seemingly losing support among youth voters, who are dissatisfied with low employment rates. The current unemployment rate is around 20%.",
+              "references": [
+                {
+                  "text": "<ref name=\":0\" /><ref name=\":1\">{{Cite news |last=Nyaungwa |first=Nyasha |date=25 November 2024 |title=Namibia to vote in toughest election yet for ruling party |url=https://www.reuters.com/world/africa/namibia-vote-toughest-election-yet-ruling-party-2024-11-25/ |work=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/world/africa/namibia-vote-toughest-election-yet-ruling-party-2024-11-25/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "Prior to the election, online disinformation campaigns targeted various candidates. These campaigns included false allegations of opposition candidate Panduleni Itula being a \"British national identity|British agent\"; purported footage of another opposition candidate, Bernadus Swartbooi, making tribalist statements towards Itula; and an Artificial intelligence|artificially-generated image of SWAPO candidate Netumbo Nandi-Ndaitwah fainting at rallies. Various politicians accused the Zimbabwean ZANU–PF of spreading false information.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |date=26 November 2024 |title=Namibia Fact Check Warns of Foreign Influence and Smear Campaigns Targeting Itula Ahead of Elections |url=https://allafrica.com/stories/202411260077.html |newspaper=The Namibian |language=en-ZA |archive-date=26 November 2024 |archive-url=https://web.archive.org/web/20241126132355/https://allafrica.com/stories/202411260077.html |url-status=live }}</ref>",
+                  "url": "https://allafrica.com/stories/202411260077.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The President of Namibia is elected using the two-round system; if no candidate receives more than 50% in the first round of voting, a run-off will be held. No previous presidential votes in Namibia have gone to a second round.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news | title=Namibia's Ruling Party Faces Unexpectedly Challenging Vote | agency=Associated Press | newspaper=The New York Times | date=24 November 2019 | url=https://www.nytimes.com/aponline/2019/11/24/world/africa/ap-af-namibia-election-preview.html | archive-date=28 November 2019 | archive-url=https://web.archive.org/web/20191128172043/https://www.nytimes.com/aponline/2019/11/24/world/africa/ap-af-namibia-election-preview.html | url-status=live }}</ref>",
+                  "url": "https://www.nytimes.com/aponline/2019/11/24/world/africa/ap-af-namibia-election-preview.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "The 104 members of the National Assembly (Namibia)|National Assembly consist of 96 elected members and eight (non-voting) members appointed by the president. The 96 elected members are elected by closed list proportional representation from one nationwide constituency. Seats are allocated using the largest remainder method.",
+              "references": [
+                {
+                  "text": "<ref>[https://www.lac.org.na/projects/grap/Pdf/Gov2_Three_Branches_of_Government.pdf The Three Branches of Government] {{Webarchive|url=https://web.archive.org/web/20200913011138/https://www.lac.org.na/projects/grap/Pdf/Gov2_Three_Branches_of_Government.pdf |date=13 September 2020}} Hanns Seidel Foundation</ref>",
+                  "url": "https://web.archive.org/web/20200913011138/https://www.lac.org.na/projects/grap/Pdf/Gov2_Three_Branches_of_Government.pdf",
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
+                  "type": null
+                },
+                {
+                  "text": "<ref name=IPU>[http://archive.ipu.org/parline-e/reports/2225_B.htm Electoral system] {{Webarchive|url=https://web.archive.org/web/20190825013453/http://archive.ipu.org/parline-e/reports/2225_B.htm |date=25 August 2019}} IPU</ref>",
+                  "url": "https://web.archive.org/web/20190825013453/http://archive.ipu.org/parline-e/reports/2225_B.htm",
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
+                  "type": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Presidential candidates",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "As president Geingob was ineligible for re-election after having served two consecutive terms, he selected deputy prime minister Netumbo Nandi-Ndaitwah to run for president as a candidate of his party, the South West Africa People's Organisation (SWAPO), of which she was also vice-president, in 2023. Upon Geingob's death, she was appointed Vice-President of Namibia|vice president by president Mbumba. She will become the first female president of Namibia.<ref name=\":1\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news | title=Namibia: President names Netumbo Nandi-Ndaitwah woman successor | agency=Africanews | date=13 March 2023 | url=https://www.africanews.com/2023/03/13/namibian-president-names-netumbo-nandi-ndaitwah-woman-successor/ | archive-date=4 February 2024 | archive-url=https://web.archive.org/web/20240204154048/https://www.africanews.com/2023/03/13/namibian-president-names-netumbo-nandi-ndaitwah-woman-successor// | url-status=live }}</ref>",
+                  "url": "https://www.africanews.com/2023/03/13/namibian-president-names-netumbo-nandi-ndaitwah-woman-successor/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"bbc\">{{Cite news | title=Hage Geingob: Namibia's president dies aged 82 | work=BBC | date=4 February 2024 | url=https://www.bbc.com/news/world-africa-68196412 |archive-date=4 February 2024 | archive-url=https://web.archive.org/web/20240204151557/https://www.bbc.com/news/world-africa-68196412 | url-status=live }}</ref>",
+                  "url": "https://www.bbc.com/news/world-africa-68196412",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "Fourteen others were also running for president in the election. These included 2019 presidential candidate Panduleni Itula of the Independent Patriots for Change (IPC), the main opposition candidate, Popular Democratic Movement (PDM) leader McHenry Venaani, former deputy minister Bernadus Swartbooi of the Landless People's Movement (Namibia)|Landless People's Movement (LPM), and former Windhoek mayor Job Amupanda of Affirmative Repositioning (AR).",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news | title=Is Namibia going to elect its first female leader? | work=BBC | date=26 November 2024 | url=https://www.bbc.com/news/articles/cwy5z9enx0do | archive-date=27 November 2024 | archive-url=https://web.archive.org/web/20241127203908/https://www.bbc.com/news/articles/cwy5z9enx0do | url-status=live }}</ref>",
+                  "url": "https://www.bbc.com/news/articles/cwy5z9enx0do",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":0\">{{Cite news | last=Peyton | first=Nelly | title=Main candidates in Namibia's presidential election | work=CNBC | date=20 November 2024 | url=https://www.cnbcafrica.com/2024/main-candidates-in-namibias-presidential-election/ | archive-date=21 November 2024 | archive-url=https://web.archive.org/web/20241121033720/https://www.cnbcafrica.com/2024/main-candidates-in-namibias-presidential-election/ | url-status=live }}</ref>",
+                  "url": "https://www.cnbcafrica.com/2024/main-candidates-in-namibias-presidential-election/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Conduct",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "Voting was marred by logistical and technical problems such as malfunctioning voter identification tablets and insufficient ballot papers, causing long queues and the extension of voting hours by the Electoral Commission of Namibia (ECN) until 28 November. The IPC accused the ECN of \"deliberately suppressing voters and deliberately trying to frustrate voters from casting their vote\". Following complaints from opposition parties, the ECN announced a further extension of voting hours for 29 and 30 November at 36 selected polling locations in Windhoek as well as in the Kunene Region|Kunene, Oshana and Oshikoto Region|Oshikoto regions. Representatives of the IPC, PDM and AR expressed dissatisfaction with the limited selection of polling locations for the voting extension. Legal experts and the IPC have called into question the legality of the voting extension. African Union (AU) election observers criticised the ECN's decision to extend voting for causing confusion. The IPC accused the ECN of \"deliberately trying to dissuade voters from voting\". The AU observer mission gave the ECN a transparency score of just 50%.<ref name=\":2\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news| title=Namibia extends voting after logistical issues | work=France 24 | date=28 November 2024 | url=https://www.france24.com/en/live-news/20241128-namibia-extends-voting-after-logistical-issues}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20241128-namibia-extends-voting-after-logistical-issues}}</ref>",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=28 November 2024 |title=VOTING CONTINUES |url=https://www.facebook.com/TheNamibianNewspaper/posts/pfbid02ZtPJ7o3jp4FYjpyH5BzqLEjA9N2sqJYQwBMsYbr7R1gwUWLH1TGu72EsDUwU6n65l |archive-url=https://ghostarchive.org/archive/20241128211158/https://www.facebook.com/TheNamibianNewspaper/posts/pfbid02ZtPJ7o3jp4FYjpyH5BzqLEjA9N2sqJYQwBMsYbr7R1gwUWLH1TGu72EsDUwU6n65l |archive-date=28 November 2024 |website=Facebook – The Namibian |url-status=live }}</ref>",
+                  "url": "https://www.facebook.com/TheNamibianNewspaper/posts/pfbid02ZtPJ7o3jp4FYjpyH5BzqLEjA9N2sqJYQwBMsYbr7R1gwUWLH1TGu72EsDUwU6n65l",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=30 November 2024 |title=Namibia faces election chaos as voting extended after 'irregularities' |url=https://www.aljazeera.com/news/2024/11/30/namibia-faces-election-chaos-as-voting-extended-after-irregularities |website=Al Jazeera |language=en-GB}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2024/11/30/namibia-faces-election-chaos-as-voting-extended-after-irregularities",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |last1=Petersen |first1=Shelleygan |last2=Namene |first2=John-Colin |date=28 November 2024 |title=Selected polling stations not solving problem – opposition parties |url=https://www.namibian.com.na/selected-polling-stations-not-solving-problem-opposition-parties/ |newspaper=The Namibian |language=en-ZA |archive-date=29 November 2024 |archive-url=https://web.archive.org/web/20241129034552/https://www.namibian.com.na/selected-polling-stations-not-solving-problem-opposition-parties/ |url-status=live }}</ref>",
+                  "url": "https://www.namibian.com.na/selected-polling-stations-not-solving-problem-opposition-parties/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Petersen |first=Shelleygan |date=29 November 2024 |title=President Mbumba's election extension proclamation unlawful – lawyer |url=https://www.namibian.com.na/president-mbumbas-election-extension-proclamation-unlawful-lawyer/ |website=The Namibian |language=en-ZA |archive-date=30 November 2024 |archive-url=https://web.archive.org/web/20241130012411/https://www.namibian.com.na/president-mbumbas-election-extension-proclamation-unlawful-lawyer/ |url-status=live }}</ref>",
+                  "url": "https://www.namibian.com.na/president-mbumbas-election-extension-proclamation-unlawful-lawyer/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=29 November 2024 |title=UNCONSTITUTIONAL EXTENSION |url=https://www.facebook.com/ObserverNamibia/posts/pfbid02vXmLd5brHtu7oj7z9ZT8pMxxnM8SF5PsSJigZ7Hysc6AP918N8VVCaJgondW4T2sl |archive-url=https://ghostarchive.org/archive/20241129141103/https://www.facebook.com/ObserverNamibia/posts/pfbid02vXmLd5brHtu7oj7z9ZT8pMxxnM8SF5PsSJigZ7Hysc6AP918N8VVCaJgondW4T2sl |archive-date=29 November 2024 |website=Facebook – Windhoek Observer |url-status=live }}</ref>",
+                  "url": "https://www.facebook.com/ObserverNamibia/posts/pfbid02vXmLd5brHtu7oj7z9ZT8pMxxnM8SF5PsSJigZ7Hysc6AP918N8VVCaJgondW4T2sl",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":2\">{{Cite web |last=Petersen |first=Shelleygan |date=29 November 2024 |title=AU election observers say ECN is causing confusion with election extension |url=https://www.namibian.com.na/au-election-observers-say-ecn-is-causing-confusion-with-election-extension/ |website=The Namibian |language=en-ZA}}</ref>",
+                  "url": "https://www.namibian.com.na/au-election-observers-say-ecn-is-causing-confusion-with-election-extension/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=AFP>{{Cite news |date=30 November 2024 |title=Africa Namibia opposition leader says party will not recognize vote |url=https://www.voanews.com/a/namibia-opposition-leader-says-party-will-not-recognize-vote/7882916.html |work=VOA |publisher=Agence France-Presse|AFP|language=en-GB}}</ref>",
+                  "url": "https://www.voanews.com/a/namibia-opposition-leader-says-party-will-not-recognize-vote/7882916.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "5.s2",
+              "text": "On 29 November, the ECN extended voting until the night of 30 November. The IPC alleged that this extension was illegal and accused SWAPO of committing fraud. Election monitors, consisting of southern African human rights lawyers, claimed that delays were intentional. Panduleni Itula declared that \"the IPC shall not recognize the outcome of that election.\" and announced plans to file legal challenges.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=29 November 2024 |title=Namibia's decision to extend election voting due to technical issues draws opposition complaints |url=https://apnews.com/article/namibia-elections-voting-extended-unlawful-ballot-papers-c58e33663afeac619c0543ba6bd8445f |website=AP News |language=en}}</ref>",
+                  "url": "https://apnews.com/article/namibia-elections-voting-extended-unlawful-ballot-papers-c58e33663afeac619c0543ba6bd8445f",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=AFP/> The opposition refused to recognise the results<ref>{{Cite web |date=1 December 2024 |title=Namibia election: Opposition candidate Itula refuses to recognise poll result |url=https://www.bbc.co.uk/news/articles/cjdld7xljk7o |access-date=1 December 2024 |website=BBC News |language=en-GB}}</ref>",
+                  "url": "https://www.bbc.co.uk/news/articles/cjdld7xljk7o",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2 December 2024 |title=Namibia's female VP leads in presidential election marred by problems and opposition complaints |url=https://apnews.com/article/namibia-presidential-election-early-count-e7f3cbb5538a837798c2a3368e177f96 |website=AP News |language=en}}</ref>",
+                  "url": "https://apnews.com/article/namibia-presidential-election-early-count-e7f3cbb5538a837798c2a3368e177f96",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s3",
+              "text": "A preliminary investigation by the AU carried out on 29 November did not find evidence of election misconduct.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Kodjo |first=Tchioffo |title=PRELIMINARY STATEMENT: African Union Election Observation Mission to the Republic of Namibia, 27 November General Elections, Windhoek, 29 November 2024 |url=https://www.peaceau.org/en/article/preliminary-statement-2 |access-date=1 December 2024 |website=African Union, Peace and Security Department |language=en}}</ref>",
+                  "url": "https://www.peaceau.org/en/article/preliminary-statement-2",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s4",
+              "text": "On 3 December, the ECN declared Netumbo Nandi-Ndaitwah the winner of the election.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Savage |first=Rachel |title=Namibia elects its first female president in disputed elections |url=https://www.theguardian.com/world/2024/dec/03/namibia-elects-its-first-female-president-in-disputed-elections |access-date=4 December 2024 |website=The Guardian|language=en}}</ref>",
+                  "url": "https://www.theguardian.com/world/2024/dec/03/namibia-elects-its-first-female-president-in-disputed-elections",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Results",
+      "content": [
+        {
+          "id": "6.1",
+          "title": "President",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "National Assembly",
+          "content": [
+            {
+              "sentences": []
+            },
+            {
+              "id": "6.2.2",
+              "title": "By constituency",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "On 3 December 2024, Nandi-Ndaitwah was declared the victor with 57% of the vote, She became the first woman to be elected as president of Namibia",
+              "references": [
+                {
+                  "text": "<ref name=\"F24\" /><ref name=\"3decaj\" /> avoiding a runoff election which was predicted to occur.<ref name=\"ap3dec\">{{cite news |title=Namibia will have its first female leader after VP wins presidential election for the ruling party |url=https://apnews.com/article/namibia-election-female-leader-president-8ea8783e1aa56ea20d65970e87adc313 |access-date=4 December 2024 |work=AP News |date=3 December 2024 |language=en}}</ref>",
+                  "url": "https://apnews.com/article/namibia-election-female-leader-president-8ea8783e1aa56ea20d65970e87adc313",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"dw3dec\">{{cite news |title=Namibia elects Nandi-Ndaitwah as first woman president |url=https://www.dw.com/en/namibia-elects-nandi-ndaitwah-as-first-woman-president/a-70952442 |access-date=4 December 2024 |work=DW |date=3 December 2024 |language=en}}</ref>",
+                  "url": "https://www.dw.com/en/namibia-elects-nandi-ndaitwah-as-first-woman-president/a-70952442",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"nhongo\" /><ref name=\"F24\">{{cite news |title=Namibia elects its first woman president |url=https://www.france24.com/en/live-news/20241203-namibia-elects-its-first-woman-president |access-date=4 December 2024 |work=France 24 |agency=AFP-Agence France Presse |date=3 December 2024 |language=en}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20241203-namibia-elects-its-first-woman-president",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"zane\" /> and will be one of two women presidents in Africa, alongside Samia Suluhu Hassan of Tanzania.<ref name=\"zane\" /> In a speech to supporters, Nandi-Ndaitwah stated \"the Namibian nation has voted for peace and stability.\"<ref name=\"dw3dec\" /><ref name=\"ap3dec\" /> The results showed the weakest showing for SWAPO since Namibia's independence, with the party barely receiving a majority in parliament.<ref name=\"nhongo\" /><ref name=\"ap3dec\" /><ref name=\"dw3dec\" /> ''Bloomberg News|Bloomberg'' identified the result as \"broad policy continuity in a nation that's on the verge of becoming a major hydrocarbons producer\", noting the recent discovery of offshore deposits in the Orange Basin.<ref name=\"nhongo\">{{cite news |last1=Nhongo |first1=Kaula |title=Namibia Ruling Party Retains Power in Worst Election Showing |url=https://www.bloomberg.com/news/articles/2024-12-03/namibia-elections-ruling-party-retains-power-despite-slide-in-support |access-date=4 December 2024 |work=Bloomberg |date=3 December 2024 |language=en}}</ref>",
+                  "url": "https://www.bloomberg.com/news/articles/2024-12-03/namibia-elections-ruling-party-retains-power-despite-slide-in-support",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "7.s2",
+              "text": "Panduleni Itula, the second-place candidate, declared that there was a \"multitude of irregularities\" and would \"fight... to nullify the elections through the processes that are established within our electoral process.\" Itula criticized the opening of only selective polling stations, which may have prevented thousands of voters from casting their vote.",
+              "references": [
+                {
+                  "text": "<ref name=\"F24\" /> Opposition parties pledged to challenge the election extension in court.<ref name=\"3decaj\">{{cite news |title=Namibia elects country's first woman president |url=https://www.aljazeera.com/news/2024/12/3/namibia-elects-nandi-ndaitwah-as-countrys-first-woman-president |access-date=4 December 2024 |work=Al Jazeera |date=3 December 2024 |language=en}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2024/12/3/namibia-elects-nandi-ndaitwah-as-countrys-first-woman-president",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2024-12-01 |title=Namibia election: Opposition candidate Itula refuses to recognise poll result |url=https://www.bbc.com/news/articles/cjdld7xljk7o.amp |access-date=2024-12-06 |website=BBC News |language=en-gb}}</ref>",
+                  "url": "https://www.bbc.com/news/articles/cjdld7xljk7o.amp",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"ap3dec\" /> The opposition parties boycotted the announcement of the official results that took place in Windhoek.<ref name=\"zane\">{{cite news |last1=Zane |first1=Damian |title=Namibia election: Swapo's Netumbo Nandi-Ndaitwah elected first female president |url=https://www.bbc.com/news/articles/c5yx0r14jrmo |access-date=4 December 2024 |work=BBC |agency=BBC News |date=3 December 2024}}</ref>",
+                  "url": "https://www.bbc.com/news/articles/c5yx0r14jrmo",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"ap3dec\" /> Calls for a repeat of the election by the opposition was rejected by the ECN.<ref name=\"ap3dec\" /> The Forum of German-Speaking Namibians noted that doubts caused by the extension can lead to governmental distrust, and \"it is in the hands of the ECN to avoid this slippery path to chaos and violence.\"<ref name=\"mumbuu\">{{cite news |last1=Mumbuu |first1=Edward |title=ECN slammed over electoral conduct |url=https://neweralive.na/ecn-slammed-over-electoral-conduct/ |access-date=4 December 2024 |work=New Era Live |date=2 December 2024}}</ref>",
+                  "url": "https://neweralive.na/ecn-slammed-over-electoral-conduct/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "7.s3",
+              "text": "On 13 December, the Namibian electoral court ordered the ECN to allow the IPC and the LPM to obtain access to electoral data as part of their electoral protest. On 28 February 2025, the Supreme Court of Namibia ruled that the voting extension was valid and rejected the IPC's protest.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Nambian court grants opposition parties access to election data |url=https://www.africanews.com/2024/12/13/nambian-court-grants-opposition-parties-access-to-election-data/ |access-date=13 December 2024 |work=Africanews |date=13 December 2024}}</ref>",
+                  "url": "https://www.africanews.com/2024/12/13/nambian-court-grants-opposition-parties-access-to-election-data/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Namibia: Supreme Court throws out challenge to presidential election result |url=https://www.africanews.com/2025/02/28/namibia-supreme-court-throws-out-challenge-to-presidential-election-result/ |access-date=1 March 2025 |work=Africanews |date=28 February 2025}}</ref>",
+                  "url": "https://www.africanews.com/2025/02/28/namibia-supreme-court-throws-out-challenge-to-presidential-election-result/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

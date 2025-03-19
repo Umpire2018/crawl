@@ -18,7 +18,7 @@ async def main():
         links = get_yearly_events_links(year)
         save_to_db(links, year)
 
-    links = get_first_n_links(year, n=50)
+    links = get_first_n_links(year, n=120)
 
     fetch_and_save_wikitext(links)
 

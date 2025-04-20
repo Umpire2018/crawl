@@ -1,0 +1,772 @@
+{
+  "title": "2023_Cricket_World_Cup",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "A total of 1,250,307 spectators attended the matches, the highest number in any Cricket World Cup to date. The tournament final set viewership records in India, drawing 518 million viewers, with a peak of 57 million streaming viewers.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=2023 ODI World Cup shatters viewership records |url=https://www.espncricinfo.com/story/2023-odi-world-cup-shatters-viewership-records-1410361 |access-date=2024-02-15 |website=ESPNcricinfo |language=en}}</ref>",
+                  "url": "https://www.espncricinfo.com/story/2023-odi-world-cup-shatters-viewership-records-1410361",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "id": "2.1",
+          "title": "Host selection",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.1.s1",
+                  "text": "On 11 December 2017, India was announced by the ICC as hosts of the 2023 Cricket World Cup; while India had served as a co-host during three previous tournaments (most recently in 2011 Cricket World Cup|2011, which it co-hosted with Sri Lanka and Bangladesh), it would mark the first Cricket World Cup to be hosted solely by India.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=2017-12-11 |title=India to host 2023 World Cup, Champions Trophy in 2021 |url=https://indianexpress.com/article/sports/cricket/india-to-host-2023-world-cup-champions-trophy-in-2021/ |access-date=2024-02-15 |website=The Indian Express |language=en}}</ref>",
+                      "url": "https://indianexpress.com/article/sports/cricket/india-to-host-2023-world-cup-champions-trophy-in-2021/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.2",
+          "title": "COVID-19 pandemic",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.2.s1",
+                  "text": "{{further|Impact of the COVID-19 pandemic on cricket}}\nOriginally, the competition was to be played from 9 February to 26 March 2023. In July 2020 it was announced that due to the disruption of the qualification schedule by the Impact of the COVID-19 pandemic on cricket|COVID-19 pandemic, the start of the tournament would be delayed to October. The ICC released the tournament schedule on 27 June 2023.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |date=13 June 2013 |title=Outcomes from ICC Annual Conference week in London |url=https://www.icc-cricket.com/news/178260 |url-status=live |archive-url=https://web.archive.org/web/20171014183257/https://www.icc-cricket.com/news/178260 |archive-date=14 October 2017 |website=International Cricket Council|ICC |location=Dubai |publisher=International Cricket Council |access-date=22 June 2017}}</ref>",
+                      "url": "https://www.icc-cricket.com/news/index",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"Dates\">{{cite web |title=IPL now has window in ICC Future Tours Programme |url=http://www.espncricinfo.com/story/_/id/21746867/ipl-now-window-icc-future-tours-programme |access-date=12 December 2017 |work=ESPNcricinfo |date=12 December 2017 |archive-date=25 December 2018 |archive-url=https://web.archive.org/web/20181225011853/http://www.espncricinfo.com/story/_/id/21746867/ipl-now-window-icc-future-tours-programme%20 |url-status=live }}</ref>",
+                      "url": "http://www.espncricinfo.com/story/_/id/21746867/ipl-now-window-icc-future-tours-programme",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"icc_postpone\">{{cite news |date=20 July 2020 |title=ICC postpones T20 World Cup due to Covid-19 pandemic |work=ESPNcricinfo |url=https://www.espncricinfo.com/story/_/id/29502051/icc-postpones-t20-world-cup-due-covid-19-pandemic |access-date=20 July 2020 |archive-date=23 October 2022 |archive-url=https://web.archive.org/web/20221023031651/https://www.espncricinfo.com/story/icc-postpones-t20-world-cup-due-to-covid-19-pandemic-1227275 |url-status=live }}</ref>",
+                      "url": "https://www.espncricinfo.com/story/_/id/29502051/icc-postpones-t20-world-cup-due-covid-19-pandemic",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite press release |date=20 July 2020 |title=Men's T20 World Cup postponed |url=https://www.icc-cricket.com/media-releases/1733391 |url-status=live |archive-url=https://web.archive.org/web/20200720144300/https://www.icc-cricket.com/media-releases/1733391 |archive-date=20 July 2020 |location=Dubai |publisher=ICC |access-date=20 July 2020}}</ref>",
+                      "url": "https://www.icc-cricket.com/news/index",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "press"
+                    },
+                    {
+                      "text": "<ref name=\"Fixtures\" /><ref>{{Cite news |date=27 June 2023 |title=ICC Cricket World Cup 2023 Schedule Announced: India vs Pakistan on October 15 in Ahmedabad |work=Latestly |url=https://www.latestly.com/sports/cricket/icc-cricket-world-cup-2023-schedule-announced-india-vs-pakistan-on-october-15-in-ahmedabad-5228664.html |access-date=27 June 2023 |archive-date=27 June 2023 |archive-url=https://web.archive.org/web/20230627081441/https://www.latestly.com/sports/cricket/icc-cricket-world-cup-2023-schedule-announced-india-vs-pakistan-on-october-15-in-ahmedabad-5228664.html |url-status=live }}</ref>",
+                      "url": "https://www.latestly.com/sports/cricket/icc-cricket-world-cup-2023-schedule-announced-india-vs-pakistan-on-october-15-in-ahmedabad-5228664.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.3",
+          "title": "Format",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.3.s1",
+                  "text": "This was the first ICC World Cup in which penalties for slow over-rates were given to bowling sides if they did not complete their 50 overs in the stipulated time. On-field umpires could penalise the bowling team by not allowing more than four fielders outside the 30-yard circle.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web|url=https://www.espncricinfo.com/story/icc-slow-over-rate-penalty-extra-fielder-inside-circle-to-be-introduced-in-odis-too-1335639|title=Slow over-rate penalty – extra fielder inside circle to be introduced in ODIs too|work=ESPNcricinfo|access-date=24 October 2023|archive-date=16 July 2023|archive-url=https://web.archive.org/web/20230716150110/https://www.espncricinfo.com/story/icc-slow-over-rate-penalty-extra-fielder-inside-circle-to-be-introduced-in-odis-too-1335639|url-status=live}}</ref>",
+                      "url": "https://www.espncricinfo.com/story/icc-slow-over-rate-penalty-extra-fielder-inside-circle-to-be-introduced-in-odis-too-1335639",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.4",
+          "title": "Pakistan's participation",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.4.s1",
+                  "text": "The Pakistan Cricket Board (PCB) had threatened to boycott the tournament after the Board of Control for Cricket in India (BCCI) refused to send a team to the 2023 Asia Cup scheduled in Pakistan. This issue was resolved in June 2023 after the Asian Cricket Council announced that the tournament would be hosted using a hybrid model proposed by the PCB, with nine of the 13 matches in the competition played in Sri Lanka.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |date=19 October 2022 |title=Pakistan could boycott 2023 50-over World Cup over India's Asia Cup stance |url=https://www.skysports.com/cricket/news/12123/12724526/pakistan-could-boycott-2023-50-over-world-cup-over-indias-asia-cup-stance |access-date=7 May 2023 |archive-date=9 May 2023 |archive-url=https://web.archive.org/web/20230509024541/https://www.skysports.com/amp/cricket/news/12123/12724526/pakistan-could-boycott-2023-50-over-world-cup-over-indias-asia-cup-stance |url-status=live }}</ref>",
+                      "url": "https://www.skysports.com/cricket/news/12123/12724526/pakistan-could-boycott-2023-50-over-world-cup-over-indias-asia-cup-stance",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |date=11 April 2023 |title=India-Pakistan spat threatens Cricket World Cup |url=https://asia.nikkei.com/Spotlight/Sports/India-Pakistan-spat-threatens-Cricket-World-Cup |access-date=7 May 2023 |archive-date=23 October 2023 |archive-url=https://web.archive.org/web/20231023211932/https://asia.nikkei.com/Spotlight/Sports/India-Pakistan-spat-threatens-Cricket-World-Cup |url-status=live }}</ref>",
+                      "url": "https://asia.nikkei.com/Spotlight/Sports/India-Pakistan-spat-threatens-Cricket-World-Cup",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=2023 Asia Cup likely in Pakistan and one other overseas venue for India games |url=https://www.espncricinfo.com/story/2023-asia-cup-likely-in-pakistan-and-one-other-overseas-venue-for-ind-vs-pak-1365046 |url-status=live |archive-url=https://web.archive.org/web/20230324105545/https://www.espncricinfo.com/story/2023-asia-cup-likely-in-pakistan-and-one-other-overseas-venue-for-ind-vs-pak-1365046 |archive-date=24 March 2023 |access-date=24 March 2023 |work=ESPNcricinfo}}</ref>",
+                      "url": "https://www.espncricinfo.com/story/2023-asia-cup-likely-in-pakistan-and-one-other-overseas-venue-for-ind-vs-pak-1365046",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=15 June 2023 |title=Asia Cup 2023 to be played in Pakistan and Sri Lanka as ACC accepts hybrid model |url=https://www.hindustantimes.com/cricket/asia-cup-2023-to-be-played-in-pakistan-and-sri-lanka-as-acc-accepts-hybrid-model-101686826326531.html |access-date=27 June 2023 |website=Hindustan Times |archive-date=20 August 2023 |archive-url=https://web.archive.org/web/20230820071134/https://www.hindustantimes.com/cricket/asia-cup-2023-to-be-played-in-pakistan-and-sri-lanka-as-acc-accepts-hybrid-model-101686826326531.html |url-status=live }}</ref>",
+                      "url": "https://www.hindustantimes.com/cricket/asia-cup-2023-to-be-played-in-pakistan-and-sri-lanka-as-acc-accepts-hybrid-model-101686826326531.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.5",
+          "title": "Prize money",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.5.s1",
+                  "text": "The ICC allocated a pool of US$10 million in prize money for the tournament, with payouts remaining the same as the 2019 and 2015 tournaments. Australia, the winning team, received US$4,000,000, the runner-up $2,000,000 and the losing semi-finalists $1,600,000. Teams that did not progress past the league stage received $100,000 and the winner of each league stage match received $40,000.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|last=Rajput|first=Tanisha|title=World Cup 2023 Full Squads: Check date, time, teams, venue, schedule and all you need to know|url=https://www.wionews.com/sports/world-cup-2023-full-squads-check-full-schedule-date-time-teams-venue-and-all-you-need-to-know-632858|work=Wi|date=6 September 2023|access-date=6 September 2023|archive-date=6 September 2023|archive-url=https://web.archive.org/web/20230906165852/https://www.wionews.com/sports/world-cup-2023-full-squads-check-full-schedule-date-time-teams-venue-and-all-you-need-to-know-632858|url-status=live}}</ref>",
+                      "url": "https://www.wionews.com/sports/world-cup-2023-full-squads-check-full-schedule-date-time-teams-venue-and-all-you-need-to-know-632858",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last=Dutta |first=Rishab |date=3 September 2023 |title=ICC World Cup 2023 Schedule, Teams, Venues, Prize Money, And Broadcast Channel |url=https://www.sportsganga.com/mens-cricket-world-cup/icc-world-cup-2023-schedule-teams-venues-prize-money-and-broadcast-channel/ |access-date=6 September 2023 |work=Sportsganga |archive-date=6 September 2023 |archive-url=https://web.archive.org/web/20230906165852/https://www.sportsganga.com/mens-cricket-world-cup/icc-world-cup-2023-schedule-teams-venues-prize-money-and-broadcast-channel/ |url-status=live }}</ref>",
+                      "url": "https://www.sportsganga.com/mens-cricket-world-cup/icc-world-cup-2023-schedule-teams-venues-prize-money-and-broadcast-channel/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.6",
+          "title": "Marketing",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.6.s1",
+                  "text": "The ICC hosted a trophy tour for 100 days prior to the tournament beginning 27 June, with the Cricket World Cup Trophy being taken to various locations around the world. The event began with the launching of the trophy into the stratosphere by Sent Into Space and landing at Modi Stadium—becoming the first sports trophy to have ever been sent into space. The ICC officially announced the mascots for the World Cup in August. The mascots were a male and female duo named \"Tonk\" and \"Blaze\" from the fictional cricketing utopia \"Crictoverse\".",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=2023-06-27 |title='Out of this world': In a first, ODI World Cup trophy tours space |url=https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/out-of-this-world-in-a-first-odi-world-cup-trophy-tours-space/articleshow/101285812.cms |access-date=2024-02-15 |work=The Times of India |issn=0971-8257}}</ref>",
+                      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/out-of-this-world-in-a-first-odi-world-cup-trophy-tours-space/articleshow/101285812.cms",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=2023-08-19 |title=WATCH: ICC unveils mascots for ICC ODI World Cup 2023, fans to vote on names |work=The Times of India |url=https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/watch-icc-unveils-mascots-for-icc-odi-world-cup-2023-fans-to-vote-on-names/articleshow/102860447.cms?from=mdr |access-date=2023-08-20 |issn=0971-8257 |archive-date=20 August 2023 |archive-url=https://web.archive.org/web/20230820001420/https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/watch-icc-unveils-mascots-for-icc-odi-world-cup-2023-fans-to-vote-on-names/articleshow/102860447.cms?from=mdr |url-status=live }}</ref>",
+                      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/watch-icc-unveils-mascots-for-icc-odi-world-cup-2023-fans-to-vote-on-names/articleshow/102860447.cms?from=mdr",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=30 September 2023 |title=Names of ICC mascots revealed ahead of World Cup |url=https://www.icc-cricket.com/news/3705587 |access-date=30 September 2023 |website=International Cricket Council |archive-date=8 October 2023 |archive-url=https://web.archive.org/web/20231008074754/https://www.icc-cricket.com/news/3705587 |url-status=live }}</ref>",
+                      "url": "https://www.icc-cricket.com/news/index",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.6.s2",
+                  "text": "Ahead of the tournament, it was reported that an opening ceremony would take place on 4 October 2023 at the Narendra Modi Stadium in Ahmedabad, a day before the opening match at the same venue. The official theme song of the 2023 Cricket World Cup titled \"Dil Jashn Bole\" ({{Translation|Heart say celebrate}}) was released on 20 September. The song was composed by Pritam, and was sung by Pritam, Nakash Aziz, Sreerama Chandra, Amit Mishra (singer)|Amit Mishra, Jonita Gandhi, Akasa Singh and S. P. Charan. However, the song was subject to backlash and bad reviews. The opening ceremony was cancelled and replaced by a closing ceremony ahead of the final. During this a Drone art|drone show was held.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Banerjee |first=Krishnendu |date=2023-08-27 |title=World Cup Opening Ceremony on Oct 4, Motera Stadium to host ICC Captains Day |url=https://www.insidesport.in/cricket-world-cup-2023-opening-ceremony-on-oct-4-narendra-modi-stadium-to-host-captains-day/ |access-date=2023-08-28 |website=Inside Sport India |language=en-US |archive-date=28 August 2023 |archive-url=https://web.archive.org/web/20230828024120/https://www.insidesport.in/cricket-world-cup-2023-opening-ceremony-on-oct-4-narendra-modi-stadium-to-host-captains-day/ |url-status=live }}</ref>",
+                      "url": "https://www.insidesport.in/cricket/cricket-world-cup-2023-opening-ceremony-on-oct-4-narendra-modi-stadium-to-host-captains-day/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |title=Ranveer Singh and Pritam team up as Official Cricket World Cup 2023 anthem is released |url=https://www.icc-cricket.com/news/3691599 |access-date=20 September 2023 |work=International Cricket Council |archive-date=1 October 2023 |archive-url=https://web.archive.org/web/20231001100014/https://www.icc-cricket.com/news/3691599 |url-status=live }}</ref>",
+                      "url": "https://www.icc-cricket.com/news/index",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |date=20 September 2023 |title=ICC roasted as fans reject World Cup 2023 anthem minutes after its launch |language=en |work=Hindustan Times |url=https://www.hindustantimes.com/cricket/icc-roasted-as-fans-reject-world-cup-2023-anthem-minutes-after-its-launch-101695199283083.html |access-date=25 September 2023 |archive-date=2 October 2023 |archive-url=https://web.archive.org/web/20231002110512/https://www.hindustantimes.com/cricket/icc-roasted-as-fans-reject-world-cup-2023-anthem-minutes-after-its-launch-101695199283083.html |url-status=live }}</ref>",
+                      "url": "https://www.hindustantimes.com/cricket/icc-roasted-as-fans-reject-world-cup-2023-anthem-minutes-after-its-launch-101695199283083.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|url=https://www.independent.co.uk/sport/cricket/icc-cricket-world-cup-opening-ceremony-b2423578.html|title=Will there be an opening ceremony for the ICC Cricket World Cup 2023?|work=The Independent|first=Sakshi|last=Gupta|date=4 October 2023|access-date=4 October 2023|archive-date=10 October 2023|archive-url=https://web.archive.org/web/20231010024324/https://www.independent.co.uk/sport/cricket/icc-cricket-world-cup-opening-ceremony-b2423578.html|url-status=live}}</ref>",
+                      "url": "https://www.independent.co.uk/sport/cricket/icc-cricket-world-cup-opening-ceremony-b2423578.html",
+                      "status_code": 405,
+                      "reason": "Not allowed.",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web |agency=ANI |date=17 November 2023 |title=PM Modi, Australia's Deputy Prime Minister Richard Marles to attend India-Australia World Cup final |url=https://www.hindustantimes.com/cricket/pm-modi-australia-s-deputy-prime-minister-richard-marles-to-attend-india-australia-world-cup-final-101700234201652.html |url-status=live |archive-url=https://web.archive.org/web/20231118155141/https://www.hindustantimes.com/cricket/pm-modi-australia-s-deputy-prime-minister-richard-marles-to-attend-india-australia-world-cup-final-101700234201652.html |archive-date=18 November 2023 |access-date=19 November 2023 |website=Hindustan Times}}</ref>",
+                      "url": "https://www.hindustantimes.com/cricket/pm-modi-australia-s-deputy-prime-minister-richard-marles-to-attend-india-australia-world-cup-final-101700234201652.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last=Malhotra |first=Sahil |date=18 November 2023 |title=Salute from the Skies, Parade of Champions, Drone Show and More… : World Cup Final Set to be a Grand Spectacle |url=https://www.news18.com/cricket/salute-from-the-skies-parade-of-champions-drone-show-and-more-world-cup-final-set-to-be-a-grand-spectacle-8666352.html |url-status=live |archive-url=https://web.archive.org/web/20231118155735/https://www.news18.com/cricket/salute-from-the-skies-parade-of-champions-drone-show-and-more-world-cup-final-set-to-be-a-grand-spectacle-8666352.html |archive-date=18 November 2023 |access-date=18 November 2023 |website=News18 India|News18}}</ref>",
+                      "url": "https://www.news18.com/cricket/salute-from-the-skies-parade-of-champions-drone-show-and-more-world-cup-final-set-to-be-a-grand-spectacle-8666352.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Qualification",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "As a result of the qualifying process, the competition was the first not to include former winners West Indies cricket team|West Indies, who failed to progress for the first time after their defeat to Scotland national cricket team|Scotland. The final qualification spot was decided by an eliminator match between associate members Scotland and Netherlands national cricket team|the Netherlands, with the Dutch side taking the final place.",
+              "references": [
+                {
+                  "text": "<ref name=\"Witney-6Jul2023\" /> Full members Ireland cricket team|Ireland and Zimbabwe national cricket team|Zimbabwe also missed out on qualification, meaning three of the four List of International Cricket Council members#Full Members|full members who took part in the knock-out qualification stage did not qualify, with only Sri Lanka national cricket team|Sri Lanka progressing.<ref name=\"AP-6Jul23\">{{cite web |date=2 July 2023 |title=Sri Lanka qualifies for Cricket World Cup; Zimbabwe, Scotland to scrap it out for final place |url=https://apnews.com/article/cricket-world-cup-sri-lanka-e33210704673c6c856a807b9edb8b506 |url-status=live |archive-url=https://web.archive.org/web/20230706194722/https://apnews.com/article/cricket-world-cup-sri-lanka-e33210704673c6c856a807b9edb8b506 |archive-date=6 July 2023 |website=AP News |location=New York |publisher=Associated Press |access-date=6 July 2023}}</ref>",
+                  "url": "https://apnews.com/article/cricket-world-cup-sri-lanka-e33210704673c6c856a807b9edb8b506",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |date=1 July 2023 |title=West Indies Officially Eliminated from 2023 World Cup Race After Thumping Loss to Scotland in Historic Low |url=https://www.wisden.com/series-stories/world-cup-qualifier-2023/west-indies-officially-eliminated-from-2023-world-cup-race-after-thumping-loss-to-scotland-in-historic-low-cwc-qualifier/ |url-status=live |archive-url=https://web.archive.org/web/20230704202304/https://wisden.com/series-stories/world-cup-qualifier-2023/west-indies-officially-eliminated-from-2023-world-cup-race-after-thumping-loss-to-scotland-in-historic-low-cwc-qualifier |archive-date=4 July 2023 |website=Wisden Cricketers' Almanack|Wisden |location=London |publisher=Bloomsbury |access-date=4 July 2023}}</ref>",
+                  "url": "https://www.wisden.com/series-stories/world-cup-qualifier-2023/west-indies-officially-eliminated-from-2023-world-cup-race-after-thumping-loss-to-scotland-in-historic-low-cwc-qualifier/",
+                  "status_code": 410,
+                  "reason": "Gone",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Witney-6Jul2023\">{{cite web |last=Witney |first=Katya |date=6 July 2023 |title=CWC Qualifier 2023: Netherlands qualify for World Cup at Scotland's expense after stunning Bas de Leede heist |url=https://www.wisden.com/series-stories/world-cup-qualifier-2023/cwc-qualifier-2023-netherlands-qualify-world-cup-bas-de-leede |url-status=live |archive-url=https://web.archive.org/web/20230709130252/https://wisden.com/series-stories/world-cup-qualifier-2023/cwc-qualifier-2023-netherlands-qualify-world-cup-bas-de-leede |archive-date=9 July 2023 |website=Wisden |location=London |publisher=Bloomsbury |access-date=9 July 2023}}</ref>",
+                  "url": "https://www.wisden.com/series-stories/world-cup-qualifier-2023/cwc-qualifier-2023-netherlands-qualify-world-cup-bas-de-leede",
+                  "status_code": 410,
+                  "reason": "Gone",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Venues",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "The BCCI provided funding for renovations and refurbishments at stadiums. Himachal Pradesh Cricket Association Stadium received a new grass surface, drainage system, seating, and hospitality boxes. Wankhede Stadium had upgrades to the outfield, floodlights, corporate boxes, and toilets. M. A. Chidambaram Stadium installed new floodlights and relaid two wickets.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=30 June 2023 |title=Cricket World Cup venues to get an upgrade: Imported grass, new outfields, better floodlights |url=https://indianexpress.com/article/sports/cricket/cricket-world-cup-venues-to-get-an-upgrade-imported-grass-new-outfields-better-floodlights-8693468/ |access-date=30 June 2023 |website=The Indian Express |archive-date=11 July 2023 |archive-url=https://web.archive.org/web/20230711043931/https://indianexpress.com/article/sports/cricket/cricket-world-cup-venues-to-get-an-upgrade-imported-grass-new-outfields-better-floodlights-8693468/ |url-status=live }}</ref>",
+                  "url": "https://indianexpress.com/article/sports/cricket/cricket-world-cup-venues-to-get-an-upgrade-imported-grass-new-outfields-better-floodlights-8693468/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "With the autumn scheduling of this World Cup, the ICC instituted protocols for reducing the impact of moisture—including dew and rain—on pitch conditions, so that they did not give the team batting second an advantage (as had frequently occurred in the 2021 ICC Men's T20 World Cup|2021 Men's T20 World Cup). These included using a specific wetting agent, and the boundary set at around {{Convert|70|m|yds|abbr=in}} at each stadium, with more grass on the pitch to encourage seam bowling over spin bowling.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |date=20 September 2023 |title=ODI World Cup: More grass, bigger boundaries to tackle dew factor |work=The Times of India |url=https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/odi-world-cup-more-grass-bigger-boundaries-to-tackle-dew-factor/articleshow/103795737.cms?from=mdr |access-date=5 October 2023 |issn=0971-8257 |archive-date=30 September 2023 |archive-url=https://web.archive.org/web/20230930191203/https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/odi-world-cup-more-grass-bigger-boundaries-to-tackle-dew-factor/articleshow/103795737.cms?from=mdr |url-status=live }}</ref>",
+                  "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/odi-world-cup-more-grass-bigger-boundaries-to-tackle-dew-factor/articleshow/103795737.cms?from=mdr",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "{| class=\"wikitable\"\n!Location\n!Stadium\n!Capacity\n!No. of matches\n|-\n|Ahmedabad\n|Narendra Modi Stadium\n|132,000\n| 5\n|-\n|Bangalore\n|M. Chinnaswamy Stadium\n|33,800\n| 5\n|-\n|Chennai\n|M. A. Chidambaram Stadium\n|38,200\n| 5\n|-\n|Delhi\n|Arun Jaitley Stadium\n|35,200\n| 5\n|-\n|Dharamshala\n|HPCA Stadium\n|21,200\n| 5\n|-\n|Hyderabad\n|Rajiv Gandhi International Cricket Stadium\n|39,200\n| 3\n|-\n|Kolkata\n|Eden Gardens\n|68,000\n| 5\n|-\n|Lucknow\n|BRSABV Ekana Cricket Stadium\n|50,100\n| 5\n|-\n|Mumbai\n|Wankhede Stadium\n|33,100\n| 5\n|-\n|Pune\n|Maharashtra Cricket Association Stadium\n|42,700\n| 5\n|}",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |title=ICC Men's Cricket World Cup 2023 – Media Guide |url=https://resources.pulse.icc-cricket.com/ICC/document/2023/11/03/278e3b3a-d6cb-4511-b7df-75fc1428f096/ICC-Men-s-Cricket-World-Cup-2023-Media-Guide-v7.pdf |publisher=ICC |access-date=19 November 2023 |archive-date=20 November 2023 |archive-url=https://web.archive.org/web/20231120033125/https://resources.pulse.icc-cricket.com/ICC/document/2023/11/03/278e3b3a-d6cb-4511-b7df-75fc1428f096/ICC-Men-s-Cricket-World-Cup-2023-Media-Guide-v7.pdf |url-status=live }}</ref>",
+                  "url": "https://resources.pulse.icc-cricket.com/ICC/document/2023/11/03/278e3b3a-d6cb-4511-b7df-75fc1428f096/ICC-Men-s-Cricket-World-Cup-2023-Media-Guide-v7.pdf",
+                  "status_code": null,
+                  "reason": "Cannot connect to host resources.pulse.icc-cricket.com:443 ssl:default [DNS server returned answer with no data]",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Squads",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "{{main|2023 Cricket World Cup squads}}\nAll teams were asked to finalise their 15-player squads prior to 28 September, with any replacements after this date requiring approval from the ICC. All squads were announced by 26 September 2023. The oldest player of the tournament was Dutch player Wesley Barresi, who was 39 years old, while the youngest was Afghan spinner Noor Ahmad, who was 18.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|url=https://www.icc-cricket.com/news/3619358|title=ICC World Cup 2023: All the squads for ICC Men's Cricket World Cup 2023|website=ICC|date=7 August 2023|access-date=7 August 2023|archive-url=https://web.archive.org/web/20200208023122/https://www.icc-cricket.com/news/3619358|archive-date=8 February 2020|url-status=live}}</ref>",
+                  "url": "https://www.icc-cricket.com/news/index",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |access-date=26 September 2023 |title=All the squads for ICC Men's Cricket World Cup 2023 |url=https://www.cricketworldcup.com/news/3619358?sf182238836=1 |work=International Cricket Council |archive-date=4 October 2023 |archive-url=https://web.archive.org/web/20231004085421/https://www.cricketworldcup.com/news/3619358?sf182238836=1 |url-status=live }}</ref>",
+                  "url": "https://www.icc-cricket.com/tournaments/cricketworldcup?sf182238836=1",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |title=ICC World Cup 2023: Youngest and oldest squads and players in the tournament |url=https://sportstar.thehindu.com/cricket/icc-cricket-world-cup/youngest-oldest-player-team-average-age-odi-world-cup-2023-noor-ahmad-barresi-england-afghanistan-india-sri-lanka/article67377522.ece |website=Sportstar |access-date=8 October 2023 |language=en |date=4 October 2023 |archive-date=10 October 2023 |archive-url=https://web.archive.org/web/20231010090844/https://sportstar.thehindu.com/cricket/icc-cricket-world-cup/youngest-oldest-player-team-average-age-odi-world-cup-2023-noor-ahmad-barresi-england-afghanistan-india-sri-lanka/article67377522.ece |url-status=live }}</ref>",
+                  "url": "https://sportstar.thehindu.com/cricket/icc-cricket-world-cup/youngest-oldest-player-team-average-age-odi-world-cup-2023-noor-ahmad-barresi-england-afghanistan-india-sri-lanka/article67377522.ece",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Match officials",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Warm-up matches",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "India's warm-up fixtures were announced on 27 June. The complete warm-up fixtures were announced on 23 August. The matches were broadcast live on television.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Three India cities to host official World Cup warm-up fixtures |url=https://www.icc-cricket.com/news/3647708 |access-date=2023-08-23 |website=www.icc-cricket.com |language=en |archive-date=24 August 2023 |archive-url=https://web.archive.org/web/20230824044757/https://www.icc-cricket.com/news/3647708 |url-status=live }}</ref>",
+                  "url": "https://www.icc-cricket.com/news/index",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":0\">{{Cite news |title=2023 ICC WC Full schedule, venues, time, teams and where to stream |url=https://www.thehindu.com/sport/cricket/2023-icc-odi-world-cup-in-india-full-schedule-venues-time-teams-and-where-to-stream/article67014830.ece |website=The Hindu |date=27 June 2023 |access-date=28 June 2023 |archive-date=29 June 2023 |archive-url=https://web.archive.org/web/20230629233326/https://www.thehindu.com/sport/cricket/2023-icc-odi-world-cup-in-india-full-schedule-venues-time-teams-and-where-to-stream/article67014830.ece |url-status=live }}</ref>",
+                  "url": "https://www.thehindu.com/sport/cricket/2023-icc-odi-world-cup-in-india-full-schedule-venues-time-teams-and-where-to-stream/article67014830.ece",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite web |date=27 June 2023 |title=World Cup 2023 schedule: India to play a warm-up match against England, here are venues for practice games |url=https://www.indiatvnews.com/sports/cricket/world-cup-2023-schedule-warm-up-matches-to-take-place-from-september-29-at-3-venues-including-thiruvananthapuram-2023-06-27-878105 |access-date=27 June 2023 |publisher=India TV News |archive-date=27 June 2023 |archive-url=https://web.archive.org/web/20230627110029/https://www.indiatvnews.com/sports/cricket/world-cup-2023-schedule-warm-up-matches-to-take-place-from-september-29-at-3-venues-including-thiruvananthapuram-2023-06-27-878105 |url-status=live }}</ref>",
+                  "url": "https://www.indiatvnews.com/sports/cricket/world-cup-2023-schedule-warm-up-matches-to-take-place-from-september-29-at-3-venues-including-thiruvananthapuram-2023-06-27-878105",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Group stage",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "8.s1",
+              "text": "{{main|2023 Cricket World Cup group stage}}\nThe ICC announced the World Cup schedule on 27 June 2023 at an event in Mumbai with a countdown of 100 days to the opening match of the World Cup on 5 October. The group stage started with the match between the 2019 Cricket World Cup final|finalists of the 2019 Cricket World Cup, New Zealand national cricket team|New Zealand and England cricket team|England, at Narendra Modi Stadium. On 9 August 2023, nine fixtures, including the match between India and Pakistan, were rescheduled by the ICC. The top seven teams in the tournament, excluding Pakistan who qualify automatically as host, qualified for the 2025 ICC Champions Trophy.",
+              "references": [
+                {
+                  "text": "<ref name=\"Fixtures\">{{Cite web |title=Match schedule announced for the ICC Men's Cricket World Cup 2023 |url=https://www.icc-cricket.com/news/3558110 |access-date=27 June 2023 |website=ICC Cricket |archive-date=29 September 2023 |archive-url=https://web.archive.org/web/20230929044228/https://www.icc-cricket.com/news/3558110 |url-status=live }}</ref>",
+                  "url": "https://www.icc-cricket.com/news/index",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web| url=https://www.icc-cricket.com/news/3615665| title=India v Pakistan clash among nine World Cup fixtures rescheduled| publisher=International Cricket Council| date=9 August 2023| access-date=9 August 2023| archive-date=9 August 2023| archive-url=https://web.archive.org/web/20230809140644/https://www.icc-cricket.com/news/3615665| url-status=live}}</ref>",
+                  "url": "https://www.icc-cricket.com/news/index",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Pakistan to host 2025 Champions Trophy, announces ICC |url=https://www.dawn.com/news/1658449/pakistan-to-host-2025-champions-trophy-announces-icc |work=Dawn |date=16 November 2021 |access-date=1 November 2023 |archive-date=12 October 2023 |archive-url=https://web.archive.org/web/20231012055120/https://www.dawn.com/news/1658449/pakistan-to-host-2025-champions-trophy-announces-icc |url-status=live }}</ref>",
+                  "url": "https://www.dawn.com/news/1658449/pakistan-to-host-2025-champions-trophy-announces-icc",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Points table",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "8.3",
+          "title": "Results",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.3.s1",
+                  "text": "The ICC released the fixture details on 27 June 2023.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |title=2023 ICC WC Full schedule, venues, time, teams and where to stream |url=https://www.thehindu.com/sport/cricket/2023-icc-odi-world-cup-in-india-full-schedule-venues-time-teams-and-where-to-stream/article67014830.ece |website=The Hindu |date=27 June 2023 |access-date=27 June 2023 |archive-date=29 June 2023 |archive-url=https://web.archive.org/web/20230629233326/https://www.thehindu.com/sport/cricket/2023-icc-odi-world-cup-in-india-full-schedule-venues-time-teams-and-where-to-stream/article67014830.ece |url-status=live }}</ref>",
+                      "url": "https://www.thehindu.com/sport/cricket/2023-icc-odi-world-cup-in-india-full-schedule-venues-time-teams-and-where-to-stream/article67014830.ece",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Knockout stage",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "9.s1",
+              "text": "The host India national cricket team|India was the first team to qualify for the semi-finals after their 302-run win against Sri Lanka national cricket team|Sri Lanka, their seventh successive win in the World Cup. India secured the top place amongst the semi-finalists after they beat South Africa national cricket team|South Africa by 243 runs on 5 November at Eden Gardens in Kolkata.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Who are best-placed to join India in the semi-finals? |url=https://www.espncricinfo.com/story/icc-cricket-world-cup-2023-india-in-semi-finals-what-are-australia-pakistan-new-zealand-sri-lankas-chances-1406810 |access-date=3 November 2023 |work=ESPNcricinfo |archive-date=2 November 2023 |archive-url=https://web.archive.org/web/20231102190459/https://www.espncricinfo.com/story/icc-cricket-world-cup-2023-india-in-semi-finals-what-are-australia-pakistan-new-zealand-sri-lankas-chances-1406810 |url-status=live }}</ref>",
+                  "url": "https://www.espncricinfo.com/story/icc-cricket-world-cup-2023-india-in-semi-finals-what-are-australia-pakistan-new-zealand-sri-lankas-chances-1406810",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Jadeja razes South Africa for 83 after Kohli scores 49th ODI ton |url=https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/india-vs-south-africa-37th-match-1384428/match-report |access-date=6 November 2023 |work=ESPNcricinfo |date=5 November 2023 |archive-date=5 November 2023 |archive-url=https://web.archive.org/web/20231105175133/https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/india-vs-south-africa-37th-match-1384428/match-report |url-status=live }}</ref>",
+                  "url": "https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/india-vs-south-africa-37th-match-1384428/match-report",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "9.s2",
+              "text": "South Africa became the second team to qualify for the semi-finals after Pakistan national cricket team|Pakistan defeated New Zealand national cricket team|New Zealand on 4 November, with Australia national cricket team|Australia becoming the third team to qualify after defeating Afghanistan national cricket team|Afghanistan on 7 November. New Zealand confirmed their berth as the fourth team after Pakistan lost their final match against England national cricket team|England.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Fabulous Fakhar pulls off stunning chase to keep Pakistan alive |url=https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/new-zealand-vs-pakistan-35th-match-1384426/match-report |access-date=4 November 2023 |work=ESPNcricinfo |archive-date=14 November 2023 |archive-url=https://web.archive.org/web/20231114203011/https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/new-zealand-vs-pakistan-35th-match-1384426/match-report |url-status=live }}</ref>",
+                  "url": "https://www.espncricinfo.com/series/icc-cricket-world-cup-2023-24-1367856/new-zealand-vs-pakistan-35th-match-1384426/match-report",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Sportstar |first1=Team |title=World Cup 2023: Australia qualifies for semifinals after stunning win over Afghanistan |url=https://sportstar.thehindu.com/cricket/icc-cricket-world-cup/news/australia-qualifies-semifinals-icc-world-cup-2023-aus-vs-afg-points-maxwell-200-record-run-chase-mumbai/article67510115.ece |access-date=8 November 2023 |work=Sportstar |date=7 November 2023 |archive-date=13 November 2023 |archive-url=https://web.archive.org/web/20231113072030/https://sportstar.thehindu.com/cricket/icc-cricket-world-cup/news/australia-qualifies-semifinals-icc-world-cup-2023-aus-vs-afg-points-maxwell-200-record-run-chase-mumbai/article67510115.ece |url-status=live }}</ref>",
+                  "url": "https://sportstar.thehindu.com/cricket/icc-cricket-world-cup/news/australia-qualifies-semifinals-icc-world-cup-2023-aus-vs-afg-points-maxwell-200-record-run-chase-mumbai/article67510115.ece",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=It's official! India set up 2023 World Cup semi-final against New Zealand in 2019 rematch; Pakistan knocked out |url=https://www.hindustantimes.com/cricket/its-official-india-set-up-2023-world-cup-semi-final-against-new-zealand-in-2019-rematch-pakistan-knocked-out-101699709522254.html |access-date=12 November 2023 |work=Hindustan Times |date=11 November 2023 |archive-date=14 November 2023 |archive-url=https://web.archive.org/web/20231114212330/https://www.hindustantimes.com/cricket/its-official-india-set-up-2023-world-cup-semi-final-against-new-zealand-in-2019-rematch-pakistan-knocked-out-101699709522254.html |url-status=live }}</ref>",
+                  "url": "https://www.hindustantimes.com/cricket/its-official-india-set-up-2023-world-cup-semi-final-against-new-zealand-in-2019-rematch-pakistan-knocked-out-101699709522254.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9.2",
+          "title": "Semi-finals",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "9.3",
+          "title": "Final",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Statistics",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "10.2",
+          "title": "Most runs",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "10.2.s1",
+                  "text": "{| class=\"wikitable\"\n|-\n!Runs\n!Player\n!Team\n|-\n|765\n|Virat Kohli|| {{cr|IND}}\n|-\n|597\n|Rohit Sharma || {{cr|IND}}\n|-\n|594\n|Quinton de Kock || {{cr|SA}}\n|-\n|578\n|Rachin Ravindra || {{cr|NZ}}\n|-\n|552\n| Daryl Mitchell (New Zealand cricketer)|Daryl Mitchell|| {{cr|NZ}}\n|}\n*Source: ESPNcricinfo",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web|url=https://www.espncricinfo.com/records/tournament/batting-most-runs-career/icc-cricket-world-cup-2023-24-15338|title=2023 World Cup Cricket Batting Records & Stats runs|work=ESPNcricinfo|access-date=19 October 2023|archive-date=18 October 2023|archive-url=https://web.archive.org/web/20231018213616/https://www.espncricinfo.com/records/tournament/batting-most-runs-career/icc-cricket-world-cup-2023-24-15338|url-status=live}}</ref>",
+                      "url": "https://www.espncricinfo.com/records/tournament/batting-most-runs-career/icc-cricket-world-cup-2023-24-15338",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.3",
+          "title": "Most wickets",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "10.3.s1",
+                  "text": "{| class=\"wikitable\"\n|-\n!Wickets\n!Player\n!Team\n|-\n|24\n|Mohammed Shami || {{cr|IND}}\n|-\n|23\n|Adam Zampa || {{cr|AUS}}\n|-\n|21\n|Dilshan Madushanka || {{cr|SL}}\n|-\n|20\n|Jasprit Bumrah || {{cr|IND}}\n|-\n|20\n|Gerald Coetzee || {{cr|SA}}\n|}\n*Source: ESPNcricinfo",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web|url=https://www.espncricinfo.com/records/tournament/bowling-most-wickets-career/icc-cricket-world-cup-2023-24-15338|title=2023 World Cup Cricket bowling Records & Stats wickets|work=ESPNcricinfo|access-date=10 October 2023|archive-date=9 October 2023|archive-url=https://web.archive.org/web/20231009113538/https://www.espncricinfo.com/records/tournament/bowling-most-wickets-career/icc-cricket-world-cup-2023-24-15338|url-status=live}}</ref>",
+                      "url": "https://www.espncricinfo.com/records/tournament/bowling-most-wickets-career/icc-cricket-world-cup-2023-24-15338",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10.4",
+          "title": "Team of the tournament",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "10.4.s1",
+                  "text": "The ICC announced its team of the tournament on 21 November 2023, with Virat Kohli being named as Cricket World Cup awards#Player of the tournament|player of the tournament, and Rohit Sharma as captain of the team.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |access-date=19 November 2023 |title=India star named Player of the Tournament at ICC Men's Cricket World Cup |url=https://www.cricketworldcup.com/news/3789837 |website=Cricket World Cup |archive-date=19 November 2023 |archive-url=https://web.archive.org/web/20231119182634/https://www.cricketworldcup.com/news/3789837 |url-status=live }}</ref>",
+                      "url": "https://www.icc-cricket.com/tournaments/cricketworldcup",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |access-date=21 November 2023 |title=Finalists dominate Cricket World Cup Team of the Tournament |url=https://www.cricketworldcup.com/news/3789872 |website=Cricket World Cup |archive-date=21 November 2023 |archive-url=https://web.archive.org/web/20231121101138/https://www.cricketworldcup.com/news/3789872 |url-status=live }}</ref>",
+                      "url": "https://www.icc-cricket.com/tournaments/cricketworldcup",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Broadcasting",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "11.s1",
+              "text": "Disney Star served as host broadcaster of the tournament in association with ICC TV; in India, all matches were televised by Star Sports (Indian TV network)|Star Sports and streamed by Disney+ Hotstar, with coverage available in English and eight Languages of India|regional languages. Amid competition with JioCinema for domestic cricket rights, Disney announced that all matches would be available on Disney+ Hotstar for free on mobile devices. The broadcasts featured expanded player and Hawk-Eye ball tracking features (building upon those introduced in the 2022 ICC Men's T20 World Cup|2022 men's T20 World Cup) for visualizing shots and fielding, and dedicated vertical video feeds of each match designed for streaming on smartphones. Commentary on the ICC's English-language world feed was led by Ricky Ponting and Eoin Morgan among others.<ref name=\":1\" /><ref name=\"svge-vertical\" />",
+              "references": [
+                {
+                  "text": "<ref name=\"svge-vertical\">{{Cite web |last=Strauss |first=Will |date=2023-09-26 |title=Cricket World Cup 2023: ICC TV to produce vertical feed of all matches in India |url=https://www.svgeurope.org/blog/headlines/cricket-world-cup-2023-icc-tv-to-produce-vertical-feed-of-all-matches-in-india/ |url-status=live |archive-url=https://web.archive.org/web/20231007033323/https://www.svgeurope.org/blog/headlines/cricket-world-cup-2023-icc-tv-to-produce-vertical-feed-of-all-matches-in-india/ |archive-date=7 October 2023 |access-date=2023-10-06 |website=SVG Europe |language=en}}</ref>",
+                  "url": "https://www.svgeurope.org/blog/headlines/cricket-world-cup-2023-icc-tv-to-produce-vertical-feed-of-all-matches-in-india/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |last=Banerjee |first=Krishnendu |date=4 October 2023 |title=World Cup LIVE Streaming in 9 languages with 120 commentators on Disney+ Hotstar |url=https://www.insidesport.in/world-cup-live-streaming-in-9-languages-with-120-commentators-on-star-sports-disney-hotstar/ |url-status=live |archive-url=https://web.archive.org/web/20231003075321/https://www.insidesport.in/world-cup-live-streaming-in-9-languages-with-120-commentators-on-star-sports-disney-hotstar/ |archive-date=3 October 2023 |access-date=4 October 2023 |work=Inside Sport}}</ref>",
+                  "url": "https://www.insidesport.in/cricket/world-cup-live-streaming-in-9-languages-with-120-commentators-on-star-sports-disney-hotstar/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":1\">{{Cite web |last=Pennington |first=Adrian |title=Behind the ICC Men's Cricket World Cup 2023 innovations with vertical video feed plus ball and player tracking |url=https://www.svgeurope.org/blog/headlines/behind-the-icc-mens-cricket-world-cup-2023-innovations-with-vertical-video-feed-plus-ball-and-player-tracking/ |access-date=2024-02-15 |website=SVG Europe |language=en}}</ref>",
+                  "url": "https://www.svgeurope.org/blog/headlines/behind-the-icc-mens-cricket-world-cup-2023-innovations-with-vertical-video-feed-plus-ball-and-player-tracking/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":2\">{{Cite web |date=2023-11-23 |title=Disney sets India cricket viewership record for TV, streaming during world cup |url=https://www.reuters.com/sports/cricket/disney-says-518-mln-indian-users-watched-cricket-world-cup-tv-2023-11-23/ |access-date=2024-02-14 |website=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/sports/cricket/disney-says-518-mln-indian-users-watched-cricket-world-cup-tv-2023-11-23/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "11.s2",
+              "text": "The ICC projected that global live viewing minutes of the tournament had increased by 17% over 2019. In India, Broadcast Audience Research Council (BARC) ratings reported that the final was seen on linear television by 518 million people in India, and Disney reported that streams peaked at 57 million concurrent viewers on Hotstar—both setting new records.<ref name=\":2\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=ICC |date=2023-12-27 |title=Biggest Cricket World Cup ever smashes Broadcast and Digital records |url=https://www.icc-cricket.com/news/biggest-cricket-world-cup-ever-smashes-broadcast-and-digital-records |access-date=2024-02-15 |website=www.icc-cricket.com |language=en}}</ref>",
+                  "url": "https://www.icc-cricket.com/news/biggest-cricket-world-cup-ever-smashes-broadcast-and-digital-records",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "External links",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

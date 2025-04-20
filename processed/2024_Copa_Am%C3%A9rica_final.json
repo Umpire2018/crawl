@@ -14,14 +14,14 @@
                 {
                   "text": "<ref>{{cite web |date=December 7, 2023 |title=2024 Copa América Match Schedule |url=https://copaamerica.com/wp-content/uploads/CA2024-Calendario-de-Partidos_2023.12.07-EN.pdf |publisher=CONMEBOL |access-date=December 7, 2023 |archive-date=December 25, 2023 |archive-url=https://web.archive.org/web/20231225092934/https://copaamerica.com/wp-content/uploads/CA2024-Calendario-de-Partidos_2023.12.07-EN.pdf |url-status=dead}}</ref>",
                   "url": "https://copaamerica.com/wp-content/uploads/CA2024-Calendario-de-Partidos_2023.12.07-EN.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
-                  "text": "<ref>{{Cite web |first1=Kathleen |last1=Magramo |first2=Jacob |last2=Lev |date=July 15, 2024 |title=Argentina wins Copa América in Miami final marred by chaotic crowd scenes and tearful Messi goodbye |url=https://www.cnn.com/2024/07/14/sport/copa-america-final-argentina-colombia-tickets-spt-intl-hnk/index.html |access-date=July 15, 2024 |website=CNN |language=en |quote=The scenes of celebration were the culmination of a chaotic night in Florida, after kickoff was delayed by more than an hour and 20 minutes when \"thousands of fans without tickets attempted to forcibly enter the stadium,\" according to a stadium spokesperson.}}</ref>",
-                  "url": "https://www.cnn.com/2024/07/14/sport/copa-america-final-argentina-colombia-tickets-spt-intl-hnk/index.html",
-                  "status_code": null,
+                  "text": "<ref>{{Cite web |first1=Kathleen |last1=Magramo |first2=Jacob |last2=Lev |date=July 15, 2024 |title=Argentina wins Copa América in Miami final marred by chaotic crowd scenes and tearful Messi goodbye |url=https://www.cnn.com/2024/07/14/sport/copa-america-final-argentina-colombia-tickets-spt-intl-hnk/index.html |access-date=July 15, 2024 |website=CNN |quote=The scenes of celebration were the culmination of a chaotic night in Florida, after kickoff was delayed by more than an hour and 20 minutes when \"thousands of fans without tickets attempted to forcibly enter the stadium,\" according to a stadium spokesperson.}}</ref>",
+                  "url": "https://edition.cnn.com/2024/07/14/sport/copa-america-final-argentina-colombia-tickets-spt-intl-hnk/index.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -29,19 +29,19 @@
             },
             {
               "id": "1.s2",
-              "text": "Defending champion Argentina national football team|Argentina defeated Colombia national football team|Colombia 1–0 after extra time to claim its record-breaking 16th Copa América title. The match was Argentina at the Copa América|Argentina's 8th final appearance, further extending its record, and was Colombia's third Copa América final. Before the match, Argentina had won a joint-record 15 titles  (12 were won with a round-robin format and 3 in finals), and Colombia's most recent final win was in 2001 Copa América|2001. It was also Argentina's third consecutive major tournament triumph, following wins in the 2021 Copa América in Brazil and the 2022 FIFA World Cup in Qatar, a streak previously only achieved by Spain national football team|Spain (2008, 2010, and 2012) and Argentina itself (1945, 1946, and 1947).\n<!-- The final also occurred on the same day as the UEFA Euro 2024 final (the Euros final started hours ahead of the Copa América final), where Spain national football team|Spain defeated England national football team|England 2–1. Argentina's victory over Colombia means it will face Spain, the winners of the Euros, at the 2025 Finalissima. -->",
+              "text": "Defending champions Argentina national football team|Argentina defeated Colombia national football team|Colombia 1–0 after extra time to claim a record-breaking 16th Copa América title. It was also Argentina's third consecutive major tournament triumph, following successes at the 2021 Copa América and the 2022 FIFA World Cup, a streak previously only achieved by Spain national football team|Spain (UEFA Euro 2008|2008, 2010 FIFA World Cup|2010, and UEFA Euro 2012|2012) and themselves (1945 South American Championship|1945, 1946 South American Championship|1946, and 1947 South American Championship|1947).\n<!-- The final occurred hours after the UEFA Euro 2024 final, where Spain defeated England national football team|England 2–1. Argentina's victory means they will face Spain, the winners of the Euros, at the 2025 Finalissima. -->",
               "references": [
                 {
                   "text": "<ref name=\"Athletic-result\">{{cite news |last=Burrows |first=Ben |date=July 15, 2024 |title=Argentina beats Colombia to win record-breaking Copa America title |url=https://www.nytimes.com/athletic/5637691/2024/07/15/argentina-colombia-result-copa-america-final/ |access-date=July 15, 2024 |work=The Athletic}}</ref>",
                   "url": "https://www.nytimes.com/athletic/5637691/2024/07/15/argentina-colombia-result-copa-america-final/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://www.rsssf.org/tabless/sachamp.html |title=Copa América}}</ref>",
                   "url": "https://www.rsssf.org/tabless/sachamp.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -65,20 +65,20 @@
                   "text": "<ref name=\"Herald-Host\">{{cite news |last=Kaufman |first=Michelle |author-link=Michelle Kaufman |date=November 21, 2023 |title=Golazo Miami! 2024 Copa America final to be held at Hard Rock Stadium next summer |url=https://www.miamiherald.com/sports/mls/inter-miami/article282095248.html |work=Miami Herald |accessdate=December 7, 2023 |archive-date=February 14, 2024 |archive-url=https://web.archive.org/web/20240214040206/https://www.miamiherald.com/sports/mls/inter-miami/article282095248.html |url-status=live}}</ref>",
                   "url": "https://www.miamiherald.com/sports/mls/inter-miami/article282095248.html",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Mather |first1=Victor |last2=Panja |first2=Tariq |date=January 27, 2023 |title=Copa América Will Return to U.S. in 2024 |url=https://www.nytimes.com/2023/01/27/sports/soccer/copa-america-2024.html |work=The New York Times |accessdate=December 7, 2023 |archive-date=May 22, 2023 |archive-url=https://web.archive.org/web/20230522054431/https://www.nytimes.com/2023/01/27/sports/soccer/copa-america-2024.html |url-status=live}}</ref>",
                   "url": "https://www.nytimes.com/2023/01/27/sports/soccer/copa-america-2024.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last=Cardenas |first=Felipe |date=February 8, 2023 |title=Why the U.S. hosting Copa América again is unpopular in Latin America, but might be necessary |url=https://theathletic.com/4164518/2023/02/08/copa-america-usa-conmebol/ |work=The Athletic |url-access=limited |accessdate=December 7, 2023 |archive-date=February 23, 2023 |archive-url=https://web.archive.org/web/20230223195553/https://theathletic.com/4164518/2023/02/08/copa-america-usa-conmebol/ |url-status=live}}</ref>",
-                  "url": "https://theathletic.com/4164518/2023/02/08/copa-america-usa-conmebol/",
-                  "status_code": null,
+                  "url": "https://www.nytimes.com/athletic/4164518/2023/02/08/copa-america-usa-conmebol/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -91,14 +91,14 @@
                 {
                   "text": "<ref name=\"NBC-Stadium\">{{cite news |last=Newberry |first=Paul |date=November 20, 2023 |title=Miami's Hard Rock Stadium to host final for 2024 Copa América |url=https://www.nbcmiami.com/news/sports/miamis-hard-rock-stadium-to-host-final-for-2024-copa-america/3164898/ |publisher=WTVJ|NBC South Florida |accessdate=December 7, 2023 |archive-date=January 17, 2024 |archive-url=https://web.archive.org/web/20240117042005/https://www.nbcmiami.com/news/sports/miamis-hard-rock-stadium-to-host-final-for-2024-copa-america/3164898/ |url-status=live}}</ref>",
                   "url": "https://www.nbcmiami.com/news/sports/miamis-hard-rock-stadium-to-host-final-for-2024-copa-america/3164898/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last=Spencer |first=Laura |date=January 31, 2020 |title=Kansas City Sports Architecture Takes Center Stage On Super Bowl Sunday |url=https://www.kcur.org/arts-life/2020-01-31/kansas-city-sports-architecture-takes-center-stage-on-super-bowl-sunday |publisher=KCUR |accessdate=December 7, 2023 |archive-date=December 8, 2023 |archive-url=https://web.archive.org/web/20231208094504/https://www.kcur.org/arts-life/2020-01-31/kansas-city-sports-architecture-takes-center-stage-on-super-bowl-sunday |url-status=live}}</ref>",
                   "url": "https://www.kcur.org/arts-life/2020-01-31/kansas-city-sports-architecture-takes-center-stage-on-super-bowl-sunday",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -128,7 +128,7 @@
                     {
                       "text": "<ref name=\"26 minutes\">{{cite news |url=https://www.tycsports.com/copa-america/quienes-cantaran-en-el-show-de-clausura-de-copa-america-2024-id595404.html |title=Quiénes cantaron en el Show de Clausura de Copa América 2024 |work=TyC Sports |language=ES |date=July 14, 2024|access-date=July 15, 2024}}</ref>",
                       "url": "https://www.tycsports.com/copa-america/quienes-cantaran-en-el-show-de-clausura-de-copa-america-2024-id595404.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -152,20 +152,20 @@
                       "text": "<ref>{{cite news |last=Kaufman |first=Michelle |date=July 9, 2024 |title=Shakira, known for her World Cup soccer anthems, to perform at Copa America final |url=https://www.miamiherald.com/sports/copa-america/article289880644.html |work=Miami Herald |accessdate=July 14, 2024}}</ref>",
                       "url": "https://www.miamiherald.com/sports/copa-america/article289880644.html",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"26 minutes\" /><ref>{{cite magazine |last=Roiz |first=Jessica |date=July 14, 2024 |title=Shakira Shines During First Copa America Halftime Show at the 2024 Final Match |url=https://www.billboard.com/music/latin/copa-america-2024-final-match-shakira-halftime-show-1235730795/ |magazine=Billboard (magazine)|Billboard |accessdate=July 14, 2024}}</ref>",
                       "url": "https://www.billboard.com/music/latin/copa-america-2024-final-match-shakira-halftime-show-1235730795/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "magazine"
                     },
                     {
                       "text": "<ref>{{cite news |last=Becherano |first=Lizzy |date=July 13, 2024 |title=Copa América: Colombia boss criticizes Shakira half-time show |url=https://www.espn.com/soccer/story/_/id/40556268/copa-america-final-2024-colombia-extended-shakira-half-show |publisher=ESPN |accessdate=July 14, 2024}}</ref>",
                       "url": "https://www.espn.com/soccer/story/_/id/40556268/copa-america-final-2024-colombia-extended-shakira-half-show",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -197,14 +197,14 @@
                     {
                       "text": "<ref name=\":3\">{{Cite web |date=December 7, 2023 |title=Tras el sorteo, así quedaron los grupos de la Copa América 2024 |trans-title=After the draw, these are the groups of the 2024 Copa América |url=https://www.espn.com.ar/futbol/copa-america/nota/_/id/12965018/tras-el-sorteo-asi-quedaron-los-grupos-de-la-copa-america-2024 |access-date=July 25, 2024 |website=ESPN Argentina}}</ref>",
                       "url": "https://www.espn.com.ar/futbol/copa-america/nota/_/id/12965018/tras-el-sorteo-asi-quedaron-los-grupos-de-la-copa-america-2024",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Schneider |first=Jacob |date=May 20, 2024 |title=Argentina Copa America 2024 squad: Who Lionel Scaloni will take to the United States |url=https://www.goal.com/en/lists/argentina-copa-america-2024-squad-lionel-scaloni/blte5db9c11deaa7a82#cs06f6ee35c8e6468e |access-date=July 25, 2024 |website=Goal}}</ref>",
-                      "url": "https://www.goal.com/en/lists/argentina-copa-america-2024-squad-lionel-scaloni/blte5db9c11deaa7a82#cs06f6ee35c8e6468e",
-                      "status_code": null,
+                      "url": "https://www.goal.com/en/lists/argentina-copa-america-2024-squad-lionel-scaloni/blte5db9c11deaa7a82",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -217,21 +217,21 @@
                     {
                       "text": "<ref>{{Cite web |last1=Mancera |first1=Diego |last2=Rodríguez |first2=Andrés |date=June 20, 2024 |title=Argentina doblega a Canadá en su debut en la Copa América (2-0) |url=https://elpais.com/us/2024-06-20/argentina-canada-en-vivo-la-inauguracion-de-la-copa-america-2024.html |access-date=July 25, 2024 |website=El País}}</ref>",
                       "url": "https://elpais.com/us/2024-06-20/argentina-canada-en-vivo-la-inauguracion-de-la-copa-america-2024.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Claus |first=Hernan |date=June 25, 2024 |title=Con un agónico gol de Lautaro, Argentina derrotó a Chile y se metió en los cuartos de final de la Copa América 2024 |trans-title=With an agonizing goal from Lautaro, Argentina defeated Chile and entered the quarterfinals of the Copa América 2024 |url=https://www.ole.com.ar/copa-america/seleccion-argentina-vs-chile-hora-ver-vivo-hoy-partido-copa-america-2024-formaciones_0_SEmwUpJigP.html |access-date=July 25, 2024 |website=Olé}}</ref>",
                       "url": "https://www.ole.com.ar/copa-america/seleccion-argentina-vs-chile-hora-ver-vivo-hoy-partido-copa-america-2024-formaciones_0_SEmwUpJigP.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Parra |first=Joaquín |date=June 29, 2024 |title=Perú vs Argentina 0-2: goles y resumen de la derrota 'bicolor' y eliminación de la Copa América 2024 |trans-title=Peru vs Argentina 0-2: goals and highlights of the 'bicolor' defeat and elimination from the Copa América 2024 |url=https://www.infobae.com/peru/deportes/2024/06/29/peru-vs-argentina-en-vivo-hoy-america-tv-directv-tyc-sports-fecha-3-grupo-a-copa-america-2024-goles-resumen-resultado/ |access-date=July 25, 2024 |website=Infobae}}</ref>",
                       "url": "https://www.infobae.com/peru/deportes/2024/06/29/peru-vs-argentina-en-vivo-hoy-america-tv-directv-tyc-sports-fecha-3-grupo-a-copa-america-2024-goles-resumen-resultado/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -244,7 +244,7 @@
                     {
                       "text": "<ref>{{Cite web |date=July 4, 2024 |title=Ecuador complicó a Argentina y quedó cerca de hacer historia en la Copa América |trans-title=Ecuador complicated Argentina and came close to making history in the Copa América |url=https://www.ole.com.ar/ecuador/internacional/seleccion-ecuador-vs-argentina-copa-america-cuartos-final-hoy-vivo-hora-tele-alineaciones-resultado-videos-goles_0_QraWy7Zuh5.html |access-date=July 25, 2024 |website=Olé}}</ref>",
                       "url": "https://www.ole.com.ar/ecuador/internacional/seleccion-ecuador-vs-argentina-copa-america-cuartos-final-hoy-vivo-hora-tele-alineaciones-resultado-videos-goles_0_QraWy7Zuh5.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -257,7 +257,7 @@
                     {
                       "text": "<ref>{{Cite web |last=Claus |first=Hernan |date=July 9, 2024 |title=Argentina venció 2-0 a Canadá y está en la final de la Copa América 2024 |trans-title=Argentina beat Canada 2-0 and is in the final of the Copa América 2024 |url=https://www.ole.com.ar/usa/copa-america/argentina-canada-hoy-vivo-copa-america-ver-online-alineaciones-horario_0_xcblbuGRWB.html |access-date=July 25, 2024 |website=Olé}}</ref>",
                       "url": "https://www.ole.com.ar/usa/copa-america/argentina-canada-hoy-vivo-copa-america-ver-online-alineaciones-horario_0_xcblbuGRWB.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -280,22 +280,22 @@
                     {
                       "text": "<ref>{{Cite web |date=June 24, 2024 |title=Colombia derrotó a Paraguay en el debut con el brillo de James |trans-title=Colombia defeated Paraguay in the debut with the brilliance of James |url=https://www.ole.com.ar/copa-america/copa-america-colombia-paraguay-james_0_UE59szt4eJ.html |access-date=July 25, 2024 |website=Olé}}</ref>",
                       "url": "https://www.ole.com.ar/copa-america/copa-america-colombia-paraguay-james_0_UE59szt4eJ.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Sturari |first=Bruno |date=June 28, 2024 |title=¡Goleada y clasificación! Colombia venció 3-0 a Costa Rica y avanzó a los cuartos de la Copa América |trans-title=A win and classification! Colombia beat Costa Rica 3-0 and advanced to the quarterfinals of the Copa América |url=https://www.ole.com.ar/usa/copa-america/colombia-vs-costa-rica-hoy-vivo-partido-copa-america-hora-ver-alineacion-video-resumen_0_4uE53051T4.html |access-date=July 25, 2024 |website=Olé}}</ref>",
                       "url": "https://www.ole.com.ar/usa/copa-america/colombia-vs-costa-rica-hoy-vivo-partido-copa-america-hora-ver-alineacion-video-resumen_0_4uE53051T4.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Verona |first=Favio |date=July 2, 2024 |title=Brasil empató 1-1 con Colombia y enfrentará a Uruguay en los cuartos de la Copa América |trans-title=Brazil tied 1-1 with Colombia and will face Uruguay in the quarterfinals of the Copa América |url=https://www.ole.com.ar/copa-america/brasil-vs-colombia-copa-america-2024-hora-ver-vivo-online-formaciones_0_ztWykWHb1d.html |access-date=July 25, 2024 |website=Olé}}</ref>",
                       "url": "https://www.ole.com.ar/copa-america/brasil-vs-colombia-copa-america-2024-hora-ver-vivo-online-formaciones_0_ztWykWHb1d.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 521,
+                      "reason": "",
                       "type": "web"
                     }
                   ]
@@ -307,7 +307,7 @@
                     {
                       "text": "<ref>{{Cite web |date=July 6, 2024 |title=Colombia smashed Panama 5-0, qualified for the semifinals of the Copa América and will play against Uruguay |url=https://www.infobae.com/deportes/2024/07/06/colombia-panama-el-cruce-de-copa-america-que-miraran-de-cerca-brasil-y-uruguay-a-que-hora-juegan-y-por-donde-verlo/ |access-date=July 25, 2024 |website=Infobae}}</ref>",
                       "url": "https://www.infobae.com/deportes/2024/07/06/colombia-panama-el-cruce-de-copa-america-que-miraran-de-cerca-brasil-y-uruguay-a-que-hora-juegan-y-por-donde-verlo/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -320,14 +320,14 @@
                     {
                       "text": "<ref>{{Cite web |date=July 11, 2024 |title=Uruguay vs. Colombia: resumen, goles y resultado del partido de la Copa América 2024 |trans-title=Uruguay vs. Colombia: highlights, goals and result of the Copa América 2024 match |url=https://www.lanacion.com.ar/deportes/futbol/uruguay-vs-colombia-resumen-goles-y-resultado-del-partido-de-la-copa-america-2024-nid10072024/ |access-date=July 25, 2024 |website=La Nación}}</ref>",
                       "url": "https://www.lanacion.com.ar/deportes/futbol/uruguay-vs-colombia-resumen-goles-y-resultado-del-partido-de-la-copa-america-2024-nid10072024/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Nomesqui Rivera |first=Jimmy |date=July 10, 2024 |title=Escándalo en el final de Colombia vs. Uruaguay: gresca en la tribuna y lágrimas de James y Luis Díaz |trans-title=Scandal in the final of Colombia vs. Uruguay: fight in the stands and tears of James and Luis Díaz |url=https://www.infobae.com/colombia/deportes/2024/07/11/con-pelea-en-la-tribuna-y-lagrimas-de-james-y-luis-diaz-asi-termino-la-semifinal-entre-colombia-y-uruguay/ |access-date=July 25, 2024 |website=Infobae}}</ref>",
                       "url": "https://www.infobae.com/colombia/deportes/2024/07/11/con-pelea-en-la-tribuna-y-lagrimas-de-james-y-luis-diaz-asi-termino-la-semifinal-entre-colombia-y-uruguay/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -352,28 +352,28 @@
                 {
                   "text": "<ref name=\"ESPN-delay\" /> At around 5:40 pm EDT, hours before the scheduled kickoff of 8:00 pm EDT, dozens of fans (primarily Colombian fans) jumped over security railings and ran past police officers into the stadium; a few tried to enter through the ventilation system.<ref name=\"AP-finally\">{{cite news |url=https://apnews.com/article/copa-america-argentina-colombia-fans-security-ce881853569d013f1c29d553cfbad369 |title=Copa America final between Argentina and Colombia underway following a delay of more than an hour |first=Alanis |last=Thames |work=Associated Press |date=July 14, 2024 |access-date=July 14, 2024}}</ref>",
                   "url": "https://apnews.com/article/copa-america-argentina-colombia-fans-security-ce881853569d013f1c29d553cfbad369",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"Athletic-delayed\">{{cite news |url=https://www.nytimes.com/athletic/5637296/2024/07/14/copa-america-final-fans-tickets/ |title=Copa America final kick-off delayed after fans struggle to enter stadium in Miami |work=The Athletic |date=July 14, 2024 |access-date=July 14, 2024}}</ref>",
                   "url": "https://www.nytimes.com/athletic/5637296/2024/07/14/copa-america-final-fans-tickets/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"AS-Diario\">{{cite news |url=https://en.as.com/soccer/why-was-the-copa-america-final-delayed-arrests-made-as-fans-crash-security-n/ |title=Why was the Copa América final delayed? Arrests made as fans crash security |first1=Sarah |last1=Castro |first2=William |last2=Gittins |work=Diario AS |date=July 14, 2024 |access-date=July 14, 2024}}</ref>",
                   "url": "https://en.as.com/soccer/why-was-the-copa-america-final-delayed-arrests-made-as-fans-crash-security-n/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"Athletic-delayed\" /><ref name=\"AS-Diario\" /> In response, police officers locked the entrance gates.<ref name=\"AP-finally\" /> At around 8:10 pm EDT, stadium security re-opened the gates to avoid a crowd crush and to slowly allow ticket-holders into the stadium.<ref name=\"AP-finally\" /><ref name=\"ESPN-delay\">{{cite news |url=https://www.espn.com/soccer/story/_/id/40563453/fans-storm-gates-miami-gardens-copa-america-final |title=Copa América final start delayed after fans rush gates |first=Jeff |last=Carlisle |work=ESPN |date=July 14, 2024 |access-date=July 14, 2024}}</ref>",
                   "url": "https://www.espn.com/soccer/story/_/id/40563453/fans-storm-gates-miami-gardens-copa-america-final",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -400,14 +400,14 @@
                     {
                       "text": "<ref name=\":0\">{{Cite web |last=Cristofanelli |first=Federico |date=July 15, 2024 |title=El boletín de calificaciones de Argentina en la final ante Colombia: los puntos superlativos que maquillaron la baja de Messi y Lautaro Martínez héroe |url=https://www.infobae.com/deportes/2024/07/15/el-boletin-de-calificaciones-de-argentina-en-la-final-ante-colombia-los-puntos-superlativos-que-maquillaron-la-baja-de-messi-y-lautaro-martinez-heroe/ |access-date=July 23, 2024 |website=Infobae}}</ref>",
                       "url": "https://www.infobae.com/deportes/2024/07/15/el-boletin-de-calificaciones-de-argentina-en-la-final-ante-colombia-los-puntos-superlativos-que-maquillaron-la-baja-de-messi-y-lautaro-martinez-heroe/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":1\">{{Cite web |date=July 15, 2024 |title=Video resumen, gol y polémicas de Colombia vs. Argentina en final de Copa América 2024 |url=https://www.marca.com/co/2024/07/15/669497f146163f0a748b4571.html |access-date=July 23, 2024 |website=Marca}}</ref>",
                       "url": "https://www.marca.com/co/2024/07/15/669497f146163f0a748b4571.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -420,7 +420,7 @@
                     {
                       "text": "<ref name=\":0\" /><ref name=\":2\">{{Cite web |date=July 16, 2024 |title=El detrás de escena de la lesión de Messi y la atención especial que recibió en el entretiempo para seguir jugando la final: \"Tenía el tobillo a la miseria\" |url=https://www.infobae.com/deportes/2024/07/17/el-detras-de-escena-de-la-lesion-de-messi-y-la-atencion-especial-que-recibio-en-el-entretiempo-para-seguir-jugando-la-final-tenia-el-tobillo-a-la-miseria/ |access-date=July 23, 2024 |website=Infobae}}</ref>",
                       "url": "https://www.infobae.com/deportes/2024/07/17/el-detras-de-escena-de-la-lesion-de-messi-y-la-atencion-especial-que-recibio-en-el-entretiempo-para-seguir-jugando-la-final-tenia-el-tobillo-a-la-miseria/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -443,7 +443,7 @@
                     {
                       "text": "<ref name=\"finals-match-delayed\">{{Cite news |last=Carlisle |first=Jeff |date=July 14, 2024 |title=Copa América final start delayed 30 minutes after fans rush gates |url=https://abcnews.go.com/Sports/copa-amrica-final-start-delayed-30-minutes-after/story?id=111939621 |access-date=July 14, 2024 |website=ABC News (United States)|ABC News}}</ref>",
                       "url": "https://abcnews.go.com/Sports/copa-amrica-final-start-delayed-30-minutes-after/story?id=111939621",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
@@ -451,14 +451,14 @@
                       "text": "<ref name=\"Herald-Chaos\">{{cite news |last1=Rabin |first1=Charles |last2=Hanks |first2=Douglas |last3=Kaufman |first3=Michelle |date=July 15, 2024 |title=Lax security for walk-ins led to breach, chaos at Hard Rock Stadium's Copa America final |url=https://www.miamiherald.com/news/local/crime/article290079454.html |work=Miami Herald |accessdate=July 15, 2024}}</ref>",
                       "url": "https://www.miamiherald.com/news/local/crime/article290079454.html",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"ARG-COL\">{{cite web |url=https://www.sofascore.com/colombia-argentina/uWbsvWb |title=Argentina vs Colombia live score, H2H and lineups |website=Sofascore |date=July 14, 2024 |access-date=July 14, 2024}}</ref>",
                       "url": "https://www.sofascore.com/colombia-argentina/uWbsvWb",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -470,7 +470,7 @@
                     {
                       "text": "<ref name=\"referees\">{{cite web |url=https://www.conmebol.com/wp-content/uploads/2024/07/11_07_24-CA-USA-2024-Designaciones-3er-Puesto-y-Final-Partidos-31-32.pdf |title=Designación de Árbitros |publisher=CONMEBOL |date=July 11, 2024 |access-date=July 11, 2024 |language=es |archive-date=July 12, 2024 |archive-url=https://web.archive.org/web/20240712082736/https://www.conmebol.com/wp-content/uploads/2024/07/11_07_24-CA-USA-2024-Designaciones-3er-Puesto-y-Final-Partidos-31-32.pdf |url-status=live}}</ref>",
                       "url": "https://www.conmebol.com/wp-content/uploads/2024/07/11_07_24-CA-USA-2024-Designaciones-3er-Puesto-y-Final-Partidos-31-32.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -478,7 +478,7 @@
                       "text": "<ref name=\"regulations\">{{cite web |url=https://cdn.conmebol.com/wp-content/uploads/2023/11/CONMEBOL-Copa-America-2024-Regulations__ENG-.pdf |title=CONMEBOL Copa America 2024 Regulations |publisher=CONMEBOL |date=November 29, 2023|access-date=December 1, 2023|archive-date=December 1, 2023|archive-url=https://web.archive.org/web/20231201144229/https://cdn.conmebol.com/wp-content/uploads/2023/11/CONMEBOL-Copa-America-2024-Regulations__ENG-.pdf|url-status=live}}</ref>",
                       "url": "https://cdn.conmebol.com/wp-content/uploads/2023/11/CONMEBOL-Copa-America-2024-Regulations__ENG-.pdf",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     }
                   ]
@@ -502,7 +502,7 @@
                 {
                   "text": "<ref>{{cite web |url=https://www.infobae.com/deportes/2024/07/15/la-despedida-con-titulo-de-angel-di-maria-con-la-seleccion-argentina-la-sorpresa-de-sus-hijas-el-llanto-atragantado-y-el-mensaje-para-messi/ |title=La despedida con título de Ángel Di María con la selección argentina: la sorpresa de sus hijas, el llanto atragantado y el mensaje para Messi |publisher=Infobae |language=ES |date=July 15, 2024|access-date=July 15, 2024}}</ref>",
                   "url": "https://www.infobae.com/deportes/2024/07/15/la-despedida-con-titulo-de-angel-di-maria-con-la-seleccion-argentina-la-sorpresa-de-sus-hijas-el-llanto-atragantado-y-el-mensaje-para-messi/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -523,21 +523,21 @@
                     {
                       "text": "<ref name=\"ESPN-arrests\">{{cite news |url=https://www.espn.com/soccer/story/_/id/40569659/colombia-federation-president-arrested-copa-america-final |title=Colombia federation president, son arrested at Copa América final |first=Lizzy |last=Becherano |work=ESPN |date=July 15, 2024 |access-date=July 15, 2024}}</ref>",
                       "url": "https://www.espn.com/soccer/story/_/id/40569659/colombia-federation-president-arrested-copa-america-final",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"AP-arrests\">{{cite web |last1=Thames |first1=Alanis |title=Columbia's soccer federation president and son among 27 arrested in chaos at Copa America final |url=https://apnews.com/article/copa-america-fans-arrests-jesurun-6f45ab26a4aef6a64034215ac12604a7 |website=The Associated Press |access-date=July 15, 2024 |date=July 15, 2024}}</ref>",
                       "url": "https://apnews.com/article/copa-america-fans-arrests-jesurun-6f45ab26a4aef6a64034215ac12604a7",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"ESPN-arrests\" /><ref name=\"AP-arrests\" /><ref>{{cite news |url=https://www.publimetro.co/deportes/2024/07/15/hasta-jesurun-termino-involucrado-en-incidentes-hard-rock-stadium-en-la-final-de-la-copa-america/ |title=Hasta Ramón Jesurún terminó involucrado en incidentes en la final de la Copa América |work=Publimetro |lang=es |date=July 15, 2024 |access-date=July 15, 2024}}</ref>",
                       "url": "https://www.publimetro.co/deportes/2024/07/15/hasta-jesurun-termino-involucrado-en-incidentes-hard-rock-stadium-en-la-final-de-la-copa-america/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
@@ -545,7 +545,7 @@
                       "text": "<ref name=arrestedinmiamiarea /> In addition, the Colombian Football Federation statement also claimed that Jesurún deeply regrets what happened.<ref name=arrestedinmiamiarea>{{cite news |url=https://www.washingtonpost.com/sports/2024/07/15/copa-america-crowd-chaos-colombia-soccer-chief-arrested/ |title=Amid Copa América crowd chaos, Colombia soccer chief arrested |first=Des |last=Bieler |newspaper=The Washington Post |date=July 16, 2024 |accessdate=July 16, 2024}}</ref>",
                       "url": "https://www.washingtonpost.com/sports/2024/07/15/copa-america-crowd-chaos-colombia-soccer-chief-arrested/",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     }
                   ]
@@ -557,7 +557,7 @@
                     {
                       "text": "<ref name=\"Athletic-chaos\">{{cite news |url=https://www.nytimes.com/athletic/5644821/2024/07/18/copa-america-final-security-chaos/ |title=Copa America final chaos: What we know and what it means for the 2026 World Cup |first=Melanie |last=Anzidei |work=The Athletic |date=July 18, 2024 |access-date=July 18, 2024}}</ref>",
                       "url": "https://www.nytimes.com/athletic/5644821/2024/07/18/copa-america-final-security-chaos/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -580,14 +580,14 @@
                     {
                       "text": "<ref>{{cite news |url=https://www.nytimes.com/athletic/5640776/2024/07/16/france-complaint-fifa-argentina-racist-chant/ |title=French Federation to file complaint over 'unacceptable racist' chants by Argentina players in Copa America celebrations |first1=Tom |last1=Burrows |first2=Colin |last2=Millar |work=The Athletic |date=July 16, 2024 |access-date=July 16, 2024}}</ref>",
                       "url": "https://www.nytimes.com/athletic/5640776/2024/07/16/france-complaint-fifa-argentina-racist-chant/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"ESPN-leaves\">{{cite news |url=https://www.espn.com/soccer/story/_/id/40587342/argentina-government-official-leaves-amid-lionel-messi-row |title=Argentina government official leaves amid Lionel Messi row |first=Adriana |last=Garcia |work=ESPN |date=July 18, 2024 |access-date=July 18, 2024}}</ref>",
                       "url": "https://www.espn.com/soccer/story/_/id/40587342/argentina-government-official-leaves-amid-lionel-messi-row",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }

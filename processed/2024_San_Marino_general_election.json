@@ -80,7 +80,7 @@
                 {
                   "text": "<ref>{{Cite web |last=Fiocca |first=Alessandro |date=2024-04-19 |title=San Marino. Repubblica Futura e Area Democratica in lista insieme alle prossime elezioni |url=https://www.libertas.sm/san-marino-repubblica-futura-e-area-democratica-in-lista-insieme-alle-prossime-elezioni/ |access-date=2024-04-19 |website=Libertas |language=it-IT}}</ref>",
                   "url": "https://www.libertas.sm/san-marino-repubblica-futura-e-area-democratica-in-lista-insieme-alle-prossime-elezioni/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -93,7 +93,7 @@
                 {
                   "text": "<ref>{{Cite web |last=Fiocca |first=Alessandro |date=2024-04-17 |title=San Marino. Alleanza Riformista accoglie Elego e conferma la coalizione con la DC: \"Progetto ambizioso e pragmatico\" |url=https://www.libertas.sm/san-marino-la-lista-con-mis-noi-sammarinesi-elego-e-socialisti-di-alleanza-riformista-confermano-la-coalizione-con-la-dc/ |access-date=2024-04-19 |website=Libertas |language=it-IT}}</ref>",
                   "url": "https://www.libertas.sm/san-marino-la-lista-con-mis-noi-sammarinesi-elego-e-socialisti-di-alleanza-riformista-confermano-la-coalizione-con-la-dc/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -106,7 +106,7 @@
                 {
                   "text": "<ref>{{Cite web |last=Lattanzi |first=Andrea |date=2024-04-18 |title=Verso le elezioni politiche a San Marino, Alleanza riformista: \"Un nuovo capitolo per la politica sammarinese\" |url=https://www.libertas.sm/verso-le-elezioni-politiche-a-san-marino-alleanza-riformista-un-nuovo-capitolo-per-la-politica-sammarinese/ |access-date=2024-04-19 |website=Libertas |language=it-IT}}</ref>",
                   "url": "https://www.libertas.sm/verso-le-elezioni-politiche-a-san-marino-alleanza-riformista-un-nuovo-capitolo-per-la-politica-sammarinese/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -126,7 +126,7 @@
                 {
                   "text": "<ref>{{cite web | url=https://www.libertas.sm/elezioni-a-san-marino-la-coalizione-libera-ps-psd-si-presenta-video/ | title=Elezioni a San Marino, la coalizione Libera-Ps-PSD si presenta - VIDEO | date=24 April 2024 }}</ref>",
                   "url": "https://www.libertas.sm/elezioni-a-san-marino-la-coalizione-libera-ps-psd-si-presenta-video/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

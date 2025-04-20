@@ -13,15 +13,15 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web |date=2024-03-21 |title=Algeria president sets presidential election for Sept 7 |url=https://arab.news/js6sj |access-date=2024-03-25 |website=Arab News |language=en}}</ref>",
-                  "url": "https://arab.news/js6sj",
-                  "status_code": null,
+                  "url": "https://www.arabnews.com/node/2480621/middle-east",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=F24>{{Cite web |date=2024-03-21 |title=Algeria's Tebboune sets 'early' presidential elections for September 7 |url=https://www.france24.com/en/africa/20240321-algeria-s-tebboune-sets-early-presidential-elections-for-september-7 |access-date=2024-03-25 |website=France 24 |language=en}}</ref>",
                   "url": "https://www.france24.com/en/africa/20240321-algeria-s-tebboune-sets-early-presidential-elections-for-september-7",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -44,7 +44,7 @@
                 {
                   "text": "<ref name=F24/> Tebboune later explained that the date was the optimal time to hold the election \"because it coincides with the end of the summer vacations and the start of the new school year\", hereby ensuring high turnout. However, some have questioned the logic of the timing, pointing out that a September election would mean that campaigning would be held amid scorching summer temperatures.<ref name=\"ap1\">{{Cite web |date=5 April 2024 |title=Algerians question president for calling an early election without announcing his own campaign |url=https://apnews.com/article/algeria-early-election-abdelmadjid-tebboune-4a46e0c00481c5aa543c783538366d39 |access-date=5 April 2024 |website=Associated Press |language=en}}</ref>",
                   "url": "https://apnews.com/article/algeria-early-election-abdelmadjid-tebboune-4a46e0c00481c5aa543c783538366d39",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -74,22 +74,22 @@
                 {
                   "text": "<ref>{{Cite news |date=7 September 2024 |title=In its presidential elections, Algeria prepares for 'business as usual' |url=https://www.aljazeera.com/news/2024/9/7/in-its-presidential-elections-algeria-prepares-for-business-as-usual |access-date=7 September 2024 |work=Al Jazeera |language=en}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/9/7/in-its-presidential-elections-algeria-prepares-for-business-as-usual",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=7 September 2024 |title=Who are the candidates in Algeria's presidential elections? |url=https://www.aljazeera.com/news/2024/9/6/who-are-the-candidates-in-algerias-presidential-elections |access-date=7 September 2024 |work=Al Jazeera |language=en}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/9/6/who-are-the-candidates-in-algerias-presidential-elections",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"ABC1\">{{cite news |url=https://abcnews.go.com/International/wireStory/presidential-candidates-challenge-election-result-algeria-after-vote-113560341 |title=Opposition candidates file court appeal questioning Algerian presidential election outcome |work=ABC News (US)|ABC News |agency=AP}}</ref>",
                   "url": "https://abcnews.go.com/International/wireStory/presidential-candidates-challenge-election-result-algeria-after-vote-113560341",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "news"
                 }
               ]
@@ -111,7 +111,7 @@
                 {
                   "text": "<ref>{{Cite news |date=12 July 2024 |title=Algerian President Abdelmadjid Tebboune announces reelection campaign |url=https://apnews.com/article/algeria-president-election-db9ca85799b8686f88ea79fe8c9643c2 |access-date=12 July 2024 |work=Associated Press |language=en}}</ref>",
                   "url": "https://apnews.com/article/algeria-president-election-db9ca85799b8686f88ea79fe8c9643c2",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -124,14 +124,14 @@
                 {
                   "text": "<ref>{{Cite news |date=2024-03-01|title=L'UCP de Zoubida Assoul annonce sa participation à la présidentielle de 2024 |url=https://radio-m.net/lucp-de-zoubida-assoul-annonce-sa-participation-a-la-presidentielle-de-2024/ |access-date=2024-03-21|work=radio-m.net |language=fr}}</ref>",
                   "url": "https://radio-m.net/lucp-de-zoubida-assoul-annonce-sa-participation-a-la-presidentielle-de-2024/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=12 July 2024 |title=Algeria's President Tebboune declares his intention to run for a second term |url=https://www.africanews.com/2024/07/11/algerias-president-tebboune-declares-his-intention-to-run-for-a-second-term/ |access-date=12 July 2024 |work=Africanews |language=en}}</ref>",
                   "url": "https://www.africanews.com/2024/07/11/algerias-president-tebboune-declares-his-intention-to-run-for-a-second-term/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -144,7 +144,7 @@
                 {
                   "text": "<ref>{{Cite news |date=14 July 2024 |title=Algeria: Key opposition figure quits presidential race |url=https://www.africanews.com/2024/07/14/algeria-key-opposition-figure-quits-presidential-race/ |access-date=14 July 2024 |work=Africanews |language=en}}</ref>",
                   "url": "https://www.africanews.com/2024/07/14/algeria-key-opposition-figure-quits-presidential-race/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -157,7 +157,7 @@
                 {
                   "text": "<ref>{{Cite news |date=3 August 2024 |title= Afrique Présidentielle en Algérie: la justice accuse de corruption trois candidats dont le dossier a été refusé |url=https://www.rfi.fr/fr/afrique/20240803-pr%C3%A9sidentielle-en-alg%C3%A9rie-la-justice-accuse-de-corruption-trois-candidats-dont-le-dossier-a-%C3%A9t%C3%A9-refus%C3%A9 |access-date=3 August 2024 |work=rfi.fr |language=fr}}</ref>",
                   "url": "https://www.rfi.fr/fr/afrique/20240803-pr%C3%A9sidentielle-en-alg%C3%A9rie-la-justice-accuse-de-corruption-trois-candidats-dont-le-dossier-a-%C3%A9t%C3%A9-refus%C3%A9",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -170,7 +170,7 @@
                 {
                   "text": "<ref>{{Cite news |date=4 September 2024 |title=Algeria votes amid inflation and boycott, sparking apathy |url=https://www.africanews.com/2024/09/04/algeria-votes-amid-inflation-and-boycott-sparking-apathy/ |access-date=4 September 2024 |work=Africanews |language=en}}</ref>",
                   "url": "https://www.africanews.com/2024/09/04/algeria-votes-amid-inflation-and-boycott-sparking-apathy/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -193,14 +193,14 @@
                 {
                   "text": "<ref>{{Cite news |date=3 September 2024 |title=Seeking reelection, Algeria's Tebboune touts gains|url=https://www.voanews.com/a/seeking-reelection-algeria-s-tebboune-touts-gains/7769550.html |access-date=5 September 2024 |work=VOA |language=en}}</ref>",
                   "url": "https://www.voanews.com/a/seeking-reelection-algeria-s-tebboune-touts-gains/7769550.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"f24campaign\"/> Although the candidates encouraged people to vote, other activists and political parties called for a boycott.<ref>{{cite news| title=Algerian President Tebboune declared winner of presidential election for second term |url=https://www.pbs.org/newshour/world/algerian-president-tebboune-declared-winner-of-presidential-election-for-second-term |work=PBS |agency=AP}}</ref>",
                   "url": "https://www.pbs.org/newshour/world/algerian-president-tebboune-declared-winner-of-presidential-election-for-second-term",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -223,7 +223,7 @@
                 {
                   "text": "<ref name=\"climate\">{{Cite news |date=23 July 2024 |title=Prominent Algerian opposition figures blast 'authoritarian climate' ahead of presidential election |url=https://apnews.com/article/algeria-election-opposition-denounce-authoritarian-climate-1979092c65cffdbbc4902c158cd69f6e |access-date=23 July 2024 |work=Associated Press |language=en}}</ref>",
                   "url": "https://apnews.com/article/algeria-election-opposition-denounce-authoritarian-climate-1979092c65cffdbbc4902c158cd69f6e",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -236,28 +236,28 @@
                 {
                   "text": "<ref name=\"f24campaign\">{{Cite news |date=5 September 2024 |title=Algerians to vote as incumbent Tebboune poised for easy victory |url=https://www.france24.com/en/live-news/20240905-algerians-to-vote-as-incumbent-tebboune-poised-for-easy-victory |access-date=5 September 2024 |work=France 24 |language=en}}</ref>",
                   "url": "https://www.france24.com/en/live-news/20240905-algerians-to-vote-as-incumbent-tebboune-poised-for-easy-victory",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=7 September 2024 |title=Algeria heads to the polls for presidential elections |url=https://www.france24.com/en/live-news/20240907-algeria-votes-as-tebboune-eyes-easy-re-election |access-date=7 September 2024 |work=France 24 |language=en}}</ref>",
                   "url": "https://www.france24.com/en/live-news/20240907-algeria-votes-as-tebboune-eyes-easy-re-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=8 September 2024 |title=Polls close in Algeria's presidential contest as Tebboune eyes re-election |url=https://www.aljazeera.com/news/2024/9/7/polls-close-in-algerias-presidential-contest-as-tebboune-eyes-re-election |access-date=8 September 2024 |work=Al Jazeera |language=en}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/9/7/polls-close-in-algerias-presidential-contest-as-tebboune-eyes-re-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=8 September 2024 |title=Algeria's 78-year-old president is expected to breeze to a second term in election |url=https://apnews.com/article/algeria-president-election-tebboune-cherif-aouchiche-6b6a6e6350d4719ad9f82751bb63e808 |access-date=8 September 2024 |work=Associated Press |language=en}}</ref>",
                   "url": "https://apnews.com/article/algeria-president-election-tebboune-cherif-aouchiche-6b6a6e6350d4719ad9f82751bb63e808",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -270,8 +270,8 @@
                 {
                   "text": "<ref>{{cite web |last1=Chikhi |first1=Lamine |last2=Elimam |first2=Ahmed |last3=Lawson |first3=Hugh |title=Algerian candidate Hassani Cherif's campaign says it recorded election violations |url=https://www.reuters.com/world/africa/algerian-candidate-hassani-cherifs-campaign-says-it-recorded-election-violations-2024-09-08/ |website=Reuters |access-date=8 September 2024}}</ref>",
                   "url": "https://www.reuters.com/world/africa/algerian-candidate-hassani-cherifs-campaign-says-it-recorded-election-violations-2024-09-08/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 }
               ]
@@ -325,21 +325,21 @@
                 {
                   "text": "<ref>{{cite web |title=Algerian opposition candidates legally challenge provisional results of presidential polls |url=https://www.africanews.com/2024/09/11/algerian-opposition-candidates-legally-challenge-provisional-results-of-presidential-polls/ |website=Africanews |access-date=12 September 2024}}</ref>",
                   "url": "https://www.africanews.com/2024/09/11/algerian-opposition-candidates-legally-challenge-provisional-results-of-presidential-polls/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Algerian court certifies Tebboune's landslide reelection win |url=https://apnews.com/article/algeria-election-court-confirms-tebboune-victory-c038da8daca9b428971b3c30cbfb57aa |website=Associated Press |access-date=15 September 2024}}</ref>",
                   "url": "https://apnews.com/article/algeria-election-court-confirms-tebboune-victory-c038da8daca9b428971b3c30cbfb57aa",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Algeria's Tebboune re-elected with 84% of vote, according to official results |url=https://www.france24.com/en/africa/20240914-algeria-s-tebboune-re-elected-with-84-of-vote-according-to-official-results |website=France 24 |access-date=15 September 2024}}</ref>",
                   "url": "https://www.france24.com/en/africa/20240914-algeria-s-tebboune-re-elected-with-84-of-vote-according-to-official-results",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -352,7 +352,7 @@
                 {
                   "text": "<ref>{{cite web |title=Algeria’s president sworn in for a second term after lopsided election |url=https://apnews.com/article/algeria-president-election-tebboune-inaugurated-0255105ea3f25a14f4d2b1194e89264c |website=Associated Press |access-date=17 September 2024}}</ref>",
                   "url": "https://apnews.com/article/algeria-president-election-tebboune-inaugurated-0255105ea3f25a14f4d2b1194e89264c",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

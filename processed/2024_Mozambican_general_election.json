@@ -14,21 +14,21 @@
                 {
                   "text": "<ref>{{Cite web|title=Mozambique to Hold Presidential Election Oct. 9 Next Year|url=https://www.bloomberg.com/news/articles/2023-08-04/mozambique-to-hold-presidential-election-oct-9-next-year|website=Bloomberg|date=4 August 2023}}</ref>",
                   "url": "https://www.bloomberg.com/news/articles/2023-08-04/mozambique-to-hold-presidential-election-oct-9-next-year",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=7 August 2023 |title=Mozambique to Hold General Elections On October 9, Next Year • 360 Mozambique |url=https://360mozambique.com/development/mozambique-to-hold-presidential-election-on-october-9-next-year/ |access-date=12 September 2023 |website=360 Mozambique |language=en-GB}}</ref>",
                   "url": "https://360mozambique.com/development/mozambique-to-hold-presidential-election-on-october-9-next-year/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Mozambique: Presidential, legislative elections scheduled for 9 October 2024 |url=https://clubofmozambique.com/news/mozambique-presidential-legislative-elections-scheduled-for-9-october-2024-242721/ |access-date=12 September 2023 |website=Mozambique |language=en-US}}</ref>",
                   "url": "https://clubofmozambique.com/news/mozambique-presidential-legislative-elections-scheduled-for-9-october-2024-242721/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -41,21 +41,21 @@
                 {
                   "text": "<ref>{{cite web |title=Mozambique: October 9 |url=https://africacenter.org/spotlight/2024-elections/mozambique/ |website=Africa Center for Strategic Studies |access-date=1 April 2024}}</ref>",
                   "url": "https://africacenter.org/spotlight/2024-elections/mozambique/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Mozambique top court confirms ruling party's win in disputed election |url=https://www.aljazeera.com/news/2024/12/23/mozambique-top-court-confirms-ruling-partys-win-in-disputed-election |website=Al Jazeera |access-date=23 December 2024}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/12/23/mozambique-top-court-confirms-ruling-partys-win-in-disputed-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Mozambique post-election violence kills 125 in three days: NGO |url=https://www.france24.com/en/live-news/20241226-mozambique-post-election-violence-kills-125-in-three-days-ngo |website=France 24 |access-date=27 December 2024}}</ref>",
                   "url": "https://www.france24.com/en/live-news/20241226-mozambique-post-election-violence-kills-125-in-three-days-ngo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -107,7 +107,7 @@
                 {
                   "text": "<ref>{{cite web |title='We will win!': Mozambique's ruling party confident at final vote rally |url=https://www.france24.com/en/live-news/20241006-we-will-win-mozambique-s-ruling-party-confident-at-final-vote-rally |website=France 24 |date=7 October 2024 |access-date=7 October 2024}}</ref>",
                   "url": "https://www.france24.com/en/live-news/20241006-we-will-win-mozambique-s-ruling-party-confident-at-final-vote-rally",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -130,14 +130,14 @@
                 {
                   "text": "<ref>{{cite web |title=Mozambique's ruling party names new leader ahead of elections |url=https://www.africanews.com/2024/05/06/mozambiques-ruling-party-names-new-leader-ahead-of-elections/ |website=Africanews |date=6 May 2024 |access-date=7 May 2024}}</ref>",
                   "url": "https://www.africanews.com/2024/05/06/mozambiques-ruling-party-names-new-leader-ahead-of-elections/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"bbc\">{{cite web |title=Fresh faces in Mozambique's poll as independence era leaders bow out |url=https://www.bbc.com/news/articles/c9qv1nw302ro |website=BBC |date=6 October 2024 |access-date=6 October 2024}}</ref>",
                   "url": "https://www.bbc.com/news/articles/c9qv1nw302ro",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -150,7 +150,7 @@
                 {
                   "text": "<ref>{{cite web |title=Mozambique: MDM elects Lutero Simango as its presidential candidate |url=https://clubofmozambique.com/news/mozambique-mdm-elects-lutero-simango-as-its-presidential-candidate-257825/ |website=Club of Mozambique |date=6 May 2024 |access-date=9 May 2024}}</ref>",
                   "url": "https://clubofmozambique.com/news/mozambique-mdm-elects-lutero-simango-as-its-presidential-candidate-257825/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -163,42 +163,42 @@
                 {
                   "text": "<ref name=\"africa\">{{cite web |title=Mozambique's presidential election: Here's what to know |url=https://www.africanews.com/2024/10/08/mozambiques-presidential-election-heres-what-to-know/ |website=Africanews |date=8 October 2024 |access-date=8 October 2024}}</ref>",
                   "url": "https://www.africanews.com/2024/10/08/mozambiques-presidential-election-heres-what-to-know/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"bbc\"/> Mondlane was supported by the newly established Optimist Party for the Development of Mozambique (PODEMOS), as well as the Democratic Alliance, a coalition of opposition parties that were barred from contesting the election.<ref>{{cite web |title=Mozambique votes for president and the ruling party could extend its 49 years in power |url=https://apnews.com/article/mozambique-election-president-frelimo-chapo-bdcef382aa0462bfdbe8d89ca284b241 |website=Associated Press |date=9 October 2024 |access-date=9 October 2024}}</ref>",
                   "url": "https://apnews.com/article/mozambique-election-president-frelimo-chapo-bdcef382aa0462bfdbe8d89ca284b241",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Mozambique's election: Who's contesting and what's at stake? |url=https://www.aljazeera.com/news/2024/10/9/mozambiques-election-whos-contesting-and-whats-at-stake |website=Al Jazeera |date=9 October 2024 |access-date=9 October 2024}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/10/9/mozambiques-election-whos-contesting-and-whats-at-stake",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=14 October 2024 |title=Venâncio Mondlane não reconhece possível vitória de Daniel Chapo |url=https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20241014-ven%C3%A2ncio-mondlane-n%C3%A3o-reconhece-poss%C3%ADvel-vit%C3%B3ria-de-daniel-chapo |access-date=16 October 2024 |website=RFI |language=pt}}</ref>",
                   "url": "https://www.rfi.fr/pt/%C3%A1frica-lus%C3%B3fona/20241014-ven%C3%A2ncio-mondlane-n%C3%A3o-reconhece-poss%C3%ADvel-vit%C3%B3ria-de-daniel-chapo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=O país acorda em suspense: Quem irá liderar Moçambique?|date=10 October 2024|url=https://www.dw.com/pt-002/o-pa%C3%ADs-acorda-em-suspense-quem-ir%C3%A1-liderar-mo%C3%A7ambique/a-70451546 |access-date=16 October 2024 |website=dw.com |language=pt}}</ref>",
                   "url": "https://www.dw.com/pt-002/o-pa%C3%ADs-acorda-em-suspense-quem-ir%C3%A1-liderar-mo%C3%A7ambique/a-70451546",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=SAPO |title=Moçambique. Podemos admite que Venâncio Mondlane se possa tornar líder do partido |url=https://24.sapo.pt/atualidade/artigos/mocambique-podemos-admite-que-venancio-mondlane-se-possa-tornar-lider-do-partido |access-date=16 October 2024 |website=SAPO 24 |language=pt}}</ref>",
                   "url": "https://24.sapo.pt/atualidade/artigos/mocambique-podemos-admite-que-venancio-mondlane-se-possa-tornar-lider-do-partido",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -221,15 +221,15 @@
                 {
                   "text": "<ref name=\"delgado\"/> Both Chapo and Mondlane also made campaign stops in neighbouring South Africa, appealing to overseas voters there.<ref name=\"bbc\"/> All three candidates named the resolution of the Insurgency in Cabo Delgado as their main priority.<ref name=\"delgado\">{{cite web |title=Mozambique headed for crucial elections amid jihadist insurgency and drought-induced hunger |url=https://apnews.com/article/mozambique-elections-insurgency-drought-cabo-delgado-96a9301e0c1f0333e2d959fae2f7af12 |website=Associated Press|first1=Charles|last1=Mangwiro|first2=Mogomotsi|last2=Magome |date=7 October 2024 |access-date=7 October 2024}}</ref>",
                   "url": "https://apnews.com/article/mozambique-elections-insurgency-drought-cabo-delgado-96a9301e0c1f0333e2d959fae2f7af12",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"Reuters 10-9\">{{cite web |last1=Peyton |first1=Nellie |last2=Mucari |first2=Manuel |title=Mozambique ruling party eyes new term as election runs peacefully |url=https://www.reuters.com/world/africa/voting-begins-mozambique-election-likely-see-ruling-party-win-2024-10-09/ |website=Reuters |access-date=9 October 2024}}</ref>",
                   "url": "https://www.reuters.com/world/africa/voting-begins-mozambique-election-likely-see-ruling-party-win-2024-10-09/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 }
               ]
@@ -251,15 +251,15 @@
                 {
                   "text": "<ref name=\"delgado\"/> Observers were also deployed by the African Union and the European Union.<ref name=\"aueu\">{{cite web |title=Mozambique counts votes in its presidential election as opposition alleges fraud |url=https://apnews.com/article/mozambique-election-president-frelimo-chapo-bdcef382aa0462bfdbe8d89ca284b241 |website=Associated Press|first=Charles|last=Mangwiro |date=10 October 2024 |access-date=10 October 2024}}</ref>",
                   "url": "https://apnews.com/article/mozambique-election-president-frelimo-chapo-bdcef382aa0462bfdbe8d89ca284b241",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"Reuters-Fraud\">{{cite web |last1=Peyton |first1=Nellie |title=Mozambique counts votes amid allegations of irregularities |url=https://www.reuters.com/world/africa/mozambique-early-vote-counting-under-way-after-peaceful-election-2024-10-10/ |website=Reuters |access-date=14 October 2024}}</ref>",
                   "url": "https://www.reuters.com/world/africa/mozambique-early-vote-counting-under-way-after-peaceful-election-2024-10-10/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 }
               ]
@@ -271,7 +271,7 @@
                 {
                   "text": "<ref>{{cite web |title=Mozambique elects new president in tense vote |url=https://www.france24.com/en/live-news/20241009-mozambique-elects-new-president-in-tense-vote |website=France 24 |date=9 October 2024 |access-date=9 October 2024}}</ref>",
                   "url": "https://www.france24.com/en/live-news/20241009-mozambique-elects-new-president-in-tense-vote",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -294,7 +294,7 @@
                 {
                   "text": "<ref name=\"Attorney General\">{{cite web |title=Mozambique Elections: Attorney-General's Office summons Venâncio Mondlane – AIM |url=https://clubofmozambique.com/news/mozambique-elections-attorney-generals-office-summons-venancio-mondlane-aim-268731/ |website=clubofmozambique.com |access-date=16 October 2024}}</ref>",
                   "url": "https://clubofmozambique.com/news/mozambique-elections-attorney-generals-office-summons-venancio-mondlane-aim-268731/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -307,29 +307,29 @@
                 {
                   "text": "<ref>{{cite web |last1=Mucari |first1=Manuel |title=Mozambique ruling party leads early election results as opposition cries foul |url=https://www.reuters.com/world/africa/mozambique-ruling-party-leads-early-election-results-opposition-cries-foul-2024-10-16/ |website=Reuters |access-date=16 October 2024}}</ref>",
                   "url": "https://www.reuters.com/world/africa/mozambique-ruling-party-leads-early-election-results-opposition-cries-foul-2024-10-16/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web|url=https://www.bbc.com/news/articles/c14lzy75355o|title=Mozambique's ruling party wins landslide in disputed poll|work=BBC News|first1=Danai|last1=Nesta Kupemba|first2= Shingai|last2=Nyoka|date=24 October 2024|access-date=24 October 2024}}</ref>",
                   "url": "https://www.bbc.com/news/articles/c14lzy75355o",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Hill |first1=Matthew |title=Mozambican Opposition Leader Warns of New Election Protests |url=https://www.bloomberg.com/news/articles/2024-10-28/mozambique-eelctions-opposition-leader-warns-of-renewed-protests |website=Bloomberg news |access-date=28 October 2024}}</ref>",
                   "url": "https://www.bloomberg.com/news/articles/2024-10-28/mozambique-eelctions-opposition-leader-warns-of-renewed-protests",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |title=Acórdão nº 24/CC/2024 - Validação de Eleições Gerais (Presidencial e dos Deputados da Assembleia da República) e das Assembleias Provinciais e do Governador de Província |url=https://web.archive.org/web/20241224082956/https://www5.open.ac.uk/technology/mozambique/sites/www.open.ac.uk.technology.mozambique/files/files/Acordao%2050%202024%20Proclamac%CC%A7a%CC%83o.pdf |website=Constitutional Council |date=22 December 2024 |access-date=28 December 2024 |language=pt}}</ref>",
                   "url": "https://web.archive.org/web/20241224082956/https://www5.open.ac.uk/technology/mozambique/sites/www.open.ac.uk.technology.mozambique/files/files/Acordao%2050%202024%20Proclamac%CC%A7a%CC%83o.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
                   "type": "web"
                 }
               ]
@@ -387,21 +387,21 @@
                 {
                   "text": "<ref>{{cite web |title=China congratulates Daniel Chapo on election as Mozambique's President |url=https://www.tvcnews.tv/2024/10/china-congratulates-daniel-chapo-on-election-as-mozambiques-president/ |website=TVC News |date=26 October 2024 |access-date=29 October 2024}}</ref>",
                   "url": "https://www.tvcnews.tv/2024/10/china-congratulates-daniel-chapo-on-election-as-mozambiques-president/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=President Ramaphosa welcomes preliminary General Elections results in Mozambique |url=https://dirco.gov.za/president-ramaphosa-welcomes-preliminary-general-elections-results-in-mozambique/ |website=Department of International Relations and Cooperation |date=27 October 2024 |access-date=29 October 2024}}</ref>",
                   "url": "https://dirco.gov.za/president-ramaphosa-welcomes-preliminary-general-elections-results-in-mozambique/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"border\">{{cite web |title=South Africa closes its border again with Mozambique, where post-election violence worsens |url=https://apnews.com/article/mozambique-elections-protests-violence-d0856588349937fa1975032bd3de552f |website=Associated Press |date=7 November 2024 |access-date=7 November 2024}}</ref>",
                   "url": "https://apnews.com/article/mozambique-elections-protests-violence-d0856588349937fa1975032bd3de552f",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

@@ -1,0 +1,638 @@
+{
+  "title": "2023_Odisha_train_collision",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Crash",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "On 2 June 2023, the Coromandel Express (Train no:12841) was travelling from Shalimar railway station|Shalimar in Howrah, West Bengal, to Chennai Central railway station|Chennai Central in Chennai, Tamil Nadu on the Rail directions#Up and down|up line of the Howrah-Chennai main line near Bahanaga Bazar railway station. At the same time, the Howrah–SMVT Bengaluru Superfast Express|SMVT Bengaluru–Howrah Express (Train no:12864) was travelling in the opposite direction from Sir M. Visvesvaraya Terminal in Bengaluru, Karnataka, to Howrah railway station|Howrah on the adjacent down line. Both trains were not scheduled to stop at the Bahanaga Bazar railway station and received a green signal to proceed along the main line. The trains were travelling fast, close to the maximum permitted speed of {{cvt|128|kph}}.",
+              "references": [
+                {
+                  "text": "<ref name=\"BBC1\">{{cite news |date=4 June 2023 |title=India train disaster: Signal fault the likely cause, minister says |work=BBC News |url=https://www.bbc.com/news/world-asia-india-65801807 |url-status=live |access-date=4 June 2023 |archive-url=https://web.archive.org/web/20230604144919/https://www.bbc.com/news/world-asia-india-65801807 |archive-date=4 June 2023}}</ref>",
+                  "url": "https://www.bbc.com/news/world-asia-india-65801807",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |date=3 June 2023 |title=Balasore: How did three trains collide in Odisha? |work=BBC News |url=https://www.bbc.com/news/world-asia-india-65796173 |access-date=6 June 2023 |archive-date=3 June 2023 |archive-url=https://archive.today/20230603182629/https://www.bbc.com/news/world-asia-india-65796173 |url-status=live }}</ref>",
+                  "url": "https://www.bbc.com/news/world-asia-india-65796173",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Crash\">{{cite news |url=https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-three-train-accident-288-dead-in-indias-worst-train-tragedy-since-1995/articleshow/100733374.cms |title=Odisha three-train accident: 288 dead in India's worst train tragedy since 1995; survivors recount horrors |newspaper=The Times of India |date=4 June 2023 |access-date=14 June 2024 |archive-date=14 June 2024 |archive-url=https://web.archive.org/web/20240614235802/https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-three-train-accident-288-dead-in-indias-worst-train-tragedy-since-1995/articleshow/100733374.cms |url-status=live }}</ref>",
+                  "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-three-train-accident-288-dead-in-indias-worst-train-tragedy-since-1995/articleshow/100733374.cms",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "At about 19:00 Indian Standard Time|IST, the Coromandel Express was intended to pass straight on the up line but was wrongly switched to the parallel up Siding (rail)#Passing siding|loop line, where it collided with a stationary goods train laden with iron ore. Because of the high speed of the passenger train and the weight of the goods train, 21 coaches of the Coromandel Express derailed. The goods train did not derail.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |date=3 June 2023 |title=Death toll in Odisha train accident rises to 288 |newspaper=The Hindu |url=https://www.thehindu.com/news/national/other-states/death-toll-in-odisha-train-accident-rises-to-288/article66927643.ece |access-date=6 June 2023 |issn=0971-751X |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603174949/https://www.thehindu.com/news/national/other-states/death-toll-in-odisha-train-accident-rises-to-288/article66927643.ece |url-status=live }}</ref>",
+                  "url": "https://www.thehindu.com/news/national/other-states/death-toll-in-odisha-train-accident-rises-to-288/article66927643.ece",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |date=3 June 2023 |title=Photos: 70+ killed, over 600 injured in Balasore triple train crash in Odisha |url=https://www.hindustantimes.com/photos/news/coromandel-express-train-accident-balasore-odisha-triple-train-crash-news-updates-ashwini-vaishnaw-railways-news-101685735547073.html |url-status=live |archive-url=https://web.archive.org/web/20230602202630/https://www.hindustantimes.com/photos/news/coromandel-express-train-accident-balasore-odisha-triple-train-crash-news-updates-ashwini-vaishnaw-railways-news-101685735547073.html |archive-date=2 June 2023 |access-date=2 June 2023 |newspaper=The Hindustan Times}}</ref>",
+                  "url": "https://www.hindustantimes.com/photos/news/coromandel-express-train-accident-balasore-odisha-triple-train-crash-news-updates-ashwini-vaishnaw-railways-news-101685735547073.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |date=4 June 2023 |title=Odisha three-train accident: 288 dead in India's worst train tragedy since 1995; survivors recount horrors |newspaper=The Times of India |url=https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-three-train-accident-288-dead-in-indias-worst-train-tragedy-since-1995/articleshow/100733374.cms?from=mdr |access-date=4 June 2023 |issn=0971-8257}}</ref>",
+                  "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-three-train-accident-288-dead-in-indias-worst-train-tragedy-since-1995/articleshow/100733374.cms?from=mdr",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"BBC1\" /> Three of the derailed coaches from the Coromandel Express careened into the adjacent track and whip-lashed the tail end of the Howrah–SMVT Bengaluru Superfast Express|SMVT Bengaluru–Howrah Express, which was crossing on the down line at the same time. Two unreserved coaches and the brake van of the SMVT Bengaluru–Howrah Express derailed.<ref name=\"BBC1\"/><ref name=\"Crash\"/><ref>{{cite news|url=https://www.thenewsminute.com/karnataka/odisha-train-accident-steady-rise-body-count-identifying-dead-tough-task-178013|title=Odisha train accident: Steady rise in body count, identifying the dead a tough task|work=News Minute|date=3 June 2023|access-date=1 June 2024}}</ref>",
+                  "url": "https://www.thenewsminute.com/karnataka/odisha-train-accident-steady-rise-body-count-identifying-dead-tough-task-178013",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Emergency response",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "Indian Railways published the reservation charts for both the passenger trains on its website. The railways and the governments of Government of Odisha|Odisha, Government of West Bengal|West Bengal and Government of Tamil Nadu|Tamil Nadu issued helpline numbers. According to the Chief Secretary (India)|Chief Secretary of Odisha, three National Disaster Response Force (NDRF) units, four Odisha Disaster Rapid Action Force (ODRAF) units, more than 15 fire rescue teams, 100 doctors, 200 police personnel and 200 ambulances were mobilised for the rescue operations. Locals assisted in the relief effort, helping the stranded passengers and transporting the injured passengers to the hospital.",
+              "references": [
+                {
+                  "text": "<ref name=\"IR12841\" group=\"‡\">{{cite web |title=Contingency train chart |url=https://www.indianrail.gov.in/StaticContents/acc_chart_12841.html |access-date=21 June 2024 |archiveurl=https://web.archive.org/web/20230603151645/https://www.indianrail.gov.in/StaticContents/acc_chart_12841.html |archive-date=3 June 2023}}</ref>",
+                  "url": "https://www.indianrail.gov.in/StaticContents/acc_chart_12841.html",
+                  "status_code": null,
+                  "reason": "Cannot connect to host www.indianrail.gov.in:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)]",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"IR12864\" group=\"‡\">{{cite web |title=Contingency train chart |url=https://www.indianrail.gov.in/StaticContents/acc_chart_12864.html |access-date=21 June 2024 |archive-url=https://web.archive.org/web/20230603151646/https://www.indianrail.gov.in/StaticContents/acc_chart_12864.html |archive-date=3 June 2023}}</ref>",
+                  "url": "https://www.indianrail.gov.in/StaticContents/acc_chart_12864.html",
+                  "status_code": null,
+                  "reason": "Cannot connect to host www.indianrail.gov.in:443 ssl:default [[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1010)]",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news |date=3 June 2023 |title=Odisha Train Accident: Check complete list of helpline numbers issued so far |url=https://www.livemint.com/news/india/odisha-train-accident-check-complete-list-of-helpline-numbers-issued-so-far-11685760961179.html |access-date=3 June 2023 |work=Live Mint |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603170241/https://www.livemint.com/news/india/odisha-train-accident-check-complete-list-of-helpline-numbers-issued-so-far-11685760961179.html |url-status=live }}</ref>",
+                  "url": "https://www.livemint.com/news/india/odisha-train-accident-check-complete-list-of-helpline-numbers-issued-so-far-11685760961179.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|date=3 June 2023 |title=Odisha Train Accident: Check complete list of helpline numbers issued so far |url=https://tamil.oneindia.com/news/chennai/coromandel-express-emergency-control-room-has-been-activated-514675.html |url-status=live |archive-url=https://web.archive.org/web/20230602225837/https://tamil.oneindia.com/news/chennai/coromandel-express-emergency-control-room-has-been-activated-514675.html |archive-date=2 June 2023 |access-date=3 June 2023 |work=One India |language=ta}}</ref>",
+                  "url": "https://tamil.oneindia.com/news/chennai/coromandel-express-emergency-control-room-has-been-activated-514675.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Rescue Teams At Odisha Train Crash Site, Ops To Last 3 More Hours: Official |url=https://www.ndtv.com/india-news/odisha-train-accident-national-disaster-response-force-60-ambulances-reach-site-4089667 |url-status=live |archive-url=https://web.archive.org/web/20230602175125/https://www.ndtv.com/india-news/odisha-train-accident-national-disaster-response-force-60-ambulances-reach-site-4089667 |archive-date=2 June 2023 |access-date=2 June 2023 |work=NDTV}}</ref>",
+                  "url": "https://www.ndtv.com/india-news/odisha-train-accident-national-disaster-response-force-60-ambulances-reach-site-4089667",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"BBC Live\">{{cite news |date=3 June 2023 |title=India train crash: More than 280 dead after Odisha incident |url=https://www.bbc.com/news/world-asia-india-65793257 |url-status=live |archive-url=https://web.archive.org/web/20230602223237/https://www.bbc.com/news/world-asia-india-65793257 |archive-date=2 June 2023 |access-date=2 June 2023 |work=BBC News}}</ref>",
+                  "url": "https://www.bbc.com/news/world-asia-india-65793257",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last=Sharma |first=Ashok |date=2 June 2023 |title=More than 200 killed and 900 hurt after 2 trains derail in India; hundreds still trapped in coaches |url=https://apnews.com/article/india-train-derailment-odisha-f272d8811ed7826ea2fb110b8eb26441 |url-status=live |archive-url=https://web.archive.org/web/20230602185451/https://apnews.com/article/india-train-derailment-odisha-f272d8811ed7826ea2fb110b8eb26441 |archive-date=2 June 2023 |access-date=3 June 2023 |work=AP News}}</ref>",
+                  "url": "https://apnews.com/article/india-train-derailment-odisha-f272d8811ed7826ea2fb110b8eb26441",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "The Government of West Bengal sent a team consisting of 40 doctors, nurses and 30 ambulances to assist in the rescue operations. The Government of Tamil Nadu sent a high level delegation comprising two state ministers and three Indian Administrative Service|IAS officers to assist the passengers and arranged a treatment facility with 70 beds at Chennai's Rajiv Gandhi Government General Hospital. Search and rescue dog|Search dogs were used to find survivors. The search and recovery operations continued till the afternoon of 3 June. Locals from neighbouring areas helped in Blood donation|donating blood to treat the injured.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |date=3 June 2023 |title=Balasore train disaster: Century's biggest, says Mamata Banerjee |newspaper=The Times of India |url=https://timesofindia.indiatimes.com/india/balasore-train-disaster-centurys-biggest-says-mamata-banerjee/articleshow/100727077.cms |url-status=live |access-date=4 June 2023 |archive-url=https://web.archive.org/web/20230603223129/https://timesofindia.indiatimes.com/india/balasore-train-disaster-centurys-biggest-says-mamata-banerjee/articleshow/100727077.cms |archive-date=3 June 2023 |issn=0971-8257}}</ref>",
+                  "url": "https://timesofindia.indiatimes.com/india/balasore-train-disaster-centurys-biggest-says-mamata-banerjee/articleshow/100727077.cms",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |date=3 June 2023 |title=Odisha Train Accident: Tamil Nadu Govt Sends Ministerial Delegation to Coordinate Rescue |work=News 18 |url=https://www.news18.com/india/odisha-train-accident-tamil-nadu-govt-sends-ministerial-delegation-to-coordinate-rescue-7992895.html |url-status=live |access-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603134315/https://www.news18.com/india/odisha-train-accident-tamil-nadu-govt-sends-ministerial-delegation-to-coordinate-rescue-7992895.html |archive-date=3 June 2023}}</ref>",
+                  "url": "https://www.news18.com/india/odisha-train-accident-tamil-nadu-govt-sends-ministerial-delegation-to-coordinate-rescue-7992895.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|url=https://www.businesstoday.in/latest/in-focus/story/odisha-train-accident-gas-cutters-sniffer-dogs-and-heavy-duty-cranes-how-rescuers-managed-to-save-lives-in-balasore-384075-2023-06-03|title=Odisha train accident: Gas cutters, sniffer dogs and heavy-duty cranes, how rescuers managed to save lives in Balasore|date=3 June 2023|access-date=1 June 2024|work=Business Today (India)|Business Today}}</ref>",
+                  "url": "https://www.businesstoday.in/latest/in-focus/story/odisha-train-accident-gas-cutters-sniffer-dogs-and-heavy-duty-cranes-how-rescuers-managed-to-save-lives-in-balasore-384075-2023-06-03",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Indi\">{{cite news |date=3 June 2023 |title=Survivors recount 'haunting' scenes as country demands answers – latest|url=https://www.independent.co.uk/asia/india/odisha-train-accident-coromandel-express-latest-b2350743.html |url-status=live |archive-url=https://web.archive.org/web/20230603133217/https://www.independent.co.uk/asia/india/odisha-train-accident-coromandel-express-latest-b2350743.html |archive-date=3 June 2023 |access-date=3 June 2023 |work=The Independent}}</ref>",
+                  "url": "https://www.independent.co.uk/asia/india/odisha-train-accident-coromandel-express-latest-b2350743.html",
+                  "status_code": 405,
+                  "reason": "Not allowed.",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"HT\">{{cite news |date=3 June 2023 |title=Odisha train crash: 'Signal was given and taken off'; toll nears 290. Top points |url=https://www.hindustantimes.com/india-news/odisha-train-crash-balasore-narendra-modi-signal-taken-off-toll-nears-290-top-points-101685812798401.html |access-date=3 June 2023 |newspaper=The Hindustan Times |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603182130/https://www.hindustantimes.com/india-news/odisha-train-crash-balasore-narendra-modi-signal-taken-off-toll-nears-290-top-points-101685812798401.html |url-status=live }}</ref>",
+                  "url": "https://www.hindustantimes.com/india-news/odisha-train-crash-balasore-narendra-modi-signal-taken-off-toll-nears-290-top-points-101685812798401.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"HT2\">{{cite news |date=4 June 2023 |title=Odisha tragedy: Balasore hospitals crumble under a deluge of patients |url=https://www.hindustantimes.com/india-news/indias-biggest-train-accident-in-28-years-leaves-294-dead-and-1-110-injured-hospitals-overwhelmed-in-rural-odisha-101685819446713.html |access-date=3 June 2023 |newspaper=The Hindustan Times }}</ref>",
+                  "url": "https://www.hindustantimes.com/india-news/indias-biggest-train-accident-in-28-years-leaves-294-dead-and-1-110-injured-hospitals-overwhelmed-in-rural-odisha-101685819446713.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Victims",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "A total of 296 people died in the crash. Most of the casualties were from the first three cars of the Coromandel Express, which included two Indian Railways coaching stock|general category coaches. These unreserved coaches were often the most crowded as it allowed anyone with the cheapest category ticket to board without a specific seat reserved for them and were frequently used by migrant workers. As the railways had only the names of passengers with reserved seats, this made identification more difficult.",
+              "references": [
+                {
+                  "text": "<ref name=\"296 deaths\"/> Bodies of deceased passengers were taken to a local high school, chosen due to its open spaces and its location close to the crash site. Identification of the bodies was made difficult due to burns and other trauma, which led officials to use the belongings to try and identify the passengers.<ref name=\"IE\">{{cite news |date=3 June 2023 |title=Odisha train tragedy: School becomes morgue, identifying dead a big challenge |url=https://indianexpress.com/article/india/odisha-train-tragedy-school-becomes-morgue-8644157/ |url-status=live |archive-url=https://web.archive.org/web/20230603161705/https://indianexpress.com/article/india/odisha-train-tragedy-school-becomes-morgue-8644157/ |archive-date=3 June 2023 |access-date=3 June 2023 |newspaper=The Indian Express}}</ref>",
+                  "url": "https://indianexpress.com/article/india/odisha-train-tragedy-school-becomes-morgue-8644157/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"NT\">{{cite news|first1=Sameer|last1=Yasir|first2=Mujib|last2=Mashal|first3=Hari|last3=Kumar|title=Faceless, Nameless and Dead by the Dozen in a Train's Cheapest Cars|date=11 June 2023|work=The New York Times|url=https://www.nytimes.com/2023/06/11/world/asia/india-train-crash.html|access-date=11 June 2023|archive-date=11 June 2023|archive-url=https://web.archive.org/web/20230611090623/https://www.nytimes.com/2023/06/11/world/asia/india-train-crash.html|url-status=live}}</ref>",
+                  "url": "https://www.nytimes.com/2023/06/11/world/asia/india-train-crash.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=How India's train crash affected poor the most |url=https://www.reuters.com/graphics/INDIA-CRASH/RAIL-INVESTIGATION/dwvkdwnbkpm/ |work=Reuters |date=14 June 2023 |access-date=30 August 2023 |archive-date=30 August 2023 |archive-url=https://web.archive.org/web/20230830174643/https://www.reuters.com/graphics/INDIA-CRASH/RAIL-INVESTIGATION/dwvkdwnbkpm/ |url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/graphics/INDIA-CRASH/RAIL-INVESTIGATION/dwvkdwnbkpm/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"NT\"/> There were allegations of bodies being handed over to the wrong families due to difficulties in identification and DNA tests were carried out to try and identify the unclaimed bodies.<ref>{{cite news|url=https://www.independent.co.uk/asia/india/odisha-train-accident-victim-dna-test-b2353002.html|title=Families await DNA tests in fight over India train crash victims: 'There are headless bodies, maybe my father is one of them|date=7 June 2023|access-date=1 June 2024|newspaper=The Independent}}</ref>",
+                  "url": "https://www.independent.co.uk/asia/india/odisha-train-accident-victim-dna-test-b2353002.html",
+                  "status_code": 405,
+                  "reason": "Not allowed.",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "Over 1,200 people were injured in the crash. Despite the severe impact, the train driver|locomotive pilot of the Coromandel Express and his assistant survived the crash with injuries.",
+              "references": [
+                {
+                  "text": "<ref name=\"296 deaths\"/> On 3 June, Odisha government officials indicated that 1,175 people were admitted to various hospitals as a result of the crash out of which 793 had minor injuries and were released after treatment, and 382 were undergoing treatment.<ref name=\"HT\"/> Local hospitals were overwhelmed by the influx of injured people and faced difficulties in providing patients with adequate care.<ref name=\"HT2\"/> South Western Railway zone|South Western Railway said that 994 reserved and 300 unreserved passengers were travelling on the Howrah Express that had departed from Bengaluru and that ascertaining the identification of passengers on the unreserved coaches would take time.<ref name=\"TN\">{{cite news |date=3 June 2023 |title=Bengaluru-Howrah Express Train Accident: No One From Reserved Coaches Injured or Dead |url=https://www.timesnownews.com/bengaluru/bengaluru-howrah-express-train-accident-no-one-from-reserved-coaches-injured-or-dead-article-100723856 |url-status=live |archive-url=https://web.archive.org/web/20230603102942/https://www.timesnownews.com/bengaluru/bengaluru-howrah-express-train-accident-no-one-from-reserved-coaches-injured-or-dead-article-100723856 |archive-date=3 June 2023 |access-date=3 June 2023 |work=Times Now}}</ref>",
+                  "url": "https://www.timesnownews.com/bengaluru/bengaluru-howrah-express-train-accident-no-one-from-reserved-coaches-injured-or-dead-article-100723856",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Odisha Train Accident: Injured Coromandel Express Drivers Stable |url=https://www.ndtv.com/india-news/odisha-train-accident-injured-coromandel-express-drivers-stable-4095669 |access-date=11 July 2023 |work=NDTV |archive-date=14 June 2024 |archive-url=https://web.archive.org/web/20240614235932/https://www.ndtv.com/india-news/odisha-train-accident-injured-coromandel-express-drivers-stable-4095669 |url-status=live }}</ref>",
+                  "url": "https://www.ndtv.com/india-news/odisha-train-accident-injured-coromandel-express-drivers-stable-4095669",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "Indian Railways announced a compensation of {{INRConvert|1|m}} to the families of the deceased, {{INRConvert|200|k}} to the severely injured, and {{INRConvert|50|k}} to those with minor injuries. Further, ex gratia compensation of {{INRconvert|200|k}} from the Prime Minister's National Relief Fund (PMNRF) was announced to the families of the deceased and {{INRconvert|50|k}} to the injured. West Bengal Chief Minister Mamata Banerjee announced a compensation of {{INRConvert|500|k}} to the families of the passengers from West Bengal who had been killed, {{INRConvert|100|k}} to those who had been critically injured, and {{INRConvert|50|k}} to those with minor injuries. The Government of Tamil Nadu announced a compensation of {{INRConvert|500|k}} to the kin of those who had died in the accident.",
+              "references": [
+                {
+                  "text": "<ref name=\"TOI Live\">{{Cite web |date=3 June 2023 |title=Coromandel express accident live: Death toll in Odisha train accident rises to 237 |url=https://timesofindia.indiatimes.com/city/odisha-coromandel-express-train-accident-news-live-several-feared-injured-as-odisha-bahanaga-train-derails/liveblog/100690360.cms |access-date=3 June 2023 |newspaper=The Times of India |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603060743/https://timesofindia.indiatimes.com/city/odisha-coromandel-express-train-accident-news-live-several-feared-injured-as-odisha-bahanaga-train-derails/liveblog/100690360.cms |url-status=live}}</ref>",
+                  "url": "https://timesofindia.indiatimes.com/india/odisha-train-accident-news-live-orissa-coromandel-express-train-crash-in-bahanaga-bazar-railway-station-balasore-june-6/liveblog/100833657.cms",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news |date=2 June 2023 |title=Odisha tragedy: What we know so far after accident involving three trains |url=https://www.hindustantimes.com/india-news/odisha-train-mishap-what-we-know-so-far-about-coromandel-express-accident-101685720829940.html |access-date=2 June 2023 |newspaper=The Hindustan Times |archive-date=2 June 2023 |archive-url=https://web.archive.org/web/20230602164543/https://www.hindustantimes.com/india-news/odisha-train-mishap-what-we-know-so-far-about-coromandel-express-accident-101685720829940.html |url-status=live}}</ref>",
+                  "url": "https://www.hindustantimes.com/india-news/odisha-train-mishap-what-we-know-so-far-about-coromandel-express-accident-101685720829940.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last=Luxmi |first=Bhagya |date=3 June 2023 |title='This is not time to do politics', Vaishnaw reacts to Banerjee's claim over death toll in Balasore tragedy |url=https://www.indiatvnews.com/news/india/odisha-train-tragedy-accident-balasore-mishap-railways-minister-ashwini-vaishnaw-on-mamata-banerjee-latest-updates-2023-06-03-874140 |access-date=4 June 2023 |work=India TV |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603162413/https://www.indiatvnews.com/news/india/odisha-train-tragedy-accident-balasore-mishap-railways-minister-ashwini-vaishnaw-on-mamata-banerjee-latest-updates-2023-06-03-874140 |url-status=live }}</ref>",
+                  "url": "https://www.indiatvnews.com/news/india/odisha-train-tragedy-accident-balasore-mishap-railways-minister-ashwini-vaishnaw-on-mamata-banerjee-latest-updates-2023-06-03-874140",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"IBN\">{{cite news |date=3 June 2023 |title=Odisha train accident: Tamilnadu Announced Compensation |url=https://www.news18.com/india/odisha-train-accident-tamil-nadu-govt-sends-ministerial-delegation-to-coordinate-rescue-7992895.html |access-date=3 June 2023 |work=News 18 |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603134315/https://www.news18.com/india/odisha-train-accident-tamil-nadu-govt-sends-ministerial-delegation-to-coordinate-rescue-7992895.html |url-status=live}}</ref>",
+                  "url": "https://www.news18.com/india/odisha-train-accident-tamil-nadu-govt-sends-ministerial-delegation-to-coordinate-rescue-7992895.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "5.s2",
+              "text": "The remainder of the SMVT Bengaluru–Howrah Express not affected by the crash, which included the engine and 20 coaches, left with its passengers and continued to Balasore railway station|Balasore, where a further damaged coach was detached. The remaining 19 coaches of the train and a special train arranged to accommodate the remaining passengers, arrived at Howrah on 3 June with 643 passengers. One of the buses carrying passengers crashed into another vehicle in West Bengal's Medinipur with some passengers suffering minor injuries. Another train left from Bhadrak railway station|Bhadrak for Chennai on the same day with 195 stranded passengers from the Coromandel Express.",
+              "references": [
+                {
+                  "text": "<ref name=\"TN\"/> Arrangements were made to check the health of the passengers and buses were arranged to take the passengers home.<ref>{{cite news |date=3 June 2023 |title=Howrah station turns into a hospital as train with those who cheated death arrives |url=https://indianexpress.com/article/india/howrah-station-turns-into-hospital-odisha-balasore-train-accident-8644090/ |access-date=3 June 2023 |newspaper=The Indian Express |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603162320/https://indianexpress.com/article/india/howrah-station-turns-into-hospital-odisha-balasore-train-accident-8644090/ |url-status=live}}</ref>",
+                  "url": "https://indianexpress.com/article/india/howrah-station-turns-into-hospital-odisha-balasore-train-accident-8644090/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Bus carrying passengers from Balasore crash site meets with accident in Bengal |url=https://www.indiatoday.in/india/story/balasore-train-accident-bus-carrying-passengers-collides-with-van-in-bengal-medinipur-2388452-2023-06-03 |access-date=3 June 2023 |work=India Today |date=3 June 2023 |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603155318/https://www.indiatoday.in/india/story/balasore-train-accident-bus-carrying-passengers-collides-with-van-in-bengal-medinipur-2388452-2023-06-03 |url-status=live}}</ref>",
+                  "url": "https://www.indiatoday.in/india/story/balasore-train-accident-bus-carrying-passengers-collides-with-van-in-bengal-medinipur-2388452-2023-06-03",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |date=3 June 2023 |title=Odisha rail accident: 1,200 stranded passengers to arrive at Howarh on Saturday |newspaper=The Economic Times |url=https://economictimes.indiatimes.com/industry/transportation/railways/odisha-rail-accident-1200-stranded-passengers-to-arrive-at-howarh-on-saturday/articleshow/100721175.cms |access-date=3 June 2023 |issn=0013-0389 |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603074212/https://economictimes.indiatimes.com/industry/transportation/railways/odisha-rail-accident-1200-stranded-passengers-to-arrive-at-howarh-on-saturday/articleshow/100721175.cms |url-status=live}}</ref>",
+                  "url": "https://economictimes.indiatimes.com/industry/transportation/railways/odisha-rail-accident-1200-stranded-passengers-to-arrive-at-howarh-on-saturday/articleshow/100721175.cms",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "5.s3",
+              "text": "In the aftermath, operations of more than 150 trains were impacted. The inaugural run of the Mumbai CSMT–Madgaon Vande Bharat Express, which had been scheduled for 3 June, was cancelled. The Ministry of Civil Aviation (India)|Ministry of Civil Aviation directed airlines to ensure that airfares did not surge in response to increased travel demand due to cancellation of trains. Bus fares in the region, however, showed a steep rise due to increased demand for seats. On 4 June, South Eastern Railway zone|South Eastern Railway announced that efforts had commenced restoring the tracks at the crash site.",
+              "references": [
+                {
+                  "text": "<ref name=\"HT\"/> At least 48 trains on the affected route were cancelled, 39 trains were diverted, and 10 were short-terminated on the day of the accident.<ref>{{cite news |title=288 Dead, 803 Injured After Horrific Three-Train Crash In Odisha |url=https://www.ndtv.com/india-news/odisha-train-accident-death-count-in-odisha-train-accident-rises-to-207-says-chief-secretary-4090267 |url-status=live |archive-url=https://web.archive.org/web/20230603045754/https://www.ndtv.com/india-news/odisha-train-accident-death-count-in-odisha-train-accident-rises-to-207-says-chief-secretary-4090267 |archive-date=3 June 2023 |access-date=3 June 2023 |work=NDTV}}</ref>",
+                  "url": "https://www.ndtv.com/india-news/odisha-train-accident-death-count-in-odisha-train-accident-rises-to-207-says-chief-secretary-4090267",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |date=2 June 2023 |title=Flagging off function of Goa-Mumbai Vande Bharat Express cancelled following Odisha train tragedy |newspaper=The Times of India |url=https://timesofindia.indiatimes.com/india/flagging-off-function-of-goa-mumbai-vande-bharat-express-cancelled-following-odisha-train-tragedy/articleshow/100711624.cms |access-date=2 June 2023 |issn=0971-8257 |archive-date=2 June 2023 |archive-url=https://web.archive.org/web/20230602175338/https://timesofindia.indiatimes.com/india/flagging-off-function-of-goa-mumbai-vande-bharat-express-cancelled-following-odisha-train-tragedy/articleshow/100711624.cms |url-status=live}}</ref>",
+                  "url": "https://timesofindia.indiatimes.com/india/flagging-off-function-of-goa-mumbai-vande-bharat-express-cancelled-following-odisha-train-tragedy/articleshow/100711624.cms",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |date=3 June 2023 |title=Train tragedy: Ensure no surge in Orissa airfares, don't charge penalty from affected, government directs airlines |work=The Times of India |url=https://timesofindia.indiatimes.com/india/train-tragedy-ensure-no-surge-in-orissa-airfares-dont-charge-penalty-from-affected-government-directs-airlines/articleshow/100730224.cms |access-date=3 June 2023 |issn=0971-8257 |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603142935/https://timesofindia.indiatimes.com/india/train-tragedy-ensure-no-surge-in-orissa-airfares-dont-charge-penalty-from-affected-government-directs-airlines/articleshow/100730224.cms |url-status=live}}</ref>",
+                  "url": "https://timesofindia.indiatimes.com/india/train-tragedy-ensure-no-surge-in-orissa-airfares-dont-charge-penalty-from-affected-government-directs-airlines/articleshow/100730224.cms",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Odisha Train Accident Bus fares skyrocket as demand peaks after trains get cancelled |url=https://www.etvbharat.com/english/state/west-bengal/odisha-train-accident-bus-fares-skyrocket-as-demand-peaks-after-trains-cancelled/na20230603163525507507980 |access-date=3 June 2023 |work=ETV Bharat News |date=3 June 2023 |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603165422/https://www.etvbharat.com/english/state/west-bengal/odisha-train-accident-bus-fares-skyrocket-as-demand-peaks-after-trains-cancelled/na20230603163525507507980 |url-status=live}}</ref>",
+                  "url": "https://www.etvbharat.com/english/state/west-bengal/odisha-train-accident-bus-fares-skyrocket-as-demand-peaks-after-trains-cancelled/na20230603163525507507980",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"BBC Live\" /> The rail services resumed on 5 June after more than 51 hours of restoration work.<ref>{{cite news |date=5 June 2023 |title=Passenger trains resume services on restored tracks after Odisha three-way collision |url=https://www.hindustantimes.com/india-news/odisha-train-accident-three-way-collision-balasore-passenger-trains-start-running-on-repaired-tracks-indian-railway-101685934295808.html |access-date=5 June 2023 |newspaper=The Hindustan Times |archive-date=5 June 2023 |archive-url=https://web.archive.org/web/20230605164645/https://www.hindustantimes.com/india-news/odisha-train-accident-three-way-collision-balasore-passenger-trains-start-running-on-repaired-tracks-indian-railway-101685934295808.html |url-status=live}}</ref>",
+                  "url": "https://www.hindustantimes.com/india-news/odisha-train-accident-three-way-collision-balasore-passenger-trains-start-running-on-repaired-tracks-indian-railway-101685934295808.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Investigation",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "A preliminary investigation conducted by officials of the Kharagpur railway division indicated that the following sequence of events occurred:",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |date=3 June 2023 |title=Odisha tragedy: How the 3 trains collided into each other |newspaper=The Times of India |url=https://timesofindia.indiatimes.com/india/odisha-tragedy-how-the-3-trains-collided-into-each-other/articleshow/100727427.cms?from=mdr |access-date=3 June 2023 |issn=0971-8257 |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603170614/https://timesofindia.indiatimes.com/india/odisha-tragedy-how-the-3-trains-collided-into-each-other/articleshow/100727427.cms?from=mdr |url-status=live }}</ref>",
+                  "url": "https://timesofindia.indiatimes.com/india/odisha-tragedy-how-the-3-trains-collided-into-each-other/articleshow/100727427.cms?from=mdr",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|date=3 June 2023 |title=Odisha tragedy: Preliminary enquiry indicates signalling failure caused train accident |url=https://www.firstpost.com/india/odisha-tragedy-preliminary-enquiry-indicates-signalling-failure-caused-train-accident-12686602.html |access-date=3 June 2023 |work=Firstpost |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603170909/https://www.firstpost.com/india/odisha-tragedy-preliminary-enquiry-indicates-signalling-failure-caused-train-accident-12686602.html |url-status=live }}</ref>",
+                  "url": "https://www.firstpost.com/india/odisha-tragedy-preliminary-enquiry-indicates-signalling-failure-caused-train-accident-12686602.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "6.s2",
+              "text": "On 4 June, Minister of Railways (India)|Railway Minister Ashwini Vaishnaw stated that a change in Interlocking#Electronic interlocking|electronic interlocking due to error in electronic signaling, caused the crash. On 6 June, the railway minister said that the Commission of Railway Safety (CRS) has investigated the matter and the railway board had recommended a Central Bureau of Investigation (CBI)-led probe. He also suggested that someone might have changed the railroad switch|point rails as an act of sabotage, which was described as highly unlikely by a signal inspector due to time constraints. A former railway board member questioned the claim of having identified the perpetrator even before the full investigation into the cause of the crash, affirmed that the CRS was better equipped to handle the investigation than CBI and that only a CRS enquiry could uncover systemic failures as the CBI probe would only identify the culprits.<ref name=\"Wire\"/>",
+              "references": [
+                {
+                  "text": "<ref name=\"CBC\">{{cite news |date=4 June 2023 |title=Signal failure led to India's deadly train crash, officials say |url=https://www.cbc.ca/news/world/india-train-crash-cause-1.6865165 |access-date=4 June 2023 |work=CBC |archive-date=4 June 2023 |archive-url=https://web.archive.org/web/20230604183531/https://www.cbc.ca/news/world/india-train-crash-cause-1.6865165 |url-status=live}}</ref>",
+                  "url": "https://www.cbc.ca/news/world/india-train-crash-cause-1.6865165",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"BBC\"/> The chairman of the Indian Railway Board said that the electronic interlocking system was largely fail-safe but this rare case of failure might have been caused by a damaged wire or short circuit.<ref>{{cite news |date=5 June 2023 |title=Coromandel driver was conscious after train crash, Goods train guard alive |url=https://www.hindustantimes.com/india-news/coromandel-driver-was-conscious-after-train-crash-goods-train-guard-alive-101685927707913.html |access-date=5 June 2023 |newspaper=The Hindustan Times |archive-date=5 June 2023 |archive-url=https://web.archive.org/web/20230605015323/https://www.hindustantimes.com/india-news/coromandel-driver-was-conscious-after-train-crash-goods-train-guard-alive-101685927707913.html |url-status=live }}</ref>",
+                  "url": "https://www.hindustantimes.com/india-news/coromandel-driver-was-conscious-after-train-crash-goods-train-guard-alive-101685927707913.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |date=5 June 2023 |title=India rail crash probe focuses on electronic track management system |url=https://www.tbsnews.net/world/south-asia/india-rail-crash-probe-focuses-electronic-track-management-system-644122 |newspaper=Business Standard |access-date=6 June 2023 |archive-date=5 June 2023 |archive-url=https://web.archive.org/web/20230605031445/https://www.tbsnews.net/world/south-asia/india-rail-crash-probe-focuses-electronic-track-management-system-644122 |url-status=live }}</ref>",
+                  "url": "https://www.tbsnews.net/world/south-asia/india-rail-crash-probe-focuses-electronic-track-management-system-644122",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|url=https://www.indiatoday.in/india/story/odisha-train-accident-possible-reasons-for-cbi-probe-balasore-train-tragedy-2389397-2023-06-06|title=Root cause, politics: Possible reasons for CBI inquiry into Odisha train accident that killed 278 people|date=6 June 2023|access-date=6 June 2024|work=India Today|archive-date=7 September 2023|archive-url=https://web.archive.org/web/20230907145131/https://www.indiatoday.in/india/story/odisha-train-accident-possible-reasons-for-cbi-probe-balasore-train-tragedy-2389397-2023-06-06|url-status=live}}</ref>",
+                  "url": "https://www.indiatoday.in/india/story/odisha-train-accident-possible-reasons-for-cbi-probe-balasore-train-tragedy-2389397-2023-06-06",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Wire\">{{cite news |last1=Sridhar |first1=V. |date=9 June 2023 |access-date=1 June 2024| title=Cover Your Tracks: The Modi Government's Attitude After the Balasore Tragedy |work=The Wire (India)|The Wire |url=https://thewire.in/government/cover-your-tracks-the-modi-governments-attitude-after-the-balasore-tragedy |url-status=live |archive-url=https://web.archive.org/web/20230609102922/https://thewire.in/government/cover-your-tracks-the-modi-governments-attitude-after-the-balasore-tragedy |archive-date=9 June 2023}}</ref>",
+                  "url": "https://thewire.in/government/cover-your-tracks-the-modi-governments-attitude-after-the-balasore-tragedy",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "6.s3",
+              "text": "On 7 July 2023, the CBI detailed the progress in the case and arrested three railway officials believed to be responsible for the accident. The CBI statement identified them as one technician and two Indian Railway Service of Signal Engineers|signal engineers employed with Indian Railways, who were charged with culpable homicide and destruction of evidence in the case.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Three railway officials arrested over train crash that killed 275 people in India |url=https://www.cnn.com/2023/07/08/india/india-train-crash-arrests-intl-hnk/index.html |work=CNN |date=8 July 2023 |access-date=30 August 2023 |archive-date=30 August 2023 |archive-url=https://web.archive.org/web/20230830174644/https://www.cnn.com/2023/07/08/india/india-train-crash-arrests-intl-hnk/index.html |url-status=live }}</ref>",
+                  "url": "https://edition.cnn.com/2023/07/08/india/india-train-crash-arrests-intl-hnk/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Three arrested in India over train crash that killed nearly 300 people |url=https://www.theguardian.com/world/2023/jul/07/three-arrested-in-india-over-train-crash-that-killed-nearly-300-people |work=The Guardian |date=7 July 2023 |access-date=30 August 2023 |archive-date=14 June 2024 |archive-url=https://web.archive.org/web/20240614235739/https://www.theguardian.com/world/2023/jul/07/three-arrested-in-india-over-train-crash-that-killed-nearly-300-people |url-status=live }}</ref>",
+                  "url": "https://www.theguardian.com/world/2023/jul/07/three-arrested-in-india-over-train-crash-that-killed-nearly-300-people",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "6.s4",
+              "text": "The railway authorities stated that the lines were not equipped with the Kavach (train protection system)|Kavach train protection system. A December 2022 report by the Comptroller and Auditor General of India warned that the safety department of the railways lacked adequate staffing which could impact the quality of maintenance. The report also stated that the funds allocated towards railway safety were short of the target every year for the last four years and were often misused to cater to other departments such as engineering and Human Resources. However, the Indian Railways claimed that the accident was not a reflection of the safety issues in the system. In February 2023, the principal operating manager of the South Western Railway zone had reported a similar signalling error with the Karnataka Sampark Kranti Express (via Ballari)|Karnataka Sampark Kranti Express having narrowly escaped a collision and had warned that this could lead to accidents if the issue was not resolved.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|url=https://www.thenewsminute.com/news/six-months-after-odisha-train-accident-kavach-extended-by-only-10-km|title=Six months after Odisha train accident, Kavach extended by only 10 km|date=12 December 2023|access-date=1 June 2024|work=News Minute|archive-date=12 December 2023|archive-url=https://web.archive.org/web/20231212224027/https://www.thenewsminute.com/news/six-months-after-odisha-train-accident-kavach-extended-by-only-10-km|url-status=live}}</ref>",
+                  "url": "https://www.thenewsminute.com/news/six-months-after-odisha-train-accident-kavach-extended-by-only-10-km",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Jain |first1=Meetu |title=CAG Report on Derailments Hard to Square With PMO Claims on Prioritising Rail Safety |url=https://thewire.in/government/cag-report-on-derailments-hard-to-square-with-pmo-claims-on-prioritising-rail-safety |access-date=4 June 2023 |work=The Wire (India)|The Wire |date=4 June 2023 |archive-date=4 June 2023 |archive-url=https://web.archive.org/web/20230604015254/https://thewire.in/government/cag-report-on-derailments-hard-to-square-with-pmo-claims-on-prioritising-rail-safety |url-status=live }}</ref>",
+                  "url": "https://thewire.in/government/cag-report-on-derailments-hard-to-square-with-pmo-claims-on-prioritising-rail-safety",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Mudur |first1=G.S. |title=Odisha train accident: Safety funds fall short amid Indian govt's focus on speed |url=https://www.telegraphindia.com/india/odisha-train-accident-safety-funds-fall-short-amid-indian-govts-focus-on-speed/cid/1942082 |access-date=4 June 2023 |work=The Telegraph (India)|The Telegraph |date=4 June 2023 |archive-date=4 June 2023 |archive-url=https://web.archive.org/web/20230604015325/https://www.telegraphindia.com/india/odisha-train-accident-safety-funds-fall-short-amid-indian-govts-focus-on-speed/cid/1942082 |url-status=live }}</ref>",
+                  "url": "https://www.telegraphindia.com/india/odisha-train-accident-safety-funds-fall-short-amid-indian-govts-focus-on-speed/cid/1942082",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Suryamurthy |first1=R. |last2=Saha |first2=Sambit |last3=Ghosh |first3=Pinak |title=Modi government's special fund for railway safety spent on foot massagers, crockery, winter jackets: CAG report |url=https://www.telegraphindia.com/india/modi-governments-special-fund-for-railway-safety-spent-on-foot-massagers-crockery-winter-jackets-cag-report/cid/1943871 |access-date=11 June 2023 |work=The Telegraph (India)|The Telegraph |date=10 June 2023 |archive-url=https://web.archive.org/web/20230610190247/https://www.telegraphindia.com/india/modi-governments-special-fund-for-railway-safety-spent-on-foot-massagers-crockery-winter-jackets-cag-report/cid/1943871 |archive-date=10 June 2023}}</ref>",
+                  "url": "https://www.telegraphindia.com/india/modi-governments-special-fund-for-railway-safety-spent-on-foot-massagers-crockery-winter-jackets-cag-report/cid/1943871",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Odisha train accident: Railways got two warnings in 6 months on faulty signalling, poor track repair |url=https://scroll.in/latest/1050302/odisha-train-accident-railways-got-two-warnings-in-6-months-on-faulty-signalling-poor-track-repair |access-date=4 June 2023 |work=Scroll.in |date=4 June 2023 |archive-date=4 June 2023 |archive-url=https://web.archive.org/web/20230604040616/https://scroll.in/latest/1050302/odisha-train-accident-railways-got-two-warnings-in-6-months-on-faulty-signalling-poor-track-repair |url-status=live}}</ref>",
+                  "url": "https://scroll.in/latest/1050302/odisha-train-accident-railways-got-two-warnings-in-6-months-on-faulty-signalling-poor-track-repair",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Reactions",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "meeting victims of the crash at a hospital in Balasore, Odisha]]\nNarendra Modi, the prime minister of India, expressed his distress over the incident and extended his thoughts to the grieving families. Union Minister of Home Affairs (India)|Home Minister Amit Shah described the incident as \"profoundly distressing.\" Patnaik and Tamil Nadu Chief Minister M. K. Stalin announced a day of mourning in their respective states.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=PM Modi Announces Rs 2 Lakh For Families Of Odisha Accident Victims |url=https://www.ndtv.com/india-news/my-thoughts-with-bereaved-families-says-pm-on-odisha-train-accident-4089705 |access-date=3 June 2023 |work=NDTV |archive-date=2 June 2023 |archive-url=https://web.archive.org/web/20230602175449/https://www.ndtv.com/india-news/my-thoughts-with-bereaved-families-says-pm-on-odisha-train-accident-4089705 |url-status=live}}</ref>",
+                  "url": "https://www.ndtv.com/india-news/my-thoughts-with-bereaved-families-says-pm-on-odisha-train-accident-4089705",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"BBC Live\"/> Odisha Chief Minister Naveen Patnaik and West Bengal Chief Minister Mamata Banerjee expressed their concerns over the disaster.<ref>{{cite news |title=Odisha train accident: Bengal government announces measures to aid passengers and kin in distress |url=https://www.telegraphindia.com/west-bengal/odisha-train-accident-bengal-government-announces-measures-to-aid-passengers-and-kin-in-distress/cid/1941809 |access-date=3 June 2023 |work=Telegraph India|archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603085448/https://www.telegraphindia.com/west-bengal/odisha-train-accident-bengal-government-announces-measures-to-aid-passengers-and-kin-in-distress/cid/1941809 |url-status=live }}</ref>",
+                  "url": "https://www.telegraphindia.com/west-bengal/odisha-train-accident-bengal-government-announces-measures-to-aid-passengers-and-kin-in-distress/cid/1941809",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|date=2 June 2023 |title=Coromandel Express accident Live Updates: PM Modi to visit Odisha accident site today, will meet injured at Cuttack hospital |url=https://indianexpress.com/article/india/coromandel-express-accident-odisha-balasore-deaths-injured-live-updates-8642911/ |access-date=3 June 2023 |newspaper=The Indian Express |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603032313/https://indianexpress.com/article/india/coromandel-express-accident-odisha-balasore-deaths-injured-live-updates-8642911/ |url-status=live}}</ref>",
+                  "url": "https://indianexpress.com/article/india/coromandel-express-accident-odisha-balasore-deaths-injured-live-updates-8642911/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"IBN\"/> Leaders from other countries expressed their condolences for the loss of life and extended support to India.<ref>{{cite news|title=Odisha Train Accident: World Leaders Pay Condolences To Victims |url=https://zeenews.india.com/india/odisha-train-accident-world-leaders-pay-condolences-to-victims-2617155.html |access-date=3 June 2023 |work=Zee News |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603061855/https://zeenews.india.com/india/odisha-train-accident-world-leaders-pay-condolences-to-victims-2617155.html |url-status=live }}</ref>",
+                  "url": "https://zeenews.india.com/india/odisha-train-accident-world-leaders-pay-condolences-to-victims-2617155.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |date=3 June 2023 |title=Odisha train tragedy: World leaders extend support to India, condole loss of lives |url=https://www.hindustantimes.com/india-news/odisha-train-tragedy-world-leaders-extend-support-to-india-condole-loss-of-lives-101685802208964.html |access-date=3 June 2023 |newspaper=The Hindustan Times |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603145058/https://www.hindustantimes.com/india-news/odisha-train-tragedy-world-leaders-extend-support-to-india-condole-loss-of-lives-101685802208964.html |url-status=live}}</ref>",
+                  "url": "https://www.hindustantimes.com/india-news/odisha-train-tragedy-world-leaders-extend-support-to-india-condole-loss-of-lives-101685802208964.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "7.s2",
+              "text": "Mallikarjun Kharge, president of the All India Congress Committee and former railway minister, referred to a letter from February which had warned of a similar failure and questioned the Ministry of Railways about their oversight of that crucial warning. He also criticised the government for not implementing the anti-collision system and stated that both Prime Minister Modi and Railway Minister Vaishnaw seemed reluctant to acknowledge the existence of problems. Many opposition parties, including the Indian National Congress, Trinamool Congress, Communist Party of India (Marxist), and Communist Party of India demanded the resignation of the railway minister.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |date=5 June 2023 |title=Oppn parties demand resignation of Railway Min, release letter flagging safety issues |url=https://www.thenewsminute.com/article/oppn-parties-demand-resignation-railway-min-release-letter-flagging-safety-issues-178109 |work=The News Minute |access-date=6 June 2023 |archive-date=6 June 2023 |archive-url=https://web.archive.org/web/20230606172347/https://www.thenewsminute.com/article/oppn-parties-demand-resignation-railway-min-release-letter-flagging-safety-issues-178109 |url-status=live }}</ref>",
+                  "url": "https://www.thenewsminute.com/article/oppn-parties-demand-resignation-railway-min-release-letter-flagging-safety-issues-178109",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"auto\">{{cite news|last=Sharma |first=Shweta |date=6 June 2023 |title=Odisha train accident – latest: Survivor describes scramble to escape after crash that killed hundreds |url=https://www.independent.co.uk/asia/india/odisha-train-accident-cause-death-toll-latest-b2351336.html |work=The Independent |access-date=6 June 2023 |archive-date=5 June 2023 |archive-url=https://web.archive.org/web/20230605041050/https://www.independent.co.uk/asia/india/odisha-train-accident-cause-death-toll-latest-b2351336.html |url-status=live }}</ref>",
+                  "url": "https://www.independent.co.uk/asia/india/odisha-train-accident-cause-death-toll-latest-b2351336.html",
+                  "status_code": 405,
+                  "reason": "Not allowed.",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Congress keeps attack on hold, others in Opposition say Govt must own up |url=https://indianexpress.com/article/india/congress-keeps-attack-on-hold-others-in-opposition-say-govt-must-own-up-8644430/ |access-date=4 June 2023 |work=Indian Express |date=4 June 2023 |archive-date=4 June 2023 |archive-url=https://web.archive.org/web/20230604153048/https://indianexpress.com/article/india/congress-keeps-attack-on-hold-others-in-opposition-say-govt-must-own-up-8644430/ |url-status=live }}</ref>",
+                  "url": "https://indianexpress.com/article/india/congress-keeps-attack-on-hold-others-in-opposition-say-govt-must-own-up-8644430/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "7.s3",
+              "text": "In the aftermath of the train crash, messages were circulated Islamophobia|blaming Muslims for the accident on different social media platforms and WhatsApp University|WhatsApp groups. Odisha Police termed these events as \"highly unfortunate\" and warned of criminal action against perpetrators of false information. Various accounts known for spreading Hindutva and Bharatiya Janata Party|BJP propaganda, posted messages that highlighted the past achievements of the government and demanded an investigation into the accident, deeming it as a terror incident.",
+              "references": [
+                {
+                  "text": "<ref name=\"Post\">{{cite news |title=Even a train tragedy in India is being blamed on Muslims online |url=https://scroll.in/article/1050311/even-a-train-tragedy-in-india-is-being-blamed-on-muslims-online |work=Scroll.in |date=4 June 2023 |access-date=30 August 2023 |archive-date=30 August 2023 |archive-url=https://web.archive.org/web/20230830174643/https://scroll.in/article/1050311/even-a-train-tragedy-in-india-is-being-blamed-on-muslims-online |url-status=live }}</ref>",
+                  "url": "https://scroll.in/article/1050311/even-a-train-tragedy-in-india-is-being-blamed-on-muslims-online",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=False posts blaming 'Muslim railway employee' for deadly India train crash share unrelated photo |url=https://factcheck.afp.com/doc.afp.com.33HC4ZF |work=Fact Check |agency=AFP |date=14 June 2023 |access-date=30 August 2023 |archive-date=30 August 2023 |archive-url=https://web.archive.org/web/20230830174646/https://factcheck.afp.com/doc.afp.com.33HC4ZF |url-status=live }}</ref>",
+                  "url": "https://factcheck.afp.com/doc.afp.com.33HC4ZF",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Post\"/> Political columnist Apoorvanand stated that the accident was used as an opportunity to demonise Muslims.<ref>{{cite news |title=India's deadly train crash: Forget the truth, blame it on Muslims |url=https://www.aljazeera.com/opinions/2023/6/15/indias-deadly-train-crash-forget-the-truth-blame-it-on-muslims |work=Al Jazeera |date=15 June 2023 |access-date=30 August 2023 |archive-date=30 August 2023 |archive-url=https://web.archive.org/web/20230830174645/https://www.aljazeera.com/opinions/2023/6/15/indias-deadly-train-crash-forget-the-truth-blame-it-on-muslims |url-status=live }}</ref>",
+                  "url": "https://www.aljazeera.com/opinions/2023/6/15/indias-deadly-train-crash-forget-the-truth-blame-it-on-muslims",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "External links",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

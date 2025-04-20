@@ -1,0 +1,977 @@
+{
+  "title": "2023_Estonian_parliamentary_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The 2019 Estonian parliamentary election|previous parliamentary election, which was held in March 2019, saw the loss of the absolute majority held by Jüri Ratas' first cabinet|Jüri Ratas's first cabinet in the Riigikogu, the unicameral parliament of Estonia. Ratas's Centre Party, Isamaa, and Social Democratic Party (Estonia)|Social Democratic Party (SDE) all suffered a setback in favour of the Reform Party, led by Kallas, and the EKRE. Kersti Kaljulaid, then-president of Estonia, gave a mandate to Kallas to form a government after the election. The Reform Party negotiated with the Centre Party, Isamaa, and SDE but ultimately failed to form a government. After the vote in April 2019, Ratas received the mandate and successfully formed a government with Isamaa and EKRE. Jüri Ratas' second cabinet|Jüri Ratas's second cabinet was sworn in on 29 April 2019.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=5 April 2019 |title=Kaja Kallas: Coalition ready for Riigikogu vote on 15 April |url=https://news.err.ee/927272/kaja-kallas-coalition-ready-for-riigikogu-vote-on-15-april |access-date=7 February 2023 |website=Eesti Rahvusringhääling |archive-date=1 December 2022 |archive-url=https://web.archive.org/web/20221201063626/https://news.err.ee/927272/kaja-kallas-coalition-ready-for-riigikogu-vote-on-15-april |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/927272/kaja-kallas-coalition-ready-for-riigikogu-vote-on-15-april",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=6 March 2019 |title=Reform to begin coalition talks with Centre Party |url=https://news.err.ee/917068/reform-to-begin-coalition-talks-with-centre-party |access-date=7 February 2023 |website=Eesti Rahvusringhääling |archive-date=1 December 2022 |archive-url=https://web.archive.org/web/20221201063622/https://news.err.ee/917068/reform-to-begin-coalition-talks-with-centre-party |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/917068/reform-to-begin-coalition-talks-with-centre-party",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=8 March 2019 |title=Centre rejects Reform's offer to begin coalition talks |url=https://news.err.ee/918142/centre-rejects-reform-s-offer-to-begin-coalition-talks |access-date=7 February 2023 |website=Eesti Rahvusringhääling |archive-date=8 December 2022 |archive-url=https://web.archive.org/web/20221208152648/https://news.err.ee/918142/centre-rejects-reform-s-offer-to-begin-coalition-talks |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/918142/centre-rejects-reform-s-offer-to-begin-coalition-talks",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=8 March 2019 |title=Kallas: Reform to approach Isamaa, Social Democrats next |url=https://news.err.ee/918169/kallas-reform-to-approach-isamaa-social-democrats-next |access-date=7 February 2023 |website=Eesti Rahvusringhääling |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202172143/https://news.err.ee/918169/kallas-reform-to-approach-isamaa-social-democrats-next |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/918169/kallas-reform-to-approach-isamaa-social-democrats-next",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=15 April 2019 |title=Estonian parliament rejects Reform's Kallas as PM |publisher=Reuters |url=https://www.reuters.com/article/us-estonia-politics-government-idUSKCN1RR1AI |access-date=7 February 2023 |archive-date=7 February 2023 |archive-url=https://web.archive.org/web/20230207145259/https://www.reuters.com/article/us-estonia-politics-government-idUSKCN1RR1AI |url-status=live}}</ref>",
+                  "url": "https://www.reuters.com/article/us-estonia-politics-government-idUSKCN1RR1AI",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=7 April 2019 |title=Estonie: Le Premier ministre sortant scelle un accord de coalition tripartite |url=https://www.mediapart.fr/journal/international/070419/estonie-le-premier-ministre-sortant-scelle-un-accord-de-coalition-tripartite |access-date=7 February 2023 |website=Mediapart |language=fr |archive-date=1 December 2022 |archive-url=https://web.archive.org/web/20221201063623/https://www.mediapart.fr/journal/international/070419/estonie-le-premier-ministre-sortant-scelle-un-accord-de-coalition-tripartite |url-status=live}}</ref>",
+                  "url": "https://www.mediapart.fr/journal/international/070419/estonie-le-premier-ministre-sortant-scelle-un-accord-de-coalition-tripartite",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=17 July 2021 |title=Estonia likely to see euroskeptic party brought to power |url=https://apnews.com/article/europe-estonia-legislature-54d52f04e95944d8bf93f1bbb69ad2ed |access-date=7 February 2023 |website=Associated Press |archive-date=7 February 2023 |archive-url=https://web.archive.org/web/20230207145259/https://apnews.com/article/europe-estonia-legislature-54d52f04e95944d8bf93f1bbb69ad2ed |url-status=live}}</ref>",
+                  "url": "https://apnews.com/article/54d52f04e95944d8bf93f1bbb69ad2ed",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=29 April 2019 |title=Nationalist Party Enters Estonia's Government |url=https://www.voanews.com/a/nationalist-party-enters-estonia-s-government/4897062.html |access-date=7 February 2023 |website=Voice of America |archive-date=1 May 2019 |archive-url=https://web.archive.org/web/20190501011712/https://www.voanews.com/a/nationalist-party-enters-estonia-s-government/4897062.html |url-status=live}}</ref>",
+                  "url": "https://www.voanews.com/a/nationalist-party-enters-estonia-s-government/4897062.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "In January 2021, the Centre Party-led government collapsed after a corruption investigation in which the Centre Party was accused of requesting financial support of up to €1&nbsp;million within a year in return of the €39&nbsp;million loan to Hillar Teder's real estate development in Tallinn. In response, Ratas resigned as prime minister of Estonia, while Kallas was invited to form a government. She struck a deal with the Centre Party, with Kallas now serving as prime minister. In June 2022, however, the coalition government between the Centre and Reform Party collapsed due to the Centre Party's opposition to a law on education. This occurred during the 2022 Russian invasion of Ukraine; the Centre Party was seen as close to Russians in Estonia.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Tambur |first=Silver |date=13 January 2021 |title=Estonia's prime minister Jüri Ratas resigns, Kaja Kallas asked to form the government |url=https://estonianworld.com/security/a-political-crisis-in-estonia-prime-minister-juri-ratas-resigns/ |access-date=7 February 2023 |website=Estonian World |language=en-GB |archive-date=26 January 2021 |archive-url=https://web.archive.org/web/20210126072044/https://estonianworld.com/security/a-political-crisis-in-estonia-prime-minister-juri-ratas-resigns/ |url-status=live}}</ref>",
+                  "url": "https://estonianworld.com/security/a-political-crisis-in-estonia-prime-minister-juri-ratas-resigns/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Belga |first=Par |date=14 January 2021 |title=Estonie: l'europhile convaincue Kaja Kallas désignée au poste du Premier ministre |url=https://www.rtbf.be/article/estonie-l-europhile-convaincue-kaja-kallas-designee-au-poste-du-premier-ministre-10673384 |access-date=7 February 2023 |website=Radio-télévision belge de la Communauté française |language=fr |archive-date=7 February 2023 |archive-url=https://web.archive.org/web/20230207160811/https://www.rtbf.be/article/estonie-l-europhile-convaincue-kaja-kallas-designee-au-poste-du-premier-ministre-10673384 |url-status=live}}</ref>",
+                  "url": "https://www.rtbf.be/article/estonie-l-europhile-convaincue-kaja-kallas-designee-au-poste-du-premier-ministre-10673384",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=26 January 2021 |title=Kallas' coalition votes total second-highest since independence restoration |url=https://news.err.ee/1608086218/kallas-coalition-votes-total-second-highest-since-independence-restoration |access-date=7 February 2023 |website=Eesti Rahvusringhääling |archive-date=1 December 2022 |archive-url=https://web.archive.org/web/20221201063626/https://news.err.ee/1608086218/kallas-coalition-votes-total-second-highest-since-independence-restoration |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/1608086218/kallas-coalition-votes-total-second-highest-since-independence-restoration",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":0\">{{Cite web |last1=Belga |first1=Par |last2=Louvigny |first2=Adeline |date=3 June 2022 |title=Estonie: la coalition gouvernementale s'effondre |url=https://www.rtbf.be/article/estonie-la-coalition-gouvernementale-s-effondre-11006114 |access-date=7 February 2023 |website=Radio-télévision belge de la Communauté française |language=fr |archive-date=1 December 2022 |archive-url=https://web.archive.org/web/20221201070629/https://www.rtbf.be/article/estonie-la-coalition-gouvernementale-s-effondre-11006114 |url-status=live}}</ref>",
+                  "url": "https://www.rtbf.be/article/estonie-la-coalition-gouvernementale-s-effondre-11006114",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":0\" /> In response, Kallas opened Triple Alliance (Estonia)|Triple Alliance negotiations with Isamaa and SDE, successfully forming Kaja Kallas' second cabinet|Kaja Kallas's second cabinet on 15 July 2022.<ref>{{Cite web |date=15 July 2022 |title=Riigikogu grants Kallas mandate to form new government |url=https://news.err.ee/1608658447/riigikogu-grants-kallas-mandate-to-form-new-government |access-date=7 February 2023 |website=Eesti Rahvusringhääling}}</ref>",
+                  "url": "https://news.err.ee/1608658447/riigikogu-grants-kallas-mandate-to-form-new-government",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=15 July 2022 |title=Estonian parliament confirms PM Kallas to lead new government |publisher=Reuters |url=https://www.reuters.com/world/europe/estonian-parliament-confirms-pm-kallas-lead-new-government-2022-07-15/ |access-date=7 February 2023 |archive-date=7 February 2023 |archive-url=https://web.archive.org/web/20230207145259/https://www.reuters.com/world/europe/estonian-parliament-confirms-pm-kallas-lead-new-government-2022-07-15/ |url-status=live}}</ref>",
+                  "url": "https://www.reuters.com/world/europe/estonian-parliament-confirms-pm-kallas-lead-new-government-2022-07-15/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "{{see also|Politics of Estonia}}\nThe Riigikogu is made up of 101 seats and its representatives are elected by open list proportional representation in twelve multi-member constituencies. First, seats are to be filled in 12 constituencies of 5 to 16 seats depending on their population, and the remaining seats, known as \"compensation seats\", are allocated using the d'Hondt method to all parties that exceeded the 5% electoral threshold, to bring the results in terms of seats as close as possible to those of the vote of the population. In 2023, 75 seats were filled in the constituencies and the remaining 26 were allocated using the d'Hondt method. Voters have the possibility of casting a preferential vote for one of the candidates on the list for which they are voting.<ref name=\":1\" /><ref name=\":2\" /> If a candidate collects more preferential votes than the amount of the simple quotient in his constituency, they are declared elected even if the list for which they are candidate for fails to cross the 5% electoral threshold.<ref name=\":1\" /><ref name=\":2\" />",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |date=20 January 2015 |title=Riigikogu Election Act |url=https://www.riigiteataja.ee/en/eli/ee/501092014005/consolide/current |accessdate=1 April 2015 |publisher=Riigi Teataja |archive-date=12 September 2020 |archive-url=https://web.archive.org/web/20200912184449/https://www.riigiteataja.ee/en/eli/ee/501092014005/consolide/current |url-status=live}}</ref>",
+                  "url": "https://www.riigiteataja.ee/en/eli/ee/501092014005/consolide/current",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":1\">{{Cite web |title=Estonia: Riigikogu (The Estonian Parliament) |url=http://archive.ipu.org/parline-e/reports/2105.htm |access-date=7 February 2023 |website=Inter-Parliamentary Union Parline |archive-date=8 February 2020 |archive-url=https://web.archive.org/web/20200208181137/http://archive.ipu.org/parline-e/reports/2105.htm |url-status=live}}</ref>",
+                  "url": "http://archive.ipu.org/parline-e/reports/2105.htm",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":2\">{{Cite web |title=Valimised |url=https://www.eesti.ee/et/kodakondsus-ja-dokumendid/kodakondsus/valimised |access-date=7 February 2023 |website=Eesti.ee |language=et |archive-date=7 February 2023 |archive-url=https://web.archive.org/web/20230207150124/https://www.eesti.ee/et/kodakondsus-ja-dokumendid/kodakondsus/valimised |url-status=live}}</ref>",
+                  "url": "https://www.eesti.ee/et/kodakondsus-ja-dokumendid/kodakondsus/valimised",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "In November 2022, Alar Karis, the president of Estonia, signed the election decree, setting the date for 5 March 2023. Estonian citizens who are at least 18 years old, are registered in the voting list, have not been declared incapacitated or convicted of a crime by a court, or are serving a prison sentence have the right to vote. In foreign embassies abroad, voting took place from 18 to 23 February 2023, while to vote by mail in foreign countries, the voter had to submit a written request to the foreign mission by 3 February 2023. Around eighty foreign observers monitored the election.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |date=28 November 2022 |title=President signs election decree, warns against two-party battle |work=Eesti Rahvusringhääling |url=https://news.err.ee/1608803485/president-signs-election-decree-warns-against-two-party-battle |access-date=7 February 2023 |archive-date=9 February 2023 |archive-url=https://web.archive.org/web/20230209091359/https://news.err.ee/1608803485/president-signs-election-decree-warns-against-two-party-battle |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/1608803485/president-signs-election-decree-warns-against-two-party-battle",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":3\">{{Cite web |date=23 January 2023 |title=Valimiste korralduses tehtud muudatused peaks hääletamise mugavamaks tegema |url=https://www.err.ee/1608858128/valimiste-korralduses-tehtud-muudatused-peaks-haaletamise-mugavamaks-tegema |access-date=7 February 2023 |website=Eesti Rahvusringhääling |language=et |archive-date=31 January 2023 |archive-url=https://web.archive.org/web/20230131185124/https://www.err.ee/1608858128/valimiste-korralduses-tehtud-muudatused-peaks-haaletamise-mugavamaks-tegema |url-status=live}}</ref>",
+                  "url": "https://www.err.ee/1608858128/valimiste-korralduses-tehtud-muudatused-peaks-haaletamise-mugavamaks-tegema",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Hääleõigus |url=https://www.valimised.ee/et/valimiste-meelespea/haaleoigus |access-date=7 February 2023 |website=Valimised |language=et |archive-date=31 January 2023 |archive-url=https://web.archive.org/web/20230131185123/https://www.valimised.ee/et/valimiste-meelespea/haaleoigus |url-status=live}}</ref>",
+                  "url": "https://www.valimised.ee/et/valimiste-meelespea/haaleoigus",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":3\" /><ref name=\":8\" /> Advance voting in Estonia took place from 27 February to 4 March, meaning that a voter could vote outside the electoral district of their residence and electronically.<ref name=\":3\" /><ref name=\":8\" /> Unlike in previous elections, on 5 March voters were able to vote in any precinct within the constituency, while voters who had voted electronically during the advance voting were able to vote on a paper ballot, although their electronic vote would be cancelled.<ref name=\":3\" /><ref name=\":8\" /> Citizens who were not able to go to the polling stations or to vote electronically could order a ballot box at home and vote between 3 and 5 March 2023.<ref name=\":3\" /><ref name=\":8\">{{Cite web |title=Riigikogu valimised 2023 |url=https://www.valimised.ee/et/riigikogu-valimised-2023 |url-status=live |archive-url=https://web.archive.org/web/20221015160544/https://www.valimised.ee/et/riigikogu-valimised-2023 |archive-date=15 October 2022 |access-date=7 February 2023 |website=Valimised |language=et}}</ref>",
+                  "url": "https://www.valimised.ee/et/riigikogu-valimised-2023",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Raiste |first=Anne |date=1 March 2023 |title=Around 80 foreign observers monitoring Riigikogu elections |url=https://news.err.ee/1608900455/around-80-foreign-observers-monitoring-riigikogu-elections |access-date=4 March 2023 |website=Eesti Rahvusringhääling |archive-date=2 March 2023 |archive-url=https://web.archive.org/web/20230302063610/https://news.err.ee/1608900455/around-80-foreign-observers-monitoring-riigikogu-elections |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/1608900455/around-80-foreign-observers-monitoring-riigikogu-elections",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Seats by electoral district",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "{| class=\"wikitable\"\n|-\n! Map\n! {{No.}}\n! Electoral district\n! Seats\n|-\n| rowspan=\"17\" style=\"background-color:white\" | \n| Riigikogu electoral district no. 1|1\n| Haabersti, Põhja-Tallinn and Kristiine districts in Tallinn\n| 10\n|-\n| Riigikogu electoral district no. 2|2\n| Kesklinn, Tallinn|Kesklinn, Lasnamäe and Pirita districts in Tallinn\n| 13\n|-\n| Riigikogu electoral district no. 3|3\n| Mustamäe and Nõmme districts in Tallinn\n| 8\n|-\n| Riigikogu electoral district no. 4|4\n| Harju County|Harju (excluding Tallinn) and Rapla County|Rapla counties\n| 16\n|-\n| Riigikogu electoral district no. 5|5\n| Hiiu County|Hiiu, Lääne County|Lääne and Saare County|Saare counties\n| 6\n|-\n| Riigikogu electoral district no. 6|6\n| Lääne-Viru County|Lääne-Viru county\n| 5\n|-\n| Riigikogu electoral district no. 7|7\n| Ida-Viru County|Ida-Viru county\n| 6\n|-\n| Riigikogu electoral district no. 8|8\n| Järva County|Järva and Viljandi County|Viljandi counties\n| 7\n|-\n| Riigikogu electoral district no. 9|9\n| Jõgeva County|Jõgeva and Tartu County|Tartu counties (excluding Tartu)\n| 7\n|-\n| Riigikogu electoral district no. 10|10\n| City of Tartu\n| 8\n|-\n| Riigikogu electoral district no. 11|11\n| Võru County|Võru, Valga County|Valga and Põlva County|Põlva counties\n| 8\n|-\n| Riigikogu electoral district no. 12|12\n| Pärnu County|Pärnu county\n| 7\n|-\n| colspan=\"3\"| Source: Eesti Rahvusringhääling\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=11 November 2022 |title=Harju- ja Raplamaa saab Ida-Viru arvelt valimistel ühe mandaadi juurde |url=https://www.err.ee/1608786028/harju-ja-raplamaa-saab-ida-viru-arvelt-valimistel-uhe-mandaadi-juurde |access-date=8 February 2023 |website=Eesti Rahvusringhääling |language=et |archive-date=15 February 2023 |archive-url=https://web.archive.org/web/20230215233826/https://www.err.ee/1608786028/harju-ja-raplamaa-saab-ida-viru-arvelt-valimistel-uhe-mandaadi-juurde |url-status=live}}</ref>",
+                      "url": "https://www.err.ee/1608786028/harju-ja-raplamaa-saab-ida-viru-arvelt-valimistel-uhe-mandaadi-juurde",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "Pre-election composition",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.3.s1",
+                  "text": "{| class=\"wikitable\" style=\"text-align:right\"\n| colspan=\"7\" style=\"text-align:center\" | {{Parliament diagram\n | width = 250\n | background = #f8f9fa\n | n1 =  9 | p1 = Social Democratic Party (Estonia)\n | n2 = 23 | p2 = Estonian Centre Party (2023)\n | n3 = 34 | p3 = Estonian Reform Party\n | n4 = 11 | p4 = Isamaa\n | n5 =  1 | p5 = Parempoolsed\n | n6 = 19 | p6 = Conservative People's Party of Estonia\n | n7 =  4 | p7 = Independent\n}}\n|-\n! colspan=\"2\"| Party\n! Seats\n|-\n| bgcolor=\"{{party color|Estonian Reform Party}}\"|\n| align=\"left\"| Estonian Reform Party\n| 34\n|-\n| bgcolor=\"{{party color|Estonian Centre Party (2023)}}\"|\n| align=\"left\"| Estonian Centre Party\n| 23\n|-\n| bgcolor=\"{{party color|Conservative People's Party of Estonia}}\"|\n| align=\"left\"| Conservative People's Party of Estonia\n| 19\n|-\n| bgcolor=\"{{party color|Isamaa}}\"|\n| align=\"left\"| Isamaa\n| 11\n|-\n| bgcolor=\"{{party color|Social Democratic Party (Estonia)}}\"|\n| align=\"left\"| Social Democratic Party (Estonia)|Social Democratic Party\n| 9\n|-\n| bgcolor=\"{{party color|Parempoolsed}}\"|\n| align=\"left\"| Parempoolsed\n| 1\n|-\n| bgcolor=\"{{party color|Independent politician}}\"|\n| align=\"left\"| Independent politician|Independents\n| 4\n|-\n| style=\"text-align:left\" colspan=\"3\"| Source: Riigikogu\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |title=Riigikogu liikmed: Faktsioonid |url=https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/ |publisher=Riigikogu |access-date=7 February 2023 |language=et |archive-date=1 November 2022 |archive-url=https://web.archive.org/web/20221101145345/http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/ |url-status=live}}</ref>",
+                      "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Contesting parties",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "{{see also|List of political parties in Estonia}}\nThe Estonian National Electoral Committee announced that nine political parties and ten individual candidates registered to take part in the 2023 parliamentary election. Their registration numbers and order were determined by a draw of lots.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=19 January 2023 |title=Riigikogu valimistele soovis registreeruda 9 erakonda ja 11 üksikkandidaati |url=https://www.valimised.ee/et/riigikogu-valimistele-soovis-registreeruda-9-erakonda-ja-11-uksikkandidaati |access-date=5 February 2023 |website=Valimised |language=et |archive-date=5 February 2023 |archive-url=https://web.archive.org/web/20230205025042/https://www.valimised.ee/et/riigikogu-valimistele-soovis-registreeruda-9-erakonda-ja-11-uksikkandidaati |url-status=live}}</ref>",
+                  "url": "https://www.valimised.ee/et/riigikogu-valimistele-soovis-registreeruda-9-erakonda-ja-11-uksikkandidaati",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=24 January 2023 |title=Vabariigi Valimiskomisjon registreeris Riigikogu valimisteks 968 kandidaati |url=https://www.valimised.ee/et/vabariigi-valimiskomisjon-registreeris-riigikogu-valimisteks-968-kandidaati |access-date=5 February 2023 |website=Valimised |language=et |archive-date=5 February 2023 |archive-url=https://web.archive.org/web/20230205025040/https://www.valimised.ee/et/vabariigi-valimiskomisjon-registreeris-riigikogu-valimisteks-968-kandidaati |url-status=live}}</ref>",
+                  "url": "https://www.valimised.ee/et/vabariigi-valimiskomisjon-registreeris-riigikogu-valimisteks-968-kandidaati",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Kandidaadid |url=https://rk2023.valimised.ee/et/candidates/electoral_district/general |access-date=5 February 2023 |website=Valimised |language=et |archive-date=5 February 2023 |archive-url=https://web.archive.org/web/20230205025040/https://rk2023.valimised.ee/et/candidates/electoral_district/general |url-status=live}}</ref>",
+                  "url": "https://rk2023.valimised.ee/et/candidates/electoral_district/general",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "{| class=\"wikitable\" style=\"text-align:left\"\n! rowspan=\"2\"| {{No.}}\n! colspan=\"2\" rowspan=\"2\"| Name\n! rowspan=\"2\"| Ideology\n! rowspan=\"2\"| Political position\n! rowspan=\"2\"| Leader\n! rowspan=\"2\"| Total candidates\n! colspan=\"2\"| 2019 result\n|-\n! Votes (%)\n! Seats\n|-\n! {{center|1}}\n| style=\"background:{{party color|Parempoolsed}}\"|\n| Parempoolsed\n| Fiscal conservatism\n| Centre-right\n| Lavly Perling\n| 125\n| colspan=\"2\" style=\"text-align:center\"| ''did not exist''\n|-\n! {{center|2}}\n| style=\"background:{{party color|Estonian Greens}}\"|\n| Estonian Greens|Greens\n| Green politics\n| Centre-left\n| Johanna Maria Tõugu\n| 58\n| style=\"text-align:center\"| 1.8%\n| {{Composition bar|0|101|{{party color|Estonian Greens}}}}\n|-\n! {{center|3}}\n| style=\"background:{{party color|Isamaa}}\"|\n| Isamaa\n| National conservatism\n| Centre-right to<br />right-wing\n| Helir-Valdor Seeder\n| 125\n| style=\"text-align:center\"| 11.4%\n| {{Composition bar|12|101|{{party color|Isamaa}}}}\n|-\n! {{center|4}}\n| style=\"background:{{party color|Social Democratic Party (Estonia)}}\"|\n| Social Democratic Party (Estonia)|Social Democratic Party\n| Social democracy\n| Centre-left\n| Lauri Läänemets\n| 125\n| style=\"text-align:center\"| 9.8%\n| {{Composition bar|10|101|{{party color|Social Democratic Party (Estonia)}}}}\n|-\n! {{center|5}}\n| style=\"background:{{party color|Conservative People's Party of Estonia}}\"|\n| Conservative People's Party of Estonia|Conservative People's Party\n| Right-wing populism\n| Right-wing to<br />far-right\n| Martin Helme\n| 125\n| style=\"text-align:center\"| 17.8%\n| {{Composition bar|19|101|{{party color|Conservative People's Party of Estonia}}}}\n|-\n! {{center|6}}\n| style=\"background:{{party color|Estonia 200 (2021)}}\"|\n| Estonia 200\n| Liberalism\n| Centrism|Centre\n| Lauri Hussar\n| 125\n| style=\"text-align:center\"| 4.4%\n| {{Composition bar|0|101|{{party color|Estonia 200 (2021)}}}}\n|-\n! {{center|7}}\n| style=\"background:{{party color|Estonian Reform Party}}\"|\n| Estonian Reform Party|Reform Party\n| Classical liberalism\n| Centre-right\n| Kaja Kallas\n| 125\n| style=\"text-align:center\"| 28.9%\n| {{Composition bar|34|101|{{party color|Estonian Reform Party}}}}\n|-\n! {{center|8}}\n| style=\"background:{{party color|Estonian Centre Party (2023)}}\"|\n| Estonian Centre Party|Centre Party\n| Social liberalism\n| Centre-left\n| Jüri Ratas\n| 125\n| style=\"text-align:center\"| 23.1%\n| {{Composition bar|26|101|{{party color|Estonian Centre Party (2023)}}}}\n|-\n! {{center|9}}\n| style=\"background:{{party color|Estonian United Left Party}}\"|\n| Estonian United Left Party|United Left Party{{efn|The leaders of the pro-Russia political group Together (Estonian political movement)|Together participated in the 2023 elections on the list of the Estonian United Left Party. The Tartu County Court did not register the group as a political party on 30 November 2022, as the total number of its members was below the required minimum of 500.}}\n| Russians in Estonia|Russian minority politics\n| Left-wing\n| Igor Rosenfeld\n| 25\n| style=\"text-align:center\"| 0.1%\n| {{Composition bar|0|101|{{party color|Estonian United Left Party}}}}\n|-\n! {{center|—}}\n| style=\"background:{{party color|Independent politician}}\"|\n| Independent politician|Individual candidates\n| colspan=\"3\"| —\n| 10\n| style=\"text-align:center\"| 0.3%\n| {{Composition bar|0|101|{{party color|Independent politician}}}}\n|}",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Eesti putinistide erakonda ei registeeritud ja riigikogu valimistel nad osaleda ei tohi |url=https://ekspress.delfi.ee/a/120109138 |access-date=28 February 2023 |website=Eesti Ekspress |language=et |date=5 March 2023 |archive-date=14 February 2023 |archive-url=https://web.archive.org/web/20230214193131/https://ekspress.delfi.ee/a/120109138 |url-status=live}}</ref>",
+                  "url": "https://ekspress.delfi.ee/a/120109138",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url=http://library.fes.de/pdf-files/bueros/baltikum/15260.pdf|title=2019 Parliamentary elections in Estonia|publisher=Friedrich Ebert Foundation|date=March 2019|last=Toots|first=Anu}}</ref>",
+                  "url": "https://library.fes.de/pdf-files/bueros/baltikum/15260.pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://www.ssoar.info/ssoar/bitstream/handle/document/51269/ssoar-balticreg-2015-2-lanko_d-Estonian_Political_Parties_in_the.pdf?sequence=1|title=Estonian Political Parties in the mid-2010s|last=Lanko|first=Dmitry|date=2015|publisher=Open Access Repository}}</ref>",
+                  "url": "https://www.ssoar.info/ssoar/bitstream/handle/document/51269/ssoar-balticreg-2015-2-lanko_d-Estonian_Political_Parties_in_the.pdf?sequence=1",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Party manifestos and slogans",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Campaign",
+      "content": [
+        {
+          "id": "5.1",
+          "title": "Issues",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.1.s1",
+                  "text": "The ''Eesti Rahvusringhääling'' and NPR commented that the issues that were discussed during the campaign period were the cost of living crisis, especially regarding rising prices and inflation, as well as issues regarding security and national defence due to the 2022 Russian invasion of Ukraine. ''Eesti Rahvusringhääling'' also asserted that the programmes of the contesting parties were largely influenced by the current war in Ukraine. Ellu Saar, a sociology professor, and Triin Lauri, an associate professor at Tallinn University, said that in the programmes of EKRE and Isamaa stated their support to protect the Estonian language in higher education, while Estonia 200 and SDE mention united schools where native Estonian-speaking and Russian-speaking students would study together.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=21 November 2022 |title=FAQ: A brief overview of Estonia's 2023 elections |url=https://news.err.ee/1608795952/faq-a-brief-overview-of-estonia-s-2023-elections |access-date=28 February 2023 |website=Eesti Rahvusringhääling |archive-date=19 January 2023 |archive-url=https://web.archive.org/web/20230119163938/https://news.err.ee/1608795952/faq-a-brief-overview-of-estonia-s-2023-elections |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608795952/faq-a-brief-overview-of-estonia-s-2023-elections",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Schmitz |first=Rob |date=4 March 2023 |title=Ukraine is dominating the election in Estonia, a key NATO ally. Here's what to watch |work=National Public Radio |url=https://www.npr.org/2023/03/04/1160926037/ukraine-war-estonia-election-nato-russia |access-date=5 March 2023 |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305135221/https://www.npr.org/2023/03/04/1160926037/ukraine-war-estonia-election-nato-russia |url-status=live}}</ref>",
+                      "url": "https://www.npr.org/2023/03/04/1160926037/ukraine-war-estonia-election-nato-russia",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Raiste |first=Anne |date=15 January 2023 |title=Analüütikud: valimiste põhiteemaks saab julgeolek või inimeste toimetulek |url=https://www.err.ee/1608851294/analuutikud-valimiste-pohiteemaks-saab-julgeolek-voi-inimeste-toimetulek |access-date=28 February 2023 |website=Eesti Rahvusringhääling |language=et |archive-date=19 January 2023 |archive-url=https://web.archive.org/web/20230119142059/https://www.err.ee/1608851294/analuutikud-valimiste-pohiteemaks-saab-julgeolek-voi-inimeste-toimetulek |url-status=live}}</ref>",
+                      "url": "https://www.err.ee/1608851294/analuutikud-valimiste-pohiteemaks-saab-julgeolek-voi-inimeste-toimetulek",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":5\">{{Cite web |last1=Saar |first1=Ellu |last2=Lauri |first2=Triin |date=28 February 2023 |title=Analysis: Parties' election programs ignore problems of inequality |url=https://news.err.ee/1608899732/analysis-parties-election-programs-ignore-problems-of-inequality |access-date=28 February 2023 |website=Eesti Rahvusringhääling |archive-date=28 February 2023 |archive-url=https://web.archive.org/web/20230228202734/https://news.err.ee/api/statistics/articleStatistics |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608899732/analysis-parties-election-programs-ignore-problems-of-inequality",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.1.s2",
+                  "text": "Saar and Lauri commented that the Centre Party had a vague opinion regarding the issue of education. The Centre Party called for higher salaries for those who work to contribute to the national defence, SDE suggested to implement a new tax regarding defence spending, while EKRE said that militarised border guards should be brought back. In regards to the 2022–2023 Ukrainian refugee crisis, EKRE and Isamaa pledged to not accept any new refugees, while the Reform Party stated that it would continue accepting new Ukrainian refugees. Euronews said that EKRE's support in opinion polls had fallen due to alleged links with Russia.<ref name=\":10\" />",
+                  "references": [
+                    {
+                      "text": "<ref name=\":5\" /> The Estonian Greens and SDE also mentioned school culture, quality of management, reducing path dependence as issues they would tackle.<ref name=\":5\" /> The Reform Party also stated its support for introducing national defence classes in schools, while Isamaa said that there should be more investments in national defence.<ref name=\":6\">{{Cite web |last=Raiste |first=Anne |date=31 January 2023 |title=Several parties call for mandatory school defense education |url=https://news.err.ee/1608870026/several-parties-call-for-mandatory-school-defense-education |access-date=28 February 2023 |website=Eesti Rahvusringhääling |archive-date=2 February 2023 |archive-url=https://web.archive.org/web/20230202054946/https://news.err.ee/1608870026/several-parties-call-for-mandatory-school-defense-education |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608870026/several-parties-call-for-mandatory-school-defense-education",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":6\" /> Anne Raiste of ''Eesti Rahvusringhääling'' said that the contesting parties all shared similar positions regarding foreign policy and that they pledged to implement forms of direct democracy or a more efficient representative democracy.<ref>{{Cite web |last=Raiste |first=Anne |date=31 January 2023 |title=Political parties' election manifestos share similar foreign policy goals |url=https://news.err.ee/1608868757/political-parties-election-manifestos-share-similar-foreign-policy-goals |access-date=28 February 2023 |website=Eesti Rahvusringhääling |archive-date=23 February 2023 |archive-url=https://web.archive.org/web/20230223155420/https://news.err.ee/1608868757/political-parties-election-manifestos-share-similar-foreign-policy-goals |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608868757/political-parties-election-manifestos-share-similar-foreign-policy-goals",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Raiste |first=Anne |date=17 February 2023 |title=Political parties pledge more direct democracy, a more efficient Riigikogu |url=https://news.err.ee/1608889109/political-parties-pledge-more-direct-democracy-a-more-efficient-riigikogu |access-date=28 February 2023 |website=Eesti Rahvusringhääling |archive-date=23 February 2023 |archive-url=https://web.archive.org/web/20230223155427/https://news.err.ee/1608889109/political-parties-pledge-more-direct-democracy-a-more-efficient-riigikogu |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608889109/political-parties-pledge-more-direct-democracy-a-more-efficient-riigikogu",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":9\">{{Cite news |last=Sytas |first=Andrius |date=5 March 2023 |title=Estonia's Kallas in first place in parliamentary election |publisher=Reuters |url=https://www.reuters.com/world/europe/estonia-goes-polls-test-pro-kyiv-government-2023-03-05/ |url-status=live |access-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305135256/https://www.reuters.com/world/europe/estonia-goes-polls-test-pro-kyiv-government-2023-03-05/ |archive-date=5 March 2023}}</ref>",
+                      "url": "https://www.reuters.com/world/europe/estonia-goes-polls-test-pro-kyiv-government-2023-03-05/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":10\">{{Cite web |date=5 March 2023 |title=Economy, Ukraine war top campaign issues in Estonia general election |url=https://www.euronews.com/2023/03/05/estonia-election-soaring-inflation-and-weapon-deliveries-to-ukraine-top-voter-concerns |access-date=5 March 2023 |website=Euronews |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305135242/https://www.euronews.com/2023/03/05/estonia-election-soaring-inflation-and-weapon-deliveries-to-ukraine-top-voter-concerns |url-status=live}}</ref>",
+                      "url": "https://www.euronews.com/2023/03/05/estonia-election-soaring-inflation-and-weapon-deliveries-to-ukraine-top-voter-concerns",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":11\">{{Cite web |date=5 March 2023 |title=Estonia Is Voting Sunday |url=https://www.voanews.com/a/estonian-pm-s-party-handily-beats-far-right-in-national-election/6990379.html |access-date=5 March 2023 |website=VOA |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305135234/https://www.voanews.com/a/estonia-is-voting-sunday-/6990379.html |url-status=live}}</ref>",
+                      "url": "https://www.voanews.com/a/estonian-pm-s-party-handily-beats-far-right-in-national-election/6990379.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.1.s3",
+                  "text": "Regarding the economy, Raiste said that the contesting parties had pledged to raise pensions to €1,000 or more. The Centre Party stated its support for the introduction of progressive taxation, while SDE and the Greens had adopted similar positions. On the other hand, Reform stated that it would balance the budget, while EKRE called for reduction of taxes. EKRE stated its opposition to transition to sustainable energy to lower energy bills, while the Reform Party pledged to adopt sustainable energy. The Centre Party campaigned on infrastructure investments and affordable housing.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Raiste |first=Anne |date=2 February 2023 |title=Parties pledge €1,000 pensions, more senior centers and flexible pensions |url=https://news.err.ee/1608872807/parties-pledge-1-000-pensions-more-senior-centers-and-flexible-pensions |access-date=28 February 2023 |website=Eesti Rahvusringhääling |archive-date=23 February 2023 |archive-url=https://web.archive.org/web/20230223155419/https://news.err.ee/1608872807/parties-pledge-1-000-pensions-more-senior-centers-and-flexible-pensions |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608872807/parties-pledge-1-000-pensions-more-senior-centers-and-flexible-pensions",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":7\">{{Cite web |last=Pott |first=Toomas |date=14 February 2023 |title=Political parties try to woo voters with tax cut promises |url=https://news.err.ee/1608885440/political-parties-try-to-woo-voters-with-tax-cut-promises |access-date=28 February 2023 |website=Eesti Rahvusringhääling |archive-date=23 February 2023 |archive-url=https://web.archive.org/web/20230223155418/https://news.err.ee/1608885440/political-parties-try-to-woo-voters-with-tax-cut-promises |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608885440/political-parties-try-to-woo-voters-with-tax-cut-promises",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":7\" /> Estonia 200 said that labour taxes should be lowered, while Parempoolsed promised to not introduce any new taxes.<ref name=\":7\" /> Scholars Liili Abuladze and Luule Sakkeus stated that EKRE and Isamaa put their family policy focuses on families with many children and that the needs of those most vulnerable are hardly addressed.<ref>{{Cite web |last1=Abuladze |first1=Liili |last2=Sakkeus |first2=Luule |date=26 February 2023 |title=Analüüs: Erakondade perekonnapoliitika lubadused |url=https://www.err.ee/1608897593/analuus-erakondade-perekonnapoliitika-lubadused |access-date=28 February 2023 |website=Eesti Rahvusringhääling |language=et |archive-date=28 February 2023 |archive-url=https://web.archive.org/web/20230228041009/https://www.err.ee/1608897593/analuus-erakondade-perekonnapoliitika-lubadused |url-status=live}}</ref>",
+                      "url": "https://www.err.ee/1608897593/analuus-erakondade-perekonnapoliitika-lubadused",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":9\" /><ref name=\":11\" /> EKRE also criticised Kallas's Reform Party due to the growing inflation.<ref>{{Cite web |last=Tanner |first=Jari |date=4 March 2023 |title=Ukraine ally Kallas fights for reelection in Estonia vote |url=https://apnews.com/article/estonia-parliamentary-election-ukraine-russia-war-kallas-757d969e3b76312962292898c6c59bcc |access-date=5 March 2023 |website=Associated Press |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305135240/https://apnews.com/article/estonia-parliamentary-election-ukraine-russia-war-kallas-757d969e3b76312962292898c6c59bcc |url-status=live}}</ref>",
+                      "url": "https://apnews.com/article/estonia-parliamentary-election-ukraine-russia-war-kallas-757d969e3b76312962292898c6c59bcc",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":15\">{{Cite web |date=5 March 2023 |title=Estonian PM's party beats far right by wide margin to win general election |url=https://www.france24.com/en/europe/20230305-estonian-prime-minister-s-center-right-party-wins-general-election |access-date=6 March 2023 |website=France 24}}</ref>",
+                      "url": "https://www.france24.com/en/europe/20230305-estonian-prime-minister-s-center-right-party-wins-general-election",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Debates",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.2.s1",
+                  "text": "{| class=\"wikitable\" style=\"font-size:85%; line-height:15px; text-align:center;\"\n! colspan=\"12\"| 2023 Estonian parliamentary election debates\n|-\n! rowspan=\"3\"| Date\n! rowspan=\"3\"| Organisers\n! colspan=\"9\"| {{small|&nbsp;&nbsp;}} {{Colors|black|#D0FFD0|&nbsp;P&nbsp;}} {{small|Present &nbsp;}} {{Colors|black|#FFD0D0|&nbsp;N&nbsp;}} {{small|Non-invitee&nbsp;}}\n|-\n! scope=\"col\" style=\"width:5em\"| Estonian Reform Party|Reform\n! scope=\"col\" style=\"width:5em\"| Conservative People's Party of Estonia|EKRE\n! scope=\"col\" style=\"width:5em\"| Estonian Centre Party|Centre\n! scope=\"col\" style=\"width:5em\"| Estonia 200|E200\n! scope=\"col\" style=\"width:5em\"| Social Democratic Party (Estonia)|SDE\n! scope=\"col\" style=\"width:5em\"| Isamaa\n! scope=\"col\" style=\"width:5em\"| Estonian Greens|EER\n! scope=\"col\" style=\"width:5em\"| Parempoolsed\n! rowspan=\"2\"| Refs\n|-\n! style=\"background:{{party color|Estonian Reform Party}}\"|\n! style=\"background:{{party color|Conservative People's Party of Estonia}}\"|\n! style=\"background:{{party color|Estonian Centre Party (2023)}}\"|\n! style=\"background:{{party color|Estonia 200 (2021)}}\"|\n! style=\"background:{{party color|Social Democratic Party (Estonia)}}\"|\n! style=\"background:{{party color|Isamaa}}\"|\n! style=\"background:{{party color|Estonian Greens}}\"|\n! style=\"background:{{party color|Parempoolsed}}\"|\n|-\n| {{nowrap|1 March}}\n| Eesti Televisioon\n| style=\"background:#D0FFD0\"| '''P'''<br />Kaja Kallas\n| style=\"background:#D0FFD0\"| '''P'''<br />Martin Helme\n| style=\"background:#D0FFD0\"| '''P'''<br />Jüri Ratas\n| style=\"background:#D0FFD0\"| '''P'''<br />Lauri Hussar\n| style=\"background:#D0FFD0\"| '''P'''<br />Lauri Läänemets\n| style=\"background:#D0FFD0\"| '''P'''<br />Helir-Valdor Seeder\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#D0FFD0\"| '''P'''<br />Lavly Perling\n|\n|-\n| {{nowrap|27 Feb}}\n| Postimees\n| style=\"background:#D0FFD0\"| '''P'''<br />Urmas Klaas\n| style=\"background:#D0FFD0\"| '''P'''<br />Jaak Valge\n| style=\"background:#D0FFD0\"| '''P'''<br />Jaan Toots\n| style=\"background:#D0FFD0\"| '''P'''<br />Kristina Kallas\n| style=\"background:#D0FFD0\"| '''P'''<br />Krista Aru\n| style=\"background:#D0FFD0\"| '''P'''<br />Tõnis Lukas\n| style=\"background:#D0FFD0\"| '''P'''<br />Johanna Maria Tõugu\n| style=\"background:#D0FFD0\"| '''P'''<br />Elmo Somelar\n|\n|-\n| {{nowrap|23 Feb}}\n| Postimees\n| style=\"background:#D0FFD0\"| '''P'''<br />Jürgen Ligi\n| style=\"background:#D0FFD0\"| '''P'''<br />Jaak Madison\n| style=\"background:#D0FFD0\"| '''P'''<br />Jaak Aab\n| style=\"background:#D0FFD0\"| '''P'''<br />Ando Kiviberg\n| style=\"background:#D0FFD0\"| '''P'''<br />Lauri Läänemets\n| style=\"background:#D0FFD0\"| '''P'''<br />Helir-Valdor Seeder\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#D0FFD0\"| '''P'''<br />Priit Põllumäe\n|\n|-\n| {{nowrap|23 Feb}}\n| Lääne Elu\n| style=\"background:#D0FFD0\"| '''P'''<br />Kalle Laanet\n| style=\"background:#D0FFD0\"| '''P'''<br />Helle-Moonika Helme\n| style=\"background:#D0FFD0\"| '''P'''<br />Janek Mäggi\n| style=\"background:#D0FFD0\"| '''P'''<br />Kalev Stoicescu\n| style=\"background:#D0FFD0\"| '''P'''<br />Madis Kallas\n| style=\"background:#D0FFD0\"| '''P'''<br />Mikk Lõhmus\n| style=\"background:#D0FFD0\"| '''P'''<br />Marko Kaasik\n| style=\"background:#D0FFD0\"| '''P'''<br />Kristjan Vanaselja\n|\n|-\n| {{nowrap|22 Feb}}\n| Vikerraadio\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#D0FFD0\"| '''P'''<br />Jüri Ratas\n| style=\"background:#D0FFD0\"| '''P'''<br />Lauri Hussar\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n|\n|-\n| {{nowrap|22 Feb}}\n| Eesti Televisioon\n| style=\"background:#D0FFD0\"| '''P'''<br />Kristen Michal\n| style=\"background:#D0FFD0\"| '''P'''<br />Rain Epler\n| style=\"background:#D0FFD0\"| '''P'''<br />Taavi Aas\n| style=\"background:#D0FFD0\"| '''P'''<br />Marek Reinaas\n| style=\"background:#D0FFD0\"| '''P'''<br />Riina Sikkut\n| style=\"background:#D0FFD0\"| '''P'''<br />Priit Sibul\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#D0FFD0\"| '''P'''<br />Siim Kiisler\n|\n|-\n| {{nowrap|21 Feb}}\n| Vikerraadio\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#D0FFD0\"| '''P'''<br />Lauri Läänemets\n| style=\"background:#D0FFD0\"| '''P'''<br />Helir-Valdor Seeder\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#D0FFD0\"| '''P'''<br />Lavly Perling\n|\n|-\n| {{nowrap|20 Feb}}\n| Postimees\n| style=\"background:#D0FFD0\"| '''P'''<br />Yoko Alender\n| style=\"background:#D0FFD0\"| '''P'''<br />Rain Epler\n| style=\"background:#D0FFD0\"| '''P'''<br />Ismail Mirzojev\n| style=\"background:#D0FFD0\"| '''P'''<br />Gea Kangilaski\n| style=\"background:#D0FFD0\"| '''P'''<br />Lemmit Kaplinski\n| style=\"background:#D0FFD0\"| '''P'''<br />Priit Humal\n| style=\"background:#D0FFD0\"| '''P'''<br />Kaia Solnik\n| style=\"background:#D0FFD0\"| '''P'''<br />Indrek Adler\n|\n|-\n| {{nowrap|16 Feb}}\n| Postimees\n| style=\"background:#D0FFD0\"| '''P'''<br />Jürgen Ligi\n| style=\"background:#D0FFD0\"| '''P'''<br />Kalle Grünthal\n| style=\"background:#D0FFD0\"| '''P'''<br />Kersti Sarapuu\n| style=\"background:#D0FFD0\"| '''P'''<br />Kaspar Taimsoo\n| style=\"background:#D0FFD0\"| '''P'''<br />Eimar Veldre\n| style=\"background:#D0FFD0\"| '''P'''<br />Ründo Mülts\n| style=\"background:#D0FFD0\"| '''P'''<br />Oliver Rohesalu\n| style=\"background:#D0FFD0\"| '''P'''<br />Priit Põllumäe\n|\n|-\n| {{nowrap|16 Feb}}\n| Vikerraadio\n| style=\"background:#D0FFD0\"| '''P'''<br />Signe Riisalo\n| style=\"background:#D0FFD0\"| '''P'''<br />Kert Kingo\n| style=\"background:#D0FFD0\"| '''P'''<br />Tanel Kiik\n| style=\"background:#D0FFD0\"| '''P'''<br />Irja Lutsar\n| style=\"background:#D0FFD0\"| '''P'''<br />Helmen Kütt\n| style=\"background:#D0FFD0\"| '''P'''<br />Lea Danilson-Järg\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#D0FFD0\"| '''P'''<br />Marelle Erlenheim\n|\n|-\n| {{nowrap|16 Feb}}\n| Eesti Televisioon\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#D0FFD0\"| '''P'''<br />Marko Kaasik\n| style=\"background:#D0FFD0\"| '''P'''<br />Kristjan Vanaselja\n|\n|-\n| {{nowrap|15 Feb}}\n| Postimees\n| style=\"background:#D0FFD0\"| '''P'''<br />Signe Riisalo\n| style=\"background:#D0FFD0\"| '''P'''<br />Kert Kingo\n| style=\"background:#D0FFD0\"| '''P'''<br />Monika Haukanõmm\n| style=\"background:#D0FFD0\"| '''P'''<br />Diana Ingerainen\n| style=\"background:#D0FFD0\"| '''P'''<br />Heljo Pikhof\n| style=\"background:#D0FFD0\"| '''P'''<br />Merike Värik\n| style=\"background:#D0FFD0\"| '''P'''<br />Susanna Saar\n| style=\"background:#D0FFD0\"| '''P'''<br />Toomas Kasemaa\n|\n|-\n| {{nowrap|13 Feb}}\n| Postimees\n| style=\"background:#D0FFD0\"| '''P'''<br />Andres Sutt\n| style=\"background:#D0FFD0\"| '''P'''<br />Raul Siem\n| style=\"background:#D0FFD0\"| '''P'''<br />Andrei Korobeinik\n| style=\"background:#D0FFD0\"| '''P'''<br />Kristina Kallas\n| style=\"background:#D0FFD0\"| '''P'''<br />Riina Sikkut\n| style=\"background:#D0FFD0\"| '''P'''<br />Kristjan Järvan\n| style=\"background:#D0FFD0\"| '''P'''<br />Marti Soosaar\n| style=\"background:#D0FFD0\"| '''P'''<br />Lavly Perling\n|\n|-\n| {{nowrap|9 Feb}}\n| Vikerraadio\n| style=\"background:#D0FFD0\"| '''P'''<br />Liina Kersna\n| style=\"background:#D0FFD0\"| '''P'''<br />Jaak Valge\n| style=\"background:#D0FFD0\"| '''P'''<br />Jaak Aab\n| style=\"background:#D0FFD0\"| '''P'''<br />Kristina Kallas\n| style=\"background:#D0FFD0\"| '''P'''<br />Piret Hartman\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#D0FFD0\"| '''P'''<br />Tauno Õunapuu\n|\n|-\n| {{nowrap|7 Feb}}\n| Vikerraadio\n| style=\"background:#D0FFD0\"| '''P'''<br />Annely Akkermann\n| style=\"background:#D0FFD0\"| '''P'''<br />Siim Pohlak\n| style=\"background:#D0FFD0\"| '''P'''<br />Lauri Laats\n| style=\"background:#D0FFD0\"| '''P'''<br />Joakim Helenius\n| style=\"background:#D0FFD0\"| '''P'''<br />Lauri Paeveer\n| style=\"background:#D0FFD0\"| '''P'''<br />Aivar Kokk\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#D0FFD0\"| '''P'''<br />Alar Voitka\n|\n|-\n| {{nowrap|2 Feb}}\n| Vikerraadio\n| style=\"background:#D0FFD0\"| '''P'''<br />Liina Kersna\n| style=\"background:#D0FFD0\"| '''P'''<br />Loone Ots\n| style=\"background:#D0FFD0\"| '''P'''<br />Tõnis Mölder\n| style=\"background:#D0FFD0\"| '''P'''<br />Kristina Kallas\n| style=\"background:#D0FFD0\"| '''P'''<br />Jevgeni Ossinovski\n| style=\"background:#D0FFD0\"| '''P'''<br />Tõnis Lukas\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#D0FFD0\"| '''P'''<br />Andres Kaarmann\n|\n|-\n| {{nowrap|2 Feb}}\n| {{abbr|AmCham|American Chamber of Commerce in Estonia}}<br />{{abbr|FICE|Foreign Investors Council of Estonia}}\n| style=\"background:#D0FFD0\"| '''P'''<br />Andres Sutt\n| style=\"background:#D0FFD0\"| '''P'''<br />Martin Helme\n| style=\"background:#D0FFD0\"| '''P'''<br />Tanel Kiik\n| style=\"background:#D0FFD0\"| '''P'''<br />Joakim Helenius\n| style=\"background:#D0FFD0\"| '''P'''<br />Riina Sikkut\n| style=\"background:#D0FFD0\"| '''P'''<br />Urmas Reinsalu\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#FFD0D0\"| '''N'''\n|\n|-\n| {{nowrap|1 Feb}}\n| Vikerraadio\n| style=\"background:#D0FFD0\"| '''P'''<br />Hanno Pevkur\n| style=\"background:#D0FFD0\"| '''P'''<br />Jaak Madison\n| style=\"background:#D0FFD0\"| '''P'''<br />Neeme Väli\n| style=\"background:#D0FFD0\"| '''P'''<br />Margus Tsahkna\n| style=\"background:#D0FFD0\"| '''P'''<br />Raimond Kaljulaid\n| style=\"background:#D0FFD0\"| '''P'''<br />Urmas Reinsalu\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#D0FFD0\"| '''P'''<br />Ilmar Raag\n|\n|-\n| {{nowrap|31 Jan}}\n| Vikerraadio\n| style=\"background:#D0FFD0\"| '''P'''<br />Meelis Kiili\n| style=\"background:#D0FFD0\"| '''P'''<br />Jaak Valge\n| style=\"background:#D0FFD0\"| '''P'''<br />Mihhail Kõlvart\n| style=\"background:#D0FFD0\"| '''P'''<br />Aleksei Jašin\n| style=\"background:#D0FFD0\"| '''P'''<br />Piret Hartman\n| style=\"background:#D0FFD0\"| '''P'''<br />Hendrik Agur\n| style=\"background:#FFD0D0\"| '''N'''\n| style=\"background:#D0FFD0\"| '''P'''<br />Ivo Loide\n|\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=Kell 21.40 ETV valimisdebattide suur finaal: peaministrikandidaatide debatt |url=https://www.err.ee/1608900950/kell-21-40-etv-valimisdebattide-suur-finaal-peaministrikandidaatide-debatt |access-date=4 March 2023 |date=1 March 2023 |work=Eesti Rahvusringhääling |language=et |archive-date=2 March 2023 |archive-url=https://web.archive.org/web/20230302081607/https://www.err.ee/1608900950/kell-21-40-etv-valimisdebattide-suur-finaal-peaministrikandidaatide-debatt |url-status=live}}</ref>",
+                      "url": "https://www.err.ee/1608900950/kell-21-40-etv-valimisdebattide-suur-finaal-peaministrikandidaatide-debatt",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Teedema |first1=Kristjan |title=Tartu esinumbrid debateerisid olulistel teemadel |url=https://tartu.postimees.ee/7721004/jarelvaadatav-tartu-esinumbrid-debateerisid-olulistel-teemadel |access-date=28 February 2023 |date=27 February 2023 |work=Postimees |language=et |archive-date=27 February 2023 |archive-url=https://web.archive.org/web/20230227220901/https://tartu.postimees.ee/7721004/jarelvaadatav-tartu-esinumbrid-debateerisid-olulistel-teemadel |url-status=live}}</ref>",
+                      "url": "https://tartu.postimees.ee/7721004/jarelvaadatav-tartu-esinumbrid-debateerisid-olulistel-teemadel",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Loide |first1=Triin |last2=Saarm |first2=Marko |last3=Riig |first3=Elmo |title=Üks valimisdebatt, seitse esinumbrit, palju küsimusi ja veidi tüli |url=https://jarvateataja.postimees.ee/7718725/uks-valimisdebatt-seitse-esinumbrit-palju-kusimusi-ja-veidi-tuli |access-date=28 February 2023 |work=Postimees |date=23 February 2023 |archive-date=27 February 2023 |archive-url=https://web.archive.org/web/20230227125056/https://jarvateataja.postimees.ee/7718725/uks-valimisdebatt-seitse-esinumbrit-palju-kusimusi-ja-veidi-tuli |url-status=live}}</ref>",
+                      "url": "https://jarvateataja.postimees.ee/7718725/uks-valimisdebatt-seitse-esinumbrit-palju-kusimusi-ja-veidi-tuli",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Raigla |first1=Malle-Liisa |title=Valimisdebatt sotsiaalmajas: me ei taha enam sellist riigikogu |url=https://online.le.ee/2023/02/23/valimisdebatt-sotsiaalmajas-me-ei-taha-enam-sellist-riigikogu/ |access-date=28 February 2023 |date=23 February 2023 |work=Lääne Elu |language=et |archive-date=27 February 2023 |archive-url=https://web.archive.org/web/20230227203311/https://online.le.ee/2023/02/23/valimisdebatt-sotsiaalmajas-me-ei-taha-enam-sellist-riigikogu/ |url-status=live}}</ref>",
+                      "url": "https://online.le.ee/2023/02/23/valimisdebatt-sotsiaalmajas-me-ei-taha-enam-sellist-riigikogu/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Müller |first1=Arp |last2=Ojakivi |first2=Mirko |title=Jüri Ratas, Lauri Hussar lock swords in heated Vikerradio head-to-head show |url=https://news.err.ee/1608894836/juri-ratas-lauri-hussar-lock-swords-in-heated-vikerradio-head-to-head-show |access-date=28 February 2023 |work=Eesti Rahvusringhääling |date=23 February 2023 |archive-date=27 February 2023 |archive-url=https://web.archive.org/web/20230227203900/https://news.err.ee/1608894836/juri-ratas-lauri-hussar-lock-swords-in-heated-vikerradio-head-to-head-show |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608894836/juri-ratas-lauri-hussar-lock-swords-in-heated-vikerradio-head-to-head-show",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Kell 21.40 \"Valimisstuudios\" erakondade majandusdebatt |url=https://www.err.ee/1608894179/kell-21-40-valimisstuudios-erakondade-majandusdebatt |access-date=28 February 2023 |date=22 February 2023 |work=Eesti Rahvusringhääling |language=et |archive-date=23 February 2023 |archive-url=https://web.archive.org/web/20230223231252/https://www.err.ee/1608894179/kell-21-40-valimisstuudios-erakondade-majandusdebatt |url-status=live}}</ref>",
+                      "url": "https://www.err.ee/1608894179/kell-21-40-valimisstuudios-erakondade-majandusdebatt",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Ojakivi |first1=Mirko |title=SDE, Parempoolsed and Isamaa leaders debate key issues ahead of elections |url=https://news.err.ee/1608893036/sde-parempoolsed-and-isamaa-leaders-debate-key-issues-ahead-of-elections |access-date=28 February 2023 |date=21 February 2023 |work=Eesti Rahvusringhääling |language=et |archive-date=22 February 2023 |archive-url=https://web.archive.org/web/20230222080501/https://news.err.ee/1608893036/sde-parempoolsed-and-isamaa-leaders-debate-key-issues-ahead-of-elections |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608893036/sde-parempoolsed-and-isamaa-leaders-debate-key-issues-ahead-of-elections",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Oecologicumis toimuval valimisdebatil vaetakse keskkonnateemasid |url=https://tartu.postimees.ee/7716469/oecologicumis-toimuval-valimisdebatil-vaetakse-keskkonnateemasid |access-date=28 February 2023 |date=20 February 2023 |work=Postimees |language=et |archive-date=21 February 2023 |archive-url=https://web.archive.org/web/20230221142848/https://tartu.postimees.ee/7716469/oecologicumis-toimuval-valimisdebatil-vaetakse-keskkonnateemasid |url-status=live}}</ref>",
+                      "url": "https://tartu.postimees.ee/7716469/oecologicumis-toimuval-valimisdebatil-vaetakse-keskkonnateemasid",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Otse: Riigikogu kandidaatide valimisdebatt |url=https://jarvateataja.postimees.ee/7713801/otse-riigikogu-kandidaatide-valimisdebatt |access-date=28 February 2023 |date=16 February 2023 |work=Postimees |language=et |archive-date=16 February 2023 |archive-url=https://web.archive.org/web/20230216125445/https://jarvateataja.postimees.ee/7713801/otse-riigikogu-kandidaatide-valimisdebatt |url-status=live}}</ref>",
+                      "url": "https://jarvateataja.postimees.ee/7713801/otse-riigikogu-kandidaatide-valimisdebatt",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Third 'Valimisstuudio' election debate focuses on healthcare |url=https://news.err.ee/1608887429/third-valimisstuudio-election-debate-focuses-on-healthcare |access-date=28 February 2023 |work=Eesti Rahvusringhääling |date=16 February 2023 |archive-date=17 February 2023 |archive-url=https://web.archive.org/web/20230217072044/https://news.err.ee/1608887429/third-valimisstuudio-election-debate-focuses-on-healthcare |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608887429/third-valimisstuudio-election-debate-focuses-on-healthcare",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Valimisdebatt: Parempoolsed ja Rohelised jäid tuumajaama teemal eriarvamusele |url=https://www.err.ee/1608888647/valimisdebatt-parempoolsed-ja-rohelised-jaid-tuumajaama-teemal-eriarvamusele |access-date=28 February 2023 |date=16 February 2023 |work=Eesti Rahvusringhääling |language=et |archive-date=28 February 2023 |archive-url=https://web.archive.org/web/20230228202705/https://www.err.ee/api/statistics/articleStatistics |url-status=live}}</ref>",
+                      "url": "https://www.err.ee/1608888647/valimisdebatt-parempoolsed-ja-rohelised-jaid-tuumajaama-teemal-eriarvamusele",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Valimisdebatt keskendub puuetega inimeste toimetulekule |url=https://www.postimees.ee/7712677/otse-valimisdebatt-keskendub-puuetega-inimeste-toimetulekule |access-date=28 February 2023 |date=15 February 2023 |work=Postimees |language=et |archive-date=15 February 2023 |archive-url=https://web.archive.org/web/20230215080749/https://www.postimees.ee/7712677/otse-valimisdebatt-keskendub-puuetega-inimeste-toimetulekule |url-status=live}}</ref>",
+                      "url": "https://www.postimees.ee/7712677/otse-valimisdebatt-keskendub-puuetega-inimeste-toimetulekule",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Tehnoloogiaettevõtjad: Eesti kasutab tehnoloogiasektori võimekusest tühise osa |url=https://www.postimees.ee/7708474/valimisdebatt-tehnoloogiaettevotjad-eesti-kasutab-tehnoloogiasektori-voimekusest-tuhise-osa |access-date=28 February 2023 |date=13 February 2023 |work=Postimees |language=et |archive-date=13 February 2023 |archive-url=https://web.archive.org/web/20230213105502/https://www.postimees.ee/7708474/valimisdebatt-tehnoloogiaettevotjad-eesti-kasutab-tehnoloogiasektori-voimekusest-tuhise-osa |url-status=live}}</ref>",
+                      "url": "https://www.postimees.ee/7708474/valimisdebatt-tehnoloogiaettevotjad-eesti-kasutab-tehnoloogiasektori-voimekusest-tuhise-osa",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Second 'Valimisstuudio' election debate on education, science and culture |url=https://news.err.ee/1608879242/second-valimisstuudio-election-debate-on-education-science-and-culture |access-date=28 February 2023 |work=Eesti Rahvusringhääling |date=9 February 2023 |language=et |archive-date=12 February 2023 |archive-url=https://web.archive.org/web/20230212205247/https://news.err.ee/1608879242/second-valimisstuudio-election-debate-on-education-science-and-culture |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608879242/second-valimisstuudio-election-debate-on-education-science-and-culture",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=\"Vikerraadio\" valimisdebatis vaieldi laenukoormuse ja uute maksude üle |url=https://www.err.ee/1608877121/vikerraadio-valimisdebatis-vaieldi-laenukoormuse-ja-uute-maksude-ule |access-date=28 February 2023 |date=7 February 2023 |work=Eesti Rahvusringhääling |language=et |archive-date=24 February 2023 |archive-url=https://web.archive.org/web/20230224232916/https://www.err.ee/1608877121/vikerraadio-valimisdebatis-vaieldi-laenukoormuse-ja-uute-maksude-ule |url-status=live}}</ref>",
+                      "url": "https://www.err.ee/1608877121/vikerraadio-valimisdebatis-vaieldi-laenukoormuse-ja-uute-maksude-ule",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Valimisstuudio. Riigikogu valimised. Haridus ja teadus |url=https://vikerraadio.err.ee/1608857249/valimisstuudio-riigikogu-valimised-haridus-ja-teadus |access-date=28 February 2023 |date=2 February 2023 |work=Eesti Rahvusringhääling |language=et |archive-date=23 February 2023 |archive-url=https://web.archive.org/web/20230223084800/https://vikerraadio.err.ee/1608857249/valimisstuudio-riigikogu-valimised-haridus-ja-teadus |url-status=live}}</ref>",
+                      "url": "https://vikerraadio.err.ee/1608857249/valimisstuudio-riigikogu-valimised-haridus-ja-teadus",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Whyte |first1=Andrew |title=AmCham/FICE pre-election political party debate |url=https://news.err.ee/1608871619/watch-again-amcham-fice-pre-election-political-party-debate |access-date=28 February 2023 |work=Eesti Rahvusringhääling |date=2 February 2023 |archive-date=8 February 2023 |archive-url=https://web.archive.org/web/20230208095913/https://news.err.ee/1608871619/watch-again-amcham-fice-pre-election-political-party-debate |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608871619/watch-again-amcham-fice-pre-election-political-party-debate",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Security first topic of 'Valimisstuudio' series of election debates |url=https://news.err.ee/1608871661/security-first-topic-of-valimisstuudio-series-of-election-debates |access-date=28 February 2023 |work=Eesti Rahvusringhääling |date=2 February 2023 |language=et |archive-date=4 February 2023 |archive-url=https://web.archive.org/web/20230204034326/https://news.err.ee/1608871661/security-first-topic-of-valimisstuudio-series-of-election-debates |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608871661/security-first-topic-of-valimisstuudio-series-of-election-debates",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Vikerraadio elections debate: Learning language key to integration |url=https://news.err.ee/1608870431/vikerraadio-elections-debate-learning-language-key-to-integration |access-date=28 February 2023 |work=Eesti Rahvusringhääling |date=1 February 2023 |archive-date=23 February 2023 |archive-url=https://web.archive.org/web/20230223155418/https://news.err.ee/1608870431/vikerraadio-elections-debate-learning-language-key-to-integration |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608870431/vikerraadio-elections-debate-learning-language-key-to-integration",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Opinion polls",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Results",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "Voting at Estonian embassies abroad took place between 18 and 23 February 2023. The National Electoral Committee had announced that 47.3% of voters cast their ballot during the pre-election period, which began on 27 February and ended before 5 March, a majority of whom voted online. Voting stations on 5 March 2023 were opened from 9:00&nbsp;am to 8:00&nbsp;pm. There were 966,129 citizens that had the right to vote in the election.",
+              "references": [
+                {
+                  "text": "<ref name=\":4\">{{Cite web |title=Parliamentary elections 2023 |url=https://www.valimised.ee/en/parliamentary-elections-2023/parliamentary-elections-2023 |access-date=28 February 2023 |website=Valimised |archive-date=27 February 2023 |archive-url=https://web.archive.org/web/20230227121607/https://www.valimised.ee/en/parliamentary-elections-2023/parliamentary-elections-2023 |url-status=live}}</ref>",
+                  "url": "https://www.valimised.ee/en/parliamentary-elections-2023/parliamentary-elections-2023",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":4\" /><ref>{{Cite news |date=28 February 2023 |title=13 percent of Estonia's electorate have already voted |url=https://news.err.ee/1608899960/13-percent-of-estonia-s-electorate-have-already-voted |access-date=28 February 2023 |newspaper=Err |archive-date=28 February 2023 |archive-url=https://web.archive.org/web/20230228202706/https://platform.twitter.com/embed/Tweet.html?dnt=false&embedId=twitter-widget-1&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfbWl4ZWRfbWVkaWFfMTU4OTciOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd19leHBlcmltZW50c19jb29raWVfZXhwaXJhdGlvbiI6eyJidWNrZXQiOjEyMDk2MDAsInZlcnNpb24iOm51bGx9LCJ0ZndfZHVwbGljYXRlX3NjcmliZXNfdG9fc2V0dGluZ3MiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3ZpZGVvX2hsc19keW5hbWljX21hbmlmZXN0c18xNTA4MiI6eyJidWNrZXQiOiJ0cnVlX2JpdHJhdGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2xlZ2FjeV90aW1lbGluZV9zdW5zZXQiOnsiYnVja2V0Ijp0cnVlLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3R3ZWV0X2VkaXRfZnJvbnRlbmQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfX0%3D&frame=false&hideCard=false&hideThread=false&id=1629405767576047616&lang=en&origin=https%3A%2F%2Fnews.err.ee%2F1608897260%2Faround-1-300-russian-belarusian-citizens-firearms-permits-to-be-revoked&sessionId=0dd4b0d6c9e45d6b45d1b07e23b6a48bd9a2cf8c&siteScreenName=errnews&theme=light&widgetsVersion=aaf4084522e3a%3A1674595607486&width=550px |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/1608899960/13-percent-of-estonia-s-electorate-have-already-voted",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=4 March 2023 |title=Estonia sets new e-voting record at Riigikogu 2023 elections |url=https://news.err.ee/1608904730/estonia-sets-new-e-voting-record-at-riigikogu-2023-elections |access-date=5 March 2023 |newspaper=Err |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305135218/https://news.err.ee/1608904730/estonia-sets-new-e-voting-record-at-riigikogu-2023-elections |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/1608904730/estonia-sets-new-e-voting-record-at-riigikogu-2023-elections",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Election activities and deadlines – Election of the Riigikogu 2023 |url=https://www.valimised.ee/en/parliament-2023/election-activities-and-deadlines-election-riigikogu-2023 |access-date=28 February 2023 |website=Valimised |archive-date=29 January 2023 |archive-url=https://web.archive.org/web/20230129230510/https://www.valimised.ee/en/parliament-2023/election-activities-and-deadlines-election-riigikogu-2023 |url-status=live}}</ref>",
+                  "url": "https://www.valimised.ee/en/parliament-2023/election-activities-and-deadlines-election-riigikogu-2023",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=3 March 2023 |title=Expert: Poll variations can be cause for celebration for Reform and EKRE |url=https://news.err.ee/1608903230/expert-poll-variations-can-be-cause-for-celebration-for-reform-and-ekre |access-date=5 March 2023 |newspaper=Err |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305135314/https://news.err.ee/1608903230/expert-poll-variations-can-be-cause-for-celebration-for-reform-and-ekre |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/1608903230/expert-poll-variations-can-be-cause-for-celebration-for-reform-and-ekre",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Key participation figures |url=https://www.valimised.ee/en |access-date=28 February 2023 |website=Valimised |archive-date=27 February 2023 |archive-url=https://web.archive.org/web/20230227141223/https://www.valimised.ee/en |url-status=live}}</ref>",
+                  "url": "https://www.valimised.ee/en",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s2",
+              "text": "The turnout progressed towards 63% by 7:00&nbsp;pm according to ''Eesti Rahvusringhääling'', with the highest turnout being in the Rapla County and the lowest in the Ida-Viru County. With 312,181 electronic votes, these were the first elections where more than half of votes were cast online. Later that day, ''Eesti Rahvusringhääling'', Reuters, and the Associated Press reported that the Reform Party won the most votes and seats in the Riigikogu, with EKRE placing second and the Centre Party placing third. Additionally, ''Eesti Rahvusringhääling'' reported that Estonia 200 would enter the Riigikogu for the first time since its formation.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |date=5 March 2023 |title=Voter turnout 63 percent by 7 p.m. Sunday |url=https://news.err.ee/1608905111/voter-turnout-63-percent-by-7-p-m-sunday |access-date=5 March 2023 |newspaper=Err |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305174213/https://news.err.ee/1608905111/voter-turnout-63-percent-by-7-p-m-sunday |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/1608905111/voter-turnout-63-percent-by-7-p-m-sunday",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=6 March 2023 |title=Online votes make up two-thirds of Reform, less than third of EKRE votes |url=https://news.err.ee/1608906014/online-votes-make-up-two-thirds-of-reform-less-than-third-of-ekre-votes |access-date=6 March 2023 |newspaper=Err |url-status=live |archive-date=6 March 2023 |archive-url=https://web.archive.org/web/20230306142324/https://news.err.ee/1608906014/online-votes-make-up-two-thirds-of-reform-less-than-third-of-ekre-votes}}</ref>",
+                  "url": "https://news.err.ee/1608906014/online-votes-make-up-two-thirds-of-reform-less-than-third-of-ekre-votes",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":9\" /><ref name=\":13\">{{Cite web |date=5 March 2023 |title=Reform takes comfortable lead after e-votes counted |url=https://news.err.ee/1608905309/reform-takes-comfortable-lead-after-e-votes-counted |access-date=5 March 2023 |website=Eesti Rahvusringhääling |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305233510/https://news.err.ee/api/statistics/articleStatistics |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/1608905309/reform-takes-comfortable-lead-after-e-votes-counted",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Tanner |first=Jari |date=5 March 2023 |title=PM Kaja Kallas' Reform Party set to win in Estonia vote |url=https://apnews.com/article/estonia-election-kallas-helme-b3dc215a53a822d7b82e5bf6020e4a52 |access-date=5 March 2023 |website=Associated Press |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305233456/https://apnews.com/article/estonia-election-kallas-helme-b3dc215a53a822d7b82e5bf6020e4a52 |url-status=live}}</ref>",
+                  "url": "https://apnews.com/article/estonia-election-kallas-helme-b3dc215a53a822d7b82e5bf6020e4a52",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":13\" /><ref name=\":14\">{{Cite web |date=6 March 2023 |title=Top six takeaways from Estonia's 2023 Riigikogu elections |url=https://news.err.ee/1608905345/top-six-takeaways-from-estonia-s-2023-riigikogu-elections |access-date=5 March 2023 |website=Eesti Rahvusringhääling |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305233529/https://news.err.ee/api/statistics/articleStatistics |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/1608905345/top-six-takeaways-from-estonia-s-2023-riigikogu-elections",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s3",
+              "text": "| invalid = 3502\n| electorate = 966129\n| total_sc = 0\n| source = National Electoral Committee\n}}<section end=2023electiontable /><!--This is necessary so that this table can be transcluded to Riigikogu#Latest election – please do not remove-->",
+              "references": [
+                {
+                  "text": "<ref name=\"results\">{{cite web |title=Eesti Vabariik kokku |url=https://rk2023.valimised.ee/et/election-result/index.html |website=Valimised |access-date=5 March 2023 |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305205448/https://rk2023.valimised.ee/et/election-result/index.html |url-status=live}}</ref>",
+                  "url": "https://rk2023.valimised.ee/et/election-result/index.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.2",
+          "title": "Results by constituency",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.2.s1",
+                  "text": "{| class=\"wikitable sortable\" style=\"text-align:right; font-size:95%; line-height:20px\"\n! rowspan=\"3\" |Constituency\n! colspan=\"2\" class=\"unsortable\" width=\"30px\"| Estonian Reform Party|Reform\n! colspan=\"2\" class=\"unsortable\" width=\"30px\"| Estonian Centre Party|Centre\n! colspan=\"2\" class=\"unsortable\" width=\"30px\"| Conservative People's Party of Estonia|EKRE\n! colspan=\"2\" class=\"unsortable\" width=\"30px\"| Isamaa\n! colspan=\"2\" class=\"unsortable\" width=\"30px\"| Social Democratic Party (Estonia)|SDE\n! colspan=\"2\" class=\"unsortable\" width=\"30px\"| Estonia 200|E200\n! colspan=\"2\" class=\"unsortable\" width=\"30px\"| Estonian Greens|EER\n! colspan=\"2\" class=\"unsortable\" width=\"30px\"| Parempoolsed\n! colspan=\"2\" class=\"unsortable\" width=\"30px\"| Estonian United Left Party|EÜVP\n! colspan=\"2\" class=\"unsortable\" width=\"30px\"| Independent politician|Independents\n|-\n! colspan=\"2\" style=\"background:{{party color|Estonian Reform Party}}\"|\n! colspan=\"2\" style=\"background:{{party color|Estonian Centre Party (2023)}}\"|\n! colspan=\"2\" style=\"background:{{party color|Conservative People's Party of Estonia}}\"|\n! colspan=\"2\" style=\"background:{{party color|Isamaa}}\"|\n! colspan=\"2\" style=\"background:{{party color|Social Democratic Party (Estonia)}}\"|\n! colspan=\"2\" style=\"background:{{party color|Estonia 200 (2021)}}\"|\n! colspan=\"2\" style=\"background:{{party color|Estonian Greens}}\"|\n! colspan=\"2\" style=\"background:{{party color|Parempoolsed}}\"|\n! colspan=\"2\" style=\"background:{{party color|Estonian United Left Party}}\"|\n! colspan=\"2\" style=\"background:{{party color|Independent politician}}\"|\n|-\n! data-sort-type=\"number\"| %\n! data-sort-type=\"number\"| S\n! data-sort-type=\"number\"| %\n! data-sort-type=\"number\"| S\n! data-sort-type=\"number\"| %\n! data-sort-type=\"number\"| S\n! data-sort-type=\"number\"| %\n! data-sort-type=\"number\"| S\n! data-sort-type=\"number\"| %\n! data-sort-type=\"number\"| S\n! data-sort-type=\"number\"| %\n! data-sort-type=\"number\"| S\n! data-sort-type=\"number\"| %\n! data-sort-type=\"number\"| S\n! data-sort-type=\"number\"| %\n! data-sort-type=\"number\"| S\n! data-sort-type=\"number\"| %\n! data-sort-type=\"number\"| S\n! data-sort-type=\"number\"| %\n! data-sort-type=\"number\"| S\n|-\n| align=\"left\"| Riigikogu electoral district no. 1|No. 1\n| style=\"background:{{party color|Estonian Reform Party}}\"| 31.4\n| '''4'''\n| 20.9\n| '''4'''\n| 9.7\n| '''1'''\n| 5.6\n| '''1'''\n| 10.0\n| '''1'''\n| 15.7\n| '''2'''\n| 1.1\n| '''0'''\n| 2.3\n| '''0'''\n| 3.3\n| '''0'''\n| 0.1\n| '''0'''\n|-\n| align=\"left\"| Riigikogu electoral district no. 2|No. 2\n| style=\"background:{{party color|Estonian Reform Party}}\"| 29.4\n| '''4'''\n| 29.0\n| '''5'''\n| 9.1\n| '''1'''\n| 5.4\n| '''1'''\n| 8.6\n| '''1'''\n| 10.9\n| '''2'''\n| 1.0\n| '''0'''\n| 1.6\n| '''0'''\n| 4.9\n| '''0'''\n| 0.1\n| '''0'''\n|-\n| align=\"left\"| Riigikogu electoral district no. 3|No. 3\n| style=\"background:{{party color|Estonian Reform Party}}\"| 34.7\n| '''3'''\n| 18.9\n| '''1'''\n| 11.7\n| '''1'''\n| 6.5\n| '''0'''\n| 8.9\n| '''1'''\n| 14.2\n| '''1'''\n| 1.1\n| '''0'''\n| 2.1\n| '''0'''\n| 1.9\n| '''0'''\n| 0.0\n| '''0'''\n|-\n| align=\"left\"| Riigikogu electoral district no. 4|No. 4\n| style=\"background:{{party color|Estonian Reform Party}}\"| 40.0\n| '''7'''\n| 10.2\n| '''1'''\n| 14.6\n| '''3'''\n| 8.3\n| '''1'''\n| 7.1\n| '''1'''\n| 13.7\n| '''2'''\n| 0.7\n| '''0'''\n| 3.4\n| '''0'''\n| 1.3\n| '''0'''\n| 0.8\n| '''0'''\n|-\n| align=\"left\"| Riigikogu electoral district no. 5|No. 5\n| style=\"background:{{party color|Estonian Reform Party}}\"| 27.6\n| '''1'''\n| 11.2\n| '''1'''\n| 19.4\n| '''1'''\n| 7.8\n| '''0'''\n| 13.9\n| '''1'''\n| 17.1\n| '''1'''\n| 0.9\n| '''0'''\n| 2.1\n| '''0'''\n| 0.0\n| '''0'''\n| 0.0\n| '''0'''\n|-\n| align=\"left\"| Riigikogu electoral district no. 6|No. 6\n| style=\"background:{{party color|Estonian Reform Party}}\"| 31.1\n| '''1'''\n| 13.4\n| '''0'''\n| 20.5\n| '''2'''\n| 13.7\n| '''0'''\n| 7.5\n| '''0'''\n| 8.7\n| '''1'''\n| 0.5\n| '''0'''\n| 3.0\n| '''0'''\n| 1.5\n| '''0'''\n| 0.2\n| '''0'''\n|-\n| align=\"left\"| Riigikogu electoral district no. 7|No. 7\n| 14.1\n| '''1'''\n| style=\"background:{{party color|Estonian Centre Party (2023)}}; color:white\"| 25.8\n| '''1'''\n| 8.4\n| '''1'''\n| 4.0\n| '''0'''\n| 7.6\n| '''0'''\n| 8.3\n| '''0'''\n| 0.5\n| '''0'''\n| 1.0\n| '''0'''\n| 14.9\n| '''0'''\n| 15.5\n| '''0'''\n|-\n| align=\"left\"| Riigikogu electoral district no. 8|No. 8\n| style=\"background:{{party color|Estonian Reform Party}}\"| 27.8\n| '''2'''\n| 10.2\n| '''1'''\n| 23.3\n| '''1'''\n| 11.9\n| '''1'''\n| 12.9\n| '''2'''\n| 10.7\n| '''0'''\n| 0.8\n| '''0'''\n| 2.1\n| '''0'''\n| 0.0\n| '''0'''\n| 0.3\n| '''0'''\n|-\n| align=\"left\"| Riigikogu electoral district no. 9|No. 9\n| style=\"background:{{party color|Estonian Reform Party}}\"| 30.4\n| '''3'''\n| 9.2\n| '''0'''\n| 19.7\n| '''1'''\n| 12.0\n| '''1'''\n| 9.0\n| '''0'''\n| 14.6\n| '''1'''\n| 1.0\n| '''0'''\n| 2.6\n| '''0'''\n| 1.5\n| '''0'''\n| 0.0\n| '''0'''\n|-\n| align=\"left\"| Riigikogu electoral district no. 10|No. 10\n| style=\"background:{{party color|Estonian Reform Party}}\"| 35.9\n| '''4'''\n| 7.3\n| '''0'''\n| 14.5\n| '''1'''\n| 8.6\n| '''1'''\n| 9.9\n| '''1'''\n| 18.4\n| '''1'''\n| 1.7\n| '''0'''\n| 2.0\n| '''0'''\n| 1.6\n| '''0'''\n| 0.0\n| '''0'''\n|-\n| align=\"left\"| Riigikogu electoral district no. 11|No. 11\n| 24.0\n| '''5'''\n| 13.4\n| '''1'''\n| style=\"background:{{party color|Conservative People's Party of Estonia}}; color:white\"| 26.5\n| '''2'''\n| 8.5\n| '''1'''\n| 12.3\n| '''1'''\n| 11.5\n| '''1'''\n| 1.3\n| '''0'''\n| 2.3\n| '''0'''\n| 0.0\n| '''0'''\n| 0.2\n| '''0'''\n|-\n| align=\"left\"| Riigikogu electoral district no. 12|No. 12\n| style=\"background:{{party color|Estonian Reform Party}}\"| 29.5\n| '''2'''\n| 11.4\n| '''1'''\n| 26.0\n| '''2'''\n| 10.0\n| '''1'''\n| 6.7\n| '''0'''\n| 12.8\n| '''2'''\n| 0.8\n| '''0'''\n| 2.2\n| '''0'''\n| 0.7\n| '''0'''\n| 0.0\n| '''0'''\n|- style=\"background:#CDCDCD\"\n| align=\"left\"| '''Total'''\n| 31.24\n| '''37'''\n| 15.28\n| '''16'''\n| 16.05\n| '''17'''\n| 9.27\n| '''9'''\n| 8.21\n| '''8'''\n| 13.33\n| '''14'''\n| 0.96\n| '''0'''\n| 2.30\n| '''0'''\n| 2.39\n| '''0'''\n| 0.96\n| '''0'''\n|-\n! colspan=\"22\"|\n|-\n! colspan=\"22\" style=\"text-align:left; font-weight:normal; background:#F9F9F9\"| Source: National Electoral Committee,\n|}",
+                  "references": [
+                    {
+                      "text": "<ref name=\"results\"/> Eesti Rahvusringhääling<ref>{{cite news |title=Valimised 2023 |url=https://www.err.ee/k/rk-valimised-2023 |access-date=6 March 2023 |language=et |work=Eesti Rahvusringhääling |archive-date=6 March 2023 |archive-url=https://web.archive.org/web/20230306001007/https://www.err.ee/k/rk-valimised-2023 |url-status=live}}</ref>",
+                      "url": "https://www.err.ee/k/rk-valimised-2023",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "8.s1",
+              "text": "Tanel Kiik, the vice-chair of the Centre Party, had said that \"the Centre Party would be satisfied if it were to get 20 seats\" in the Riigikogu, while Sven Mikser, the former chairman of the SDE, said that \"nine mandates is probably the best the party can do in Estonia today\". Ratas later described the results as \"mediocre\".",
+              "references": [
+                {
+                  "text": "<ref name=\":12\">{{Cite news |date=5 March 2023 |title=Live blog: 2023 Riigikogu elections |url=https://news.err.ee/1608905171/live-blog-2023-riigikogu-elections |access-date=5 March 2023 |newspaper=Err |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305174320/https://news.err.ee/1608905171/live-blog-2023-riigikogu-elections |url-status=live}}</ref>",
+                  "url": "https://news.err.ee/1608905171/live-blog-2023-riigikogu-elections",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":12\" /> After the publication of e-vote results, Kallas gave a speech and thanked her voters.<ref name=\":12\" /><ref name=\":16\" /> Kallas was congratulated by Sanna Marin, the prime minister of Finland, and Krišjānis Kariņš, the prime minister of Latvia.<ref>{{Cite web |last=Marin |first=Sanna |date=6 March 2023 |title=Warm congratulations to PM @kajakallas on your success in the Estonian parliamentary elections. Looking forward to continuing our close cooperation in EU affairs, NATO and security policy and our support to Ukraine. |url=https://twitter.com/MarinSanna/status/1632642358603833346 |url-status=live |archive-url=https://web.archive.org/web/20230306123605/https://twitter.com/MarinSanna/status/1632642358603833346 |archive-date=6 March 2023 |access-date=6 March 2023 |website=Twitter}}</ref>",
+                  "url": "https://twitter.com/MarinSanna/status/1632642358603833346",
+                  "status_code": 400,
+                  "reason": "Bad Request",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=6 March 2023 |title=Kariņš congratulates Kallas on Estonian election success |url=https://eng.lsm.lv/article/politics/politics/karins-congratulates-kallas-on-estonian-election-success.a499432/ |url-status=live |archive-url=https://web.archive.org/web/20230306123605/https://eng.lsm.lv/article/politics/politics/karins-congratulates-kallas-on-estonian-election-success.a499432/ |archive-date=6 March 2023 |access-date=6 March 2023 |website=LSM}}</ref>",
+                  "url": "https://eng.lsm.lv/article/politics/politics/karins-congratulates-kallas-on-estonian-election-success.a499432/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "8.s2",
+              "text": "Martin Helme, the leader of EKRE, stated that \"he does not trust the e-vote results\" and demanded a recount. On 9 March 2023, EKRE made an appeal to the Supreme Court of Estonia, requesting the results to be annulled and claiming that \"several anomalies and technical errors in the e-voting process had been observed\". Lawyer Paul Keres of EKRE also claimed that the e-voting process is unconstitutional. This case was dismissed on 13 March.",
+              "references": [
+                {
+                  "text": "<ref name=\":12\" /><ref name=\":16\">{{Cite web |date=5 March 2023 |title=Riigikogu valimistel on hääle andnud rekordarv inimesi |url=https://www.postimees.ee/7725235/valimisblogi-riigikogu-valimistel-on-haale-andnud-rekordarv-inimesi |access-date=5 March 2023 |website=Postimees |language=et |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305233505/https://www.postimees.ee/7725235/valimisblogi-riigikogu-valimistel-voidutses-reformierakond |url-status=live}}</ref>",
+                  "url": "https://www.postimees.ee/7725235/valimisblogi-riigikogu-valimistel-voidutses-reformierakond",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=9 March 2023 |title=EKRE appeals e-vote result at Supreme Court |newspaper=Err |url=https://news.err.ee/1608909179/ekre-appeals-e-vote-result-at-supreme-court |url-status=live |access-date=9 March 2023 |archive-url=https://web.archive.org/web/20230309100513/https://news.err.ee/1608909179/ekre-appeals-e-vote-result-at-supreme-court |archive-date=9 March 2023}}</ref>",
+                  "url": "https://news.err.ee/1608909179/ekre-appeals-e-vote-result-at-supreme-court",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Kiisler |first=Indrek |date=9 March 2023 |title=Keres: e-hääli ei saa arvestada, kuna need on kokku loetud põhiseaduse vastaselt |url=https://www.err.ee/1608909278/keres-e-haali-ei-saa-arvestada-kuna-need-on-kokku-loetud-pohiseaduse-vastaselt |url-status=live |archive-url=https://web.archive.org/web/20230309102351/https://www.err.ee/1608909278/keres-e-haali-ei-saa-arvestada-kuna-need-on-kokku-loetud-pohiseaduse-vastaselt |archive-date=9 March 2023 |access-date=9 March 2023 |website=Eesti Rahvusringhääling |language=et}}</ref>",
+                  "url": "https://www.err.ee/1608909278/keres-e-haali-ei-saa-arvestada-kuna-need-on-kokku-loetud-pohiseaduse-vastaselt",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-03-13 |title=Valimiskomisjon Martin Helme õiguste rikkumist ei tuvastanud |url=https://www.err.ee/1608913763/valimiskomisjon-martin-helme-oiguste-rikkumist-ei-tuvastanud |url-status=live |archive-url=https://web.archive.org/web/20230313230521/https://www.err.ee/1608913763/valimiskomisjon-martin-helme-oiguste-rikkumist-ei-tuvastanud |archive-date=13 March 2023 |access-date=2023-03-13 |website=Eesti Rahvusringhääling |language=et}}</ref>",
+                  "url": "https://www.err.ee/1608913763/valimiskomisjon-martin-helme-oiguste-rikkumist-ei-tuvastanud",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Government formation",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.2.s1",
+                  "text": "As the party that won the most seats in the election, Reform Party began negotiations between the parties to attempt to form a government. A day after the election, Kallas said \"that it is clear that voters expect to see Estonia 200 in the government\", while she also said that there are four possible coalitions for the Reform Party to form. Kallas invited Estonia 200 and SDE for government talks on 7 March 2023. Lauri Läänemets, the leader of SDE, confirmed on 7 April that the Reform Party, Estonia 200, and SDE reached an agreement. A day later, Kallas revealed the composition of her new cabinet. The coalition agreement was signed on 10 April. Soon after, Kallas became the prime-minister designate, with the Riigikogu approving the coalition government on 12 April. Her Kaja Kallas' third cabinet|cabinet was sworn in on 17 April.<ref name=\":17\" />",
+                  "references": [
+                    {
+                      "text": "<ref name=\":14\" /> ''Eesti Rahvusringhääling'' reported that while experts predicted that the Reform–Estonia 200–SDE coalition would be formed after the election, Kallas only ruled out a coalition with EKRE.<ref name=\":15\" /><ref name=\":12\" /><ref>{{Cite web |last=Duxbury |first=Charlie |date=5 March 2023 |title=Estonia's incumbent leader Kaja Kallas on course for election win |url=https://www.politico.eu/article/estonia-election-incumbent-prime-minister-kaja-kallas-ekre-reform-party-on-course-for-win/ |access-date=6 March 2023 |website=Politico |archive-date=5 March 2023 |archive-url=https://web.archive.org/web/20230305235637/https://www.politico.eu/article/estonia-election-incumbent-prime-minister-kaja-kallas-ekre-reform-party-on-course-for-win/ |url-status=live}}</ref>",
+                      "url": "https://www.politico.eu/article/estonia-election-incumbent-prime-minister-kaja-kallas-ekre-reform-party-on-course-for-win/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Kannel |first1=Astrid |last2=Kuusk |first2=Priit |date=6 March 2023 |title=Kallas: Eesti 200 on selgelt valijate ootus |url=https://www.err.ee/1608906440/kallas-eesti-200-on-selgelt-valijate-ootus |access-date=6 March 2023 |website=Eesti Rahvusringhääling |language=et |archive-date=6 March 2023 |archive-url=https://web.archive.org/web/20230306220951/https://www.err.ee/1608906440/kallas-eesti-200-on-selgelt-valijate-ootus |url-status=live}}</ref>",
+                      "url": "https://www.err.ee/1608906440/kallas-eesti-200-on-selgelt-valijate-ootus",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=6 March 2023 |title=Reform Party weighing four coalition options |newspaper=Eesti Rahvusringhääling |url=https://news.err.ee/1608905966/reform-party-weighing-four-coalition-options |url-status=live |access-date=6 March 2023 |archive-url=https://web.archive.org/web/20230306142323/https://news.err.ee/1608905966/reform-party-weighing-four-coalition-options |archive-date=6 March 2023}}</ref>",
+                      "url": "https://news.err.ee/1608905966/reform-party-weighing-four-coalition-options",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=7 March 2023 |title=Kaja Kallas: Reform inviting Eesti 200, Social Democrats to coalition talks |url=https://news.err.ee/1608906884/kaja-kallas-reform-inviting-eesti-200-social-democrats-to-coalition-talks |access-date=7 March 2023 |newspaper=Err |archive-date=7 March 2023 |archive-url=https://web.archive.org/web/20230307190158/https://news.err.ee/1608906884/kaja-kallas-reform-inviting-eesti-200-social-democrats-to-coalition-talks |url-status=live}}</ref>",
+                      "url": "https://news.err.ee/1608906884/kaja-kallas-reform-inviting-eesti-200-social-democrats-to-coalition-talks",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Leas |first=Reene |date=2023-04-07 |title=SDE leader: Coalition agreement ready, includes tax changes |url=https://news.err.ee/1608940820/sde-leader-coalition-agreement-ready-includes-tax-changes |access-date=2023-04-07 |website=Eesti Rahvusringhääling}}</ref>",
+                      "url": "https://news.err.ee/1608940820/sde-leader-coalition-agreement-ready-includes-tax-changes",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-04-08 |title=Reformierakond avalikustas oma valitsusdelegatsiooni |url=https://www.err.ee/1608941429/reformierakond-avalikustas-oma-valitsusdelegatsiooni |access-date=2023-04-08 |website=Eesti Rahvusringhääling |language=et}}</ref>",
+                      "url": "https://www.err.ee/1608941429/reformierakond-avalikustas-oma-valitsusdelegatsiooni",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-04-08 |title=Coalition agreement: VAT, income tax to rise by 2 percent |url=https://news.err.ee/1608941414/coalition-agreement-vat-income-tax-to-rise-by-2-percent |access-date=2023-04-08 |website=Eesti Rahvusringhääling}}</ref>",
+                      "url": "https://news.err.ee/1608941414/coalition-agreement-vat-income-tax-to-rise-by-2-percent",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-03-27 |title=New coalition aims to sign agreement on April 10 |url=https://news.err.ee/1608928349/new-coalition-aims-to-sign-agreement-on-april-10 |access-date=2023-04-08 |website=Eesti Rahvusringhääling}}</ref>",
+                      "url": "https://news.err.ee/1608928349/new-coalition-aims-to-sign-agreement-on-april-10",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Ots |first=Mait |date=2023-03-28 |title=New government to take office likely in the second half of April |url=https://news.err.ee/1608928769/new-government-to-take-office-likely-in-the-second-half-of-april |access-date=2023-04-08 |website=Eesti Rahvusringhääling}}</ref>",
+                      "url": "https://news.err.ee/1608928769/new-government-to-take-office-likely-in-the-second-half-of-april",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-04-10 |title=Reform, Eesti 200 and SDE sign coalition agreement |url=https://news.err.ee/1608943229/gallery-reform-eesti-200-and-sde-sign-coalition-agreement |access-date=2023-04-10 |website=Eesti Rahvusringhääling}}</ref>",
+                      "url": "https://news.err.ee/1608943229/gallery-reform-eesti-200-and-sde-sign-coalition-agreement",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Tanner |first=Jari |last2=Manenkov |first2=Kostya |date=2023-04-08 |title=Estonia PM's party clinches new coalition government deal |url=https://apnews.com/article/estonia-coalition-government-kallas-75b8522b1385caab77618a30e3423bf5 |access-date=2023-04-10 |publisher=Associated Press}}</ref>",
+                      "url": "https://apnews.com/article/estonia-coalition-government-kallas-75b8522b1385caab77618a30e3423bf5",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":17\">{{Cite web |date=2023-04-12 |title=Riigikogu gives Kaja Kallas mandate to form new government |url=https://news.err.ee/1608945910/riigikogu-gives-kaja-kallas-mandate-to-form-new-government |access-date=2023-04-12 |website=Eesti Rahvusringhääling}}</ref>",
+                      "url": "https://news.err.ee/1608945910/riigikogu-gives-kaja-kallas-mandate-to-form-new-government",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Tanner |first=Jari |date=12 April 2023 |title=Estonia's Parliament approves PM Kaja Kallas's 3rd Cabinet |url=https://abcnews.go.com/Business/wireStory/estonias-parliament-approves-pm-kaja-kallass-3rd-cabinet-98530551 |access-date=2023-04-12 |website=ABC News}}</ref>",
+                      "url": "https://abcnews.go.com/Business/wireStory/estonias-parliament-approves-pm-kaja-kallass-3rd-cabinet-98530551",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Notes",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "External links",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

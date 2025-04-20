@@ -1,0 +1,521 @@
+{
+  "title": "2025_Chilean_general_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "id": "2.1",
+          "title": "Boric presidency",
+          "content": [
+            {
+              "id": "2.1.1",
+              "title": "2021 presidential election",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "2.1.1.s1",
+                      "text": "The 2021 Chilean general election|2021 presidential election saw left-wing candidate Gabriel Boric, a former student protest leader during the 2011–2013 Chilean student protests|2011–2013 student protests, defeat conservative rival José Antonio Kast in a runoff. Boric's victory was attributed to widespread youth mobilization, dissatisfaction with the center-right administration of Sebastián Piñera, and economic strains following the COVID-19 pandemic in Chile|COVID-19 pandemic. His platform emphasized social equity, feminist reforms, and a \"dignified life\" for marginalized groups, pledging to dismantle Chile's \"patriarchal inheritance.\"",
+                      "references": [
+                        {
+                          "text": "<ref>{{Cite news |last=Bonnefoy |first=Pascale |last2=Londoño |first2=Ernesto |date=19 December 2021 |title=Gabriel Boric, a Former Student Activist, Is Elected Chile’s Youngest President |url=https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html |access-date=17 July 2023 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>",
+                          "url": "https://www.nytimes.com/2021/12/19/world/americas/chile-president-election.html",
+                          "status_code": 403,
+                          "reason": "Forbidden",
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{Cite web |last= |date=20 December 2021 |title=Leftist millennial vows to remake Chile after historic win |url=https://www.cnbc.com/2021/12/20/boric-leftist-millennial-vows-to-remake-chile-after-historic-win.html |access-date=17 July 2023 |website=CNBC |language=en}}</ref>",
+                          "url": "https://www.cnbc.com/2021/12/20/boric-leftist-millennial-vows-to-remake-chile-after-historic-win.html",
+                          "status_code": 403,
+                          "reason": "Forbidden",
+                          "type": "web"
+                        },
+                        {
+                          "text": "<ref>{{Cite news |last=Cambero |first=Fabian |last2=Esposito |first2=Anthony |last3=Miranda |first3=Natalia A. Ramos |date=20 December 2021 |title=Chile's Boric pledges an orderly economy, swift naming of Cabinet |url=https://www.reuters.com/world/americas/chiles-left-cheers-boric-win-ripples-through-latin-america-2021-12-20/ |access-date=17 July 2023 |work=Reuters |language=en}}</ref>",
+                          "url": "https://www.reuters.com/world/americas/chiles-left-cheers-boric-win-ripples-through-latin-america-2021-12-20/",
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
+                          "type": "news"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "2.1.1.s2",
+                      "text": "Upon taking office in March 2022,  Boric appointed Chile's first gender-balanced cabinet, with women holding 14 of the 24 ministerial positions. His administration pursued several key policy initiatives, including pension reforms aimed at replacing the privatized system established under Augusto Pinochet and a proposal to nationalize the lithium mining industry. Boric also sought to implement stricter gun control measures and expand LGBTQ rights in Chile|LGBT rights, including protections for gender identity. Additionally, his government introduced progressive tax reforms focused on wealth redistribution and worked to secure approval for a new Constitution.",
+                      "references": [
+                        {
+                          "text": "<ref>{{Cite news |last=Bartlett |first=John |date=21 January 2022 |title=Chile’s president-elect names progressive, majority-women cabinet |url=https://www.theguardian.com/world/2022/jan/21/chile-gabriel-boric-cabinet-majority-women |access-date=17 July 2023 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>",
+                          "url": "https://www.theguardian.com/world/2022/jan/21/chile-gabriel-boric-cabinet-majority-women",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{Cite web |last=Funk |first=Robert L. |last2= |date=15 November 2022 |title=Chile's Pension Reform May Decide Boric's Fate |url=https://www.americasquarterly.org/article/chiles-pension-reform-may-decide-borics-fate/ |access-date=17 July 2023 |website=Americas Quarterly |language=en-US}}</ref>",
+                          "url": "https://www.americasquarterly.org/article/chiles-pension-reform-may-decide-borics-fate/",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        },
+                        {
+                          "text": "<ref>{{Cite news |last=Villegas |first=Alexander |last2=Scheyder |first2=Ernest |last3=Scheyder |first3=Ernest |date=21 April 2023 |title=Chile plans to nationalize its vast lithium industry |url=https://www.reuters.com/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/ |access-date=17 July 2023 |work=Reuters |language=en}}</ref>",
+                          "url": "https://www.reuters.com/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/",
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{Cite web |title=Chilean President wants full ban on gun ownership |url=https://en.mercopress.com/2022/06/02/chilean-president-wants-full-ban-on-gun-ownership |access-date=20 July 2023 |website=MercoPress |language=en}}</ref>",
+                          "url": "https://en.mercopress.com/2022/06/02/chilean-president-wants-full-ban-on-gun-ownership",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        },
+                        {
+                          "text": "<ref>{{Cite web |last=Guzmán |first=Esteban |date=10 December 2022 |title=Chilean government launches LGBTQ+ rights campaign |url=https://www.losangelesblade.com/2022/12/10/chilean-government-launches-lgbtq-rights-campaign/ |access-date=20 July 2023 |website=Los Angeles Blade: LGBTQ News, Rights, Politics, Entertainment |language=en-US}}</ref>",
+                          "url": "https://www.losangelesblade.com/2022/12/10/chilean-government-launches-lgbtq-rights-campaign/",
+                          "status_code": 403,
+                          "reason": "Forbidden",
+                          "type": "web"
+                        },
+                        {
+                          "text": "<ref>{{Cite news |last= |date=1 June 2023 |title=Chile's Boric to insist on shelved tax reform bill by end of July |url=https://www.reuters.com/world/americas/chiles-boric-insist-shelved-tax-reform-bill-by-end-july-2023-06-01/ |access-date=17 July 2023 |work=Reuters |language=en}}</ref>",
+                          "url": "https://www.reuters.com/world/americas/chiles-boric-insist-shelved-tax-reform-bill-by-end-july-2023-06-01/",
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{Cite news |date=4 September 2022 |title=Chileans Reject New Constitution in Blow to Leftist Leader |url=https://www.bloomberg.com/news/articles/2022-09-04/chile-rejects-new-constitution-in-blow-to-leftist-leader-boric |access-date=17 July 2023 |work=Bloomberg.com |language=en}}</ref>",
+                          "url": "https://www.bloomberg.com/news/articles/2022-09-04/chile-rejects-new-constitution-in-blow-to-leftist-leader-boric",
+                          "status_code": 403,
+                          "reason": "Forbidden",
+                          "type": "news"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2.1.2",
+              "title": "Declining popularity and opposition resurgence",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "2.1.2.s1",
+                      "text": "By mid-2023, Boric's approval ratings had plummeted to 28%, with 66% disapproving of his administration, according to polls. Analysts cited economic stagnation, legislative gridlock, and public safety concerns as primary factors. The right-wing Republican Party (Chile)|Republican Party, led by Kast, capitalized on this discontent, securing a dominant victory in the 2023 Chilean Constitutional Council election|May 2023 Constitutional Council elections. Kast declared the results a mandate for \"a major change in government,\" positioning himself as a frontrunner for 2025. Meanwhile, Evelyn Matthei of the Independent Democratic Union (UDI) has also gained traction in opinion polls.",
+                      "references": [
+                        {
+                          "text": "<ref>{{Cite news |date=27 June 2023 |title=Chile’s President Boric Takes Another Blow to Popularity as Graft Accusations Hit Key Allies |url=https://www.bloomberg.com/news/articles/2023-06-27/chile-s-boric-sees-approval-fall-after-graft-accusations-against-coalition-party |access-date=17 July 2023 |work=Bloomberg.com |language=en}}</ref>",
+                          "url": "https://www.bloomberg.com/news/articles/2023-06-27/chile-s-boric-sees-approval-fall-after-graft-accusations-against-coalition-party",
+                          "status_code": 403,
+                          "reason": "Forbidden",
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{Cite web |title=Buenos Aires Times {{!}} Chile's far right re-emerges after presidential defeat |url=https://www.batimes.com.ar/news/latin-america/chiles-far-right-re-emerges-after-presidential-defeat.phtml |access-date=17 July 2023 |website=www.batimes.com.ar}}</ref>",
+                          "url": "https://www.batimes.com.ar/news/latin-america/chiles-far-right-re-emerges-after-presidential-defeat.phtml",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        },
+                        {
+                          "text": "<ref>{{Cite web |last=Fuente |first=Antonieta de la |date=9 May 2023 |title=Explaining the rise of the far-right Republican Party in Chile |url=https://english.elpais.com/international/2023-05-09/explaining-the-rise-of-the-far-right-republican-party-in-chile.html |access-date=17 July 2023 |website=EL PAÍS English |language=en-us}}</ref>",
+                          "url": "https://english.elpais.com/international/2023-05-09/explaining-the-rise-of-the-far-right-republican-party-in-chile.html",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Electoral system",
+      "content": [
+        {
+          "id": "3.1",
+          "title": "President",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "National Congress",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "* Chamber of Deputies: The 155 members are elected from 28 multi-member constituencies (3–8 seats each) using open-list proportional representation with the d'Hondt method.\n* Senate: The 50 senators serve staggered eight-year terms. Half the chamber (25 seats) is renewed each general election, elected from 16 regional constituencies (2–5 seats each) under similar proportional rules.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=Political structure |url=http://country.eiu.com/article.aspx?articleid=322002015&Country=Chile&topic=Summary&subtopic=Poli_5 |access-date=17 July 2023 |website=country.eiu.com}}</ref>",
+                      "url": "http://country.eiu.com/article.aspx?articleid=322002015&Country=Chile&topic=Summary&subtopic=Poli_5",
+                      "status_code": null,
+                      "reason": "Timeout",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Candidates",
+      "content": [
+        {
+          "id": "4.1",
+          "title": "Summary of nominated candidates",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.1.s1",
+                  "text": "{| class=\"wikitable\"\n|+\n!Candidate\n!Endorsement\n!Ideology\n!Ref.\n|-\n|<br />'''Eduardo Artés'''<br /><small>Chilean Communist Party (Proletarian Action)|Communist Party (Proletarian Action)</small>\n|\n Chilean Communist Party (Proletarian Action)|Communist Party (Proletarian Action)\n|Marxism-Leninism<br>Stalinism\n|<!--\n|-\n|<br>'''Rojo Edwards'''<br/>Christian Social Party (Chile)|<small>Christian Social Party</small>\n| Christian Social Party (Chile)|Christian Social Party\n|Religious conservatism<br>Social conservatism\n|-->\n|-\n|<br/>'''Johannes Kaiser (Chilean politician)|Johannes Kaiser'''<br/><small>National Libertarian Party</small>\n|National Libertarian Party\n|Social conservatism<br>Paleolibertarianism\n|\n|-\n|<br />'''José Antonio Kast'''<br /><small>Republican Party (Chile, 2019)|Republican Party</small>\n| Republican Party (Chile, 2019)|Republican Party\n|Right-wing populism<br />National conservatism\n|\n|-\n| <br />'''Evelyn Matthei'''<br /><small>Independent Democratic Union</small>\n|\n*  National Renewal (Chile)|National Renewal\n*  Independent Democratic Union\n*  Evópoli\n|Liberal conservatism<br />Economic liberalism\n|\n|-\n|<br />'''Ximena Rincón'''<br /><small>Democrats (Chile)|Democrats</small>\n| Democrats (Chile)|Democrats\n|Christian democracy<br>Neoliberalism\n|\n|-\n|<br />'''Alberto Undurraga'''<br /><small>Christian Democratic Party (Chile)|Christian Democratic Party</small>\n| Christian Democratic Party (Chile)|Christian Democratic Party\n|Christian democracy<br>Third Way\n|\n|-\n!! colspan=4 | Center-left primary candidates\n|-\n|<br/>'''Jeannette Jara'''<br/><small>Communist Party of Chile|Communist Party</small>\n|\n* Communist Party of Chile|Communist Party\n* Humanist Action\n|Marxism-Leninism<br>Democratic socialism\n|\n|-\n|<br/>'''Jaime Mulet'''<br/>Social Green Regionalist Federation|<small>Social Green Regionalist Federation</small>\n| Social Green Regionalist Federation\n|Green politics<br/>Regionalism (politics)|Regionalism\n|\n|-\n|<br>'''Carolina Tohá'''<br/>Party for Democracy (Chile)|<small>Party for Democracy</small>\n| Party for Democracy (Chile)|Party for Democracy\n|Progressivism<br>Social democracy\n|\n|-\n|<br />'''Paulina Vodanovic'''<br /><small>Socialist Party of Chile|Socialist Party</small>\n| Socialist Party of Chile|Socialist Party\n|Social democracy\n|\n|-\n|<br />'''Gonzalo Winter'''<br /><small>Broad Front (Chilean political party)|Broad Front</small>\n|Broad Front (Chilean political party)|Broad Front\n|Democratic socialism<br>Progressivism\n|\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Pinto |first=Juan |date=17 December 2024 |title=Eduardo Artés confirma su candidatura presidencial para 2026|url=https://www.cnnchile.com/pais/eduardo-artes-confirma-candidatura-presidencial-2026-tenemos-posibilidades_20241217/ |access-date=17 December 2024 |website=cnnchile.com |language=es}}</ref>",
+                      "url": "https://www.cnnchile.com/pais/eduardo-artes-confirma-candidatura-presidencial-2026-tenemos-posibilidades_20241217/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Chile |first=C. N. N. |title=Rojo Edwards lanza su precandidatura presidencial con el apoyo del Partido Social Cristiano |url=https://www.cnnchile.com/pais/rojo-edwards-lanza-su-precandidatura-presidencial-con-el-apoyo-del-partido-social-cristiano_20241028/ |access-date=26 January 2025 |website=CNN Chile |language=en}}</ref>",
+                      "url": "https://www.cnnchile.com/pais/rojo-edwards-lanza-su-precandidatura-presidencial-con-el-apoyo-del-partido-social-cristiano_20241028/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Solís |first=Francisco |date=19 February 2024 |title=Johannes Kaiser anuncia precandidatura presidencial y que quiere enfrentar primarias en la derecha |url=https://www.biobiochile.cl/noticias/nacional/chile/2024/02/19/johannes-kaiser-anuncia-precandidatura-presidencial-y-que-quiere-enfrentar-primarias-en-la-derecha.shtml |access-date=26 January 2025 |website=BioBioChile - La Red de Prensa Más Grande de Chile |language=es}}</ref>",
+                      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2024/02/19/johannes-kaiser-anuncia-precandidatura-presidencial-y-que-quiere-enfrentar-primarias-en-la-derecha.shtml",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Chile |first=Mauricio PalazzoDesde Santiago de |date=9 January 2025 |title=El Partido Republicano confirmó candidatura presidencial de José Antonio Kast y la oposición chilena irá dividida a las elecciones de 2025 |url=https://www.infobae.com/america/america-latina/2025/01/09/el-partido-republicano-confirmo-candidatura-presidencial-de-jose-antonio-kast-y-la-oposicion-chilena-ira-dividida-a-las-elecciones-de-2025/ |access-date=19 January 2025 |website=infobae |language=es-ES}}</ref>",
+                      "url": "https://www.infobae.com/america/america-latina/2025/01/09/el-partido-republicano-confirmo-candidatura-presidencial-de-jose-antonio-kast-y-la-oposicion-chilena-ira-dividida-a-las-elecciones-de-2025/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Bustamante |first=Daniela |date=12 January 2025 |title=Renovación Nacional proclama a Evelyn Matthei como candidata presidencial - Madero |url=https://madero.cl/rn-proclama-a-matthei-como-candidata-presidencial/ |access-date=19 January 2025 |website=madero.cl |language=es}}</ref>",
+                      "url": "https://madero.cl/rn-proclama-a-matthei-como-candidata-presidencial/",
+                      "status_code": 202,
+                      "reason": "Accepted",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Cooperativa.cl |title=UDI proclama a Evelyn Matthei como su carta rumbo a La Moneda |url=https://cooperativa.cl/noticias/pais/politica/presidenciales/udi-proclama-a-evelyn-matthei-como-su-carta-rumbo-a-la-moneda/2025-01-18/132221.html |access-date=2025-03-24 |website=Cooperativa.cl |language=Spanish}}</ref>",
+                      "url": "https://cooperativa.cl/noticias/pais/politica/presidenciales/udi-proclama-a-evelyn-matthei-como-su-carta-rumbo-a-la-moneda/2025-01-18/132221.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=S.A.P |first=El Mercurio |date=2025-03-22 |title=Casi de forma unánime: Consejo General de Evópoli elige a Evelyn Matthei como su candidata presidencial |url=https://www.emol.com/noticias/Nacional/2025/03/22/1161261/evopoli-matthei-candidata-presidencial.html |access-date=2025-03-24 |website=Emol |language=Spanish}}</ref>",
+                      "url": "https://www.emol.com/noticias/Nacional/2025/03/22/1161261/evopoli-matthei-candidata-presidencial.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=S.A.P |first=El Mercurio |date=2025-03-15 |title=Demócratas proclama a Ximena Rincón como su candidata presidencial y explorará posibilidad de primarias |url=https://www.emol.com/noticias/Nacional/2025/03/15/1160516/democratas-ximena-rincon-candidata.html |access-date=2025-03-16 |website=Emol |language=Spanish}}</ref>",
+                      "url": "https://www.emol.com/noticias/Nacional/2025/03/15/1160516/democratas-ximena-rincon-candidata.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Zamarin |first=Felipe |date=2025-03-15 |title=DC proclama a diputado Alberto Undurraga como candidato presidencial del partido |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/03/15/dc-proclama-a-diputado-alberto-undurraga-como-candidato-presidencial-del-partido.shtml |access-date=2025-03-16 |website=BioBioChile - La Red de Prensa Más Grande de Chile |language=es}}</ref>",
+                      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2025/03/15/dc-proclama-a-diputado-alberto-undurraga-como-candidato-presidencial-del-partido.shtml",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=S.A.P |first=El Mercurio |date=2025-04-05 |title=Comité Central del PC proclama a Jeannette Jara como candidata presidencial: Jadue competirá para diputado |url=https://www.emol.com/noticias/Nacional/2025/04/05/1162714/pc-jeannette-jara-candidata-presidencial.html |access-date=2025-04-06 |website=Emol |language=Spanish}}</ref>",
+                      "url": "https://www.emol.com/noticias/Nacional/2025/04/05/1162714/pc-jeannette-jara-candidata-presidencial.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Carvajal |first=Shelmmy |date=2025-04-14 |title=Acción Humanista oficializa apoyo a candidatura presidencial de Jeannette Jara |url=https://www.latercera.com/politica/noticia/accion-humanista-oficializa-apoyo-a-candidatura-presidencial-de-jeannette-jara/ |access-date=2025-04-19 |website=La Tercera |language=es}}</ref>",
+                      "url": "https://www.latercera.com/politica/noticia/accion-humanista-oficializa-apoyo-a-candidatura-presidencial-de-jeannette-jara/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=González |first=Antonio |date=24 January 2025 |title=Convención nacional de la FRVS erige a Jaime Mulet como su candidato presidencial para las primarias |url=https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2025/01/24/convencion-nacional-de-la-frvs-erige-a-jaime-mulet-como-su-candidato-presidencial-para-las-primarias.shtml |access-date=26 January 2025 |website=BioBioChile - La Red de Prensa Más Grande de Chile |language=es}}</ref>",
+                      "url": "https://www.biobiochile.cl/noticias/nacional/region-metropolitana/2025/01/24/convencion-nacional-de-la-frvs-erige-a-jaime-mulet-como-su-candidato-presidencial-para-las-primarias.shtml",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Barrientos |first=Joaquín |date=2025-04-12 |title=Con ceremonia en el exCongreso, PPD proclama de manera unánime a Carolina Tohá como su candidata presidencial |url=https://www.latercera.com/politica/noticia/con-ceremonia-en-el-excongreso-ppd-proclama-de-manera-unanime-a-carolina-toha-como-su-candidata-presidencial/ |access-date=2025-04-12 |website=La Tercera |language=es}}</ref>",
+                      "url": "https://www.latercera.com/politica/noticia/con-ceremonia-en-el-excongreso-ppd-proclama-de-manera-unanime-a-carolina-toha-como-su-candidata-presidencial/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=S.A.P |first=El Mercurio |date=2025-04-12 |title=Comité Central del PS proclama de manera unánime a Paulina Vodanovic como su candidata presidencial |url=https://www.emol.com/noticias/Nacional/2025/04/12/1163369/ps-paulina-vodanovic-candidata-presidencial.html |access-date=2025-04-13 |website=Emol |language=Spanish}}</ref>",
+                      "url": "https://www.emol.com/noticias/Nacional/2025/04/12/1163369/ps-paulina-vodanovic-candidata-presidencial.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Agurto |first=Carlos |date=2025-04-04 |title=FA proclama a Gonzalo Winter como candidato presidencial |url=https://www.latercera.com/politica/noticia/fa-proclama-a-gonzalo-winter-como-candidato-presidencial/ |access-date=2025-04-04 |website=La Tercera}}</ref>",
+                      "url": "https://www.latercera.com/politica/noticia/fa-proclama-a-gonzalo-winter-como-candidato-presidencial/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Publicly expressed interest",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "* {{Ill|Rodolfo Carter|es}} (UDI–Chile Vamos) Former Alcalde|mayor of La Florida, Chile|La Florida\n* Rojo Edwards (Christian Social Party (Chile)|Christian Social Party), Senator for Santiago Metropolitan Region|Santiago\n* Harold Mayne-Nicholls (ind.), journalist and former president of the Asociación Nacional de Fútbol Profesional|ANFP\n* Rodrigo Mundaca (ind.), Governor of the Valparaíso Region (2021-)\n* Marco Enríquez-Ominami, former member of the Chamber of Deputies of Chile\n* Franco Parisi (Party of the People (Chile)|Party of the People), economist\n* Gaspar Rivas, member of the Chamber of Deputies of Chile",
+                  "references": [
+                    {
+                      "text": "<ref name=\"auto\">{{Cite web |title=Pulso Ciudadano Marzo |url=https://chile.activasite.com/estudios/pulso-ciudadano-marzo/ |access-date=17 July 2023 |website=Somos Activa}}</ref>",
+                      "url": "https://chile.activasite.com/estudios/pulso-ciudadano-marzo/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Hermosilla |first=Ignacio |date=2025-03-15 |title=Partido Social Cristiano (PSC) anuncia pacto parlamentario con Republicanos y Libertarios |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/03/15/partido-social-cristiano-psc-anuncia-pacto-parlamentario-con-republicanos-y-libertarios.shtml |access-date=2025-03-17 |website=BioBioChile - La Red de Prensa Más Grande de Chile |language=es}}</ref>",
+                      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2025/03/15/partido-social-cristiano-psc-anuncia-pacto-parlamentario-con-republicanos-y-libertarios.shtml",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2025-04-01 |title=Harold Mayne-Nicholls inicia búsqueda de firmas y presenta sus primeros apoyos para presidencial |url=https://www.elmostrador.cl/noticias/pais/2025/04/01/harold-mayne-nicholls-inicia-busqueda-de-firmas-y-presenta-sus-primeros-apoyos-para-presidencial/ |access-date=2025-04-13 |website=El Mostrador |language=es}}</ref>",
+                      "url": "https://www.elmostrador.cl/noticias/pais/2025/04/01/harold-mayne-nicholls-inicia-busqueda-de-firmas-y-presenta-sus-primeros-apoyos-para-presidencial/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=S.A.P |first=El Mercurio |date=2025-04-12 |title=Mundaca se abre a posible candidatura presidencial: \"Vamos esperar el resultado de la primaria\" |url=https://www.emol.com/noticias/Nacional/2025/04/12/1163349/mundaca-candidatura-presidencial-primarias.html |access-date=2025-04-12 |website=Emol |language=Spanish}}</ref>",
+                      "url": "https://www.emol.com/noticias/Nacional/2025/04/12/1163349/mundaca-candidatura-presidencial-primarias.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Carrillo |first=Constanza |date=21 February 2024 |title=MEO no descarta una quinta candidatura presidencial: \"Soy un animal político y estoy en la lucha\" |url=https://www.biobiochile.cl/noticias/nacional/chile/2024/02/21/meo-no-descarta-una-quinta-candidatura-presidencial-soy-un-animal-politico-y-estoy-en-la-lucha.shtml |access-date=26 January 2025 |website=BioBioChile - La Red de Prensa Más Grande de Chile |language=es}}</ref>",
+                      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2024/02/21/meo-no-descarta-una-quinta-candidatura-presidencial-soy-un-animal-politico-y-estoy-en-la-lucha.shtml",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Monrroy |first=Eduardo |date=15 December 2024 |title=Franco Parisi: \"Si me convierto en candidato presidencial del PDG, esta vez haré campaña desde Chile. Eso está programado\" |url=https://www.theclinic.cl/2024/12/15/franco-parisi-claro-que-quiero-volver-a-ser-candidato-presidencial-a-quien-no-le-gustaria-ser-corredor-de-formula-1/ |access-date=26 January 2025 |website=The Clinic |language=es}}</ref>",
+                      "url": "https://www.theclinic.cl/2024/12/15/franco-parisi-claro-que-quiero-volver-a-ser-candidato-presidencial-a-quien-no-le-gustaria-ser-corredor-de-formula-1/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Ortiz |first=Florencia |date=15 November 2023 |title=\"Le voy a ganar a Franco Parisi\": Gaspar Rivas anuncia precandidatura presidencial por el PDG |url=https://www.biobiochile.cl/noticias/nacional/chile/2023/11/15/le-voy-a-ganar-a-franco-parisi-gaspar-rivas-anuncia-precandidatura-presidencial-por-el-pdg.shtml |access-date=26 January 2025 |website=BioBioChile - La Red de Prensa Más Grande de Chile |language=es}}</ref>",
+                      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2023/11/15/le-voy-a-ganar-a-franco-parisi-gaspar-rivas-anuncia-precandidatura-presidencial-por-el-pdg.shtml",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Speculated candidates",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.3.s1",
+                  "text": "* Ignacio Briones (Evópoli), former Ministry of Finance (Chile)|Minister of Finance (2018–2021)\n* Eduardo Frei Ruiz-Tagle (Christian Democratic Party (Chile)|Christian Democratic Party), former President of Chile (1994–2000)\n* José Antonio Gómez Urrutia|José Antonio Gómez (Radical Party of Chile|Radical Party), Minister of Defence (2014–2018)",
+                  "references": [
+                    {
+                      "text": "<ref name=\"auto\" /><ref name=\":0\">{{Cite web |title=Estudios {{!}} researchchile |url=https://researchchile.cl/estudios/ |access-date=1 November 2023 |language=es-CL}}</ref>",
+                      "url": "https://researchchile.cl/estudios/",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Poder |first=Nuevo |date=9 January 2025 |title=Militantes DC piden a Eduardo Frei Ruiz-Tagle ser candidato presidencial {{!}} Nuevo Poder |url=https://www.nuevopoder.cl/militantes-dc-piden-a-eduardo-frei-ruiz-tagle-ser-candidato-presidencial/ |access-date=26 January 2025 |language=es-ES}}</ref>",
+                      "url": "https://www.nuevopoder.cl/militantes-dc-piden-a-eduardo-frei-ruiz-tagle-ser-candidato-presidencial/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Palacios |first=Jorge |date=16 December 2024 |title=La discusión presidencial llegó al oficialismo: tres partidos posicionan candidatos y el PS y el Frente Amplio comienzan la búsqueda de nombres |url=https://www.theclinic.cl/2024/12/16/oficialismo-inicia-danza-de-nombres-de-candidatos-presidenciales/ |access-date=26 January 2025 |website=The Clinic |language=es}}</ref>",
+                      "url": "https://www.theclinic.cl/2024/12/16/oficialismo-inicia-danza-de-nombres-de-candidatos-presidenciales/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.4",
+          "title": "Dropped out",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.4.s1",
+                  "text": "* Vlado Mirosevic (Liberal Party of Chile (2013)|Liberal Party), deputy for the 1st district in the Arica y Parinacota Region|Arica and Parinacota Region, was initially set to participate in the center-left primaries. He had been proclaimed as the party’s presidential candidate on 12 October 2024. However, since the party was not constituted at the national level, it needed to collect 35,361 signatures to validate his candidacy. As of 31 March, the party had only 9,851 registered members—far from the required number before the 29 April deadline. Mirosevic dropped out of the race on 16 April 2025 and announced his support for Carolina Tohá.<ref name=\":1\" />",
+                  "references": [
+                    {
+                      "text": "<ref name=\":1\">{{Cite web |last=González |first=Antonio |date=2025-04-16 |title=Vlado Mirosevic abandona carrera presidencial y respaldará a Carolina Tohá |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/04/16/vlado-mirosevic-abandona-carrera-presidencial-y-respaldara-a-carolina-toha.shtml |access-date=2025-04-17 |website=BioBioChile - La Red de Prensa Más Grande de Chile |language=es}}</ref>",
+                      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2025/04/16/vlado-mirosevic-abandona-carrera-presidencial-y-respaldara-a-carolina-toha.shtml",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.5",
+          "title": "Refused to run",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.5.s1",
+                  "text": "* Michelle Bachelet (Socialist Party of Chile|Socialist Party), former President of Chile (2006–2010, 2014–2018)\n* Daniel Jadue (Communist Party of Chile|Communist Party), Ex-Mayor of Recoleta, Chile|Recoleta\n* Claudio Orrego, Governor of the Santiago Metropolitan Region\n* Beatriz Sánchez (journalist)|Beatriz Sánchez, journalist and former presidential candidate\n* Camila Vallejo (Communist Party of Chile–Chile Digno), Ministry General Secretariat of Government (Chile)|Minister General Secretariat of Government\n* Tomás Vodanovic (Broad Front (Chilean political party)|Broad Front), Mayor of Maipú, Chile|Maipú.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Cooperativa.cl |title=Bachelet se baja de la carrera presidencial: \"La buena política exige renovación\" |url=https://cooperativa.cl/noticias/pais/politica/presidenciales/bachelet-se-baja-de-la-carrera-presidencial-la-buena-politica-exige/2025-03-05/121558.html |access-date=2025-04-04 |website=Cooperativa.cl |language=Spanish}}</ref>",
+                      "url": "https://cooperativa.cl/noticias/pais/politica/presidenciales/bachelet-se-baja-de-la-carrera-presidencial-la-buena-politica-exige/2025-03-05/121558.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=González |first=Alberto |date=2025-04-05 |title=PC anuncia candidatura a diputado de Daniel Jadue tras ratificar carrera presidencial de ministra Jara |url=https://www.biobiochile.cl/noticias/nacional/chile/2025/04/05/pc-anuncia-candidatura-a-diputado-de-daniel-jadue-tras-ratificar-carrera-presidencial-de-ministra-jara.shtml |access-date=2025-04-06 |website=BioBioChile - La Red de Prensa Más Grande de Chile |language=es}}</ref>",
+                      "url": "https://www.biobiochile.cl/noticias/nacional/chile/2025/04/05/pc-anuncia-candidatura-a-diputado-de-daniel-jadue-tras-ratificar-carrera-presidencial-de-ministra-jara.shtml",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |first=Javier |last=Thomson  |date=25 November 2024 |title=Orrego descartó candidatura presidencial tras triunfo en la RM: \"Mi plan es ser gobernador los cuatro años\" |url=https://www.t13.cl/noticia/politica/elecciones-2024/orrego-descarto-candidatura-presidencial-tras-triunfo-rm-mi-plan-ser-gobernador-25-11 |access-date=26 January 2025 |website=T13 |language=es}}</ref>",
+                      "url": "https://www.t13.cl/noticia/politica/elecciones-2024/orrego-descarto-candidatura-presidencial-tras-triunfo-rm-mi-plan-ser-gobernador-25-11",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Cooperativa.cl |title=Beatriz Sánchez renunció como embajadora de Chile en México |url=https://cooperativa.cl/noticias/pais/gobierno/beatriz-sanchez-renuncio-como-embajadora-de-chile-en-mexico/2025-04-10/131104.html |access-date=2025-04-12 |website=Cooperativa.cl |language=Spanish}}</ref>",
+                      "url": "https://cooperativa.cl/noticias/pais/gobierno/beatriz-sanchez-renuncio-como-embajadora-de-chile-en-mexico/2025-04-10/131104.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Chile |first=C. N. N. |title=Camila Vallejo descartó candidatura presidencial y aseguró que su \"deber\" está con el gobierno del presidente Boric |url=https://www.cnnchile.com/pais/camila-vallejo-descarto-candidatura-presidencial_20240305/ |access-date=26 January 2025 |website=CNN Chile |language=en}}</ref>",
+                      "url": "https://www.cnnchile.com/pais/camila-vallejo-descarto-candidatura-presidencial_20240305/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Meza |first=Cristián |date=22 January 2025 |title=Tomás Vodanovic nuevamente cerró la puerta a ser el candidato presidencial del Frente Amplio |url=https://www.eldinamo.cl/politica/2025/01/22/tomas-vodanovic-nuevamente-cerro-la-puerta-a-ser-el-candidato-presidencial-del-frente-amplio/ |access-date=26 January 2025 |website=El Dínamo |language=es}}</ref>",
+                      "url": "https://www.eldinamo.cl/politica/2025/01/22/tomas-vodanovic-nuevamente-cerro-la-puerta-a-ser-el-candidato-presidencial-del-frente-amplio/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Opinion polls",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

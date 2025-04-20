@@ -22,8 +22,8 @@
               "references": [
                 {
                   "text": "<ref name=bbc-firstglobal>{{cite news|title=Paralympics 2012: London to host 'first truly global Games'|url=https://www.bbc.co.uk/sport/0/disability-sport/18143145|publisher=BBC Sport|access-date=1 August 2012|archive-date=18 August 2012|archive-url=https://web.archive.org/web/20120818202303/http://www.bbc.co.uk/sport/0/disability-sport/18143145|url-status=live}}</ref>",
-                  "url": "https://www.bbc.co.uk/sport/0/disability-sport/18143145",
-                  "status_code": null,
+                  "url": "https://www.bbc.co.uk/sport/disability-sport/18143145",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -36,14 +36,14 @@
                 {
                   "text": "<ref name=2024_2028>{{cite web|url=http://www.insidethegames.biz/articles/1051329/ioc-executive-board-approve-joint-awarding-plans-for-2024-and-2028-olympics|title=IOC Executive Board approve joint awarding plans for 2024 and 2028 Olympics|date=9 June 2017|publisher=Inside the Games|access-date=9 December 2019|archive-date=1 August 2017|archive-url=https://web.archive.org/web/20170801004320/http://www.insidethegames.biz/articles/1051329/ioc-executive-board-approve-joint-awarding-plans-for-2024-and-2028-olympics|url-status=live}}</ref>",
                   "url": "http://www.insidethegames.biz/articles/1051329/ioc-executive-board-approve-joint-awarding-plans-for-2024-and-2028-olympics",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news|title=Paris set to host 2024 Olympics, Los Angeles to be awarded 2028 Games by IOC|url=http://www.abc.net.au/news/2017-08-01/paris-set-to-host-2024-olympics-los-angeles-to-be-awarded-2028/8762478|work=ABC News (Australia)|ABC News|date=31 July 2017|access-date=1 August 2017|archive-date=15 August 2022|archive-url=https://web.archive.org/web/20220815083155/https://www.abc.net.au/news/2017-08-01/paris-set-to-host-2024-olympics-los-angeles-to-be-awarded-2028/8762478|url-status=live}}</ref>",
-                  "url": "http://www.abc.net.au/news/2017-08-01/paris-set-to-host-2024-olympics-los-angeles-to-be-awarded-2028/8762478",
-                  "status_code": null,
+                  "url": "https://www.abc.net.au/news/2017-08-01/paris-set-to-host-2024-olympics-los-angeles-to-be-awarded-2028/8762478",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -71,7 +71,7 @@
                       "text": "<ref>{{Cite web |title=Paris 2024 Competition Venue Concept Map |url=https://www.paris2024.org/en/competition-venue-concept/ |access-date=2024-03-15 |website=Paris 2024 |language=en |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318015927/https://www.paris2024.org/en/competition-venue-concept/ |url-status=live}}</ref>",
                       "url": "https://www.paris2024.org/en/competition-venue-concept/",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     }
                   ]
@@ -139,20 +139,20 @@
                       "text": "<ref>{{cite news|url=https://olympics.com/en/news/paris-2024-olympic-paralympic-medals-reveal-eiffel-tower|work=Olympics|title=Paris 2024: the Olympic and Paralympic medals have been revealed|date=8 February 2024|access-date=8 February 2024|archive-date=8 February 2024|archive-url=https://web.archive.org/web/20240208104336/https://olympics.com/en/news/paris-2024-olympic-paralympic-medals-reveal-eiffel-tower|url-status=live}}</ref>",
                       "url": "https://olympics.com/en/news/paris-2024-olympic-paralympic-medals-reveal-eiffel-tower",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://www.bbc.com/sport/olympics/68239167|work=BBC Sport|title=Paris 2024: Eiffel Tower metal in Olympics and Paralympics medals|date=8 February 2024|access-date=8 February 2024|archive-date=8 February 2024|archive-url=https://web.archive.org/web/20240208115449/https://www.bbc.com/sport/olympics/68239167|url-status=live}}</ref>",
                       "url": "https://www.bbc.com/sport/olympics/68239167",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=8 February 2024 |title=Paris 2024 unveils Paralympic and Olympic Games medals |url=https://www.paralympic.org/news/paris-2024-unveils-paralympic-and-olympic-games-medals |access-date=8 February 2024 |work=Paralympic |archive-date=8 February 2024 |archive-url=https://web.archive.org/web/20240208110601/https://www.paralympic.org/news/paris-2024-unveils-paralympic-and-olympic-games-medals |url-status=live}}</ref>",
-                      "url": "https://www.paralympic.org/news/paris-2024-unveils-paralympic-and-olympic-games-medals",
-                      "status_code": null,
+                      "url": "https://www.paralympic.org/paris-2024/news/paris-2024-unveils-paralympic-and-olympic-games-medals",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -176,20 +176,20 @@
                       "text": "<ref>{{cite news|url=https://olympics.com/en/news/paris-2024-volunteer-programme-application-timeline|work=Olympics|title=Paris 2024 Volunteer Programme: Timeline and application process revealed|date=18 October 2022|access-date=10 February 2024|archive-date=4 November 2022|archive-url=https://web.archive.org/web/20221104120318/https://olympics.com/en/news/paris-2024-volunteer-programme-application-timeline|url-status=live}}</ref>",
                       "url": "https://olympics.com/en/news/paris-2024-volunteer-programme-application-timeline",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://www.insidethegames.biz/articles/1136665/paris-2024-volunteering-applications|work=Inside The Games|title=Over 300,000 applications for 45,000 volunteer places at Paris 2024|date=5 May 2023|access-date=10 February 2024|archive-date=3 October 2023|archive-url=https://web.archive.org/web/20231003044349/https://www.insidethegames.biz/articles/1136665/paris-2024-volunteering-applications|url-status=live}}</ref>",
                       "url": "https://www.insidethegames.biz/articles/1136665/paris-2024-volunteering-applications",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://www.afar.com/magazine/how-to-apply-to-volunteer-at-the-paris-2024-olympics|work=AFAR|title=How to Apply to Volunteer at the Paris 2024 Olympics|date=14 April 2023|access-date=10 February 2024|archive-date=8 June 2023|archive-url=https://web.archive.org/web/20230608181027/https://www.afar.com/magazine/how-to-apply-to-volunteer-at-the-paris-2024-olympics|url-status=live}}</ref>",
                       "url": "https://www.afar.com/magazine/how-to-apply-to-volunteer-at-the-paris-2024-olympics",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -212,22 +212,22 @@
                     {
                       "text": "<ref>{{Cite news |title=The Paralympics are coming to Paris. Will Paralympians be able to get around? |url=https://www.csmonitor.com/World/Olympics/2024/0604/paris-olympics-paralympics-accessibility-disability |access-date=2024-08-24 |work=Christian Science Monitor |issn=0882-7729 |archive-date=24 August 2024 |archive-url=https://web.archive.org/web/20240824033925/https://www.csmonitor.com/World/Olympics/2024/0604/paris-olympics-paralympics-accessibility-disability |url-status=live }}</ref>",
                       "url": "https://www.csmonitor.com/World/Olympics/2024/0604/paris-olympics-paralympics-accessibility-disability",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Paris 2024: Paralympics 'shame' in lack of Metro disabled access |url=https://www.bbc.com/news/articles/cyrlr5m4rj0o |access-date=2024-08-24 |website=BBC News |language=en-GB |archive-date=29 August 2024 |archive-url=https://web.archive.org/web/20240829173215/https://www.bbc.com/news/articles/cyrlr5m4rj0o |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/articles/cyrlr5m4rj0o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":02\">{{Cite news |date=2018-10-26 |title=As 2024 Olympics and Paralympics Approach, Paris's Metro Is Mostly Off-Limits to the Disabled |url=https://www.bloomberg.com/news/articles/2018-10-26/paris-s-metro-says-more-disability-access-is-too-costly |url-status=live |archive-url=https://web.archive.org/web/20211011081308/https://www.bloomberg.com/news/articles/2018-10-26/paris-s-metro-says-more-disability-access-is-too-costly |archive-date=11 October 2021 |access-date=2022-06-26 |work=Bloomberg.com |language=en}}</ref>",
                       "url": "https://www.bloomberg.com/news/articles/2018-10-26/paris-s-metro-says-more-disability-access-is-too-costly",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -249,14 +249,14 @@
                     {
                       "text": "<ref>{{cite web | url=https://www.reuters.com/sports/olympics/paris-2024-games-break-record-ticket-sales-2024-09-08/#:~:text=PARIS%2C%20Sept%208%20(Reuters),Paralympics%2C%20which%20end%20on%20Sunday. | title=Paris 2024 Games break record ticket sales | website=Reuters | date=8 September 2024 | access-date=16 September 2024 | archive-date=16 September 2024 | archive-url=https://web.archive.org/web/20240916232249/https://www.reuters.com/sports/olympics/paris-2024-games-break-record-ticket-sales-2024-09-08/#:~:text=PARIS%2C%20Sept%208%20(Reuters),Paralympics%2C%20which%20end%20on%20Sunday. | url-status=live }}</ref>",
                       "url": "https://www.reuters.com/sports/olympics/paris-2024-games-break-record-ticket-sales-2024-09-08/#:~:text=PARIS%2C%20Sept%208%20(Reuters),Paralympics%2C%20which%20end%20on%20Sunday.",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://apnews.com/article/paralympicgames-tickets-1-million-sold-69c94066b4f2cbd1c1e26c06a27ba0f2 | title=1 million tickets sold for the Paris Paralympics, 2 months left to reach 2.8 million target | website=Associated Press News | date=26 August 2024 | access-date=27 August 2024 | archive-date=27 August 2024 | archive-url=https://web.archive.org/web/20240827033741/https://apnews.com/article/paralympicgames-tickets-1-million-sold-69c94066b4f2cbd1c1e26c06a27ba0f2 | url-status=live }}</ref>",
                       "url": "https://apnews.com/article/paralympicgames-tickets-1-million-sold-69c94066b4f2cbd1c1e26c06a27ba0f2",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -279,7 +279,7 @@
                     {
                       "text": "<ref>{{cite web | url=https://www.bbc.com/news/articles/c1k3wr1rdz9o.amp | title=Paralympic Games torch relay goes via Channel Tunnel at Folkestone | date=25 August 2024 | access-date=29 August 2024 | archive-date=29 August 2024 | archive-url=https://web.archive.org/web/20240829173214/https://www.bbc.com/news/articles/c1k3wr1rdz9o.amp | url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/articles/c1k3wr1rdz9o.amp",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -287,13 +287,13 @@
                       "text": "<ref>{{Cite web |url=https://olympics.com/en/paris-2024/paralympic-games/paralympic-torch-relay/route |title=Paris 2024 - Paralympic Torch Relay route |access-date=29 August 2024 |archive-date=17 August 2024 |archive-url=https://web.archive.org/web/20240817020946/https://olympics.com/en/paris-2024/paralympic-games/paralympic-torch-relay/route |url-status=live }}</ref>",
                       "url": "https://olympics.com/en/paris-2024/paralympic-games/paralympic-torch-relay/route",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://www.paralympic.org/paris-2024/news/paris-2024-paralympic-flame-created-stoke-mandeville | title=Paris 2024: Paralympic Flame created at Stoke Mandeville | access-date=29 August 2024 | archive-date=29 August 2024 | archive-url=https://web.archive.org/web/20240829173352/https://www.paralympic.org/paris-2024/news/paris-2024-paralympic-flame-created-stoke-mandeville | url-status=live }}</ref>",
                       "url": "https://www.paralympic.org/paris-2024/news/paris-2024-paralympic-flame-created-stoke-mandeville",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -322,14 +322,14 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-08-22 |title=Paris 2024 Paralympics set to dazzle the world |url=https://www.insidethegames.biz/articles/1147987/paris-2024-paralympics-dazzle-the-world |access-date=2024-08-24 |website=www.insidethegames.biz |archive-date=24 August 2024 |archive-url=https://web.archive.org/web/20240824032440/https://www.insidethegames.biz/articles/1147987/paris-2024-paralympics-dazzle-the-world |url-status=live }}</ref>",
                       "url": "https://www.insidethegames.biz/articles/1147987/paris-2024-paralympics-dazzle-the-world",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |last=Yamak |first=Djaid |date=22 August 2024 |title=Paralympic Games: What we know about the opening ceremony |url=https://www.lemonde.fr/en/paris-2024-paralympics/article/2024/08/22/paralympic-games-what-we-know-about-the-opening-ceremony_6719628_360.html#:~:text=The%20Champs%2DElys%C3%A9es%20will%20be,part%2C%20including%20240%20from%20France. |access-date=2024-08-25 |work=Le Monde |archive-date=29 August 2024 |archive-url=https://web.archive.org/web/20240829173214/https://www.lemonde.fr/en/paris-2024-paralympics/article/2024/08/22/paralympic-games-what-we-know-about-the-opening-ceremony_6719628_360.html#:~:text=The%20Champs%2DElys%C3%A9es%20will%20be,part%2C%20including%20240%20from%20France. |url-status=live}}</ref>",
-                      "url": "https://www.lemonde.fr/en/paris-2024-paralympics/article/2024/08/22/paralympic-games-what-we-know-about-the-opening-ceremony_6719628_360.html#:~:text=The%20Champs%2DElys%C3%A9es%20will%20be,part%2C%20including%20240%20from%20France.",
-                      "status_code": null,
+                      "url": "https://www.lemonde.fr/en/paris-2024-paralympics/article/2024/08/22/paralympic-games-what-we-know-about-the-opening-ceremony_6719628_360.html",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -342,8 +342,8 @@
                     {
                       "text": "<ref>{{Cite news |last=Vasavda |first=Mihir |date=2024-07-28 |title=40 LED lights, a cloud of water-vapour for illumination, 200 high-pressure misting nozzles: How flying cauldron of Paris Olympics is lit up |url=https://indianexpress.com/article/sports/sport-others/paris-2024-olympics-cauldron-opening-ceremony-9479655/ |url-status=live |archive-url=https://web.archive.org/web/20240728015312/https://indianexpress.com/article/sports/sport-others/paris-2024-olympics-cauldron-opening-ceremony-9479655/ |archive-date=28 July 2024 |access-date=2024-07-28 |work=The Indian Express}}</ref>",
                       "url": "https://indianexpress.com/article/sports/sport-others/paris-2024-olympics-cauldron-opening-ceremony-9479655/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -365,8 +365,8 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-03-22 |title=Cérémonie de clôture {{!}} Jeux Paralympiques de Paris 2024 |url=https://www.stadefrance.com/fr/billetterie/jeux-paralympiques-de-paris-2024-ceremonie_cloture |url-status=usurped |archive-url=https://web.archive.org/web/20240826025814/https://www.stadefrance.com/fr/billetterie/jeux-paralympiques-de-paris-2024-ceremonie_cloture |archive-date=2024-08-26 |website=stadefrance.com}}</ref>",
                       "url": "https://www.stadefrance.com/fr/billetterie/jeux-paralympiques-de-paris-2024-ceremonie_cloture",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -378,7 +378,7 @@
                     {
                       "text": "<ref>{{Cite web |date=24 August 2024 |title=Jeux paralympiques 2024 : la cérémonie de clôture sera une grande soirée électro, avec Jean-Michel Jarre, Busy P et des grands noms de la French touch |url=https://www.lemonde.fr/sport/article/2024/08/24/jeux-paralympiques-2024-la-ceremonie-de-cloture-prendra-la-forme-d-un-grand-concert-electro_6292716_3242.html |website=Le Monde |language=fr |access-date=9 September 2024 |archive-date=18 September 2024 |archive-url=https://web.archive.org/web/20240918085532/https://www.lemonde.fr/sport/article/2024/08/24/jeux-paralympiques-2024-la-ceremonie-de-cloture-prendra-la-forme-d-un-grand-concert-electro_6292716_3242.html |url-status=live }}</ref>",
                       "url": "https://www.lemonde.fr/sport/article/2024/08/24/jeux-paralympiques-2024-la-ceremonie-de-cloture-prendra-la-forme-d-un-grand-concert-electro_6292716_3242.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -400,16 +400,16 @@
                   "references": [
                     {
                       "text": "<ref name=\":0\" /><ref name=\":1\">{{Cite web |title=Paris 2024 reveals session-by-session competition schedule |url=https://www.paralympic.org/news/draftparis2024calendar |access-date=8 July 2022 |website=Paralympic.org |archive-date=29 August 2024 |archive-url=https://web.archive.org/web/20240829173252/https://www.paralympic.org/paris-2024/news/paris-2024-reveals-session-session-competition-schedule |url-status=live }}</ref>",
-                      "url": "https://www.paralympic.org/news/draftparis2024calendar",
-                      "status_code": null,
+                      "url": "https://www.paralympic.org/paris-2024/news/paris-2024-reveals-session-session-competition-schedule",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":2\">{{cite web |title=Paris 2024 Paralympic Competition Schedule by session |url=https://www.paralympic.org/sites/default/files/2022-07/Paris%202024%20Paralympic%20Competition%20Schedule%20-%20ENG.pdf |access-date=8 July 2022 |website=Paralympic.org |archive-date=23 August 2024 |archive-url=https://web.archive.org/web/20240823121159/https://www.paralympic.org/sites/default/files/2022-07/Paris%202024%20Paralympic%20Competition%20Schedule%20-%20ENG.pdf |url-status=live }}</ref>",
                       "url": "https://www.paralympic.org/sites/default/files/2022-07/Paris%202024%20Paralympic%20Competition%20Schedule%20-%20ENG.pdf",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     }
                   ]
@@ -421,7 +421,7 @@
                     {
                       "text": "<ref name=\":0\">{{Cite web|title=Paris 2024: IPC announces sports programme|url=https://www.paralympic.org/news/paris-2024-ipc-announces-sports-programme|access-date=2021-08-02|website=International Paralympic Committee|language=en|archive-date=29 August 2024|archive-url=https://web.archive.org/web/20240829173332/https://www.paralympic.org/news/paris-2024-ipc-announces-sports-programme|url-status=live}}</ref>",
                       "url": "https://www.paralympic.org/news/paris-2024-ipc-announces-sports-programme",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -434,8 +434,8 @@
                     {
                       "text": "<ref>{{Cite web|date=2021-09-22|title=Wheelchair basketball conditionally reinstated on to Paris 2024 programme|url=https://www.insidethegames.biz/articles/1113305/wheelchair-basketball-paris-paralympics|url-status=live|access-date=2021-09-22|website=Insidethegames.biz|archive-url=https://web.archive.org/web/20210926123714/https://www.insidethegames.biz/articles/1113305/wheelchair-basketball-paris-paralympics |archive-date=26 September 2021 }}</ref>",
                       "url": "https://www.insidethegames.biz/articles/1113305/wheelchair-basketball-paris-paralympics",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -474,43 +474,43 @@
                   "references": [
                     {
                       "text": "<ref>{{cite web |title=Men's 50m Backstroke - S5 Final Results |url=https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/men-s-50m-backstroke---s5/fnl-000100-- |website=Paralympics |access-date=3 September 2024 |archive-date=4 September 2024 |archive-url=https://web.archive.org/web/20240904003540/https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/men-s-50m-backstroke---s5/fnl-000100-- |url-status=live }}</ref>",
-                      "url": "https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/men-s-50m-backstroke---s5/fnl-000100--",
-                      "status_code": null,
+                      "url": "https://www.paralympic.org/paris-2024/results",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Women's 50m Backstroke - S5 Final Results |url=https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/women-s-50m-backstroke---s5/fnl-000100-- |website=Paralympics |access-date=3 September 2024 |archive-date=4 September 2024 |archive-url=https://web.archive.org/web/20240904003540/https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/women-s-50m-backstroke---s5/fnl-000100-- |url-status=live }}</ref>",
-                      "url": "https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/women-s-50m-backstroke---s5/fnl-000100--",
-                      "status_code": null,
+                      "url": "https://www.paralympic.org/paris-2024/results",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Men's 50m Freestyle - S5 Final Results |url=https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/men-s-50m-freestyle---s5/fnl-000100-- |website=Paralympics |access-date=5 September 2024 |archive-date=17 September 2024 |archive-url=https://web.archive.org/web/20240917121414/https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/men-s-50m-freestyle---s5/fnl-000100-- |url-status=live }}</ref>",
-                      "url": "https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/men-s-50m-freestyle---s5/fnl-000100--",
-                      "status_code": null,
+                      "url": "https://www.paralympic.org/paris-2024/results",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Men's 50m Butterfly - S5 Final Results |url=https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/men-s-50m-butterfly---s5/fnl-000100-- |website=Paralympics |access-date=6 September 2024 |archive-date=17 September 2024 |archive-url=https://web.archive.org/web/20240917091712/https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/men-s-50m-butterfly---s5/fnl-000100-- |url-status=live }}</ref>",
-                      "url": "https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/men-s-50m-butterfly---s5/fnl-000100--",
-                      "status_code": null,
+                      "url": "https://www.paralympic.org/paris-2024/results",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Women's 100m - T64 Final Results |url=https://www.paralympic.org/en/paris-2024-paralympics/results/para-athletics/women-s-100m---t64/fnl-000100-- |website=Paralympics |access-date=10 September 2024 |archive-date=17 September 2024 |archive-url=https://web.archive.org/web/20240917041609/https://www.paralympic.org/en/paris-2024-paralympics/results/para-athletics/women-s-100m---t64/fnl-000100-- |url-status=live }}</ref>",
-                      "url": "https://www.paralympic.org/en/paris-2024-paralympics/results/para-athletics/women-s-100m---t64/fnl-000100--",
-                      "status_code": null,
+                      "url": "https://www.paralympic.org/paris-2024/results",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Women's 200m Individual Medley - SM5 Final Results |url=https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/women-s-200m-individual-medley---sm5/fnl-000100-- |website=Paralympics |access-date=7 September 2024 |archive-date=17 September 2024 |archive-url=https://web.archive.org/web/20240917074719/https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/women-s-200m-individual-medley---sm5/fnl-000100-- |url-status=live }}</ref>",
-                      "url": "https://www.paralympic.org/en/paris-2024-paralympics/results/para-swimming/women-s-200m-individual-medley---sm5/fnl-000100--",
-                      "status_code": null,
+                      "url": "https://www.paralympic.org/paris-2024/results",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -530,13 +530,13 @@
           "sentences": [
             {
               "id": "7.s1",
-              "text": "Of the 189 existing National Paralympic Committees (NPC), 168 classified at least one athlete for the Summer Paralympic Games, which was a historic participation record.Three NPCs, Eritrea at the 2024 Summer Paralympics|Eritrea, Kiribati at the Paralympics|Kiribati and Kosovo at the Paralympics|Kosovo, made their Paralympic debuts at these Games. Of the 162 Paralympic Committees that sent their delegations to Tokyo in 2021, the Faroe Islands at the Paralympics|Faroe Islands, Guyana at the Paralympics|Guyana, Madagascar at the Paralympics|Madagascar and  Tajikistan at the Paralympics|Tajikistan were not present.<ref name=entries/>",
+              "text": "Of the 187 existing National Paralympic Committees (NPC), 168 classified at least one athlete for the Summer Paralympic Games, which was a historic participation record. Three NPCs, Eritrea at the 2024 Summer Paralympics|Eritrea, Kiribati at the Paralympics|Kiribati and Kosovo at the Paralympics|Kosovo, made their Paralympic debuts at these Games. Of the 162 Paralympic Committees that sent their delegations to Tokyo in 2021, the Faroe Islands at the Paralympics|Faroe Islands, Guyana at the Paralympics|Guyana, Madagascar at the Paralympics|Madagascar and  Tajikistan at the Paralympics|Tajikistan were not present.<ref name=entries/>",
               "references": [
                 {
                   "text": "<ref name=\"record number\" /> Nine NPCs returned to the Paralympics after a time of absence: Bangladesh at the Paralympics|Bangladesh (2008 Summer Paralympics|2008); the Solomon Islands at the Paralympics|Solomon Islands and Vanuatu at the Paralympics|Vanuatu (2012 Summer Paralympics|2012); and East Timor at the Paralympics|East Timor, Macau at the Paralympics|Macau, Myanmar at the Paralympics|Myanmar, Suriname at the Paralympics|Suriname, Tonga at the Paralympics|Tonga, Trinidad and Tobago at the Paralympics|Trinidad and Tobago and Turkmenistan at the Paralympics|Turkmenistan (2016 Summer Paralympics|2016).<ref name=entries>{{Cite web |date=August 2024 |title=Paris 2024 Paralympics Entries |url=https://olympics.com/en/paris-2024-paralympics/entries/ |access-date=26 August 2024 |website=olympics.com |archive-date=28 August 2024 |archive-url=https://web.archive.org/web/20240828183907/https://olympics.com/en/paris-2024-paralympics/entries/ |url-status=live}}</ref>",
                   "url": "https://olympics.com/en/paris-2024-paralympics/entries/",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 }
               ]
@@ -548,14 +548,14 @@
                 {
                   "text": "<ref>{{cite news|title=Paralympics GB team for Paris 2024 confirmed with highest proportion of female athletes ever|url=https://paralympics.org.uk/articles/team-for-paris-2024-confirmed-with-highest-proportion-of-fem|publisher=ParalympicsGB|date=20 August 2024|access-date=20 August 2024|archive-date=28 August 2024|archive-url=https://web.archive.org/web/20240828184016/https://paralympics.org.uk/articles/team-for-paris-2024-confirmed-with-highest-proportion-of-fem|url-status=live}}</ref>",
                   "url": "https://paralympics.org.uk/articles/team-for-paris-2024-confirmed-with-highest-proportion-of-fem",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news|title=IPC to support Refugee Paralympic Team at the Paris 2024 Paralympic Games|url=https://www.paralympic.org/news/ipc-support-refugee-paralympic-team-paris-2024-paralympic-games|publisher=IPC|date=13 December 2023|access-date=10 August 2024|archive-date=1 September 2024|archive-url=https://web.archive.org/web/20240901152115/https://www.paralympic.org/news/ipc-support-refugee-paralympic-team-paris-2024-paralympic-games|url-status=live}}<br /> {{Cite news|title=The Refugee Paralympic Team at the Paris 2024 Paralympic Games|url=https://www.paralympic.org/refugee-paralympic-team|publisher=IPC|date=9 July 2024|access-date=10 August 2024|archive-date=3 September 2023|archive-url=https://web.archive.org/web/20230903151910/https://www.paralympic.org/refugee-paralympic-team|url-status=live}}<br /> {{Cite news|title=IPC unveils largest Refugee Paralympic Team ever for Paris 2024|url=https://www.unhcr.org/news/press-releases/ipc-unveils-largest-refugee-paralympic-team-ever-paris-2024|publisher=UNHCR|date=9 July 2024|access-date=10 August 2024|archive-date=1 September 2024|archive-url=https://web.archive.org/web/20240901152108/https://www.unhcr.org/news/press-releases/ipc-unveils-largest-refugee-paralympic-team-ever-paris-2024|url-status=live}}</ref>",
                   "url": "https://www.paralympic.org/news/ipc-support-refugee-paralympic-team-paris-2024-paralympic-games",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -585,8 +585,8 @@
                     {
                       "text": "<ref>{{Cite web|url=http://www.insidethegames.biz/articles/1086210/paris-2024-new-emblem-launch|title=Paris 2024 unveil new shared Olympic and Paralympic Games emblem|date=21 October 2019|website=insidethegames.biz|access-date=2019-10-22|archive-date=22 October 2019|archive-url=https://web.archive.org/web/20191022034112/https://www.insidethegames.biz/articles/1086210/paris-2024-new-emblem-launch|url-status=live}}</ref>",
                       "url": "http://www.insidethegames.biz/articles/1086210/paris-2024-new-emblem-launch",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -598,8 +598,8 @@
                     {
                       "text": "<ref>{{cite news |last=Muñana |first=Gustavo |date=5 March 2024 |title='Surrealist' diptych poster for Paris 2024 Olympics |url=https://www.insidethegames.biz/articles/1144080/surrealist-diptych-poster-for-paris |url-status=live |archive-url=https://web.archive.org/web/20240305111056/https://www.insidethegames.biz/articles/1144080/surrealist-diptych-poster-for-paris |archive-date=5 March 2024 |access-date=7 March 2024 |website=Inside the Games}}</ref>",
                       "url": "https://www.insidethegames.biz/articles/1144080/surrealist-diptych-poster-for-paris",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -621,7 +621,7 @@
                     {
                       "text": "<ref name=\":4\">{{Cite news |last=Belam |first=Martin |date=2022-11-14 |title=Meet the Phryges: Paris 2024 Olympic and Paralympic mascots unveiled |language=en-GB |work=The Guardian |url=https://www.theguardian.com/sport/2022/nov/14/paris-2024-olympic-mascot-paralympic-mascot-phryges-france |access-date=2023-07-28 |issn=0261-3077 |archive-date=25 November 2022 |archive-url=https://web.archive.org/web/20221125160348/https://www.theguardian.com/sport/2022/nov/14/paris-2024-olympic-mascot-paralympic-mascot-phryges-france |url-status=live }}</ref>",
                       "url": "https://www.theguardian.com/sport/2022/nov/14/paris-2024-olympic-mascot-paralympic-mascot-phryges-france",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -646,7 +646,7 @@
                 {
                   "text": "<ref>{{Cite web |last=McLean |first=Heather |title=Paris 2024: The IPC on making the Paralympic Games the best ever while changing culture and attitudes towards disability |url=https://www.svgeurope.org/blog/headlines/paris-2024-the-ipc-on-making-the-paralympic-games-the-best-ever-while-changing-culture-and-attitudes-towards-disability/ |access-date=2023-07-05 |website=SVG Europe |language=en |archive-date=5 July 2023 |archive-url=https://web.archive.org/web/20230705193127/https://www.svgeurope.org/blog/headlines/paris-2024-the-ipc-on-making-the-paralympic-games-the-best-ever-while-changing-culture-and-attitudes-towards-disability/ |url-status=live }}</ref>",
                   "url": "https://www.svgeurope.org/blog/headlines/paris-2024-the-ipc-on-making-the-paralympic-games-the-best-ever-while-changing-culture-and-attitudes-towards-disability/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -659,56 +659,56 @@
                 {
                   "text": "<ref>{{Cite web |title=IPC and a YouTube team-up to ensure Paris 2024 are the most accessible Paralympics yet |url=https://www.paralympic.org/paris-2024/news/ipc-and-youtube-team-paris-2024-accessible-paralympics |access-date=2024-08-23 |website=International Paralympic Committee |language=en |archive-date=29 August 2024 |archive-url=https://web.archive.org/web/20240829173238/https://www.paralympic.org/paris-2024/news/ipc-and-youtube-team-paris-2024-accessible-paralympics |url-status=live }}</ref>",
                   "url": "https://www.paralympic.org/paris-2024/news/ipc-and-youtube-team-paris-2024-accessible-paralympics",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Overview of Paris 2024 Paralympic Games on Channel 4 {{!}} Channel 4 |url=https://www.channel4.com/press/news/overview-paris-2024-paralympic-games-channel-4 |access-date=2024-08-28 |website=www.channel4.com |archive-date=28 August 2024 |archive-url=https://web.archive.org/web/20240828183915/https://www.channel4.com/press/news/overview-paris-2024-paralympic-games-channel-4 |url-status=live }}</ref>",
                   "url": "https://www.channel4.com/press/news/overview-paris-2024-paralympic-games-channel-4",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=YouTube region restriction checker |url=https://polsy.org.uk/stuff/ytrestrict.cgi?agreed=on&ytid=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7OuJXFhg5PA |access-date=2024-08-28 |website=polsy.org.uk |archive-date=28 August 2024 |archive-url=https://web.archive.org/web/20240828183916/https://polsy.org.uk/stuff/ytrestrict.cgi?agreed=on&ytid=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7OuJXFhg5PA |url-status=live }}</ref>",
-                  "url": "https://polsy.org.uk/stuff/ytrestrict.cgi?agreed=on&ytid=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7OuJXFhg5PA",
-                  "status_code": null,
+                  "url": "https://polsy.org.uk/stuff/ytrestrict.cgi?agreed=on&ytid=https://www.youtube.com/watch?v%3D7OuJXFhg5PA",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Where to watch the Paris 2024 Paralympic Games |url=https://www.paralympic.org/paris-2024/news/where-to-watch |access-date=2024-08-28 |website=International Paralympic Committee |language=en |archive-date=29 August 2024 |archive-url=https://web.archive.org/web/20240829173735/https://www.paralympic.org/paris-2024/news/where-to-watch |url-status=live }}</ref>",
                   "url": "https://www.paralympic.org/paris-2024/news/where-to-watch",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|title=France Télévisions is official broadcaster for Paris 2024|url=https://www.paralympic.org/news/france-televisions-official-broadcaster-paris-2024|access-date=2022-01-28|website=International Paralympic Committee|language=en|archive-date=28 January 2022|archive-url=https://web.archive.org/web/20220128214428/https://www.paralympic.org/news/france-televisions-official-broadcaster-paris-2024|url-status=live}}</ref>",
-                  "url": "https://www.paralympic.org/news/france-televisions-official-broadcaster-paris-2024",
-                  "status_code": null,
+                  "url": "https://www.paralympic.org/paris-2024/news/france-televisions-official-broadcaster-paris-2024",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|date=2020-08-28|title=Channel 4 extends Paralympics commitment with Paris 2024 deal|url=https://www.sportbusiness.com/news/channel-4-exends-paralympics-commitment-with-paris-2024-deal/|access-date=2020-08-28|website=SportBusiness|language=en-US|archive-date=13 September 2020|archive-url=https://web.archive.org/web/20200913100309/https://www.sportbusiness.com/news/channel-4-exends-paralympics-commitment-with-paris-2024-deal/|url-status=live}}</ref>",
                   "url": "https://www.sportbusiness.com/news/channel-4-exends-paralympics-commitment-with-paris-2024-deal/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Bickerton |first=Jake |title=C4 to stream Paris 2024 Paralympics on YouTube |url=https://www.broadcastnow.co.uk/broadcasting/c4-to-stream-paris-2024-paralympics-on-youtube/5193841.article |access-date=2024-05-22 |website=Broadcast |language=en |archive-date=29 August 2024 |archive-url=https://web.archive.org/web/20240829173737/https://www.broadcastnow.co.uk/broadcasting/c4-to-stream-paris-2024-paralympics-on-youtube/5193841.article |url-status=live }}</ref>",
                   "url": "https://www.broadcastnow.co.uk/broadcasting/c4-to-stream-paris-2024-paralympics-on-youtube/5193841.article",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":3\">{{Cite web |last=Goldbart |first=Max |date=2024-08-22 |title=Paralympics 2024: How Networks In The U.S. & UK Want Their Coverage To Leave A Legacy |url=https://deadline.com/2024/08/paralympics-2024-nbc-channel-4-1236041121/ |access-date=2024-08-23 |website=Deadline |language=en-US |archive-date=23 August 2024 |archive-url=https://web.archive.org/web/20240823075120/https://deadline.com/2024/08/paralympics-2024-nbc-channel-4-1236041121/ |url-status=live }}</ref>",
                   "url": "https://deadline.com/2024/08/paralympics-2024-nbc-channel-4-1236041121/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -722,20 +722,20 @@
                   "text": "<ref name=\"cbc202406\">{{cite news |date=27 June 2024 |title=CBC Sports broadcaster Scott Russell to retire from hosting duties after Paris Paralympics |url=https://www.cbc.ca/sports/scott-russell-retirement-hosting-cbc-sports-1.7247582 |access-date=28 June 2024 |publisher=CBC Sports |archive-date=29 August 2024 |archive-url=https://web.archive.org/web/20240829173741/https://www.cbc.ca/sports/scott-russell-retirement-hosting-cbc-sports-1.7247582 |url-status=live }}</ref>",
                   "url": "https://www.cbc.ca/sports/scott-russell-retirement-hosting-cbc-sports-1.7247582",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2023-03-22 |title=CBC/Radio-Canada announced as Canadian broadcast host of 2024, 2026 Paralympics |url=https://www.cbc.ca/sports/paralympics/cbc-radio-canada-broadcast-home-of-next-two-paralympics-1.6786467 |access-date=2024-08-11 |website=CBC Sports |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102084209/https://www.cbc.ca/sports/paralympics/cbc-radio-canada-broadcast-home-of-next-two-paralympics-1.6786467 |url-status=live }}</ref>",
                   "url": "https://www.cbc.ca/sports/paralympics/cbc-radio-canada-broadcast-home-of-next-two-paralympics-1.6786467",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":3\" /><ref>{{Cite web |last=Cobb |first=Kayla |date=2024-08-15 |title=Peacock Extends Hit Olympics Commentary Series 'Gold Zone,' Multiview Feature to Paris 2024 Paralympics |url=https://www.thewrap.com/peacock-gold-zone-paris-2024-paralympics-multiview/ |access-date=2024-08-23 |website=TheWrap |language=en-US |archive-date=29 August 2024 |archive-url=https://web.archive.org/web/20240829173739/https://www.thewrap.com/peacock-gold-zone-paris-2024-paralympics-multiview/ |url-status=live }}</ref>",
                   "url": "https://www.thewrap.com/peacock-gold-zone-paris-2024-paralympics-multiview/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

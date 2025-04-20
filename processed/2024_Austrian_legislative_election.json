@@ -14,21 +14,21 @@
                 {
                   "text": "<ref name=\"Karnitschnig 2024\">{{cite news |last=Karnitschnig |first=Matthew |title=Austria goes back to the future as voters embrace far-right party founded by Nazis |url=https://www.politico.eu/article/austria-far-right-freedom-party-win-national-election-early-projections-herbet-kickl/ |newspaper=Politico |department=Europe |date=2024-09-29}}</ref>",
                   "url": "https://www.politico.eu/article/austria-far-right-freedom-party-win-national-election-early-projections-herbet-kickl/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"Australian Broadcasting Corporation 2024\">{{cite news |title=Austria's Freedom Party secures first national election win for far-right since World War II |url=https://www.abc.net.au/news/2024-09-30/austria-far-right-first-election-win-since-second-world-war/104412948 |publisher=Australian Broadcasting Corporation |department= |date=2024-09-30}}</ref>",
                   "url": "https://www.abc.net.au/news/2024-09-30/austria-far-right-first-election-win-since-second-world-war/104412948",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"Harris 2024\">{{cite news |last=Harris |first=Rob  |title=Austrian far-right party wins first national election since World War II |url=https://www.smh.com.au/world/europe/austria-s-first-far-right-national-election-win-since-world-war-2-20240930-p5kefv.html |newspaper=The Sydney Morning Herald |department=World elections |date=2024-09-30}}</ref>",
                   "url": "https://www.smh.com.au/world/europe/austria-s-first-far-right-national-election-win-since-world-war-2-20240930-p5kefv.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -51,14 +51,14 @@
                 {
                   "text": "<ref>{{cite web |title=Austrian parliament topples Chancellor Sebastian Kurz |url=https://www.dw.com/en/austrian-parliament-topples-chancellor-sebastian-kurz/a-48904760 |website=Deutsche Welle |date=27 May 2019}}</ref>",
                   "url": "https://www.dw.com/en/austrian-parliament-topples-chancellor-sebastian-kurz/a-48904760",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Austria's far right loses ground as Sebastian Kurz wins landslide |url=https://www.dw.com/en/austrias-far-right-loses-ground-as-sebastian-kurz-wins-landslide/a-50633489 |website=Deutsche Welle |date=30 September 2019}}</ref>",
                   "url": "https://www.dw.com/en/austrias-far-right-loses-ground-as-sebastian-kurz-wins-landslide/a-50633489",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -71,7 +71,7 @@
                 {
                   "text": "<ref>{{cite web |title=Austria: Greens enter government for first time, join Kurz's conservatives |url=https://www.dw.com/en/austria-greens-enter-government-for-first-time-join-kurzs-conservatives/a-51853261 |website=Deutsche Welle |date=1 January 2020}}</ref>",
                   "url": "https://www.dw.com/en/austria-greens-enter-government-for-first-time-join-kurzs-conservatives/a-51853261",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -84,7 +84,7 @@
                 {
                   "text": "<ref>{{cite web|url=https://www.dw.com/en/austria-herbert-kickl-elected-to-lead-far-right-freedom-party/a-57971160|title=Austria: Herbert Kickl elected to lead far-right Freedom Party|date=20 June 2021|website=Deutsche Welle}}</ref>",
                   "url": "https://www.dw.com/en/austria-herbert-kickl-elected-to-lead-far-right-freedom-party/a-57971160",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -97,21 +97,21 @@
                 {
                   "text": "<ref>{{cite web |title=Austrian prosecutors target Kurz in bribery investigation |url=https://www.reuters.com/world/europe/prosecutors-raid-austrian-conservatives-hq-fresh-headache-kurz-2021-10-06/ |publisher=Reuters |date=7 October 2021}}</ref>",
                   "url": "https://www.reuters.com/world/europe/prosecutors-raid-austrian-conservatives-hq-fresh-headache-kurz-2021-10-06/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web|url=https://www.dw.com/en/austrian-chancellor-sebastian-kurz-announces-resignation/a-59458714|title=Austrian Chancellor Sebastian Kurz announces resignation|date=9 October 2021|website=Deutsche Welle}}</ref>",
                   "url": "https://www.dw.com/en/austrian-chancellor-sebastian-kurz-announces-resignation/a-59458714",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web|url=https://www.dw.com/en/alexander-schallenberg-sworn-in-as-chancellor-of-austria/a-59469255|title=Alexander Schallenberg sworn in as chancellor of Austria|date=11 October 2021|website=Deutsche Welle}}</ref>",
                   "url": "https://www.dw.com/en/alexander-schallenberg-sworn-in-as-chancellor-of-austria/a-59469255",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -124,21 +124,21 @@
                 {
                   "text": "<ref>{{cite web|url=https://www.dw.com/en/austrian-chancellor-resigns-after-sebastian-kurz-withdraws-from-politics/a-59993547|title=Austrian chancellor resigns after Sebastian Kurz withdraws from politics|date=2 December 2021|website=Deutsche Welle}}</ref>",
                   "url": "https://www.dw.com/en/austrian-chancellor-resigns-after-sebastian-kurz-withdraws-from-politics/a-59993547",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web|url=https://www.dw.com/en/austria-karl-nehammer-set-to-become-new-chancellor/a-60006966|title=Austria: Karl Nehammer set to become new chancellor|date=3 December 2021|website=Deutsche Welle}}</ref>",
                   "url": "https://www.dw.com/en/austria-karl-nehammer-set-to-become-new-chancellor/a-60006966",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web|url=https://www.dw.com/en/austria-karl-nehammer-sworn-in-as-new-chancellor/a-60032938|title=Austria: Karl Nehammer sworn in as new chancellor|date=6 December 2021|website=Deutsche Welle}}</ref>",
                   "url": "https://www.dw.com/en/austria-karl-nehammer-sworn-in-as-new-chancellor/a-60032938",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -164,7 +164,7 @@
                 {
                   "text": "<ref>{{cite web| url=https://www.thelocal.at/20221208/austria-vetoes-bulgaria-and-romania-joining-europes-schengen-area/|date=8 December 2022|title= Austria vetoes Bulgaria and Romania joining Europe's Schengen area|website=The Local}}</ref>",
                   "url": "https://www.thelocal.at/20221208/austria-vetoes-bulgaria-and-romania-joining-europes-schengen-area/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -177,7 +177,7 @@
                 {
                   "text": "<ref>{{cite web |title=Austria's SPÖ party announces Babler as leader after vote mix-up |url=https://www.thelocal.at/20230605/breaking-austrias-spo-party-announces-babler-as-leader-after-vote-mix-up |website=The Local |date=5 June 2023}}</ref>",
                   "url": "https://www.thelocal.at/20230605/breaking-austrias-spo-party-announces-babler-as-leader-after-vote-mix-up",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -190,7 +190,7 @@
                 {
                   "text": "<ref>{{cite web|url=https://orf.at/stories/3339497/|date=11 November 2023|title=SPÖ-Parteitag: 88,76 Prozent für Babler als Parteichef|website=ORF (broadcaster)|orf.at}}</ref>",
                   "url": "https://orf.at/stories/3339497/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -203,7 +203,7 @@
                 {
                   "text": "<ref>{{cite web |author=Florian Amelin |date=2024-01-18 |title=ANTRETEN BEI NATIONALRATSWAHL: \"Günstige Gemengelage\" für Bierpartei |url=https://orf.at/stories/3346049/ |access-date=2024-01-18 |website=news.ORF.at |language=de}}</ref>",
                   "url": "https://orf.at/stories/3346049/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -224,7 +224,7 @@
                     {
                       "text": "<ref>{{cite web|title=Warum Neuwahlen immer unwahrscheinlicher werden|url=https://kurier.at/politik/inland/neuwahlen-unwahrscheinlich-nehammer-kogler-oevp-gruene-fpoe/402650006|publisher=Kurier.at|date=30 October 2023|access-date=11 November 2023}}</ref>",
                       "url": "https://kurier.at/politik/inland/neuwahlen-unwahrscheinlich-nehammer-kogler-oevp-gruene-fpoe/402650006",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -237,14 +237,14 @@
                     {
                       "text": "<ref>{{cite web|title=Verordnung der Bundesregierung über die Ausschreibung der Wahl zum Nationalrat, die Festsetzung des Wahltages und des Stichtages (BGBl. II 169/2024)|url=https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2024_II_169/BGBLA_2024_II_169.pdfsig|publisher=ris.bka.gv.at|date=28 June 2024|access-date=4 July 2024}}</ref>",
                       "url": "https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2024_II_169/BGBLA_2024_II_169.pdfsig",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"auto\">{{cite web |title=Austrians vote in tight legislative election as far right eyes unprecedented win |url=https://www.france24.com/en/europe/20240929-austrians-vote-in-tight-election-as-far-right-eyes-unprecedented-win |access-date=2024-09-29 |website=France 24 |date=29 September 2024}}</ref>",
                       "url": "https://www.france24.com/en/europe/20240929-austrians-vote-in-tight-election-as-far-right-eyes-unprecedented-win",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -268,8 +268,8 @@
               "references": [
                 {
                   "text": "<ref name=\"system-1\">{{cite web|title=Wahlen zum Nationalrat|url=https://www.parlament.gv.at/PERK/PARL/DEM/NRWAHL/|publisher=Österreichisches Parlament|date=12 September 2017|access-date=28 October 2017}}</ref>",
-                  "url": "https://www.parlament.gv.at/PERK/PARL/DEM/NRWAHL/",
-                  "status_code": null,
+                  "url": "https://www.parlament.gv.at/verstehen/demokratie-wahlen",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -283,13 +283,13 @@
                   "text": "<ref>{{cite web|title=Wahlen|url=http://www.bmi.gv.at/412/|publisher=Bundesministerium für Inneres|access-date=28 October 2017}}</ref>",
                   "url": "http://www.bmi.gv.at/412/",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Cannot connect to host www.bmi.gv.atget :443 ssl:default [Domain name not found]",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web|title=Das Verhältniswahlrecht und das Ermittlungsverfahren bei der Nationalratswahl|url=https://www.parlament.gv.at/PERK/FAQ/WAHL/ERMNRWAHL/index.shtml|publisher=Österreichisches Parlament|date=21 October 2017|access-date=28 October 2017}}</ref>",
-                  "url": "https://www.parlament.gv.at/PERK/FAQ/WAHL/ERMNRWAHL/index.shtml",
-                  "status_code": null,
+                  "url": "https://www.parlament.gv.at/services/infoteam/haeufige-fragen",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -301,16 +301,16 @@
               "references": [
                 {
                   "text": "<ref>{{cite web|url=https://www.oesterreich.gv.at/themen/leben_in_oesterreich/wahlen/1/Seite.320260.html|title=Vorzugsstimmenvergabe bei einer Nationalratswahl|website=State of Austria (official website)|archive-url=|archive-date=|access-date=16 October 2019}}</ref>",
-                  "url": "https://www.oesterreich.gv.at/themen/leben_in_oesterreich/wahlen/1/Seite.320260.html",
-                  "status_code": null,
+                  "url": "https://www.oesterreich.gv.at/themen/transparenz_und_partizipation_in_der_demokratie/demokratie-und-wahlen/wahlen/1/Seite.320260.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web|title=Vorzugsstimmenvergabe bei einer Nationalratswahl|url=https://www.help.gv.at/Portal.Node/hlpd/public/content/32/Seite.320260.html|publisher=HELP.gv.at|date=1 January 2017|access-date=28 October 2017}}</ref>",
                   "url": "https://www.help.gv.at/Portal.Node/hlpd/public/content/32/Seite.320260.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 }
               ]
@@ -330,21 +330,21 @@
                     {
                       "text": "<ref>{{cite web|title=Wahlrechtsänderungsgesetz 2023 (3002/A)|url=https://www.parlament.gv.at/gegenstand/XXVII/A/3002|publisher=Österreichisches Parlament (Austrian Parliament)|date=22 November 2022|access-date=5 November 2023}}</ref>",
                       "url": "https://www.parlament.gv.at/gegenstand/XXVII/A/3002",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|title=PARLAMENTSKORRESPONDENZ NR. 91 VOM 31.01.2023: Nationalrat gibt grünes Licht für Wahlrechtsreform - Gesetzespaket erhielt nach weiterer Adaptierung einhellige Zustimmung|url=https://www.parlament.gv.at/aktuelles/pk/jahr_2023/pk0091|publisher=Österreichisches Parlament (Austrian Parliament)|date=31 January 2023|access-date=5 November 2023}}</ref>",
                       "url": "https://www.parlament.gv.at/aktuelles/pk/jahr_2023/pk0091",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|title=Wahlrecht wird reformiert – was sich alles ändert|url=https://gemeindebund.at/wahlrecht-wird-reformiert-was-sich-alles-aendert/|publisher=Österreichischer Gemeindebund (Austrian Association of Municipalities)|date=21 November 2022|access-date=5 November 2023}}</ref>",
                       "url": "https://gemeindebund.at/wahlrecht-wird-reformiert-was-sich-alles-aendert/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -392,7 +392,7 @@
                 {
                   "text": "<ref>{{cite web |title=Wahlwerbende Parteien, die Landeswahlvorschläge eingebracht haben |url=https://www.bmi.gv.at/news.aspx?id=5546454E31334B304337343D |access-date=2024-08-02 |website=www.bmi.gv.at |language=de}}</ref>",
                   "url": "https://www.bmi.gv.at/news.aspx?id=5546454E31334B304337343D",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -415,35 +415,35 @@
                 {
                   "text": "<ref>{{cite web |last=Matzl |first=Christoph |date=2024-08-25 |title=Stricter rules on immigration called for |url=https://www.krone.at/3503571 |access-date=2024-09-26 |website=Kronen Zeitung}}</ref>",
                   "url": "https://www.krone.at/3503571",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |date=2024-08-23 |title=FPÖ vows to curb migration and abolish 'green taxes' |url=https://brusselssignal.eu/2024/08/austrias-fpo-vows-to-curb-migration-abolish-green-taxes-upon-election-win/ |access-date=2024-09-26 |website=Brussels Signal |language=en-GB}}</ref>",
                   "url": "https://brusselssignal.eu/2024/08/austrias-fpo-vows-to-curb-migration-abolish-green-taxes-upon-election-win/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"fortress\">{{cite web |date=2024-09-30 |title=Austria's Freedom Party secures first far-right national election win since World War II |url=https://apnews.com/article/austria-national-election-far-right-freedom-party-1a22057b230a2576e0ca0ee69607cf6e |access-date=2024-09-29 |website=Associated Press|language=en-US}}</ref>",
                   "url": "https://apnews.com/article/austria-national-election-far-right-freedom-party-1a22057b230a2576e0ca0ee69607cf6e",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |date=2024-09-29 |title=Is Austria's far right poised for historic win in Sunday elections? |url=https://www.aljazeera.com/news/2024/9/28/is-austrias-far-right-poised-for-historic-win-in-sunday-elections |access-date=2024-09-29 |website=Al Jazeera |language=en-US}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/9/28/is-austrias-far-right-poised-for-historic-win-in-sunday-elections",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"fortress\"/> ending sanctions against Russia and Austria's exit from the European Sky Shield Initiative. The FPÖ also heavily emphasised remigration, particularly to Islamic countries, during its campaign.<ref>{{cite news|work=MSN|title=Leidende FPÖ zet bij Oostenrijkse verkiezingen in op remigratie|date=21 August 2024|url=https://www.msn.com/nl-be/nieuws/politiek/leidende-fp%C3%B6-zet-bij-oostenrijkse-verkiezingen-in-op-remigratie/ar-AA1pbj84?ocid=BingNewsVerp}}</ref>",
-                  "url": "https://www.msn.com/nl-be/nieuws/politiek/leidende-fp%C3%B6-zet-bij-oostenrijkse-verkiezingen-in-op-remigratie/ar-AA1pbj84?ocid=BingNewsVerp}}</ref>",
-                  "status_code": null,
+                  "url": "https://www.msn.com/ko-kr",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -456,7 +456,7 @@
                 {
                   "text": "<ref>{{cite web |date=2024-09-29 |title=Austrians vote as a far-right party hopes for its first national election win |url=https://apnews.com/article/austria-national-election-far-right-freedom-party-1a22057b230a2576e0ca0ee69607cf6e |access-date=2024-09-29 |website=Associated Press|language=en-US}}</ref>",
                   "url": "https://apnews.com/article/austria-national-election-far-right-freedom-party-1a22057b230a2576e0ca0ee69607cf6e",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -469,7 +469,7 @@
                 {
                   "text": "<ref>{{cite web |date=2024-09-28 |title=Austria's far right eyes unprecedented election win |url=https://www.bbc.com/news/articles/cr4xz013zx7o |access-date=2024-09-28 |publisher=BBC News |language=en-GB}}</ref>",
                   "url": "https://www.bbc.com/news/articles/cr4xz013zx7o",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -482,7 +482,7 @@
                 {
                   "text": "<ref>{{cite web |title=Austria votes in general election as far right eyes victory |url=https://www.aljazeera.com/news/2024/9/29/austria-votes-in-general-election-as-far-right-eyes-victory |access-date=2024-09-29 |website=Al Jazeera}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/9/29/austria-votes-in-general-election-as-far-right-eyes-victory",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -555,14 +555,14 @@
                     {
                       "text": "<ref>{{cite web |title=17.09.2024 Nationalratswahl |date=17 September 2024 |url=https://www.foresight.at/news/nationalratswahl-2024 |access-date=29 September 2024}}</ref>",
                       "url": "https://www.foresight.at/news/nationalratswahl-2024",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=Erste Hochrechnung: FPÖ Wahlsieger mit 29,1 Prozent + ÖVP 26,2 Prozent + SPÖ 20,4 Prozent |url=https://www.kleinezeitung.at/politik/wahl/18907056/nationalratswahl-2024-liveticker-oesterreich-waehlt |access-date=29 September 2024 |language=de}}</ref>",
                       "url": "https://www.kleinezeitung.at/politik/wahl/18907056/nationalratswahl-2024-liveticker-oesterreich-waehlt",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -586,7 +586,7 @@
                       "text": "<ref>{{cite web|url=https://www.bmi.gv.at/412/Nationalratswahlen/Nationalratswahl_2024/files/NRW2024_Aufstellung_der_Vorzugsstimmen_der_Bundesbewerber_BF_161024.pdf|title=Preferential votes|publisher=Austrian Interior Ministry}}</ref>",
                       "url": "https://www.bmi.gv.at/412/Nationalratswahlen/Nationalratswahl_2024/files/NRW2024_Aufstellung_der_Vorzugsstimmen_der_Bundesbewerber_BF_161024.pdf",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Cannot connect to host www.bmi.gv.atget :443 ssl:default [Domain name not found]",
                       "type": "web"
                     }
                   ]
@@ -610,14 +610,14 @@
                 {
                   "text": "<ref>{{cite web |title=Far right in Austria set for election victory - projections |url=https://www.bbc.com/news/articles/c8rdygy5888o |publisher=BBC News |access-date=29 September 2024}}</ref>",
                   "url": "https://www.bbc.com/news/articles/c8rdygy5888o",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Austria's far-right Freedom Party projected to win election |url=https://www.aljazeera.com/news/2024/9/29/austrias-far-right-freedom-party-projected-to-win-election |publisher=Al Jazeera |access-date=29 September 2024}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/9/29/austrias-far-right-freedom-party-projected-to-win-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -630,14 +630,14 @@
                 {
                   "text": "<ref name=\"fortress\"/> The leaders of far-right parties across Europe, including Hungarian Prime Minister Viktor Orbán,<ref>{{cite news|url=https://www.politico.eu/article/far-right-across-europe-celebrates-victory-austria-freedom-party-herbert-kickl-anti-immigration/|title=Orbán, Le Pen and Wilders are buzzing over Austria's far right winning election|author= Csongor Körömi |date=September 30, 2024|work=www.politico.eu|access-date=15 October 2024}}</ref>",
                   "url": "https://www.politico.eu/article/far-right-across-europe-celebrates-victory-austria-freedom-party-herbert-kickl-anti-immigration/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |title=Far right in Austria 'opens new era' with election victory |url=https://www.bbc.com/news/articles/c8rdygy5888o |publisher=BBC News |access-date=30 September 2024}}</ref>",
                   "url": "https://www.bbc.com/news/articles/c8rdygy5888o",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -651,7 +651,7 @@
                 {
                   "text": "<ref>{{cite web |date=2024-09-30 |title=Abascal celebra la victoria de FPÖ en Austria |url=https://electomania.es/abascal-celebra-la-victoria-del-partido-de-la-libertad-fpo-en-austria/ |access-date=2024-09-30 |website=Electomanía |language=es}}</ref>",
                   "url": "https://electomania.es/abascal-celebra-la-victoria-del-partido-de-la-libertad-fpo-en-austria/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -664,14 +664,14 @@
                 {
                   "text": "<ref>{{cite web |title=Umfrage: Bei Neuwahl könnt FPÖ 30-%-Marke knacken |url=https://www.oe24.at/oesterreich/politik/nationalratswahl/umfrage-bei-neuwahl-koennt-fpoe-30-marke-knacken/608263286 |work=oe24.at |access-date=4 October 2024}}</ref>",
                   "url": "https://www.oe24.at/oesterreich/politik/nationalratswahl/umfrage-bei-neuwahl-koennt-fpoe-30-marke-knacken/608263286",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Wahl-Knaller: Mehrheit will, dass Kickl Regierung sucht |url=https://www.heute.at/s/wahl-knaller-mehrheit-will-dass-kickl-regierung-sucht-120064986 |work=heute.at |access-date=4 October 2024}}</ref>",
                   "url": "https://www.heute.at/s/wahl-knaller-mehrheit-will-dass-kickl-regierung-sucht-120064986",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -692,55 +692,69 @@
                     {
                       "text": "<ref>{{Cite web |title=Austria far-right supporters toast historic victory |url=https://www.france24.com/en/live-news/20240930-austria-far-right-supporters-toast-historic-victory |work=France 24 |date=30 September 2024 |access-date=30 September 2024}}</ref>",
                       "url": "https://www.france24.com/en/live-news/20240930-austria-far-right-supporters-toast-historic-victory",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Murphy |first1=Francois |title=Austria's president takes charge as far right isolated after election victory |url=https://www.reuters.com/world/europe/austrias-president-takes-charge-far-right-isolated-after-election-victory-2024-09-30/ |work=Reuters |date=30 September 2024}}</ref>",
                       "url": "https://www.reuters.com/world/europe/austrias-president-takes-charge-far-right-isolated-after-election-victory-2024-09-30/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Gespräche bei Van der Bellen: Kickl macht den Anfang |url=https://orf.at/stories/3371816/ |work=news.ORF.at |date=3 October 2024 |language=de}}</ref>",
                       "url": "https://orf.at/stories/3371816/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |title=Regierung mit Fortführung betraut |url=https://orf.at/stories/3371674/ |work=ORF.at |access-date=2 October 2024}}</ref>",
                       "url": "https://orf.at/stories/3371674/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Murphy |first1=Francois |title=Austria's conservatives want far right to be asked to form coalition |url=https://www.reuters.com/world/europe/austrias-conservatives-want-far-right-be-tasked-with-forming-coalition-2024-10-01/ |work=Reuters |date=1 October 2024}}</ref>",
                       "url": "https://www.reuters.com/world/europe/austrias-conservatives-want-far-right-be-tasked-with-forming-coalition-2024-10-01/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "news"
                     }
                   ]
                 },
                 {
                   "id": "9.2.s2",
-                  "text": "The president spoke on 7 October with Nehammer (ÖVP) and Babler (SPÖ)—who also met with each other the next day—and on 8 October with Meinl-Reisinger (NEOS) and Kogler (Greens). After these initial talks with each party leader, Van der Bellen said he asked the party leaders to \"sort things out on their own\" until 18 October rather than tasking the FPÖ with the mandate to form the next government. Van der Bellen said that the situation is unique in the sense that no other party wants to cooperate with the FPÖ and that it would be ludicrous to order the FPÖ to form a government in this situation. Instead, Van der Bellen ordered the parties to keep talking with each other until a credible path to a government appears, after which he would task the leading party of this constellation to form the next government. Meanwhile, the FPÖ rose to a new high of 33% in Next Austrian legislative election#Opinion polls|a new Market-Lazarsfeld poll for Ö24, with the ÖVP holding at 26% and the SPÖ falling slightly to 19% (below 20% for the first time); the minor parties held fairly steady: NEOS at 10%, the Green Party at 7%, KPÖ at 2%, and others at 3%.",
+                  "text": "The president spoke on 7 October with Nehammer (ÖVP) and Babler (SPÖ)—who also met with each other the next day—and on 8 October with Meinl-Reisinger (NEOS) and Kogler (Greens). Babler had previously ruled out a coalition government with ÖVP, but backtracked .After these initial talks with each party leader, Van der Bellen said he asked the party leaders to \"sort things out on their own\" until 18 October rather than tasking the FPÖ with the mandate to form the next government. Van der Bellen said that the situation is unique in the sense that no other party wants to cooperate with the FPÖ and that it would be ludicrous to order the FPÖ to form a government in this situation. Instead, Van der Bellen ordered the parties to keep talking with each other until a credible path to a government appears, after which he would task the leading party of this constellation to form the next government. Meanwhile, the FPÖ rose to a new high of 33% in Next Austrian legislative election#Opinion polls|a new Market-Lazarsfeld poll for Ö24, with the ÖVP holding at 26% and the SPÖ falling slightly to 19% (below 20% for the first time); the minor parties held fairly steady: NEOS at 10%, the Green Party at 7%, KPÖ at 2%, and others at 3%.",
                   "references": [
                     {
                       "text": "<ref>{{cite news |title=Medien: ÖVP und SPÖ reden miteinander am Dienstag |url=https://orf.at/stories/3371943/ |work=news.ORF.at |date=5 October 2024 |language=de}}</ref>",
                       "url": "https://orf.at/stories/3371943/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
+                      "text": "<ref>{{Cite news |last=Oltermann |first=Philip |date=2023-06-05 |title=Austrian Social Democrats announce wrong leader after ‘technical error’ |url=https://www.theguardian.com/world/2023/jun/05/austrian-social-democrats-announce-wrong-leader-after-technical-error |access-date=2025-04-16 |work=The Guardian |language=en-GB |issn=0261-3077 |quote=Unlike Doskozil, Babler has ruled out forming a “grand coalition” with Austria’s conservatives.}}</ref>",
+                      "url": "https://www.theguardian.com/world/2023/jun/05/austrian-social-democrats-announce-wrong-leader-after-technical-error",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Andreas Babler Has Disappointed the Austrian Left |url=https://jacobin.com/2024/12/austria-babler-spo-left-right |access-date=2025-04-16 |website=jacobin.com |language=en-US}}</ref>",
+                      "url": "https://jacobin.com/2024/12/austria-babler-spo-left-right",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
                       "text": "<ref>{{cite news |title=NACH DER WAHL: Regierungsbildung als Präzedenzfall |url=https://orf.at/stories/3372386/ |work=news.ORF.at |date=10 October 2024 |language=de}}</ref>",
                       "url": "https://orf.at/stories/3372386/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -753,7 +767,7 @@
                     {
                       "text": "<ref>{{cite news |title=KICKL: Nehammer \"beleidigter Wahlverlierer\" |url=https://orf.at/stories/3372962/ |work=news.ORF.at |date=16 October 2024 |language=de}}</ref>",
                       "url": "https://orf.at/stories/3372962/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -766,14 +780,14 @@
                     {
                       "text": "<ref>{{cite news |title=Austria's chancellor asked to form new government after parties refuse to work with far-right leader |url=https://apnews.com/article/austria-president-nehammer-chancellor-government-far-right-b7c91e9030d266d92f348f52acd9e5a8 |work=Associated Press |date=22 October 2024}}</ref>",
                       "url": "https://apnews.com/article/austria-president-nehammer-chancellor-government-far-right-b7c91e9030d266d92f348f52acd9e5a8",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Austria far right shunned for coalition despite winning election |url=https://www.bbc.com/news/articles/cx252kedeppo |publisher=BBC News |date=22 October 2024}}</ref>",
                       "url": "https://www.bbc.com/news/articles/cx252kedeppo",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -786,7 +800,7 @@
                     {
                       "text": "<ref>{{cite news |title=DREIERKOALITION: NEOS mit besseren Chancen als Grüne |url=https://orf.at/stories/3373886/ |work=news.ORF.at |date=25 October 2024 |language=de}}</ref>",
                       "url": "https://orf.at/stories/3373886/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -807,14 +821,14 @@
                         {
                           "text": "<ref>{{cite news |title=SONDIERUNGEN: ÖVP und SPÖ laden NEOS ein |url=https://orf.at/stories/3375755/ |work=news.ORF.at |date=12 November 2024 |language=de}}</ref>",
                           "url": "https://orf.at/stories/3375755/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite web |date=2024-11-18 |title=Startschuss für Verhandlungen über eine Koalition ÖVP – SPÖ – NEOS |url=https://www.trend.at/politik/startschuss-fuer-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos |access-date=2024-11-18 |website=trend.at |language=de}}</ref>",
                           "url": "https://www.trend.at/politik/startschuss-fuer-koalitionsverhandlungen-zwischen-oevp-spoe-und-neos",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -827,7 +841,7 @@
                         {
                           "text": "<ref>{{cite news |title=NEOS dürfte aus Koalitionsverhandlungen austreten |url=https://orf.at/stories/3380629/ |work=news.ORF.at |date=3 January 2025 |language=de}}</ref>",
                           "url": "https://orf.at/stories/3380629/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -840,15 +854,15 @@
                         {
                           "text": "<ref>{{cite news |title=ÖVP und SPÖ verhandeln wieder |url=https://orf.at/stories/3380737/ |work=news.ORF.at |date=4 January 2025 |language=de}}</ref>",
                           "url": "https://orf.at/stories/3380737/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref name=\"resigned\">{{cite web|url=https://www.bloomberg.com/news/articles/2025-01-04/austrian-chancellor-nehammer-steps-down-as-coalition-talks-fail|title=Austrian Chancellor Nehammer Steps Down as Coalition Talks Fail |accessdate=4 January 2025|website=Bloomberg News}}</ref>",
                           "url": "https://www.bloomberg.com/news/articles/2025-01-04/austrian-chancellor-nehammer-steps-down-as-coalition-talks-fail",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         }
                       ]
@@ -860,7 +874,7 @@
                         {
                           "text": "<ref>{{cite news |title=Nehammer wird am Freitag als Kanzler zurücktreten |url=https://orf.at/stories/3381038/ |work=news.ORF.at |date=6 January 2025 |language=de}}</ref>",
                           "url": "https://orf.at/stories/3381038/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -883,15 +897,15 @@
                         {
                           "text": "<ref>{{cite web | url=https://www.aljazeera.com/news/2025/1/6/austrian-president-tasks-far-right-leader-with-forming-government | title=Austrian president tasks far-right leader with forming government }}</ref>",
                           "url": "https://www.aljazeera.com/news/2025/1/6/austrian-president-tasks-far-right-leader-with-forming-government",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2025-01-31 |title=Koalitionsverhandlungen laufen weiter |url=https://www.vienna.at/koalitionsverhandlungen-auch-am-wochenende/9191671 |access-date=2025-02-01 |website=vienna.at}}</ref>",
                           "url": "https://www.vienna.at/koalitionsverhandlungen-auch-am-wochenende/9191671",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 404,
+                          "reason": "Not Found",
                           "type": "web"
                         }
                       ]
@@ -903,14 +917,14 @@
                         {
                           "text": "<ref>{{Cite web |date=2025-02-27 |title=Far right gets shut out as Austrian government forms |url=https://www.politico.eu/article/austria-coalition-forms-prevents-far-right-power/ |access-date=2025-03-04 |website=POLITICO |language=en-GB}}</ref>",
                           "url": "https://www.politico.eu/article/austria-coalition-forms-prevents-far-right-power/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite news |last=Henley |first=Jon |last2=Henley |first2=Jon |date=2025-02-27 |title=Austrian centrist parties reach deal to form government without far right |url=https://www.theguardian.com/world/2025/feb/27/austria-centrist-parties-deal-form-government-without-far-right |access-date=2025-03-04 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>",
                           "url": "https://www.theguardian.com/world/2025/feb/27/austria-centrist-parties-deal-form-government-without-far-right",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -923,21 +937,21 @@
                         {
                           "text": "<ref>{{Cite web |title=Koalitionsgespräche von FPÖ und ÖVP in Österreich gescheitert |url=https://www.tagesschau.de/ausland/europa/oesterreich-koalitionsverhandlungen-gescheitert-102.html |access-date=2025-02-12 |website=Tagesschau |language=de}}</ref>",
                           "url": "https://www.tagesschau.de/ausland/europa/oesterreich-koalitionsverhandlungen-gescheitert-102.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2025-02-12 |title=Austria’s political crisis deepens as far right pulls plug on coalition talks |url=https://www.politico.eu/article/austria-coalition-talks-collapse-far-right-herbert-kickl-freedom-party-fpo-peoples-party-ovp/ |access-date=2025-03-04 |website=POLITICO |language=en-GB}}</ref>",
                           "url": "https://www.politico.eu/article/austria-coalition-talks-collapse-far-right-herbert-kickl-freedom-party-fpo-peoples-party-ovp/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Sattler |first=Armin |last2=Bauer |first2=Patrick |last3=Lenzer |first3=Florian Zischkaund Harald |last4=ORF.at |first4=alle |date=2025-02-10 |title=Kickl für „rasche Neuwahlen“ |url=https://orf.at/live/5463-Kickl-fuer-rasche-Neuwahlen-/#e40317 |access-date=2025-03-04 |website=news.ORF.at |language=de}}</ref>",
-                          "url": "https://orf.at/live/5463-Kickl-fuer-rasche-Neuwahlen-/#e40317",
-                          "status_code": null,
+                          "url": "https://orf.at/live/5463-Kickl-fuer-rasche-Neuwahlen-/",
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -960,7 +974,7 @@
                         {
                           "text": "<ref>{{cite news |title=ÖVP, SPÖ, NEOS: Verhandlungen „auf der Zielgeraden“ |url=https://orf.at/stories/3385594/ |work=news.ORF.at |date=22 February 2025 |language=de}}</ref>",
                           "url": "https://orf.at/stories/3385594/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -973,15 +987,15 @@
                         {
                           "text": "<ref>{{cite news |title=Austria: Centrist parties form coalition without far-right |url=https://www.dw.com/en/austria-centrist-parties-form-coalition-without-far-right/a-71765298 |work=dw.com/en |date=2 March 2025 |language=en}}</ref>",
                           "url": "https://www.dw.com/en/austria-centrist-parties-form-coalition-without-far-right/a-71765298",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news |date=2 March 2025 |title=Austrian liberals' vote removes last obstacle to coalition government|url=https://www.reuters.com/world/europe/austrian-liberals-hold-party-vote-crucial-future-coalition-government-2025-03-02/|access-date=2 March 2025 |work=Reuters}}</ref>",
                           "url": "https://www.reuters.com/world/europe/austrian-liberals-hold-party-vote-crucial-future-coalition-government-2025-03-02/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
                           "type": "news"
                         }
                       ]
@@ -993,14 +1007,14 @@
                         {
                           "text": "<ref>{{Cite web |title=Liveticker-Nachlese: Österreich hat eine neue Bundesregierung |url=https://www.derstandard.at/consent/tcf/jetzt/livebericht/3000000259591/angelobung-live-neue-regierung-abbei-van-der-bellen?ref=live_red_content&responsive=false |access-date=2025-03-04 |website=DER STANDARD |language=de-AT}}</ref>",
                           "url": "https://www.derstandard.at/consent/tcf/jetzt/livebericht/3000000259591/angelobung-live-neue-regierung-abbei-van-der-bellen?ref=live_red_content&responsive=false",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2025-03-03 |title=Austria swears in new government, ending five-month political crisis |url=https://www.politico.eu/article/austria-swears-new-government-ending-five-month-political-crisis-christian-stocker-alexander-van-der-bellen/ |access-date=2025-03-04 |website=POLITICO |language=en-GB}}</ref>",
                           "url": "https://www.politico.eu/article/austria-swears-new-government-ending-five-month-political-crisis-christian-stocker-alexander-van-der-bellen/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }

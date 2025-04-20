@@ -14,8 +14,8 @@
                 {
                   "text": "<ref>{{Cite web |url=https://eutoday.net/north-macedonia-elections/ |title=Archived copy |access-date=8 May 2024 |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508212412/https://eutoday.net/north-macedonia-elections/ |url-status=live }}</ref>",
                   "url": "https://eutoday.net/north-macedonia-elections/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -27,15 +27,15 @@
                 {
                   "text": "<ref>{{cite news |title=North Macedonia opposition wins big on election night|url=https://www.reuters.com/world/europe/north-macedonia-votes-elections-crucial-eu-accession-2024-05-07/ |work=Reuters |date=May 8, 2024|author1=Aleksandar Vasovic}}</ref>",
                   "url": "https://www.reuters.com/world/europe/north-macedonia-votes-elections-crucial-eu-accession-2024-05-07/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"apwoman\"/><ref>{{Cite web|title=Parliamentary elections in North Macedonia: The date when they will be held is revealed|url=https://www.cna.al/english/kosova-bota/zgjedhjet-parlamentare-ne-maqedonine-e-veriut-zbulohet-data-kur-do-t-i382992|website=CNA|date=4 December 2023|access-date=9 January 2024|archive-date=9 January 2024|archive-url=https://web.archive.org/web/20240109184649/https://www.cna.al/english/kosova-bota/zgjedhjet-parlamentare-ne-maqedonine-e-veriut-zbulohet-data-kur-do-t-i382992|url-status=live}}</ref>",
                   "url": "https://www.cna.al/english/kosova-bota/zgjedhjet-parlamentare-ne-maqedonine-e-veriut-zbulohet-data-kur-do-t-i382992",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -57,15 +57,15 @@
                 {
                   "text": "<ref>[http://www.ipu.org/parline-e/reports/2313_B.htm Electoral system] {{Webarchive|url=https://web.archive.org/web/20160304061659/http://www.ipu.org/parline-e/reports/2313_B.htm |date=4 March 2016 }} IPU</ref>",
                   "url": "https://web.archive.org/web/20160304061659/http://www.ipu.org/parline-e/reports/2313_B.htm",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
                   "type": null
                 },
                 {
                   "text": "<ref>[https://www.osce.org/odihr/elections/fyrom/302136?download=true Early Parliamentary Elections 11 December 2016] {{Webarchive|url=https://web.archive.org/web/20220223195742/https://www.osce.org/odihr/elections/fyrom/302136?download=true |date=23 February 2022 }} OSCE</ref>",
                   "url": "https://web.archive.org/web/20220223195742/https://www.osce.org/odihr/elections/fyrom/302136?download=true",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
                   "type": null
                 }
               ]
@@ -77,7 +77,7 @@
                 {
                   "text": "<ref name=\"ap\">{{Cite web |date=8 May 2024 |title=North Macedonia holds presidential and parliamentary elections Wednesday |url=https://apnews.com/article/north-macedona-election-president-parliament-16d5e8870f2587b2a0172dbff07578b8 |access-date=8 May 2024 |website=Associated Press |language=en |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508023544/https://apnews.com/article/north-macedona-election-president-parliament-16d5e8870f2587b2a0172dbff07578b8 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/north-macedona-election-president-parliament-16d5e8870f2587b2a0172dbff07578b8",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -100,14 +100,14 @@
                 {
                   "text": "<ref name=\"ap\"/> but has ruled out entering into one with the Democratic Union for Integration, which is part of the ruling coalition and which it had called \"corrupt\".<ref>{{Cite web |date=8 May 2024 |title=North Macedonia: Frustrated voters set to punish government |url=https://www.dw.com/en/north-macedonia-frustrated-voters-set-to-punish-government/a-69014477 |access-date=8 May 2024 |website=DW |language=en |archive-date=7 May 2024 |archive-url=https://web.archive.org/web/20240507232419/https://www.dw.com/en/north-macedonia-frustrated-voters-set-to-punish-government/a-69014477 |url-status=live }}</ref>",
                   "url": "https://www.dw.com/en/north-macedonia-frustrated-voters-set-to-punish-government/a-69014477",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=9 May 2024 |title=N. Macedonia's nationalist opposition sweeps elections, setting rocky path for EU accession |url=https://www.france24.com/en/europe/20240509-n-macedonia-s-nationalist-opposition-sweeps-elections-setting-rocky-path-for-eu-accession |access-date=8 May 2024 |website=France 24 |language=en |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509071209/https://www.france24.com/en/europe/20240509-n-macedonia-s-nationalist-opposition-sweeps-elections-setting-rocky-path-for-eu-accession |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/europe/20240509-n-macedonia-s-nationalist-opposition-sweeps-elections-setting-rocky-path-for-eu-accession",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -154,15 +154,15 @@
                 {
                   "text": "<ref>{{Cite web |date=8 May 2024 |title=Претседателски и парламентарни избори 2024 – 08.05.2024 |url=https://rezultati-prv.sec.mk/mk/parl/r |website=Државна Изборна Комисија |language=mk |access-date=23 May 2024 |archive-date=23 May 2024 |archive-url=https://web.archive.org/web/20240523114731/https://rezultati-prv.sec.mk/mk/parl/r |url-status=live }}</ref>",
                   "url": "https://rezultati-prv.sec.mk/mk/parl/r",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=22 May 2024|title=Parliamentary elections revoting - 22.05.2024 |url=https://rezultati.sec.mk/en/parl/r|website=Државна Изборна Комисија |language=mk}}</ref>",
                   "url": "https://rezultati.sec.mk/en/parl/r",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -184,7 +184,7 @@
                 {
                   "text": "<ref name=\"apwoman\">{{Cite web |date=9 May 2024 |title=North Macedonia elects first woman president as center-left incumbents suffer historic losses |url=https://apnews.com/article/north-macedonia-election-corruption-european-union-bulgaria-ac12182171ed7d46f160feeb469c7aa4 |access-date=9 May 2024 |website=Associated Press |language=en |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509011558/https://apnews.com/article/north-macedonia-election-corruption-european-union-bulgaria-ac12182171ed7d46f160feeb469c7aa4 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/north-macedonia-election-corruption-european-union-bulgaria-ac12182171ed7d46f160feeb469c7aa4",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -197,7 +197,7 @@
                 {
                   "text": "<ref>{{cite web |title=North Macedonia's elections were competitive and voters well informed, although the process remains insufficiently regulated: international observers |url=https://www.osce.org/odihr/elections/north-macedonia/568306 |website=OSCE |access-date=10 May 2024 |date=9 May 2024 |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509231155/https://www.osce.org/odihr/elections/north-macedonia/568306 |url-status=live }}</ref>",
                   "url": "https://www.osce.org/odihr/elections/north-macedonia/568306",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -210,7 +210,7 @@
                 {
                   "text": "<ref>{{cite web |title=North Macedonia's center-right leader given official mandate to form government after election win |url=https://apnews.com/article/north-macedonia-government-mickoski-c17e07ff171aa31e08fa24ee4c8733c6 |publisher=Associated Press |date=6 June 2024 |access-date=6 June 2024 |archive-date=6 June 2024 |archive-url=https://web.archive.org/web/20240606151426/https://apnews.com/article/north-macedonia-government-mickoski-c17e07ff171aa31e08fa24ee4c8733c6 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/north-macedonia-government-mickoski-c17e07ff171aa31e08fa24ee4c8733c6",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -224,7 +224,7 @@
                 {
                   "text": "<ref>{{cite web |url=https://www.rferl.org/a/north-macedonia-parliament-government-mickoski/33005997.html |title=North Macedonia's Parliament Elects New Right-Wing Government |date=23 June 2024 |access-date=25 June 2024 |work=Radio Free Europe}}</ref>",
                   "url": "https://www.rferl.org/a/north-macedonia-parliament-government-mickoski/33005997.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -247,21 +247,21 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-05-09 |title=Viktor Orbán Welcomes a Conservative Win in North Macedonian Elections |url=https://hungarytoday.hu/viktor-orban-welcomes-the-conservatives-win-in-the-north-macedonian-elections/ |access-date=2024-05-09 |website=Hungary Today |language=en |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510171146/https://hungarytoday.hu/viktor-orban-welcomes-the-conservatives-win-in-the-north-macedonian-elections/ |url-status=live }}</ref>",
                   "url": "https://hungarytoday.hu/viktor-orban-welcomes-the-conservatives-win-in-the-north-macedonian-elections/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-05-09 |title=Viktor Orbán Welcomes a Conservative Win in North Macedonian Elections |url=https://hungarytoday.hu/viktor-orban-welcomes-the-conservatives-win-in-the-north-macedonian-elections/ |access-date=2024-05-09 |website=Hungary Today |language=en |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509163015/https://hungarytoday.hu/viktor-orban-welcomes-the-conservatives-win-in-the-north-macedonian-elections/ |url-status=live }}</ref>",
                   "url": "https://hungarytoday.hu/viktor-orban-welcomes-the-conservatives-win-in-the-north-macedonian-elections/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"Тимковска\">{{Cite web |last=Тимковска |first=Александра |date=2024-05-09 |title=Агелер со срдечни честитки до Силјановска-Давкова |url=https://vecer.mk/makedonija/ageler-so-srdechni-chestitki-do-siljanovska-davkova-23c530a2-be58-49fc-b03a-cf8064b89451 |access-date=2024-05-09 |website=Вечер, прв дознава. |language=mk |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509152804/https://vecer.mk/makedonija/ageler-so-srdechni-chestitki-do-siljanovska-davkova-23c530a2-be58-49fc-b03a-cf8064b89451 |url-status=live }}</ref>",
                   "url": "https://vecer.mk/makedonija/ageler-so-srdechni-chestitki-do-siljanovska-davkova-23c530a2-be58-49fc-b03a-cf8064b89451",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

@@ -13,8 +13,8 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web |date=20 February 2024 |title=Political parties in full-fledged election mode as April 10 voting nears |url=https://www.koreatimes.co.kr/www/nation/2024/05/113_369101.html |access-date=29 February 2024 |website=The Korea Times |language=en |archive-date=29 February 2024 |archive-url=https://web.archive.org/web/20240229214704/https://m.koreatimes.co.kr/pages/article.asp?newsIdx=369101 |url-status=live }}</ref>",
-                  "url": "https://www.koreatimes.co.kr/www/nation/2024/05/113_369101.html",
-                  "status_code": null,
+                  "url": "https://www.koreatimes.co.kr/southkorea/politics/20240220/political-parties-in-full-fledged-election-mode-as-april-10-voting-nears",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -22,7 +22,7 @@
                   "text": "<ref>{{cite web |title=선거일정 |url=https://www.nec.go.kr/site/nec/ex/bbs/View.do?cbIdx=1104&bcIdx=192949 |archive-url=https://web.archive.org/web/20231125194511/https://www.nec.go.kr/site/nec/ex/bbs/View.do?cbIdx=1104&bcIdx=192949 |archive-date=25 November 2023 |access-date=25 November 2023 |website=National Electoral Commission}}</ref>",
                   "url": "https://www.nec.go.kr/site/nec/ex/bbs/View.do?cbIdx=1104&bcIdx=192949",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 }
               ]
@@ -34,7 +34,7 @@
                 {
                   "text": "<ref>{{Cite web |last=김 |first=연정 |date=2024-04-11 |title=[4·10 총선] 또 무너진 與…野 협조 없이 입법·예산 불가능 |url=https://www.yna.co.kr/view/AKR20240410039700001 |access-date=2024-04-21 |website=Yonhap News Agency |language=ko}}</ref>",
                   "url": "https://www.yna.co.kr/view/AKR20240410039700001",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -47,14 +47,14 @@
                 {
                   "text": "<ref>{{cite news|url=https://www.reuters.com/world/asia-pacific/south-korea-opposition-wins-landslide-parliamentary-vote-resounding-blow-yoon-2024-04-10/|title=Opposition win in South Korea election to deepen policy stalemate for Yoon|first1=Hyunsu|last1=Yim|first2=Jack|last2=Kim|publisher=Reuters|date=11 April 2024|accessdate=11 April 2024}}</ref>",
                   "url": "https://www.reuters.com/world/asia-pacific/south-korea-opposition-wins-landslide-parliamentary-vote-resounding-blow-yoon-2024-04-10/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news|url=https://en.yna.co.kr/view/PYH20240530131600315|title=1st meeting of 22nd parliament's DP lawmakers|publisher=Yonhap News Agency|date=30 May 2024|accessdate=2 June 2024}}</ref>",
                   "url": "https://en.yna.co.kr/view/PYH20240530131600315",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -82,13 +82,13 @@
                       "text": "<ref>{{Cite web |last=안 |first=윤학 |date=2024-02-29 |title=[속보] 여야, 선거구획정 극적 합의...\"오늘 본회의서 처리\" |url=https://www.ytn.co.kr/_ln/0101_202402291206004957 |access-date=2024-04-21 |website=YTN |language=ko}}</ref>",
                       "url": "https://www.ytn.co.kr/_ln/0101_202402291206004957",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "0, message='', url='https://www.ytn.co.kr/_ln/0101_202402291206004957'",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=김 |first=연정 |date=2024-02-29 |title=4·10총선 선거구 획정안 국회 통과…전북 대신 비례 1석 축소 |url=https://www.yna.co.kr/view/AKR20240229146100001 |access-date=2024-04-21 |website=Yonhap News Agency |language=ko}}</ref>",
                       "url": "https://www.yna.co.kr/view/AKR20240229146100001",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -108,19 +108,19 @@
           "sentences": [
             {
               "id": "3.s1",
-              "text": "{{see also|Elections in South Korea|Legislative elections in South Korea}}\nThe National Assembly (South Korea)|National Assembly's 300 seats were elected by the parallel voting:\n*254 South Korean Legislature Constituencies|constituency seats are elected via first-past-the-post voting\n*46 seats are elected by Proportional representation (South Korean constituency)|proportional representation using largest remainder method.{{Clarify|reason=How many via the additional member system versus the parallel voting system?|date=January 2025}}",
+              "text": "{{see also|Elections in South Korea|Legislative elections in South Korea}}\nThe National Assembly (South Korea)|National Assembly's 300 seats were elected by a Mixed-member majoritarian representation|mixed-member majoritarian electoral system with ''de facto'' parallel voting:\n*254 South Korean Legislature Constituencies|constituency seats are elected via first-past-the-post voting\n*46 seats are elected by Proportional representation (South Korean constituency)|proportional representation using largest remainder method.{{Clarify|reason=How many via the additional member system versus the parallel voting system?|date=January 2025}}",
               "references": [
                 {
                   "text": "<ref>{{Cite web |date=9 April 2024 |title=A Guide to South Korea's 2024 National Assembly Election |url=https://keia.org/the-peninsula/a-guide-to-south-koreas-2024-national-assembly-election/ |access-date=10 April 2024 |website=Korea Economic Institute of America |language=en}}</ref>",
                   "url": "https://keia.org/the-peninsula/a-guide-to-south-koreas-2024-national-assembly-election/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Seung-yeon |first=Kim |date=27 March 2024 |title=April elections campaign to kick off as parties race for crucial votes |url=https://en.yna.co.kr/view/AEN20240327006100315 |access-date=10 April 2024 |website=Yonhap News Agency |language=en |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410202441/https://en.yna.co.kr/view/AEN20240327006100315 |url-status=live }}</ref>",
                   "url": "https://en.yna.co.kr/view/AEN20240327006100315",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -143,21 +143,21 @@
                 {
                   "text": "<ref>{{Cite web |date=10 April 2024 |title=South Korea holds parliamentary elections: All you need to know |url=https://www.aljazeera.com/news/2024/4/9/south-korea-holds-parliamentary-elections-all-you-need-to-know |access-date=10 April 2024 |website=Al Jazeera |language=en |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409224655/https://www.aljazeera.com/news/2024/4/9/south-korea-holds-parliamentary-elections-all-you-need-to-know |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/4/9/south-korea-holds-parliamentary-elections-all-you-need-to-know",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=5 April 2024 |title=South Korea election issues: Green onions, striking doctors, an alleged sexist jab at a candidate |url=https://apnews.com/article/south-korea-parliamentary-elections-8ac15e82dacaff19f3c54197fe6d9b9b |access-date=5 April 2024 |website=Associated Press |language=en |author1=Kim, Hyung-Jim |author2=Tong-Hyung, Kim |archive-date=5 April 2024 |archive-url=https://web.archive.org/web/20240405043259/https://apnews.com/article/south-korea-parliamentary-elections-8ac15e82dacaff19f3c54197fe6d9b9b |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-korea-parliamentary-elections-8ac15e82dacaff19f3c54197fe6d9b9b",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"onion\">{{Cite web |date=7 April 2024 |title=Green onion outcry: humble vegetable roils S. Korean vote |url=https://www.france24.com/en/live-news/20240407-green-onion-outcry-humble-vegetable-roils-s-korean-vote |access-date=7 April 2024 |website=France 24 |language=en |archive-date=7 April 2024 |archive-url=https://web.archive.org/web/20240407091330/https://www.france24.com/en/live-news/20240407-green-onion-outcry-humble-vegetable-roils-s-korean-vote |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/live-news/20240407-green-onion-outcry-humble-vegetable-roils-s-korean-vote",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -170,15 +170,15 @@
                 {
                   "text": "<ref>{{cite web | url=https://www.hani.co.kr/arti/politics/assembly/1113830.html | title=정의당, 녹색당과 '총선용 연합정당' 추진…당내선 \"편법\" 반발 | date=26 October 2023 | access-date=27 October 2023 | archive-date=27 October 2023 | archive-url=https://web.archive.org/web/20231027145159/https://www.hani.co.kr/arti/politics/assembly/1113830.html | url-status=live }}</ref>",
                   "url": "https://www.hani.co.kr/arti/politics/assembly/1113830.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news | url=https://www.womennews.co.kr/news/articleView.html?idxno=241633 | title=&#91;인터뷰&#93; 류호정·김창인 \"유시민·민주노총과 함께 해야만 진보정당인가\" | newspaper=여성신문 | date=23 October 2023 | access-date=27 October 2023 | archive-date=27 October 2023 | archive-url=https://web.archive.org/web/20231027145206/https://www.womennews.co.kr/news/articleView.html?idxno=241633 | url-status=live }}</ref>",
                   "url": "https://www.womennews.co.kr/news/articleView.html?idxno=241633",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -190,14 +190,14 @@
                 {
                   "text": "<ref>{{Cite news |last=Sang-Hun |first=Choe |date=1 January 2024 |title=South Korean Opposition Leader Is Stabbed |url=https://www.nytimes.com/2024/01/01/world/asia/south-korea-opposition-lee-jae-myung.html |url-status=live |archive-url=https://web.archive.org/web/20240102021703/https://www.nytimes.com/2024/01/01/world/asia/south-korea-opposition-lee-jae-myung.html |archive-date=2 January 2024 |access-date=1 January 2024 |work=The New York Times}}</ref>",
                   "url": "https://www.nytimes.com/2024/01/01/world/asia/south-korea-opposition-lee-jae-myung.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |date=8 April 2024 |title=Here's what South Koreans are concerned about as they vote for parliament this week |url=https://apnews.com/article/south-korea-election-hot-issues-green-onions-860cbb313a4afb3776fd87052a051c9d |access-date=8 April 2024 |website=Associated Press |language=en |archive-date=8 April 2024 |archive-url=https://web.archive.org/web/20240408100825/https://apnews.com/article/south-korea-election-hot-issues-green-onions-860cbb313a4afb3776fd87052a051c9d |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-korea-election-hot-issues-green-onions-860cbb313a4afb3776fd87052a051c9d",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -210,15 +210,15 @@
                 {
                   "text": "<ref>{{Cite web |title=정의당, 녹색당과 선거연합정당 결정…류호정 거취 기자회견 |url=https://news.kbs.co.kr/news/pc/view/view.do?ncd=7865675 |access-date=15 January 2024 |website=KBS News |language=ko |archive-date=15 January 2024 |archive-url=https://web.archive.org/web/20240115071733/https://news.kbs.co.kr/news/pc/view/view.do?ncd=7865675 |url-status=live }}</ref>",
                   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=7865675",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=15 January 2024 |title=용혜인 \"민주당-진보진영, '비례연합정당' 공식 제안\" |url=http://www.nwtn.co.kr/news/articleView.html?idxno=378617 |access-date=15 January 2024 |website=내외방송 |language=ko |archive-date=15 January 2024 |archive-url=https://web.archive.org/web/20240115071730/http://www.nwtn.co.kr/news/articleView.html?idxno=378617 |url-status=live }}</ref>",
                   "url": "http://www.nwtn.co.kr/news/articleView.html?idxno=378617",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -230,7 +230,7 @@
                 {
                   "text": "<ref name=\"yonhap1\"/> with Cho Kuk pledging to turn Yoon into \"first a Lame duck (politics)|lame duck, then a dead duck\".<ref>{{Cite web |date=10 April 2024 |title=South Koreans vote in election seen as test of President Yoon Suk-yeol |url=https://www.aljazeera.com/news/2024/4/10/south-koreans-vote-in-election-seen-as-test-of-president-yoon-suk-yeol |access-date=10 April 2024 |website=Al Jazeera |language=en |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410030737/https://www.aljazeera.com/news/2024/4/10/south-koreans-vote-in-election-seen-as-test-of-president-yoon-suk-yeol |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/4/10/south-koreans-vote-in-election-seen-as-test-of-president-yoon-suk-yeol",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -283,98 +283,98 @@
                     {
                       "text": "<ref>{{Cite web |last=하 |first=준호 |date=13 December 2020 |title=우상호 서울시장 출사표 \"차기 총선 불출마\"…박영선·박주민은? |url=https://www.joongang.co.kr/article/23944483 |access-date=18 February 2024 |website=JoongAng Ilbo |language=ko |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213134304/https://www.joongang.co.kr/article/23944483 |url-status=live }}</ref>",
                       "url": "https://www.joongang.co.kr/article/23944483",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last1=엄 |first1=지원 |last2=임 |first2=재우 |date=10 April 2023 |title=민주당 오영환, 총선 불출마 선언 \"소방관으로 돌아가겠다\" |url=https://www.hani.co.kr/arti/politics/assembly/1087198.html |access-date=18 February 2024 |website=민주당 오영환, 총선 불출마 선언 \"소방관으로 돌아가겠다\" |language=ko |archive-date=10 April 2023 |archive-url=https://web.archive.org/web/20230410022237/https://www.hani.co.kr/arti/politics/assembly/1087198.html |url-status=live }}</ref>",
                       "url": "https://www.hani.co.kr/arti/politics/assembly/1087198.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=이 |first=영호 |date=24 May 2023 |title=하영제 국회의원, 국민의힘 탈당 |url=https://www.idomin.com/news/articleView.html?idxno=825850 |access-date=18 February 2024 |website=경남도민일보 |language=ko |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213150108/https://www.idomin.com/news/articleView.html?idxno=825850 |url-status=live }}</ref>",
                       "url": "https://www.idomin.com/news/articleView.html?idxno=825850",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=김남국, 징계 발표 앞두고 \"내년 총선 불출마\" 선언 |url=https://news.sbs.co.kr/news/endPage.do?news_id=N1007317179 |access-date=18 February 2024 |website=SBS NEWS | date=22 August 2023 |language=ko |archive-date=5 September 2023 |archive-url=https://web.archive.org/web/20230905113446/https://news.sbs.co.kr/news/endPage.do?news_id=N1007317179 |url-status=live }}</ref>",
                       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1007317179",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=박 |first=윤수 |date=6 November 2023 |title='6선' 박병석 전 국회의장 총선 불출마 선언‥\"내려놓을 때\" |url=https://imnews.imbc.com/news/2023/politics/article/6540574_36119.html |access-date=18 February 2024 |website=MBC 뉴스 |language=ko |archive-date=16 November 2023 |archive-url=https://web.archive.org/web/20231116054850/https://imnews.imbc.com/news/2023/politics/article/6540574_36119.html |url-status=live }}</ref>",
                       "url": "https://imnews.imbc.com/news/2023/politics/article/6540574_36119.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=강민정 민주당 의원, 내년 총선 불출마...당내 4번째 선언 |url=https://www.ikbc.co.kr/article/view/kbc202311150035 |access-date=18 February 2024 |website=KBC광주방송 |language=ko |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213134326/https://www.ikbc.co.kr/article/view/kbc202311150035 |url-status=live }}</ref>",
-                      "url": "https://www.ikbc.co.kr/article/view/kbc202311150035",
-                      "status_code": null,
+                      "url": "https://news.ikbc.co.kr/article/view/kbc202311150035",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=12 December 2023 |title=\"나를 밟고 총선 승리해달라\" 장제원 불출마 공식 선언 |url=https://www.chosun.com/politics/politics_general/2023/12/12/MEUEHYYCZBBRJMAI5JLOXBDWAA/ |access-date=18 February 2024 |website=The Chosun Ilbo |language=ko |archive-date=12 December 2023 |archive-url=https://web.archive.org/web/20231212011521/https://www.chosun.com/politics/politics_general/2023/12/12/MEUEHYYCZBBRJMAI5JLOXBDWAA/ |url-status=live }}</ref>",
                       "url": "https://www.chosun.com/politics/politics_general/2023/12/12/MEUEHYYCZBBRJMAI5JLOXBDWAA/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=임 |first=재우 |date=13 December 2023 |title=이탄희, 총선 불출마 선언…\"선거법만 지켜달라\" |url=https://www.hani.co.kr/arti/politics/assembly/1120177.html |access-date=18 February 2024 |website=이탄희, 총선 불출마 선언…\"선거법만 지켜달라\" |language=ko |archive-date=13 December 2023 |archive-url=https://web.archive.org/web/20231213034445/https://www.hani.co.kr/arti/politics/assembly/1120177.html |url-status=live }}</ref>",
                       "url": "https://www.hani.co.kr/arti/politics/assembly/1120177.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=고 |first=한솔 |date=13 December 2023 |title=민주 홍성국 불출마 선언 \"당내 1인 싱크탱크 역할 하겠다\" |url=https://www.hani.co.kr/arti/politics/politics_general/1120175.html |access-date=18 February 2024 |website=민주 홍성국 불출마 선언 \"당내 1인 싱크탱크 역할 하겠다\" |language=ko |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213144435/https://www.hani.co.kr/arti/politics/politics_general/1120175.html |url-status=live }}</ref>",
                       "url": "https://www.hani.co.kr/arti/politics/politics_general/1120175.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=이 |first=승환 |date=4 January 2024 |title=김진표 의장, '정계 은퇴' 시사하며 '개헌 과제' 제안…\"인구감소 대책 명시해야\" |url=https://biz.heraldcorp.com/view.php?ud=20240104000331 |access-date=18 February 2024 |website=헤럴드경제 |language=ko |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104023502/http://biz.heraldcorp.com/view.php?ud=20240104000331 |url-status=live }}</ref>",
-                      "url": "https://biz.heraldcorp.com/view.php?ud=20240104000331",
-                      "status_code": null,
+                      "url": "https://biz.heraldcorp.com/article/3295848",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=8 January 2024 |title=김웅, 총선 불출마 선언… 장제원 이어 與 현역의원 두번째 |url=https://www.chosun.com/politics/assembly/2024/01/08/SIXA467A45BIDJT5KK3F2R6KHY/ |access-date=18 February 2024 |website=The Chosun Ilbo |language=ko |archive-date=8 January 2024 |archive-url=https://web.archive.org/web/20240108051805/https://www.chosun.com/politics/assembly/2024/01/08/SIXA467A45BIDJT5KK3F2R6KHY/ |url-status=live }}</ref>",
                       "url": "https://www.chosun.com/politics/assembly/2024/01/08/SIXA467A45BIDJT5KK3F2R6KHY/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=19 January 2024 |title=민주 김민기·임종성 불출마… '물갈이' 신호탄? |url=https://www.segye.com/view/20240119511473 |access-date=18 February 2024 |website=Segye Ilbo |language=ko |archive-date=18 February 2024 |archive-url=https://web.archive.org/web/20240218162318/https://www.segye.com/view/20240119511473 |url-status=live }}</ref>",
                       "url": "https://www.segye.com/view/20240119511473",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=조 |first=문규 |date=22 January 2024 |title=DJ 셋째 민주 김홍걸, 총선 불출마…\"이중잣대 검증\" |url=https://www.joongang.co.kr/article/25223639 |access-date=18 February 2024 |website=JoongAng Ilbo |language=ko |archive-date=22 January 2024 |archive-url=https://web.archive.org/web/20240122061658/https://www.joongang.co.kr/article/25223639 |url-status=live }}</ref>",
                       "url": "https://www.joongang.co.kr/article/25223639",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"민주당 초선 최종윤, 불출마 선언 정치가 갈등 조장\">{{Cite web |last=배 |first=재성 |date=22 January 2024 |title=민주당 초선 최종윤, 불출마 선언 \"정치가 갈등 조장\" |url=https://www.joongang.co.kr/article/25223600 |access-date=18 February 2024 |website=JoongAng Ilbo |language=ko |archive-date=22 January 2024 |archive-url=https://web.archive.org/web/20240122023519/https://www.joongang.co.kr/article/25223600 |url-status=live }}</ref>",
                       "url": "https://www.joongang.co.kr/article/25223600",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -408,14 +408,14 @@
                 {
                   "text": "<ref>{{Cite web |date=5 April 2024 |title=South Koreans cast ballots in early voting for general election |url=https://www3.nhk.or.jp/nhkworld/en/news/20240405_13/ |access-date=5 April 2024 |website=NHK |language=en |archive-date=5 April 2024 |archive-url=https://web.archive.org/web/20240405141552/https://www3.nhk.or.jp/nhkworld/en/news/20240405_13/ |url-status=live }}</ref>",
                   "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240405_13/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"onion\"/> equivalent to about 31% of the electorate.<ref name=\"ap2\">{{Cite web |date=9 April 2024 |title=South Korea's president faces a major test in a crucial parliamentary election |url=https://apnews.com/article/south-korea-parliamentary-election-yoon-c362a024e6eff3d4a410927be00b4d0c |access-date=9 April 2024 |website=Associated Press |language=en |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409162448/https://apnews.com/article/south-korea-parliamentary-election-yoon-c362a024e6eff3d4a410927be00b4d0c |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-korea-parliamentary-election-yoon-c362a024e6eff3d4a410927be00b4d0c",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -428,14 +428,14 @@
                 {
                   "text": "<ref name=\"ap2\"/><ref name=\"yonhap1\">{{Cite web |date=10 April 2024 |title=(LEAD) Voters hit the polls in parliamentary elections |url=https://en.yna.co.kr/view/AEN20240409006051315?section=national/politics |access-date=10 April 2024 |website=Yonhap News Agency |language=en |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410022349/https://en.yna.co.kr/view/AEN20240409006051315?section=national/politics |url-status=live }}</ref>",
                   "url": "https://en.yna.co.kr/view/AEN20240409006051315?section=national/politics",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=10 April 2024 |title=(6th LD) Tentative final voter turnout at 67 pct: election watchdog |url=https://en.yna.co.kr/view/AEN20240410005651315?section=national/politics |access-date=10 April 2024 |website=Yonhap News Agency |language=en |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410124404/https://en.yna.co.kr/view/AEN20240410005651315?section=national/politics |url-status=live }}</ref>",
                   "url": "https://en.yna.co.kr/view/AEN20240410005651315?section=national/politics",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -458,7 +458,7 @@
                 {
                   "text": "<ref name=\"yonhapresult\">{{Cite web |date=10 April 2024 |title=(4th LD) Opposition forecast to win landslide victory: exit polls |url=https://en.yna.co.kr/view/AEN20240409006054315?section=national/politics |website=Yonhap News Agency |access-date=10 April 2024 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410123546/https://en.yna.co.kr/view/AEN20240409006054315?section=national/politics |url-status=live }}</ref>",
                   "url": "https://en.yna.co.kr/view/AEN20240409006054315?section=national/politics",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -471,7 +471,7 @@
                 {
                   "text": "<ref>{{Cite web |date=12 April 2024 |title=How a North Korean missile researcher became a South Korean MP |url=https://www.bbc.com/news/articles/c51n8w77z9wo |website=BBC |access-date=12 April 2024 |author1=Mao, Frances |author2=Han, Sangmi |archive-date=12 April 2024 |archive-url=https://web.archive.org/web/20240412221558/https://www.bbc.com/news/articles/c51n8w77z9wo |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/articles/c51n8w77z9wo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -484,7 +484,7 @@
                 {
                   "text": "<ref>{{Cite web |date=15 April 2024 |title=Number of invalid proportional votes hits all-time high in last week's elections: NEC |url=https://en.yna.co.kr/view/AEN20240415004100315?section=national/politics |website=Yonhap News Agency |access-date=15 April 2024 |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417192008/https://en.yna.co.kr/view/AEN20240415004100315?section=national/politics |url-status=live }}</ref>",
                   "url": "https://en.yna.co.kr/view/AEN20240415004100315?section=national/politics",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -527,26 +527,26 @@
               "sentences": [
                 {
                   "id": "9.5.s1",
-                  "text": "{| class=\"wikitable sortable plainrowheaders\" style=\"font-size:95%\"\n! colspan=\"2\" | Party\n! Candidates\n! Elected\n! Elected candidates\n|-\n| style=\"background:{{party color|People Future Party}}\" |\n|People Future Party\n|align=\"right\"|35\n|align=\"right\"|18\n|{{Plainlist|* Park Chung-kwon\n* Choi Soo-jin\n* Jin Jong-oh\n* Kang Sun-young\n* Kim Geon\n* Kim So-hee\n* Ihn Yo-han\n* Kim Min-jeon\n* Kim Ui-sang\n* Han Ji-ah\n* Yoo Yong-won\n* Cho Bae-sook\n* Kim Jang-gyum\n* Kim Yea-ji\n* Ahn Sang-hoon\n* Lee Dal-hee\n* Park Jun-tae}}\n|-\n| style=\"background:{{party color|Democratic Alliance of Korea}}\" |\n|Democratic Alliance of Korea|Democratic Alliance\n|align=\"right\"|30\n|align=\"right\"|14\n|{{Plainlist|* Seo Mi-hwa (Independent)\n* Wi Sung-rak (Democratic Party)\n* Baek Seung-a (Democratic Party)\n* Lim Gwang-hyeon (Democratic Party)\n* Jeong Hye-kyung (Progressive Party)\n* Yong Hye-in (New Progressive Alliance)\n* Oh Se-hee (Democratic Party)\n* Park Hong-bae (Democratic Party)\n* Kang You-jung (Democratic Party)\n* Han Chang-min (New Progressive Alliance)\n* Jeon Jong-deok (Progressive Party)\n* Kim Yoon (Independent)\n* Lim Mi-ae (Democratic Party)\n* Jeong Eul-ho (Democratic Party)}}\n|-\n| style=\"background:{{party color|Rebuilding Korea Party}}\" |\n|Rebuilding Korea Party\n|align=\"right\"|8\n|align=\"right\"|0\n|\n|-\n|bgcolor=#e32b34|\n|Grand National Party<ref name=\":1\" />\n|align=\"right\"|8\n|align=\"right\"|0\n|\n|-\n|bgcolor={{party color|National Revolutionary Party (South Korea, 2020)}}|\n|National Revolutionary Party (South Korea, 2020)|National Revolutionary Party<ref name=\":1\" />\n|align=\"right\"|10\n|align=\"right\"|0\n|\n|-\n|bgcolor={{party color|Saenuri Party (2017)}}|\n|Saenuri Party (2017)|Saenuri Party<ref name=\":1\" />\n|align=\"right\"|1\n|align=\"right\"|0\n|\n|-\n|bgcolor=#054EA0|\n|Freedom and Democracy Party<ref name=\":1\" />\n|align=\"right\"|7\n|align=\"right\"|0\n|\n|-\n|bgcolor=#755191|\n|Christian Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#F26F21|\n|Grand National Unity Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor={{party color|Our Republican Party (2020)}}|\n|Our Republican Party (2020)|Our Republican Party<ref name=\":1\" />\n|align=\"right\"|8\n|align=\"right\"|0\n|\n|-\n|bgcolor=#670099|\n|Great Korea Party<ref name=\":1\" />\n|align=\"right\"|7\n|align=\"right\"|0\n|\n|-\n|bgcolor={{party color|Women's Party (South Korea)}}|\n|Women's Party (South Korea)|Women's Party<ref name=\":1\" />\n|align=\"right\"|1\n|align=\"right\"|0\n|\n|-\n|bgcolor=#EE4937|\n|Hashtag People's Policy Party<ref name=\":1\" />\n|align=\"right\"|1\n|align=\"right\"|0\n|\n|-\n|bgcolor={{party color|Labor Party (South Korea)}}|\n|Labor Party (South Korea)|Labor Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#CC00FF|\n|Financial Reform Party<ref name=\":1\" />\n|align=\"right\"|1\n|align=\"right\"|0\n|\n|-\n|bgcolor=#EA5404|\n|Senior Welfare Party<ref name=\":1\" />\n|align=\"right\"|5\n|align=\"right\"|0\n|\n|-\n|bgcolor=#012154|\n|Republican Party<ref name=\":1\" />\n|align=\"right\"|1\n|align=\"right\"|0\n|\n|-\n|bgcolor=#871E60|\n|Hongik Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#0056B8|\n|Korea Farmers and Fishermen's Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#51A776|\n|Korea People's Party<ref name=\":1\" />\n|align=\"right\"|4\n|align=\"right\"|0\n|\n|-\n|bgcolor=#9F53A0|\n|To Tomorrow, to the Future<ref name=\":1\" />\n|align=\"right\"|7\n|align=\"right\"|0\n|\n|-\n|bgcolor=#FFC000|\n|Republic of Korea Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#034EA2|\n|Unification Korea Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#4F1D12|\n|Let's Go Korea<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#FFEF11|\n|Popular Democratic Party<ref name=\":1\" />\n|align=\"right\"|5\n|align=\"right\"|0\n|\n|-\n|bgcolor=#359172|\n|Gihuminsaeng Party<ref name=\":1\" />\n|align=\"right\"|1\n|align=\"right\"|0\n|\n|-\n|bgcolor=#D74940|\n|Party for the Abolition of Special Privileges<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#573590|\n|Korean Wave Union Party<ref name=\":1\" />\n|align=\"right\"|3\n|align=\"right\"|0\n|\n|-\n|bgcolor=#37469B|\n|Korea Business Party<ref name=\":1\" />\n|align=\"right\"|4\n|align=\"right\"|0\n|\n|-\n|bgcolor=#3E62AA|\n|K Political Innovation Union Party<ref name=\":1\" />\n|align=\"right\"|4\n|align=\"right\"|0\n|\n|-\n|bgcolor=#00A7DB|\n|New Korean Peninsula Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|}",
+                  "text": "{| class=\"wikitable sortable plainrowheaders\" style=\"font-size:95%\"\n! colspan=\"2\" | Party\n! Candidates\n! Elected\n! Elected candidates\n|-\n| style=\"background:{{party color|People Future Party}}\" |\n|People Future Party\n|align=\"right\"|35\n|align=\"right\"|18\n|{{Plainlist|* Park Chung-kwon\n* Choi Soo-jin\n* Jin Jong-oh\n* Kang Sun-young\n* Kim Geon\n* Kim So-hee\n* Ihn Yo-han\n* Kim Min-jeon\n* Kim Ui-sang\n* Han Ji-ah\n* Yoo Yong-won\n* Cho Bae-sook\n* Kim Jang-gyum\n* Kim Yea-ji\n* Ahn Sang-hoon\n* Lee Dal-hee\n* Park Jun-tae}}\n|-\n| style=\"background:{{party color|Democratic Alliance of Korea}}\" |\n|Democratic Alliance of Korea|Democratic Alliance\n|align=\"right\"|30\n|align=\"right\"|14\n|{{Plainlist|* Seo Mi-hwa (Independent)\n* Wi Sung-rak (Democratic Party)\n* Baek Seung-a (Democratic Party)\n* Lim Gwang-hyeon (Democratic Party)\n* Jeong Hye-kyung (Progressive Party)\n* Yong Hye-in (New Progressive Alliance)\n* Oh Se-hee (Democratic Party)\n* Park Hong-bae (Democratic Party)\n* Kang You-jung (Democratic Party)\n* Han Chang-min (New Progressive Alliance)\n* Jeon Jong-deok (Progressive Party)\n* Kim Yoon (Independent)\n* Lim Mi-ae (Democratic Party)\n* Jeong Eul-ho (Democratic Party)}}\n|-\n| style=\"background:{{party color|Rebuilding Korea Party}}\" |\n|Rebuilding Korea Party\n|align=\"right\"|8\n|align=\"right\"|0\n|\n|-\n|bgcolor=#e32b34|\n|Grand National Party<ref name=\":1\" />\n|align=\"right\"|8\n|align=\"right\"|0\n|\n|-\n|bgcolor={{party color|National Revolutionary Party (South Korea, 2020)}}|\n|National Revolutionary Party (South Korea, 2020)|National Revolutionary Party<ref name=\":1\" />\n|align=\"right\"|10\n|align=\"right\"|0\n|\n|-\n|bgcolor={{party color|Saenuri Party (2017)}}|\n|Saenuri Party (2017)|Saenuri Party<ref name=\":1\" />\n|align=\"right\"|1\n|align=\"right\"|0\n|\n|-\n|bgcolor=#054EA0|\n|Freedom and Democracy Party<ref name=\":1\" />\n|align=\"right\"|7\n|align=\"right\"|0\n|\n|-\n|bgcolor=#755191|\n|Christian Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#002B58|\n|Grand National Unity Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor={{party color|Our Republican Party (2020)}}|\n|Our Republican Party (2020)|Our Republican Party<ref name=\":1\" />\n|align=\"right\"|8\n|align=\"right\"|0\n|\n|-\n|bgcolor=#670099|\n|Great Korea Party<ref name=\":1\" />\n|align=\"right\"|7\n|align=\"right\"|0\n|\n|-\n|bgcolor={{party color|Women's Party (South Korea)}}|\n|Women's Party (South Korea)|Women's Party<ref name=\":1\" />\n|align=\"right\"|1\n|align=\"right\"|0\n|\n|-\n|bgcolor=#EE4937|\n|Hashtag People's Policy Party<ref name=\":1\" />\n|align=\"right\"|1\n|align=\"right\"|0\n|\n|-\n|bgcolor={{party color|Labor Party (South Korea)}}|\n|Labor Party (South Korea)|Labor Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#CC00FF|\n|Financial Reform Party<ref name=\":1\" />\n|align=\"right\"|1\n|align=\"right\"|0\n|\n|-\n|bgcolor=#EA5404|\n|Senior Welfare Party<ref name=\":1\" />\n|align=\"right\"|5\n|align=\"right\"|0\n|\n|-\n|bgcolor=#012154|\n|Republican Party<ref name=\":1\" />\n|align=\"right\"|1\n|align=\"right\"|0\n|\n|-\n|bgcolor=#871E60|\n|Hongik Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#0056B8|\n|Korea Farmers and Fishermen's Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#51A776|\n|Korea People's Party<ref name=\":1\" />\n|align=\"right\"|4\n|align=\"right\"|0\n|\n|-\n|bgcolor=#9F53A0|\n|To Tomorrow, to the Future<ref name=\":1\" />\n|align=\"right\"|7\n|align=\"right\"|0\n|\n|-\n|bgcolor=#FFC000|\n|Republic of Korea Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#034EA2|\n|Unification Korea Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#4F1D12|\n|Let's Go Korea<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#FFEF11|\n|Popular Democratic Party<ref name=\":1\" />\n|align=\"right\"|5\n|align=\"right\"|0\n|\n|-\n|bgcolor=#359172|\n|Gihuminsaeng Party<ref name=\":1\" />\n|align=\"right\"|1\n|align=\"right\"|0\n|\n|-\n|bgcolor=#D74940|\n|Party for the Abolition of Special Privileges<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|-\n|bgcolor=#573590|\n|Korean Wave Union Party<ref name=\":1\" />\n|align=\"right\"|3\n|align=\"right\"|0\n|\n|-\n|bgcolor=#37469B|\n|Korea Business Party<ref name=\":1\" />\n|align=\"right\"|4\n|align=\"right\"|0\n|\n|-\n|bgcolor=#3E62AA|\n|K Political Innovation Union Party<ref name=\":1\" />\n|align=\"right\"|4\n|align=\"right\"|0\n|\n|-\n|bgcolor=#00A7DB|\n|New Korean Peninsula Party<ref name=\":1\" />\n|align=\"right\"|2\n|align=\"right\"|0\n|\n|}",
                   "references": [
                     {
                       "text": "<ref name=\":0\">{{Cite web |last=Hong |first=Joon-seok |date=23 March 2024 |title=[4·10 총선 후보자 등록] ①비례대표 |url=https://www.yna.co.kr/view/AKR20240323023300001?section=search |website=Yonhap News Agency |access-date=13 April 2024 |archive-date=13 April 2024 |archive-url=https://web.archive.org/web/20240413214757/https://www.yna.co.kr/view/AKR20240323023300001?section=search |url-status=live }}</ref>",
                       "url": "https://www.yna.co.kr/view/AKR20240323023300001?section=search",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Jo |first=Jae-wan |date=17 March 2024 |title=민주연합, 서미화·위성락·백승아·용혜인 비례 당선 안정권 배정 |url=https://www.newsis.com/view/?id=NISX20240317_0002663665 |website=Newsis |access-date=13 April 2024 |archive-date=24 March 2024 |archive-url=https://web.archive.org/web/20240324045051/https://www.newsis.com/view/?id=NISX20240317_0002663665 |url-status=live }}</ref>",
                       "url": "https://www.newsis.com/view/?id=NISX20240317_0002663665",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":0\" />\n|align=\"right\"|25\n|align=\"right\"|12\n|{{Plainlist|* Park Eun-jeong\n* Cho Kuk\n* Lee Hai-min\n* Shin Jang-sik\n* Kim Seon-min\n* Kim Jun-hyeong\n* Kim Jae-won\n* Hwang Un-ha\n* Jung Choon-saeng\n* Cha Kyu-geun\n* Kang Gyeong-sook\n* Seo Wang-jin}}\n|-\n| style=\"background:{{Party color|New Reform Party (South Korea)}}\" |\n|New Reform Party (South Korea)|New Reform Party<ref name=\":0\" />\n|align=\"right\"|10\n|align=\"right\"|2\n|{{Plainlist|* Lee Joo-young\n* Cheon Ha-ram}}\n|-\n| style=\"background:{{party color|Liberal Unification Party}}\" |\n|Liberal Unification Party<ref name=\":0\" />\n|align=\"right\"|20\n|align=\"right\"|0\n|\n|-\n| style=\"background:{{Party color|Green Justice Party}}\" |\n|Green Party Korea|Green–Justice Party (South Korea)|Justice Party<ref name=\":0\" />\n|align=\"right\"|14\n|align=\"right\"|0\n|\n|-\n| style=\"background:{{party color|New Future Party (South Korea)}}\" |\n|New Future Party (South Korea)|New Future Party<ref name=\":0\" />\n|align=\"right\"|11\n|align=\"right\"|0\n|\n|-\n|bgcolor=#1A246B|\n|Pine Tree Party<ref name=\":1\">{{Cite web |last=Hong |first=Joon-seok |date=23 March 2024 |title=[4·10 총선 후보자 등록] ②비례대표(끝) |url=https://www.yna.co.kr/view/AKR20240323023301001?section=search |website=Yonhap News Agency |access-date=13 April 2024 |archive-date=13 April 2024 |archive-url=https://web.archive.org/web/20240413214757/https://www.yna.co.kr/view/AKR20240323023301001?section=search |url-status=live }}</ref>",
                       "url": "https://www.yna.co.kr/view/AKR20240323023301001?section=search",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -568,8 +568,8 @@
                   "references": [
                     {
                       "text": "<ref>{{Cite web |date=10 April 2024 |title=사전투표진행상황 |url=http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml |website=National Election Commission |access-date=9 April 2024 |archive-date=19 February 2012 |archive-url=https://web.archive.org/web/20120219123257/http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml |url-status=live }}</ref>",
-                      "url": "http://info.nec.go.kr/electioninfo/electionInfo_report.xhtml",
-                      "status_code": null,
+                      "url": "http://info.nec.go.kr/electioninfo/viewAccessError.xhtml",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -603,28 +603,28 @@
                 {
                   "text": "<ref>{{Cite web |date=10 April 2024 |title=PPP leader expresses disappointment after exit polls predict a landslide victory for opposition |url=https://en.yna.co.kr/view/AEN20240410005300315?section=national/politics |website=Yonhap News Agency |access-date=10 April 2024 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410123547/https://en.yna.co.kr/view/AEN20240410005300315?section=national/politics |url-status=live }}</ref>",
                   "url": "https://en.yna.co.kr/view/AEN20240410005300315?section=national/politics",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=10 April 2024 |title=New minor party leader declares 'victory of people' as predicted to win 15 seats |url=https://en.yna.co.kr/view/AEN20240410005400315?section=national/politics |website=Yonhap News Agency |access-date=10 April 2024 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410124058/https://en.yna.co.kr/view/AEN20240410005400315?section=national/politics |url-status=live }}</ref>",
                   "url": "https://en.yna.co.kr/view/AEN20240410005400315?section=national/politics",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=10 April 2024 |title=Exit polls suggest a big win by South Korea's liberal opposition parties in parliamentary election |url=https://apnews.com/article/south-korea-parliamentary-election-yoon-c362a024e6eff3d4a410927be00b4d0c |website=Associated Press |access-date=9 April 2024 |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409162448/https://apnews.com/article/south-korea-parliamentary-election-yoon-c362a024e6eff3d4a410927be00b4d0c |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-korea-parliamentary-election-yoon-c362a024e6eff3d4a410927be00b4d0c",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=11 April 2024 |title=Opposition leader vows commitment to solving economic problems |url=https://en.yna.co.kr/view/AEN20240411006200315 |website=Yonhap News Agency |access-date=11 April 2024 |archive-date=12 April 2024 |archive-url=https://web.archive.org/web/20240412000120/https://en.yna.co.kr/view/AEN20240411006200315 |url-status=live|author=Cheong-mo, Yoo}}</ref>",
                   "url": "https://en.yna.co.kr/view/AEN20240411006200315",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -637,21 +637,21 @@
                 {
                   "text": "<ref>{{Cite web |date=14 April 2024 |title=Presidential office says it will take time to name new PM, chief of staff after election defeat |url=https://en.yna.co.kr/view/AEN20240414000800320?section=national/politics |website=Yonhap News Agency |access-date=14 April 2024 |archive-date=14 April 2024 |archive-url=https://web.archive.org/web/20240414183051/https://en.yna.co.kr/view/AEN20240414000800320?section=national/politics |url-status=live }}</ref>",
                   "url": "https://en.yna.co.kr/view/AEN20240414000800320?section=national/politics",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=11 April 2024 |title=South Korea's prime minister and top presidential officials offer to resign after election defeat |url=https://apnews.com/article/south-korea-yoon-parliament-election-8a538a2c99146aa6e2279d13b6a6ea3c |website=Associated Press |access-date=11 April 2024 |archive-date=11 April 2024 |archive-url=https://web.archive.org/web/20240411024600/https://apnews.com/article/south-korea-yoon-parliament-election-8a538a2c99146aa6e2279d13b6a6ea3c |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-korea-yoon-parliament-election-8a538a2c99146aa6e2279d13b6a6ea3c",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |url=https://www.hani.co.kr/arti/politics/election/1136197.html |title=심상정 정계 은퇴 선언 \"통절한 마음으로 사죄드린다\" |date=11 April 2024 |access-date=14 April 2024 |archive-date=14 April 2024 |archive-url=https://web.archive.org/web/20240414183047/https://www.hani.co.kr/arti/politics/election/1136197.html |url-status=live }}</ref>",
                   "url": "https://www.hani.co.kr/arti/politics/election/1136197.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -664,7 +664,7 @@
                 {
                   "text": "<ref>{{Cite web |date=16 April 2024 |title=(LEAD) Yoon vows to improve communication with people after election defeat |url=https://en.yna.co.kr/view/AEN20240416003151315?section=national/politics |website=Yonhap News Agency |access-date=16 April 2024 |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416100010/https://en.yna.co.kr/view/AEN20240416003151315?section=national/politics |url-status=live }}</ref>",
                   "url": "https://en.yna.co.kr/view/AEN20240416003151315?section=national/politics",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -687,7 +687,7 @@
                 {
                   "text": "<ref name=\"straits-yul-rxn\">{{cite news |title='Lame duck' South Korean President Yoon reels from election debacle |url=https://www.straitstimes.com/asia/east-asia/lame-duck-south-korean-president-yoon-reels-from-election-debacle |access-date=11 April 2024 |work=The Straits Times |publisher=SPH Media |date=11 April 2024 |language=en |archive-date=11 April 2024 |archive-url=https://web.archive.org/web/20240411081515/https://www.straitstimes.com/asia/east-asia/lame-duck-south-korean-president-yoon-reels-from-election-debacle |url-status=live }}</ref>",
                   "url": "https://www.straitstimes.com/asia/east-asia/lame-duck-south-korean-president-yoon-reels-from-election-debacle",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -700,21 +700,21 @@
                 {
                   "text": "<ref>{{cite web |last1=Kim |first1=Sang |last2=Young Kim |first2=Joo |last3=Jeong |first3=Hyeonseung |title=A Guide to South Korea's 2024 National Assembly Election |url=https://keia.org/the-peninsula/a-guide-to-south-koreas-2024-national-assembly-election/ |website=keia |date=9 April 2024 |publisher=Korea Economic Institute of America |access-date=17 April 2024}}</ref>",
                   "url": "https://keia.org/the-peninsula/a-guide-to-south-koreas-2024-national-assembly-election/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |last1=Shin |first1=Mitch |title=In South Korea, President Yoon's Lame Duck Era Officially Begins |url=https://thediplomat.com/2024/04/in-south-korea-president-yoons-lame-duck-era-officially-begins/ |publisher=The Diplomat |access-date=17 April 2024 |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416130903/https://thediplomat.com/2024/04/in-south-korea-president-yoons-lame-duck-era-officially-begins/ |url-status=live }}</ref>",
                   "url": "https://thediplomat.com/2024/04/in-south-korea-president-yoons-lame-duck-era-officially-begins/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Election rout makes Yoon's 'lame duck' fears reality |url=https://www.japantimes.co.jp/news/2024/04/11/asia-pacific/politics/election-rout-yoon-lame-duck/ |website=The Japan Times |date=11 April 2024 |publisher=Jiji Press |access-date=17 April 2024 |archive-date=11 April 2024 |archive-url=https://web.archive.org/web/20240411094953/https://www.japantimes.co.jp/news/2024/04/11/asia-pacific/politics/election-rout-yoon-lame-duck/ |url-status=live }}</ref>",
-                  "url": "https://www.japantimes.co.jp/news/2024/04/11/asia-pacific/politics/election-rout-yoon-lame-duck/",
-                  "status_code": null,
+                  "url": "https://www.japantimes.co.jp/article-expired/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

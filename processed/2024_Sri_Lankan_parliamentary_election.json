@@ -14,36 +14,36 @@
                 {
                   "text": "<ref name=\"PROC-24.09.2024\">{{cite web|url=http://www.documents.gov.lk/files/egz/2024/9/2403-13_E.pdf |title=Proclamation by the President |publisher=Department of Government Printing |work=The Gazette Extraordinary |date=24 September 2024 |access-date=24 September 2024 |archive-date=24 September 2024 |archive-url=https://web.archive.org/web/20240924191050/http://www.documents.gov.lk/files/egz/2024/9/2403-13_E.pdf |url-status=live}}</ref>",
                   "url": "http://www.documents.gov.lk/files/egz/2024/9/2403-13_E.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"DM-24.09.2024\">{{cite web|url=https://www.dailymirror.lk/top-story/General-election-on-November-14/155-292389 |title=General election on November 14 |publisher=Daily Mirror |last=Balasuriya |first=Darshana Sanjeewa |date=24 September 2024 |access-date=24 September 2024 |archive-date=24 September 2024 |archive-url=https://web.archive.org/web/20240924191638/https://www.dailymirror.lk/top-story/General-election-on-November-14/155-292389 |url-status=live}}</ref>",
                   "url": "https://www.dailymirror.lk/top-story/General-election-on-November-14/155-292389",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"BBC-24.09.2024\">{{cite web|url=https://www.bbc.com/news/articles/c05gnm05qmdo |title=Sri Lanka's new president dissolves parliament |publisher=BBC |last=Ng |first=Kelly |date=24 September 2024 |access-date=24 September 2024 |archive-date=24 September 2024 |archive-url=https://web.archive.org/web/20240924192806/https://www.bbc.com/news/articles/c05gnm05qmdo |url-status=live}}</ref>",
                   "url": "https://www.bbc.com/news/articles/c05gnm05qmdo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"NW1-4.10.2024\">{{cite web|url=https://www.newsfirst.lk/2024/10/04/nominations-open-for-2024-parliamentary-election |title=Nominations Open for 2024 Parliamentary Election |publisher=News First |last=Farzan |first=Zulfick |date=4 October 2024 |access-date=14 October 2024}}</ref>",
                   "url": "https://www.newsfirst.lk/2024/10/04/nominations-open-for-2024-parliamentary-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"DM-11.10.2024\">{{cite web|url=https://www.dailymirror.lk/breaking-news/Nomination-period-for-General-Election-ends-today/108-293518 |title=Nomination period for General Election ends today |publisher=Daily Mirror |last=Fernandopulle |first=Sheain |date=11 October 2024 |access-date=11 October 2024}}</ref>",
                   "url": "https://www.dailymirror.lk/breaking-news/Nomination-period-for-General-Election-ends-today/108-293518",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -55,29 +55,29 @@
                 {
                   "text": "<ref>{{Cite web |title=Sri Lanka: Left-leaning leader's coalition secures landslide victory |url=https://www.bbc.com/news/articles/crr9n2w0lyzo |access-date=15 November 2024 |website=www.bbc.com |language=en-GB}}</ref>",
                   "url": "https://www.bbc.com/news/articles/crr9n2w0lyzo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Radhakrishnan |first=R. K. |date=15 November 2024 |title=Sri Lanka Election Results 2024: JVP Wins Parliament Control, Marks Historic Political Shift |url=https://frontline.thehindu.com/news/sri-lanka-election-2024-npp-victory-dissanayake-reforms-tamil-support-parliament-majority-economic-agenda/article68871257.ece |access-date=15 November 2024 |website=Frontline |language=en}}</ref>",
                   "url": "https://frontline.thehindu.com/news/sri-lanka-election-2024-npp-victory-dissanayake-reforms-tamil-support-parliament-majority-economic-agenda/article68871257.ece",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=From 3% to 61%: Six major records NPP broke in historic election victory |url=https://www.adaderana.lk/news.php?nid=103541 |access-date=16 November 2024 |website=www.adaderana.lk |language=en}}</ref>",
                   "url": "https://www.adaderana.lk/news.php?nid=103541",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Sri Lanka's tenth Parliament to welcome over 150 fresh faces as MPs |url=https://www.adaderana.lk/news.php?nid=103564 |access-date=18 November 2024 |website=www.adaderana.lk |language=en}}</ref>",
                   "url": "https://www.adaderana.lk/news.php?nid=103564",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -89,14 +89,14 @@
                 {
                   "text": "<ref name=\"PROC-12.11.2024\">{{cite web|url=http://www.documents.gov.lk/files/egz/2024/11/2410-02_E.pdf |title=The Gazette Extraordinary – No.2410/02 of Tuesday, November 12, 2024 – Proclamation by the President |publisher=Presidential Secretariat |date=12 November 2024 |accessdate=12 November 2024 |archive-date=12 November 2024 |archive-url=https://web.archive.org/web/20241112140127/http://www.documents.gov.lk/files/egz/2024/11/2410-02_E.pdf |url-status=live}}</ref>",
                   "url": "http://www.documents.gov.lk/files/egz/2024/11/2410-02_E.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"NWSW-12.11.2024\">{{cite web|url=https://www.newswire.lk/2024/11/12/new-parliament-meeting-president-issues-proclamation/ |title=New parliament meeting : President issues proclamation |publisher=Newswire |date=12 November 2024 |accessdate=12 November 2024 |archive-date=12 November 2024 |archive-url=https://web.archive.org/web/20241112140355/https://www.newswire.lk/2024/11/12/new-parliament-meeting-president-issues-proclamation/ |url-status=live}}</ref>",
                   "url": "https://www.newswire.lk/2024/11/12/new-parliament-meeting-president-issues-proclamation/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -123,7 +123,7 @@
                     {
                       "text": "<ref name=\"EC-07.06.2020\" /> During their tenure, the government under President Gotabaya Rajapaksa and Prime Minister of Sri Lanka|Prime Minister Mahinda Rajapaksa faced multiple crises, including the COVID-19 pandemic in Sri Lanka|COVID-19 pandemic and an Sri Lankan economic crisis (2019–present)|economic crisis, which culminated into widespread 2022 Sri Lankan protests|protests and the 2022 Sri Lankan political crisis.<ref name=\"AJ-10.04.2022\">{{cite web|url=https://www.aljazeera.com/news/2022/4/10/thousands-in-sri-lanka-insist-rajapaksa-family-quit-politics |title=Thousands in Sri Lanka insist Rajapaksa family quit politics |publisher=Al Jazeera |last1=Rasheed |first1=Zaheena |last2=Kuruwita |first2=Rathindra |date=22 April 2022 |access-date=16 October 2024 |archive-date=12 September 2024 |archive-url=https://web.archive.org/web/20240912200042/https://www.aljazeera.com/news/2022/4/10/thousands-in-sri-lanka-insist-rajapaksa-family-quit-politics |url-status=live}}</ref>",
                       "url": "https://www.aljazeera.com/news/2022/4/10/thousands-in-sri-lanka-insist-rajapaksa-family-quit-politics",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -136,21 +136,21 @@
                     {
                       "text": "<ref name=\"BBC-09.05.2022\">{{cite web|url=https://www.bbc.com/news/world-asia-61381536 |title=Mahinda Rajapaksa: Sri Lankan PM resigns amid economic crisis |publisher=BBC |last=Fraser |first=Simon |date=9 May 2022 |access-date=16 October 2024 |archive-date=13 September 2024 |archive-url=https://web.archive.org/web/20240913051805/https://www.bbc.com/news/world-asia-61381536 |url-status=live}}</ref>",
                       "url": "https://www.bbc.com/news/world-asia-61381536",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"BBC-13.07.2022\">{{cite web|url=https://www.bbc.com/news/world-asia-62132271 |title=Sri Lanka: President Gotabaya Rajapaksa flees the country on military jet |publisher=BBC |last1=Wong |first1=Tessa |last2=Murphy |first2=Matt |date=13 July 2022 |access-date=16 October 2024 |archive-date=30 September 2024 |archive-url=https://web.archive.org/web/20240930231849/https://www.bbc.com/news/world-asia-62132271 |url-status=live}}</ref>",
                       "url": "https://www.bbc.com/news/world-asia-62132271",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"BBC-20.07.2022\">{{cite web|url=https://www.bbc.com/news/world-asia-62202901 |title=Sri Lanka: Ranil Wickremesinghe elected president by MPs |publisher=BBC |last1=Mao |first1=Frances |last2=Ethirajan |first2=Anbarasan |date=20 July 2022 |access-date=28 August 2024 |archive-date=27 August 2024 |archive-url=https://web.archive.org/web/20240827002929/https://www.bbc.com/news/world-asia-62202901 |url-status=live}}</ref>",
                       "url": "https://www.bbc.com/news/world-asia-62202901",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -163,21 +163,21 @@
                     {
                       "text": "<ref name=\"GAZ-22.09.2024\">{{cite web|url=http://www.documents.gov.lk/files/egz/2024/9/2402-26_E.pdf |title=Presidential Election – 2024 |publisher=The Gazette Extraordinary |date=22 September 2024 |access-date=22 September 2024 |archive-date=22 September 2024 |archive-url=https://web.archive.org/web/20240922185105/http://www.documents.gov.lk/files/egz/2024/9/2402-26_E.pdf |url-status=live}}</ref>",
                       "url": "http://www.documents.gov.lk/files/egz/2024/9/2402-26_E.pdf",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"BBC-22.09.2024\">{{cite web|url=https://www.bbc.com/news/articles/clyznjz3d78o |title=Left-leaning leader wins Sri Lanka election in political paradigm shift |publisher=BBC |last1=Perera |first1=Ayeshea |last2=Guinto |first2=Joel |date=22 September 2024 |access-date=15 October 2024 |archive-date=22 September 2024 |archive-url=https://web.archive.org/web/20240922170442/https://www.bbc.com/news/articles/clyznjz3d78o |url-status=live}}</ref>",
                       "url": "https://www.bbc.com/news/articles/clyznjz3d78o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"AP-25.09.2024\">{{cite web|url=https://apnews.com/article/sri-lanka-prime-minister-election-66fd3b9e7f42a0ec7fb3f37e60ad0ca6 |title=Sri Lanka's new president calls a parliamentary election for November to consolidate his mandate |publisher=Associated Press |last=Mallawarachi |first=Bharatha |date=25 September 2024 |access-date=25 September 2024 |archive-date=25 September 2024 |archive-url=https://web.archive.org/web/20240925035304/https://apnews.com/article/sri-lanka-prime-minister-election-66fd3b9e7f42a0ec7fb3f37e60ad0ca6 |url-status=live}}</ref>",
                       "url": "https://apnews.com/article/sri-lanka-prime-minister-election-66fd3b9e7f42a0ec7fb3f37e60ad0ca6",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -212,7 +212,7 @@
                   "text": "<ref>{{cite web|url=https://www.parliament.lk/en/members-of-parliament/the-system-of-elections-in-sri-lanka/the-electoral-system |title=The Electoral System |publisher=The Parliament of Sri Lanka |date=14 December 2012 |access-date=6 September 2024 |archive-date=6 September 2024 |archive-url=https://web.archive.org/web/20240906145309/https://www.parliament.lk/en/members-of-parliament/the-system-of-elections-in-sri-lanka/the-electoral-system |url-status=live}}</ref>",
                   "url": "https://www.parliament.lk/en/members-of-parliament/the-system-of-elections-in-sri-lanka/the-electoral-system",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Cannot connect to host www.parliament.lk:443 ssl:default [[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1010)]",
                   "type": "web"
                 }
               ]
@@ -225,7 +225,7 @@
                   "text": "<ref>{{cite web|url=https://www.parliament.lk/files/pdf/constitution.pdf |title=The Constitution of the D. S. R. of Sri Lanka |publisher=The Parliament of Sri Lanka |date=30 March 2023 |access-date=24 September 2024 |archive-date=18 September 2024 |archive-url=https://web.archive.org/web/20240918144456/http://www.parliament.lk/files/pdf/constitution.pdf |url-status=live}}</ref>",
                   "url": "https://www.parliament.lk/files/pdf/constitution.pdf",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Cannot connect to host www.parliament.lk:443 ssl:default [[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1010)]",
                   "type": "web"
                 }
               ]
@@ -240,40 +240,40 @@
               "sentences": [
                 {
                   "id": "4.2.s1",
-                  "text": "On 25 September 2024, the Election Commission of Sri Lanka|Election Commission released details regarding the number of members to be elected from each electoral district in the upcoming parliamentary election, the number of candidates to be listed on the nomination paper, and the deposit amount required from independent groups. Recognised political parties are exempt from making a deposit.\n<!-- Space for clarity -->\n<section begin=\"Recent changes in seat allocation\"/><!-- This is being transcluded on 17th Parliament of Sri Lanka, please do not remove -->\n{{sticky header}}\n{|class=\"wikitable sortable sticky-header-multi mw-collapsible\" style=\"font-size:90%; text-align:center\"\n! colspan=7 | Registered electors and seat allocation changes: 2020 to 2024\n|- \n! rowspan=\"2\" | Provinces of Sri Lanka|Provinces !! rowspan=\"2\" | Electoral districts of Sri Lanka|Districts !! colspan=\"2\"| Registered electors !! colspan=\"3\"| Number of allocated seats\n|-\n! 2020 !! 2024 !! 2020 !! 2024 !! Change <br /> (+/-)\n|-\n| rowspan=\"3\" | Western Province, Sri Lanka|Western || Colombo Electoral District|Colombo || 1,709,209 || 1,765,351 || 19 || 18 || {{decrease}}1\n|-\n| Gampaha Electoral District|Gampaha || 1,785,964 || 1,881,129 || 18 || 19 || {{increase}}1\n|-\n| Kalutara Electoral District|Kalutara || 972,319 || 1,024,244 || 10 || 11 || {{increase}}1\n|-\n| rowspan=\"3\" | Central Province, Sri Lanka|Central || Kandy Electoral District|Kandy || 1,129,100 || 1,191,399 || 12 || 12 || {{steady}}\n|-\n| Matale Electoral District|Matale || 407,569 || 429,991 || 5 || 5 || {{steady}}\n|-\n| Nuwara Eliya Electoral District|Nuwara Eliya || 577,717 || 605,292 || 8 || 8 || {{steady}}\n|-\n| rowspan=\"3\" | Southern Province, Sri Lanka|Southern || Galle Electoral District|Galle || 867,709 || 903,163 || 9 || 9 || {{steady}}\n|-\n| Matara Electoral District|Matara || 659,587 || 686,175 || 7 || 7 || {{steady}}\n|-\n| Hambantota Electoral District|Hambantota || 493,192 || 520,940 || 7 || 7 || {{steady}}\n|-\n| rowspan=\"2\" | Northern Province, Sri Lanka|Northern || Jaffna Electoral District|Jaffna || 571,848 || 593,187 || 7 || 6 || {{decrease}}1\n|-\n| Vanni Electoral District|Vanni || 287,024 || 306,081 || 6 || 6 || {{steady}}\n|-\n| rowspan=\"3\" | Eastern Province, Sri Lanka|Eastern || Batticaloa Electoral District|Batticaloa || 409,808 || 449,686 || 5 || 5 || {{steady}}\n|-\n| Ampara Electoral District|Ampara || 513,979 || 555,432 || 7 || 7 || {{steady}}\n|-\n| Trincomalee Electoral District|Trincomalee || 288,868 || 315,925 || 4 || 4 || {{steady}}\n|-\n| rowspan=\"2\" | North Western Province, Sri Lanka|North Western || Kurunegala Electoral District|Kurunegala || 1,348,787 || 1,417,226 || 15 || 15 || {{steady}}\n|-\n| Puttalam Electoral District|Puttalam || 614,374 || 663,673 || 8 || 8 || {{steady}}\n|-\n| rowspan=\"2\" | North Central Province, Sri Lanka|North Central || Anuradhapura Electoral District|Anuradhapura || 693,634 || 741,862 || 9 || 9 || {{steady}}\n|-\n| Polonnaruwa Electoral District|Polonnaruwa || 331,109 || 351,302 || 5 || 5 || {{steady}}\n|-\n| rowspan=\"2\" | Uva Province|Uva || Badulla Electoral District|Badulla || 668,166 || 705,772 || 9 || 9 || {{steady}}\n|-\n| Monaragala Electoral District|Monaragala || 372,155 || 399,166 || 6 || 6 || {{steady}}\n|-\n| rowspan=\"2\" | Sabaragamuwa Province|Sabaragamuwa || Ratnapura Electoral District|Ratnapura || 877,582 || 923,736 || 11 || 11 || {{steady}}\n|-\n| Kegalle Electoral District|Kegalle || 684,189 || 709,622 || 9 || 9 || {{steady}}\n|- class=sortbottom\n| National list member of the Parliament of Sri Lanka|National List || {{N/A}} || {{N/A}} || {{N/A}} || 29 || 29 || {{steady}}\n|- \n! Total || {{N/A}} || 16,263,885 || 17,140,354 || 225 || 225 || {{steady}}\n|}<section end=\"Recent changes in seat allocation\"/><!-- This is being transcluded on 17th Parliament of Sri Lanka, please do not remove. -->",
+                  "text": "On 25 September 2024, the Election Commission of Sri Lanka|Election Commission released details regarding the number of members to be elected from each electoral district in the upcoming parliamentary election, the number of candidates to be listed on the nomination paper, and the deposit amount required from independent groups. Recognised political parties are exempt from making a deposit.\n<!-- Space for clarity -->\n<section begin=\"Recent changes in seat allocation\"/><!-- This is being transcluded on 17th Parliament of Sri Lanka, please do not remove -->\n{{sticky header}}\n{|class=\"wikitable sortable sticky-header-multi mw-collapsible\" style=\"font-size:90%; text-align:center\"\n! colspan=7 | Registered electors and seat allocation changes: 2020 to 2024\n|- \n! rowspan=\"2\" | Provinces of Sri Lanka|Province !! rowspan=\"2\" | Electoral districts of Sri Lanka|Electoral <br /> district !! colspan=\"2\"| Registered electors !! colspan=\"3\"| Number of allocated seats\n|-\n! 2020 !! 2024 !! 2020 !! 2024 !! Change <br /> (+/-)\n|-\n| rowspan=\"3\" | Western Province, Sri Lanka|Western || Colombo Electoral District|Colombo || 1,709,209 || 1,765,351 || 19 || 18 || {{decrease}}1\n|-\n| Gampaha Electoral District|Gampaha || 1,785,964 || 1,881,129 || 18 || 19 || {{increase}}1\n|-\n| Kalutara Electoral District|Kalutara || 972,319 || 1,024,244 || 10 || 11 || {{increase}}1\n|-\n| rowspan=\"3\" | Central Province, Sri Lanka|Central || Kandy Electoral District|Kandy || 1,129,100 || 1,191,399 || 12 || 12 || {{steady}}\n|-\n| Matale Electoral District|Matale || 407,569 || 429,991 || 5 || 5 || {{steady}}\n|-\n| Nuwara Eliya Electoral District|Nuwara Eliya || 577,717 || 605,292 || 8 || 8 || {{steady}}\n|-\n| rowspan=\"3\" | Southern Province, Sri Lanka|Southern || Galle Electoral District|Galle || 867,709 || 903,163 || 9 || 9 || {{steady}}\n|-\n| Matara Electoral District|Matara || 659,587 || 686,175 || 7 || 7 || {{steady}}\n|-\n| Hambantota Electoral District|Hambantota || 493,192 || 520,940 || 7 || 7 || {{steady}}\n|-\n| rowspan=\"2\" | Northern Province, Sri Lanka|Northern || Jaffna Electoral District|Jaffna || 571,848 || 593,187 || 7 || 6 || {{decrease}}1\n|-\n| Vanni Electoral District|Vanni || 287,024 || 306,081 || 6 || 6 || {{steady}}\n|-\n| rowspan=\"3\" | Eastern Province, Sri Lanka|Eastern || Batticaloa Electoral District|Batticaloa || 409,808 || 449,686 || 5 || 5 || {{steady}}\n|-\n| Ampara Electoral District|Ampara || 513,979 || 555,432 || 7 || 7 || {{steady}}\n|-\n| Trincomalee Electoral District|Trincomalee || 288,868 || 315,925 || 4 || 4 || {{steady}}\n|-\n| rowspan=\"2\" | North Western Province, Sri Lanka|North Western || Kurunegala Electoral District|Kurunegala || 1,348,787 || 1,417,226 || 15 || 15 || {{steady}}\n|-\n| Puttalam Electoral District|Puttalam || 614,374 || 663,673 || 8 || 8 || {{steady}}\n|-\n| rowspan=\"2\" | North Central Province, Sri Lanka|North Central || Anuradhapura Electoral District|Anuradhapura || 693,634 || 741,862 || 9 || 9 || {{steady}}\n|-\n| Polonnaruwa Electoral District|Polonnaruwa || 331,109 || 351,302 || 5 || 5 || {{steady}}\n|-\n| rowspan=\"2\" | Uva Province|Uva || Badulla Electoral District|Badulla || 668,166 || 705,772 || 9 || 9 || {{steady}}\n|-\n| Monaragala Electoral District|Monaragala || 372,155 || 399,166 || 6 || 6 || {{steady}}\n|-\n| rowspan=\"2\" | Sabaragamuwa Province|Sabaragamuwa || Ratnapura Electoral District|Ratnapura || 877,582 || 923,736 || 11 || 11 || {{steady}}\n|-\n| Kegalle Electoral District|Kegalle || 684,189 || 709,622 || 9 || 9 || {{steady}}\n|- class=sortbottom\n| National list member of the Parliament of Sri Lanka|National List || {{N/A}} || {{N/A}} || {{N/A}} || 29 || 29 || {{steady}}\n|- \n! Total || {{N/A}} || 16,263,885 || 17,140,354 || 225 || 225 || {{steady}}\n|}<section end=\"Recent changes in seat allocation\"/><!-- This is being transcluded on 17th Parliament of Sri Lanka, please do not remove. -->",
                   "references": [
                     {
                       "text": "<ref name=\"EC-10.2024\" /><ref>{{cite web|url=https://elections.gov.lk/web/wp-content/uploads/2024/09/PE_2024_01_E.pdf |title=Parliamentary Election – 2024 (Media release No.:PE/2024/01) |publisher=Election Commission of Sri Lanka |date=25 September 2024 |access-date=26 September 2024 |archive-date=26 September 2024 |archive-url=https://web.archive.org/web/20240926110642/https://elections.gov.lk/web/wp-content/uploads/2024/09/PE_2024_01_E.pdf |url-status=live}}</ref>",
                       "url": "https://elections.gov.lk/web/wp-content/uploads/2024/09/PE_2024_01_E.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://www.adaderana.lk/news/102266/2024-general-election-number-of-mps-elected-from-each-district-revealed |title=2024 General Election: Number of MPs elected from each district revealed |publisher=Ada Derana |date=25 September 2024 |access-date=26 September 2024 |archive-date=26 September 2024 |archive-url=https://web.archive.org/web/20240926113405/https://www.adaderana.lk/news.php?nid=102266 |url-status=live}}</ref>",
                       "url": "https://www.adaderana.lk/news/102266/2024-general-election-number-of-mps-elected-from-each-district-revealed",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"EC-10.2024\">{{cite web|url=https://elections.gov.lk/web/wp-content/uploads/2024/10/PE_2024_No_of_Seats.pdf |title=Number of members to be returned for each Electoral District as required under Article 98(8) of the Constitution – After certification of 2024(1) Supplementory Electoral Register (2024.02.01 – 2024.05.31) as at 2024.07.08 |publisher=Election Commission of Sri Lanka |date=October 2024 |access-date=17 October 2024 |archive-date=17 October 2024 |archive-url=https://archive.today/20241017070310/https://elections.gov.lk/web/wp-content/uploads/2024/10/PE_2024_No_of_Seats.pdf |url-status=live}}</ref>",
                       "url": "https://elections.gov.lk/web/wp-content/uploads/2024/10/PE_2024_No_of_Seats.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"EC-07.06.2020\">{{cite web|url=https://elections.gov.lk/en/elections/PE_RESULTS_2020_E.html |title=Parliamentary Election Results – 2020 |publisher=Election Commission of Sri Lanka |date=7 June 2020 |access-date=16 October 2024 |archive-date=23 September 2024 |archive-url=https://web.archive.org/web/20240923133905/https://elections.gov.lk/en/elections/PE_RESULTS_2020_E.html |url-status=live}}</ref>",
                       "url": "https://elections.gov.lk/en/elections/PE_RESULTS_2020_E.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"EC-22.09.2024\">{{cite web|url=https://results.elections.gov.lk/pre2024/ |title=Presidential Election Results – 2024 |publisher=Election Commission of Sri Lanka |date=22 September 2024 |access-date=26 October 2024 |archive-date=26 October 2024 |archive-url=https://archive.today/20241026163557/https://results.elections.gov.lk/pre2024/ |url-status=live}}</ref>",
                       "url": "https://results.elections.gov.lk/pre2024/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -314,14 +314,14 @@
                     {
                       "text": "<ref name=\"NWSW-12.10.2024\">{{cite web|url=https://www.newswire.lk/2024/10/12/how-many-candidates-in-sri-lankas-2024-parliament-election/ |title=How many candidates in Sri Lanka's 2024 Parliament Election |publisher=Newswire |date=12 October 2024 |accessdate=12 November 2024 |archive-date=12 November 2024 |archive-url=https://web.archive.org/web/20241112181455/https://www.newswire.lk/2024/10/12/how-many-candidates-in-sri-lankas-2024-parliament-election/ |url-status=live}}</ref>",
                       "url": "https://www.newswire.lk/2024/10/12/how-many-candidates-in-sri-lankas-2024-parliament-election/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"FR24-12.11.2024\">{{cite web|url=https://www.france24.com/en/live-news/20241112-sri-lanka-s-leftist-president-faces-first-parliament-test |title=Sri Lanka's leftist president faces first parliament test |publisher=France 24 |date=12 November 2024 |accessdate=12 November 2024 |archive-date=12 November 2024 |archive-url=https://web.archive.org/web/20241112181546/https://www.france24.com/en/live-news/20241112-sri-lanka-s-leftist-president-faces-first-parliament-test |url-status=live}}</ref>",
                       "url": "https://www.france24.com/en/live-news/20241112-sri-lanka-s-leftist-president-faces-first-parliament-test",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -334,21 +334,21 @@
                     {
                       "text": "<ref>{{cite web|url=https://www.reuters.com/world/asia-pacific/sri-lankas-first-transgender-candidate-hopes-break-political-social-barriers-2024-11-13/|title=Sri Lanka's first transgender candidate hopes to break political, social barriers|publisher=Reuters|access-date=15 November 2024}}</ref>",
                       "url": "https://www.reuters.com/world/asia-pacific/sri-lankas-first-transgender-candidate-hopes-break-political-social-barriers-2024-11-13/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |date=13 November 2024 |title=Who is Chanu Nimesha, Sri Lanka's first ever transgender candidate? |url=https://timesofindia.indiatimes.com/world/rest-of-world/meet-sri-lankas-first-ever-transgender-candidate-who-is-battling-for-social-justice/articleshow/115244769.cms |access-date=15 November 2024|work=The Times of India |issn=0971-8257}}</ref>",
                       "url": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-sri-lankas-first-ever-transgender-candidate-who-is-battling-for-social-justice/articleshow/115244769.cms",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://www.news.com.au/national/sri-lankas-first-transgender-candidate-hopes-to-break-barriers/video/fe6416deeb642c434602ef80f175355a|title=Sri Lanka's first transgender candidate hopes to break barriers|publisher=news.com.au|access-date=15 November 2024}}</ref>",
                       "url": "https://www.news.com.au/national/sri-lankas-first-transgender-candidate-hopes-to-break-barriers/video/fe6416deeb642c434602ef80f175355a",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -371,119 +371,119 @@
                     {
                       "text": "<ref>{{cite web |title=Sri Lanka former president won't contest elections, his party stalwarts say |url=https://economynext.com/sri-lanka-former-president-wont-contest-elections-his-party-stalwarts-say-180792/ |website=EconomyNext |access-date=7 October 2024 |language=en |date=24 September 2024}}</ref>",
                       "url": "https://economynext.com/sri-lanka-former-president-wont-contest-elections-his-party-stalwarts-say-180792/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 202,
+                      "reason": "Accepted",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Dhammika Perera quits politics; returns to Hayleys and Vallibel {{!}} Daily FT |url=https://www.ft.lk/front-page/Dhammika-Perera-returns-to-Hayleys-and-Vallibel/44-767453 |access-date=16 October 2024 |website=www.ft.lk |language=English}}</ref>",
                       "url": "https://www.ft.lk/front-page/Dhammika-Perera-returns-to-Hayleys-and-Vallibel/44-767453",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"MPs opted out\" />\n|-\n| {{sortname|Vasudeva|Nanayakkara}}\n| Ratnapura Electoral District|Ratnapura\n| 1970 Sri Lankan parliamentary election|1970\n| {{Full party name with color|Democratic Left Front (Sri Lanka)}}\n| {{dts|5 October 2024}}<ref name=\"Ceylon Today 7 October 2024\" />\n|-\n| {{sortname|Bandula|Gunawardane}}\n| Colombo Electoral District|Colombo\n| 1989 Sri Lankan parliamentary election|1989\n| {{Full party name with color|Sri Lanka Podujana Peramuna}}\n| {{dts|5 October 2024}}<ref name=\"Ceylon Today 7 October 2024\" />\n|-\n| {{sortname|Chamal|Rajapaksa}}\n| Hambantota Electoral District|Hambantota\n| 1989 Sri Lankan parliamentary election|1989\n| {{Full party name with color|Sri Lanka Podujana Peramuna}}\n| {{dts|5 October 2024}}<ref name=\"Ceylon Today 7 October 2024\" />\n|-\n| {{sortname|John|Seneviratne}}\n| Ratnapura Electoral District|Ratnapura\n| 1989 Sri Lankan parliamentary election|1989\n| {{Full party name with color|Sri Lanka Podujana Peramuna}}\n| {{dts|5 October 2024}}<ref name=\"Ceylon Today 7 October 2024\" />\n|-\n| {{sortname|Maithripala|Sirisena}}\n| Polonnaruwa Electoral District|Polonnaruwa\n| 1989 Sri Lankan parliamentary election|1989\n| {{Full party name with color|Sri Lanka Freedom Party}}\n| {{dts|5 October 2024}}<ref name=\"Ceylon Today 7 October 2024\">{{cite web |last1=Balasooriya |first1=Anura |title=Nearly 30 Former MPs to Skip General Election |url=https://ceylontoday.lk/2024/10/05/nearly-30-former-mps-to-skip-general-election/ |website=Ceylon Today |access-date=7 October 2024 |date=4 October 2024}}</ref>",
                       "url": "https://ceylontoday.lk/2024/10/05/nearly-30-former-mps-to-skip-general-election/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"Ceylon Today 7 October 2024\" />\n|-\n| {{sortname|Sisira|Jayakody}}\n| Gampaha Electoral District|Gampaha\n| 2015 Sri Lankan parliamentary election|2015\n| {{Full party name with color|Sri Lanka Podujana Peramuna}}\n| {{dts|5 October 2024}}<ref name=\"Ceylon Today 7 October 2024\" />\n|-\n| {{sortname|Ali|Sabry|Ali Sabry (Sri Lankan politician)}}\n| National list member of the Parliament of Sri Lanka|National List\n| 2020 Sri Lankan parliamentary election|2020\n| {{Full party name with color|Sri Lanka Podujana Peramuna}}\n| {{dts|5 October 2024}}<ref name=\"Ceylon Today 7 October 2024\" />\n|-\n| {{sortname|C. V.| Vigneswaran}}\n| Jaffna Electoral District|Jaffna\n| 2020 Sri Lankan parliamentary election|2020\n| {{Full party name with color|Tamil People's National Alliance}}\n| {{dts|5 October 2024}}<ref name=\":2\">{{cite news |title=Many opt out from contesting upcoming general election |url=https://www.sundayobserver.lk/2024/10/13/news/35276/many-opt-out-from-contesting-upcoming-general-election/ |access-date=16 October 2024 |work=Sunday Observer (Sri Lanka)|Sunday Observer |date=12 October 2024}}</ref>",
                       "url": "https://www.sundayobserver.lk/2024/10/13/news/35276/many-opt-out-from-contesting-upcoming-general-election/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\":2\" />\n|-\n| {{sortname|Lakshman|Kiriella}}\n| Kandy Electoral District|Kandy\n| 1989 Sri Lankan parliamentary election|1989\n| {{Full party name with color|Samagi Jana Balawegaya}}\n| {{dts|7 October 2024}}<ref>{{cite web |title=Dozens of MPs Quit Parliamentary Politics |url=https://asianmirror.lk/news/item/38287-dozens-of-mps-quit-parliamentary-politics |website=asianmirror.lk |access-date=7 October 2024 |language=en-gb}}</ref>",
                       "url": "https://asianmirror.lk/news/item/38287-dozens-of-mps-quit-parliamentary-politics",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Dozens of ageing Sri Lankan MPs to quit parliamentary politics |url=https://www.dailyexcelsior.com/dozens-of-ageing-sri-lankan-mps-to-quit-parliamentary-politics/ |website=Daily Excelsior |access-date=7 October 2024 |date=7 October 2024}}</ref>",
                       "url": "https://www.dailyexcelsior.com/dozens-of-ageing-sri-lankan-mps-to-quit-parliamentary-politics/",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"NFF\">{{Cite web |title=Wimal's NFF decides not to contest 2024 General Election |url=https://www.adaderana.lk/news.php?nid=102580 |access-date=10 October 2024 |website=www.adaderana.lk |language=en}}</ref>",
                       "url": "https://www.adaderana.lk/news.php?nid=102580",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"NFF\" />\n|-\n| {{sortname|Shehan|Semasinghe}}\n| Anuradhapura Electoral District|Anuradhapura\n| 2010 Sri Lankan parliamentary election|2010\n| {{Full party name with color|Sri Lanka Podujana Peramuna}}\n| {{dts|10 October 2024}}<ref>{{Cite news |title=Semasinghe 'disappointed' by Prez Poll result; decides not to contest Parliamentary Election |url=https://www.adaderana.lk/news/102590/semasinghe-dissapointed-by-prez-poll-result-decides-not-to-contest-parliamentary-election |date=10 October 2024 |access-date=4 December 2024 |website=www.adaderana.lk|language=en}}</ref>",
                       "url": "https://www.adaderana.lk/news/102590/semasinghe-dissapointed-by-prez-poll-result-decides-not-to-contest-parliamentary-election",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=10 October 2024 |title=Patali out of SJB alliance, not contesting elections |url=https://www.newswire.lk/2024/10/10/patali-out-of-sjb-alliance-not-contesting-elections/ |access-date=10 October 2024 |website=Newswire |language=en-US}}</ref>",
                       "url": "https://www.newswire.lk/2024/10/10/patali-out-of-sjb-alliance-not-contesting-elections/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"MPs opted out\" />\n|-\n| {{sortname|Mahinda|Rajapaksa}}\n| Kurunegala Electoral District|Kurunegala\n| 1970 Sri Lankan parliamentary election|1970\n| {{Full party name with color|Sri Lanka Podujana Peramuna}}\n| {{dts|11 October 2024}}<ref name=\":1\">{{Cite web |date=11 October 2024 |title=Sri Lanka's Rajapaksa brothers not contesting election |url=https://www.newswire.lk/2024/10/11/sri-lankas-rajapaksa-brothers-not-contesting-election/ |access-date=11 October 2024 |website=Newswire |language=en-US}}</ref>",
                       "url": "https://www.newswire.lk/2024/10/11/sri-lankas-rajapaksa-brothers-not-contesting-election/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":1\" />\n|-\n| {{sortname|Kanaka|Herath}}\n| Kegalle Electoral District|Kegalle\n| 2010 Sri Lankan parliamentary election|2010\n| {{Full party name with color|Sri Lanka Podujana Peramuna}}\n| {{dts|11 October 2024}}<ref>{{Cite web |date=11 October 2024 |title=Kanaka Herath explains why he is not contesting |url=https://www.newswire.lk/2024/10/11/kanaka-herath-explains-why-he-is-not-contesting/ |access-date=11 October 2024 |website=Newswire |language=en-US}}</ref>",
                       "url": "https://www.newswire.lk/2024/10/11/kanaka-herath-explains-why-he-is-not-contesting/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":0\">{{Cite web |title=තවත් ප්‍රබලයෝ පිරිසක් මහ ඡන්දෙට නොඑති |url=https://sinhala.adaderana.lk/news/202060 |access-date=11 October 2024 |website=sinhala.adaderana.lk |language=en}}</ref>",
                       "url": "https://sinhala.adaderana.lk/news/202060",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":0\" />\n|-\n| {{sortname|Gamini|Waleboda}}\n| Ratnapura Electoral District|Ratnapura\n| 2020 Sri Lankan parliamentary election|2020\n| {{Full party name with color|Jathika Nidahas Peramuna}}\n| {{dts|11 October 2024}}<ref name=\"MPs opted out\">{{cite news |author1=Chandani Kirinde |title=A time to rest, produce films and pursue higher studies… |url=https://www.sundaytimes.lk/241013/news/a-time-to-rest-produce-films-and-pursue-higher-studies-574188.html |access-date=19 October 2024 |work=The Sunday Times, Sri Lanka |date=13 October 2024}}</ref>",
                       "url": "https://www.sundaytimes.lk/241013/news/a-time-to-rest-produce-films-and-pursue-higher-studies-574188.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"MPs opted out\" />\n|-\n| {{sortname|Yadamini|Gunawardena}}\n| National list member of the Parliament of Sri Lanka|National List\n| 2020 Sri Lankan parliamentary election|2020\n| {{Full party name with color|Mahajana Eksath Peramuna}}\n| {{dts|11 October 2024}}<ref name=\"MPs opted out\" />\n|-\n| {{sortname|Sarath|Fonseka}}\n| Gampaha Electoral District|Gampaha\n| 2010 Sri Lankan parliamentary election|2010\n| {{Full party name with color|Samagi Jana Balawegaya}}\n| {{dts|12 October 2024}}<ref>{{Cite web |title=සරත් ෆොන්සේකාත් මහ ඡන්දෙට නොඑයි |url=https://sinhala.adaderana.lk/news/202103 |access-date=13 October 2024 |website=sinhala.adaderana.lk |language=en}}</ref>",
                       "url": "https://sinhala.adaderana.lk/news/202103",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Ajith Mannapperuma withdraws from contesting election and quits SJB |url=https://www.adaderana.lk/news/102633/ajith-mannapperuma-withdraws-from-contesting-election-and-quits-sjb |access-date=13 October 2024 |website=www.adaderana.lk |language=en}}</ref>",
                       "url": "https://www.adaderana.lk/news/102633/ajith-mannapperuma-withdraws-from-contesting-election-and-quits-sjb",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Keheliya Rambukwella decides to pause political career, cites 'recent events' |url=https://www.adaderana.lk/news.php?nid=102653 |access-date=14 October 2024 |website=www.adaderana.lk |language=en}}</ref>",
                       "url": "https://www.adaderana.lk/news.php?nid=102653",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":2\" />\n|-\n| {{sortname|Janaka Bandara|Tennakoon}}\n| Matale Electoral District|Matale\n| 1994 Sri Lankan parliamentary election|1994\n| {{Full party name with color|Sri Lanka Podujana Peramuna}}\n| <ref name=\":2\" />\n|-\n| {{sortname|Gevindu|Kumaratunga}}\n| National list member of the Parliament of Sri Lanka|National List\n| 2020 Sri Lankan parliamentary election|2020\n| {{Full party name with color|Sri Lanka Podujana Peramuna}}\n| <ref name=\":2\" />\n|-\n| {{sortname|Uddika|Premarathna}}\n| Anuradhapura Electoral District|Anuradhapura\n| 2020 Sri Lankan parliamentary election|2020\n| {{Full party name with color|Jathika Nidahas Peramuna}}\n| <ref>{{cite news |title=SLPP MP Uddika Premaratne says Goodbye to Parliament |url=https://www.newswire.lk/2024/02/27/slpp-mp-uddika-premaratne-says-goodbye-to-parliament/ |access-date=19 October 2024 |work=Newswire |date=27 February 2024}}</ref>",
                       "url": "https://www.newswire.lk/2024/02/27/slpp-mp-uddika-premaratne-says-goodbye-to-parliament/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -517,14 +517,14 @@
                           "text": "<ref name=\"ACA-08.08.2023\">{{cite web|url=https://www.parliament.lk/uploads/acts/gbills/english/6296.pdf |title=Anti-Corruption Act, No. 9 of 2023 |publisher=The Parliament of Sri Lanka |date=8 August 2023 |access-date=7 October 2024 |archive-date=28 August 2024 |archive-url=https://web.archive.org/web/20240828171241/https://www.parliament.lk/uploads/acts/gbills/english/6296.pdf |url-status=live}}</ref>",
                           "url": "https://www.parliament.lk/uploads/acts/gbills/english/6296.pdf",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Cannot connect to host www.parliament.lk:443 ssl:default [[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1010)]",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"AD-07.10.2024\">{{cite web|url=https://www.adaderana.lk/news/102512/asset-and-liability-declarations-mandatory-for-all-general-election-candidates-ec- |title=Asset and liability declarations mandatory for all General Election candidates – EC |publisher=Ada Derana |date=7 October 2024 |access-date=8 October 2024 |archive-date=8 October 2024 |archive-url=https://web.archive.org/web/20241008041717/https://www.adaderana.lk/news/102512/asset-and-liability-declarations-mandatory-for-all-general-election-candidates-ec- |url-status=live}}</ref>",
                           "url": "https://www.adaderana.lk/news/102512/asset-and-liability-declarations-mandatory-for-all-general-election-candidates-ec-",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         }
                       ]
@@ -546,15 +546,15 @@
                         {
                           "text": "<ref name=\"EC-17.10.2024\">{{cite web|url=https://elections.gov.lk/web/wp-content/uploads/2024/10/MR_PE_2024_27_S.pdf |title=Parliamentary Election – 2024: Regulation of Election Expenditure Act, No. 3 of 2023 (Media release No.PE/2024/27) |publisher=Election Commission of Sri Lanka |date=17 October 2024 |access-date=17 October 2024 |archive-date=17 October 2024 |archive-url=https://archive.today/20241017174733/https://elections.gov.lk/web/wp-content/uploads/2024/10/MR_PE_2024_27_S.pdf |url-status=live}}</ref>",
                           "url": "https://elections.gov.lk/web/wp-content/uploads/2024/10/MR_PE_2024_27_S.pdf",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"AD-17.10.2024\">{{cite web|url=https://www.adaderana.lk/news/102761/2024-general-election-maximum-spending-limit-for-candidates-announced |title=2024 General Election: Maximum spending limit for candidates announced |publisher=Ada Derana |date=17 October 2024 |access-date=17 October 2024 |archive-date=17 October 2024 |archive-url=https://archive.today/20241017174156/https://www.adaderana.lk/news.php?nid=102761 |url-status=live}}</ref>",
                           "url": "https://www.adaderana.lk/news/102761/2024-general-election-maximum-spending-limit-for-candidates-announced",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         }
                       ]
@@ -567,7 +567,7 @@
                           "text": "<ref name=\"EEA-24.01.2023\">{{cite web|url=https://www.parliament.lk/uploads/acts/gbills/english/6287.pdf |title=Regulation of Election Expenditure Act, No. 3 of 2023 |publisher=The Parliament of Sri Lanka |date=24 January 2024 |access-date=27 August 2024 |archive-date=21 March 2023 |archive-url=https://web.archive.org/web/20230321013809/http://www.parliament.lk/uploads/acts/gbills/english/6287.pdf |url-status=live}}</ref>",
                           "url": "https://www.parliament.lk/uploads/acts/gbills/english/6287.pdf",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Cannot connect to host www.parliament.lk:443 ssl:default [[SSL: DH_KEY_TOO_SMALL] dh key too small (_ssl.c:1010)]",
                           "type": "web"
                         }
                       ]
@@ -591,15 +591,15 @@
                     {
                       "text": "<ref name=\"DM-11.11.2024\">{{cite web|url=https://www.dailymirror.lk/breaking-news/Election-campaigns-to-end-at-midnight-today-Elections-Commission/108-295683 |title=Election campaigns to end at midnight today: Elections Commission |publisher=Daily Mirror |last=Samarawickrama |first=Chauranga Pradeep |date=11 November 2024 |accessdate=12 November 2024 |archive-date=12 November 2024 |archive-url=https://web.archive.org/web/20241112011003/https://www.dailymirror.lk/breaking-news/Election-campaigns-to-end-at-midnight-today-Elections-Commission/108-295683 |url-status=live}}</ref>",
                       "url": "https://www.dailymirror.lk/breaking-news/Election-campaigns-to-end-at-midnight-today-Elections-Commission/108-295683",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"AD-12.11.2024\">{{cite web|url=https://www.adaderana.lk/news.php?nid=103342 |title=Silence period begins ahead of Parliamentary Election |publisher=Ada Derana |date=12 November 2024 |accessdate=12 November 2024 |archive-date=12 November 2024 |archive-url=https://web.archive.org/web/20241112040352/https://www.adaderana.lk/news.php?nid=103342 |url-status=live}}</ref>",
                       "url": "https://www.adaderana.lk/news.php?nid=103342",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -621,15 +621,15 @@
                     {
                       "text": "<ref name=\"NW1-12.11.2024\">{{cite web|url=https://english.newsfirst.lk/2024/11/12/over-20-foreign-election-observers-to-monitor-2024-general-election |title=Over 20 Foreign Election Observers to Monitor 2024 General Election |publisher=News 1st |date=12 November 2024 |accessdate=12 November 2024 |archive-date=12 November 2024 |archive-url=https://web.archive.org/web/20241112040750/https://english.newsfirst.lk/2024/11/12/over-20-foreign-election-observers-to-monitor-2024-general-election |url-status=live}}</ref>",
                       "url": "https://english.newsfirst.lk/2024/11/12/over-20-foreign-election-observers-to-monitor-2024-general-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"DM-12.11.2024\">{{cite web|url=https://www.dailymirror.lk/caption-story/International-observers-meet-media/110-295812 |title=International observers meet media |publisher=Daily Mirror |date=12 November 2024 |accessdate=13 November 2024 |archive-date=13 November 2024 |archive-url=https://web.archive.org/web/20241113030317/https://www.dailymirror.lk/caption-story/International-observers-meet-media/110-295812 |url-status=live}}</ref>",
                       "url": "https://www.dailymirror.lk/caption-story/International-observers-meet-media/110-295812",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -660,7 +660,7 @@
                     {
                       "text": "<ref>{{cite web|url=https://www.newswire.lk/2024/10/11/wrong-person-handing-over-youtuber-ashens-nomination-rejected/ |title=Wrong person handing over : YouTuber Ashen's nomination rejected |publisher=Newswire |date=11 October 2024 |access-date=14 October 2024}}</ref>",
                       "url": "https://www.newswire.lk/2024/10/11/wrong-person-handing-over-youtuber-ashens-nomination-rejected/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -683,8 +683,8 @@
                     {
                       "text": "<ref>{{cite web|url=https://www.dailymirror.lk/breaking-news/Damitha-removed-from-SJBs-Ratnapura-nominations-list/108-293579 |title=Damitha removed from SJB's Ratnapura nominations list |publisher=Daily Mirror |date=11 October 2024 |access-date=14 October 2024}}</ref>",
                       "url": "https://www.dailymirror.lk/breaking-news/Damitha-removed-from-SJBs-Ratnapura-nominations-list/108-293579",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -706,14 +706,14 @@
                     {
                       "text": "<ref name=\"AD-12.10.2024\">{{cite web|url=https://www.adaderana.lk/news.php?nid=102633 |title=Ajith Mannapperuma withdraws from contesting election and quits SJB |publisher=Ada Derana |date=12 October 2024 |access-date=18 October 2024 |archive-date=18 October 2024 |archive-url=https://archive.today/20241018191422/https://www.adaderana.lk/news.php?nid=102633 |url-status=live}}</ref>",
                       "url": "https://www.adaderana.lk/news.php?nid=102633",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"HRN-12.10.2024\">{{cite web|url=https://www.hirunews.lk/english/384699/ajith-mannapperuma-withdraws-from-election-resigns-from-sjb-video |title=Ajith Mannapperuma withdraws from election, resigns from SJB |publisher=Hiru News |date=12 October 2024 |access-date=18 October 2024 |archive-date=18 October 2024 |archive-url=https://archive.today/20241018192207/https://www.hirunews.lk/english/384699/ajith-mannapperuma-withdraws-from-election-resigns-from-sjb-video |url-status=live}}</ref>",
                       "url": "https://www.hirunews.lk/english/384699/ajith-mannapperuma-withdraws-from-election-resigns-from-sjb-video",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -769,14 +769,14 @@
                     {
                       "text": "<ref name=\"NWS-8.10.2024\">{{cite web|url=https://www.newswire.lk/2024/10/08/deadline-to-submit-postal-voting-applications-extended/ |title=Deadline to submit Postal Voting Applications extended |publisher=Newswire |date=8 October 2024 |access-date=11 October 2024 }}</ref>",
                       "url": "https://www.newswire.lk/2024/10/08/deadline-to-submit-postal-voting-applications-extended/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"NWS-10.10.2024\">{{cite web|url=https://www.newswire.lk/2024/10/10/postal-voting-dates-for-2024-general-election-announced/ |title=Postal Voting Dates for 2024 General Election Announced |publisher=Newswire |date=10 October 2024 |access-date=11 October 2024}}</ref>",
                       "url": "https://www.newswire.lk/2024/10/10/postal-voting-dates-for-2024-general-election-announced/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -789,15 +789,15 @@
                     {
                       "text": "<ref name=\"FT-30.10.2024\">{{cite web|url=https://www.ft.lk/front-page/Postal-voting-to-commence-today/44-768570 |title=Postal voting to commence today |publisher=Daily FT |date=30 October 2024 |access-date=30 October 2024 |archive-date=30 October 2024 |archive-url=https://archive.today/20241030144922/https://www.ft.lk/front-page/Postal-voting-to-commence-today/44-768570 |url-status=live}}</ref>",
                       "url": "https://www.ft.lk/front-page/Postal-voting-to-commence-today/44-768570",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"AD-08.11.2024\">{{cite web|url=https://www.adaderana.lk/news/103251/postal-voting-for-2024-general-election-ends-today |title=Postal voting for 2024 General Election ends today |publisher=Ada Derana |date=8 November 2024 |accessdate=8 November 2024 |archive-date=8 November 2024 |archive-url=https://web.archive.org/web/20241108131755/https://www.adaderana.lk/news/103251/postal-voting-for-2024-general-election-ends-today |url-status=live}}</ref>",
                       "url": "https://www.adaderana.lk/news/103251/postal-voting-for-2024-general-election-ends-today",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -819,7 +819,7 @@
                     {
                       "text": "<ref name=\"ED-13&14.11.2024\">* For pre-election preparation: {{cite web|url=https://english.newsfirst.lk/2024/11/13/transportation-of-ballot-boxes-to-begin-today |title=Transportation of Ballot Boxes to Begin Today |publisher=News 1st |date=13 November 2024 |accessdate=14 November 2024 |archive-date=14 November 2024 |archive-url=https://archive.today/20241114033342/https://english.newsfirst.lk/2024/11/13/transportation-of-ballot-boxes-to-begin-today |url-status=live}}\n* For the commencement of polling: {{cite web|url=https://www.dailymirror.lk/top-story/Who-are-our-lawmakers-for-next-five-years-People-will-decide-today/155-295923 |title=Who are our lawmakers for next five years? People will decide today |publisher=Daily Mirror |last=Aliasger |first=Huzefa |date=14 November 2024 |accessdate=14 November 2024 |archive-date=14 November 2024 |archive-url=https://archive.today/20241114033320/https://www.dailymirror.lk/top-story/Who-are-our-lawmakers-for-next-five-years-People-will-decide-today/155-295923 |url-status=live}}\n* For the conclusion of polling: {{cite web|url=https://www.dailymirror.lk/breaking-news/Polling-closes-for-general-elections-counting-to-begin/108-295961 |title=Polling closes for general elections; counting to begin |publisher=Daily Mirror |last=Fernandopulle |first=Sheain |date=14 November 2024 |accessdate=14 November 2024 |archive-date=14 November 2024 |archive-url=https://archive.today/20241114120320/https://www.dailymirror.lk/breaking-news/Polling-closes-for-general-elections-counting-to-begin/108-295961 |url-status=live}}</ref>",
                       "url": "https://english.newsfirst.lk/2024/11/13/transportation-of-ballot-boxes-to-begin-today",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -844,21 +844,21 @@
                 {
                   "text": "<ref name=\"NYT-15Nov-SLL\">{{cite web|url=https://www.nytimes.com/2024/11/15/world/asia/sri-lanka-election.html |title=Sri Lankan Leader's Leftist Coalition Wins Elections |work=The New York Times |last=Warawita |first=Pamodi |date=15 November 2024 |accessdate=20 November 2024 |archive-date=20 November 2024 |archive-url=https://web.archive.org/web/20241120012921/https://www.nytimes.com/2024/11/15/world/asia/sri-lanka-election.html |url-status=}}</ref>",
                   "url": "https://www.nytimes.com/2024/11/15/world/asia/sri-lanka-election.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"APN-15Nov-PSL\">{{cite web|url=https://apnews.com/article/sri-lanka-election-dissanayake-parliament-a57fb69161d49ebeac77d73568599a4e |title=Party of Sri Lanka's new Marxist-leaning president wins two-thirds majority in parliament |publisher=AP News |last1=Francis |first1=Krishan |last2=Mallawarachi |first2=Bharatha |date=15 November 2024 |accessdate=20 November 2024 |archive-date=18 November 2024 |archive-url=https://web.archive.org/web/20241118132734/https://apnews.com/article/sri-lanka-election-dissanayake-parliament-a57fb69161d49ebeac77d73568599a4e |url-status=live}}</ref>",
                   "url": "https://apnews.com/article/sri-lanka-election-dissanayake-parliament-a57fb69161d49ebeac77d73568599a4e",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"TH-16Nov-ARV\">{{cite web|url=https://www.thehindu.com/opinion/editorial/a-resounding-victory-on-the-sri-lankan-election-result/article68872482.ece |title=A resounding victory: On the Sri Lankan election result |work=The Hindu |date=16 November 2024 |accessdate=20 November 2024 |archive-date=16 November 2024 |archive-url=https://web.archive.org/web/20241116195100/https://www.thehindu.com/opinion/editorial/a-resounding-victory-on-the-sri-lankan-election-result/article68872482.ece |url-status=live}}</ref>",
                   "url": "https://www.thehindu.com/opinion/editorial/a-resounding-victory-on-the-sri-lankan-election-result/article68872482.ece",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -871,7 +871,7 @@
                 {
                   "text": "<ref name=\"NYT-15Nov-SLL\" /><ref name=\"AJ-16Nov-NAC\">{{cite web|url=https://www.aljazeera.com/news/2024/11/16/need-a-change-sri-lankas-leftist-win-sparks-hopes-bridges-old-divides |title='Need a change': Sri Lanka's leftist win sparks hopes, bridges old divides |publisher=Al Jazeera |last=Wipulasena |first=Aanya |date=16 November 2024 |accessdate=20 November 2024 |archive-date=19 November 2024 |archive-url=https://web.archive.org/web/20241119084933/https://www.aljazeera.com/news/2024/11/16/need-a-change-sri-lankas-leftist-win-sparks-hopes-bridges-old-divides |url-status=live}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/11/16/need-a-change-sri-lankas-leftist-win-sparks-hopes-bridges-old-divides",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -892,7 +892,7 @@
                     {
                       "text": "<ref name=\"EC-15Nov-PER2024\">* For a comprehensive list of election results: {{cite web|url=https://elections.gov.lk/Pages/2024/PE_2024_Results.html |title=Parliamentary Election 2024 Results |publisher=Election Commission of Sri Lanka |date=15 November 2024 |accessdate=20 November 2024 |archive-date=20 November 2024 |archive-url=https://web.archive.org/web/20241120022043/https://elections.gov.lk/Pages/2024/PE_2024_Results.html |url-status=live}}\n* For the all-island final result: {{cite web|url=https://elections.gov.lk/web/wp-content/uploads/2024/11/PE2024/All_Island_Result.pdf |title=Parliamentary Election 2024/11/14 – All-island Result |publisher=Election Commission of Sri Lanka |date=15 November 2024 |accessdate=20 November 2024 |archive-date=20 November 2024 |archive-url=https://web.archive.org/web/20241120022833/https://elections.gov.lk/web/wp-content/uploads/2024/11/PE2024/All_Island_Result.pdf |url-status=live}}</ref>",
                       "url": "https://elections.gov.lk/Pages/2024/PE_2024_Results.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -928,7 +928,7 @@
                         {
                           "text": "<ref name=\"Newswire - 16 November 2024\">{{cite web |title=2024 Parliament Election results : Sri Lanka's NPP confirms 2/3rds majority (LIVE) |url=https://www.newswire.lk/2024/11/14/sri-lanka-parliamentary-election-2024-results/ |website=Newswire |access-date=16 November 2024 |date=14 November 2024}}</ref>",
                           "url": "https://www.newswire.lk/2024/11/14/sri-lanka-parliamentary-election-2024-results/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -955,14 +955,14 @@
                 {
                   "text": "<ref>{{Cite web |title=Landslide win for new Sri Lankan president's left-leaning coalition |url=https://www.bbc.com/news/articles/crr9n2w0lyzo|date=15 November 2024 |access-date=15 November 2024 |website=BBC|first1=Anbarasan|last1=Ethirajan|first2=Swaminathan|last2=Natarajan|first3=Ishara|last3=Danasekara}}</ref>",
                   "url": "https://www.bbc.com/news/articles/crr9n2w0lyzo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |last1=Wipulasena |first1=Aanya |title='Need a change': Sri Lanka's leftist win sparks hopes, bridges old divides |url=https://www.aljazeera.com/news/2024/11/16/need-a-change-sri-lankas-leftist-win-sparks-hopes-bridges-old-divides |website=Al Jazeera |access-date=16 November 2024}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/11/16/need-a-change-sri-lankas-leftist-win-sparks-hopes-bridges-old-divides",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

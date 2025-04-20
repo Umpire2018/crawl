@@ -1,0 +1,466 @@
+{
+  "title": "2023_Kuwaiti_general_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "Snap general elections were held in Kuwait on 6 June 2023 to elect 50 of the 65 members of the National Assembly (Kuwait)|National Assembly. The elections took place following the annulment of the results of the 2022 Kuwaiti general election|2022 snap elections by the Constitutional Court on 19 March 2023 and the redissolution of the 16th session on 2 May.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Kuwait sets June 6 date for legislative elections, state news agency reports |url=https://www.reuters.com/world/middle-east/kuwait-sets-june-6-date-legislative-elections-kuna-2023-05-03/ |access-date=24 May 2023 |work=Reuters |date=3 May 2023 |language=en}}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/kuwait-sets-june-6-date-legislative-elections-kuna-2023-05-03/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Kuwait court annuls 2022 parliamentary election |url=https://www.dw.com/en/kuwait-court-annuls-2022-parliamentary-election/a-65039649 |access-date=2023-05-24 |website=Deutsche Welle |language=en}}</ref>",
+                  "url": "https://www.dw.com/en/kuwait-court-annuls-2022-parliamentary-election/a-65039649",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "During the 16th legislative session, uncooperative MPs and ministers led to multiple no-confidence votes and several government resignations. Actions such as members sitting in ministers' seats in the parliament, led to ministers not attend sessions, which in turn resulted in a member-organized sit-in in the parliament building. This prompted Crown Prince Mishal Al-Ahmad Al-Jaber Al-Sabah|Mishal Al-Ahmad to dissolve parliament on 2 August 2022.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | url=https://www.alanba.com.kw/ar/kuwait-news/parliament/1039664/28-04-2021-بالفيديو-النواب-يحتلون-مقاعد-الوزراء/ | title=بالفيديو النواب يحتلون مقاعد الوزراء }}</ref>",
+                  "url": "https://www.alanba.com.kw/ar/kuwait-news/parliament/1039664/28-04-2021-بالفيديو-النواب-يحتلون-مقاعد-الوزراء/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | url=https://www.aljazeera.net/politics/2022/6/15/%D8%A7%D8%B9%D8%AA%D8%B5%D8%A7%D9%85-%D8%AB%D9%84%D8%AB-%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A | title=في مقر المجلس يطالبون بحله واتهامات لهم بالتعطيل.. ثلث أعضاء البرلمان الكويتي يبدؤون اعتصاما مفتوحا }}</ref>",
+                  "url": "https://www.aljazeera.net/politics/2022/6/15/%D8%A7%D8%B9%D8%AA%D8%B5%D8%A7%D9%85-%D8%AB%D9%84%D8%AB-%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | url=https://www.thenationalnews.com/gulf-news/2022/08/02/kuwaits-crown-prince-officially-dissolves-parliament-by-decree/?outputType=amp | title=Kuwait's Crown Prince officially dissolves parliament by decree | date=2 August 2022 }}</ref>",
+                  "url": "https://www.thenationalnews.com/gulf-news/2022/08/02/kuwaits-crown-prince-officially-dissolves-parliament-by-decree/?outputType=amp",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "Multiple former MPs and citizens appealed to the Constitutional Court to overturn the dissolution. On 19 March 2023 the court annulled the dissolution, but on 2 May 2023 Al-Ahmad dissolved parliament again.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | url=https://www.kuwaittimes.com/decree-issued-to-dissolve-2020-national-assembly/ | title=Decree issued to dissolve 2020 National Assembly | date=May 2023 }}</ref>",
+                  "url": "https://kuwaittimes.com/decree-issued-to-dissolve-2020-national-assembly/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The 50 elected members of the National Assembly (Kuwait)|National Assembly were elected from five ten-seat constituencies by single non-transferable vote. Political parties are not officially licensed meaning candidates formally run as independents, although many political groups operate freely as de facto political parties. All Kuwaiti citizens above the age of 21 have the right to vote.",
+              "references": [
+                {
+                  "text": "<ref>[http://www.ipu.org/parline-e/reports/2171_B.htm Electoral system] Inter-Parliamentary Union</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Kuwait polls: Opposition makes gains, gov't resignation accepted |url=https://www.aljazeera.com/news/2020/12/6/kuwait-opposition-makes-strong-gains-in-parliamentary-elections |access-date=2023-05-24 |website=Al Jazeera|language=en}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2020/12/6/kuwait-opposition-makes-strong-gains-in-parliamentary-elections",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Constituencies",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "{{main| Constituencies of the National Assembly of Kuwait}}\nSince 2006 Kuwait has been divided into five multi-member constituencies for the election of members to the unicameral National Assembly (Kuwait)|National Assembly.  These five electoral districts represent 112 residential areas distributed among the six governorates of Kuwait. Regardless of the amount of electorates, all constituencies directly elects 10 representatives to the National Assembly via Plurality voting|plurality vote, for a total of 50 elected members out of 65.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web | url=https://www.alqabas.com/article/237118-مجلس-الأمة-أقر-الدوائر-الخمس-ب60-صوتا-مق | title=مجلس الأمة: أقر 'الدوائر الخمس' ب60 صوتا مقابل اثنين }}</ref>",
+                      "url": "https://www.alqabas.com/article/237118-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D8%A9-%D8%A3%D9%82%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%AE%D9%85%D8%B3-%D8%A860-%D8%B5%D9%88%D8%AA%D8%A7-%D9%85%D9%82/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.2.s2",
+                  "text": "{| class=\"wikitable sortable\" id=\"Kuwait\"\n|-\n! Constituency !! Electorate<br />2023!!Seats\n|-\n| Kuwait's First District|First\n| 99,779\n| 10\n|-\n| Kuwait's Second District|Second\n| 90,394\n| 10\n|-\n| Kuwait's Third District|Third\n| 137,978\n| 10\n|-\n| Kuwait's Fourth District|Fourth\n| 208,740 \n| 10\n|-\n| Kuwait's Fifth District|Fifth\n| 256,755\n| 10\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web | url=https://www.aljarida.com/article/26569/amp | title=225952 زيادة في عدد الناخبين | date=3 June 2023 }}</ref>",
+                      "url": "https://www.aljarida.com/article/26569/amp",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Candidates",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "Any Kuwaiti-born citizen who is 30 years of age on election day, who is able to read and write in Arabic and has not been convicted of a felony or a crime involving breach of honor or trust is eligible to run for office. On 22 June 2016 parliament passed a law banning any citizen who had insulted the emir from running, resulting in several major opposition figures including Musallam Al-Barrak and Bader Al-Dahoum becoming ineligible candidates. All registered candidates need to pay a registration fee of fifty Kuwaiti Dinars (about US$163).",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | url=https://alqabas.com/article/355417-قانون-حرمان-المسيء-في-سطور | title=قانون «حرمان المسيء» في سطور }}</ref>",
+                  "url": "https://alqabas.com/article/355417-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D8%B1%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%A1-%D9%81%D9%8A-%D8%B3%D8%B7%D9%88%D8%B1/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "Registration of candidates took place between 5 and 14 May 2023. A total 252 candidates registered to contest the elections. However, the final ballots consisted of 207 candidates after 40 withdrawals and five candidates being excluded, the lowest number of candidates since the 1975 Kuwaiti general election|1975 general elections.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | url=https://www.kuwaittimes.com/252-candidates-file-nominations-to-contest-polls/ | title=252 candidates file nominations to contest polls | date=14 May 2023 }}</ref>",
+                  "url": "https://kuwaittimes.com/252-candidates-file-nominations-to-contest-polls/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | url=https://www.kuna.net.kw/ArticleDetails.aspx?id=3097318&language=ar | title=كونا : 207 صافي عدد المرشحين والمرشحات بعد إغلاق باب التنازل لانتخابات (أمة 2023) - عام - 30/05/2023 }}</ref>",
+                  "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3097318&language=ar",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Female Candidates",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "Fifteen women registered to run in the 2023 election, lowest since the 2016 Kuwaiti general election|2016 election. The two females elected in the annulled 2022 session, Aliya Al-Khaled and Jenan Boushehri, re-ran. Four female candidates ran in the Kuwait's Second Constituency|Second and Kuwait's Fourth Constituency|Fourth constituencies, three ran in the Kuwait's First Constituency|First and Kuwait's Third Constituency|Third, and only one ran in the most populous constituency, the Kuwait's Fifth Constituency|Fifth.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web | url=https://www.aljarida.com/article/24367/amp | title=249 مرشحاً في سباق أمة 2023 | date=14 May 2023 }}</ref>",
+                      "url": "https://www.aljarida.com/article/24367/amp",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Campaign",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "Pro-Sabah Al-Khalid Al-Sabah|Sabah Al-Khalid former MPs, like Obaid Al Wasmi|Obaid Al-Wasmi, alleged that the 2022 Kuwaiti general election|2022 election were rigged. They demanded that the government to investigate the large number votes gained by opposition members like Khaled Al-Otaibi, Ahmed Al-Sadoun and Saud Al-Asfoor. Even though no evidence was brought up, it was their explanation for the massive turnover of opposition members in that election.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=http://www.alwasat.com.kw/ArticleDetail.aspx?id=145011|title=الوسمي: انتخابات 2022 مزورة|website=www.alwasat.com.kw}}</ref>",
+                  "url": "https://www.alwasat.com.kw/ArticleDetail.aspx?id=145011",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://alziadiq8.com/451656.html|title=فيديو: د. عبيد الوسمي: سؤال لكل من الأخ أحمد السعدون و سعود العصفور و خالد المونس.. أرقامكم بالتصويت صحيحة ؟ , كل الكويت تعلم أن المسألة لا يمكن أن تكون رقمياً صحيحة|date=March 22, 2023}}</ref>",
+                  "url": "https://alziadiq8.com/451656.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s2",
+              "text": "Opposition members allegedly stated that the annulment of the 2022 election was unconstitutional. Mohammed Al-Mutair appealed to the constitutional court to overturn its decision. They also dismissed allegations that the 2022 election was rigged. Opposition members urged their supporters to not boycott the current election. On 1 May four major opposition members Abdulkarim Al-Kanderi, Muhannad Al-Sayer, Muhalhal Al-Mudhaf and Abdullah Al-Mudhaf decided to run in the election without a campaign headquarter where they could organize daily rallies.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://www.aljarida.com/article/23808|title=طعن ببطلان حكم «الدستورية» بإبطال مجلس 2022|date=May 9, 2023|website=طعن ببطلان حكم «الدستورية» بإبطال مجلس 2022}}</ref>",
+                  "url": "https://www.aljarida.com/article/23808",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://nabd.com/s/117475355-ae40a7/سعود-العصفور-رداً-على-د.-عبيد-الوسمي-رقمي-صحيح-10-آلاف-صوت-وأرقام-المحكمة-الدستورية-تطابقت-مع-المناديب-و-من-لديه-مشكلة-في-رقمه-ولا-يستطيع-التبرير-لقواعده-يراجع-مواقفه-السياسية-ولا-يُشكك-و-انتخابات|title=صحيفة الحقيقة الإلكترونية &#124; سعود العصفور رداً على د. عبيد الوسمي : رقمي صحيح 10 آلاف صوت وأرقام المحكمة الدستورية تطابقت مع المناديب و من لديه مشكلة في رقمه ولا يستطيع التبرير لقواعده يراجع مواقفه السياسية ولا يُشكك و انتخابات 2022 الأكثر نزاهة في تاريخ البرلمان الكويتي|website=موقع نبض}}</ref>",
+                  "url": "https://nabd.com/s/117475355-ae40a7/سعود-العصفور-رداً-على-د.-عبيد-الوسمي-رقمي-صحيح-10-آلاف-صوت-وأرقام-المحكمة-الدستورية-تطابقت-مع-المناديب-و-من-لديه-مشكلة-في-رقمه-ولا-يستطيع-التبرير-لقواعده-يراجع-مواقفه-السياسية-ولا-يُشكك-و-انتخابات",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.alqabas.com/article/5911792-بوادر-عزوف-عن-المقرات-الانتخابية-في-أمة-2023|title=بوادر عزوف عن المقرات الانتخابية في أمة 2023|date=2 May 2023|website=www.alqabas.com}}</ref>",
+                  "url": "https://www.alqabas.com/article/5911792-%D8%A8%D9%88%D8%A7%D8%AF%D8%B1-%D8%B9%D8%B2%D9%88%D9%81-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A3%D9%85%D8%A9-2023/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s3",
+              "text": "In terms of political groups, Islamic Constitutional Movement|Hadas announced that Osama Al-Shaheen, Abdulaziz Al-Saqabi and Hamad Almatar|Hamad Al-Matar were officially representing them in the election. While National Islamic Alliance (Taalof) announced that they had three representatives in the election, Ahmed Lari, Hani Shams and Abdullah Mustafa. Popular Action Bloc leader Musallam Al-Barrak officially supported Bassel Al-Bahrani, Mutib Al-Rathaan and Mohammed Al-Dossari.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://www.alanba.com.kw/1181322|title=حدس تزكي أسامة الشاهين مرشحا عن الدائرة الأولى وحمد المطر عن الثانية وعبد العزيز الصقعبي عن الثالثة|website=www.alanba.com.kw}}</ref>",
+                  "url": "https://www.alanba.com.kw/1181322",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.alanba.com.kw/1181114|title=التآلف الإسلامي يختار مرشحيه لخوض انتخابات 2023 أحمد لاري عن الأولى وعبدالله غضنفر عن الثالثة وهاني شمس عن الخامسة والرابعة قيد الدراسة|website=www.alanba.com.kw}}</ref>",
+                  "url": "https://www.alanba.com.kw/1181114",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Conduct",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "Voting took place within 759 committees in 118 schools chosen by the Ministry of Education scattered around the nation. Multiple Kuwaiti NGOs, like the Kuwaiti Journalists Society and the Kuwaiti Transparency Society, observed the 2023 election.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://www.aljarida.com/article/26439|title=«العدل»: 759 لجنة لانتخابات مجلس الأمة 2023|date=1 June 2023|website=«العدل»: 759 لجنة لانتخابات مجلس الأمة 2023}}</ref>",
+                  "url": "https://www.aljarida.com/article/26439",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.kuwaittimes.com/kuwait-ngos-to-watchdog-next-parliamentary-vote/|title=Kuwait NGOs to watchdog next parliamentary vote|date=1 June 2023}}</ref>",
+                  "url": "https://kuwaittimes.com/kuwait-ngos-to-watchdog-next-parliamentary-vote/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Combating Vote Buying",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.2.s1",
+                  "text": "Ministry of Interior (Kuwait)|Ministry of Interior announced that they opened a hotline regarding complaints of voter fraud or any vote-buying. On 28 May the Ministry announced that they arrested a network of brokers that helped two candidates to buy votes in the 2023 election. The network involved ten brokers led by a Pakistani immigrant. The brokers bought 600 votes in the Fifth constituency. On 4 June, two days before the election, authorities arrested four candidates and eight voters that sold their votes.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web|url=https://www.aljarida.com/article/23847|title=«الداخلية»: خط ساخن للإبلاغ عن شراء الأصوات|first=محمد|last=الشرهان|date=10 May 2023|website=«الداخلية»: خط ساخن للإبلاغ عن شراء الأصوات}}</ref>",
+                      "url": "https://www.aljarida.com/article/23847",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url=https://www.alhurra.com/kuwait/2023/05/28/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%B6%D8%A8%D8%B7-%D8%B4%D8%A8%D9%83%D8%A9-%D9%84%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A3%D8%B5%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%AE%D8%A8%D9%8A%D9%86-%D9%88%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D9%81%D8%AA%D8%A7%D8%AD%D8%A7-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A%D8%A7|title=الكويت تضبط شبكة لشراء أصوات الناخبين وتكشف \"مفتاحا باكستانيا\" &#124; الحرة|website=www.alhurra.com}}</ref>",
+                      "url": "https://www.alhurra.com/kuwait/2023/05/28/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%B6%D8%A8%D8%B7-%D8%B4%D8%A8%D9%83%D8%A9-%D9%84%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A3%D8%B5%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D8%A7%D8%AE%D8%A8%D9%8A%D9%86-%D9%88%D8%AA%D9%83%D8%B4%D9%81-%D9%85%D9%81%D8%AA%D8%A7%D8%AD%D8%A7-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A%D8%A7",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web | url=https://www.alqabas.com/article/5913639-تأكيدا-لما-نشرته-القبس-النيابة-تأمر-بحبس-المفتاح-الباكستاني-و9-مواطنين-في-قضية-شراء-الأصوات | title=تأكيداً لما نشرته «القبس».. النيابة تأمر بحجز «المفتاح الباكستاني» و10 مواطنين في قضية شراء الأصوات }}</ref>",
+                      "url": "https://www.alqabas.com/article/5913639-%D8%AA%D8%A3%D9%83%D9%8A%D8%AF%D8%A7-%D9%84%D9%85%D8%A7-%D9%86%D8%B4%D8%B1%D8%AA%D9%87-%D8%A7%D9%84%D9%82%D8%A8%D8%B3-%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9-%D8%AA%D8%A3%D9%85%D8%B1-%D8%A8%D8%AD%D8%A8%D8%B3-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86%D9%8A-%D9%889-%D9%85%D9%88%D8%A7%D8%B7%D9%86%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B6%D9%8A%D8%A9-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D8%A7%D8%AA/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web | url=https://www.alqabas.com/article/5914164-صدور-أمر-ضبط-وإحضار-بحق-4-مرشحين-في-قضية-شراء-الأصوات | title=صدور أمر ضبط وإحضار بحق 4 مرشحين في قضية شراء الأصوات }}</ref>",
+                      "url": "https://www.alqabas.com/article/5914164-%D8%B5%D8%AF%D9%88%D8%B1-%D8%A3%D9%85%D8%B1-%D8%B6%D8%A8%D8%B7-%D9%88%D8%A5%D8%AD%D8%B6%D8%A7%D8%B1-%D8%A8%D8%AD%D9%82-4-%D9%85%D8%B1%D8%B4%D8%AD%D9%8A%D9%86-%D9%81%D9%8A-%D9%82%D8%B6%D9%8A%D8%A9-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D8%B5%D9%88%D8%A7%D8%AA/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Results",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "The trend of reducing turnout continued, with the turnout of 59% being four points lower than the previous elections. Opposition reformist lawmakers not tied to the House of Sabah|ruling family won a majority of seats. Only one woman, Jenan Boushehri, was elected. Seven Shia Islam|Shias were elected compared to nine in 2022. Shiite alliance Taalof kept their 2 seats, while the Shirazi group Justice and Peace Alliance lost all of their seats.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2023-06-07 |title=Kuwait's election brings little change to parliament or hope of overcoming years of gridlock |url=https://apnews.com/article/kuwait-politics-election-results-b27416f83fab18c638dcf0e5f382d8f6 |access-date=2023-06-08 |website=AP NEWS |language=en}}</ref>",
+                  "url": "https://apnews.com/article/kuwait-politics-election-results-b27416f83fab18c638dcf0e5f382d8f6",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s2",
+              "text": "38 members retained their seats from the annulled 2022 session, while two, Marzouq Al-Ghanim and Fayez Al-Jamhour, returned from the dissolved 2020 session. Leading to a rate of change of seats of only 24%. Ten new MPs were elected for the first time. The majority of former members allied with Sabah Al-Khalid Al-Sabah|Sabah Al-Khalid and Marzouq Al-Ghanim including Obaid Al-Wasmi, Hamad Al-Harshani, and Sadoon Al-Otaibi lost the election.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | url=https://www.aljazeera.net/amp/politics/2023/6/7/فوز-10-أعضاء-جدد-ومقعد-واحد-للمرأة-مجلس | title=10 أعضاء جدد ومقعد واحد للمرأة في مجلس الأمة الجديد بالكويت.. دلالات وتساؤلات }}</ref>",
+                  "url": "https://www.aljazeera.net/amp/politics/2023/6/7/%D9%81%D9%88%D8%B2-10-%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1-%D8%AC%D8%AF%D8%AF-%D9%88%D9%85%D9%82%D8%B9%D8%AF-%D9%88%D8%A7%D8%AD%D8%AF-%D9%84%D9%84%D9%85%D8%B1%D8%A3%D8%A9-%D9%85%D8%AC%D9%84%D8%B3",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.2",
+          "title": "Elected members",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "8.s1",
+              "text": "The first session of the new National Assembly was scheduled for 20 June. Ahmed Al-Sadoun was elected List of speakers of Kuwait National Assembly|speaker unopposed, while Mohammed Al-Mutair was elected deputy speaker after getting 32 votes compared to Marzouq Al-Hubaini Al-Azmi|Marzouq Al-Hubaini's 14. On 26 July, the Constitutional Court rejected all appeals regarding the electoral process and results of the 2023 election.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last= |date=2023-06-07 |title=Kuwait votes in opposition-led parliament, one woman elected |url=https://www.france24.com/en/live-news/20230607-kuwait-votes-in-opposition-led-parliament-one-woman-elected |access-date=2023-06-08 |website= |publisher=Agence France-Presse |language=en |via=France 24}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20230607-kuwait-votes-in-opposition-led-parliament-one-woman-elected",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | url=https://www.kuna.net.kw/ArticleDetails.aspx?id=3100682&language=en | title=KUNA : Al-Saadoun elected as National Assembly Speaker - Parliamentary - 20/06/2023 }}</ref>",
+                  "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3100682&language=en",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | url=https://www.kuna.net.kw/ArticleDetails.aspx?id=3100701&Language=en | title=KUNA : Kuwait Parliament elects MP Al-Mutair as Deputy Speaker - Parliamentary - 20/06/2023 }}</ref>",
+                  "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3100701&Language=en",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | url=https://www.kuna.net.kw/ArticleDetails.aspx?id=3104329 | title=كونا : المحكمة الدستورية ترفض جميع الطعون على انتخابات (أمة 2023) - عام - 26/07/2023 }}</ref>",
+                  "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3104329",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

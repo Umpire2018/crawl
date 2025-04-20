@@ -1,0 +1,179 @@
+{
+  "title": "2023_Boeing_P-8_Poseidon_runway_overrun",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "On November 20, 2023, a Boeing P-8 Poseidon|Boeing P-8A Poseidon operated by the United States Navy Runway excursion|overran the runway and Water landing|ditched into the Kāneʻohe Bay. All nine crew members evacuated the aircraft and swam to shore, uninjured. The aircraft damage is substantial and its airworthiness is still being evaluated to determine if it can be restored to operational condition.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Noëth |first=Bart |date=2023-11-21 |title=U.S. Navy Boeing P-8A Poseidon overruns runway and ditches into Kaneohe Bay, Hawaii |url=https://www.aviation24.be/military-aircraft/u-s-navy/boeing-p-8a-poseidon-overruns-runway-ditches-into-kaneohe-bay-hawaii/ |access-date=2024-07-03 |website=Aviation24.be |language=en-GB}}</ref>",
+                  "url": "https://www.aviation24.be/military-aircraft/u-s-navy/boeing-p-8a-poseidon-overruns-runway-ditches-into-kaneohe-bay-hawaii/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":0\">{{Cite web |title=Accident Boeing P-8A Poseidon 169561, Monday 20 November 2023 |url=https://asn.flightsafety.org/wikibase/348182 |access-date=2024-07-03 |website=asn.flightsafety.org}}</ref>",
+                  "url": "https://asn.flightsafety.org/wikibase/348182",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Fuentes |first=Gidget |date=2023-11-21 |title=UPDATED: Navy P-8A Poseidon Overshoots Hawaiian Runway Splashes in Kaneohe Bay |url=https://news.usni.org/2023/11/20/navy-p-8a-poseidon-overshoots-hawaiian-runway-splashes-in-kaneohe-bay-crew-safe |access-date=2024-07-03 |website=USNI News |language=en-US}}</ref>",
+                  "url": "https://news.usni.org/2023/11/20/navy-p-8a-poseidon-overshoots-hawaiian-runway-splashes-in-kaneohe-bay-crew-safe",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":1\">{{Cite web |last=Niles |first=Russ |date=2023-11-21 |title=P-8 Overrun Ends In Ocean Off Oahu (Updated) |url=https://www.avweb.com/aviation-news/p-8-overrun-ends-in-ocean-on-oahu/ |access-date=2024-07-04 |website=AVweb |language=en-US}}</ref>",
+                  "url": "https://www.avweb.com/aviation-news/p-8-overrun-ends-in-ocean-on-oahu/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Aircraft",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The aircraft involved was a Boeing P-8A Poseidon, Aircraft registration|registered as 169561 with serial number 66094. It was manufactured by Boeing Commercial Airplanes in 2020 and was powered by two CFM International CFM56|CFM International CFM56-7B27E engines.",
+              "references": [
+                {
+                  "text": "<ref name=\":0\" /><ref>{{Cite web |last=Brady |first=Chris |title=169561 US Navy 737 P-8 Runway Overun |url=http://www.b737.org.uk/incident_169561.htm#google_vignette |access-date=2024-07-03 |website=The Boeing 737 Technical Site}}</ref>",
+                  "url": "http://www.b737.org.uk/incident_169561.htm",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Accident",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The military aircraft touched down on runway 22 with a Headwind and tailwind|tailwind of 21 knots. The weather conditions were rainy and cloudy with the visibility down to one mile. The accident is currently under investigation.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=All 9 aboard U.S. Navy plane that overshot runway escape injury |url=https://www.npr.org/2023/11/20/1214320644/navy-plane-hawaii-bay-overshoots-runway#:~:text=HONOLULU%20%E2%80%94%20A%20U.S.%20Navy%20plane,injuries%2C%20spokesperson%20Shayne%20Enright%20said. |access-date=3 July 2024}}</ref>",
+                  "url": "https://www.npr.org/2023/11/20/1214320644/navy-plane-hawaii-bay-overshoots-runway",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-11-21 |title=Navy spy plane with 9 on board overshoots Marine base runway in Hawaii, ends up in bay: \"It was unbelievable\" - CBS News |url=https://www.cbsnews.com/news/navy-plane-overshoots-runway-marine-corps-base-hawaii-ends-up-kaneohe-bay/ |access-date=2024-07-04 |website=www.cbsnews.com |language=en-US}}</ref>",
+                  "url": "https://www.cbsnews.com/news/navy-plane-overshoots-runway-marine-corps-base-hawaii-ends-up-kaneohe-bay/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":1\" /> It then overshot the runway and ditched into the Kāneʻohe Bay at approximately 13:57 Hawaii–Aleutian Time Zone|Hawaii–Aleutian Time. After going past the runway, the aircraft traveled a short distance in the water and turned to the left before coming to a halt.<ref name=\":2\">{{Cite web |last= |first= |date=2023-11-20 |title=Navy P-8A Poseidon Runs Off Runway Into The Water In Hawaii (Updated) |url=https://www.twz.com/navy-p-8a-poseidon-runs-off-runway-into-the-water-in-hawaii |access-date=2024-07-03 |website=The War Zone |language=en-US}}</ref>",
+                  "url": "https://www.twz.com/navy-p-8a-poseidon-runs-off-runway-into-the-water-in-hawaii",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Trevithick |first=Joseph |date=2023-12-04 |title=How The Navy Got Its P-8A Poseidon Out Of The Water In Hawaii |url=https://www.twz.com/how-the-navy-got-its-p-8a-poseidon-out-of-the-water-in-hawaii |access-date=2024-07-03 |website=The War Zone |language=en-US}}</ref>",
+                  "url": "https://www.twz.com/how-the-navy-got-its-p-8a-poseidon-out-of-the-water-in-hawaii",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Aftermath",
+      "content": [
+        {
+          "id": "4.1",
+          "title": "Before recovery",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.1.s1",
+                  "text": "Before recovery, Boom (containment)|oil containment booms, which control the spread of oil, had been set up around the Poseidon.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":2\" /> The team also removed nearly all the fuel in the Fuel tank|fuel tanks.<ref name=\":3\">{{Cite web |last=Fuentes |first=Gidget |date=2023-12-04 |title=Navy, Marine Team Recover P-8A from Hawaiian Bay |url=https://news.usni.org/2023/12/04/navy-marine-team-recover-p-8a-from-hawaiian-bay |access-date=2024-07-04 |website=USNI News |language=en-US}}</ref>",
+                      "url": "https://news.usni.org/2023/12/04/navy-marine-team-recover-p-8a-from-hawaiian-bay",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Simonson |first=Amy |date=2023-11-29 |title=US Navy removes fuel from jet that overshot runway into water off Hawaii {{!}} CNN Politics |url=https://www.cnn.com/2023/11/28/politics/navy-fuel-plane-overshot-runway-hawaii/index.html |access-date=2024-07-04 |website=CNN |language=en}}</ref>",
+                      "url": "https://edition.cnn.com/2023/11/28/politics/navy-fuel-plane-overshot-runway-hawaii/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "After recovery",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

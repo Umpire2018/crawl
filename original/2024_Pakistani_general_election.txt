@@ -8,25 +8,25 @@
 | election_date = 8 February 2024
 | next_election = Next Pakistani general election
 | next_year = ''Next''
-| seats_for_election = All 336 seats in the [[National Assembly of Pakistan|National Assembly]]{{Efn|name=seats|60 seats are reserved for women and 10 for non-Muslims, which are allocated proportionally based on the number of seats held by each party in the National Assembly after the elections.}}
+| seats_for_election = All 336 seats in the [[National Assembly of Pakistan]]{{Efn|name=seats|60 seats are reserved for women and 10 for non-Muslims, which are allocated proportionally based on the number of seats held by each party in the National Assembly after the elections.}}
 | majority_seats = 169
 | turnout = 47.8%<ref>{{cite web|url=https://www.nation.com.pk/10-Feb-2024/voters-turnout-remain-48-percent-in-election-fafen-report|website=The Express Tribune|date=10 February 2024|access-date=10 February 2024|title=Voters' turnout remain 48 percent in election: FAFEN report|archive-date=10 February 2024|archive-url=https://web.archive.org/web/20240210135127/https://www.nation.com.pk/10-Feb-2024/voters-turnout-remain-48-percent-in-election-fafen-report|url-status=live}}</ref> ({{decrease}}3.9[[Percentage point|pp]])
 | opinion_polls = Opinion polling for the 2024 Pakistani general election
 | registered = 128,585,760
 | image_size = 130x130px
 | image1 = Nawaz Sharif in Iran 2016 (cropped).jpg
-| leader1 = [[Nawaz Sharif]]{{Efn|Nawaz Sharif led the PML-N election campaign and would have become [[Prime Minister of Pakistan|Prime Minister]] in the case that they won a majority of seats, with '''[[Shehbaz Sharif]]''' the candidate otherwise.}}
+| leader1 = [[Nawaz Sharif]]{{Efn|Nawaz Sharif led the PML-N election campaign and would have become [[Prime Minister of Pakistan]] in the case that they won a majority of seats, with '''[[Shehbaz Sharif]]''' the candidate otherwise.}}
 | party1 = Pakistan Muslim League (N)
-| seats1 = '''100'''
+| seats1 = '''98'''
 | seat_change1 = {{increase}}16
 | last_election1 = 24.35%, 82 seats
 | popular_vote1 = 13,999,656<ref>{{cite web|url=https://www.galluppakistandigitalanalytics.com/general-elections-2024-pakistan-dashboard/|website=Gallup Pakistan Digital Analytics|access-date=6 April 2024|title=General Elections 2024 Pakistan Dashboard}}</ref>
 | percentage1 = 23.64%
 | swing1 = {{decrease}}0.71[[Percentage point|pp]]
 | image2 = Omar Ayub Khan during Press Conference (cropped).png
-| leader2 = [[Omar Ayub]]{{Efn|Served as candidate for [[Prime Minister of Pakistan|Prime Minister]] appointed by [[Imran Khan]].<ref>{{Cite web |last=Sengupta |first=Ramananda |date=2024-02-15 |title=Imran Khan Nominates Omar Ayub As PM Candidate |url=https://stratnewsglobal.com/world-news/imran-khan-nominates-omar-ayub-as-pm-candidate/ |access-date=2024-10-18 |website=StratNews Global |language=en-US}}</ref>}} <!--DO NOT REMOVE - REPRESENTS IMPORTANT CONTEXT.-->
+| leader2 = [[Omar Ayub]]{{Efn|Served as candidate for [[Prime Minister of Pakistan]] appointed by [[Imran Khan]].<ref>{{Cite web |last=Sengupta |first=Ramananda |date=2024-02-15 |title=Imran Khan Nominates Omar Ayub As PM Candidate |url=https://stratnewsglobal.com/world-news/imran-khan-nominates-omar-ayub-as-pm-candidate/ |access-date=2024-10-18 |website=StratNews Global |language=en-US}}</ref>}} <!--DO NOT REMOVE - REPRESENTS IMPORTANT CONTEXT.-->
 | colour2 = {{party color|Pakistan Tehreek-e-Insaf}}
-| party2 = [[Independent politician|IND]]<br />(backed by [[Pakistan Tehreek-e-Insaf|PTI]]){{efn|name=PTI Status}}{{efn|name=PTI Status 2}}
+| party2 = [[Pakistan Tehreek-e-Insaf|PTI]]
 | seats2 = 93{{efn|The [[Supreme Court of Pakistan]] officially recognised 39 of these seats as won by PTI ticket holders, with the rest recognised as independent of any party affiliation.}}
 | seat_change2 = {{decrease}}56
 | last_election2 = 31.82%, 149 seats
@@ -325,9 +325,9 @@ The table below lists each party that either received a share of the vote higher
 |[[File:Majlis_Wahdat-e-Muslimeen_Pakistan_-_Flag.PNG|100px]]
 |[[Islamic Socialism]]<br />[[Shia-Sunni relations|Shia-Sunni Unity]]<br />[[Islamic Democracy]] 
 |[[Allama Raja Nasir Abbas]]
-|1.54%
+|0%
 |{{Composition bar|0|272|{{party color|Majlis Wahdat-e-Muslimeen}}}}
-|{{Composition bar|1|342|{{party color|Majlis Wahdat-e-Muslimeen}}}}
+|{{Composition bar|0|342|{{party color|Majlis Wahdat-e-Muslimeen}}}}
 |-
 | style="background:{{party color|Pakistan Muslim League (Q)}};"|
 |'''PML(Q)'''
@@ -594,7 +594,7 @@ The election was postponed in the [[NA-8 Bajaur]] constituency in Khyber Pakhtun
 |seattype3=Minority
 |seattype4=Total
 
-|party1=[[Pakistan Tehreek-e-Insaf]]
+|party1=[[Pakistan Tehreek-e-Insaf|PTI]]
 |votes1=18457567
 |st1t1=93
 |st2t1=0
@@ -602,42 +602,42 @@ The election was postponed in the [[NA-8 Bajaur]] constituency in Khyber Pakhtun
 |st4t1=93
 |color1={{party colour|Pakistan Tehreek-e-Insaf}}
 
-|party2=[[Pakistan Muslim League (N)]]
+|party2=[[Pakistan Muslim League (N)|PMLN]]
 |votes2=13999656
-|st1t2=75<!--This is the number elected on the party ticket. Do not add independents that join the party afterwards-->
+|st1t2=76
 |st2t2=19
 |st3t2=4
 |st4t2=98
 
-|party3=[[Pakistan People's Party]]
+|party3=[[Pakistan People's Party|PPP]]
 |votes3=8244944
 |st1t3=54
 |st2t3=12
 |st3t3=2
 |st4t3=68
 
-|party4=[[Tehreek-e-Labbaik Pakistan]]
+|party4=[[Tehreek-e-Labbaik Pakistan|TLP]]
 |votes4=2888619
 |st1t4=0
 |st2t4=0
 |st3t4=0
 |st4t4=0
 
-|party5=[[Jamiat Ulema-e-Islam (F)]]
+|party5=[[Jamiat Ulema-e-Islam (F)|JUI (F)]]
 |votes5=2163160
 |st1t5=6
 |st2t5=2
 |st3t5=0
 |st4t5=8
 
-|party6=[[Jamaat-e-Islami Pakistan]]
+|party6=[[Jamaat-e-Islami Pakistan|JI]]
 |votes6=1336698
 |st1t6=0
 |st2t6=0
 |st3t6=0
 |st4t6=0
 
-|party7=[[Grand Democratic Alliance]]
+|party7=[[Grand Democratic Alliance|GDA]]
 |votes7=1180866
 |st1t7=0
 |st2t7=0
@@ -645,30 +645,30 @@ The election was postponed in the [[NA-8 Bajaur]] constituency in Khyber Pakhtun
 |st4t7=0
 |st5t7=
 
-|party8=[[Muttahida Qaumi Movement – Pakistan]]
+|party8=[[Muttahida Qaumi Movement – Pakistan|MQM-P]]
 |votes8=1119962
 |st1t8=17
 |st2t8=4
 |st3t8=0
-|st4t8=21
+|st4t8=22
 
-|party9=[[Istehkam-e-Pakistan Party]]
+|party9=[[Istehkam-e-Pakistan Party|IPP]]
 |votes9=648827
 |st1t9=3
 |st2t9=1
 |st3t9=0
 |st4t9=4
 
-|party10=[[Awami National Party]]
+|party10=[[Awami National Party|ANP]]
 |votes10=622115
 |st1t10=0
 |st2t10=0
 |st3t10=0
 |st4t10=0
 
-|party11=[[Pakistan Muslim League (Q)]]
+|party11=[[Pakistan Muslim League (Q)|PML(Q)]]
 |votes11=339518
-|st1t11=3
+|st1t11=4
 |st2t11=1
 |st3t11=0
 |st4t11=4
@@ -680,7 +680,7 @@ The election was postponed in the [[NA-8 Bajaur]] constituency in Khyber Pakhtun
 |st3t12=0
 |st4t12=0
 
-|party13=[[Pashtunkhwa National Awami Party Pakistan]]
+|party13=[[Pashtunkhwa National Awami Party|PKNAP]]
 |votes13=166640
 |st1t13=1
 |st2t13=0
@@ -689,56 +689,56 @@ The election was postponed in the [[NA-8 Bajaur]] constituency in Khyber Pakhtun
 |st5t13=
 |color13=#fa3927
 
-|party14=[[Balochistan National Party (Mengal)]]
+|party14=[[Balochistan National Party (Mengal)|BNP(M)]]
 |votes14=162988
 |st1t14=1
 |st2t14=0
 |st3t14=0
 |st4t14=1
 
-|party15= [[Pakistan Rah-e-Haq Party]]
+|party15= [[Pakistan Rah-e-Haq Party|PRHP]]
 |votes15=119864
 |st1t15=0
 |st2t15=0
 |st3t15=0
 |st4t15=0
 
-|party16=[[Pakistan Muslim League (Z)]]
+|party16=[[Pakistan Muslim League (Z)|PML(Z)]]
 |votes16=109570
 |st1t16=1
 |st2t16=0
 |st3t16=0
 |st4t16=1
 
-|party17=[[Pakistan Tehreek-e-Insaf Parliamentarians]]
+|party17=[[Pakistan Tehreek-e-Insaf Parliamentarians|PTI-P]]
 |votes17=96089
 |st1t17=0
 |st2t17=0
 |st3t17=0
 |st4t17=0
 
-|party18=[[Balochistan Awami Party]]
+|party18=[[Balochistan Awami Party|BAP]]
 |votes18=90985
 |st1t18=1
 |st2t18=0
 |st3t18=0
 |st4t18=1
 
-|party19=[[National Party (Pakistan)|National Party]]
+|party19=[[National Party (Pakistan)|NP]]
 |votes19=68741
 |st1t19=1
 |st2t19=0
 |st3t19=0
 |st4t19=1
 
-|party20=[[Pashtunkhwa Milli Awami Party]]
+|party20=[[Pashtunkhwa Milli Awami Party|PkMAP]]
 |votes20=64544
 |st1t20=1
 |st2t20=0
 |st3t20=0
 |st4t20=1
 
-|party21=[[Majlis Wahdat-e-Muslimeen]]
+|party21=[[Majlis Wahdat-e-Muslimeen|MWM]]
 |votes21=61899
 |st1t21=1
 |st2t21=0

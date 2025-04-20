@@ -14,7 +14,7 @@
                 {
                   "text": "<ref>{{Cite web |date=20 February 2024 |title=South Africa to hold general election on May 29 |url=https://www.aljazeera.com/news/2024/2/20/south-africa-to-hold-general-election-on-may-29 |access-date=29 February 2024 |website=Al Jazeera|archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419095009/https://www.aljazeera.com/news/2024/2/20/south-africa-to-hold-general-election-on-may-29 |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/2/20/south-africa-to-hold-general-election-on-may-29",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -22,7 +22,7 @@
                   "text": "<ref>{{Cite web |date=21 February 2024 |title=South Africa to hold elections on May 29 |url=https://www.aa.com.tr/en/africa/south-africa-to-hold-elections-on-may-29/3143370 |access-date=29 February 2024 |website=Aa.com.tr |archive-date=29 February 2024 |archive-url=https://web.archive.org/web/20240229220347/https://www.aa.com.tr/en/africa/south-africa-to-hold-elections-on-may-29/3143370 |url-status=live }}</ref>",
                   "url": "https://www.aa.com.tr/en/africa/south-africa-to-hold-elections-on-may-29/3143370",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 }
               ]
@@ -33,8 +33,8 @@
               "references": [
                 {
                   "text": "<ref>{{cite news|url=https://www.enca.com/news-top-stories/2024-elections-enca-projects-anc-will-take-45-national-vote|title=2024 ELECTIONS: eNCA Project ANC Will Take 45% Of National Vote|publisher=eNCA|date=30 May 2024|accessdate=30 May 2024|archive-date=30 May 2024|archive-url=https://web.archive.org/web/20240530123735/https://www.enca.com/news-top-stories/2024-elections-enca-projects-anc-will-take-45-national-vote|url-status=live}}</ref>",
-                  "url": "https://www.enca.com/news-top-stories/2024-elections-enca-projects-anc-will-take-45-national-vote",
-                  "status_code": null,
+                  "url": "https://www.enca.com/news/2024-elections-enca-projects-anc-will-take-45-national-vote",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -47,15 +47,15 @@
                 {
                   "text": "<ref name=ancda>{{cite news|url=https://www.bbc.com/news/articles/c8007w4vqveo|title=ANC and DA agree on South Africa unity government|first1=Farouk|last1=Chothia|first2=Danai Kesta|last2=Kupemba|first3=Barbra|last3=Plett-Usher|publisher=BBC News|date=14 June 2024|accessdate=14 June 2024|archive-date=14 June 2024|archive-url=https://web.archive.org/web/20240614112052/https://www.bbc.com/news/articles/c8007w4vqveo|url-status=live}}</ref>",
                   "url": "https://www.bbc.com/news/articles/c8007w4vqveo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=ramaphosare-elected>{{cite news|url=https://www.reuters.com/world/africa/south-africas-national-assembly-re-elects-cyril-ramaphosa-president-2024-06-14/|title=South Africa's National Assembly re-elects Cyril Ramaphosa as president|publisher=Reuters|date=14 June 2024|accessdate=14 June 2024}}</ref>",
                   "url": "https://www.reuters.com/world/africa/south-africas-national-assembly-re-elects-cyril-ramaphosa-president-2024-06-14/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 }
               ]
@@ -77,14 +77,14 @@
                 {
                   "text": "<ref>{{Cite news |date=24 October 2023 |title=Election season kicks off but no date yet |url=https://www.businesslive.co.za/bd/national/2023-10-24-election-season-kicks-off-but-no-date-yet/ |work=Business Day (South Africa)|Business Day |access-date=29 December 2023 |archive-date=29 December 2023 |archive-url=https://web.archive.org/web/20231229182105/https://www.businesslive.co.za/bd/national/2023-10-24-election-season-kicks-off-but-no-date-yet/ |url-status=live }}</ref>",
                   "url": "https://www.businesslive.co.za/bd/national/2023-10-24-election-season-kicks-off-but-no-date-yet/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=20 February 2024 |title=President Cyril Ramaphosa announces 2024 General Elections date |url=https://www.gov.za/news/media-statements/president-cyril-ramaphosa-announces-2024-general-elections-date-20-feb-2024 |publisher=South African Government |access-date=20 February 2024 |archive-date=20 February 2024 |archive-url=https://web.archive.org/web/20240220174859/https://www.gov.za/news/media-statements/president-cyril-ramaphosa-announces-2024-general-elections-date-20-feb-2024 |url-status=live }}</ref>",
                   "url": "https://www.gov.za/news/media-statements/president-cyril-ramaphosa-announces-2024-general-elections-date-20-feb-2024",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -97,21 +97,21 @@
                 {
                   "text": "<ref>{{Cite news |title=Support for ANC will continue to decline following South Africa elections, pollster predicts |url=https://www.irishtimes.com/world/africa/2024/01/23/support-for-anc-will-continue-to-decline-following-south-africa-elections-pollster-predicts/ |access-date=31 January 2024 |newspaper=The Irish Times|archive-date=31 January 2024 |archive-url=https://web.archive.org/web/20240131225830/https://www.irishtimes.com/world/africa/2024/01/23/support-for-anc-will-continue-to-decline-following-south-africa-elections-pollster-predicts/ |url-status=live }}</ref>",
                   "url": "https://www.irishtimes.com/world/africa/2024/01/23/support-for-anc-will-continue-to-decline-following-south-africa-elections-pollster-predicts/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |date=5 November 2021 |title=A landmark as South Africa's ANC dips below 50% support |url=https://apnews.com/article/africa-elections-cape-town-race-and-ethnicity-racial-injustice-5d14a119310380ca61ce9eb7c3d3d6c2 |access-date=1 August 2023 |website=AP News|archive-date=1 August 2023 |archive-url=https://web.archive.org/web/20230801181437/https://apnews.com/article/africa-elections-cape-town-race-and-ethnicity-racial-injustice-5d14a119310380ca61ce9eb7c3d3d6c2 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/africa-elections-cape-town-race-and-ethnicity-racial-injustice-5d14a119310380ca61ce9eb7c3d3d6c2",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |last=Harper |first=Paddy |title=Historic losses for ANC open new era in South African politics |url=https://www.africanews.com/2021/11/06/historic-losses-for-anc-open-new-era-in-south-african-politics/ |access-date=1 August 2023 |work=Africanews|archive-date=1 August 2023 |archive-url=https://web.archive.org/web/20230801181438/https://www.africanews.com/2021/11/06/historic-losses-for-anc-open-new-era-in-south-african-politics/ |url-status=live }}</ref>",
                   "url": "https://www.africanews.com/2021/11/06/historic-losses-for-anc-open-new-era-in-south-african-politics/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -123,15 +123,15 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web |title=ANC and EFF partnership 'negotiating in good faith' to govern Gauteng metros |url=https://www.702.co.za/articles/466111/anc-and-eff-partnership-negotiating-in-good-faith-to-govern-gauteng-metros |access-date=1 August 2023 |website=702|archive-date=1 August 2023 |archive-url=https://web.archive.org/web/20230801181438/https://www.702.co.za/articles/466111/anc-and-eff-partnership-negotiating-in-good-faith-to-govern-gauteng-metros |url-status=live }}</ref>",
-                  "url": "https://www.702.co.za/articles/466111/anc-and-eff-partnership-negotiating-in-good-faith-to-govern-gauteng-metros",
-                  "status_code": null,
+                  "url": "https://www.primediaplus.com/404/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=DA to fight ANC-EFF 'doomsday coalition' |url=https://www.businesslive.co.za/bd/politics/2023-04-02-da-to-fight-anc-eff-doomsday-coalition/ |url-access=subscription |access-date=1 August 2023 |website=BusinessLIVE|archive-date=1 August 2023 |archive-url=https://web.archive.org/web/20230801181437/https://www.businesslive.co.za/bd/politics/2023-04-02-da-to-fight-anc-eff-doomsday-coalition/ |url-status=live }}</ref>",
                   "url": "https://www.businesslive.co.za/bd/politics/2023-04-02-da-to-fight-anc-eff-doomsday-coalition/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -152,22 +152,22 @@
                     {
                       "text": "<ref>{{Cite web |last=Magome |first=Mogomotsu |date=16 December 2023 |title=South African ex-President Jacob Zuma has denounced the ANC and pledged to vote for a new party |url=https://apnews.com/article/south-africa-jacob-zuma-election-anc-party-5f2260db0b0cf4143387ea13ba8045ba |access-date=26 March 2024 |website=Associated Press|archive-date=26 March 2024 |archive-url=https://web.archive.org/web/20240326151438/https://apnews.com/article/south-africa-jacob-zuma-election-anc-party-5f2260db0b0cf4143387ea13ba8045ba |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/south-africa-jacob-zuma-election-anc-party-5f2260db0b0cf4143387ea13ba8045ba",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Magome |first=Mogomotsu |date=26 March 2024 |title=South Africa's ANC fails in bid to ban former leader Zuma's party from polls |url=https://apnews.com/article/south-africa-election-anc-zuma-court-d409db1059c7f563cc169668bd9357f0 |access-date=26 March 2024 |website=Associated Press|archive-date=26 March 2024 |archive-url=https://web.archive.org/web/20240326151438/https://apnews.com/article/south-africa-election-anc-zuma-court-d409db1059c7f563cc169668bd9357f0 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/south-africa-election-anc-zuma-court-d409db1059c7f563cc169668bd9357f0",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Game of Thrones: How Jacob Zuma and uMkhonto weSizwe Party are positioning themselves as kingmakers |url=https://www.iol.co.za/news/politics/opinion/game-of-thrones-how-jacob-zuma-and-umkhonto-wesizwe-party-are-positioning-themselves-as-kingmakers-5b30e899-2bcb-4d7d-bc9b-8c8045841e6c |access-date=26 March 2024 |archive-date=26 March 2024 |archive-url=https://web.archive.org/web/20240326230406/https://www.iol.co.za/news/politics/opinion/game-of-thrones-how-jacob-zuma-and-umkhonto-wesizwe-party-are-positioning-themselves-as-kingmakers-5b30e899-2bcb-4d7d-bc9b-8c8045841e6c |url-status=live }}</ref>",
                       "url": "https://www.iol.co.za/news/politics/opinion/game-of-thrones-how-jacob-zuma-and-umkhonto-wesizwe-party-are-positioning-themselves-as-kingmakers-5b30e899-2bcb-4d7d-bc9b-8c8045841e6c",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -179,63 +179,63 @@
                     {
                       "text": "<ref>{{Cite web |title=South Africa's ex-President Jacob Zuma barred from May elections |url=https://www.aljazeera.com/news/2024/3/28/south-africas-ex-president-jacob-zuma-barred-from-may-elections |access-date=29 March 2024 |website=Al Jazeera|archive-date=29 March 2024 |archive-url=https://web.archive.org/web/20240329133124/https://www.aljazeera.com/news/2024/3/28/south-africas-ex-president-jacob-zuma-barred-from-may-elections |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/3/28/south-africas-ex-president-jacob-zuma-barred-from-may-elections",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=3 April 2024 |title=S.Africa's Zuma Files Appeal Against Exclusion From May Vote |url=https://www.barrons.com/news/s-africa-s-zuma-files-appeal-against-exclusion-from-may-vote-cbe79206 |access-date=4 April 2024 |publisher=Barron's |archive-date=4 April 2024 |archive-url=https://web.archive.org/web/20240404073155/https://www.barrons.com/news/s-africa-s-zuma-files-appeal-against-exclusion-from-may-vote-cbe79206 |url-status=live }}</ref>",
                       "url": "https://www.barrons.com/news/s-africa-s-zuma-files-appeal-against-exclusion-from-may-vote-cbe79206",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=South Africa's Jacob Zuma wins court bid to contest upcoming election |url=https://www.aljazeera.com/news/2024/4/9/south-africas-jacob-zuma-wins-court-bid-to-contest-upcoming-election |access-date=10 April 2024 |website=Al Jazeera|archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410020012/https://www.aljazeera.com/news/2024/4/9/south-africas-jacob-zuma-wins-court-bid-to-contest-upcoming-election |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/4/9/south-africas-jacob-zuma-wins-court-bid-to-contest-upcoming-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Khoza |first=Amanda |title=Jacob Zuma can contest elections, Electoral Court rules |url=https://www.news24.com/news24/politics/jacob-zuma-can-contest-elections-electoral-court-rules-20240409 |access-date=9 April 2024 |website=News24|archive-date=1 June 2024 |archive-url=https://web.archive.org/web/20240601125820/https://www.news24.com/news24/politics/jacob-zuma-can-contest-elections-electoral-court-rules-20240409 |url-status=live }}</ref>",
                       "url": "https://www.news24.com/news24/politics/jacob-zuma-can-contest-elections-electoral-court-rules-20240409",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Electoral Commission approaches the Constitutional Court for Clarity on Section 47(1)(e) of the Constitution – Electoral Commission of South Africa |url=https://www.elections.org.za/pw/News-And-Media/News-List/News/News-Article/Electoral-Commission-approaches-the-Constitutional-Court-for-Clarity-on-Section-47(1)(e)-of-the-Constitution?a=AISDGvpz75ps1usOfX7oipctYQxHaGTy4Kf8EGcX+ok= |access-date=12 April 2024 |website=Elections.org.za |archive-date=22 April 2024 |archive-url=https://web.archive.org/web/20240422181210/https://www.elections.org.za/pw/News-And-Media/News-List/News/News-Article/Electoral-Commission-approaches-the-Constitutional-Court-for-Clarity-on-Section-47(1)(e)-of-the-Constitution?a=AISDGvpz75ps1usOfX7oipctYQxHaGTy4Kf8EGcX+ok= |url-status=live }}</ref>",
                       "url": "https://www.elections.org.za/pw/News-And-Media/News-List/News/News-Article/Electoral-Commission-approaches-the-Constitutional-Court-for-Clarity-on-Section-47(1)(e)-of-the-Constitution?a=AISDGvpz75ps1usOfX7oipctYQxHaGTy4Kf8EGcX+ok=",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Imray |first=Gerald |date=30 April 2024 |title=South African police investigate if former president's party forged signatures to contest elections |url=https://apnews.com/article/south-africa-election-zuma-anc-cc4a1dc04e555620a8e069ec02f0e022 |access-date=1 May 2024 |website=Associated Press|archive-date=1 June 2024 |archive-url=https://web.archive.org/web/20240601125857/https://apnews.com/article/south-africa-election-zuma-anc-cc4a1dc04e555620a8e069ec02f0e022 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/south-africa-election-zuma-anc-cc4a1dc04e555620a8e069ec02f0e022",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Imray |first=Gerald |date=20 May 2024 |title=South Africa's top court rules former President Zuma cannot stand in election over criminal record |url=https://apnews.com/article/south-africa-elections-jacob-zuma-75051f626f3f4fe68dc8ed04b1e2163b |access-date=20 May 2024 |website=Associated Press|archive-date=20 May 2024 |archive-url=https://web.archive.org/web/20240520102221/https://apnews.com/article/south-africa-elections-jacob-zuma-75051f626f3f4fe68dc8ed04b1e2163b |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/south-africa-elections-jacob-zuma-75051f626f3f4fe68dc8ed04b1e2163b",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Imray |first=Gerald |date=28 May 2024 |title=South Africa's election might be a defining moment — with new complications. Here's what to know |url=https://apnews.com/article/south-africa-elections-voter-guide-6876f39a9c14a61c8f94f123cb66d4ce |access-date=29 May 2024 |website=Associated Press|archive-date=17 May 2024 |archive-url=https://web.archive.org/web/20240517074753/https://apnews.com/article/south-africa-elections-voter-guide-6876f39a9c14a61c8f94f123cb66d4ce |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/south-africa-elections-voter-guide-6876f39a9c14a61c8f94f123cb66d4ce",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Chothia |first=Farouk |date=29 May 2024 |title=South Africans vote with ANC majority in the balance |url=https://www.bbc.com/news/articles/crgg2neyr65o |access-date=29 May 2024 |publisher=BBC|archive-date=29 May 2024 |archive-url=https://web.archive.org/web/20240529022248/https://www.bbc.com/news/articles/crgg2neyr65o |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/articles/crgg2neyr65o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -258,49 +258,49 @@
                     {
                       "text": "<ref>{{Cite web |last=Steenhuisen |first=John |date=5 April 2024 |title=Vote DA to rescue South Africa from the ANC-EFF-MK Doomsday coalition |url=https://www.da.org.za/2024/04/vote-da-to-rescue-south-africa-from-the-anc-eff-mk-doomsday-coalition |access-date=30 May 2024 |website=Democratic Alliance |quote=Forces of destruction in the ANC, EFF and their proxies in small parties like the Patriotic Alliance, were converging towards forming a Doomsday Coalition after the 2024 general election. A year down the line, and this initiative – now known as the Multi-Party Charter (MPC) – has made tremendous progress in forging a common vision and strong bonds. |archive-date=22 May 2024 |archive-url=https://web.archive.org/web/20240522151257/https://www.da.org.za/2024/04/vote-da-to-rescue-south-africa-from-the-anc-eff-mk-doomsday-coalition |url-status=live }}</ref>",
                       "url": "https://www.da.org.za/2024/04/vote-da-to-rescue-south-africa-from-the-anc-eff-mk-doomsday-coalition",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Sisanda |first=Mbolekwa |date=10 April 2024 |title='You choose: ANC, EFF and MK, or multi-party charter': Steenhuisen |url=https://www.timeslive.co.za/politics/2024-04-10-you-choose-anc-eff-and-mk-or-multi-party-charter-steenhuisen/ |access-date=19 May 2024 |archive-date=20 May 2024 |archive-url=https://web.archive.org/web/20240520160436/https://www.timeslive.co.za/politics/2024-04-10-you-choose-anc-eff-and-mk-or-multi-party-charter-steenhuisen/ |url-status=live }}</ref>",
                       "url": "https://www.timeslive.co.za/politics/2024-04-10-you-choose-anc-eff-and-mk-or-multi-party-charter-steenhuisen/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Masuabi |first=Queenin |date=17 August 2023 |title=Multi-Party Charter for South Africa agrees on key power-sharing principles |url=https://www.dailymaverick.co.za/article/2023-08-17-multi-party-charter-for-south-africa-agrees-on-key-power-sharing-principles/ |access-date=18 October 2023 |website=Daily Maverick|archive-date=23 October 2023 |archive-url=https://web.archive.org/web/20231023133049/https://www.dailymaverick.co.za/article/2023-08-17-multi-party-charter-for-south-africa-agrees-on-key-power-sharing-principles/ |url-status=live }}</ref>",
                       "url": "https://www.dailymaverick.co.za/article/2023-08-17-multi-party-charter-for-south-africa-agrees-on-key-power-sharing-principles/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Juniour |first=Khumalo |date=15 March 2024 |title=Three Multiparty Charter members fail to meet election threshold |url=https://www.youtube.com/watch?v=f629rmQgqQU |publisher=Newzroom Afrika |via=YouTube |access-date=19 May 2024 |archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514193137/https://www.youtube.com/watch?v=f629rmQgqQU&gl=US&hl=en |url-status=live }}</ref>",
                       "url": "https://www.youtube.com/watch?v=f629rmQgqQU",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Felix |first=Jason |title=Elections 2024: Two Multi-Party Charter parties fail to get required signatures, won't contest polls |url=https://www.news24.com/news24/politics/political-parties/elections-2024-two-mpc-political-parties-fail-to-get-required-signatures-wont-contest-polls-20240315 |access-date=20 March 2024 |website=News24|archive-date=20 March 2024 |archive-url=https://web.archive.org/web/20240320173924/https://www.news24.com/news24/politics/political-parties/elections-2024-two-mpc-political-parties-fail-to-get-required-signatures-wont-contest-polls-20240315 |url-status=live }}</ref>",
                       "url": "https://www.news24.com/news24/politics/political-parties/elections-2024-two-mpc-political-parties-fail-to-get-required-signatures-wont-contest-polls-20240315",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |last=Sithole |first=Siyabonga |date=8 October 2023 |title=Multiparty Charter welcomes ACDP into the fold |url=https://www.iol.co.za/the-star/news/multiparty-charter-welcomes-acdp-into-the-fold-58f0b7a1-65d2-414a-b8b9-a07c0341991f |access-date=18 October 2023 |work=Independent Online |archive-date=19 October 2023 |archive-url=https://web.archive.org/web/20231019153450/https://www.iol.co.za/the-star/news/multiparty-charter-welcomes-acdp-into-the-fold-58f0b7a1-65d2-414a-b8b9-a07c0341991f |url-status=live }}</ref>",
                       "url": "https://www.iol.co.za/the-star/news/multiparty-charter-welcomes-acdp-into-the-fold-58f0b7a1-65d2-414a-b8b9-a07c0341991f",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"auto\">{{Cite web |last=Beaumont |first=Michael |date=6 June 2024 |title=Post-Senate Briefing and the Way Forward for ActionSA |url=https://www.actionsa.org.za/post-senate-briefing-and-the-way-forward-for-actionsa/ |url-status=live |access-date=6 June 2024 |website=ActionSA |quote=ActionSA's Senate has deliberated on our relationship with other political parties going forward. This process has resolved that ActionSA will leave the Multi-Party Charter because of the serious breach by those parties who publicly signed and campaigned under an agreement which expressly ruled out working relationships with the ANC. |archive-date=6 June 2024 |archive-url=https://web.archive.org/web/20240606155408/https://www.actionsa.org.za/post-senate-briefing-and-the-way-forward-for-actionsa/ }}</ref>",
                       "url": "https://www.actionsa.org.za/post-senate-briefing-and-the-way-forward-for-actionsa/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -308,7 +308,7 @@
                       "text": "<ref>{{Cite web |url=https://x.com/Action4SA/status/1798649727057310062 |title=Archived copy |access-date=6 June 2024 |archive-date=6 June 2024 |archive-url=https://web.archive.org/web/20240606221520/https://x.com/Action4SA/status/1798649727057310062 |url-status=live }}</ref>",
                       "url": "https://x.com/Action4SA/status/1798649727057310062",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "400, message='Got more than 8190 bytes (9914) when reading Header value is too long.', url='https://x.com/Action4SA/status/1798649727057310062'",
                       "type": "web"
                     }
                   ]
@@ -330,14 +330,14 @@
                     {
                       "text": "<ref>{{Cite news |title=South Africa faces a defining election |url=https://www.economist.com/the-world-ahead/2023/11/13/south-africa-faces-a-defining-election |access-date=31 January 2024 |newspaper=The Economist |issn=0013-0613 |archive-date=31 January 2024 |archive-url=https://web.archive.org/web/20240131225831/https://www.economist.com/the-world-ahead/2023/11/13/south-africa-faces-a-defining-election |url-status=live }}</ref>",
                       "url": "https://www.economist.com/the-world-ahead/2023/11/13/south-africa-faces-a-defining-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"logistics\" /> Fifty-five percent of them were women, while voter registration was highest among those aged between 30 and 39 years old.<ref>{{Cite news |title=Counting under way in South Africa's crucial election |url=https://www.bbc.com/news/articles/cjll8nr6962o |access-date=30 May 2024 |publisher=BBC |archive-date=30 May 2024 |archive-url=https://web.archive.org/web/20240530005713/https://www.bbc.com/news/articles/cjll8nr6962o |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/articles/cjll8nr6962o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -362,14 +362,14 @@
                 {
                   "text": "<ref>{{Cite news |last=Mabuza |first=Ernest |date=11 June 2020 |title=Constitutional Court judgment opens door for independent candidates to stand for election |url=https://www.timeslive.co.za/politics/2020-06-11-concourt-ruling-opens-door-for-independent-candidates-to-stand-for-election-in-sa/ |access-date=7 July 2021 |work=Sunday Times (South Africa)|Sunday Times|archive-date=9 July 2021 |archive-url=https://web.archive.org/web/20210709183738/https://www.timeslive.co.za/politics/2020-06-11-concourt-ruling-opens-door-for-independent-candidates-to-stand-for-election-in-sa/ |url-status=live }}</ref>",
                   "url": "https://www.timeslive.co.za/politics/2020-06-11-concourt-ruling-opens-door-for-independent-candidates-to-stand-for-election-in-sa/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"electionguide\">{{Cite web |title=Election for National Assembly |url=http://www.electionguide.org/elections/id/2721/ |access-date=4 January 2020 |website=IFES Election Guide |archive-date=29 December 2014 |archive-url=https://web.archive.org/web/20141229211847/http://www.electionguide.org/elections/id/2721/ |url-status=live }}</ref>",
-                  "url": "http://www.electionguide.org/elections/id/2721/",
-                  "status_code": null,
+                  "url": "https://www.electionguide.org/elections/id/2721/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -381,15 +381,15 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web |date=24 March 2021 |title=Ministerial Advisory Committee on the Electoral System hosts first consultative meeting |url=https://www.gov.za/speeches/ministerial-advisory-committee-electoral-system-hosts-first-consultative-meeting-24-mar |archive-url=https://web.archive.org/web/20210709183523/https://www.gov.za/speeches/ministerial-advisory-committee-electoral-system-hosts-first-consultative-meeting-24-mar |archive-date=9 July 2021 |access-date=7 July 2021 |website=gov.za |publisher=Government of South Africa}}</ref>",
-                  "url": "https://www.gov.za/speeches/ministerial-advisory-committee-electoral-system-hosts-first-consultative-meeting-24-mar",
-                  "status_code": null,
+                  "url": "https://www.gov.za/news/media-statements/ministerial-advisory-committee-electoral-system-hosts-first-consultative",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |last1=Kgosana |first1=Caiphus |last2=Khoza |first2=Amanda |date=13 June 2021 |title=Advisory committee divided on which electoral system to adopt |url=https://www.timeslive.co.za/sunday-times/news/2021-06-13-advisory-committee-divided-on-which-electoral-system-to-adopt/ |access-date=7 July 2021 |work=Sunday Times (South Africa)|Sunday Times|archive-date=6 July 2021 |archive-url=https://web.archive.org/web/20210706220231/https://www.timeslive.co.za/sunday-times/news/2021-06-13-advisory-committee-divided-on-which-electoral-system-to-adopt/ |url-status=live }}{{subscription required|s}}</ref>",
                   "url": "https://www.timeslive.co.za/sunday-times/news/2021-06-13-advisory-committee-divided-on-which-electoral-system-to-adopt/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -410,7 +410,7 @@
                     {
                       "text": "<ref>{{Cite web |title=2024 General Elections, 29 May |url=https://www.gov.za/news/elections2024 |access-date=13 May 2024 |website=gov.za |archive-date=13 May 2024 |archive-url=https://web.archive.org/web/20240513205340/https://www.gov.za/news/elections2024 |url-status=live }}</ref>",
                       "url": "https://www.gov.za/news/elections2024",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -423,7 +423,7 @@
                     {
                       "text": "<ref>{{Cite web|website=Staatskoerant|url=https://www.gov.za/sites/default/files/gcis_document/202402/50179gen2336.pdf|title=Determination of seats reserved for each region for elections of the National Assembly|date=23 February 2024|access-date=3 June 2024|archive-date=5 June 2024|archive-url=https://web.archive.org/web/20240605080321/https://www.gov.za/sites/default/files/gcis_document/202402/50179gen2336.pdf|url-status=live}}</ref>",
                       "url": "https://www.gov.za/sites/default/files/gcis_document/202402/50179gen2336.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -446,7 +446,7 @@
                     {
                       "text": "<ref>{{Cite web |title=What's new in the 2024 Elections? |url=https://www.elections.org.za/pw/elections/whats-new-in-the-2024-elections-electoral-amendment-act |access-date=18 October 2023 |website=Electoral Commission of South Africa |archive-date=19 October 2023 |archive-url=https://web.archive.org/web/20231019153453/https://www.elections.org.za/pw/elections/whats-new-in-the-2024-elections-electoral-amendment-act |url-status=live }}</ref>",
                       "url": "https://www.elections.org.za/pw/elections/whats-new-in-the-2024-elections-electoral-amendment-act",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -469,7 +469,7 @@
                     {
                       "text": "<ref>{{Cite news |last1=Paton |first1=Carol |last2=Quintal |first2=Genevieve |date=22 May 2019 |title=Cyril Ramaphosa elected as president by National Assembly |url=https://www.businesslive.co.za/bd/national/2019-05-22-cyril-ramaphosa-elected-as-president-by-national-assembly/ |access-date=4 January 2020 |work=BusinessDay |archive-date=4 June 2019 |archive-url=https://web.archive.org/web/20190604173028/https://www.businesslive.co.za/bd/national/2019-05-22-cyril-ramaphosa-elected-as-president-by-national-assembly/ |url-status=live }}{{subscription required|s}}</ref>",
                       "url": "https://www.businesslive.co.za/bd/national/2019-05-22-cyril-ramaphosa-elected-as-president-by-national-assembly/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -503,7 +503,7 @@
                 {
                   "text": "<ref name=\"logistics\">{{Cite web |last=Imray |first=Gerald |date=17 May 2024 |title=South Africa's election could bring a defining moment — and new complications. Here's what to know |url=https://apnews.com/article/south-africa-elections-voter-guide-6876f39a9c14a61c8f94f123cb66d4ce |access-date=17 May 2024 |website=Associated Press|archive-date=17 May 2024 |archive-url=https://web.archive.org/web/20240517074753/https://apnews.com/article/south-africa-elections-voter-guide-6876f39a9c14a61c8f94f123cb66d4ce |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-africa-elections-voter-guide-6876f39a9c14a61c8f94f123cb66d4ce",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -524,8 +524,8 @@
                     {
                       "text": "<ref>[https://www.elections.org.za/pw/Parties-And-Candidates/Candidates-List National Candidates List] {{Webarchive|url=https://web.archive.org/web/20240326165537/https://www.elections.org.za/pw/Parties-And-Candidates/Candidates-List |date=26 March 2024 }}, Independent Electoral Commission, Retrieved 26 March 2024.</ref>",
                       "url": "https://web.archive.org/web/20240326165537/https://www.elections.org.za/pw/Parties-And-Candidates/Candidates-List",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Blocked: Archive.org URL",
                       "type": null
                     }
                   ]
@@ -547,8 +547,8 @@
                     {
                       "text": "<ref>[https://www.elections.org.za/pw/Parties-And-Candidates/List-Of-Parties-And-Independents National Compensatory – List of Parties – Alphabetic Order] {{Webarchive|url=https://web.archive.org/web/20240510055340/https://www.elections.org.za/pw/Parties-And-Candidates/List-Of-Parties-And-Independents |date=10 May 2024 }}, Independent Electoral Commission, Retrieved 10 April 2024.</ref>",
                       "url": "https://web.archive.org/web/20240510055340/https://www.elections.org.za/pw/Parties-And-Candidates/List-Of-Parties-And-Independents",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Blocked: Archive.org URL",
                       "type": null
                     },
                     {
@@ -583,21 +583,21 @@
                     {
                       "text": "<ref>{{Cite web |date=15 May 2024 |title=A new South Africa health law aims at deep inequality, but critics say they'll challenge it |url=https://apnews.com/article/south-africa-health-law-elections-e1e15892eaa6efa51cc1bf14959d3453 |access-date=19 May 2024 |website=AP News|archive-date=19 May 2024 |archive-url=https://web.archive.org/web/20240519030656/https://apnews.com/article/south-africa-health-law-elections-e1e15892eaa6efa51cc1bf14959d3453 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/south-africa-health-law-elections-e1e15892eaa6efa51cc1bf14959d3453",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"BBC100\">{{Cite web |title=South Africa's National Health Insurance (NHI) Bill: Why it is controversial |url=https://www.bbc.com/news/articles/c1030v3p1r8o |access-date=19 May 2024 |publisher=BBC|archive-date=19 May 2024 |archive-url=https://web.archive.org/web/20240519030656/https://www.bbc.com/news/articles/c1030v3p1r8o |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/articles/c1030v3p1r8o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"Al10\">{{Cite web |title=South Africa's Ramaphosa signs health bill weeks before election |url=https://www.aljazeera.com/news/2024/5/15/south-africas-ramaphosa-signs-health-bill-weeks-before-election |access-date=19 May 2024 |website=Al Jazeera|archive-date=19 May 2024 |archive-url=https://web.archive.org/web/20240519031139/https://www.aljazeera.com/news/2024/5/15/south-africas-ramaphosa-signs-health-bill-weeks-before-election |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/5/15/south-africas-ramaphosa-signs-health-bill-weeks-before-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -610,8 +610,8 @@
                     {
                       "text": "<ref>[https://www.npr.org/2024/04/01/1241232636/johannesburg-south-africa-water-crisis Johannesburg's water crisis is the latest blow to South Africa's 'world-class city'] {{Webarchive|url=https://web.archive.org/web/20240519030657/https://www.npr.org/2024/04/01/1241232636/johannesburg-south-africa-water-crisis |date=19 May 2024 }}. April 1, 2024. National Public Radio|NPR. Kate Bartlett.</ref>",
                       "url": "https://web.archive.org/web/20240519030657/https://www.npr.org/2024/04/01/1241232636/johannesburg-south-africa-water-crisis",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Blocked: Archive.org URL",
                       "type": null
                     }
                   ]
@@ -633,42 +633,42 @@
                     {
                       "text": "<ref>{{Cite web |title=Impact of illegal migration on cities: input from Joburg & Ekurhuleni Mayors, SALGA & Minister |url=https://pmg.org.za/committee-meeting/29125/ |access-date=8 April 2024 |website=pmg.org.za|archive-date=8 April 2024 |archive-url=https://web.archive.org/web/20240408215656/https://pmg.org.za/committee-meeting/29125/ |url-status=live }}</ref>",
                       "url": "https://pmg.org.za/committee-meeting/29125/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Simelane |first=Bheki C. |date=5 September 2021 |title=Action SA's Herman Mashaba: Unapologetic about stance on foreigners and driven to wear Joburg's mayoral chain again Action SA's Herman Mashaba: Driven to wear Joburg's mayoral chain |url=https://www.dailymaverick.co.za/article/2021-09-05-action-sas-herman-mashaba-unapologetic-about-stance-on-foreigners-and-driven-to-wear-joburgs-mayoral-chain-again/ |access-date=28 April 2024 |website=Daily Maverick|archive-date=1 June 2024 |archive-url=https://web.archive.org/web/20240601125822/https://www.dailymaverick.co.za/article/2021-09-05-action-sas-herman-mashaba-unapologetic-about-stance-on-foreigners-and-driven-to-wear-joburgs-mayoral-chain-again/ |url-status=live }}</ref>",
                       "url": "https://www.dailymaverick.co.za/article/2021-09-05-action-sas-herman-mashaba-unapologetic-about-stance-on-foreigners-and-driven-to-wear-joburgs-mayoral-chain-again/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=4 April 2024 |title='You see skeletons' – South Africa's deadly border |url=https://www.bbc.com/news/world-africa-68680534 |access-date=8 April 2024 |publisher=BBC News|archive-date=8 April 2024 |archive-url=https://web.archive.org/web/20240408215655/https://www.bbc.com/news/world-africa-68680534 |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/world-africa-68680534",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Marrian |first=Natasha |title=Is South Africa heading for an immigration election? |url=https://www.businesslive.co.za/fm/features/2023-11-16-is-south-africa-heading-for-an-immigration-election/ |access-date=8 April 2024 |website=BusinessLIVE|archive-date=8 April 2024 |archive-url=https://web.archive.org/web/20240408221421/https://www.businesslive.co.za/fm/features/2023-11-16-is-south-africa-heading-for-an-immigration-election/ |url-status=live }}</ref>",
                       "url": "https://www.businesslive.co.za/fm/features/2023-11-16-is-south-africa-heading-for-an-immigration-election/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |date=4 April 2024 |title=South Africa election 2024: 'You see skeletons' – the deadly migrant crossing |url=https://www.bbc.com/news/world-africa-68680534 |access-date=8 April 2024 |publisher=BBC|archive-date=8 April 2024 |archive-url=https://web.archive.org/web/20240408215655/https://www.bbc.com/news/world-africa-68680534 |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/world-africa-68680534",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2022-07-15 |title=South Africa 'on the precipice of explosive xenophobic violence', UN experts warn |url=https://news.un.org/en/story/2022/07/1122612 |access-date=2024-06-10 |website=news.un.org|archive-date=13 June 2024 |archive-url=https://web.archive.org/web/20240613141025/https://news.un.org/en/story/2022/07/1122612 |url-status=live }}</ref>",
                       "url": "https://news.un.org/en/story/2022/07/1122612",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -691,21 +691,21 @@
                     {
                       "text": "<ref>{{Cite web |title=The Zondo Commission: A bite-sized summary |url=https://pari.org.za/wp-content/uploads/2022/09/PARI-Summary-The-Zondo-Commission-A-bite-sized-summary-v360.pdf |access-date=5 March 2024 |website=Public Affairs Research Institute |archive-date=30 November 2023 |archive-url=https://web.archive.org/web/20231130095327/http://pari.org.za/wp-content/uploads/2022/09/PARI-Summary-The-Zondo-Commission-A-bite-sized-summary-v360.pdf |url-status=live }}</ref>",
                       "url": "https://pari.org.za/wp-content/uploads/2022/09/PARI-Summary-The-Zondo-Commission-A-bite-sized-summary-v360.pdf",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Haffajee |first=Ferial |date=30 June 2021 |title=State Capture Inquiry cost almost R1bn, but it saved billions more – Judge Zondo |url=https://www.dailymaverick.co.za/article/2021-06-30-state-capture-inquiry-cost-almost-r1bn-but-it-saved-billions-more-judge-zondo/ |access-date=5 March 2024 |website=Daily Maverick|archive-date=1 June 2024 |archive-url=https://web.archive.org/web/20240601125242/https://www.dailymaverick.co.za/article/2021-06-30-state-capture-inquiry-cost-almost-r1bn-but-it-saved-billions-more-judge-zondo/ |url-status=live }}</ref>",
                       "url": "https://www.dailymaverick.co.za/article/2021-06-30-state-capture-inquiry-cost-almost-r1bn-but-it-saved-billions-more-judge-zondo/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Davis |first=Rebecca |date=24 May 2021 |title=The total(ish) cost of the Guptas' State Capture: R49,157,323,233.68 |url=https://www.dailymaverick.co.za/article/2021-05-24-the-totalish-cost-of-the-guptas-state-capture-r49157323233-68/ |access-date=5 March 2024 |website=Daily Maverick|archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602154559/https://www.dailymaverick.co.za/article/2021-05-24-the-totalish-cost-of-the-guptas-state-capture-r49157323233-68/ |url-status=live }}</ref>",
                       "url": "https://www.dailymaverick.co.za/article/2021-05-24-the-totalish-cost-of-the-guptas-state-capture-r49157323233-68/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -718,21 +718,21 @@
                     {
                       "text": "<ref>{{Cite web |title=The ANC's 2024 Manifesto – DOCUMENTS |url=https://www.politicsweb.co.za/documents/the-ancs-2024-manifesto |access-date=5 March 2024 |website=PoliticsWeb.co.za|archive-date=1 March 2024 |archive-url=https://web.archive.org/web/20240301032413/https://www.politicsweb.co.za/documents/the-ancs-2024-manifesto |url-status=live }}</ref>",
                       "url": "https://www.politicsweb.co.za/documents/the-ancs-2024-manifesto",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=The DA's Rescue Plan for South Africa |url=https://cdn.da.org.za/wp-content/uploads/2024/02/16143750/DA-Election-Manifesto-2024.pdf |access-date=5 March 2024 |website=Democratic Alliance |archive-date=29 February 2024 |archive-url=https://web.archive.org/web/20240229172846/https://cdn.da.org.za/wp-content/uploads/2024/02/16143750/DA-Election-Manifesto-2024.pdf |url-status=live }}</ref>",
                       "url": "https://cdn.da.org.za/wp-content/uploads/2024/02/16143750/DA-Election-Manifesto-2024.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Our Land & Jobs Now. Stop Loadshedding! 2024 Election Manifesto |url=https://effonline.org/wp-content/uploads/2024/02/A5-EFF-2024-Manifesto-full-version.pdf |access-date=5 March 2024 |website=Economic Freedom Fighters |archive-date=9 March 2024 |archive-url=https://web.archive.org/web/20240309185642/https://effonline.org/wp-content/uploads/2024/02/A5-EFF-2024-Manifesto-full-version.pdf |url-status=live }}</ref>",
                       "url": "https://effonline.org/wp-content/uploads/2024/02/A5-EFF-2024-Manifesto-full-version.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -745,7 +745,7 @@
                     {
                       "text": "<ref>{{Cite news |last=Imray |first=Gerald |date=12 March 2024 |title=South Africa's ruling party fields election candidates who have faced graft allegations |url=https://apnews.com/article/south-africa-elections-anc-fa83145d9cd1080abde8fc4076817832 |access-date=12 March 2024 |work=Associated Press |archive-date=1 June 2024 |archive-url=https://web.archive.org/web/20240601125823/https://apnews.com/article/south-africa-elections-anc-fa83145d9cd1080abde8fc4076817832 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/south-africa-elections-anc-fa83145d9cd1080abde8fc4076817832",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -768,42 +768,42 @@
                     {
                       "text": "<ref>{{Cite web |last=Gerber |first=Jan |title=National Assembly fails to pass constitutional amendment to allow land expropriation without compensation |url=https://www.news24.com/news24/southafrica/news/breaking-national-assembly-fails-to-pass-constitutional-amendment-to-allow-land-expropriation-without-compensation-20211207 |access-date=5 March 2024 |website=News24|archive-date=4 April 2024 |archive-url=https://web.archive.org/web/20240404230403/https://www.news24.com/news24/southafrica/news/breaking-national-assembly-fails-to-pass-constitutional-amendment-to-allow-land-expropriation-without-compensation-20211207 |url-status=live }}</ref>",
                       "url": "https://www.news24.com/news24/southafrica/news/breaking-national-assembly-fails-to-pass-constitutional-amendment-to-allow-land-expropriation-without-compensation-20211207",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=24 March 2021 |title=Afriforum Presents Oral Submissions to Parliament on the Amendment of Section 25 of the Constitution and the Expropriation Bill |url=https://afriforum.co.za/en/afriforum-presents-oral-submissions-to-parliament-on-the-amendment-of-section-25-of-the-constitution-and-the-expropriation-bill/ |access-date=5 March 2024 |website=AfriForum|archive-date=7 April 2024 |archive-url=https://web.archive.org/web/20240407134404/https://afriforum.co.za/en/afriforum-presents-oral-submissions-to-parliament-on-the-amendment-of-section-25-of-the-constitution-and-the-expropriation-bill/ |url-status=live }}</ref>",
                       "url": "https://afriforum.co.za/en/afriforum-presents-oral-submissions-to-parliament-on-the-amendment-of-section-25-of-the-constitution-and-the-expropriation-bill/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=13 August 2021 |title=South African Institute of Race Relations NPC (IRR) Submission to the Ad Hoc Committee to Initiate and Introduce Legislation Amending Section 25 of the Constitution |url=https://irr.org.za/reports/submissions-on-proposed-legislation/irr-submission-draft-constitution-18th-amendment-bill-13-august-2021.pdf |access-date=5 March 2024 |website=South African Institute of Race Relations |archive-date=11 March 2024 |archive-url=https://web.archive.org/web/20240311003255/https://irr.org.za/reports/submissions-on-proposed-legislation/irr-submission-draft-constitution-18th-amendment-bill-13-august-2021.pdf |url-status=live }}</ref>",
                       "url": "https://irr.org.za/reports/submissions-on-proposed-legislation/irr-submission-draft-constitution-18th-amendment-bill-13-august-2021.pdf",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Gerber |first=Jan |title=Failed Section 25 amendment is 'water under the bridge', says Mabuza |url=https://www.news24.com/news24/southafrica/news/failed-section-25-amendment-is-water-under-the-bridge-says-mabuza-20211209 |access-date=5 March 2024 |website=News24|archive-date=25 March 2024 |archive-url=https://web.archive.org/web/20240325120841/https://www.news24.com/news24/SouthAfrica/News/failed-section-25-amendment-is-water-under-the-bridge-says-mabuza-20211209 |url-status=live }}</ref>",
                       "url": "https://www.news24.com/news24/southafrica/news/failed-section-25-amendment-is-water-under-the-bridge-says-mabuza-20211209",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Failure to pass the Section 25 Amendment Bill a victory for South Africa's constitutional order |url=https://www.da.org.za/2021/12/failure-to-pass-the-section-25-amendment-bill-a-victory-for-south-africas-constitutional-order |access-date=5 March 2024 |website=Democratic Alliance|archive-date=7 April 2024 |archive-url=https://web.archive.org/web/20240407132900/https://www.da.org.za/2021/12/failure-to-pass-the-section-25-amendment-bill-a-victory-for-south-africas-constitutional-order |url-status=live }}</ref>",
                       "url": "https://www.da.org.za/2021/12/failure-to-pass-the-section-25-amendment-bill-a-victory-for-south-africas-constitutional-order",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Merten |first=Marianne |date=28 September 2022 |title=Expropriation Bill finally approved — the end of a long and controversial road |url=https://www.dailymaverick.co.za/article/2022-09-29-controversial-expropriation-bill-is-finally-approved-after-navigating-a-14-year-rocky-road/ |access-date=5 March 2024 |website=Daily Maverick|archive-date=29 May 2024 |archive-url=https://web.archive.org/web/20240529191037/https://www.dailymaverick.co.za/article/2022-09-29-controversial-expropriation-bill-is-finally-approved-after-navigating-a-14-year-rocky-road/ |url-status=live }}</ref>",
                       "url": "https://www.dailymaverick.co.za/article/2022-09-29-controversial-expropriation-bill-is-finally-approved-after-navigating-a-14-year-rocky-road/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -816,21 +816,21 @@
                     {
                       "text": "<ref>{{Cite news |last=Cocks |first=Tim |date=7 December 2021 |title=S. African law change plan to allow land expropriation fails to pass |url=https://www.reuters.com/markets/commodities/safrican-law-change-plan-allow-land-expropriation-fails-pass-2021-12-07/ |access-date=29 April 2024 |work=Reuters |archive-date=30 May 2023 |archive-url=https://web.archive.org/web/20230530220435/http://www.reuters.com/markets/commodities/safrican-law-change-plan-allow-land-expropriation-fails-pass-2021-12-07/ |url-status=live }}</ref>",
                       "url": "https://www.reuters.com/markets/commodities/safrican-law-change-plan-allow-land-expropriation-fails-pass-2021-12-07/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=November 2017 |title=Land Audit Report |url=https://www.gov.za/sites/default/files/gcis_document/201802/landauditreport13feb2018.pdf |access-date=29 April 2024 |website=Department of Rural Development and Land Reform |archive-date=15 May 2024 |archive-url=https://web.archive.org/web/20240515223614/https://www.gov.za/sites/default/files/gcis_document/201802/landauditreport13feb2018.pdf |url-status=live }}</ref>",
                       "url": "https://www.gov.za/sites/default/files/gcis_document/201802/landauditreport13feb2018.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Constrained rural entrepreneurship in South Africa: A tale of two agricultures |url=https://business.leeds.ac.uk/cees/dir-record/research-blog/2161/constrained-rural-entrepreneurship-in-south-africa-a-tale-of-two-agricultures |access-date=30 April 2024 |website=business.leeds.ac.uk|archive-date=30 April 2024 |archive-url=https://web.archive.org/web/20240430231738/https://business.leeds.ac.uk/cees/dir-record/research-blog/2161/constrained-rural-entrepreneurship-in-south-africa-a-tale-of-two-agricultures |url-status=live }}</ref>",
                       "url": "https://business.leeds.ac.uk/cees/dir-record/research-blog/2161/constrained-rural-entrepreneurship-in-south-africa-a-tale-of-two-agricultures",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -842,15 +842,15 @@
                   "references": [
                     {
                       "text": "<ref>{{Cite web |last=Hull |first=Elizabeth |date=17 October 2022 |title=Land reform in South Africa is failing. Ignoring the realities of rural life plays a part |url=http://theconversation.com/land-reform-in-south-africa-is-failing-ignoring-the-realities-of-rural-life-plays-a-part-190452 |access-date=30 April 2024 |website=The Conversation|archive-date=30 April 2024 |archive-url=https://web.archive.org/web/20240430231737/http://theconversation.com/land-reform-in-south-africa-is-failing-ignoring-the-realities-of-rural-life-plays-a-part-190452 |url-status=live }}</ref>",
-                      "url": "http://theconversation.com/land-reform-in-south-africa-is-failing-ignoring-the-realities-of-rural-life-plays-a-part-190452",
-                      "status_code": null,
+                      "url": "https://theconversation.com/land-reform-in-south-africa-is-failing-ignoring-the-realities-of-rural-life-plays-a-part-190452",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":02\">{{Cite web |date=24 February 2024 |title=ANC Election Manifesto |url=https://www.anc1912.org.za/wp-content/uploads/2024/02/ANC-2024-Elections-Manifesto.pdf |access-date=18 April 2024 |website=ANC Manifesto |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419030549/http://www.anc1912.org.za/wp-content/uploads/2024/02/ANC-2024-Elections-Manifesto.pdf |url-status=live }}</ref>",
                       "url": "https://www.anc1912.org.za/wp-content/uploads/2024/02/ANC-2024-Elections-Manifesto.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -863,14 +863,14 @@
                     {
                       "text": "<ref name=\":13\">{{Cite web |date=10 February 2024 |title=2024 Election Manifesto |url=https://effonline.org/wp-content/uploads/2024/02/A5-EFF-2024-Manifesto-full-version.pdf |access-date=29 April 2024 |website=Economic Freedom Fighters |archive-date=9 March 2024 |archive-url=https://web.archive.org/web/20240309185642/https://effonline.org/wp-content/uploads/2024/02/A5-EFF-2024-Manifesto-full-version.pdf |url-status=live }}</ref>",
                       "url": "https://effonline.org/wp-content/uploads/2024/02/A5-EFF-2024-Manifesto-full-version.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=18 November 2019 |title=Julius Malema: Land Expropriation Without Compensation |work=Berkeley Political Review |url=https://bpr.studentorg.berkeley.edu/2019/11/18/julius-malema-land-expropriation-without-compensation/ |access-date=30 April 2024|archive-date=30 April 2024 |archive-url=https://web.archive.org/web/20240430231739/https://bpr.studentorg.berkeley.edu/2019/11/18/julius-malema-land-expropriation-without-compensation/ |url-status=live }}</ref>",
                       "url": "https://bpr.studentorg.berkeley.edu/2019/11/18/julius-malema-land-expropriation-without-compensation/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -890,7 +890,7 @@
                     {
                       "text": "<ref>{{Cite web |title=DA to challenge any attempt to bulldoze Expropriation Bill through parliament |url=https://www.da.org.za/2024/03/da-to-challenge-any-attempt-to-bulldoze-expropriation-bill-through-parliament |access-date=30 April 2024 |website=Democratic Alliance|archive-date=30 April 2024 |archive-url=https://web.archive.org/web/20240430231739/https://www.da.org.za/2024/03/da-to-challenge-any-attempt-to-bulldoze-expropriation-bill-through-parliament |url-status=live }}</ref>",
                       "url": "https://www.da.org.za/2024/03/da-to-challenge-any-attempt-to-bulldoze-expropriation-bill-through-parliament",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -913,14 +913,14 @@
                     {
                       "text": "<ref>{{Cite web |author=Hohm Energy |date=12 May 2023 |title=Sponsored Content: Its now official: South Africa has now had more load shedding in 2023 to date than in 2022 combined |url=https://www.dailymaverick.co.za/article/2023-05-12-its-now-official-south-africa-has-now-had-more-load-shedding-in-2023-to-date-than-in-2022-combined/ |access-date=7 August 2023 |website=Daily Maverick|archive-date=7 August 2023 |archive-url=https://web.archive.org/web/20230807125836/https://www.dailymaverick.co.za/article/2023-05-12-its-now-official-south-africa-has-now-had-more-load-shedding-in-2023-to-date-than-in-2022-combined/ |url-status=live }}</ref>",
                       "url": "https://www.dailymaverick.co.za/article/2023-05-12-its-now-official-south-africa-has-now-had-more-load-shedding-in-2023-to-date-than-in-2022-combined/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Payton |first=Ben |date=14 March 2024 |title=Power struggle: Energy in focus in South Africa's pivotal election |url=https://african.business/2024/03/energy-resources/power-struggle-energy-in-focus-in-south-africas-pivotal-election |access-date=27 March 2024 |website=African Business|archive-date=27 March 2024 |archive-url=https://web.archive.org/web/20240327212957/https://african.business/2024/03/energy-resources/power-struggle-energy-in-focus-in-south-africas-pivotal-election |url-status=live }}</ref>",
                       "url": "https://african.business/2024/03/energy-resources/power-struggle-energy-in-focus-in-south-africas-pivotal-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -933,21 +933,21 @@
                     {
                       "text": "<ref>{{Cite web |date=24 February 2024 |title=South Africa's ANC launches election manifesto as president highlights party's achievements |url=https://apnews.com/article/south-africa-elections-anc-manifesto-jobs-646a45300a06f720fae842f5c1cad56b |access-date=18 April 2024 |website=AP News|archive-date=13 May 2024 |archive-url=https://web.archive.org/web/20240513151041/https://apnews.com/article/south-africa-elections-anc-manifesto-jobs-646a45300a06f720fae842f5c1cad56b |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/south-africa-elections-anc-manifesto-jobs-646a45300a06f720fae842f5c1cad56b",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":02\" /> Additionally, the party views a clean energy transition as essential in solving the energy crisis. Part of this transition is moving away from the coal-based electrical grid that is currently facing loadshedding.<ref>{{Cite web |date=24 February 2024 |title=South Africa's ANC launches election manifesto as president highlights party's achievements |url=https://apnews.com/article/south-africa-elections-anc-manifesto-jobs-646a45300a06f720fae842f5c1cad56b |access-date=30 April 2024 |website=AP News|archive-date=13 May 2024 |archive-url=https://web.archive.org/web/20240513151041/https://apnews.com/article/south-africa-elections-anc-manifesto-jobs-646a45300a06f720fae842f5c1cad56b |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/south-africa-elections-anc-manifesto-jobs-646a45300a06f720fae842f5c1cad56b",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=24 January 2024 |title=Rolling Blackouts in South Africa |url=https://blog.ecoflow.com/za/rolling-blackouts-in-south-africa/ |access-date=1 May 2024 |website=EcoFlow|archive-date=1 May 2024 |archive-url=https://web.archive.org/web/20240501000622/https://blog.ecoflow.com/za/rolling-blackouts-in-south-africa/ |url-status=live }}</ref>",
                       "url": "https://blog.ecoflow.com/za/rolling-blackouts-in-south-africa/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -960,14 +960,14 @@
                     {
                       "text": "<ref>{{Cite web |date=2024 |title=The DA's Rescue Plan For South Africa |url=https://cdn.da.org.za/wp-content/uploads/2024/02/16143750/DA-Election-Manifesto-2024.pdf |access-date=18 April 2024 |website=DA Election Manifesto |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419012148/http://cdn.da.org.za/wp-content/uploads/2024/02/16143750/DA-Election-Manifesto-2024.pdf |url-status=live }}</ref>",
                       "url": "https://cdn.da.org.za/wp-content/uploads/2024/02/16143750/DA-Election-Manifesto-2024.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=What has the DA been doing to fix the electricity crisis? |url=https://www.da.org.za/fixing-the-electricity-crisis |access-date=30 April 2024 |website=Democratic Alliance|archive-date=1 May 2024 |archive-url=https://web.archive.org/web/20240501000615/https://www.da.org.za/fixing-the-electricity-crisis |url-status=live }}</ref>",
-                      "url": "https://www.da.org.za/fixing-the-electricity-crisis",
-                      "status_code": null,
+                      "url": "https://www.da.org.za/not-found",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -990,21 +990,21 @@
                     {
                       "text": "<ref name=\":0\">South African Police Service, 2023. Police Recorded Crime Statistics, Republic of South Africa: Second Quarter of 2023–2024 Financial Year (July 2023 to September 2023). Available at https://www.gov.za/sites/default/files/gcis_documents/saps_stats.pdf {{Webarchive|url=https://web.archive.org/web/20231209070050/https://www.gov.za/sites/default/files/gcis_documents/saps_stats.pdf |date=9 December 2023 }} Accessed on 3 January 2024</ref>",
                       "url": "https://web.archive.org/web/20231209070050/https://www.gov.za/sites/default/files/gcis_documents/saps_stats.pdf",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Blocked: Archive.org URL",
                       "type": null
                     },
                     {
                       "text": "<ref name=\":0\" /> Total contact crimes reported for the quarter are 165,909. The murder rate correlates to 77 people murdered per day, while 160 cases of assault with intent to do grievous bodily harm are reported over the same period.<ref>{{Cite web |date=17 November 2023 |title=Cele and his management content with South Africans living in a slaughter house as bloodbath continues |url=https://actionsociety.co.za/cele-and-his-management-content-with-south-africans-living-in-a-slaughter-house-as-bloodbath-continues/ |access-date=3 January 2024 |website=Action Society|archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103195512/https://actionsociety.co.za/cele-and-his-management-content-with-south-africans-living-in-a-slaughter-house-as-bloodbath-continues/ |url-status=live }}</ref>",
                       "url": "https://actionsociety.co.za/cele-and-his-management-content-with-south-africans-living-in-a-slaughter-house-as-bloodbath-continues/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |date=3 December 2023 |title=South Africa: The region where political violence is on the rise ahead of elections |url=https://www.bbc.com/news/world-africa-67576270 |access-date=31 January 2024 |publisher=BBC News|archive-date=31 January 2024 |archive-url=https://web.archive.org/web/20240131225830/https://www.bbc.com/news/world-africa-67576270 |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/world-africa-67576270",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1017,7 +1017,7 @@
                     {
                       "text": "<ref name=\":4\">{{Cite web |last=du Preez |first=Juanita |date=16 February 2024 |title=One raped every 12 minutes; South Africans abandoned in war against crime – Action Society |url=https://actionsociety.co.za/one-raped-every-12-minutes-south-africans-abandoned-in-war-against-crime-action-society/ |access-date=21 February 2024 |website=Action Society|archive-date=21 February 2024 |archive-url=https://web.archive.org/web/20240221195906/https://actionsociety.co.za/one-raped-every-12-minutes-south-africans-abandoned-in-war-against-crime-action-society/ |url-status=live }}</ref>",
                       "url": "https://actionsociety.co.za/one-raped-every-12-minutes-south-africans-abandoned-in-war-against-crime-action-society/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1040,29 +1040,29 @@
                     {
                       "text": "<ref>{{Cite web |date=19 December 2023 |title=Key statistics ahead of South Africa's 2024 elections |url=https://www.citizen.co.za/news/key-statistics-ahead-of-south-africas-2024-elections/ |access-date=31 January 2024 |website=The Citizen|archive-date=31 January 2024 |archive-url=https://web.archive.org/web/20240131225830/https://www.citizen.co.za/news/key-statistics-ahead-of-south-africas-2024-elections/ |url-status=live }}</ref>",
                       "url": "https://www.citizen.co.za/news/key-statistics-ahead-of-south-africas-2024-elections/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Parliament of the Republic of South Africa |title=Report of the Portfolio Committee on Human Settlements on Budget Vote 33: Human Settlements and on the revised Strategic Plan for the coming Medium Term Expenditure Framework (MTEF) period and Annual Performance Plan 2022–23, 4 May 2022. |url=https://www.groundup.org.za/media/uploads/documents/dhs-2022.pdf |website=GroundUp |access-date=6 February 2024 |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128045857/https://www.groundup.org.za/media/uploads/documents/dhs-2022.pdf |url-status=live }}</ref>",
-                      "url": "https://www.groundup.org.za/media/uploads/documents/dhs-2022.pdf",
-                      "status_code": null,
+                      "url": "https://groundup.org.za/media/uploads/documents/dhs-2022.pdf",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Question to the Minister of Human Settlements – NW535 |url=https://pmg.org.za/committee-question/21399/ |access-date=6 February 2024 |website=pmg.org.za|archive-date=6 February 2024 |archive-url=https://web.archive.org/web/20240206165510/https://pmg.org.za/committee-question/21399/ |url-status=live }}</ref>",
                       "url": "https://pmg.org.za/committee-question/21399/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Bezuidenhout |first=Natasha |title='It is finally happening': Construction of Village Heights development commence |url=https://www.news24.com/news24/community-newspaper/peoples-post/it-is-finally-happening-construction-of-village-heights-development-commence-20230530 |access-date=6 February 2024 |website=News24|archive-date=1 June 2024 |archive-url=https://web.archive.org/web/20240601124851/https://www.news24.com/news24/community-newspaper/peoples-post/it-is-finally-happening-construction-of-village-heights-development-commence-20230530 |url-status=live }}</ref>",
                       "url": "https://www.news24.com/news24/community-newspaper/peoples-post/it-is-finally-happening-construction-of-village-heights-development-commence-20230530",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -1074,7 +1074,7 @@
                     {
                       "text": "<ref>{{Cite web |title=Question to the Minister of Human Settlements – NW398 |url=https://pmg.org.za/committee-question/25189/ |access-date=2 April 2024 |website=pmg.org.za|archive-date=2 April 2024 |archive-url=https://web.archive.org/web/20240402180717/https://pmg.org.za/committee-question/25189/ |url-status=live }}</ref>",
                       "url": "https://pmg.org.za/committee-question/25189/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1097,8 +1097,8 @@
                     {
                       "text": "<ref>{{Cite web |title='Cadre deployment is illegal' – Zondo |url=https://www.news24.com/citypress/politics/cadre-deployment-is-illegal-zondo-20220625 |access-date=23 February 2024 |website=City Press|archive-date=23 February 2024 |archive-url=https://web.archive.org/web/20240223173949/https://www.news24.com/citypress/politics/cadre-deployment-is-illegal-zondo-20220625 |url-status=live }}</ref>",
                       "url": "https://www.news24.com/citypress/politics/cadre-deployment-is-illegal-zondo-20220625",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -1110,21 +1110,21 @@
                     {
                       "text": "<ref>{{Cite web |last=Davis |first=Rebecca |date=12 February 2024 |title=ANC has five days to hand over cadre deployment records to DA |url=https://www.dailymaverick.co.za/article/2024-02-12-anc-given-five-days-to-release-contentious-cadre-deployment-records-to-da/ |access-date=14 February 2024 |website=Daily Maverick|archive-date=14 February 2024 |archive-url=https://web.archive.org/web/20240214094230/https://www.dailymaverick.co.za/article/2024-02-12-anc-given-five-days-to-release-contentious-cadre-deployment-records-to-da/ |url-status=live }}</ref>",
                       "url": "https://www.dailymaverick.co.za/article/2024-02-12-anc-given-five-days-to-release-contentious-cadre-deployment-records-to-da/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=20 February 2024 |title=ANC cadre documents |url=https://cdn.da.org.za/ANC-cadre-documents-20240220.pdf |access-date=23 February 2024 |website=Democratic Alliance |archive-date=23 February 2024 |archive-url=https://web.archive.org/web/20240223173951/https://cdn.da.org.za/ANC-cadre-documents-20240220.pdf |url-status=live }}</ref>",
                       "url": "https://cdn.da.org.za/ANC-cadre-documents-20240220.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=23 February 2024 |title=LIVE: Explosive ANC cadre secrets exposed and what's next |url=https://www.youtube.com/watch?v=1bOVxoA2IR4 |access-date=23 February 2024 |website=Democratic Alliance |archive-date=23 February 2024 |archive-url=https://web.archive.org/web/20240223173950/https://www.youtube.com/watch?v=1bOVxoA2IR4 |url-status=live }}</ref>",
                       "url": "https://www.youtube.com/watch?v=1bOVxoA2IR4",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1147,14 +1147,14 @@
                     {
                       "text": "<ref>{{Cite news |date=31 January 2024 |title=South Africa's Ramaphosa Warns ANC of Foreign Meddling in Vote |url=https://www.bloomberg.com/news/articles/2024-01-31/south-africa-s-ramaphosa-warns-anc-of-foreign-meddling-in-vote |access-date=31 January 2024 |work=Bloomberg.com|archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319233626/https://www.bloomberg.com/news/articles/2024-01-31/south-africa-s-ramaphosa-warns-anc-of-foreign-meddling-in-vote |url-status=live }}</ref>",
                       "url": "https://www.bloomberg.com/news/articles/2024-01-31/south-africa-s-ramaphosa-warns-anc-of-foreign-meddling-in-vote",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |last1=Abbas AlLawati |last2=Nadeen Ebrahim |date=26 January 2024 |title=Why both South Africa and Israel are welcoming the UN court's ruling in a landmark genocide case |url=https://www.cnn.com/2024/01/26/middleeast/israel-genocide-case-icj-ruling-analysis-mime-intl/index.html |access-date=31 January 2024 |website=CNN|archive-date=27 January 2024 |archive-url=https://web.archive.org/web/20240127071852/https://www.cnn.com/2024/01/26/middleeast/israel-genocide-case-icj-ruling-analysis-mime-intl/index.html |url-status=live }}</ref>",
-                      "url": "https://www.cnn.com/2024/01/26/middleeast/israel-genocide-case-icj-ruling-analysis-mime-intl/index.html",
-                      "status_code": null,
+                      "url": "https://edition.cnn.com/2024/01/26/middleeast/israel-genocide-case-icj-ruling-analysis-mime-intl/index.html",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1175,36 +1175,36 @@
                         {
                           "text": "<ref>{{Cite web |date=23 February 2023 |title=Exercise MOSI II underway in South Africa |url=https://www.military.africa/2023/02/exercise-mosi-ii-underway-in-south-africa/ |access-date=10 February 2024 |website=Military Africa|archive-date=29 September 2023 |archive-url=https://web.archive.org/web/20230929024652/https://www.military.africa/2023/02/exercise-mosi-ii-underway-in-south-africa/ |url-status=live }}</ref>",
                           "url": "https://www.military.africa/2023/02/exercise-mosi-ii-underway-in-south-africa/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\":2\">{{Cite web |last=Fabricius |first=Peter |date=3 November 2023 |title=S Africa's links with Hamas and Iran pose new threat to Agoa |url=https://www.dailymaverick.co.za/article/2023-11-03-s-africas-links-with-hamas-and-iran-pose-new-threat-to-agoa/ |access-date=10 February 2024 |website=Daily Maverick|archive-date=9 December 2023 |archive-url=https://web.archive.org/web/20231209032418/https://www.dailymaverick.co.za/article/2023-11-03-s-africas-links-with-hamas-and-iran-pose-new-threat-to-agoa/ |url-status=live }}</ref>",
                           "url": "https://www.dailymaverick.co.za/article/2023-11-03-s-africas-links-with-hamas-and-iran-pose-new-threat-to-agoa/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\":3\">{{Cite web |last=Fabricius |first=Peter |date=2 May 2023 |title=DA and ANC on same side as SA lobbies US over Agoa |url=https://www.dailymaverick.co.za/article/2023-05-02-da-and-anc-on-same-page-about-agoa-but-steenhuisen-touts-anc-is-not-south-africa-to-us/ |access-date=10 February 2024 |website=Daily Maverick|archive-date=1 December 2023 |archive-url=https://web.archive.org/web/20231201010430/https://www.dailymaverick.co.za/article/2023-05-02-da-and-anc-on-same-page-about-agoa-but-steenhuisen-touts-anc-is-not-south-africa-to-us/ |url-status=live }}</ref>",
                           "url": "https://www.dailymaverick.co.za/article/2023-05-02-da-and-anc-on-same-page-about-agoa-but-steenhuisen-touts-anc-is-not-south-africa-to-us/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\":2\" /> In response, the Leader of the Opposition (South Africa)|Leader of the Opposition, John Steenhuisen led a delegation arguing that \"the ANC is not South Africa\" in an effort to lessen the risk of a possible removal from AGOA.<ref name=\":3\" /> Later, the Western Cape Premier, Alan Winde and a provincial delegation also made a trip to the United States to detail the possible impact that a loss would have on the agricultural industry in the province.<ref>{{Cite web |title=Premier Winde pushes for SA's AGOA's reauthorisation in US visit |url=https://www.westerncape.gov.za/news/premier-winde-pushes-sa%E2%80%99s-agoa%E2%80%99s-reauthorisation-us-visit |access-date=10 February 2024 |website=Western Cape Government|archive-date=26 February 2024 |archive-url=https://web.archive.org/web/20240226123141/https://www.westerncape.gov.za/news/premier-winde-pushes-sa%E2%80%99s-agoa%E2%80%99s-reauthorisation-us-visit |url-status=live }}</ref>",
-                          "url": "https://www.westerncape.gov.za/news/premier-winde-pushes-sa%E2%80%99s-agoa%E2%80%99s-reauthorisation-us-visit",
-                          "status_code": null,
+                          "url": "https://www.westerncape.gov.za/news-and-media",
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Maqhina |first=Mayibongwe |date=20 June 2023 |title=Winde's office tight-lipped on cost of US trip to 'save' Agoa |url=https://www.iol.co.za/capetimes/news/windes-office-tight-lipped-on-cost-of-us-trip-to-save-agoa-0a34798d-13d4-4666-bd17-10e5504629c4 |access-date=10 February 2024 |website=IOL |archive-date=29 June 2023 |archive-url=https://web.archive.org/web/20230629080733/https://www.iol.co.za/capetimes/news/windes-office-tight-lipped-on-cost-of-us-trip-to-save-agoa-0a34798d-13d4-4666-bd17-10e5504629c4 |url-status=live }}</ref>",
                           "url": "https://www.iol.co.za/capetimes/news/windes-office-tight-lipped-on-cost-of-us-trip-to-save-agoa-0a34798d-13d4-4666-bd17-10e5504629c4",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         }
                       ]
@@ -1228,28 +1228,28 @@
                     {
                       "text": "<ref>{{Cite web |date=26 November 2023 |title=Challenging political norms: Referendum Party versus DA in the Western Cape |url=https://www.biznews.com/rational-perspective/2023/11/26/referendum-party-vs-da-western-cape |access-date=31 December 2023 |website=BizNews|archive-date=31 December 2023 |archive-url=https://web.archive.org/web/20231231210609/https://www.biznews.com/rational-perspective/2023/11/26/referendum-party-vs-da-western-cape |url-status=live }}</ref>",
                       "url": "https://www.biznews.com/rational-perspective/2023/11/26/referendum-party-vs-da-western-cape",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=4 February 2022 |title=Self-determination is the issue of the year in the Western Cape |url=https://mg.co.za/thought-leader/opinion/2022-02-04-self-determination-is-the-issue-of-the-year-in-the-western-cape/ |access-date=4 January 2024 |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104080235/https://mg.co.za/thought-leader/opinion/2022-02-04-self-determination-is-the-issue-of-the-year-in-the-western-cape/ |url-status=live }}</ref>",
                       "url": "https://mg.co.za/thought-leader/opinion/2022-02-04-self-determination-is-the-issue-of-the-year-in-the-western-cape/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Bourdin |first=Julie |title=CapeXit? Separatists Bid To Split South Africa |url=https://www.barrons.com/news/capexit-separatists-bid-to-split-south-africa-0f74913f |access-date=2 May 2024 |website=Barron's|archive-date=2 May 2024 |archive-url=https://web.archive.org/web/20240502150746/https://www.barrons.com/news/capexit-separatists-bid-to-split-south-africa-0f74913f |url-status=live }}</ref>",
                       "url": "https://www.barrons.com/news/capexit-separatists-bid-to-split-south-africa-0f74913f",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=CapeXit – Own your future {{!}} Besit jou toekoms |url=https://capexit.org/ |access-date=2 May 2024|archive-date=20 April 2024 |archive-url=https://web.archive.org/web/20240420201941/https://capexit.org/ |url-status=live }}</ref>",
                       "url": "https://capexit.org/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1278,14 +1278,14 @@
                     {
                       "text": "<ref>{{Cite web |date=13 September 2023 |title=Solly Msimanga is DA candidate for Gauteng premier |url=https://mg.co.za/politics/2023-09-13-solly-msimanga-is-da-candidate-for-gauteng-premier/ |access-date=11 April 2024 |website=The Mail & Guardian|archive-date=16 October 2023 |archive-url=https://web.archive.org/web/20231016133200/https://mg.co.za/politics/2023-09-13-solly-msimanga-is-da-candidate-for-gauteng-premier/ |url-status=live }}</ref>",
                       "url": "https://mg.co.za/politics/2023-09-13-solly-msimanga-is-da-candidate-for-gauteng-premier/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Njilo |first=Nonkululeko |date=29 February 2024 |title=ActionSA's Funzi Ngobeni joins competitive race for Gauteng premier |url=https://www.dailymaverick.co.za/article/2024-02-29-actionsas-funzi-ngobeni-joins-competitive-race-for-gauteng-premier/ |access-date=11 April 2024 |website=Daily Maverick|archive-date=1 March 2024 |archive-url=https://web.archive.org/web/20240301023504/https://www.dailymaverick.co.za/article/2024-02-29-actionsas-funzi-ngobeni-joins-competitive-race-for-gauteng-premier/ |url-status=live }}</ref>",
                       "url": "https://www.dailymaverick.co.za/article/2024-02-29-actionsas-funzi-ngobeni-joins-competitive-race-for-gauteng-premier/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1308,14 +1308,14 @@
                     {
                       "text": "<ref>{{Cite web |last=Maliti |first=Soyiso |title=DA pins its KZN hopes on 'principled' Pappas for premier |url=https://www.news24.com/news24/politics/da-pins-its-kzn-hopes-on-principled-pappas-for-premier-20230925 |access-date=11 April 2024 |website=News24|archive-date=1 June 2024 |archive-url=https://web.archive.org/web/20240601125823/https://www.news24.com/news24/politics/da-pins-its-kzn-hopes-on-principled-pappas-for-premier-20230925 |url-status=live }}</ref>",
                       "url": "https://www.news24.com/news24/politics/da-pins-its-kzn-hopes-on-principled-pappas-for-premier-20230925",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Mbolekwa |first=Sisanda |title=Thami Ntuli is KZN IFP premier candidate |url=https://www.timeslive.co.za/politics/2024-01-29-thami-ntuli-is-kzn-ifp-premier-candidate/ |access-date=11 April 2024 |website=TimesLIVE|archive-date=4 April 2024 |archive-url=https://web.archive.org/web/20240404082704/https://www.timeslive.co.za/politics/2024-01-29-thami-ntuli-is-kzn-ifp-premier-candidate/ |url-status=live }}</ref>",
                       "url": "https://www.timeslive.co.za/politics/2024-01-29-thami-ntuli-is-kzn-ifp-premier-candidate/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1338,7 +1338,7 @@
                     {
                       "text": "<ref>{{Cite web |last=Cotterell |first=Gareth |date=26 August 2023 |title=Alan Winde announced as DA's Western Cape premier candidate for 2024 election |url=https://www.citizen.co.za/news/south-africa/politics/alan-winde-da-western-cape-premier-candidate-2024-election/ |access-date=11 April 2024 |website=The Citizen|archive-date=30 September 2023 |archive-url=https://web.archive.org/web/20230930071326/https://www.citizen.co.za/news/south-africa/politics/alan-winde-da-western-cape-premier-candidate-2024-election/ |url-status=live }}</ref>",
                       "url": "https://www.citizen.co.za/news/south-africa/politics/alan-winde-da-western-cape-premier-candidate-2024-election/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1367,22 +1367,22 @@
                     {
                       "text": "<ref>{{Cite web |last=Imray |first=Gerald |date=10 May 2024 |title=A campaign ad by a South African party showing a burning flag is called treason by the president |url=https://apnews.com/article/south-africa-election-ad-flag-burning-150e662e71aabbc447f9bbe52abeb75b |access-date=10 May 2024 |website=Associated Press|archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510145219/https://apnews.com/article/south-africa-election-ad-flag-burning-150e662e71aabbc447f9bbe52abeb75b |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/south-africa-election-ad-flag-burning-150e662e71aabbc447f9bbe52abeb75b",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=9 May 2024 |title=Rejection of Democratic Alliance's TV Advertisement |url=https://pbs.twimg.com/media/GNJT78WWUAIffKz?format=jpg&name=large |url-status=live |archive-url=https://web.archive.org/web/20240509151707/https://pbs.twimg.com/media/GNJT78WWUAIffKz?format=jpg&name=large |archive-date=9 May 2024 |access-date=10 May 2024 |website=Internet Archive}}</ref>",
                       "url": "https://pbs.twimg.com/media/GNJT78WWUAIffKz?format=jpg&name=large",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Manjeya |first=Yamkeleka |title=SABC's ban on DA advert raises free speech concerns |url=https://www.news24.com/citypress/politics/sabcs-ban-on-da-advert-raises-free-speech-concerns-20240510 |access-date=10 May 2024 |website=City Press|archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602154535/https://www.news24.com/citypress/politics/sabcs-ban-on-da-advert-raises-free-speech-concerns-20240510 |url-status=live }}</ref>",
                       "url": "https://www.news24.com/citypress/politics/sabcs-ban-on-da-advert-raises-free-speech-concerns-20240510",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -1394,7 +1394,7 @@
                     {
                       "text": "<ref>{{Cite web |date=24 May 2024 |title=SABC fined R500 000 for refusing to air DA election ad – TechCentral |url=https://techcentral.co.za/sabc-fined-refusing-to-air-da-election-ad/245330/ |access-date=24 May 2024|archive-date=24 May 2024 |archive-url=https://web.archive.org/web/20240524192344/https://techcentral.co.za/sabc-fined-refusing-to-air-da-election-ad/245330/ |url-status=live }}</ref>",
                       "url": "https://techcentral.co.za/sabc-fined-refusing-to-air-da-election-ad/245330/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1417,50 +1417,50 @@
                     {
                       "text": "<ref>{{Cite web |title=President Ramaphosa to publicly sign National Health Insurance Bill into law |url=https://www.thepresidency.gov.za/president-ramaphosa-publicly-sign-national-health-insurance-bill-law |access-date=14 May 2024 |website=thepresidency.gov.za |archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514183816/https://www.thepresidency.gov.za/president-ramaphosa-publicly-sign-national-health-insurance-bill-law |url-status=live }}</ref>",
                       "url": "https://www.thepresidency.gov.za/president-ramaphosa-publicly-sign-national-health-insurance-bill-law",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Brand-Jonker |first=Nellie |title=NGV-skok: 'Inkomste uit belasting gaan daal soos middelklas uitstroom' |url=https://www.netwerk24.com/netwerk24/sake/geldsake/mediese-fondse/ngv-skok-inkomste-uit-belasting-gaan-daal-soos-middelklas-uitstroom-20240514 |access-date=14 May 2024 |website=Netwerk24 |language=af-ZA |archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514183816/https://www.netwerk24.com/netwerk24/sake/geldsake/mediese-fondse/ngv-skok-inkomste-uit-belasting-gaan-daal-soos-middelklas-uitstroom-20240514 |url-status=live }}</ref>",
                       "url": "https://www.netwerk24.com/netwerk24/sake/geldsake/mediese-fondse/ngv-skok-inkomste-uit-belasting-gaan-daal-soos-middelklas-uitstroom-20240514",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Mixed reaction as president is set to sign NHI Bill into law – LNN |url=https://www.citizen.co.za/network-news/lnn/article/mixed-reaction-as-president-is-set-to-sign-nhi-bill-into-law/ |access-date=14 May 2024 |website=Network News|archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514183815/https://www.citizen.co.za/network-news/lnn/article/mixed-reaction-as-president-is-set-to-sign-nhi-bill-into-law/ |url-status=live }}</ref>",
                       "url": "https://www.citizen.co.za/network-news/lnn/article/mixed-reaction-as-president-is-set-to-sign-nhi-bill-into-law/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=14 May 2024 |title=NHI will chase South Africa's biggest taxpayers out of the country |url=https://dailyinvestor.com/south-africa/51272/nhi-will-chase-south-africas-biggest-taxpayers-out-of-the-country/ |access-date=14 May 2024 |website=Daily Investor}}</ref>",
                       "url": "https://dailyinvestor.com/south-africa/51272/nhi-will-chase-south-africas-biggest-taxpayers-out-of-the-country/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Motsoere |first=Gloria |title=BLSA believes signing NHI Bill into law will leave healthcare sector worse off |url=https://www.ewn.co.za/2024/05/14/blsa-believes-signing-nhi-bill-into-law-will-leave-healthcare-sector-worse-off |access-date=14 May 2024 |website=EWN|archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514183818/https://www.ewn.co.za/2024/05/14/blsa-believes-signing-nhi-bill-into-law-will-leave-healthcare-sector-worse-off |url-status=live }}</ref>",
                       "url": "https://www.ewn.co.za/2024/05/14/blsa-believes-signing-nhi-bill-into-law-will-leave-healthcare-sector-worse-off",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=DA says it is ready to fight NHI all the way to ConCourt |url=https://www.timeslive.co.za/politics/2024-05-14-da-says-it-is-ready-to-fight-nhi-all-the-way-to-concourt/ |access-date=14 May 2024 |website=TimesLIVE|archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514201101/https://www.timeslive.co.za/politics/2024-05-14-da-says-it-is-ready-to-fight-nhi-all-the-way-to-concourt/ |url-status=live }}</ref>",
                       "url": "https://www.timeslive.co.za/politics/2024-05-14-da-says-it-is-ready-to-fight-nhi-all-the-way-to-concourt/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=ActionSA disappointed President ignored plea not to sign NHI into law |url=https://www.politicsweb.co.za/politics/actionsa-disappointed-president-ignored-plea-not-t |access-date=14 May 2024 |website=politicsweb.co.za|archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602154429/https://www.politicsweb.co.za/politics/actionsa-disappointed-president-ignored-plea-not-t |url-status=live }}</ref>",
                       "url": "https://www.politicsweb.co.za/politics/actionsa-disappointed-president-ignored-plea-not-t",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -1482,14 +1482,14 @@
                     {
                       "text": "<ref>{{Cite web |date=19 May 2024 |title=Jacob Zuma's MK takes fight to ANC stronghold of Soweto in South Africa election |url=https://www.bbc.com/news/articles/c51134895v8o |access-date=21 May 2024 |publisher=BBC News|archive-date=21 May 2024 |archive-url=https://web.archive.org/web/20240521172917/https://www.bbc.com/news/articles/c51134895v8o |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/articles/c51134895v8o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=20 May 2024 |title=Jacob Zuma barred from standing in South Africa's election by Constitutional Court |url=https://www.bbc.com/news/articles/cv22l7mlxdzo |access-date=21 May 2024 |publisher=BBC News|archive-date=21 May 2024 |archive-url=https://web.archive.org/web/20240521134435/https://www.bbc.com/news/articles/cv22l7mlxdzo |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/articles/cv22l7mlxdzo",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1512,15 +1512,15 @@
                     {
                       "text": "<ref>{{Cite web |title=President Ramaphosa to address the nation |url=https://www.thepresidency.gov.za/president-ramaphosa-address-nation-15 |access-date=26 May 2024 |website=thepresidency.gov.za |archive-date=26 May 2024 |archive-url=https://web.archive.org/web/20240526182431/https://www.thepresidency.gov.za/president-ramaphosa-address-nation-15 |url-status=live }}</ref>",
                       "url": "https://www.thepresidency.gov.za/president-ramaphosa-address-nation-15",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=WRAP {{!}} COMMENT: Ramaphosa 'abuses' national address to cynically campaign for the ANC |url=https://www.news24.com/news24/southafrica/news/live-president-cyril-ramaphosa-to-address-the-nation-20240526 |access-date=26 May 2024 |website=News24|archive-date=26 May 2024 |archive-url=https://web.archive.org/web/20240526182456/https://www.news24.com/news24/southafrica/news/live-president-cyril-ramaphosa-to-address-the-nation-20240526 |url-status=live }}</ref>",
                       "url": "https://www.news24.com/news24/southafrica/news/live-president-cyril-ramaphosa-to-address-the-nation-20240526",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -1544,15 +1544,15 @@
                 {
                   "text": "<ref>Several news media sources reported the same poll data, but with varying amounts of attribution to IPSOS and/or the Inclusive Society Institute — and not all of them explicitly lists the date the polling was conducted on, which may lead to the mistaken impression that these articles represent more than one poll taken at different times:\n* {{Cite news |last=Harris |first=Mari |date=27 October 2023 |title=Possible political party choices in the 2024 election |url=https://www.ipsos.com/sites/default/files/ct/news/documents/2023-10/Possible%20political%20party%20choices%20in%20the%202024%20election_Ipsos_Press%20Release_27%20October%202023.pdf |access-date=25 May 2024 |publisher=IPSOS |format=press release |archive-date=25 May 2024 |archive-url=https://web.archive.org/web/20240525023257/https://www.ipsos.com/sites/default/files/ct/news/documents/2023-10/Possible%20political%20party%20choices%20in%20the%202024%20election_Ipsos_Press%20Release_27%20October%202023.pdf |url-status=live }}\n* {{cite news |last1=Haffajee |first1=Ferial |title=ANC support plummets to 33%, but it is still likely to form a government next year, new study finds |url=https://www.dailymaverick.co.za/article/2023-11-28-anc-support-plummets-to-33-but-it-is-still-likely-to-form-a-government-next-year-new-study-finds/ |access-date=25 May 2024 |work=Daily Maverick |date=28 November 2023 |format=news article |archive-date=1 June 2024 |archive-url=https://web.archive.org/web/20240601131323/https://www.dailymaverick.co.za/article/2023-11-28-anc-support-plummets-to-33-but-it-is-still-likely-to-form-a-government-next-year-new-study-finds/ |url-status=live }}\n* {{cite news |last1=Mahlati |first1=Zintle |title=ANC support declines but likely to keep control nationally in 2024 – data |url=https://www.news24.com/news24/politics/political-parties/anc-support-declines-but-likely-to-keep-control-nationally-in-2024-data-20231130 |access-date=25 May 2024 |work=News24 |date=30 November 2023 |format=news article |archive-url=https://web.archive.org/web/20240525023247/https://www.news24.com/news24/politics/political-parties/anc-support-declines-but-likely-to-keep-control-nationally-in-2024-data-20231130 |archive-date=25 May 2024 |url-status=bot: unknown }}\n* {{cite news |title=Inclusive Society Institute GovDem Poll finds that ANC support has dropped significantly |url=https://www.youtube.com/watch?v=jR3zF7Mfrdk |access-date=25 May 2024 |publisher=SABC News |date=30 November 2023 |format=video |quote=These are the poll outcomes for all South Africans eligible to vote in an election. Daryl Swanepoel, the CEO of Inclusive Society Institute, now joins us virtually to chat about this. |archive-date=25 May 2024 |archive-url=https://web.archive.org/web/20240525023242/https://www.youtube.com/watch?v=jR3zF7Mfrdk&gl=US&hl=en |url-status=live }}</ref>",
                   "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2023-10/Possible%20political%20party%20choices%20in%20the%202024%20election_Ipsos_Press%20Release_27%20October%202023.pdf",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |last=Madia |first=Tshidi |date=26 April 2023 |title=National Coalition Made Up of Opposition Parties Highly Unlikely – Poll |url=https://ewn.co.za/2023/04/26/national-coalition-made-up-of-opposition-parties-highly-unlikely-poll/ |archive-url=https://web.archive.org/web/20230526141158/https://ewn.co.za/2023/04/26/national-coalition-made-up-of-opposition-parties-highly-unlikely-poll |archive-date=26 May 2023 |access-date=25 May 2024 |work=Eyewitness News |format=news article}}</ref>",
                   "url": "https://ewn.co.za/2023/04/26/national-coalition-made-up-of-opposition-parties-highly-unlikely-poll/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "news"
                 }
               ]
@@ -1574,56 +1574,56 @@
                 {
                   "text": "<ref name=\"logistics\" /><ref>{{Cite web |title=About voting abroad – Electoral Commission of South Africa |url=https://www.elections.org.za/pw/VotingAbroad/About-Voting-Abroad |website=Elections.org.za |access-date=29 May 2024 |archive-date=21 May 2024 |archive-url=https://web.archive.org/web/20240521225524/https://www.elections.org.za/pw/VotingAbroad/About-Voting-Abroad |url-status=live }}</ref>",
                   "url": "https://www.elections.org.za/pw/VotingAbroad/About-Voting-Abroad",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |date=27 May 2024 |title=Early voting begins in South African elections that could spell end of ANC dominance |url=https://www.france24.com/en/africa/20240527-early-voting-begins-in-south-african-elections-that-could-spell-end-of-anc-dominance |access-date=27 May 2024 |work=France 24|archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527141754/https://www.france24.com/en/africa/20240527-early-voting-begins-in-south-african-elections-that-could-spell-end-of-anc-dominance |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/africa/20240527-early-voting-begins-in-south-african-elections-that-could-spell-end-of-anc-dominance",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=29 May 2024 |title=South Africans begins voting in an election seen as their country's most important in 30 years |url=https://apnews.com/article/south-africa-election-anc-vote-db201bc1aa21a1d986d50af1674a8e78 |access-date=29 May 2024 |work=Associated Press|archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602154457/https://apnews.com/article/south-africa-election-anc-vote-db201bc1aa21a1d986d50af1674a8e78 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-africa-election-anc-vote-db201bc1aa21a1d986d50af1674a8e78",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=29 May 2024 |title=South Africans vote in election that could end the ANC's parliamentary majority |url=https://www.france24.com/en/africa/20240529-south-africans-vote-in-election-that-could-end-the-anc-s-parliamentary-majority |access-date=29 May 2024 |work=France 24|archive-date=29 May 2024 |archive-url=https://web.archive.org/web/20240529061323/https://www.france24.com/en/africa/20240529-south-africans-vote-in-election-that-could-end-the-anc-s-parliamentary-majority |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/africa/20240529-south-africans-vote-in-election-that-could-end-the-anc-s-parliamentary-majority",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=29 May 2024 |title=South Africans vote in a pivotal election as president says he has no doubt his ANC party will win |url=https://apnews.com/article/south-africa-election-anc-vote-db201bc1aa21a1d986d50af1674a8e78 |access-date=29 May 2024 |work=Associated Press|archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602154457/https://apnews.com/article/south-africa-election-anc-vote-db201bc1aa21a1d986d50af1674a8e78 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-africa-election-anc-vote-db201bc1aa21a1d986d50af1674a8e78",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |title=EFF's Malema votes after queuing for three hours |url=https://www.the-star.co.ke/news/africa/2024-05-29-effs-malema-votes-after-queuing-for-three-hours/ |access-date=29 May 2024 |website=The Star (Kenya)|The Star|archive-date=29 May 2024 |archive-url=https://web.archive.org/web/20240529150331/https://www.the-star.co.ke/news/africa/2024-05-29-effs-malema-votes-after-queuing-for-three-hours/ |url-status=live }}</ref>",
-                  "url": "https://www.the-star.co.ke/news/africa/2024-05-29-effs-malema-votes-after-queuing-for-three-hours/",
-                  "status_code": null,
+                  "url": "https://www.the-star.co.ke/news/africa/2024-05-29-effs-malema-votes-after-queuing-for-three-hours",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=South Africa counts ballots in most competitive election since apartheid |url=https://www.france24.com/en/africa/20240530-south-africa-counts-ballots-after-most-competitive-election-since-apartheid |access-date=30 May 2024 |website=France 24 |date=30 May 2024}}</ref>",
                   "url": "https://www.france24.com/en/africa/20240530-south-africa-counts-ballots-after-most-competitive-election-since-apartheid",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Partial count in South Africa election puts ruling ANC below 50% as country senses monumental change |url=https://apnews.com/article/south-africa-election-change-vote-anc-25a03780bec29503ab3d9f6e9f96dc4c |access-date=30 May 2024 |website=Associated Press |date=30 May 2024|archive-date=1 June 2024 |archive-url=https://web.archive.org/web/20240601131904/https://apnews.com/article/south-africa-election-change-vote-anc-25a03780bec29503ab3d9f6e9f96dc4c |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-africa-election-change-vote-anc-25a03780bec29503ab3d9f6e9f96dc4c",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1636,14 +1636,14 @@
                 {
                   "text": "<ref>{{Cite web |title=South Africa leader under pressure after election blow |url=https://www.bbc.com/news/articles/cyeek2xlgzzo |access-date=1 June 2024 |publisher=BBC|archive-date=31 May 2024 |archive-url=https://web.archive.org/web/20240531225129/https://www.bbc.com/news/articles/cyeek2xlgzzo |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/articles/cyeek2xlgzzo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=South Africa political parties cobble together unity government as deadline to elect president looms |url=https://apnews.com/article/south-africa-elections-lawmakers-parliament-negotiations-3fc23d8f18cbd62be982d1076c7e2e46 |access-date=13 June 2024 |website=Associated Press|date=13 June 2024 |archive-date=13 June 2024 |archive-url=https://web.archive.org/web/20240613084029/https://apnews.com/article/south-africa-elections-lawmakers-parliament-negotiations-3fc23d8f18cbd62be982d1076c7e2e46 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-africa-elections-lawmakers-parliament-negotiations-3fc23d8f18cbd62be982d1076c7e2e46",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1666,42 +1666,42 @@
                 {
                   "text": "<ref>{{Cite web |title=South Africa election result: Will ANC share power with MK party or DA? |url=https://www.bbc.com/news/articles/cyeek2xlgzzo |access-date=2 June 2024 |publisher=BBC|archive-date=1 June 2024 |archive-url=https://web.archive.org/web/20240601124426/https://www.bbc.com/news/articles/cyeek2xlgzzo |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/articles/cyeek2xlgzzo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=1 June 2024 |title=South Africa's ANC loses its 30-year majority in landmark election |url=https://www.voanews.com/a/7638745.html |access-date=2 June 2024 |website=Voice of America|archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602160329/https://www.voanews.com/a/7638745.html |url-status=live }}</ref>",
                   "url": "https://www.voanews.com/a/7638745.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2 June 2024 |title=South Africa elections results: What happens next? |url=https://www.aljazeera.com/news/2024/6/2/south-africa-elections-results-what-happens-next |access-date=2 June 2024 |website=Al Jazeera|archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602155002/https://www.aljazeera.com/news/2024/6/2/south-africa-elections-results-what-happens-next |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/6/2/south-africa-elections-results-what-happens-next",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>IEC South Africa, National and Provincial election results https://results.elections.org.za/home/Downloads/NPE-Results {{Webarchive|url=https://web.archive.org/web/20240603111020/https://results.elections.org.za/home/Downloads/NPE-Results |date=3 June 2024 }}</ref>",
                   "url": "https://web.archive.org/web/20240603111020/https://results.elections.org.za/home/Downloads/NPE-Results",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
                   "type": null
                 },
                 {
                   "text": "<ref>{{Cite web |date=4 June 2024 |title=Race to form South Africa's next government: Who will the ANC ally with? |url=https://www.aljazeera.com/news/2024/6/3/race-to-form-south-africas-next-government-who-will-the-anc-ally-with |access-date=4 June 2024 |website=Al Jazeera|archive-date=3 June 2024 |archive-url=https://web.archive.org/web/20240603235209/https://www.aljazeera.com/news/2024/6/3/race-to-form-south-africas-next-government-who-will-the-anc-ally-with |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/6/3/race-to-form-south-africas-next-government-who-will-the-anc-ally-with",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"nai.uu.se\">{{Cite web |title=Big man politics and multi-party rule call for new gender plans - The Nordic Africa Institute |url=https://nai.uu.se/stories-and-events/news/2024-11-13-big-man-politics-and-multi-party-rule-call-for-new-gender-plans.html |access-date=2024-11-15 |website=nai.uu.se |language=en}}</ref>",
                   "url": "https://nai.uu.se/stories-and-events/news/2024-11-13-big-man-politics-and-multi-party-rule-call-for-new-gender-plans.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1740,35 +1740,35 @@
                     {
                       "text": "<ref>{{cite news |last1=Monteiro |first1=Ana |title=ANC Loses Its Outright Majority in South Africa's Northern Cape |url=https://www.bloomberg.com/news/articles/2024-05-31/anc-loses-its-outright-majority-in-south-africa-s-northern-cape |access-date=4 June 2024 |agency=Bloomberg |date=31 May 2024 |archive-date=5 June 2024 |archive-url=https://web.archive.org/web/20240605080415/https://www.bloomberg.com/news/articles/2024-05-31/anc-loses-its-outright-majority-in-south-africa-s-northern-cape |url-status=live }}</ref>",
                       "url": "https://www.bloomberg.com/news/articles/2024-05-31/anc-loses-its-outright-majority-in-south-africa-s-northern-cape",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=SCHRIEBER |first1=SINESIPHO |title=From 53% to 36%: ANC loses confidence of Gauteng voters |url=https://www.timeslive.co.za/politics/2024-06-01-from-53-to-36-anc-loses-confidence-of-gauteng-voters/ |access-date=4 June 2024 |agency=Times Live |date=1 June 2024 |archive-date=5 June 2024 |archive-url=https://web.archive.org/web/20240605235559/https://www.timeslive.co.za/politics/2024-06-01-from-53-to-36-anc-loses-confidence-of-gauteng-voters/ |url-status=live }}</ref>",
                       "url": "https://www.timeslive.co.za/politics/2024-06-01-from-53-to-36-anc-loses-confidence-of-gauteng-voters/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Matlata |first1=Alex |title=Limpopo delivers big win for ANC, defying expectations |url=https://www.citizen.co.za/news/south-africa/elections/limpopo-delivers-big-win-for-anc-defying-expectations/ |access-date=4 June 2024 |agency=The Citizen |date=4 June 2024 |archive-date=4 June 2024 |archive-url=https://web.archive.org/web/20240604050643/https://www.citizen.co.za/news/south-africa/elections/limpopo-delivers-big-win-for-anc-defying-expectations/ |url-status=live }}</ref>",
                       "url": "https://www.citizen.co.za/news/south-africa/elections/limpopo-delivers-big-win-for-anc-defying-expectations/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Monique |first1=Vanek |title=South Africa's DA Holds Onto Power in Western Cape Province |url=https://www.bloomberg.com/news/articles/2024-06-01/south-africa-s-da-holds-onto-power-in-western-cape-province |access-date=4 June 2024 |agency=Bloomberg |date=1 June 2024 |archive-date=5 June 2024 |archive-url=https://web.archive.org/web/20240605080415/https://www.bloomberg.com/article/api/blens |url-status=live }}</ref>",
                       "url": "https://www.bloomberg.com/news/articles/2024-06-01/south-africa-s-da-holds-onto-power-in-western-cape-province",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Hunter |first1=Qaanitah |title=Zuma big election 'winner' as South Africa heads for coalition government |url=https://www.aljazeera.com/news/2024/5/31/zuma-big-election-winner-as-south-africa-heads-for-coalition-government |access-date=4 June 2024 |agency=AlJazeera |date=31 May 2024 |archive-date=31 May 2024 |archive-url=https://web.archive.org/web/20240531143528/https://www.aljazeera.com/news/2024/5/31/zuma-big-election-winner-as-south-africa-heads-for-coalition-government |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/5/31/zuma-big-election-winner-as-south-africa-heads-for-coalition-government",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1883,14 +1883,14 @@
                 {
                   "text": "<ref>{{Cite news |date=31 May 2024 |title=South Africa heads for 'coalition country' as partial election results put ruling ANC well below 50% |url=https://apnews.com/article/south-africa-election-vote-anc-0799ce0d04399fdf594aa8a7ac7914e3 |access-date=31 May 2024 |work=Associated Press|archive-date=31 May 2024 |archive-url=https://web.archive.org/web/20240531084810/https://apnews.com/article/south-africa-election-vote-anc-0799ce0d04399fdf594aa8a7ac7914e3 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-africa-election-vote-anc-0799ce0d04399fdf594aa8a7ac7914e3",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2 June 2024 |title=The ANC party that freed South Africa from apartheid loses its 30-year majority in landmark election |url=https://apnews.com/article/south-africa-election-vote-anc-d9da7582ca98a4e00fec2da6a5fe1e91 |access-date=2 June 2024 |website=Associated Press|archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602034552/https://apnews.com/article/south-africa-election-vote-anc-d9da7582ca98a4e00fec2da6a5fe1e91 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-africa-election-vote-anc-d9da7582ca98a4e00fec2da6a5fe1e91",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1903,43 +1903,43 @@
                 {
                   "text": "<ref>{{Cite news |date=31 May 2024 |title=Zuma big election 'winner' as South Africa heads for coalition government |url=https://www.aljazeera.com/news/2024/5/31/zuma-big-election-winner-as-south-africa-heads-for-coalition-government |access-date=31 May 2024 |work=Al Jazeera|archive-date=31 May 2024 |archive-url=https://web.archive.org/web/20240531143528/https://www.aljazeera.com/news/2024/5/31/zuma-big-election-winner-as-south-africa-heads-for-coalition-government |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/5/31/zuma-big-election-winner-as-south-africa-heads-for-coalition-government",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"f24anc\" /> adding that the party had heard the popular will and was \"humbled\" by the election result. Mbalula also said that the ANC would reject conditions by other parties for Cyril Ramaphosa to step down as president.<ref>{{Cite web |date=2 June 2024 |title=South Africa's 'humbled' ANC talking to all parties as country looks for way forward after election |url=https://apnews.com/article/south-africa-election-anc-vote-68a64d6bb5f0655233c7d6d4aa7bb0e8 |access-date=2 June 2024 |website=Associated Press|archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602123031/https://apnews.com/article/south-africa-election-anc-vote-68a64d6bb5f0655233c7d6d4aa7bb0e8 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-africa-election-anc-vote-68a64d6bb5f0655233c7d6d4aa7bb0e8",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=3 June 2024 |title=South Africa's president urges parties to find common ground in talks after election deadlock |url=https://apnews.com/article/south-africa-election-anc-vote-68a64d6bb5f0655233c7d6d4aa7bb0e8 |access-date=3 June 2024 |website=Associated Press|archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602123031/https://apnews.com/article/south-africa-election-anc-vote-68a64d6bb5f0655233c7d6d4aa7bb0e8 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-africa-election-anc-vote-68a64d6bb5f0655233c7d6d4aa7bb0e8",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Koko |first=Mongezi |title=ANC Gauteng says going back to the drawing board for way forward on coalitions |url=https://www.ewn.co.za/2024/05/31/anc-gauteng-says-going-back-to-the-drawing-board-for-way-forward-on-coalitions |access-date=2 June 2024 |website=EWN|archive-date=3 June 2024 |archive-url=https://web.archive.org/web/20240603004515/https://www.ewn.co.za/2024/05/31/anc-gauteng-says-going-back-to-the-drawing-board-for-way-forward-on-coalitions |url-status=live }}</ref>",
                   "url": "https://www.ewn.co.za/2024/05/31/anc-gauteng-says-going-back-to-the-drawing-board-for-way-forward-on-coalitions",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Ndletyana |first=Mcebisi |title=Coalition quandary: Zuma's KZN conundrum |url=https://www.news24.com/news24/opinions/columnists/mcebsisi-ndletyana/mcebisi-ndletyana-coalition-quandary-zumas-kzn-conundrum-20240602 |access-date=2 June 2024 |website=News24|archive-date=3 June 2024 |archive-url=https://web.archive.org/web/20240603004055/https://www.news24.com/news24/opinions/columnists/mcebsisi-ndletyana/mcebisi-ndletyana-coalition-quandary-zumas-kzn-conundrum-20240602 |url-status=live }}</ref>",
                   "url": "https://www.news24.com/news24/opinions/columnists/mcebsisi-ndletyana/mcebisi-ndletyana-coalition-quandary-zumas-kzn-conundrum-20240602",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Khoza |first=Amanda |title='A bolt from Nkandla': DA set on keeping 'destructive' MKP out of KZN govt as coalitions talks open |url=https://www.news24.com/news24/politics/a-bolt-from-nkandla-da-set-on-keeping-destructive-mkp-out-of-kzn-govt-as-coalitions-talks-open-20240601 |access-date=2 June 2024 |website=News24|archive-date=3 June 2024 |archive-url=https://web.archive.org/web/20240603004055/https://www.news24.com/news24/politics/a-bolt-from-nkandla-da-set-on-keeping-destructive-mkp-out-of-kzn-govt-as-coalitions-talks-open-20240601 |url-status=live }}</ref>",
                   "url": "https://www.news24.com/news24/politics/a-bolt-from-nkandla-da-set-on-keeping-destructive-mkp-out-of-kzn-govt-as-coalitions-talks-open-20240601",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -1951,57 +1951,57 @@
                 {
                   "text": "<ref>{{cite news|url=https://www.ft.com/content/ec2de91c-fba7-493b-9ee9-8840bb8413da|title=ANC internal document advises coalition deal with centrist Democratic Alliance|first1=Rob|last1=Rose|first2=David|last2=Pilling|publisher=The Financial Times|date=4 June 2024|accessdate=4 June 2024|archive-date=5 June 2024|archive-url=https://web.archive.org/web/20240605235558/https://www.ft.com/content/ec2de91c-fba7-493b-9ee9-8840bb8413da|url-status=live}}</ref>",
                   "url": "https://www.ft.com/content/ec2de91c-fba7-493b-9ee9-8840bb8413da",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |url=https://www.bbc.com/news/articles/c9001dkzxeno |title=ANC eyes national unity government after election loss |publisher=BBC |date=5 June 2024 |accessdate=5 June 2024 |archive-date=5 June 2024 |archive-url=https://web.archive.org/web/20240605123000/https://www.bbc.com/news/articles/c9001dkzxeno |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/articles/c9001dkzxeno",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=anccoalitiontalks>{{cite news |url=https://apnews.com/article/south-africa-anc-coalition-election-d5539bff35b52bfcefad95a06aede026 |title=South Africa's weakened ANC talks with 5 parties over possible coalition but says it's still early |first=Mogomotsi |last=Magome |publisher=Associated Press |date=5 June 2024 |accessdate=5 June 2024 |archive-date=5 June 2024 |archive-url=https://web.archive.org/web/20240605124034/https://apnews.com/article/south-africa-anc-coalition-election-d5539bff35b52bfcefad95a06aede026 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-africa-anc-coalition-election-d5539bff35b52bfcefad95a06aede026",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=anccoalitiontalks /> On 6 June, the MK confirmed that it was engaged in negotiations with the ANC.<ref>{{Cite news|website=Al Jazeera|title=South Africa's ANC will seek national unity government, Ramaphosa says|url=https://www.aljazeera.com/news/2024/6/6/989|date=7 June 2024|access-date=7 June 2024|archive-date=7 June 2024|archive-url=https://web.archive.org/web/20240607000220/https://www.aljazeera.com/news/2024/6/6/989|url-status=live}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/6/6/989",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |website=Associated Press |title=South Africa's IFP party says it will join a unity government, a step toward ending deadlock |url=https://apnews.com/article/south-africa-politics-coalition-government-859e3946b00932d60de79a7d33143c41 |date=13 June 2024|access-date=13 June 2024 |archive-date=13 June 2024 |archive-url=https://web.archive.org/web/20240613141040/https://apnews.com/article/south-africa-politics-coalition-government-859e3946b00932d60de79a7d33143c41 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-africa-politics-coalition-government-859e3946b00932d60de79a7d33143c41",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |website=Associated Press |title=South Africa's ANC says it has broad agreement with main opposition, others on coalition government |url=https://apnews.com/article/south-africa-elections-lawmakers-parliament-negotiations-3fc23d8f18cbd62be982d1076c7e2e46 |date=14 June 2024|access-date=14 June 2024 |archive-date=13 June 2024 |archive-url=https://web.archive.org/web/20240613150901/https://apnews.com/article/south-africa-elections-lawmakers-parliament-negotiations-3fc23d8f18cbd62be982d1076c7e2e46 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/south-africa-elections-lawmakers-parliament-negotiations-3fc23d8f18cbd62be982d1076c7e2e46",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |website=Al Jazeera |title=South African President Ramaphosa set for re-election as DA gives backing |url=https://www.aljazeera.com/news/2024/6/14/south-africas-parliament-choosing-president-amidst-uncertainty |date=14 June 2024|access-date=14 June 2024 |archive-date=15 June 2024 |archive-url=https://web.archive.org/web/20240615064237/https://www.aljazeera.com/news/2024/6/14/south-africas-parliament-choosing-president-amidst-uncertainty |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/6/14/south-africas-parliament-choosing-president-amidst-uncertainty",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=ancda /> The \"fundamental\" principles of what was to become a grand coalition was set by a written agreement dated 17 June 2024 between ANC and DA, referred to as the Statement of Intent.<ref name=\"SignedStatementOfIntent2\">{{cite web |author=Fikile Mbalula |author2=Helen Zille |date=17 June 2024 |title=The GNU's founding statement of intent - ANC/DA |url=https://www.politicsweb.co.za/documents/the-gnus-founding-statement-of-intent--ancda |archive-url=https://web.archive.org/web/20240624122729/https://www.politicsweb.co.za/documents/the-gnus-founding-statement-of-intent--ancda |archive-date=24 June 2024 |access-date=5 July 2024}}</ref>",
                   "url": "https://www.politicsweb.co.za/documents/the-gnus-founding-statement-of-intent--ancda",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -2013,8 +2013,8 @@
                 {
                   "text": "<ref name=\"auto\"/> This decision reduced the charter's seat count from 119 to 113 in the 400-seat National Assembly of South Africa|National Assembly.<ref>{{Cite news|website=SABC News|title=ActionSA resigns from the Multi-Party Charter|url=https://www.sabcnews.com/sabcnews/actionsa-resigns-from-the-multiparty-charter/|url-status=live|date=6 June 2024|access-date=6 June 2024|archive-date=6 June 2024|archive-url=https://web.archive.org/web/20240606220415/https://www.sabcnews.com/sabcnews/actionsa-resigns-from-the-multiparty-charter/}}</ref>",
                   "url": "https://www.sabcnews.com/sabcnews/actionsa-resigns-from-the-multiparty-charter/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "news"
                 }
               ]
@@ -2034,56 +2034,56 @@
                     {
                       "text": "<ref>{{Cite news|website=VOA News|title=South Africa's new parliament to convene Friday as parties scramble to form coalition government|url=https://www.voanews.com/a/south-africa-s-new-parliament-to-convene-friday-as-parties-scramble-to-form-coalition-government/7649965.html|date=10 June 2024|access-date=10 June 2024|archive-date=10 June 2024|archive-url=https://web.archive.org/web/20240610162459/https://www.voanews.com/a/south-africa-s-new-parliament-to-convene-friday-as-parties-scramble-to-form-coalition-government/7649965.html|url-status=live}}</ref>",
                       "url": "https://www.voanews.com/a/south-africa-s-new-parliament-to-convene-friday-as-parties-scramble-to-form-coalition-government/7649965.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Ensor |first=Linda |date=14 June 2024 |title=BREAKING NEWS: Didiza elected Speaker of National Assembly |url=https://www.businesslive.co.za/bd/national/2024-06-14-breaking-news-didiza-elected-speaker-of-national-assembly/ |access-date=2024-06-14 |website=BusinessLIVE|archive-date=14 June 2024 |archive-url=https://web.archive.org/web/20240614161652/https://www.businesslive.co.za/bd/national/2024-06-14-breaking-news-didiza-elected-speaker-of-national-assembly/ |url-status=live }}</ref>",
                       "url": "https://www.businesslive.co.za/bd/national/2024-06-14-breaking-news-didiza-elected-speaker-of-national-assembly/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Lekabe |first=Thapelo |title=UPDATE: Thoko Didiza elected National Assembly Speaker, defeats EFF's Veronica Mente |url=https://www.news24.com/citypress/politics/didiza-and-mente-compete-for-national-assembly-speaker-as-anc-da-seal-unity-deal-20240614 |access-date=2024-06-14 |website=City Press (South Africa)|City Press|archive-date=14 June 2024 |archive-url=https://web.archive.org/web/20240614161650/https://www.news24.com/citypress/politics/didiza-and-mente-compete-for-national-assembly-speaker-as-anc-da-seal-unity-deal-20240614 |url-status=live }}</ref>",
                       "url": "https://www.news24.com/citypress/politics/didiza-and-mente-compete-for-national-assembly-speaker-as-anc-da-seal-unity-deal-20240614",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://www.bloomberg.com/news/articles/2024-06-14/south-african-election-lawmakers-pick-didiza-as-speaker|title=South African Lawmakers Pick ANC's Didiza as Parliament Speaker|first=Paul|last=Vacchiatto|publisher=Bloomberg News|date=14 June 2024|accessdate=14 June 2024|archive-date=15 June 2024|archive-url=https://web.archive.org/web/20240615014404/https://www.bloomberg.com/news/articles/2024-06-14/south-african-election-lawmakers-pick-didiza-as-speaker|url-status=live}}</ref>",
                       "url": "https://www.bloomberg.com/news/articles/2024-06-14/south-african-election-lawmakers-pick-didiza-as-speaker",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://www.bbc.com/news/articles/cneeven9ljpo|title=Cyril Ramaphosa re-elected South African president|publisher=BBC News|date=14 June 2024|accessdate=14 June 2024|archive-date=14 June 2024|archive-url=https://web.archive.org/web/20240614211548/https://www.bbc.com/news/articles/cneeven9ljpo|url-status=live}}</ref>",
                       "url": "https://www.bbc.com/news/articles/cneeven9ljpo",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"ramaphosare-elected\" /> The DA's Annelie Lotriet was elected Deputy Speaker after defeating the African Transformation Movement's Vuyolwethu Zungula|Vuyo Zungula with 273 votes to 54.<ref>{{Cite web |last=Thale |first=Neo |date=2024-06-14 |title=BREAKING: DA's Annelie Lotriet is the new deputy speaker of Parliament |url=https://www.thesouthafrican.com/news/politics/breaking-ancs-thoko-didiza-is-the-new-speaker-of-parliament/ |access-date=2024-06-14 |website=The South African|archive-date=14 June 2024 |archive-url=https://web.archive.org/web/20240614193109/https://www.thesouthafrican.com/news/politics/breaking-ancs-thoko-didiza-is-the-new-speaker-of-parliament/ |url-status=live }}</ref>",
                       "url": "https://www.thesouthafrican.com/news/politics/breaking-ancs-thoko-didiza-is-the-new-speaker-of-parliament/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://www.ewn.co.za/2024/06/14/das-lotriet-pitted-against-atms-zungula-for-deputy-speaker|title=DA's Lotriet pitted against ATM's Zungula for Deputy Speaker |first=Lindsay |last=Dentlinger |publisher=Eytewitness News |date=14 June 2024 |accessdate=14 June 2024 |archive-date=14 June 2024 |archive-url=https://web.archive.org/web/20240614184053/https://www.ewn.co.za/2024/06/14/das-lotriet-pitted-against-atms-zungula-for-deputy-speaker|url-status=live}}</ref>",
                       "url": "https://www.ewn.co.za/2024/06/14/das-lotriet-pitted-against-atms-zungula-for-deputy-speaker",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://www.parliament.gov.za/former-presiding-officers|title=Former Presiding Officers |access-date=14 June 2024 |archive-date=19 May 2024|archive-url=https://web.archive.org/web/20240519142546/https://www.parliament.gov.za/former-presiding-officers|url-status=live}}</ref>",
                       "url": "https://www.parliament.gov.za/former-presiding-officers",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -2096,15 +2096,15 @@
                     {
                       "text": "<ref name=\"ancda2\">{{cite news |last1=Chothia |first1=Farouk |last2=Kupemba |first2=Danai Kesta |last3=Plett-Usher |first3=Barbra |date=14 June 2024 |title=ANC and DA agree on South Africa unity government |url=https://www.bbc.com/news/articles/c8007w4vqveo |url-status=live |archive-url=https://web.archive.org/web/20240614112052/https://www.bbc.com/news/articles/c8007w4vqveo |archive-date=14 June 2024 |access-date=14 June 2024 |work=BBC News}}</ref>",
                       "url": "https://www.bbc.com/news/articles/c8007w4vqveo",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"ramaphosare-elected2\">{{cite news |date=14 June 2024 |title=South Africa's National Assembly re-elects Cyril Ramaphosa as president |url=https://www.reuters.com/world/africa/south-africas-national-assembly-re-elects-cyril-ramaphosa-president-2024-06-14/ |access-date=14 June 2024 |work=Reuters}}</ref>",
                       "url": "https://www.reuters.com/world/africa/south-africas-national-assembly-re-elects-cyril-ramaphosa-president-2024-06-14/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "news"
                     }
                   ]
@@ -2116,8 +2116,8 @@
                     {
                       "text": "<ref>{{Cite web |last=Maromo |first=Jonisayi |date=19 June 2024 |title=Patriotic Alliance: Helen Zille thinks she is in charge of the government of national unity |url=https://www.iol.co.za/news/politics/patriotic-alliance-helen-zille-thinks-she-is-in-charge-of-the-government-of-national-unity-f249576f-b76c-4621-971b-cf711bdeb237 |access-date=19 June 2024 |website=IOL News}}</ref>",
                       "url": "https://www.iol.co.za/news/politics/patriotic-alliance-helen-zille-thinks-she-is-in-charge-of-the-government-of-national-unity-f249576f-b76c-4621-971b-cf711bdeb237",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -2129,21 +2129,21 @@
                     {
                       "text": "<ref name=\"President30June2024\">{{cite web |date=30 June 2024 |title=Statement by President Cyril Ramaphosa on the appointment of members of the national executive |url=https://www.presidency.gov.za/statement-president-cyril-ramaphosa-appointment-members-national-executive |access-date=7 July 2024}}</ref>",
                       "url": "https://www.presidency.gov.za/statement-president-cyril-ramaphosa-appointment-members-national-executive",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"President30June2024YouTube\">{{cite web |date=30 June 2024 |title=President Ramaphosa Announces South African New Government: GNU, A Historic Unity of 11 Parties! |website=YouTube |url=https://www.youtube.com/watch?v=YTTYtynxGY8 |access-date=30 June 2024}}</ref>",
                       "url": "https://www.youtube.com/watch?v=YTTYtynxGY8",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |last=Ludidi |first=Velani |title=United Africans Transformation withdraws from GNU after not getting positions |url=https://www.dailymaverick.co.za/article/2024-07-12-uat-withdraws-from-gnu-after-not-getting-positions/ |access-date=12 July 2024 |website=Daily Maverick|date=12 July 2024 }}</ref>",
                       "url": "https://www.dailymaverick.co.za/article/2024-07-12-uat-withdraws-from-gnu-after-not-getting-positions/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -2156,15 +2156,15 @@
                     {
                       "text": "<ref>{{Cite web |last=Patel |first=Faizel |date=2024-06-23 |title=DA 'wants Steenhuisen as deputy president' in GNU |url=https://www.citizen.co.za/news/south-africa/politics/da-steenhuisen-deputy-president-gnu-ramaphosa-cabinet-latest/ |access-date=2024-06-23 |website=The Citizen |language=en}}</ref>",
                       "url": "https://www.citizen.co.za/news/south-africa/politics/da-steenhuisen-deputy-president-gnu-ramaphosa-cabinet-latest/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |last=Staff Reporter |date=June 23, 2024 |title=Breaking News: ANC issues deadline to DA for new cabinet proposals amid deadlock |url=https://www.iol.co.za/news/politics/breaking-news-anc-issues-deadline-to-da-for-new-cabinet-proposals-amid-deadlock-d64241a9-6998-4643-b1e7-cb1aab56b0de |work=Independent Online}}</ref>",
                       "url": "https://www.iol.co.za/news/politics/breaking-news-anc-issues-deadline-to-da-for-new-cabinet-proposals-amid-deadlock-d64241a9-6998-4643-b1e7-cb1aab56b0de",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -2176,7 +2176,7 @@
                     {
                       "text": "<ref>{{cite news |url=https://apnews.com/article/south-africa-coalition-cabinet-president-757b0f886812371085699c957ae1607a |title=South African parties agree on Cabinet positions, sealing deal on new coalition government |access-date=1 July 2024 |work=Associated Press}}</ref>",
                       "url": "https://apnews.com/article/south-africa-coalition-cabinet-president-757b0f886812371085699c957ae1607a",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -2189,7 +2189,7 @@
                     {
                       "text": "<ref>{{Cite web |date=14 May 2024 |title=ANNOUNCEMENTS, TABLINGS AND COMMITTEE REPORTS |url=https://www.parliament.gov.za/storage/app/media/Docs/atc/51295b9b-a89c-4ff7-bc4f-2d60ad978ee1.pdf |access-date=31 July 2024 |website=Parliament of South Africa}}</ref>",
                       "url": "https://www.parliament.gov.za/storage/app/media/Docs/atc/51295b9b-a89c-4ff7-bc4f-2d60ad978ee1.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -2214,35 +2214,35 @@
                 {
                   "text": "<ref>{{cite news|first=Greg|last=Ardé|url=https://www.dailymaverick.co.za/article/2024-06-14-inkatha-freedom-partys-thami-ntuli-is-voted-in-as-kwazulu-natals-new-premier/|title=Inkatha Freedom Party's Thami Ntuli is voted in as KwaZulu-Natal's new premier|accessdate=2024-06-14|publisher=Daily Maverick|date=2024-06-14|archive-date=14 June 2024|archive-url=https://web.archive.org/web/20240614190011/https://www.dailymaverick.co.za/article/2024-06-14-inkatha-freedom-partys-thami-ntuli-is-voted-in-as-kwazulu-natals-new-premier/|url-status=live}}</ref>",
                   "url": "https://www.dailymaverick.co.za/article/2024-06-14-inkatha-freedom-partys-thami-ntuli-is-voted-in-as-kwazulu-natals-new-premier/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |first=Nqobile |last=Dludla |title=South Africa's KZN province elects IFP member as premier in setback for Zuma |url=https://www.reuters.com/world/africa/south-africas-kzn-province-elects-ifp-member-premier-setback-zuma-2024-06-14/ |access-date=2024-06-14 |publisher=Reuters |date=2024-06-14}}</ref>",
                   "url": "https://www.reuters.com/world/africa/south-africas-kzn-province-elects-ifp-member-premier-setback-zuma-2024-06-14/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |url=https://www.news24.com/news24/politics/coalition-nation-ifps-ntuli-elected-as-kzn-premier-20240614 |title=COALITION NATION: New KZN premier Ntuli to appoint cabinet in four days, promises to fight poverty |publisher=News24 |date=14 June 2024 |accessdate=14 June 2024 |archive-date=15 June 2024 |archive-url=https://web.archive.org/web/20240615064236/https://www.news24.com/news24/politics/coalition-nation-ifps-ntuli-elected-as-kzn-premier-20240614 |url-status=live }}</ref>",
                   "url": "https://www.news24.com/news24/politics/coalition-nation-ifps-ntuli-elected-as-kzn-premier-20240614",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news|url=https://www.dailymaverick.co.za/article/2024-06-18-new-kzn-premier-thami-ntuli-announces-cabinet-during-inauguration-address/|title=New KZN Premier Thami Ntuli announces coalition cabinet during inauguration address|first=Velani|last=Ludidi|publisher=Daily Maverick|date=18 June 2024|accessdate=21 June 2024}}</ref>",
                   "url": "https://www.dailymaverick.co.za/article/2024-06-18-new-kzn-premier-thami-ntuli-announces-cabinet-during-inauguration-address/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news|url=https://www.sabcnews.com/sabcnews/kzn-premier/|title=IFP's Thami Ntuli elected as new KZN Premier|first=Minoahni|last=Pilay|publisher=SABC|date=14 June 2024|accessdate=14 June 2024|archive-date=14 June 2024|archive-url=https://web.archive.org/web/20240614190229/https://www.sabcnews.com/sabcnews/kzn-premier/|url-status=live}}</ref>",
-                  "url": "https://www.sabcnews.com/sabcnews/kzn-premier/",
-                  "status_code": null,
+                  "url": "https://www.sabcnews.com/sabcnews/kzn-premier-2/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -2263,21 +2263,21 @@
                     {
                       "text": "<ref>{{Cite news |date=2 June 2024 |title=Former South Africa leader Zuma threatens legal action over allegations of election irregularities |url=https://apnews.com/article/south-africa-elections-zuma-objections-ead32e32fb549ef56574b0229ada6a05 |access-date=2 June 2024 |work=Associated Press|archive-date=1 June 2024 |archive-url=https://web.archive.org/web/20240601222033/https://apnews.com/article/south-africa-elections-zuma-objections-ead32e32fb549ef56574b0229ada6a05 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/south-africa-elections-zuma-objections-ead32e32fb549ef56574b0229ada6a05",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"f24anc\">{{Cite news |date=2 June 2024 |title=South Africa's ANC to enter coalition talks after landmark election |url=https://www.france24.com/en/africa/20240602-south-africa-s-anc-to-enter-coalition-talks-after-landmark-election |access-date=2 June 2024 |work=France 24}}</ref>",
                       "url": "https://www.france24.com/en/africa/20240602-south-africa-s-anc-to-enter-coalition-talks-after-landmark-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |date=3 June 2024 |title=South Africa president faces up to poor poll result |url=https://www.bbc.com/news/articles/cx99vww50y5o |access-date=3 June 2024 |publisher=BBC|archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602231938/https://www.bbc.com/news/articles/cx99vww50y5o |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/articles/cx99vww50y5o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -2290,28 +2290,28 @@
                     {
                       "text": "<ref>{{cite news| title=South African political party led by Zuma seeks to halt parliament election of country's president |date=11 June 2024 |url=https://abcnews.go.com/International/wireStory/south-african-political-party-led-zuma-seeks-halt-111027490 |archive-url=https://web.archive.org/web/20240611231843/https://abcnews.go.com/International/wireStory/south-african-political-party-led-zuma-seeks-halt-111027490 |archive-date=11 June 2024 |access-date=12 June 2024}}</ref>",
                       "url": "https://abcnews.go.com/International/wireStory/south-african-political-party-led-zuma-seeks-halt-111027490",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Zuma's party seeks to halt parliament election of country's president |date=12 June 2024 |url=https://www.africanews.com/2024/06/12/zumas-party-seeks-to-halt-parliament-election-of-countrys-president/ |work=Africanews |access-date=12 June 2024 |archive-date=12 June 2024 |archive-url=https://web.archive.org/web/20240612085150/https://www.africanews.com/2024/06/12/zumas-party-seeks-to-halt-parliament-election-of-countrys-president/ |url-status=live }}</ref>",
                       "url": "https://www.africanews.com/2024/06/12/zumas-party-seeks-to-halt-parliament-election-of-countrys-president/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://abcnews.go.com/Business/wireStory/south-africa-political-parties-cobble-unity-government-deadline-111083179 |title=South Africa political parties cobble together unity government as deadline to elect president looms |website=ABC News |access-date=13 June 2024 |archive-date=13 June 2024 |archive-url=https://web.archive.org/web/20240613141022/https://abcnews.go.com/Business/wireStory/south-africa-political-parties-cobble-unity-government-deadline-111083179 |url-status=live }}</ref>",
                       "url": "https://abcnews.go.com/Business/wireStory/south-africa-political-parties-cobble-unity-government-deadline-111083179",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://www.africanews.com/2024/06/26/south-africa-mk-party-mps-end-boycott-and-take-oath/ |title=South Africa: MK Party MPs end boycott and take oath |website=Africanews |date=26 June 2024 |access-date=26 June 2024 }}</ref>",
                       "url": "https://www.africanews.com/2024/06/26/south-africa-mk-party-mps-end-boycott-and-take-oath/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }

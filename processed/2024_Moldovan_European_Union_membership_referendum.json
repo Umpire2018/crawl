@@ -14,22 +14,22 @@
                 {
                   "text": "<ref>{{Cite web |title=Moldova announces presidential elections, EU accession referendum for October |url=https://tvpworld.com/77035891/moldova-announces-presidential-elections-eu-accession-referendum-for-october |access-date=2024-04-17 |date=2024-04-17 |website=TVP World}}</ref>",
                   "url": "https://tvpworld.com/77035891/moldova-announces-presidential-elections-eu-accession-referendum-for-october",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":3\">{{Cite news |date=2024-10-21 |title=Moldova narrowly votes for EU membership amid claims of 'unprecedented' Russian interference |url=https://www.abc.net.au/news/2024-10-22/moldova-votes-for-eu-membership-amid-russian-meddling-claims/104500056 |access-date=2024-10-22 |work=ABC News}}</ref>",
                   "url": "https://www.abc.net.au/news/2024-10-22/moldova-votes-for-eu-membership-amid-russian-meddling-claims/104500056",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\":0\">{{Cite web |title=Moldova to hold EU accession referendum in autumn |url=https://seenews.com/news/moldova-to-hold-eu-accession-referendum-in-autumn-1246018 |first= Alexandru |last=Cristea |access-date=2024-03-26 |website=SeeNews |date=19 March 2024}}</ref>",
                   "url": "https://seenews.com/news/moldova-to-hold-eu-accession-referendum-in-autumn-1246018",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -41,22 +41,22 @@
                 {
                   "text": "<ref name=\"launches campaign\">{{Cite web |date=2024-03-18 |title=Moldovan president launches campaign to promote EU referendum |url=https://www.reuters.com/world/europe/moldovan-president-launches-campaign-promote-eu-referendum-2024-03-18/ |website=Reuters |quote=President Maia Sandu launched a campaign to promote an upcoming referendum on Moldova's push to join the European Union on Monday, calling on civil leaders to rally support for the country's accession to the 27-member bloc. ... The referendum would vote on enshrining Moldova's EU ambitions in the constitution ensuring that the bid is not derailed by future governments. }}</ref>",
                   "url": "https://www.reuters.com/world/europe/moldovan-president-launches-campaign-promote-eu-referendum-2024-03-18/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":32\">{{Cite web |title=Moldova's Sandu secures knife-edge EU vote win after 'unfair fight' |first1=Tom |last1=Balmforth |first2=Alexander |last2=Tanas |url=https://www.reuters.com/world/europe/moldovas-eu-referendum-goes-wire-after-sandu-decries-vote-meddling-2024-10-21/ |date=21 October 2024 |website=Reuters |access-date=27 October 2024 }}</ref>",
                   "url": "https://www.reuters.com/world/europe/moldovas-eu-referendum-goes-wire-after-sandu-decries-vote-meddling-2024-10-21/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"auto\">{{Cite press release |date=22 October 2024 |access-date=27 October 2024 |url=https://www.consilium.europa.eu/en/press/press-releases/2024/10/22/republic-of-moldova-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-constitutional-referendum-and-the-first-round-of-the-presidential-elections/ |first=Peter |last=Stano |title=Republic of Moldova: Statement by the High Representative on behalf of the European Union on the constitutional referendum and the first round of the presidential elections |work=Council of the European Union }}</ref>",
                   "url": "https://www.consilium.europa.eu/en/press/press-releases/2024/10/22/republic-of-moldova-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-constitutional-referendum-and-the-first-round-of-the-presidential-elections/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "press"
                 }
               ]
@@ -78,29 +78,29 @@
                 {
                   "text": "<ref>{{Cite web |title=Moldova officially applies for EU membership |url=https://www.aljazeera.com/news/2022/3/3/moldova-officially-applies-for-eu-membership |access-date=2024-03-26 |date=2022-03-03 |website=Al Jazeera}}</ref>",
                   "url": "https://www.aljazeera.com/news/2022/3/3/moldova-officially-applies-for-eu-membership",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2022-06-23 |title=EU leaders grant Ukraine and Moldova candidate status |url=https://www.politico.eu/article/eu-leaders-grant-ukraine-and-moldova-candidate-status/ |access-date=2024-03-26 |website=Politico}}</ref>",
                   "url": "https://www.politico.eu/article/eu-leaders-grant-ukraine-and-moldova-candidate-status/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2023-12-17 |title=European Council decides to open accession negotiations with Ukraine and Moldova, grants candidate status to Georgia |url=https://eufordigital.eu/european-council-decides-to-open-accession-negotiations-with-ukraine-and-moldova-grants-candidate-status-to-georgia/ |access-date=2024-03-26 |website=EU4Digital}}</ref>",
                   "url": "https://eufordigital.eu/european-council-decides-to-open-accession-negotiations-with-ukraine-and-moldova-grants-candidate-status-to-georgia/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |work=romania-insider.com |first=Iulian |last=Ernst |date=22 May 2023 |title=Moldova sets 2030 as EU accession target at massive pro-EU rally in Chisinau |url=https://www.romania-insider.com/moldova-rally-eu-accession-may-2023}}</ref>",
                   "url": "https://www.romania-insider.com/moldova-rally-eu-accession-may-2023}}</ref>",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 }
               ]
@@ -112,7 +112,7 @@
                 {
                   "text": "<ref name=\":0\" /> Sandu also announced the launch of an online platform aimed at promoting the referendum and advocating for the benefits of EU membership to the country.<ref name=\":0\" /> Observers noted she is gearing up to focus her efforts on EU integration, an area where she and her party Party of Action and Solidarity|PAS have experienced consistent success in order to be re-elected.<ref>{{Cite web |last=Solovyov |first=Vladimir |title=Moldova's Sandu Stakes Reelection on EU Integration |url=https://carnegieendowment.org/russia-eurasia/politika/2024/02/moldovas-sandu-stakes-reelection-on-eu-integration?lang=en |access-date=24 October 2024 |date=26 February 2024 |website=Carnegie Endowment for International Peace}}</ref>",
                   "url": "https://carnegieendowment.org/russia-eurasia/politika/2024/02/moldovas-sandu-stakes-reelection-on-eu-integration?lang=en",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -124,22 +124,22 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web |date=2024-03-22 |title=Moldovan Parliament backs bid to join EU, but divisions remain |url=https://www.euractiv.com/section/enlargement/news/moldovan-parliament-backs-bid-to-join-eu-but-divisions-remain/ |website=Euractiv |agency=Reuters |access-date=24 October 2024 }}</ref>",
-                  "url": "https://www.euractiv.com/section/enlargement/news/moldovan-parliament-backs-bid-to-join-eu-but-divisions-remain/",
-                  "status_code": null,
+                  "url": "https://www.euractiv.com/section/global-europe/news/moldovan-parliament-backs-bid-to-join-eu-but-divisions-remain/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=16 May 2024 |access-date=24 October 2024 |first=Rachel |last=Amran |title=Moldova to hold referendum on joining EU in October |url=https://kyivindependent.com/moldova-to-hold-referendum-on-joining-eu-in-october/ |website=The Kyiv Independent}}</ref>",
                   "url": "https://kyivindependent.com/moldova-to-hold-referendum-on-joining-eu-in-october/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=16 May 2024 |title=Moldova To Hold Presidential Vote, EU Referendum In October |url=https://www.rferl.org/a/moldova-referendum-sandu-eu/32951121.html |website=RFE/RL |access-date=24 October 2024 }}</ref>",
                   "url": "https://www.rferl.org/a/moldova-referendum-sandu-eu/32951121.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -159,15 +159,15 @@
                   "references": [
                     {
                       "text": "<ref>{{cite web|url=http://www.rferl.org/content/moldova-gagauz-referendum-counting/25251251.html|title= Gagauzia Voters Reject Closer EU Ties For Moldova |date=2014-02-03|access-date=2014-03-04|publisher=Radio Free Europe/Radio Liberty}}</ref>",
-                      "url": "http://www.rferl.org/content/moldova-gagauz-referendum-counting/25251251.html",
-                      "status_code": null,
+                      "url": "https://www.rferl.org/a/moldova-gagauz-referendum-counting/25251251.html",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://www.rferl.org/a/moldova-gagauzia-eu-referendum/25249087.html |first1=Valentina |last1=Ursu |first2=Diana |last2=Raileanu |title= Concerned About EU Integration, Moldova's Gagauz Region Holds Disputed Referendum|date=2014-02-02|access-date=2014-03-04|publisher=Radio Free Europe/Radio Liberty}}</ref>",
                       "url": "https://www.rferl.org/a/moldova-gagauzia-eu-referendum/25249087.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -192,7 +192,7 @@
                 {
                   "text": "<ref name=\"question\">{{Cite web |date=2024-10-08 |title=Pliant informativ pentru alegătorii din localitățile din stânga Nistrului (RO/RU) |trans-title=Information leaflet for voters in the localities on the left bank of the Dniester (RO/RU) |url=https://a.cec.md/storage/ckfinder/files/Pliant_informativ_A4_Stanga_Nistru_07_10_2024.pdf |access-date=2024-10-11 |website=Central Electoral Commission of the Republic of Moldova |language=ro}}</ref>",
                   "url": "https://a.cec.md/storage/ckfinder/files/Pliant_informativ_A4_Stanga_Nistru_07_10_2024.pdf",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -215,8 +215,8 @@
                 {
                   "text": "<ref>{{cite web |first=Alexander |last=Tanas |url=https://www.reuters.com/world/europe/moldovan-opposition-announces-new-election-bloc-moscow-event-2024-04-21/ |title=Moldovan opposition announces new election bloc at Moscow event |date=21 April 2024 |access-date=22 April 2024 |work=Reuters}}</ref>",
                   "url": "https://www.reuters.com/world/europe/moldovan-opposition-announces-new-election-bloc-moscow-event-2024-04-21/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 }
               ]
@@ -228,28 +228,28 @@
                 {
                   "text": "<ref>{{Cite web |first=Olena |last=Goncharova |url=https://kyivindependent.com/moldovan-broadcasters-headquarters-targeted-in-pre-election-vandalism-spree/ |title=Moldovan broadcaster's headquarters targeted in pre-election vandalism spree |website=The Kyiv Independent |date=29 September 2024 |access-date=27 October 2024 }}</ref>",
                   "url": "https://kyivindependent.com/moldovan-broadcasters-headquarters-targeted-in-pre-election-vandalism-spree/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"Moldova uncovers\">{{Cite news |last=Bandouil |first=Sonya |date=4 October 2024 |title=Moldova uncovers $15 million Russian-backed plot to influence upcoming elections with bribes and disinformation |url=https://kyivindependent.com/moldova-uncovers-15-million-russian-backed-plot-to-influence-upcoming-elections-with-bribes-and-disinformation/ |website=The Kyiv Independent}}</ref>",
                   "url": "https://kyivindependent.com/moldova-uncovers-15-million-russian-backed-plot-to-influence-upcoming-elections-with-bribes-and-disinformation/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"Vote Rigging\">{{Cite web |date=3 October 2024 |title=Moldova Uncovers 'Unprecedented' Pro-Russia Vote Rigging |url=https://www.themoscowtimes.com/2024/10/03/moldova-uncovers-unprecedented-pro-russia-vote-rigging-a86567 |website=The Moscow Times |agency=AFP |access-date=27 October 2024 }}</ref>",
                   "url": "https://www.themoscowtimes.com/2024/10/03/moldova-uncovers-unprecedented-pro-russia-vote-rigging-a86567",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"kremlin denies\">{{Cite web|url=https://www.themoscowtimes.com/2024/10/14/kremlin-denies-meddling-in-moldovas-upcoming-election-a86678 |access-date=21 October 2024 |title=Kremlin Denies Meddling in Moldova's Elections |website=The Moscow Times |date=13 October 2024}}</ref>",
                   "url": "https://www.themoscowtimes.com/2024/10/14/kremlin-denies-meddling-in-moldovas-upcoming-election-a86678",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -262,14 +262,14 @@
                 {
                   "text": "<ref>{{Cite web |first=Sarah |last=Rainsford |url=https://www.bbc.com/news/articles/c23kdjxxx1jo |title=Russian cash-for-votes flows into Moldova as nation heads to polls |website=BBC News |date=19 October 2024 |access-date=21 October 2024}}</ref>",
                   "url": "https://www.bbc.com/news/articles/c23kdjxxx1jo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"bbc-20241021-v\">{{Cite web |url=https://www.bbc.com/news/videos/cpv2vyelvmvo |title=BBC finds evidence of vote-buying in Moldova |work=BBC News |date=21 October 2024 |access-date=21 October 2024}}</ref>",
                   "url": "https://www.bbc.com/news/videos/cpv2vyelvmvo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -282,7 +282,7 @@
                 {
                   "text": "<ref>{{Cite web |url=https://www.themoscowtimes.com/2024/10/16/moldova-says-russia-planning-to-illegally-bus-in-voters-to-moscow-polling-stations-a86716 |title=Moldova Says Russia Planning to Illegally Bus In Voters to Moscow Polling Stations |access-date=21 October 2024 |website=The Moscow Times |date=16 October 2024}}</ref>",
                   "url": "https://www.themoscowtimes.com/2024/10/16/moldova-says-russia-planning-to-illegally-bus-in-voters-to-moscow-polling-stations-a86716",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -295,7 +295,7 @@
                 {
                   "text": "<ref>{{Cite web |first=Stephen |last=McGrath |url=https://apnews.com/article/moldova-election-eu-referendum-russia-639974a2d3acd8d647e787ede0fcbe24 |title=EU candidate Moldova to hold two pivotal votes as officials denounce Russian 'hybrid attacks' |website=Associated Press |date=19 October 2024}}</ref>",
                   "url": "https://apnews.com/article/moldova-election-eu-referendum-russia-639974a2d3acd8d647e787ede0fcbe24",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -308,7 +308,7 @@
                 {
                   "text": "<ref>{{Cite web |url=https://www.lrt.lt/en/news-in-english/19/2394398/lithuanian-led-cyber-response-team-deployed-in-moldova-during-election |title=Lithuanian-led cyber response team deployed in Moldova during election |website=LRT |date=23 October 2024}}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2394398/lithuanian-led-cyber-response-team-deployed-in-moldova-during-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -331,14 +331,14 @@
                 {
                   "text": "<ref name=\"adv\">{{cite news|url=https://adevarul.ro/stiri-externe/republica-moldova/premiera-la-prezidentiale-si-referendumul-din-2395915.html|title=Premieră la prezidențiale și referendumul din Republica Moldova: buletine de vot în șase limbi|first=Alina|last=Cotoros|newspaper=Adevărul|date=20 October 2024|language=ro |access-date=27 October 2024 |trans-title=Presidential and referendum in Moldova: ballot papers in six languages for the first time }}</ref>",
                   "url": "https://adevarul.ro/stiri-externe/republica-moldova/premiera-la-prezidentiale-si-referendumul-din-2395915.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"time\">{{cite news|url=https://www.france24.com/en/europe/20241020-moldovans-vote-in-presidential-election-referendum-on-joining-eu |title=Moldovans elect president, vote on EU path as claims of Russian meddling spike |work=France 24 |date=20 October 2024 |access-date=27 October 2024 }}</ref>",
                   "url": "https://www.france24.com/en/europe/20241020-moldovans-vote-in-presidential-election-referendum-on-joining-eu",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -351,7 +351,7 @@
                 {
                   "text": "<ref name=\"adv\" /> A polling station was also set up in Varnița, Anenii Noi|Varnița to serve voters from Transnistria.<ref name=\"time\"/> There were more than 50 polling stations in Italy, 17 in the United States, and two in Russia (both in Moscow).<ref name=\"bbc diaspora\">{{cite news |first1=Svyatoslav |last1=Khomenko |first2=Ilya |last2=Barabanov |title=Заграница спасла Санду. Что произошло на выборах и референдуме в Молдове |trans-title=The Diaspora saved Sandu. What Happened at the Elections and Referendum in Moldova |url=https://www.bbc.com/russian/articles/cdje14pp4z8o |access-date=22 October 2024 |work=BBC News Русская служба |date=21 October 2024 |language=ru}}</ref>",
                   "url": "https://www.bbc.com/russian/articles/cdje14pp4z8o",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -364,21 +364,21 @@
                 {
                   "text": "<ref>{{cite news |url=https://adevarul.ro/stiri-externe/republica-moldova/candidatul-partidului-socialist-la-presedintie-a-2395921.html |title=Candidatul Partidului Socialist la președinție a refuzat să voteze la refendumul privind aderarea la UE |trans-title=The Socialist Party's presidential candidate refused to vote on the EU membership referendum |newspaper=Adevărul |date=20 October 2024 |language=ro}}</ref>",
                   "url": "https://adevarul.ro/stiri-externe/republica-moldova/candidatul-partidului-socialist-la-presedintie-a-2395921.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"refb\">{{cite news|url=https://www.euronews.ro/articole/dupa-stoianoglo-si-renato-usatii-a-refuzat-sa-voteze-la-refendumul-privind-aderar|title=După Stoianoglo, și Renato Usatîi a refuzat să voteze la refendumul privind aderarea la UE |work=Euronews România |date=20 October 2024|language=ro |access-date=27 October 2024 |trans-title=After Stoianoglo, Renato Usatii refused to vote on the EU accession referendum }}</ref>",
                   "url": "https://www.euronews.ro/articole/dupa-stoianoglo-si-renato-usatii-a-refuzat-sa-voteze-la-refendumul-privind-aderar",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news|url=https://stiri.md/article/politica/igor-dodon-nu-am-votat-pentru-referendum-consider-acest-lucru-ilegal/ |trans-title=Igor Dodon: I did not vote for the referendum. I consider this illegal |title=Igor Dodon: Nu am votat pentru referendum. Consider acest lucru ilegal|newspaper=Știri.md|date=20 October 2024|language=ro}}</ref>",
-                  "url": "https://stiri.md/article/politica/igor-dodon-nu-am-votat-pentru-referendum-consider-acest-lucru-ilegal/",
-                  "status_code": null,
+                  "url": "https://stiri.md/article/politica/igor-dodon-nu-am-votat-pentru-referendum-consider-acest-lucru-ilegal",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -401,7 +401,7 @@
                 {
                   "text": "<ref name=\":1\">{{Cite news |last=Rotari |first=Iurie |date=2024-09-25 |title=Ce partide vor face agitație în campania pentru referendumul despre aderarea R. Moldova la UE |url=https://moldova.europalibera.org/a/ce-partide-vor-face-agitatie-in-campania-pentru-referendumul-despre-aderarea-r-moldova-la-ue/33132065.html |access-date=2024-09-26 |work=Radio Europa Liberă |language=ro}}</ref>",
                   "url": "https://moldova.europalibera.org/a/ce-partide-vor-face-agitatie-in-campania-pentru-referendumul-despre-aderarea-r-moldova-la-ue/33132065.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -414,28 +414,28 @@
                 {
                   "text": "<ref name=\":2\">{{Cite web |title=Înregistrarea participanților la referendum |trans-title=Registration of referendum participants |url=https://a.cec.md/ro/inregistrarea-participantilor-la-referendum-16507.html |access-date=2024-09-26 |website=Central Electoral Commission |language=ro}}</ref>",
                   "url": "https://a.cec.md/ro/inregistrarea-participantilor-la-referendum-16507.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
-                  "text": "<ref name=\":2\" />\n|-\n| style=\"background-color: {{party color|European Social Democratic Party}}\" |\n| European Social Democratic Party (PSDE)\n| Social democracy\n| Ion Sula\n|<ref name=\":2\" />\n|-\n| style=\"background-color: #00ADF1\" |\n| Together Bloc (Împreună){{efn|Bloc consisting of the Dignity and Truth Platform, the League of Cities and Towns (LOS) and the {{ill|Party of Changes (Moldova)|ro|Partidul Schimbării|lt=Party of Changes}}}}\n| Liberalism\n| Octavian Țîcu\n|<ref name=\":2\" />\n|-\n| style=\"background-color: {{party color|Ecologist Green Party (Moldova)}}\" |\n| Ecologist Green Party (Moldova)|Ecologist Green Party (PV)\n| Green politics\n| Anatolie Prohnițchi\n|<ref name=\":2\" />\n|-\n| style=\"background-color: #0000FF\" |\n| Respect Moldova Movement (MRM)\n| Social conservatism\n| Eugeniu Nichiforciuc\n|<ref name=\":2\" />\n|-\n| style=\"background-color: {{party color|Alliance of Liberals and Democrats for Europe (Moldova)}}\" |\n| Alliance of Liberals and Democrats for Europe (Moldova)|Alliance of Liberals and Democrats for Europe (ALDE)\n| Social liberalism\n| Arina Spătaru\n|<ref name=\":2\" />\n|-\n| style=\"background-color: #513083\" |\n| Coalition for Unity and Welfare (CUB)\n| Liberalism\n| Igor Munteanu\n|<ref name=\":2\" />\n|-\n| style=\"background-color: {{Party color|Democracy at Home Party}}\" |\n| Democracy at Home Party (PPDA)\n| Populism\n| Vasile Costiuc\n|<ref name=\":2\" />\n|-\n| style=\"background-color: {{Party color|Alliance for the Union of Romanians}}\" |\n| Alliance for the Union of Romanians (AUR)\n| Romanian nationalism\n| Boris Volosatîi\n|<ref name=\":2\" />\n|-\n| style=\"background-color: #28B1C4\" |\n| We (political party)|We Political Party (NOI)\n| Social democracy\n| Vladimir Dachi\n|<ref name=\":2\" />\n|-\n| style=\"background-color: #2E75B5\" |\n| Party of National Reunification \"Acasă\" (PRN)\n| Moldovan–Romanian unionism\n| Valentin Dolganiuc\n|<ref name=\":2\" />\n|-\n| style=\"background-color: #6DAACB\" |\n| Popular Will Party (PVP)\n| Conservatism\n| Nicolae Gîrbu\n|<ref name=\":2\" />\n|-\n| style=\"background-color: {{Party color|Liberal Democratic Party of Moldova}}\" |\n| ''Liberal Democratic Party of Moldova (PLDM) (excluded from campaign)''\n| ''Conservatism''\n| ''Vladimir Filat''\n|<ref>{{Cite news |date=2024-08-26 |title= Liderul PLDM, Vlad Filat, spune că nu va putea candida la prezidențiale |trans-title=PLDM leader Vlad Filat says he cannot run for president |url=https://moldova.europalibera.org/a/liderul-pldm-vlad-filat-spune-ca-nu-va-putea-candida-la-prezidentiale/33092684.html |access-date=2024-10-18 |work=Radio Europa Liberă |language=ro}}</ref>",
+                  "text": "<ref name=\":2\" />\n|-\n| style=\"background-color: {{party color|European Social Democratic Party}}\" |\n| European Social Democratic Party (PSDE)\n| Social democracy\n| Ion Sula\n|<ref name=\":2\" />\n|-\n| style=\"background-color: #00ADF1\" |\n| Together Bloc (Împreună){{efn|Bloc consisting of the Dignity and Truth Platform, the League of Cities and Towns (LOS) and the {{ill|Party of Change (Moldova)|ro|Partidul Schimbării|lt=Party of Change}}}}\n| Liberalism\n| Octavian Țîcu\n|<ref name=\":2\" />\n|-\n| style=\"background-color: {{party color|Ecologist Green Party (Moldova)}}\" |\n| Ecologist Green Party (Moldova)|Ecologist Green Party (PV)\n| Green politics\n| Anatolie Prohnițchi\n|<ref name=\":2\" />\n|-\n| style=\"background-color: #0000FF\" |\n| Respect Moldova Movement (MRM)\n| Social conservatism\n| Eugeniu Nichiforciuc\n|<ref name=\":2\" />\n|-\n| style=\"background-color: {{party color|Alliance of Liberals and Democrats for Europe (Moldova)}}\" |\n| Alliance of Liberals and Democrats for Europe (Moldova)|Alliance of Liberals and Democrats for Europe (ALDE)\n| Social liberalism\n| Arina Spătaru\n|<ref name=\":2\" />\n|-\n| style=\"background-color: #513083\" |\n| Coalition for Unity and Welfare (CUB)\n| Liberalism\n| Igor Munteanu\n|<ref name=\":2\" />\n|-\n| style=\"background-color: {{Party color|Democracy at Home Party}}\" |\n| Democracy at Home Party (PPDA)\n| Populism\n| Vasile Costiuc\n|<ref name=\":2\" />\n|-\n| style=\"background-color: {{Party color|Alliance for the Union of Romanians}}\" |\n| Alliance for the Union of Romanians (AUR)\n| Romanian nationalism\n| Boris Volosatîi\n|<ref name=\":2\" />\n|-\n| style=\"background-color: #28B1C4\" |\n| We (political party)|We Political Party (NOI)\n| Social democracy\n| Vladimir Dachi\n|<ref name=\":2\" />\n|-\n| style=\"background-color: #2E75B5\" |\n| Party of National Reunification \"Acasă\" (PRN)\n| Moldovan–Romanian unionism\n| Valentin Dolganiuc\n|<ref name=\":2\" />\n|-\n| style=\"background-color: #6DAACB\" |\n| Popular Will Party (PVP)\n| Conservatism\n| Nicolae Gîrbu\n|<ref name=\":2\" />\n|-\n| style=\"background-color: {{Party color|Liberal Democratic Party of Moldova}}\" |\n| ''Liberal Democratic Party of Moldova (PLDM) (excluded from campaign)''\n| ''Conservatism''\n| ''Vladimir Filat''\n|<ref>{{Cite news |date=2024-08-26 |title= Liderul PLDM, Vlad Filat, spune că nu va putea candida la prezidențiale |trans-title=PLDM leader Vlad Filat says he cannot run for president |url=https://moldova.europalibera.org/a/liderul-pldm-vlad-filat-spune-ca-nu-va-putea-candida-la-prezidentiale/33092684.html |access-date=2024-10-18 |work=Radio Europa Liberă |language=ro}}</ref>",
                   "url": "https://moldova.europalibera.org/a/liderul-pldm-vlad-filat-spune-ca-nu-va-putea-candida-la-prezidentiale/33092684.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=2024-08-26 |title=Partidul Liberal susține referendumul, dar nu-și înaintează candidat la funcția de președinte |trans-title=Liberal Party supports referendum, but not its candidate for president |url=https://www.zdg.md/stiri/politic/partidul-liberal-sustine-referendumul-dar-nu-si-inainteaza-candidat-la-functia-de-presedinte/ |access-date=2024-10-26 |work=Ziarul de Gardă |language=ro }}</ref>",
                   "url": "https://www.zdg.md/stiri/politic/partidul-liberal-sustine-referendumul-dar-nu-si-inainteaza-candidat-la-functia-de-presedinte/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=2024-08-15 |title=DECLARAȚIA |trans-title=DECLARATION |url=http://pnl.md/declaratia/ |access-date=2024-10-29 |work=National Liberal Party (Moldova)|National Liberal Party |language=ro }}</ref>",
                   "url": "http://pnl.md/declaratia/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -458,21 +458,21 @@
                 {
                   "text": "<ref>{{cite news|url=https://agora.md/2024/10/17/sondaj-pre-electoral-tot-mai-multi-moldoveni-ar-vota-da-la-referendum |title=Sondaj pre-electoral: Tot mai mulți moldoveni ar vota 'DA' la referendum |trans-title=Pre-election poll: More Moldovans would vote 'YES' in referendum |first=Olga |last=Scripnic |newspaper=Agora |date=17 October 2024 |language=ro}}</ref>",
                   "url": "https://agora.md/2024/10/17/sondaj-pre-electoral-tot-mai-multi-moldoveni-ar-vota-da-la-referendum",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news|url=https://stiri.md/article/social/sondaj-cati-dintre-moldoveni-ar-vota-da-la-referendum/ |trans-title=Poll: How many Moldovans would vote yes in the referendum |title=Sondaj: Câți dintre moldoveni ar vota da la referendum|newspaper=Știri.md|date=16 October 2024|language=ro}}</ref>",
-                  "url": "https://stiri.md/article/social/sondaj-cati-dintre-moldoveni-ar-vota-da-la-referendum/",
-                  "status_code": null,
+                  "url": "https://stiri.md/article/social/sondaj-cati-dintre-moldoveni-ar-vota-da-la-referendum",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news|url=https://tv8.md/2024/10/17/bop-cati-alegatori-ar-participa-la-referendumul-de-duminica-si-cati-ar-vota-in-favoarea-aderarii-moldovei-la-ue/267628 |access-date=27 October 2024 |trans-title=BPO: How many voters would participate in Sunday's referendum and how many would vote in favor of Moldova's EU membership |title=BOP: Câți alegători ar participa la referendumul de duminică și câți ar vota în favoarea aderării Moldovei la UE|first=Constantin|last=Tcaci|publisher=TV8 (Moldovan TV channel)|TV8|date=17 October 2024|language=ro}}</ref>",
                   "url": "https://tv8.md/2024/10/17/bop-cati-alegatori-ar-participa-la-referendumul-de-duminica-si-cati-ar-vota-in-favoarea-aderarii-moldovei-la-ue/267628",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -503,7 +503,7 @@
                       "text": "<ref>{{Cite web |title=Referendum Rezultate |url=https://pv.cec.md/cec-template-referendum-results.html |access-date=2024-10-21 |website=Central Electoral Commission}}</ref>",
                       "url": "https://pv.cec.md/cec-template-referendum-results.html",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     }
                   ]
@@ -534,14 +534,14 @@
                     {
                       "text": "<ref>{{Cite web |first=Vincenzo |last=Genovese |access-date=27 October 2024 |date=21 October 2024 |title=Moldova president alleges vote-buying tainted EU referendum results |url=https://www.euronews.com/my-europe/2024/10/21/moldovas-president-alleges-vote-buying-tainted-eu-referendum-results |website=euronews}}</ref>",
                       "url": "https://www.euronews.com/my-europe/2024/10/21/moldovas-president-alleges-vote-buying-tainted-eu-referendum-results",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"bbc-202410212\">{{Cite web |last1=Rainsford |first1=Sarah |last2=Gozzi |first2=Laura |date=21 October 2024 |title=Moldova says 'Yes' to pro-EU constitutional changes by tiny margin |url=https://www.bbc.com/news/articles/c1wnr5qdxe7o |access-date=21 October 2024 |website=BBC News}}</ref>",
                       "url": "https://www.bbc.com/news/articles/c1wnr5qdxe7o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -554,14 +554,14 @@
                     {
                       "text": "<ref name=\"Moldova uncovers\"/><ref name=\"Vote Rigging\"/> Russia denied the accusations.<ref name=\"kremlin denies2\">{{Cite web |date=13 October 2024 |title=Kremlin Denies Meddling in Moldova's Elections |url=https://www.themoscowtimes.com/2024/10/14/kremlin-denies-meddling-in-moldovas-upcoming-election-a86678 |access-date=21 October 2024 |website=The Moscow Times}}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/10/14/kremlin-denies-meddling-in-moldovas-upcoming-election-a86678",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"radio svoboda-202410212\">{{Cite news |last=Vagner |first=Aleksandra |date=21 October 2024 |title=50 на 50. Как Молдова сближается с Европейским союзом |trans-title=50/50. How Moldova is getting closer to the European Union |url=https://www.svoboda.org/a/na-50-kak-moldova-sblizhaetsya-s-evropeyskim-soyuzom/33166460.html |access-date=21 October 2024 |newspaper=Радио Свобода}}</ref>",
                       "url": "https://www.svoboda.org/a/na-50-kak-moldova-sblizhaetsya-s-evropeyskim-soyuzom/33166460.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -574,7 +574,7 @@
                     {
                       "text": "<ref name=\"bbc-20241021-v\" /> with a first-hand account of a woman asking an election monitor where she could collect the cash promised to her in exchange for her vote while refusing to tell what her vote was.<ref name=\"bbc-202410212\" /> The election monitor Promolex also noted instances at polling stations in Russia in which voters allegedly received white jackets emblazoned with the words \"Russia/Moldova\" as well as invitations to restaurants and internet cards as voting benefits.<ref>{{Cite web |last=Cuckson |first=Madeleine |date=21 October 2024 |title='Wake-Up Call': Moldova Narrowly Votes for EU Accession Amid Alleged Widespread Russian Interference |url=https://www.themoscowtimes.com/2024/10/21/wake-up-call-moldova-narrowly-votes-for-eu-accession-amid-alleged-widespread-russian-interference-a86758 |access-date=21 October 2024 |website=The Moscow Times}}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/10/21/wake-up-call-moldova-narrowly-votes-for-eu-accession-amid-alleged-widespread-russian-interference-a86758",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -587,21 +587,21 @@
                     {
                       "text": "<ref>{{Cite web |title=InforEuro, the exchange rate of the Euro currency |url=https://commission.europa.eu/funding-tenders/procedures-guidelines-tenders/information-contractors-and-beneficiaries/exchange-rate-inforeuro_en |access-date=2024-10-24 |website=European Commission |language=en}}</ref>",
                       "url": "https://commission.europa.eu/funding-tenders/procedures-guidelines-tenders/information-contractors-and-beneficiaries/exchange-rate-inforeuro_en",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Currency Exchange Rates Converter Tool |url=https://fiscaldata.treasury.gov/currency-exchange-rates-converter/ |access-date=2024-10-24 |website=FiscalData.Treasury.gov |publisher=US Department of the Treasury & US Bureau of the Fiscal Service |language=en}}</ref>",
                       "url": "https://fiscaldata.treasury.gov/currency-exchange-rates-converter/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://stirileprotv.ro/stiri/international/sute-de-alegatori-din-moldova-sunt-anchetati-pentru-cumpararea-voturilor-z15-milioane-de-dolari-catre-acesti-oameni.html|title=Sute de alegători din Moldova sunt anchetați pentru că și-ar fi vândut votul Moscovei. Riscă o amendă uriașă|work=Pro TV|date=23 October 2024|language=ro|access-date=27 October 2024 |trans-title=Hundreds of Moldovan voters under investigation for allegedly selling their vote to Moscow. They face a huge fine }}</ref>",
                       "url": "https://stirileprotv.ro/stiri/international/sute-de-alegatori-din-moldova-sunt-anchetati-pentru-cumpararea-voturilor-z15-milioane-de-dolari-catre-acesti-oameni.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -613,8 +613,8 @@
                   "references": [
                     {
                       "text": "<ref>{{cite news|url=https://newsmaker.md/ro/transferuri-de-peste-39-mln-pentru-a-corupe-masiv-electoratul-igp-circa-138-mii-de-persoane-din-moldova-in-contact-cu-psb-bank/|title=Transferuri de până la $39 mln pentru a \"corupe masiv electoratul\". IGP: circa 138 mii de persoane din Moldova – în contact cu PSB Bank |trans-title=Transfers of up to $39 million to \"massively corrupt the electorate\". IGP: about 138 thousand people from Moldova - in contact with PSB Bank |first=Mihaela|last=Conovali|work=NewsMaker|date=24 October 2024|language=ro}}</ref>",
-                      "url": "https://newsmaker.md/ro/transferuri-de-peste-39-mln-pentru-a-corupe-masiv-electoratul-igp-circa-138-mii-de-persoane-din-moldova-in-contact-cu-psb-bank/",
-                      "status_code": null,
+                      "url": "https://newsmaker.md/ro/transferuri-de-peste-39-mln-pentru-a-corupe-masiv-electoratul-igp-circa-138-mii-de-persoane-din-moldova-in-contact-cu-psb-bank",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -626,16 +626,16 @@
                   "references": [
                     {
                       "text": "<ref>{{cite news|url=https://stiri.md/article/social/sondaj-74-7-din-respondenti-cunosc-persoane-care-si-au-vandut-votul/|title=Sondaj: 74,7% din respondenți cunosc persoane care și-au vândut votul|newspaper=Știri.md|date=24 January 2025|language=ro}}</ref>",
-                      "url": "https://stiri.md/article/social/sondaj-74-7-din-respondenti-cunosc-persoane-care-si-au-vandut-votul/",
-                      "status_code": null,
+                      "url": "https://stiri.md/article/social/sondaj-74-7-din-respondenti-cunosc-persoane-care-si-au-vandut-votul",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://anticoruptie.md/ro/stiri/sondaj-moldovenii-nu-au-incredere-in-partide-insa-accepta-beneficii-pentru-vot|title=Sondaj// Moldovenii nu au încredere în partide, însă acceptă beneficii pentru vot|newspaper=Anticoruptie.md|date=27 January 2025|language=ro}}</ref>",
                       "url": "https://anticoruptie.md/ro/stiri/sondaj-moldovenii-nu-au-incredere-in-partide-insa-accepta-beneficii-pentru-vot",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
                       "type": "news"
                     }
                   ]
@@ -657,14 +657,14 @@
                     {
                       "text": "<ref name=\"auto\"/> European Commission President Ursula von der Leyen praised the referendum result, saying that \"In the face of Russia's hybrid tactics, Moldova shows that it is independent, it is strong and it wants a European future!\", while the United States also noted Russian attempts to \"undermine Moldova's election and its European integration\".<ref>{{Cite web |last=McGrath |first=Stephen |date=21 October 2024 |title=Moldova narrowly votes to secure path toward EU membership after accusing Russia of interference |url=https://apnews.com/article/moldova-elections-eu-referendum-russia-325cb2c13beb1d76565a6e2aadef971a |access-date=21 October 2024 |website=Associated Press }}</ref>",
                       "url": "https://apnews.com/article/moldova-elections-eu-referendum-russia-325cb2c13beb1d76565a6e2aadef971a",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=21 October 2024 |title=Kremlin Says Moldova's Election Results 'Raise Questions,' Denies Meddling Claims |url=https://www.themoscowtimes.com/2024/10/21/kremlin-says-moldovas-election-results-raise-questions-denies-meddling-claims-a86757 |access-date=21 October 2024 |website=The Moscow Times}}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/10/21/kremlin-says-moldovas-election-results-raise-questions-denies-meddling-claims-a86757",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -677,7 +677,7 @@
                     {
                       "text": "<ref>{{Cite web |title=Moldova's election and referendum well-managed and competitive, despite serious attempts to undermine its integrity, international observers say |url=https://www.osce.org/odihr/elections/578845 |access-date=2024-10-22 |website=Organization for Security and Co-operation in Europe |date=21 October 2024 }}</ref>",
                       "url": "https://www.osce.org/odihr/elections/578845",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -690,14 +690,14 @@
                     {
                       "text": "<ref>{{Cite web |title=Russia summons Moldova's ambassador over 'hostile' attitude to Russian election observers |url=https://kyivindependent.com/russia-summons-moldovas-ambassador-over-hostile-attitude-to-russian-election-observers/ |access-date=2024-11-07 |website=The Kyiv Independent |date=7 November 2024 }}</ref>",
                       "url": "https://kyivindependent.com/russia-summons-moldovas-ambassador-over-hostile-attitude-to-russian-election-observers/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Moldova formally protests alleged Russian election meddling |url=https://www.aljazeera.com/news/2024/11/12/moldova-formally-protests-alleged-russian-election-meddling |access-date=2024-11-12 |website=Al Jazeera |date=12 November 2024 }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/11/12/moldova-formally-protests-alleged-russian-election-meddling",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -720,7 +720,7 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-10-21 |title=Reacție în tabara Maiei Sandu, după rezultatul pe muchie de cuţit la referendumul din Republica Moldova: 'O victorie la limită este tot o victorie' |website=HotNews.ro |url=https://hotnews.ro/reactie-in-tabara-maiei-sandu-dupa-rezultatul-pe-muchie-de-cutit-la-referendumul-din-republica-moldova-o-victorie-la-limita-este-tot-o-victorie-1817806 |trans-title=Reaction in Maiei Sandu's camp, after the close result in the referendum in Moldova: 'A narrow victory is still a victory' |access-date=2024-10-22 |language=ro}}</ref>",
                       "url": "https://hotnews.ro/reactie-in-tabara-maiei-sandu-dupa-rezultatul-pe-muchie-de-cutit-la-referendumul-din-republica-moldova-o-victorie-la-limita-este-tot-o-victorie-1817806",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -733,7 +733,7 @@
                     {
                       "text": "<ref>{{cite news |url=https://stirileprotv.ro/stiri/international/de-ce-nu-au-fost-anulate-alegerile-din-republica-moldova-in-ciuda-fraudelor-masive-explicatiile-oferite-de-maia-sandu.html |title=De ce nu au fost anulate alegerile din Republica Moldova, în ciuda fraudelor masive. Explicațiile oferite de Maia Sandu |trans-title=Why elections in Moldova were not annulled despite massive fraud. Maia Sandu explains |first=Paul |last=Tecuceanu |work=Pro TV |date=25 October 2024 |language=ro |access-date=27 October 2024 }}</ref>",
                       "url": "https://stirileprotv.ro/stiri/international/de-ce-nu-au-fost-anulate-alegerile-din-republica-moldova-in-ciuda-fraudelor-masive-explicatiile-oferite-de-maia-sandu.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }

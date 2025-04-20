@@ -1,0 +1,106 @@
+{
+  "title": "2024_Sidama_truck_crash",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "On 29 December 2024, a truck carrying passengers lost control while crossing the Gelana Bridge in Bona Zuria, Sidama Region, Ethiopia and fell into the {{citation needed span|date=December 2024|Ganale Doria River|reason=None of the cited sources use this name for the river}} killing 71 people, with four survivors requiring hospital treatment.",
+              "references": [
+                {
+                  "text": "<ref name=\"Zebidewos-2024\"/><ref>[https://www.bbc.com/news/articles/c5y47lz0g82o.amp]</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "With an estimated 26.7 annual road deaths per 100,000 people, road crashes are common in Ethiopia, Africa's second-most populous nation. According to the United Nations, Ethiopian roads and traffic are poorly regulated.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Ethiopia: At least 71 dead after truck plunges into river |url=https://www.dw.com/en/ethiopia-at-least-71-dead-after-truck-plunges-into-river/a-71183889 |access-date=30 December 2024 |website=Deutsche Welle |language=en}}</ref>",
+                  "url": "https://www.dw.com/en/ethiopia-at-least-71-dead-after-truck-plunges-into-river/a-71183889",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=30 December 2024 |title=At least 71 killed in Ethiopia road accident |url=https://www.reuters.com/world/africa/least-60-killed-ethiopia-road-accident-2024-12-30/ |access-date=30 December 2024 |work=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/world/africa/least-60-killed-ethiopia-road-accident-2024-12-30/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Crash",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The crash took place on the Gelana Bridge in the Eastern Zone of Sidama Region, approximately 300 kilometers (180 miles) south of Ethiopia's capital, Addis Ababa.",
+              "references": [
+                {
+                  "text": "<ref name=\"Zebidewos-2024\">{{Cite web |last=Zebidewos |first=Yonatan |date=29 December 2024 |title=Ethiopia traffic accident kills dozens |url=https://www.voanews.com/a/ethiopia-traffic-accident-kills-dozens/7918105.html |access-date=30 December 2024 |website=Voice of America |language=en}}</ref>",
+                  "url": "https://www.voanews.com/a/ethiopia-traffic-accident-kills-dozens/7918105.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"AFP-2024\">{{Cite news |date=29 December 2024 |title=More than 60 people dead after road accident in southern Ethiopia |url=https://www.theguardian.com/world/2024/dec/29/more-than-60-people-dead-after-road-accident-in-southern-ethiopia |access-date=30 December 2024 |work=Agence France-Presse |language=en-GB |via=The Guardian |issn=0261-3077}}</ref>",
+                  "url": "https://www.theguardian.com/world/2024/dec/29/more-than-60-people-dead-after-road-accident-in-southern-ethiopia",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

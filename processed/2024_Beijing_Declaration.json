@@ -13,36 +13,36 @@
               "references": [
                 {
                   "text": "<ref>{{cite web | url=https://www.cnn.com/2024/07/23/china/hamas-fatah-palestinian-factions-beijing-intl-hnk/index.html | title=Hamas and Fatah sign agreement in Beijing 'ending' their division, China says | website=CNN | date=23 July 2024 | access-date=24 July 2024 | archive-date=24 July 2024 | archive-url=https://web.archive.org/web/20240724011500/https://www.cnn.com/2024/07/23/china/hamas-fatah-palestinian-factions-beijing-intl-hnk/index.html | url-status=live }}</ref>",
-                  "url": "https://www.cnn.com/2024/07/23/china/hamas-fatah-palestinian-factions-beijing-intl-hnk/index.html",
-                  "status_code": null,
+                  "url": "https://edition.cnn.com/2024/07/23/china/hamas-fatah-palestinian-factions-beijing-intl-hnk/index.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web | url=https://www.dw.com/en/hamas-and-fatah-sign-declaration-in-beijing/video-69742780 | title=Hamas and Fatah sign declaration in Beijing – DW – 07/23/2024 | website=Deutsche Welle | access-date=24 July 2024 | archive-date=24 July 2024 | archive-url=https://web.archive.org/web/20240724061432/https://www.dw.com/en/hamas-and-fatah-sign-declaration-in-beijing/video-69742780 | url-status=live }}</ref>",
                   "url": "https://www.dw.com/en/hamas-and-fatah-sign-declaration-in-beijing/video-69742780",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web | url=https://www.voanews.com/a/china-announces-agreement-between-palestinian-rivals-hamas-and-fatah-/7709261.html | title=Hamas reaches agreement with rival Fatah in China for unity | date=23 July 2024 | access-date=24 July 2024 | archive-date=24 July 2024 | archive-url=https://web.archive.org/web/20240724031710/https://www.voanews.com/a/china-announces-agreement-between-palestinian-rivals-hamas-and-fatah-/7709261.html | url-status=live }}</ref>",
                   "url": "https://www.voanews.com/a/china-announces-agreement-between-palestinian-rivals-hamas-and-fatah-/7709261.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news | url=https://www.nytimes.com/2024/07/23/world/middleeast/fatah-hamas-china-statement.html | title=Multiple past attempts to broker unity have failed | work=The New York Times | last1=Rasgon | first1=Adam | last2=Stevenson | first2=Alexandra | access-date=24 July 2024 | archive-date=24 July 2024 | archive-url=https://web.archive.org/web/20240724040239/https://www.nytimes.com/2024/07/23/world/middleeast/fatah-hamas-china-statement.html | url-status=live }}</ref>",
                   "url": "https://www.nytimes.com/2024/07/23/world/middleeast/fatah-hamas-china-statement.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web | url=https://www.bbc.com/news/articles/crgm147lzv1o | title=China seeks to unite Palestinian factions with unity deal | access-date=24 July 2024 | archive-date=24 July 2024 | archive-url=https://web.archive.org/web/20240724023727/https://www.bbc.com/news/articles/crgm147lzv1o | url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/articles/crgm147lzv1o",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -65,14 +65,14 @@
                 {
                   "text": "<ref>{{cite web |author=<!--Not stated--> |date=16 November 2023 |title=Gaza: UN experts call on international community to prevent genocide against the Palestinian people |url=https://www.ohchr.org/en/press-releases/2023/11/gaza-un-experts-call-international-community-prevent-genocide-against |archive-url=https://web.archive.org/web/20231224050530/https://www.ohchr.org/en/press-releases/2023/11/gaza-un-experts-call-international-community-prevent-genocide-against |archive-date=24 December 2023 |access-date=22 December 2023 |website=OHCHR |quote=Grave violations committed by Israel against Palestinians in the aftermath of 7 October, particularly in Gaza, point to a genocide in the making, UN experts said today. They illustrated evidence of increasing genocidal incitement, overt intent to \"destroy the Palestinian people under occupation\", loud calls for a 'second Nakba' in Gaza and the rest of the occupied Palestinian territory, and the use of powerful weaponry with inherently indiscriminate impacts, resulting in a colossal death toll and destruction of life-sustaining infrastructure.}}</ref>",
                   "url": "https://www.ohchr.org/en/press-releases/2023/11/gaza-un-experts-call-international-community-prevent-genocide-against",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite report |author=Amnesty International |author-link=Amnesty International |year=2024 |title='You Feel Like You Are Subhuman': Israel's Genocide Against Palestinians In Gaza |url=https://amnesty.ca/wp-content/uploads/2024/12/Amnesty-International-Gaza-Genocide-Report-December-4-2024.pdf |archive-url=https://web.archive.org/web/20241205121850/https://amnesty.ca/wp-content/uploads/2024/12/Amnesty-International-Gaza-Genocide-Report-December-4-2024.pdf |archive-date=5 December 2024 |url-status=live}}</ref>",
                   "url": "https://amnesty.ca/wp-content/uploads/2024/12/Amnesty-International-Gaza-Genocide-Report-December-4-2024.pdf",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "report"
                 }
@@ -116,7 +116,7 @@
                   "text": "<ref name=washpost>{{Cite news |last1=Shepherd |first1=Christian |last2=Hendrix |first2=Steve |last3=Masih |first3=Niha |last4=Dadouch |first4=Sarah |date=2024-07-23 |title=China brokers Palestinian unity declaration in bid to be global mediator |url=https://www.washingtonpost.com/world/2024/07/23/china-hamas-fatah-palestine-beijing-declaration/ |access-date=5 January 2025 |newspaper=The Washington Post |language=en-US |issn=0190-8286 |archive-date=24 July 2024 |archive-url=https://web.archive.org/web/20240724020930/https://www.washingtonpost.com/world/2024/07/23/china-hamas-fatah-palestine-beijing-declaration/ |url-status=live }}</ref>",
                   "url": "https://www.washingtonpost.com/world/2024/07/23/china-hamas-fatah-palestine-beijing-declaration/",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 }
               ]
@@ -140,8 +140,8 @@
               "references": [
                 {
                   "text": "<ref>{{cite news |title=Palestinian Factions Sign Beijing Declaration on Ending Division and Strengthening Palestinian National Unity |url=https://www.mfa.gov.cn/eng/wjdt_665385/wshd_665389/202407/t20240723_11458788.html |url-status=live |archive-url=https://web.archive.org/web/20240727145851/https://www.mfa.gov.cn/eng/wjdt_665385/wshd_665389/202407/t20240723_11458788.html |archive-date=27 July 2024 |access-date=27 July 2024 |work=Ministry of Foreign Affairs, the People's Republic of China}}</ref>",
-                  "url": "https://www.mfa.gov.cn/eng/wjdt_665385/wshd_665389/202407/t20240723_11458788.html",
-                  "status_code": null,
+                  "url": "https://www.mfa.gov.cn/web/system/index_17321.shtml",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -164,7 +164,7 @@
                 {
                   "text": "<ref>{{cite news|url=https://www.al-monitor.com/originals/2024/07/beijing-declaration-china-brokers-hamas-fatah-unity-deal-what-we-know|title='The Beijing Declaration,' China brokers Hamas-Fatah unity deal: What we know|date=July 23, 2024|first=Beatrice|last=Farhat|publisher=Al-Monitor|access-date=24 July 2024|archive-date=24 July 2024|archive-url=https://web.archive.org/web/20240724195409/https://www.al-monitor.com/originals/2024/07/beijing-declaration-china-brokers-hamas-fatah-unity-deal-what-we-know|url-status=live}}</ref>",
                   "url": "https://www.al-monitor.com/originals/2024/07/beijing-declaration-china-brokers-hamas-fatah-unity-deal-what-we-know",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -191,36 +191,36 @@
                     {
                       "text": "<ref>{{cite news |date=July 23, 2024 |title=Presidency welcomes China's position consistent with Palestine's position |url=https://english.wafa.ps/Pages/Details/147289 |publisher=Wafa}}</ref>",
                       "url": "https://english.wafa.ps/Pages/Details/147289",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=July 24, 2024 |title=أبو مرزوق: الوحدة أولوية قصوى وإدامة الانقسام مصلحة استراتيجية للعدو |url=https://palinfo.com/news/2024/07/24/901535 |publisher=Palestinian Information Center |access-date=24 July 2024 |archive-date=24 July 2024 |archive-url=https://web.archive.org/web/20240724100853/https://palinfo.com/news/2024/07/24/901535/ |url-status=live }}</ref>",
                       "url": "https://palinfo.com/news/2024/07/24/901535",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=angieri>{{cite web |last=Angieri |first=Raphael |date=2024 |title=Palestinian Responses to the Beijing Declaration |url=https://www.chinamed.it/observer/palestinian-responses-to-the-beijing-declaration |website=ChinaMED |access-date=5 January 2025}}</ref>",
                       "url": "https://www.chinamed.it/observer/palestinian-responses-to-the-beijing-declaration",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=angieri/>\n*Palestinian National Initiative: Mustafa Barghouti, secretary-general of the Palestinian National Initiative, said that the declaration is more far-reaching than earlier agreements between the Palestinian factions. He stated that it is mainly important because it \"blocks Israeli efforts to create some sort of collaborative structure against Palestinian interests\".<ref>{{cite web |author=<!-- not stated --> |date=23 July 2024 |title=Hamas and Fatah sign unity deal in Beijing aimed at Gaza governance |url=https://www.aljazeera.com/news/2024/7/23/palestinian-rivals-hamas-and-fatah-sign-unity-deal-brokered-by-china |website=Al Jazeera |access-date=5 January 2025}}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/7/23/palestinian-rivals-hamas-and-fatah-sign-unity-deal-brokered-by-china",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |date=July 24, 2024 |title=الجبهة الشعبية: إعلان بكين يتطلب إجراءات عملية وتنفيذية |url=https://palinfo.com/news/2024/07/24/901579/ |publisher=Palestinian Information Center |access-date=24 July 2024 |archive-date=26 July 2024 |archive-url=https://web.archive.org/web/20240726044447/https://palinfo.com/news/2024/07/24/901579/ |url-status=live }}</ref>",
                       "url": "https://palinfo.com/news/2024/07/24/901579/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -242,63 +242,63 @@
                     {
                       "text": "<ref>{{cite web |last=Xiaolin |first=Cao |date=29 August 2024 |title=The Beijing Declaration is a key step to resolve the Palestinian question |url=https://www.aljazeera.com/opinions/2024/8/29/the-beijing-declaration-is-a-key-step-to-resolve-the-palestinian-question |website=Al Jazeera |access-date=5 January 2025}}</ref>",
                       "url": "https://www.aljazeera.com/opinions/2024/8/29/the-beijing-declaration-is-a-key-step-to-resolve-the-palestinian-question",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web| url=https://english.news.cn/20240725/a1fd183b198a474e8fb0a6496ca8c4fe/c.html| title=Egypt welcomes China's efforts for Palestinian national reconciliation| access-date=27 July 2024| archive-date=25 July 2024| archive-url=https://web.archive.org/web/20240725151720/https://english.news.cn/20240725/a1fd183b198a474e8fb0a6496ca8c4fe/c.html| url-status=live}}</ref>",
                       "url": "https://english.news.cn/20240725/a1fd183b198a474e8fb0a6496ca8c4fe/c.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-07-23 |title=Baerbock zu Palästinenser-Einigung: \"Solche Ankündigungen hat es schon vorher gegeben\" |url=https://www.berlinertageblatt.de/Politik/349435-baerbock-zu-palaestinenser-einigung-solche-ankuendigungen-hat-es-schon-vorher-gegeben.html |access-date=2024-08-01 |website=Berliner Tageblatt |language=de}}</ref>",
                       "url": "https://www.berlinertageblatt.de/Politik/349435-baerbock-zu-palaestinenser-einigung-solche-ankuendigungen-hat-es-schon-vorher-gegeben.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://apnews.com/article/israel-palestinians-fatah-hamas-beijing-declaration-d3cc29dd3748c77aeeda9294be6522d5|title=Hamas and Fatah agree to form a government. What does it mean and who are these Palestinian groups?|date=July 23, 2024|first=Jack|last=Jeffery|publisher=Associated Press|access-date=24 July 2024|archive-date=24 July 2024|archive-url=https://web.archive.org/web/20240724061738/https://apnews.com/article/israel-palestinians-fatah-hamas-beijing-declaration-d3cc29dd3748c77aeeda9294be6522d5|url-status=live}}</ref>",
                       "url": "https://apnews.com/article/israel-palestinians-fatah-hamas-beijing-declaration-d3cc29dd3748c77aeeda9294be6522d5",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://www.jpost.com/breaking-news/article-811503|publisher=Jerusalem Post|date=July 23, 2024|title=Hamas, Fatah, Palestinian factions agree to end divisions, form unity gov't after China talks|access-date=24 July 2024|archive-date=24 July 2024|archive-url=https://web.archive.org/web/20240724043110/https://www.jpost.com/breaking-news/article-811503|url-status=live}}</ref>",
                       "url": "https://www.jpost.com/breaking-news/article-811503",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://english.news.cn/20240724/4deca9dcbeba4227ade397c6ac230da3/c.html | title=Malaysia welcomes China's constructive role in Middle East peace process: PM | access-date=27 July 2024 | archive-date=27 July 2024 | archive-url=https://web.archive.org/web/20240727080010/https://english.news.cn/20240724/4deca9dcbeba4227ade397c6ac230da3/c.html | url-status=live }}</ref>",
                       "url": "https://english.news.cn/20240724/4deca9dcbeba4227ade397c6ac230da3/c.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=تُعرب وزارة الخارجية عن ترحيب سلطنة عُمان باجتماع الفصائل الفلسطينية في جمهورية الصين الشعبية خلال الأيام الماضية، وما تمخض عن الاجتماع من توقيع \"إعلان بكين\" |work=X (formerly Twitter) |url=https://x.com/FMofOman/status/1816052261040046191 |language=ar |via=Twitter}}</ref>",
                       "url": "https://x.com/FMofOman/status/1816052261040046191",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 400,
+                      "reason": "Bad Request",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://tribune.com.pk/story/2482309/pm-shehbaz-backs-beijing-declaration-for-palestinian-interim-unity-government | title=PM Shehbaz backs Beijing Declaration for Palestinian interim unity government | date=23 July 2024 | access-date=24 July 2024 | archive-date=24 July 2024 | archive-url=https://web.archive.org/web/20240724005136/https://tribune.com.pk/story/2482309/pm-shehbaz-backs-beijing-declaration-for-palestinian-interim-unity-government | url-status=live }}</ref>",
                       "url": "https://tribune.com.pk/story/2482309/pm-shehbaz-backs-beijing-declaration-for-palestinian-interim-unity-government",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://www.radio.gov.pk/23-07-2024/pm-praises-chinas-role-in-palestinian-unity-agreement | title=PM welcomes Beijing Declaration on Palestine's Unity govt | access-date=24 July 2024 | archive-date=23 July 2024 | archive-url=https://web.archive.org/web/20240723205352/https://www.radio.gov.pk/23-07-2024/pm-praises-chinas-role-in-palestinian-unity-agreement | url-status=live }}</ref>",
                       "url": "https://www.radio.gov.pk/23-07-2024/pm-praises-chinas-role-in-palestinian-unity-agreement",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -306,34 +306,34 @@
                       "text": "<ref>{{cite web | url=https://www.qna.org.qa/en/News-Area/News/2024-07/25/qatar-welcomes-palestinian-factions'-signing-of-beijing-declaration | title=Qatar Welcomes Palestinian Factions' Signing of Beijing Declaration}}</ref>",
                       "url": "https://www.qna.org.qa/en/News-Area/News/2024-07/25/qatar-welcomes-palestinian-factions'-signing-of-beijing-declaration",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Cannot connect to host www.qna.org.qa:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Russia welcomes Beijing Declaration on Palestine |url=https://www.aa.com.tr/en/asia-pacific/russia-welcomes-beijing-declaration-on-palestine/3284263 |access-date=2024-08-01 |website=www.aa.com.tr}}</ref>",
                       "url": "https://www.aa.com.tr/en/asia-pacific/russia-welcomes-beijing-declaration-on-palestine/3284263",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Türkiye welcomes Palestinian political factions' consensus on national unity |url=https://www.aa.com.tr/en/turkiye/turkiye-welcomes-palestinian-political-factions-consensus-on-national-unity/3283439 |url-status=live |archive-url=https://web.archive.org/web/20240723191841/https://www.aa.com.tr/en/turkiye/turkiye-welcomes-palestinian-political-factions-consensus-on-national-unity/3283439 |archive-date=23 July 2024 |access-date=2024-07-26 |website=Anadolu Agency}}</ref>",
                       "url": "https://www.aa.com.tr/en/turkiye/turkiye-welcomes-palestinian-political-factions-consensus-on-national-unity/3283439",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://abcnews.go.com/International/wireStory/hamas-fatah-sign-declaration-beijing-ending-yearslong-rift-112186452|title=Hamas and Fatah sign declaration in Beijing on ending rift, Chinese state media says|agency=Associated Press|date=July 23, 2024|first1=Jack|last1=Jeffry|first2=Tia|last2=Goldenberg|first3=Huizhong|last3=Wu|access-date=24 July 2024|archive-date=24 July 2024|archive-url=https://web.archive.org/web/20240724163059/https://abcnews.go.com/International/wireStory/hamas-fatah-sign-declaration-beijing-ending-yearslong-rift-112186452|url-status=live}}</ref>",
                       "url": "https://abcnews.go.com/International/wireStory/hamas-fatah-sign-declaration-beijing-ending-yearslong-rift-112186452",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |author=<!-- not stated --> |date=23 July 2024 |title=Department Press Briefing – July 23, 2024 |url=https://www.state.gov/briefings/department-press-briefing-july-23-2024 |website=United States Department of State|US State Department |access-date=5 January 2025}}</ref>",
                       "url": "https://www.state.gov/briefings/department-press-briefing-july-23-2024",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -356,28 +356,28 @@
                     {
                       "text": "<ref>{{cite web | url=https://english.news.cn/20240725/de59b5a603d646f3938c8d377b1e4141/c.html | title=Arab League welcomes Beijing Declaration on ending Palestinian political rift | access-date=27 July 2024 | archive-date=25 July 2024 | archive-url=https://web.archive.org/web/20240725060951/https://english.news.cn/20240725/de59b5a603d646f3938c8d377b1e4141/c.html | url-status=live }}</ref>",
                       "url": "https://english.news.cn/20240725/de59b5a603d646f3938c8d377b1e4141/c.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |date=July 23, 2024 |title=بوريل: اتفاق فتح وحماس تطور بارز يقتضي الدعم |trans-title=Borrell: Fatah and Hamas agreement is a significant development that requires support |url=https://www.alarabiya.net/arab-and-world/2024/07/23/%D8%A8%D9%88%D8%B1%D9%8A%D9%84-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%81%D8%AA%D8%AD-%D9%88%D8%AD%D9%85%D8%A7%D8%B3-%D8%AA%D8%B7%D9%88%D8%B1-%D8%A8%D8%A7%D8%B1%D8%B2-%D9%8A%D9%82%D8%AA%D8%B6%D9%8A-%D8%A7%D9%84%D8%AF%D8%B9%D9%85 |publisher=Al Arabiya |language=ar}}</ref>",
                       "url": "https://www.alarabiya.net/arab-and-world/2024/07/23/%D8%A8%D9%88%D8%B1%D9%8A%D9%84-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%81%D8%AA%D8%AD-%D9%88%D8%AD%D9%85%D8%A7%D8%B3-%D8%AA%D8%B7%D9%88%D8%B1-%D8%A8%D8%A7%D8%B1%D8%B2-%D9%8A%D9%82%D8%AA%D8%B6%D9%8A-%D8%A7%D9%84%D8%AF%D8%B9%D9%85",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web| url=https://www.qna.org.qa/en/News%20Area/News/2024-07/25/0053-oic-welcomes-palestinian-factions-signing-of-beijing-declaration| title=OIC Welcomes Palestinian Factions Signing of Beijing Declaration| access-date=27 July 2024| archive-date=26 July 2024| archive-url=https://web.archive.org/web/20240726063834/https://www.qna.org.qa/en/News%20Area/News/2024-07/25/0053-oic-welcomes-palestinian-factions-signing-of-beijing-declaration| url-status=live}}</ref>",
                       "url": "https://www.qna.org.qa/en/News%20Area/News/2024-07/25/0053-oic-welcomes-palestinian-factions-signing-of-beijing-declaration",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Cannot connect to host www.qna.org.qa:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://news.un.org/en/story/2024/07/1152431 |title=UN chief welcomes agreement between Palestinian factions Fatah and Hamas &#124; UN News |website=UN News |date=23 July 2024 |access-date=24 November 2024}}</ref>",
                       "url": "https://news.un.org/en/story/2024/07/1152431",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -406,14 +406,14 @@
                     {
                       "text": "<ref>{{Cite web |last=Mackinnon |first=Amy |date=2024-09-10 |title=China Tries to Play Power Broker Among Palestinians |url=https://foreignpolicy.com/2024/07/23/china-hamas-fatah-unity-agreement-palestine/ |access-date=2024-07-31 |website=Foreign Policy |language=en-US}}</ref>",
                       "url": "https://foreignpolicy.com/2024/07/23/china-hamas-fatah-unity-agreement-palestine/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=mee/> Royal United Services Institute|RUSI associate fellow Sari Arho Havrén stated China \"positioned itself as a peacemaker and a viable alternative to the US\".<ref name=mee>{{cite web |last1=Uddin |first1=Rayhan |last2=Masarwa |first2=Lubna |date=23 July 2024 |title=China challenges West on Gaza by offering Palestinians a new platform |url=https://www.middleeasteye.net/news/china-challenges-west-gaza-offering-palestinians-platform |website=Middle East Eye |access-date=5 January 2025}}</ref>",
                       "url": "https://www.middleeasteye.net/news/china-challenges-west-gaza-offering-palestinians-platform",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -425,8 +425,8 @@
                   "references": [
                     {
                       "text": "<ref>{{cite web |last=Urhová |first=Dominika |date=20 August 2024 |title=Beijing Declaration: China’s role in post-war Middle East |url=https://ceias.eu/beijing-declaration-chinas-role-in-post-war-middle-east |website=Central European Institute of Asian Studies |access-date=5 January 2025}}</ref>",
-                      "url": "https://ceias.eu/beijing-declaration-chinas-role-in-post-war-middle-east",
-                      "status_code": null,
+                      "url": "https://ceias.eu/beijing-declaration-chinas-role-in-post-war-middle-east/",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -449,15 +449,15 @@
                     {
                       "text": "<ref>{{Cite news |last1=Chen |first1=Laurie |last2=Al-Mughrabi |first2=Nidal |date=23 July 2024 |title=China brokers Palestinian unity deal, but doubts persist |url=https://www.reuters.com/world/hamas-fatah-meet-with-media-china-after-reconciliation-talks-2024-07-23 |work=Reuters}}</ref>",
                       "url": "https://www.reuters.com/world/hamas-fatah-meet-with-media-china-after-reconciliation-talks-2024-07-23",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |last1=Rasgon |first1=Adam |last2=Stevenson |first2=Alexandra |date=2024-07-23 |title=Multiple past attempts to broker unity have failed. |url=https://www.nytimes.com/2024/07/23/world/middleeast/fatah-hamas-china-statement.html |access-date=2024-07-31 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>",
                       "url": "https://www.nytimes.com/2024/07/23/world/middleeast/fatah-hamas-china-statement.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -469,7 +469,7 @@
                     {
                       "text": "<ref>{{Cite news |last=Khoury |first=Jack |date=23 July 2024 |title=Hamas, Fatah Sign Palestinian 'Unity' Agreement in China, With No Practical Significance |url=https://www.haaretz.com/middle-east-news/palestinians/2024-07-23/ty-article/.premium/hamas-fatah-sign-palestinian-unity-agreement-in-china-with-no-practical-significance/00000190-df7d-d851-afbe-df7d78fa0000 |work=Haaretz}}</ref>",
                       "url": "https://www.haaretz.com/middle-east-news/palestinians/2024-07-23/ty-article/.premium/hamas-fatah-sign-palestinian-unity-agreement-in-china-with-no-practical-significance/00000190-df7d-d851-afbe-df7d78fa0000",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -482,7 +482,7 @@
                     {
                       "text": "<ref>{{cite web |last=Karmi |first=Omar |date=24 July 2024 |title=Palestinian factions sign Beijing agreement but deep obstacles remain |url=https://electronicintifada.net/blogs/omar-karmi/palestinian-factions-sign-beijing-agreement-deep-obstacles-remain |website=The Electronic Intifada |access-date=5 January 2025}}</ref>",
                       "url": "https://electronicintifada.net/blogs/omar-karmi/palestinian-factions-sign-beijing-agreement-deep-obstacles-remain",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -495,14 +495,14 @@
                     {
                       "text": "<ref>{{cite web |last=Baroud |first=Ramzy |date=15 August 2023 |title=Palestinians welcome China’s new Middle East role, but it is not mediation they need |url=https://jordantimes.com/opinion/ramzy-baroud/palestinians-welcome-chinas-new-middle-east-role-it-not-mediation-they-need |website=The Jordan Times |access-date=5 January 2025}}</ref>",
                       "url": "https://jordantimes.com/opinion/ramzy-baroud/palestinians-welcome-chinas-new-middle-east-role-it-not-mediation-they-need",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |last=Baroud |first=Ramzy |date=2024 |title=China Tests the Water in Palestinian Diplomacy |url=https://www.thecairoreview.com/essays/china-tests-the-water-in-palestinian-diplomacy |website=The Cairo Review of Global Affairs |publisher=American University in Cairo |access-date=5 January 2025}}</ref>",
-                      "url": "https://www.thecairoreview.com/essays/china-tests-the-water-in-palestinian-diplomacy",
-                      "status_code": null,
+                      "url": "https://www.thecairoreview.com/essays/china-tests-the-water-in-palestinian-diplomacy/",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -515,7 +515,7 @@
                     {
                       "text": "<ref>{{Cite news |last=Menachem |first=Klein |date=2024-07-31 |title=The Beijing Palestinian Reconciliation Agreement: An Opportunity not to Be Missed |url=https://www.iai.it/sites/default/files/iaicom2448.pdf |work=IAI}}</ref>",
                       "url": "https://www.iai.it/sites/default/files/iaicom2448.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }

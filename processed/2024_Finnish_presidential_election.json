@@ -14,14 +14,14 @@
                 {
                   "text": "<ref>{{Cite web |title=Schedule for the 2024 presidential election |url=https://vaalit.fi/en/schedule-in-the-presidential-election |access-date=2023-06-21 |website=Vaalit |archive-date=21 June 2023 |archive-url=https://web.archive.org/web/20230621122448/https://vaalit.fi/en/schedule-in-the-presidential-election |url-status=live }}</ref>",
                   "url": "https://vaalit.fi/en/schedule-in-the-presidential-election",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Näkökulma: Punavihreä vs. porvari – onko jompikumpi heistä Suomen seuraava presidentti? |url=https://www.iltalehti.fi/politiikka/a/e64b3f46-fba1-48ab-be01-fac0d9261387 |access-date=2021-04-13 |website=Iltalehti |language=fi |archive-date=13 April 2021 |archive-url=https://web.archive.org/web/20210413165211/https://www.iltalehti.fi/politiikka/a/e64b3f46-fba1-48ab-be01-fac0d9261387 |url-status=live }}</ref>",
                   "url": "https://www.iltalehti.fi/politiikka/a/e64b3f46-fba1-48ab-be01-fac0d9261387",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -34,15 +34,15 @@
                 {
                   "text": "<ref>{{Cite web |last=Teivainen |first=Aleksi |date=2024-02-11 |title=Stubb beats Haavisto in Finland's closest-ever presidential election |url=https://www.helsinkitimes.fi/finland/finland-news/politics/24888-stubb-beats-haavisto-in-finland-s-closest-ever-presidential-election.html |access-date=2024-02-13 |website=Helsinki Times |language=en-gb |archive-date=11 February 2024 |archive-url=https://web.archive.org/web/20240211223637/https://www.helsinkitimes.fi/finland/finland-news/politics/24888-stubb-beats-haavisto-in-finland-s-closest-ever-presidential-election.html |url-status=live }}</ref>",
                   "url": "https://www.helsinkitimes.fi/finland/finland-news/politics/24888-stubb-beats-haavisto-in-finland-s-closest-ever-presidential-election.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 202,
+                  "reason": "Accepted",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Schedule in the Presidential Election |url=https://vaalit.fi/en/schedule-in-the-presidential-election |access-date=2024-01-27 |website=Vaalit |language=en-US |archive-date=21 June 2023 |archive-url=https://web.archive.org/web/20230621122448/https://vaalit.fi/en/schedule-in-the-presidential-election |url-status=live }}</ref>",
                   "url": "https://vaalit.fi/en/schedule-in-the-presidential-election",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -64,14 +64,14 @@
                 {
                   "text": "<ref>{{Cite web |last=Psaropoulos |first=John |date=2024-01-26 |title='Voters are looking for a mini-Niinisto': Finland braces for new president |url=https://www.aljazeera.com/news/2024/1/26/voters-are-looking-for-a-mini-niinisto-finland-braces-for-new-president |url-status=live |archive-url=https://web.archive.org/web/20240126125646/https://www.aljazeera.com/news/2024/1/26/voters-are-looking-for-a-mini-niinisto-finland-braces-for-new-president |archive-date=2024-01-26 |access-date=2024-01-28 |work=Al Jazeera |language=en-US}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/1/26/voters-are-looking-for-a-mini-niinisto-finland-braces-for-new-president",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Finns go to the polls Sunday to elect a new president at a time of increased tension with Russia |url=https://apnews.com/article/finland-presidential-election-nato-russia-security-9cd07b3674b97f588b576404d1101cfa |access-date=2024-01-28 |website=Associated Press |date=26 January 2024 |language=en-US |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128023519/https://apnews.com/article/finland-presidential-election-nato-russia-security-9cd07b3674b97f588b576404d1101cfa |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/finland-presidential-election-nato-russia-security-9cd07b3674b97f588b576404d1101cfa",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -94,22 +94,22 @@
                 {
                   "text": "<ref>{{Cite web |date=2019 |title=Constitution of Finland |url=https://www.finlex.fi/en/laki/kaannokset/1999/en19990731_20180817.pdf |access-date=2024-01-27 |website=Finlex |archive-date=14 November 2023 |archive-url=https://web.archive.org/web/20231114111441/https://finlex.fi/en/laki/kaannokset/1999/en19990731_20180817.pdf |url-status=live }}</ref>",
                   "url": "https://www.finlex.fi/en/laki/kaannokset/1999/en19990731_20180817.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Right to Vote and Compilation of the Voting Register |url=https://vaalit.fi/en/right-to-vote-and-compilation-of-the-voting-register2 |access-date=2024-01-27 |website=Vaalit |language=en-US |archive-date=27 January 2024 |archive-url=https://web.archive.org/web/20240127132232/https://vaalit.fi/en/right-to-vote-and-compilation-of-the-voting-register2 |url-status=live }}</ref>",
                   "url": "https://vaalit.fi/en/right-to-vote-and-compilation-of-the-voting-register2",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Eligibility and Nomination of Candidates |url=https://vaalit.fi/en/eligibility-and-nomination-of-candidates3 |access-date=2024-01-27 |website=Vaalit |language=en-US |archive-date=14 February 2024 |archive-url=https://web.archive.org/web/20240214154949/https://vaalit.fi/en/eligibility-and-nomination-of-candidates3 |url-status=live }}</ref>",
                   "url": "https://vaalit.fi/en/eligibility-and-nomination-of-candidates3",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -129,36 +129,36 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-01-11 |title=Presidentinvaalit 2024 – Ehdokkaat esittelyssä |url=https://selkosanomat.fi/suomi/presidenttiehdokkaat-esittelyssa-presidentinvaalit-2024/ |access-date=2024-01-27 |website=Selkosanomat |language=fi |archive-date=27 January 2024 |archive-url=https://web.archive.org/web/20240127132232/https://selkosanomat.fi/suomi/presidenttiehdokkaat-esittelyssa-presidentinvaalit-2024/ |url-status=live }}</ref>",
                       "url": "https://selkosanomat.fi/suomi/presidenttiehdokkaat-esittelyssa-presidentinvaalit-2024/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2023-08-04 |title=Mika Aaltola announces presidential bid |url=https://yle.fi/a/74-20043800 |access-date=2024-05-01 |website=News |language=en}}</ref>",
                       "url": "https://yle.fi/a/74-20043800",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Alexander Stubb |url=https://www.eib.org/en/authors/alexander-stubb |access-date=2024-05-01 |website=www.eib.org}}</ref>",
                       "url": "https://www.eib.org/en/authors/alexander-stubb",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=People |url=https://www.eui.eu/en/academic-units/school-of-transnational-governance/people |access-date=2024-05-01 |website=www.eui.eu}}</ref>",
-                      "url": "https://www.eui.eu/en/academic-units/school-of-transnational-governance/people",
-                      "status_code": null,
+                      "url": "https://www.eui.eu/people?people%5Bmenu%5D%5Bict.Affiliations.Name%5D=Florence%20School%20of%20Transnational%20Governance",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"sdpministers\">{{cite news |date=2011-06-18 |title=Sdp valitsi ministerinsä |url=http://www.hs.fi/politiikka/artikkeli/Sdp+valitsi+ministerins%C3%A4/1135267009137 |url-status=dead |archiveurl=https://web.archive.org/web/20110620185955/http://www.hs.fi/politiikka/artikkeli/Sdp+valitsi+ministerins%C3%A4/1135267009137 |archivedate=2011-06-20 |accessdate=2011-06-18 |publisher=Helsingin Sanomat |language=Finnish}}</ref>",
                       "url": "http://www.hs.fi/politiikka/artikkeli/Sdp+valitsi+ministerins%C3%A4/1135267009137",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "news"
                     }
                   ]
@@ -180,7 +180,7 @@
                     {
                       "text": "<ref>{{Cite web|title=1988, 1994, 2012, 2018, 2024 – Paavo Väyrynen pyrkii jälleen presidentiksi|url=https://www.iltalehti.fi/politiikka/a/e83f6abb-cb38-4ade-b434-b4c19ab689ea|access-date=2022-05-18|work=Iltalehti|language=fi|archive-date=18 May 2022|archive-url=https://web.archive.org/web/20220518172616/https://www.iltalehti.fi/politiikka/a/e83f6abb-cb38-4ade-b434-b4c19ab689ea|url-status=live}}</ref>",
                       "url": "https://www.iltalehti.fi/politiikka/a/e83f6abb-cb38-4ade-b434-b4c19ab689ea",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -209,7 +209,7 @@
                     {
                       "text": "<ref>{{Cite web | url=https://yle.fi/a/74-20043730 | title=Mika Aaltola pyrkii presidentiksi: \"Ajan Suomen etua, se on tärkeä erottava tekijä muihin ehdokkaisiin\" – ei vastannut kritiikkiin panttaamisesta | date=April 3, 2023 | accessdate=April 4, 2023 | website=Yle | archive-date=3 August 2023 | archive-url=https://web.archive.org/web/20230803143631/https://yle.fi/a/74-20043730 | url-status=live }}</ref>",
                       "url": "https://yle.fi/a/74-20043730",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -223,14 +223,14 @@
                     {
                       "text": "<ref>{{Cite web|url=https://www.is.fi/politiikka/art-2000008841320.html|title=Yllätysnimi teki presidenttikyselyssä uskomattoman nousun – tutkija: \"En muista uraltani vastaavaa\"|date=May 27, 2022|website=Ilta-Sanomat|access-date=21 June 2023|archive-date=21 June 2023|archive-url=https://web.archive.org/web/20230621123534/https://www.is.fi/politiikka/art-2000008841320.html|url-status=live}}</ref>",
                       "url": "https://www.is.fi/politiikka/art-2000008841320.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web|url=https://www.is.fi/politiikka/art-2000008843939.html|title=Mika Aaltola kommentoi kannatustaan presidentinvaaligallupissa: Vetää mielen nöyräksi|date=May 27, 2022|website=Ilta-Sanomat|access-date=21 June 2023|archive-date=21 June 2023|archive-url=https://web.archive.org/web/20230621132433/https://www.is.fi/politiikka/art-2000008843939.html|url-status=live}}</ref>",
                       "url": "https://www.is.fi/politiikka/art-2000008843939.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -243,36 +243,36 @@
                     {
                       "text": "<ref>{{cite web|url=https://www.is.fi/politiikka/art-2000009148729.html|title=IS:n presidenttikyselyssä yllätysykkönen: \"Voi pyhä jysäys\"|date=October 21, 2022|website=Ilta-Sanomat|access-date=23 October 2022|archive-date=23 October 2022|archive-url=https://web.archive.org/web/20221023113607/https://www.is.fi/politiikka/art-2000009148729.html|url-status=live}}</ref>",
                       "url": "https://www.is.fi/politiikka/art-2000009148729.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://www.is.fi/kotimaa/art-2000009152055.html|title=Mika Aaltola Ylellä: Yhden prosentin todennäköisyys, että minusta tulee presidentti|date=October 22, 2022|website=Ilta-Sanomat|access-date=21 June 2023|archive-date=21 June 2023|archive-url=https://web.archive.org/web/20230621132433/https://www.is.fi/kotimaa/art-2000009152055.html|url-status=live}}</ref>",
                       "url": "https://www.is.fi/kotimaa/art-2000009152055.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://twitter.com/MikaAaltola/status/1586978267969511424|title=Mika Aaltola's Twitter page|date=October 31, 2022|website=Twitter|access-date=21 June 2023|archive-date=17 March 2023|archive-url=https://web.archive.org/web/20230317193245/https://twitter.com/MikaAaltola/status/1586978267969511424|url-status=live}}</ref>",
                       "url": "https://twitter.com/MikaAaltola/status/1586978267969511424",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 400,
+                      "reason": "Bad Request",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://www.hs.fi/sunnuntai/art-2000009154696.html|title=Mikä Aaltola|date=November 4, 2022|website=Helsingin Sanomat|access-date=21 June 2023|archive-date=1 June 2023|archive-url=https://web.archive.org/web/20230601192756/https://www.hs.fi/sunnuntai/art-2000009154696.html|url-status=live}}</ref>",
-                      "url": "https://www.hs.fi/sunnuntai/art-2000009154696.html",
-                      "status_code": null,
+                      "url": "https://www.hs.fi/feature/art-2000009154696.html",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://twitter.com/MikaAaltola/status/1588910113292967937|title=Mika Aaltola's Twitter page|date=November 5, 2022|website=Twitter|access-date=21 June 2023|archive-date=5 November 2022|archive-url=https://web.archive.org/web/20221105235335/https://twitter.com/MikaAaltola/status/1588910113292967937|url-status=live}}</ref>",
                       "url": "https://twitter.com/MikaAaltola/status/1588910113292967937",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 400,
+                      "reason": "Bad Request",
                       "type": "web"
                     }
                   ]
@@ -284,14 +284,14 @@
                     {
                       "text": "<ref>{{cite web|url=https://twitter.com/MikaAaltola/status/1645697789177868288|title=Mika Aaltola's Twitter page|date=April 11, 2023|website=Twitter|access-date=21 June 2023|archive-date=4 June 2023|archive-url=https://web.archive.org/web/20230604200218/https://twitter.com/MikaAaltola/status/1645697789177868288|url-status=live}}</ref>",
                       "url": "https://twitter.com/MikaAaltola/status/1645697789177868288",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 400,
+                      "reason": "Bad Request",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"Yle poll may 2023\" /> On 10 October 2023 Mika Aaltola's support association announced that they had collected 25,000 endorsement cards for Aaltola, exceeding the required 20,000 endorsement card threshold for candidacy.<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000009906263.html|title=Mika Aaltola keräsi kannattajakortteja yli tarvittavan määrän|date=October 10, 2023|website=Helsingin Sanomat|access-date=10 October 2023|archive-date=11 October 2023|archive-url=https://web.archive.org/web/20231011025403/https://www.hs.fi/politiikka/art-2000009906263.html|url-status=live}}</ref>",
                       "url": "https://www.hs.fi/politiikka/art-2000009906263.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -314,14 +314,14 @@
                     {
                       "text": "<ref>{{Cite web |url=https://www.hs.fi/politiikka/art-2000009845929.html |title=Li Andersson mukaan presidenttikilpaan: \"Kilpailussa on tilaa punavihreälle ehdokkaalle\" |date=September 13, 2023 |accessdate=September 13, 2023 |work=Helsingin Sanomat |archive-date=13 September 2023 |archive-url=https://web.archive.org/web/20230913134829/https://www.hs.fi/politiikka/art-2000009845929.html |url-status=live }}</ref>",
                       "url": "https://www.hs.fi/politiikka/art-2000009845929.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://yle.fi/a/74-20055327 |title=Li Andersson valittiin vasemmistoliiton presidenttiehdokkaaksi – haluaa nostaa keskusteluun Suomen roolin Natossa, ihmisoikeudet ja ilmaston |date=October 15, 2023 |accessdate=October 20, 2023 |work=Yle Uutiset |archive-date=20 October 2023 |archive-url=https://web.archive.org/web/20231020130506/https://yle.fi/a/74-20055327 |url-status=live }}</ref>",
                       "url": "https://yle.fi/a/74-20055327",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -344,7 +344,7 @@
                     {
                       "text": "<ref>{{Cite web |url=https://yle.fi/a/74-20047161 |title=Christian Democrats select Sari Essayah as presidential candidate |date=August 27, 2023 |accessdate=August 27, 2023 |website=Yle |archive-date=27 August 2023 |archive-url=https://web.archive.org/web/20230827174517/https://yle.fi/a/74-20047161 |url-status=live }}</ref>",
                       "url": "https://yle.fi/a/74-20047161",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -367,7 +367,7 @@
                     {
                       "text": "<ref>{{Cite web|title=Pekka Haavisto announces 2024 presidential bid|url=https://yle.fi/a/74-20035789|date=June 8, 2023|access-date=June 8, 2023|work=Yle|archive-date=8 June 2023|archive-url=https://web.archive.org/web/20230608094153/https://yle.fi/a/74-20035789|url-status=live}}</ref>",
                       "url": "https://yle.fi/a/74-20035789",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -380,14 +380,14 @@
                     {
                       "text": "<ref name=\"Yle poll may 2023\">{{Cite web |title=Ylen presidenttikysely: Haavisto on ykkösnimi ja nuorten suosikki, koko kolmen kärki lujitti etumatkaansa |url=https://yle.fi/a/74-20031583 |date=May 16, 2023 |work=Yle |access-date=21 June 2023 |archive-date=21 June 2023 |archive-url=https://web.archive.org/web/20230621152509/https://yle.fi/a/74-20031583 |url-status=live }}</ref>",
                       "url": "https://yle.fi/a/74-20031583",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=IS:n presidenttikysely: He pärjäisivät Haavistoa vastaan |url=https://www.is.fi/politiikka/art-2000009650402.html |date=June 13, 2023 |work=Ilta-Sanomat |access-date=21 June 2023 |archive-date=21 June 2023 |archive-url=https://web.archive.org/web/20230621134450/https://www.is.fi/politiikka/art-2000009650402.html |url-status=live }}</ref>",
                       "url": "https://www.is.fi/politiikka/art-2000009650402.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -400,14 +400,14 @@
                     {
                       "text": "<ref>{{Cite web|url=https://www.is.fi/politiikka/art-2000009897895.html|title=Pekka Haavisto sai kasaan 48,000 kannattajakorttia – nappasi presidenttikampanjansa johtoon yllätysnimien kokoomuksesta|date=October 3, 2023|website=Ilta-Sanomat|access-date=10 October 2023|archive-date=4 October 2023|archive-url=https://web.archive.org/web/20231004015408/https://www.is.fi/politiikka/art-2000009897895.html|url-status=live}}</ref>",
                       "url": "https://www.is.fi/politiikka/art-2000009897895.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://www.aljazeera.com/news/2024/1/28/finns-head-to-the-polls-to-pick-new-president |title=Stubb narrowly wins first round of Finland's presidential election |date=January 29, 2024 |website=Al Jazeera |access-date=29 January 2024 |archive-date=29 January 2024 |archive-url=https://web.archive.org/web/20240129030009/https://www.aljazeera.com/news/2024/1/28/finns-head-to-the-polls-to-pick-new-president |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/1/28/finns-head-to-the-polls-to-pick-new-president",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -430,21 +430,21 @@
                     {
                       "text": "<ref>{{Cite web|url=https://www.is.fi/politiikka/art-2000009704981.html|title=Jussi Halla-aho pyrkii presidentiksi – \"Olen käytettävissä\"|date=July 7, 2023|access-date=July 7, 2023|website=Ilta-Sanomat|archive-date=7 July 2023|archive-url=https://web.archive.org/web/20230707162728/https://www.is.fi/politiikka/art-2000009704981.html|url-status=live}}</ref>",
                       "url": "https://www.is.fi/politiikka/art-2000009704981.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web|url=https://yle.fi/a/74-20044987|title=Jussi Halla-aho toivoo tiedotusvälineiden perkaavan presidenttiehdokkaiden aiempia lausuntoja Venäjästä|date=August 13, 2023|access-date=August 17, 2023|publisher=Yle|archive-date=17 August 2023|archive-url=https://web.archive.org/web/20230817002318/https://yle.fi/a/74-20044987|url-status=live}}</ref>",
                       "url": "https://yle.fi/a/74-20044987",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web|url=https://www.iltalehti.fi/politiikka/a/f3ec473d-685c-40de-9b46-ee945cc43f2a|title=USU: Lähes 80 prosenttia PS-valtuutetuista haluaa Halla-ahon presidenttiehdokkaaksi – Urpilainen ja Stubb puolueidensa suosikit|date=February 11, 2023|website=Iltalehti|access-date=22 June 2023|archive-date=20 March 2023|archive-url=https://web.archive.org/web/20230320000959/https://www.iltalehti.fi/politiikka/a/f3ec473d-685c-40de-9b46-ee945cc43f2a|url-status=live}}</ref>",
                       "url": "https://www.iltalehti.fi/politiikka/a/f3ec473d-685c-40de-9b46-ee945cc43f2a",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -467,7 +467,7 @@
                     {
                       "text": "<ref>{{Cite web|title=Harry \"Hjallis\" Harkimo presidenttiehdokkaaksi: \"Sain Nato-käsittelyn aikana käsityksen siitä, miten Suomi toimii\"|url=https://yle.fi/a/3-12500276|date=18 June 2022|access-date=22 June 2023|work=Yle|archive-date=22 June 2023|archive-url=https://web.archive.org/web/20230622055948/https://yle.fi/a/3-12500276|url-status=live}}</ref>",
                       "url": "https://yle.fi/a/3-12500276",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -490,21 +490,21 @@
                     {
                       "text": "<ref>{{Cite web|title=Finland's central bank chief Olli Rehn announces 2024 presidential bid|url=https://yle.fi/a/74-20037870|date=June 21, 2023|access-date=June 21, 2023|work=Yle|archive-date=21 June 2023|archive-url=https://web.archive.org/web/20230621080957/https://yle.fi/a/74-20037870|url-status=live}}</ref>",
                       "url": "https://yle.fi/a/74-20037870",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web|title=Anu Vehviläinen: Kannattajakortteja kerätään kesätapahtumissa|url=https://yle.fi/a/74-20037825/64-3-160280|date=June 21, 2023|access-date=June 22, 2023|work=Yle|archive-date=22 June 2023|archive-url=https://web.archive.org/web/20230622062922/https://yle.fi/a/74-20037825/64-3-160280|url-status=live}}</ref>",
                       "url": "https://yle.fi/a/74-20037825/64-3-160280",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"Yle poll may 2023\"/> On 15 September 2023, Rehn's campaign announced that they have collected the required 20,000 endorsement cards for candidacy.<ref>{{Cite web|url=https://www.is.fi/politiikka/art-2000009857841.html|title=Olli Rehn sai täyteen 20,000 kannattajakorttia presidentinvaaleihin – julkisti tukijalistan|date=September 15, 2023|website=Ilta-Sanomat|access-date=10 October 2023|archive-date=13 October 2023|archive-url=https://web.archive.org/web/20231013081606/https://www.is.fi/politiikka/art-2000009857841.html|url-status=live}}</ref>",
                       "url": "https://www.is.fi/politiikka/art-2000009857841.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -527,21 +527,21 @@
                     {
                       "text": "<ref>{{Cite news|url=https://yle.fi/a/74-20045412|title=Alexander Stubb lähtee presidenttiehdokkaaksi – vitsaili \"kitkerästä lähdöstä\" ja kehui Marinin hallitusta|date=2023-08-16|publisher=Yle|access-date=2023-08-16|language=fi|archive-date=16 August 2023|archive-url=https://web.archive.org/web/20230816063215/https://yle.fi/a/74-20045412|url-status=live}}</ref>",
                       "url": "https://yle.fi/a/74-20045412",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"Yle poll may 2023\"/><ref>{{Cite web |date=2023-08-15 |title=Former Finnish PM Alexander Stubb to run for president |url=https://www.politico.eu/article/former-finland-pm-alexander-stubb-to-run-for-president/ |access-date=2023-08-17 |website=POLITICO |language=en |archive-date=17 August 2023 |archive-url=https://web.archive.org/web/20230817071850/https://www.politico.eu/article/former-finland-pm-alexander-stubb-to-run-for-president/ |url-status=live }}</ref>",
                       "url": "https://www.politico.eu/article/former-finland-pm-alexander-stubb-to-run-for-president/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2023-08-17 |title=IS-presidenttikysely: Alexander Stubb selvästi suositumpi kuin Antti Häkkänen |url=https://www.is.fi/politiikka/art-2000009790023.html |access-date=2023-08-18 |work=Ilta-Sanomat |archive-date=18 August 2023 |archive-url=https://web.archive.org/web/20230818062211/https://www.is.fi/politiikka/art-2000009790023.html |url-status=live }}</ref>",
                       "url": "https://www.is.fi/politiikka/art-2000009790023.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -564,28 +564,28 @@
                     {
                       "text": "<ref>{{Cite news|url=https://www.hs.fi/politiikka/art-2000009786656.html|title=Marin pyytää Jutta Urpilaista Sdp:n presidenttiehdokkaaksi, Urpilainen kertoo päätöksensä marraskuuhun mennessä|date=2023-08-16|publisher=Yle|access-date=2023-08-16|language=fi|archive-date=27 December 2023|archive-url=https://web.archive.org/web/20231227170751/https://www.hs.fi/politiikka/art-2000009786656.html|url-status=live}}</ref>",
                       "url": "https://www.hs.fi/politiikka/art-2000009786656.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web|url=https://www.hs.fi/politiikka/art-2000005482435.html|title=Jutta Urpilainen ei suostunut Sdp:n presidenttiehdokkaaksi, mutta lähti Niinistön tilaisuuden vetonaulaksi – Urpilainen ei näe ristiriitaa: \"Olin Tuulan kampanjan avajaisissa ja äänestän häntä\"|date=December 8, 2017|website=Helsingin Sanomat|access-date=22 June 2023|archive-date=22 June 2023|archive-url=https://web.archive.org/web/20230622073309/https://www.hs.fi/politiikka/art-2000005482435.html|url-status=live}}</ref>",
                       "url": "https://www.hs.fi/politiikka/art-2000005482435.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web|url=https://yle.fi/a/74-20060983|title=Jutta Urpilainen lähtee SDP:n presidenttiehdokkaaksi – teemana \"ketään ei jätetä\"|date=November 19, 2023|publisher=Yle|access-date=19 November 2023|archive-date=19 November 2023|archive-url=https://web.archive.org/web/20231119104959/https://yle.fi/a/74-20060983|url-status=live}}</ref>",
                       "url": "https://yle.fi/a/74-20060983",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://www.euronews.com/2023/11/21/finlands-presidential-election-campaign-is-heating-up-the-cold-winter-months |title=Finland's presidential election campaign is heating up the cold winter months |date=November 21, 2023 |publisher=Yle |access-date=28 January 2024 |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128090101/https://www.euronews.com/2023/11/21/finlands-presidential-election-campaign-is-heating-up-the-cold-winter-months |url-status=live }}</ref>",
                       "url": "https://www.euronews.com/2023/11/21/finlands-presidential-election-campaign-is-heating-up-the-cold-winter-months",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -608,7 +608,7 @@
                     {
                       "text": "<ref>{{Cite web |url=https://yle.fi/a/74-20083862 |title=Stubb's presidential campaign cost €2.7m |date=17 April 2024 |publisher=Yle |access-date=17 April 2024 }}</ref>",
                       "url": "https://yle.fi/a/74-20083862",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -632,29 +632,29 @@
               "references": [
                 {
                   "text": "<ref>{{cite web |url=https://lemonde.fr/en/international/article/2024/01/28/finnish-presidential-election-faced-with-russia-security-takes-center-stage_6472397_4.html |title=Finnish presidential election: Faced with Russia, security takes center stage |work=Le Monde |date=28 January 2024 |access-date=3 February 2024 |language=en |archive-date=3 February 2024 |archive-url=https://web.archive.org/web/20240203060805/https://www.lemonde.fr/en/international/article/2024/01/28/finnish-presidential-election-faced-with-russia-security-takes-center-stage_6472397_4.html |url-status=live }}</ref>",
-                  "url": "https://lemonde.fr/en/international/article/2024/01/28/finnish-presidential-election-faced-with-russia-security-takes-center-stage_6472397_4.html",
-                  "status_code": null,
+                  "url": "https://www.lemonde.fr/en/international/article/2024/01/28/finnish-presidential-election-faced-with-russia-security-takes-center-stage_6472397_4.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://www.reuters.com/world/europe/finlands-presidential-hopefuls-vie-offer-toughest-stance-russia-2024-01-25/ |title=Finland's presidential hopefuls vie to offer toughest stance on Russia |work=Reuters |date=28 January 2024 |access-date=3 February 2024 |language=en |archive-date=25 January 2024 |archive-url=https://web.archive.org/web/20240125122636/https://www.reuters.com/world/europe/finlands-presidential-hopefuls-vie-offer-toughest-stance-russia-2024-01-25/ |url-status=live }}</ref>",
                   "url": "https://www.reuters.com/world/europe/finlands-presidential-hopefuls-vie-offer-toughest-stance-russia-2024-01-25/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://www.theguardian.com/world/2024/jan/16/pekka-haavisto-finland-must-be-united-against-external-threats-presidential-candidate |title=Finland must crack down on hate speech, says presidential hopeful |work=The Guardian |date=25 January 2024 |access-date=3 February 2024 |language=en |archive-date=2 February 2024 |archive-url=https://web.archive.org/web/20240202225551/https://www.theguardian.com/world/2024/jan/16/pekka-haavisto-finland-must-be-united-against-external-threats-presidential-candidate |url-status=live }}</ref>",
                   "url": "https://www.theguardian.com/world/2024/jan/16/pekka-haavisto-finland-must-be-united-against-external-threats-presidential-candidate",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://yle.fi/a/74-20072688 |title=How do Pekka Haavisto and Alexander Stubb differ? |work=Yle |date=2 February 2024 |access-date=3 February 2024 |language=en |archive-date=2 February 2024 |archive-url=https://web.archive.org/web/20240202210325/https://yle.fi/a/74-20072688 |url-status=live }}</ref>",
                   "url": "https://yle.fi/a/74-20072688",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -667,7 +667,7 @@
                 {
                   "text": "<ref>{{cite web |url=https://apnews.com/article/finland-presidential-election-runoff-stubb-haavisto-5827256bccbff2e435263b63c5a89d8d |title=As Finns choose a new president, one thing is certain: A hard line on Russia will continue |work=Associated Press |date=9 February 2024 |access-date=9 February 2024 |language=en |archive-date=9 February 2024 |archive-url=https://web.archive.org/web/20240209071755/https://apnews.com/article/finland-presidential-election-runoff-stubb-haavisto-5827256bccbff2e435263b63c5a89d8d |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/finland-presidential-election-runoff-stubb-haavisto-5827256bccbff2e435263b63c5a89d8d",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -690,77 +690,77 @@
                 {
                   "text": "<ref>{{cite web |url=https://yle.fi/a/74-20066353 |title=Presidenttiehdokkaat antoivat Ukrainalle vahvan tukensa – näin Ylen suuri vaalikeskustelu eteni |work=Yle |date=21 December 2023 |access-date=28 December 2023 |language=fi |archive-date=28 December 2023 |archive-url=https://web.archive.org/web/20231228091431/https://yle.fi/a/74-20066353 |url-status=live }}</ref>",
                   "url": "https://yle.fi/a/74-20066353",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://www.mtvuutiset.fi/artikkeli/mtv-n-suuri-presidentinvaalitentti-kerasi-miljoonayleison-katso-tentti-aihe-aiheelta/8840066#gs.2r6qgw |title=MTV:n suuri presidentinvaalitentti keräsi miljoonayleisön – katso tentti aihe aiheelta |work=MTV3 |date=14 December 2023 |access-date=28 December 2023 |language=fi |archive-date=28 December 2023 |archive-url=https://web.archive.org/web/20231228091433/https://www.mtvuutiset.fi/artikkeli/mtv-n-suuri-presidentinvaalitentti-kerasi-miljoonayleison-katso-tentti-aihe-aiheelta/8840066#gs.2r6qgw |url-status=live }}</ref>",
-                  "url": "https://www.mtvuutiset.fi/artikkeli/mtv-n-suuri-presidentinvaalitentti-kerasi-miljoonayleison-katso-tentti-aihe-aiheelta/8840066#gs.2r6qgw",
-                  "status_code": null,
+                  "url": "https://www.mtvuutiset.fi/artikkeli/mtv-n-suuri-presidentinvaalitentti-kerasi-miljoonayleison-katso-tentti-aihe-aiheelta/8840066",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://www.mtvuutiset.fi/artikkeli/suora-lahetys-kello-15-presidentinvaalien-karkiehdokkaat-ottavat-yhteen/8835318#gs.2r7ivq |title=Presidentinvaalien kärkiehdokkaat ottivat yhteen Keskuskauppakamarin vaalitentissä |work=MTV3 |date=8 December 2023 |access-date=28 December 2023 |language=fi |archive-date=28 December 2023 |archive-url=https://web.archive.org/web/20231228091431/https://www.mtvuutiset.fi/artikkeli/suora-lahetys-kello-15-presidentinvaalien-karkiehdokkaat-ottavat-yhteen/8835318#gs.2r7ivq |url-status=live }}</ref>",
-                  "url": "https://www.mtvuutiset.fi/artikkeli/suora-lahetys-kello-15-presidentinvaalien-karkiehdokkaat-ottavat-yhteen/8835318#gs.2r7ivq",
-                  "status_code": null,
+                  "url": "https://www.mtvuutiset.fi/artikkeli/suora-lahetys-kello-15-presidentinvaalien-karkiehdokkaat-ottavat-yhteen/8835318",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://www.taike.fi/en/node/5134 |title=Miksi kulttuuri on presidentin asia? Presidenttipaneeli 28.11. klo 16.30–18.00 |work=Taike |date=14 November 2023 |access-date=29 December 2023 |language=fi |archive-date=29 December 2023 |archive-url=https://web.archive.org/web/20231229075145/https://www.taike.fi/en/node/5134 |url-status=live }}</ref>",
                   "url": "https://www.taike.fi/en/node/5134",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://www.taike.fi/fi/artikkelit/kulttuuri-presidentin-asia |title=Kulttuuri on presidentin asia |work=Taike |date=30 November 2023 |access-date=29 December 2023 |language=fi |archive-date=29 December 2023 |archive-url=https://web.archive.org/web/20231229075145/https://www.taike.fi/fi/artikkelit/kulttuuri-presidentin-asia |url-status=live }}</ref>",
                   "url": "https://www.taike.fi/fi/artikkelit/kulttuuri-presidentin-asia",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://www.mtk.fi/-/presidenttitentti |title=Katso tallenne- – Maaseudun Tulevaisuuden ja MTK:n presidenttitentti 20.11. |work=MTK |date=20 November 2023 |access-date=29 December 2023 |language=fi |archive-date=29 December 2023 |archive-url=https://web.archive.org/web/20231229075144/https://www.mtk.fi/-/presidenttitentti |url-status=live }}</ref>",
                   "url": "https://www.mtk.fi/-/presidenttitentti",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://yle.fi/a/74-20058030 |title=Wednesday's papers: X marks the debate, parking problem, and Snow-vember |work=Yle |date=31 October 2023 |access-date=1 November 2023 |language=en |archive-date=1 November 2023 |archive-url=https://web.archive.org/web/20231101203541/https://yle.fi/a/74-20058030 |url-status=live }}</ref>",
                   "url": "https://yle.fi/a/74-20058030",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://www.mtvuutiset.fi/artikkeli/mika-on-suomen-turvallisuustilanne-nain-vastaavat-aaltola-haavisto-ja-stubb-venajalla-on-monta-eri-kiusantekomahdollisuutta/8797216#gs.6ajq9o |title=Mikä on Suomen turvallisuustilanne? Näin vastaavat Aaltola, Haavisto ja Stubb: \"Venäjällä on monta eri kiusantekomahdollisuutta\" |work=MTV Uutiset |date=11 October 2023 |access-date=12 October 2023 |language=fi |archive-date=12 October 2023 |archive-url=https://web.archive.org/web/20231012015918/https://www.mtvuutiset.fi/artikkeli/mika-on-suomen-turvallisuustilanne-nain-vastaavat-aaltola-haavisto-ja-stubb-venajalla-on-monta-eri-kiusantekomahdollisuutta/8797216#gs.6ajq9o |url-status=live }}</ref>",
-                  "url": "https://www.mtvuutiset.fi/artikkeli/mika-on-suomen-turvallisuustilanne-nain-vastaavat-aaltola-haavisto-ja-stubb-venajalla-on-monta-eri-kiusantekomahdollisuutta/8797216#gs.6ajq9o",
-                  "status_code": null,
+                  "url": "https://www.mtvuutiset.fi/artikkeli/mika-on-suomen-turvallisuustilanne-nain-vastaavat-aaltola-haavisto-ja-stubb-venajalla-on-monta-eri-kiusantekomahdollisuutta/8797216",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://www.mtvuutiset.fi/artikkeli/suora-lahetys-kello-13-45-presidenttiehdokkaat-yrittajien-tentissa/8794188#gs.6anw21 |title=Presidenttiehdokkaat kohtasivat yrittäjien tentissä |work=MTV uutiset |date=7 October 2023 |access-date=12 October 2023 |language=fi |archive-date=12 October 2023 |archive-url=https://web.archive.org/web/20231012134831/https://www.mtvuutiset.fi/artikkeli/suora-lahetys-kello-13-45-presidenttiehdokkaat-yrittajien-tentissa/8794188#gs.6anw21 |url-status=live }}</ref>",
-                  "url": "https://www.mtvuutiset.fi/artikkeli/suora-lahetys-kello-13-45-presidenttiehdokkaat-yrittajien-tentissa/8794188#gs.6anw21",
-                  "status_code": null,
+                  "url": "https://www.mtvuutiset.fi/artikkeli/suora-lahetys-kello-13-45-presidenttiehdokkaat-yrittajien-tentissa/8794188",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://www.hs.fi/politiikka/art-2000009855439.html |title=\"Tilanne on hälyttävä\" Näin ehdokkaat kommentoivat Niinistön varoituksia ydinsodasta |work=Helsingin Sanomat |date=18 September 2023 |access-date=12 October 2023 |language=fi |archive-date=13 October 2023 |archive-url=https://web.archive.org/web/20231013081605/https://www.hs.fi/politiikka/art-2000009855439.html |url-status=live }}</ref>",
                   "url": "https://www.hs.fi/politiikka/art-2000009855439.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |url=https://www.sttinfo.fi/tiedote/70002362/presidenttiehdokkaat-live-yleison-eteen-ensimmaista-kertaa:-uusi-keskustelufestivaali-talk-helsinki-avaa-presidenttipelin-ensi-keskiviikkona?publisherId=69820160&lang=fi |title=Presidenttiehdokkaat live-yleisön eteen ensimmäistä kertaa: uusi keskustelufestivaali Talk Helsinki avaa presidenttipelin ensi keskiviikkona |work=STT Info, Talk Helsinki Press release |date=14 August 2023 |access-date=12 October 2023 |language=fi |archive-date=13 October 2023 |archive-url=https://web.archive.org/web/20231013081604/https://www.sttinfo.fi/tiedote/70002362/presidenttiehdokkaat-live-yleison-eteen-ensimmaista-kertaa:-uusi-keskustelufestivaali-talk-helsinki-avaa-presidenttipelin-ensi-keskiviikkona?publisherId=69820160&lang=fi |url-status=live }}</ref>",
                   "url": "https://www.sttinfo.fi/tiedote/70002362/presidenttiehdokkaat-live-yleison-eteen-ensimmaista-kertaa:-uusi-keskustelufestivaali-talk-helsinki-avaa-presidenttipelin-ensi-keskiviikkona?publisherId=69820160&lang=fi",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -783,49 +783,49 @@
                 {
                   "text": "<ref name=\"HS29012024\">{{cite web |title=Juha Sipilä tukee Stubbia presidentiksi, Antti Rinne asettuu Haaviston taakse |url=https://yle.fi/a/74-20072064 |publisher=Yle |access-date=31 January 2024 |date=20 January 2024 |archive-date=31 January 2024 |archive-url=https://web.archive.org/web/20240131082415/https://yle.fi/a/74-20072064 |url-status=live }}</ref>",
                   "url": "https://yle.fi/a/74-20072064",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"IS06012023\">{{cite web |title=Haavistolle lisää tunnettuja tukijoita: perussuomalaisten ex-kansanedustaja, Ilkka Vainio, Saimi Hoyer... |url=https://www.is.fi/politiikka/art-2000009971293.html |work=Ilta-Sanomat |access-date=31 January 2024 |date=6 November 2023 |archive-date=31 January 2024 |archive-url=https://web.archive.org/web/20240131090511/https://www.is.fi/politiikka/art-2000009971293.html |url-status=live }}</ref>",
                   "url": "https://www.is.fi/politiikka/art-2000009971293.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"IS06012023\" />\n* Tarja Filatov (SDP), Minister of Labour (2000–2007).<ref name=\"HS02022024\">{{cite web |title=Kristillisten Essayah tukee Stubbia, Sdp:n entiset ministerit Kiuru ja Harakka Haavistoa |url=https://www.hs.fi/politiikka/art-2000010200026.html |publisher=Helsingin Sanomat |access-date=3 February 2024 |date=2 February 2024 |archive-date=2 February 2024 |archive-url=https://web.archive.org/web/20240202125339/https://www.hs.fi/politiikka/art-2000010200026.html |url-status=live }}</ref>",
                   "url": "https://www.hs.fi/politiikka/art-2000010200026.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"HS30012024\">{{cite web |title=Vasemmistoliiton Kyllönen Stubbin tueksi, PS:n Laakso tukee Haavistoa |url=https://www.hs.fi/politiikka/art-2000010152723.html |work=Helsingin Sanomat |access-date=31 January 2024 |date=30 January 2024 |archive-date=14 February 2024 |archive-url=https://web.archive.org/web/20240214154953/https://www.hs.fi/politiikka/art-2000010152723.html |url-status=live }}</ref>",
                   "url": "https://www.hs.fi/politiikka/art-2000010152723.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"HS02022024\" />\n* Tytti Isohookana-Asunmaa (Centre), Minister of Culture (1991–1995).<ref name=\"IS0020224\">{{cite web |title=IS selvitti: Kumpaa vastapuolueiden kansanedustajat ja vaikuttajat aikovat äänestää presidentinvaaleissa? |url=https://www.is.fi/politiikka/art-2000010197385.html |work=Ilta-Sanomat |access-date=2 February 2024 |date=2 February 2024 |archive-date=1 February 2024 |archive-url=https://web.archive.org/web/20240201230649/https://www.is.fi/politiikka/art-2000010197385.html |url-status=live }}</ref>",
                   "url": "https://www.is.fi/politiikka/art-2000010197385.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"IS0020224\" />\n* Kimmo Kiljunen (SDP), Member of the Finnish Parliament (1995–2011, 2019–).<ref name=\"IS0020224\" />\n* Krista Kiuru (SDP), Minister of Housing and Communications (2011–2013), Minister of Education (2013–2014), Minister of Education and Communications (2014–2015), Minister of Family Affairs and Social Services (2022–2023).<ref name=\"HS02022024\" />\n* Mai Kivelä (Left), Member of the Finnish Parliament (2019–).<ref name=\"HS30012024\" />\n* Martti Korhonen (Left), Minister of Regional and Municipal affairs (1999–2003).<ref name=\"IS0020224\" />\n* Erkki Liikanen (SDP), Member of the Finnish Parliament (1972–1990), European Commissioner (1995–2004), Governor of Bank of Finland (2004–2018).<ref name=\"IL03022024\">{{cite web |title=Pekka Haavistolle uusia, nimekkäitä tukijoita |url=https://www.iltalehti.fi/politiikka/a/20b87cc3-e89f-4d16-9190-9548538de3cf?_gl=1*1gsa1m9*_ga*Mzk1OTQ5NTk3LjE3MDcwMzQ2MDI.*_ga_3L539PMN3X*MTcwNzAzNDYwMi4xLjEuMTcwNzAzNDYwMi4wLjAuMA.. |work=Iltalehti |access-date=4 February 2024 |date=3 February 2024 |archive-date=4 February 2024 |archive-url=https://web.archive.org/web/20240204082818/https://www.iltalehti.fi/politiikka/a/20b87cc3-e89f-4d16-9190-9548538de3cf?_gl=1*1gsa1m9*_ga*Mzk1OTQ5NTk3LjE3MDcwMzQ2MDI.*_ga_3L539PMN3X*MTcwNzAzNDYwMi4xLjEuMTcwNzAzNDYwMi4wLjAuMA.. |url-status=live }}</ref>",
                   "url": "https://www.iltalehti.fi/politiikka/a/20b87cc3-e89f-4d16-9190-9548538de3cf?_gl=1*1gsa1m9*_ga*Mzk1OTQ5NTk3LjE3MDcwMzQ2MDI.*_ga_3L539PMN3X*MTcwNzAzNDYwMi4xLjEuMTcwNzAzNDYwMi4wLjAuMA..",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"IS0020224\" />\n* Silvia Modig (Left), Member of the European Parliament (2019–).<ref name=\"Yle30012024\">{{cite web|url=https://yle.fi/a/74-20072064|title=Juha Sipilä tukee Stubbia presidentiksi, Antti Rinne asettuu Haaviston taakse|website=Yle|date=30 January 2024|access-date=31 January 2024|archive-date=31 January 2024|archive-url=https://web.archive.org/web/20240131082415/https://yle.fi/a/74-20072064|url-status=live}}</ref>",
                   "url": "https://yle.fi/a/74-20072064",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -838,7 +838,7 @@
                 {
                   "text": "<ref name=\"IS23012024\">{{cite web |title=Tässä ovat presidenttiehdokkaiden julkkistukijat |url=https://www.is.fi/politiikka/art-2000010121557.html |work=Ilta-Sanomat |access-date=31 January 2024 |date=23 January 2024 |archive-date=31 January 2024 |archive-url=https://web.archive.org/web/20240131103421/https://www.is.fi/politiikka/art-2000010121557.html |url-status=live }}</ref>",
                   "url": "https://www.is.fi/politiikka/art-2000010121557.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -851,8 +851,8 @@
                 {
                   "text": "<ref name=\"IS06012023\" />\n* Tapani Brotherus, diplomat.<ref name=\"Suomenmaa31012024\">{{cite web |title=Haaviston tukijoiksi joukko entisiä suurlähettiläitä |url=https://www.suomenmaa.fi/uutiset/haaviston-tukijoiksi-ilmoittautui-joukko-entisia-suurlahettilaita/ |work=Suomenmaa |access-date=31 January 2024 |date=31 January 2024 |archive-date=31 January 2024 |archive-url=https://web.archive.org/web/20240131113057/https://www.suomenmaa.fi/uutiset/haaviston-tukijoiksi-ilmoittautui-joukko-entisia-suurlahettilaita/ |url-status=live }}</ref>",
                   "url": "https://www.suomenmaa.fi/uutiset/haaviston-tukijoiksi-ilmoittautui-joukko-entisia-suurlahettilaita/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -864,42 +864,42 @@
                 {
                   "text": "<ref name=\"IS0020224\" />\n* Sandra Bergqvist (SFP), Minister of Youth, Sport and Physical Activity (2023–).<ref name=\"IS0020224\" />\n* Sari Essayah (KD), Minister of Agriculture and Forestry (2023–).<ref name=\"HS02022024\" />\n* Teuvo Hakkarainen (Finns), Member of the European Parliament (2019–).<ref>{{cite web |title=Teuvo Hakkarainen tukee Alexander Stubbia toisella kierroksella – kuvaili aiemmin valinnan olevan \"kupan ja ruton\" väliltä |url=https://www.ksml.fi/paikalliset/6535425 |work=Keskisuomalainen |access-date=6 February 2024 |date=5 February 2024 |archive-date=14 February 2024 |archive-url=https://web.archive.org/web/20240214155018/https://www.ksml.fi/paikalliset/6535425 |url-status=live }}</ref>",
                   "url": "https://www.ksml.fi/paikalliset/6535425",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"Yle30012024\" />\n* Anneli Jäätteenmäki (Centre), Prime Minister of Finland (2003), Minister of Justice (1994–1995), Member of the European Parliament (2004–2011).<ref>{{cite web |title=Anneli Jäätteenmäki: Minun valintani on Alex |url=https://www.verkkouutiset.fi/a/anneli-jaatteenmaki-minun-valintani-on-alex/#c6f3a3ff |work=Verkkouutiset |access-date=7 February 2024 |date=2 February 2024 |archive-date=7 February 2024 |archive-url=https://web.archive.org/web/20240207185313/https://www.verkkouutiset.fi/a/anneli-jaatteenmaki-minun-valintani-on-alex/#c6f3a3ff |url-status=live }}</ref>",
-                  "url": "https://www.verkkouutiset.fi/a/anneli-jaatteenmaki-minun-valintani-on-alex/#c6f3a3ff",
-                  "status_code": null,
+                  "url": "https://www.verkkouutiset.fi/a/anneli-jaatteenmaki-minun-valintani-on-alex/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"IS0020224\" />\n* Jani Kokko (SDP), Member of the Finnish Parliament (2023–).<ref name=\"Yle30012024\" />\n* Merja Kyllönen (Left), Member of the European Parliament (2014–), Minister of Transport (2011–2014).<ref name=\"Yle30012024\" />\n* Henrik Lax (SFP), Member of the Finnish Parliament (1987–2004).<ref name=\"IS0020224\" />\n* Mats Löfström (SFP), Member of the Finnish Parliament (2015–).<ref name=\"IS0020224\" />\n* Jussi Niinistö (Finns), Minister of Defence (2015–2019).<ref name=\"IS0020224\" />\n* Paavo Rantanen (Independent), Foreign Minister of Finland (1995).<ref name=\"VU04022024\">{{cite web |title=\"Parasta osaamista\" – lisää diplomatian konkareita Alexander Stubbin tueksi |url=https://www.verkkouutiset.fi/a/parasta-osaamista-uusia-diplomatian-konkareita-alexander-stubbin-tueksi/#27539115 |work=Verkkouutiset |access-date=4 February 2024 |date=4 February 2024 |archive-date=4 February 2024 |archive-url=https://web.archive.org/web/20240204082818/https://www.verkkouutiset.fi/a/parasta-osaamista-uusia-diplomatian-konkareita-alexander-stubbin-tueksi/#27539115 |url-status=live }}</ref>",
-                  "url": "https://www.verkkouutiset.fi/a/parasta-osaamista-uusia-diplomatian-konkareita-alexander-stubbin-tueksi/#27539115",
-                  "status_code": null,
+                  "url": "https://www.verkkouutiset.fi/a/parasta-osaamista-uusia-diplomatian-konkareita-alexander-stubbin-tueksi/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=PS:n kansanedustaja: Tämä oli viimeinen niitti valinnalleni |url=https://www.verkkouutiset.fi/a/psn-kansanedustaja-tama-oli-viimeinen-niitti-valinnalleni/#fdbea4d6 |work=Verkkouutiset |access-date=8 February 2024 |date=8 February 2024 |archive-date=8 February 2024 |archive-url=https://web.archive.org/web/20240208152347/https://www.verkkouutiset.fi/a/psn-kansanedustaja-tama-oli-viimeinen-niitti-valinnalleni/#fdbea4d6 |url-status=live }}</ref>",
-                  "url": "https://www.verkkouutiset.fi/a/psn-kansanedustaja-tama-oli-viimeinen-niitti-valinnalleni/#fdbea4d6",
-                  "status_code": null,
+                  "url": "https://www.verkkouutiset.fi/a/psn-kansanedustaja-tama-oli-viimeinen-niitti-valinnalleni/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"IS0020224\" />\n* Suvi-Anne Siimes (Left), Minister for Culture (1998–1999) and Minister of Finance (1999–2003).<ref name=\"IS23012024\" />\n* Juha Sipilä (Centre), Prime Minister of Finland (2015–2019).<ref name=\"Yle30012024\" />\n* Joakim Strand (SFP), Member of the Finnish Parliament (2023–).<ref name=\"IS0020224\" />\n* Sebastian Tynkkynen (Finns), Member of the Finnish Parliament (2019–).<ref>{{cite web |title=Ps:n Sebastian Tynkkynen tukee Stubbia |url=https://www.hs.fi/politiikka/art-2000010217733.html |work=Helsingin Sanomat |access-date=9 February 2024 |date=9 February 2024 |archive-date=14 February 2024 |archive-url=https://web.archive.org/web/20240214154922/https://www.hs.fi/politiikka/art-2000010217733.html |url-status=live }}</ref>",
                   "url": "https://www.hs.fi/politiikka/art-2000010217733.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"VU08022024\">{{cite web |title=MTK:n puheenjohtaja kertoo antavansa äänensä Alexander Stubbille |url=https://www.verkkouutiset.fi/a/mtkn-puheenjohtaja-kertoo-antavansa-aanensa-alexander-stubbille/#fdbea4d6 |work=Verkkouutiset |access-date=8 February 2024 |date=8 February 2024 |archive-date=8 February 2024 |archive-url=https://web.archive.org/web/20240208191953/https://www.verkkouutiset.fi/a/mtkn-puheenjohtaja-kertoo-antavansa-aanensa-alexander-stubbille/#fdbea4d6 |url-status=live }}</ref>",
-                  "url": "https://www.verkkouutiset.fi/a/mtkn-puheenjohtaja-kertoo-antavansa-aanensa-alexander-stubbille/#fdbea4d6",
-                  "status_code": null,
+                  "url": "https://www.verkkouutiset.fi/a/mtkn-puheenjohtaja-kertoo-antavansa-aanensa-alexander-stubbille/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -912,7 +912,7 @@
                 {
                   "text": "<ref>{{cite web |title=Presidentti Toomas Hendrik Ilves paljasti, kenet hän toivoo Suomen seuraavaksi presidentiksi |url=https://www.iltalehti.fi/politiikka/a/616a43ad-49ce-455d-b25f-de6c8740989e?_gl=1*16q3hse*_ga*MTA0MzM4NTQ4MC4xNzA2OTU4NTI0*_ga_3L539PMN3X*MTcwNjk1ODUyNC4xLjEuMTcwNjk1ODUzMi4wLjAuMA.. |work=Iltalehti |access-date=3 February 2024 |date=3 February 2024 |archive-date=3 February 2024 |archive-url=https://web.archive.org/web/20240203110926/https://www.iltalehti.fi/politiikka/a/616a43ad-49ce-455d-b25f-de6c8740989e?_gl=1*16q3hse*_ga*MTA0MzM4NTQ4MC4xNzA2OTU4NTI0*_ga_3L539PMN3X*MTcwNjk1ODUyNC4xLjEuMTcwNjk1ODUzMi4wLjAuMA.. |url-status=live }}</ref>",
                   "url": "https://www.iltalehti.fi/politiikka/a/616a43ad-49ce-455d-b25f-de6c8740989e?_gl=1*16q3hse*_ga*MTA0MzM4NTQ4MC4xNzA2OTU4NTI0*_ga_3L539PMN3X*MTcwNjk1ODUyNC4xLjEuMTcwNjk1ODUzMi4wLjAuMA..",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -924,8 +924,8 @@
               "references": [
                 {
                   "text": "<ref name=\"IS23012024\" />\n* Eino Grön, singer.<ref name=\"IS23012024\" />\n* Martti Hetemäki, ministry executive of the Ministry of Finance (2013–2020).<ref>{{cite web |title=Martti Hetemäki: Suomi tarvitsee presidentin, jonka voi luottaa näkevän ja tekevän |url=https://www.verkkouutiset.fi/a/martti-hetemaki-suomi-tarvitsee-presidentin-jonka-voi-luottaa-nakevan-ja-tekevan/#c6f3a3ff |work=Verkkouutiset |access-date=7 February 2024 |date=7 February 2024 |archive-date=7 February 2024 |archive-url=https://web.archive.org/web/20240207163711/https://www.verkkouutiset.fi/a/martti-hetemaki-suomi-tarvitsee-presidentin-jonka-voi-luottaa-nakevan-ja-tekevan/#c6f3a3ff |url-status=live }}</ref>",
-                  "url": "https://www.verkkouutiset.fi/a/martti-hetemaki-suomi-tarvitsee-presidentin-jonka-voi-luottaa-nakevan-ja-tekevan/#c6f3a3ff",
-                  "status_code": null,
+                  "url": "https://www.verkkouutiset.fi/a/martti-hetemaki-suomi-tarvitsee-presidentin-jonka-voi-luottaa-nakevan-ja-tekevan/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1058,7 +1058,7 @@
                         {
                           "text": "<ref>{{Cite web |date=2024-02-03 |title=Survey: One in three won't vote for Pekka Haavisto because of his partner |url=https://yle.fi/a/74-20072791 |access-date=2024-02-03 |website=Yle |language=en |archive-date=3 February 2024 |archive-url=https://web.archive.org/web/20240203130902/https://yle.fi/a/74-20072791 |url-status=live }}</ref>",
                           "url": "https://yle.fi/a/74-20072791",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1085,7 +1085,7 @@
                 {
                   "text": "<ref>{{Cite web |last=Merikukka |first=Salla |date=2024-01-16 |title=Nuorten vaaleissa annettiin ennätykselliset 94 456 ääntä – nuorten suosikki presidentiksi on Alexander Stubb |url=https://nuorisoala.fi/nuorten-vaaleissa-annettiin-ennatykselliset-94-456-aanta-nuorten-suosikki-presidentiksi-on-alexander-stubb/ |access-date=2024-01-27 |website=Allianssi |language=fi |archive-date=29 January 2024 |archive-url=https://web.archive.org/web/20240129005920/https://nuorisoala.fi/nuorten-vaaleissa-annettiin-ennatykselliset-94-456-aanta-nuorten-suosikki-presidentiksi-on-alexander-stubb/ |url-status=live }}</ref>",
                   "url": "https://nuorisoala.fi/nuorten-vaaleissa-annettiin-ennatykselliset-94-456-aanta-nuorten-suosikki-presidentiksi-on-alexander-stubb/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1108,7 +1108,7 @@
                 {
                   "text": "<ref>{{Cite web |url=https://www.euronews.com/2024/01/28/finland-votes-in-tight-presidential-election-amid-hybrid-operation-claims |title=Finland votes in tight presidential election amid 'hybrid operation' claims |date=28 January 2024 |website=Euronews |access-date=28 January 2024 |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128132838/https://www.euronews.com/2024/01/28/finland-votes-in-tight-presidential-election-amid-hybrid-operation-claims |url-status=live }}</ref>",
                   "url": "https://www.euronews.com/2024/01/28/finland-votes-in-tight-presidential-election-amid-hybrid-operation-claims",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1121,7 +1121,7 @@
                 {
                   "text": "<ref>{{Cite web |url=https://yle.fi/a/74-20070529 |title=Fake election posters pop up at Helsinki tram stops |date=22 January 2024 |website=Yle |access-date=28 January 2024 |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128134406/https://yle.fi/a/74-20070529 |url-status=live }}</ref>",
                   "url": "https://yle.fi/a/74-20070529",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1148,49 +1148,49 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-01-28 |title=New NATO member Finland set to pick president after 12 years of Niinisto |url=https://www.aljazeera.com/news/2024/1/24/new-nato-member-finland-set-to-pick-president-after-12-years-of-niinisto |access-date=2024-01-28 |website=Al Jazeera |language=en |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128052434/https://www.aljazeera.com/news/2024/1/24/new-nato-member-finland-set-to-pick-president-after-12-years-of-niinisto |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/1/24/new-nato-member-finland-set-to-pick-president-after-12-years-of-niinisto",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-01-28 |title=Record advance voting numbers could slow down the count |url=https://yle.fi/a/74-20071620 |access-date=2024-01-28 |website=Yle |language=en |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128030849/https://yle.fi/a/74-20071620 |url-status=live }}</ref>",
                       "url": "https://yle.fi/a/74-20071620",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"open\">{{Cite web |date=2024-01-28 |title=Finns head to the polls; presidential voting turnout could set record |url=https://yle.fi/a/74-20071703 |access-date=2024-01-28 |website=Yle |language=en |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128111559/https://yle.fi/a/74-20071703 |url-status=live }}</ref>",
                       "url": "https://yle.fi/a/74-20071703",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-01-24 |title=Advance voters set record in Finland's presidential election |url=https://yle.fi/a/74-20071162 |access-date=2024-01-28 |website=Yle |language=en |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128134406/https://yle.fi/a/74-20071162 |url-status=live }}</ref>",
                       "url": "https://yle.fi/a/74-20071162",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=guide/> during which 58,757 out of an estimated 263,000 eligible Finnish citizens abroad voted, an increase of 6,253 from 2018.<ref>{{Cite web |date=2024-01-28 |title=Nearly 60k Finns vote in presidential election at missions around the world |url=https://yle.fi/a/74-20071393 |access-date=2024-01-28 |website=Yle |language=en |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128112130/https://yle.fi/a/74-20071393 |url-status=live }}</ref>",
                       "url": "https://yle.fi/a/74-20071393",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"open\" /> and closed at 20:00.<ref>{{Cite web |title=Schedule for the 2024 presidential election |url=https://vaalit.fi/en/schedule-in-the-presidential-election |access-date=2024-01-28 |website=Vaalit |language=en |archive-date=21 June 2023 |archive-url=https://web.archive.org/web/20230621122448/https://vaalit.fi/en/schedule-in-the-presidential-election |url-status=live }}</ref>",
                       "url": "https://vaalit.fi/en/schedule-in-the-presidential-election",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-01-28 |title=Finns go to the polls to elect a new president at an unprecedented time for the NATO newcomer |url=https://apnews.com/article/finland-presidential-election-cd3d168b50c72b0437f90c3c757a80e4 |access-date=2024-01-28 |website=Associated Press |language=en |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128111745/https://apnews.com/article/finland-presidential-election-cd3d168b50c72b0437f90c3c757a80e4 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/finland-presidential-election-cd3d168b50c72b0437f90c3c757a80e4",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1213,22 +1213,22 @@
                     {
                       "text": "<ref name=guide>{{Cite web |date=2024-01-28 |title=A really simple guide to Finland's 2024 presidential election |url=https://yle.fi/a/74-20068250 |access-date=2024-01-28 |website=Yle |language=en |archive-date=28 January 2024 |archive-url=https://web.archive.org/web/20240128053008/https://yle.fi/a/74-20068250 |url-status=live }}</ref>",
                       "url": "https://yle.fi/a/74-20068250",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-02-07 |title=Nearly half of Finns vote early in presidential election second round |url=https://yle.fi/a/74-20073365 |access-date=2024-02-07 |website=Yle |language=en |archive-date=7 February 2024 |archive-url=https://web.archive.org/web/20240207162638/https://yle.fi/a/74-20073365 |url-status=live }}</ref>",
                       "url": "https://yle.fi/a/74-20073365",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=confirmed-results>{{Cite web |date=2024-02-14 |title=Confirmed results of the presidential election now available online |url=https://vaalit.fi/-/1410853/presidentinvaalin-vahvistettu-tulos-nyt-verkossa?languageId=en_US |access-date=2024-02-14 |website=Vaalit |language=en |archive-date=14 February 2024 |archive-url=https://web.archive.org/web/20240214181546/https://vaalit.fi/-/1410853/presidentinvaalin-vahvistettu-tulos-nyt-verkossa?languageId=en_US |url-status=live }}</ref>",
                       "url": "https://vaalit.fi/-/1410853/presidentinvaalin-vahvistettu-tulos-nyt-verkossa?languageId=en_US",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -1261,7 +1261,7 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-01-29 |title=As it happened: Stubb and Haavisto head for second round run-off in Finnish presidential election |url=https://yle.fi/a/74-20071743 |access-date=2024-01-29 |website=Yle |language=en |archive-date=29 January 2024 |archive-url=https://web.archive.org/web/20240129031612/https://yle.fi/a/74-20071743 |url-status=live }}</ref>",
                   "url": "https://yle.fi/a/74-20071743",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1274,14 +1274,14 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-02-12 |title=Centre-right Alexander Stubb elected Finland's next president |url=https://www.aljazeera.com/news/2024/2/11/centre-right-stubb-leads-finlands-presidential-vote-in-early-results |access-date=2024-02-12 |website=Al Jazeera |language=en |archive-date=12 February 2024 |archive-url=https://web.archive.org/web/20240212034549/https://www.aljazeera.com/news/2024/2/11/centre-right-stubb-leads-finlands-presidential-vote-in-early-results |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/2/11/centre-right-stubb-leads-finlands-presidential-vote-in-early-results",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-02-12 |title=Conservative ex-PM Alexander Stubb elected Finland president |url=https://www.bbc.com/news/world-europe-68270804 |access-date=2024-02-12 |website=BBC |language=en |archive-date=12 February 2024 |archive-url=https://web.archive.org/web/20240212034938/https://www.bbc.com/news/world-europe-68270804 |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/world-europe-68270804",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1304,7 +1304,7 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-02-12 |title=Former PM Alexander Stubb wins Finnish presidency, narrowly defeating ex-top diplomat Pekka Haavisto |url=https://apnews.com/article/finland-presidential-election-runoff-stubb-haavisto-545f7942ec9855152c4d9ac8dc840c10 |access-date=2024-02-12 |website=Associated Press |language=en |archive-date=11 February 2024 |archive-url=https://web.archive.org/web/20240211115126/https://apnews.com/article/finland-presidential-election-runoff-stubb-haavisto-545f7942ec9855152c4d9ac8dc840c10 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/finland-presidential-election-runoff-stubb-haavisto-545f7942ec9855152c4d9ac8dc840c10",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

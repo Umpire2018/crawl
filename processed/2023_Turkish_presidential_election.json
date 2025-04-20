@@ -1,0 +1,1827 @@
+{
+  "title": "2023_Turkish_presidential_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "Turkish presidential elections|Presidential elections were held in Turkey in May 2023, alongside 2023 Turkish parliamentary election|parliamentary elections, to elect a President of Turkey|president for a term of five years. Dubbed the most important election of 2023, \nthe presidential election went to a Two-round system|run-off for the first time in Turkish history. The election had originally been scheduled to take place on 18 June, but the government moved them forward by a month to avoid coinciding with the university exams, the Hajj|Hajj pilgrimage and the start of the summer vacation|summer holidays. It is estimated that a total of 64&nbsp;million voters had the right to cast their votes in elections, 60.9&nbsp;million in Turkey and 3.2&nbsp;million abroad.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Factbox: Turkey elections 2023: what you need to know |url=https://www.reuters.com/world/middle-east/turkey-elections-2023-what-you-need-know-2023-05-12/ |access-date=19 May 2023 |work=Reuters |date=14 May 2023 |language=en |archive-date=20 May 2023 |archive-url=https://web.archive.org/web/20230520001629/https://www.reuters.com/world/middle-east/turkey-elections-2023-what-you-need-know-2023-05-12/ |url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/turkey-elections-2023-what-you-need-know-2023-05-12/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Ghosh |first1=Bobby |title=The World's Most Important Election in 2023 Will Be in Turkey |url=https://www.washingtonpost.com/business/energy/the-worlds-most-important-election-in-2023-will-be-in-turkey/2023/01/09/ac2cf916-8fe3-11ed-90f8-53661ac5d9b9_story.html |access-date=17 September 2023 |newspaper=Washington Post |date=10 January 2023}}</ref>",
+                  "url": "https://www.washingtonpost.com/business/energy/the-worlds-most-important-election-in-2023-will-be-in-turkey/2023/01/09/ac2cf916-8fe3-11ed-90f8-53661ac5d9b9_story.html",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Stamouli |first1=Nektaria |title=2023's most important election: Turkey |url=https://www.politico.eu/article/turkey-2023-election-erdogan-kilicdaroglu/ |access-date=17 September 2023 |work=POLITICO |date=17 April 2023 |language=en}}</ref>",
+                  "url": "https://www.politico.eu/article/turkey-2023-election-erdogan-kilicdaroglu/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=aj>{{cite news |title=Turkey's presidential election goes to run-off: Election council |url=https://www.aljazeera.com/news/2023/5/15/turkey-presidential-election-results-2 |access-date=19 May 2023 |work=www.aljazeera.com |date=15 May 2023 |language=en |archive-date=19 May 2023 |archive-url=https://web.archive.org/web/20230519050814/https://www.aljazeera.com/news/2023/5/15/turkey-presidential-election-results-2 |url-status=live }}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/5/15/turkey-presidential-election-results-2",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Erdogan calls Turkish elections for May 14, three months after quake disaster |url=https://www.reuters.com/world/middle-east/erdogan-officially-calls-turkish-elections-may-14-2023-03-10/ |access-date=19 May 2023 |work=Reuters |date=10 March 2023 |language=en |archive-date=4 May 2023 |archive-url=https://web.archive.org/web/20230504130101/https://www.reuters.com/world/middle-east/erdogan-officially-calls-turkish-elections-may-14-2023-03-10/ |url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/erdogan-officially-calls-turkish-elections-may-14-2023-03-10/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Arolat |first=Osman |date=4 May 2023 |title=Seçimde en büyük etken Z kuşağı ve kadınlar…|url=https://www.ekonomim.com/kose-yazisi/secimde-en-buyuk-etken-z-kusagi-ve-kadinlar/689363 |access-date=29 April 2023 |website=Ekonomim|language=tr-TR |archive-date=5 April 2023 |archive-url=https://web.archive.org/web/20230405122244/https://www.ekonomim.com/kose-yazisi/secimde-en-buyuk-etken-z-kusagi-ve-kadinlar/689363 |url-status=live }}</ref>",
+                  "url": "https://www.ekonomim.com/kose-yazisi/secimde-en-buyuk-etken-z-kusagi-ve-kadinlar/689363",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "1.s2",
+              "text": "Incumbent president Recep Tayyip Erdoğan of the Justice and Development Party (Turkey)|Justice and Development Party (AK Party) ran for re-election as the joint candidate of the People's Alliance (Turkey)|People's Alliance, which includes the Nationalist Movement Party (MHP) and two other smaller parties. The Nation Alliance (Turkey)|Nation Alliance, composed of Table of Six|six opposition parties including the main opposition Republican People's Party (CHP), fielded CHP leader Kemal Kılıçdaroğlu as its presidential candidate. Though not part of the alliance, the pro-Kurdish Party of Greens and the Left Future (YSGP) and the Labour and Freedom Alliance (of which it is a member) endorsed Kılıçdaroğlu. Two other minor candidates, namely Homeland Party (Turkey, 2021)|Homeland Party leader Muharrem İnce and anti-immigration ultranationalist Ancestral Alliance nominee Sinan Oğan, also reached the required 100,000 signatures to stand; however, three days before the election, İnce withdrew from the election citing consistent slander and smear campaigns against him by rival candidates, though he still appeared on ballots.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Emek ve Özgürlük İttifakı'ndan Kılıçdaroğlu'na destek |url=https://www.dw.com/tr/emek-ve-%C3%B6zg%C3%BCrl%C3%BCk-i%CC%87ttifak%C4%B1ndan-k%C4%B1l%C4%B1%C3%A7daro%C4%9Fluna-destek/a-65462288 |access-date=13 May 2023 |website=dw.com |language=tr |archive-date=11 May 2023 |archive-url=https://web.archive.org/web/20230511171452/https://www.dw.com/tr/emek-ve-%C3%B6zg%C3%BCrl%C3%BCk-i%CC%87ttifak%C4%B1ndan-k%C4%B1l%C4%B1%C3%A7daro%C4%9Fluna-destek/a-65462288 |url-status=live }}</ref>",
+                  "url": "https://www.dw.com/tr/emek-ve-%C3%B6zg%C3%BCrl%C3%BCk-i%CC%87ttifak%C4%B1ndan-k%C4%B1l%C4%B1%C3%A7daro%C4%9Fluna-destek/a-65462288",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Ince withdrawal\">{{Cite web |last1=Ebrahim |first1=Isil |last2=Sariyuce |first2=Gul |last3=Tuysuz |first3=Nadeen |date=11 May 2023 |title=Turkish presidential candidate withdraws in potential boost for Erdogan rival |url=https://www.cnn.com/2023/05/11/middleeast/turkey-elections-ince-withdrawal-intl/index.html |access-date=11 May 2023 |website=CNN |language=en |archive-date=11 May 2023 |archive-url=https://web.archive.org/web/20230511144828/https://www.cnn.com/2023/05/11/middleeast/turkey-elections-ince-withdrawal-intl/index.html |url-status=live }}</ref>",
+                  "url": "https://edition.cnn.com/2023/05/11/middleeast/turkey-elections-ince-withdrawal-intl/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "1.s3",
+              "text": "The main campaign issues revolved around the deadly February 2023 Turkey–Syria earthquakes|2023 Turkey–Syria earthquake, which left over 50,000 people dead and threatened to postpone the election date. The government was criticised by opposition politicians for its slow response to the earthquake and land amnesties prior to it that critics claimed left buildings more vulnerable. The Turkish economy|economy also featured prominently due to the rapidly rising cost of living. In most polls, voters identified the economy as their prime area of concern.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Buyuk |first=Hamdi Firat |date=14 February 2023 |title=Erdogan Ally Calls for Turkish Election Postponement After Quake|url=https://balkaninsight.com/2023/02/14/erdogan-ally-calls-for-turkish-election-postponement-after-quake/ |access-date=5 March 2023 |website=Balkan Insight |language=en-US |archive-date=19 March 2023 |archive-url=https://web.archive.org/web/20230319143117/https://balkaninsight.com/2023/02/14/erdogan-ally-calls-for-turkish-election-postponement-after-quake/ |url-status=live }}</ref>",
+                  "url": "https://balkaninsight.com/2023/02/14/erdogan-ally-calls-for-turkish-election-postponement-after-quake/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=How Will Turkey's Earthquake Affect the Current Election Cycle?|url=https://www.washingtoninstitute.org/policy-analysis/how-will-turkeys-earthquake-affect-current-election-cycle |access-date=5 March 2023 |website=The Washington Institute |language=en |archive-date=3 April 2023|archive-url=https://web.archive.org/web/20230403194614/https://www.washingtoninstitute.org/policy-analysis/how-will-turkeys-earthquake-affect-current-election-cycle |url-status=live }}</ref>",
+                  "url": "https://www.washingtoninstitute.org/policy-analysis/how-will-turkeys-earthquake-affect-current-election-cycle",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=27 February 2023 |title=Erdoğan says sorry for earthquake rescue delays |url=https://www.politico.eu/article/recep-tayyip-erdogan-turkey-says-sorry-for-delays-in-earthquake-rescue-efforts/ |access-date=13 May 2023 |website=POLITICO |language=en |archive-date=11 May 2023 |archive-url=https://web.archive.org/web/20230511144826/https://www.politico.eu/article/recep-tayyip-erdogan-turkey-says-sorry-for-delays-in-earthquake-rescue-efforts/ |url-status=live }}</ref>",
+                  "url": "https://www.politico.eu/article/recep-tayyip-erdogan-turkey-says-sorry-for-delays-in-earthquake-rescue-efforts/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=En büyük sorun ekonomi |url=https://www.birgun.net/haber/en-buyuk-sorun-ekonomi-426841 |access-date=13 May 2023 |website=birgun.net |language=Turkish |archive-date=11 May 2023 |archive-url=https://web.archive.org/web/20230511144826/https://www.birgun.net/haber/en-buyuk-sorun-ekonomi-426841 |url-status=live }}</ref>",
+                  "url": "https://www.birgun.net/haber/en-buyuk-sorun-ekonomi-426841",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "1.s4",
+              "text": "In the first round Erdoğan and Oğan outperformed expectations to receive 49.5% and 5.2% of the vote respectively, while Kılıçdaroğlu received 44.9% and Muharrem İnce (who remained on the ballot despite withdrawing) 0.4%. As Erdoğan's vote share was 0.5% short of winning outright, he and Kılıçdaroğlu contested a run-off vote on 28 May. Oğan endorsed Erdoğan, while the elements of Ancestral Alliance split their support, as Victory Party (Turkey)|Victory Party leader Ümit Özdağ endorsed Kılıçdaroğlu and My Country Party leader Neşet Doğan endorsed Erdoğan. Erdoğan would be re-elected to a third term with 52.2% of the vote in the runoff.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Ülkem Partisi Genel Başkanı Doğan'dan Cumhurbaşkanı Erdoğan'a destek açıklaması |url=https://www.haberturk.com/ankara-haberleri/31235517-ulkem-partisi-genel-baskani-dogandan-cumhurbaskani-erdogana-destek-aciklamasi |access-date=2023-10-07 |website=Habertürk |language=tr}}</ref>",
+                  "url": "https://www.haberturk.com/ankara-haberleri/31235517-ulkem-partisi-genel-baskani-dogandan-cumhurbaskani-erdogana-destek-aciklamasi",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=2023-05-26 |title=Turkey election: What five more years of Erdogan would mean |language=en-GB |work=BBC News |url=https://www.bbc.com/news/world-europe-65700865 |access-date=2023-05-26 |archive-date=26 May 2023 |archive-url=https://web.archive.org/web/20230526165425/https://www.bbc.com/news/world-europe-65700865 |url-status=live }}</ref>",
+                  "url": "https://www.bbc.com/news/world-europe-65700865",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "1.s5",
+              "text": "This was incumbent President's Recep Tayyip Erdoğan's eleventh election victory in a row going back to his election as Mayor of Istanbul in 1994 Istanbul mayoral election|1994. His victory was seen as a continuation of his nearly three-decades dominance over Turkish politics. In contrast, following Kılıçdaroğlu's narrow defeat, he was voted out as the leader of the CHP in November.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Erdoğan wins his 11th election in a row |url=https://www.internationalintrigue.io/erdogan-wins-his-11th-election-in-a-row/ |work=International Intrigue |date=May 29, 2023|author1=Ethan}}</ref>",
+                  "url": "https://www.internationalintrigue.io/erdogan-wins-his-11th-election-in-a-row/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Erdogan's victory could be fateful for Turkey's democracy and role in the world |url=https://www.npr.org/2023/05/29/1178711800/erdogan-turkey-election-takeaways |work=NPR |date=May 29, 2023|author1=Fatma Tanis}}</ref>",
+                  "url": "https://www.npr.org/2023/05/29/1178711800/erdogan-turkey-election-takeaways",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Turkey's opposition ousts longtime leader after general election defeat |url=https://www.ft.com/content/eb6e8736-b6d9-4b24-b280-eef85cb4ebc3 |date=November 5, 2023|author1=Adam Samson}}</ref>",
+                  "url": "https://www.ft.com/content/eb6e8736-b6d9-4b24-b280-eef85cb4ebc3",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "id": "2.1",
+          "title": "2018 elections",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.1.s1",
+                  "text": "The 2018 Turkish presidential election|previous Turkish general election took place on 24 June 2018. The election marked the country's transition from a parliamentarism|parliamentary system to a presidential system|presidential one, as narrowly endorsed by voters in the controversial 2017 Turkish constitutional referendum|2017 constitutional referendum. That election resulted in a victory for incumbent president Recep Tayyip Erdoğan, who had held the position since 2014. Meanwhile, the ruling Justice and Development Party (Turkey)|Justice and Development Party (AKP) lost its absolute majority in the Grand National Assembly of Turkey for the first time since June 2015 Turkish general election|June 2015, forcing it to rely on its coalition partner, the Nationalist Movement Party (MHP) of Devlet Bahçeli, to pass legislation.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |last1=Morris |first1=Chris |title=Turkey elections: How powerful will the next Turkish president be? |url=https://www.bbc.com/news/world-europe-44574919 |access-date=31 May 2023 |work=BBC |date=25 June 2018 |archive-url=https://web.archive.org/web/20230327191519/https://www.bbc.com/news/world-europe-44574919 |archive-date=27 March 2023|url-status=live}}</ref>",
+                      "url": "https://www.bbc.com/news/world-europe-44574919",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Shaheen |first1=Kareem |title=Erdoğan clinches victory in Turkish constitutional referendum |url=https://www.theguardian.com/world/2017/apr/16/erdogan-claims-victory-in-turkish-constitutional-referendum |access-date=31 May 2023 |work=The Guardian |date=16 April 2017 |archive-url=https://web.archive.org/web/20230206105433/https://www.theguardian.com/world/2017/apr/16/erdogan-claims-victory-in-turkish-constitutional-referendum |archive-date=6 February 2023|url-status=live|location=Ankara}}</ref>",
+                      "url": "https://www.theguardian.com/world/2017/apr/16/erdogan-claims-victory-in-turkish-constitutional-referendum",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Turkey election: Erdogan win ushers in new presidential era |url=https://www.bbc.com/news/world-europe-44601383 |access-date=31 May 2023 |work=BBC |date=25 June 2018 |archive-url=https://web.archive.org/web/20230323133400/https://www.bbc.com/news/world-europe-44601383 |archive-date=23 March 2023|url-status=live}}</ref>",
+                      "url": "https://www.bbc.com/news/world-europe-44601383",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Erdogan wins elections for Presidency of Turkey while his AK Party loses parliamentary majority: The struggle continues |url=https://www.liberationnews.org/erdogan-wins-elections-for-presidency-of-turkey-while-his-akp-loses-majority/ |access-date=31 May 2023 |work=Liberation News |date=27 June 2018 |archive-url=https://web.archive.org/web/20210123181444/https://www.liberationnews.org/erdogan-wins-elections-for-presidency-of-turkey-while-his-akp-loses-majority/ |archive-date=23 January 2021|url-status=live}}</ref>",
+                      "url": "https://liberationnews.org/erdogan-wins-elections-for-presidency-of-turkey-while-his-akp-loses-majority/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Date",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The regular scheduled date for the first round of the elections was set for 18 June 2023. However, the electoral system allowed for moving the date forward. In 2020, there was speculation about a snap election prior to the regular one in 2023. At the time, Devlet Bahçeli, the leader of coalition partner Nationalist Movement Party|MHP, ruled them out. In a written statement, he said that elections would not be held before 2023. He also confirmed that the current coalition between AKP and MHP will remain intact and Recep Tayyip Erdoğan will be their 2023 Recep Tayyip Erdoğan presidential campaign|joint nominee for President.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Devlet Bahçeli: 2023 yılında cumhurbaşkanı adayımız Erdoğan |url=https://www.bbc.com/turkce/articles/cz5n4vved6mo.amp |access-date=31 May 2023 |work=BBC News |date=18 September 2022 |archive-url=https://web.archive.org/web/20221231095511/https://www.bbc.com/turkce/articles/cz5n4vved6mo.amp |archive-date=31 December 2022|url-status=live|language=tr}}</ref>",
+                  "url": "https://www.bbc.com/turkce/articles/cz5n4vved6mo.amp",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Discussion on snap elections",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "In early January 2023 the AKP mentioned eventual snap elections to take place on either on 16 or 30 April or on 14 May. But the so-called \"Table of Six\" composed by six opposition parties announced that they would not agree to snap elections after 6 April. On 22 January 2023, Erdoğan stated that the elections will be held on 14 May. In view of that date, the \"Table of Six\" announced that Erdoğan cannot run for president without parliamentary consent.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":02\">{{Cite web |title=Are snap elections on the table in Türkiye? |url=https://m.bianet.org/bianet/politics/272326-are-snap-elections-on-the-table-in-turkiye |website=Bianet |access-date=21 January 2023 |archive-date=7 March 2023 |archive-url=https://web.archive.org/web/20230307221628/https://m.bianet.org/bianet/politics/272326-are-snap-elections-on-the-table-in-turkiye |url-status=live }}</ref>",
+                      "url": "https://bianet.org/haber/are-snap-elections-on-the-table-in-turkiye-272326",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":02\" /> On 18 January 2023, Erdoğan, the President of Turkey, signalled that the elections will be held earlier than the scheduled date, specifically on 14 May 2023, in a symbolic reference to the election victory of former Prime Minister Adnan Menderes on 14 May in the 1950 Turkish general election, defeating the candidate of the then governing Republican People's Party|CHP party.<ref>{{cite news |title=President Erdoğan hints at May 14 for general elections|url=https://www.hurriyetdailynews.com/president-erdogan-hints-at-may-14-for-general-election-180225 |newspaper=Hürriyet Daily News |date=18 January 2023 |accessdate=19 January 2023 |archive-date=3 April 2023|archive-url=https://web.archive.org/web/20230403193443/https://www.hurriyetdailynews.com/president-erdogan-hints-at-may-14-for-general-election-180225 |url-status=live }}</ref>",
+                      "url": "https://www.hurriyetdailynews.com/president-erdogan-hints-at-may-14-for-general-election-180225",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":16\">{{Cite web |date=27 January 2023 |title=Table of Six: Legally Erdoğan cannot run for a third term on May 14 |url=https://bianet.org/english/politics/273383-table-of-six-legally-erdogan-cannot-run-for-a-third-term-on-may-14 |website=Bianet |access-date=27 January 2023 |archive-date=7 March 2023|archive-url=https://web.archive.org/web/20230307221756/https://bianet.org/english/politics/273383-table-of-six-legally-erdogan-cannot-run-for-a-third-term-on-may-14 |url-status=live }}</ref>",
+                      "url": "https://bianet.org/haber/table-of-six-legally-erdogan-cannot-run-for-a-third-term-on-may-14-273383",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "Discussion on postponing election date",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.3.s1",
+                  "text": "After a 2023 Turkey–Syria earthquake|devastating earthquake struck the country in February 2023, Erdoğan announced a state of emergency for Provinces of Turkey|10 affected provinces, which would end a week ahead of the election date of the 14 May. The opposition voted against the imposition in parliament. AKP spokesperson Ömer Çelik responded that Arınç's statement is his own personal view and does not bind the party. Kemal Kılıçdaroğlu from the opposition party Republican People's Party (CHP) responded to Arınç's statement that the constitution would not provide a possibility to postpone the elections except in the case of war.<ref name=\":2\" /> Further, Mustafa Tolga Öztürk from the Good Party reasoned only the parliament has the authority to postpone elections and Selahattin Demirtaş from the Peoples' Democratic Party (Turkey)|Peoples' Democratic Party (HDP) suspected such a measure would result in a political coup.<ref name=\":2\" />",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=7 February 2023 |title=Turkey earthquake: Erdogan announces three-month state of emergency in quake area |language=en-GB |work=BBC News|url=https://www.bbc.com/news/world-europe-64548985 |access-date=12 February 2023 |archive-date=9 April 2023|archive-url=https://web.archive.org/web/20230409115706/https://www.bbc.com/news/world-europe-64548985 |url-status=live }}</ref>",
+                      "url": "https://www.bbc.com/news/world-europe-64548985",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":2\" /> Then on 13 February 2023, Bülent Arınç, a former AKP Member of Parliament, alleged the elections could not be held in the current situation in either May or June, and the elections should be postponed.<ref name=\":2\">{{Cite web |date=14 February 2023 |title=Bülent Arınç calls for scheduled elections to be postponed |url=https://bianet.org/english/politics/274246-bulent-arinc-calls-for-scheduled-elections-to-be-postponed |website=Bianet |access-date=14 February 2023 |archive-date=2 May 2023|archive-url=https://web.archive.org/web/20230502095741/https://bianet.org/ |url-status=live }}</ref>",
+                      "url": "https://bianet.org/english/politics/274246-bulent-arinc-calls-for-scheduled-elections-to-be-postponed",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=AK Parti Sözcüsü Ömer Çelik'ten Bülent Arınç'ın seçim açıklamasına yanıt – En Son Haber |url=https://www.ensonhaber.com/gundem/ak-parti-sozcusu-omer-celikten-bulent-arincin-secim-aciklamasina-yanit |access-date=11 March 2023 |work=Ensonhaber |date=15 February 2023 |language=tr |archive-date=11 March 2023 |archive-url=https://web.archive.org/web/20230311194516/https://www.ensonhaber.com/gundem/ak-parti-sozcusu-omer-celikten-bulent-arincin-secim-aciklamasina-yanit |url-status=live }}</ref>",
+                      "url": "https://www.ensonhaber.com/gundem/ak-parti-sozcusu-omer-celikten-bulent-arincin-secim-aciklamasina-yanit",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.4",
+          "title": "Election calendar",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.4.s1",
+                  "text": "The Supreme Election Council (Turkey)|Supreme Election Council announced the following election calendar for the 2023 presidential elections and the parliamentary elections.\n* 18 March: The Supreme Election Council announces the official start of the election cycle.\n* 19 March: Submission of candidacy applications to the Supreme Election Council.\n* 20 March: Independent presidential candidates can apply until 17.00. Applications of independent candidates are examined by the Supreme Election Council and the candidates will be notified if their application is missing documents or other shortcomings as of 23:00.\n* 21 March: Independent presidential candidates whose application has been rejected by the Supreme Election Council, can appeal and request a re-examination until 17:00. \n** Deadline for political parties to nominate a presidential candidate.\n* 28 March: Announcement of the temporary list of presidential candidates and start of appeal applications.\n* 31 March: Announcement of the final list of presidential candidates.\n* 1 April: Presentation of ballot paper with the presidential candidates.\n* 12 April: Finalization of the domestic and international voter registers.\n* 27 April: Start of voting procedures at customs gates and abroad.\n* 9 May: Deadline for voting abroad.\n* 13 May: End of election campaigning and start of election silence at 18:00.\n* 14 May: Voting day. Announcement of the temporary results of the presidential election at 23:59.\n* 19 May: Announcement of the final election results by the Supreme Election Council.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=Yüksek Seçim Kurulu seçim takvimini açıkladı|url=https://tr.euronews.com/2023/03/14/yuksek-secim-kurulu-secim-takvimini-acikladi |access-date=25 March 2023 |work=euronews |date=14 March 2023 |language=tr |archive-date=25 March 2023|archive-url=https://web.archive.org/web/20230325035958/https://tr.euronews.com/2023/03/14/yuksek-secim-kurulu-secim-takvimini-acikladi |url-status=live }}</ref>",
+                      "url": "https://tr.euronews.com/2023/03/14/yuksek-secim-kurulu-secim-takvimini-acikladi",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "The President of Turkey is directly elected through the two-round system, under which a candidate must obtain a Majority|simple majority (more than 50%) of the popular vote to be elected. If no candidate secures an overall majority outright, then a runoff is held between the two most voted-for candidates from the first round, the winner of which is then declared elected. The first direct election to the Turkish presidency was held in 2014, after 2007 Turkish constitutional referendum|a referendum in 2007 abolished the previous system under which the head of state was elected by the legislature chamber, the Grand National Assembly of Turkey. The President of Turkey is subject to term limits, and may serve at most two five-year terms. If snap elections were held before the end of the second term, a third term would be permitted. Snap elections can be held either with the consent of 60% of the MPs in the Grand National Assembly of Turkey or ordered by presidential decree. Only snap elections via the consent of the Grand National Assembly during a president's second term can allow the president to serve a third term.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |last1=Dopico |first1=Alex |title=Does Turkey have term limits? |url=https://janetpanic.com/does-turkey-have-term-limits/#Does_Turkey_have_term_limits |website=janetpanic.com |access-date=19 March 2022 |date=6 November 2021 |archive-date=19 March 2022 |archive-url=https://web.archive.org/web/20220319072827/https://janetpanic.com/does-turkey-have-term-limits/#Does_Turkey_have_term_limits |url-status=usurped }}</ref>",
+                  "url": "https://janetpanic.com/does-turkey-have-term-limits/#Does_Turkey_have_term_limits",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Ertan |first=Nazlan |date=18 January 2023 |title=Erdogan picks historically charged date of May 14 for Turkey's crucial election – Al-Monitor: Independent, trusted coverage of the Middle East|url=https://www.al-monitor.com/originals/2023/01/erdogan-picks-historically-charged-date-may-14-turkeys-crucial-election |access-date=21 January 2023 |website=Al-Monitor |language=en |archive-date=26 March 2023 |archive-url=https://web.archive.org/web/20230326013612/https://www.al-monitor.com/originals/2023/01/erdogan-picks-historically-charged-date-may-14-turkeys-crucial-election |url-status=live }}</ref>",
+                  "url": "https://www.al-monitor.com/originals/2023/01/erdogan-picks-historically-charged-date-may-14-turkeys-crucial-election",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":1\">{{Cite web |date=13 January 2022 |title=Opposition Future Party says in contact with 40 lawmakers of ruling AKP|url=https://www.duvarenglish.com/turkish-opposition-future-party-says-in-contact-with-40-lawmakers-of-ruling-akp-news-60127 |access-date=21 January 2023 |website=Gazete Duvar |language=tr-TR |archive-date=3 April 2023 |archive-url=https://web.archive.org/web/20230403192227/https://www.duvarenglish.com/turkish-opposition-future-party-says-in-contact-with-40-lawmakers-of-ruling-akp-news-60127 |url-status=live }}</ref>",
+                  "url": "https://www.duvarenglish.com/turkish-opposition-future-party-says-in-contact-with-40-lawmakers-of-ruling-akp-news-60127",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |title=Türkei: Erdogan kündigt vorgezogene Wahlen am 14. Mai an |language=de |work=FAZ.NET|url=https://www.faz.net/aktuell/politik/ausland/erdogan-kuendigt-vorgezogene-wahlen-am-14-mai-an-18622131.html |access-date=23 January 2023 |issn=0174-4909 |archive-date=3 April 2023 |archive-url=https://web.archive.org/web/20230403192227/https://www.faz.net/aktuell/politik/ausland/erdogan-kuendigt-vorgezogene-wahlen-am-14-mai-an-18622131.html |url-status=live }}</ref>",
+                  "url": "https://www.faz.net/aktuell/politik/ausland/erdogan-kuendigt-vorgezogene-wahlen-am-14-mai-an-18622131.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "Prospective presidential candidates must be at least 40 years old and must have completed higher education. Any political party that has won 5% of the vote in the previous parliamentary election can put forward a candidate, although parties that have not met this threshold can form alliances and field joint candidates as long as their total vote share exceeds 5%. Independent (politician)|Independents can run if they collect 100,000 signatures from the electorate. Elections are overseen by the Supreme Election Council (Turkey)|Supreme Election Council (YSK).",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|url=http://www.cnnturk.com/video/turkiye/anayasa-degisikligi-maddeleri-tam-metni-yeni-anayasa-maddeleri-nelerdir |title=Anayasa değişikliği maddeleri tam metni &#124; Yeni anayasa maddeleri nelerdir? &#124; Son Dakika Türkiye Haberleri |publisher=Cnnturk.com |access-date=23 October 2017 |archive-date=18 November 2022 |archive-url=https://web.archive.org/web/20221118094443/https://www.cnnturk.com/video/turkiye/anayasa-degisikligi-maddeleri-tam-metni-yeni-anayasa-maddeleri-nelerdir |url-status=live }}</ref>",
+                  "url": "https://www.cnnturk.com/video/turkiye/anayasa-degisikligi-maddeleri-tam-metni-yeni-anayasa-maddeleri-nelerdir-591155",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":3\">{{Cite news |last=Böge |first=Friederike |title=Wahl in der Türkei: Zweifel an Erdogans Führung |language=de |work=Frankfurter Allgemeine Zeitung |url=https://www.faz.net/aktuell/politik/ausland/wahl-in-der-tuerkei-zweifel-an-erdogans-fuehrung-18893950.html |access-date=14 May 2023 |issn=0174-4909 |archive-date=14 May 2023 |archive-url=https://web.archive.org/web/20230514193136/https://www.faz.net/aktuell/politik/ausland/wahl-in-der-tuerkei-zweifel-an-erdogans-fuehrung-18893950.html |url-status=live }}</ref>",
+                  "url": "https://www.faz.net/aktuell/politik/ausland/tuerkei-wahl-prognosen-fuer-erdogan-unter-der-50-prozent-schwelle-18893950.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Candidates",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "5.2",
+          "title": "Candidates",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.2.s1",
+                  "text": "*Recep Tayyip Erdoğan, incumbent President of Turkey (2014–present), leader of the Justice and Development Party (Turkey)|Justice and Development Party (AK Party)\n**Supported by: People's Alliance (Turkey)|People's Alliance\n*Kemal Kılıçdaroğlu, leader of Republican People's Party, leader of the opposition. He was announced the candidate by the opposition alliance \"Table of Six\" on 6 March 2023.\n**Supported by: Nation Alliance (Turkey)|Nation Alliance, Labour and Freedom Alliance \n*Muharrem İnce, leader of the Homeland Party (Turkey, 2021)|Homeland Party, candidate for president in 2018 Turkish presidential election|2018 ''{{small|(withdrawn, appearing on ballot)}}''.''''{{efn|group=n|name=a}}\n* Sinan Oğan, former Grand National Assembly of Turkey|member of the parliament from Nationalist Movement Party|MHP (2011–2015) (''running as Independent'')\n** Supported by Ancestral Alliance\n\nOn 1 April, after a drawing conducted by the Supreme Electoral Council of Turkey|Supreme Electoral Council, the places of four presidential candidates on the ballot paper were determined as follows:",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news | url=https://www.bloomberg.com/news/articles/2022-06-09/turkey-s-erdogan-declares-his-bid-for-president-in-2023-election | title=Turkey's Erdogan Declares His Bid for President in 2023 Election | newspaper=Bloomberg.com | date=9 June 2022 | access-date=13 June 2022 | archive-date=30 October 2022|archive-url=https://web.archive.org/web/20221030202205/https://www.bloomberg.com/news/articles/2022-06-09/turkey-s-erdogan-declares-his-bid-for-president-in-2023-election | url-status=live }}</ref>",
+                      "url": "https://www.bloomberg.com/news/articles/2022-06-09/turkey-s-erdogan-declares-his-bid-for-president-in-2023-election",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |date=10 March 2022 |title=Meet Turkish President Erdogan's presumptive challenger |newspaper=The Economist|url=https://www.economist.com/europe/2022/03/10/meet-turkish-president-erdogans-presumptive-challenger |access-date=12 March 2022 |archive-date=12 March 2022 |archive-url=https://web.archive.org/web/20220312004732/https://www.economist.com/europe/2022/03/10/meet-turkish-president-erdogans-presumptive-challenger |url-status=live }}</ref>",
+                      "url": "https://www.economist.com/europe/2022/03/10/meet-turkish-president-erdogans-presumptive-challenger",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":4\">{{Cite web |title=Son Dakika: Millet İttifakı'nın Cumhurbaşkanı adayı Kemal Kılıçdaroğlu |url=https://www.cumhuriyet.com.tr/siyaset/son-dakika-millet-ittifakinin-cumhurbaskani-adayi-kemal-kilicdaroglu-2058318 |access-date=6 March 2023 |website=www.cumhuriyet.com.tr |language=tr |archive-date=3 April 2023|archive-url=https://web.archive.org/web/20230403194604/https://www.cumhuriyet.com.tr/siyaset/son-dakika-millet-ittifakinin-cumhurbaskani-adayi-kemal-kilicdaroglu-2058318 |url-status=live }}</ref>",
+                      "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-millet-ittifakinin-cumhurbaskani-adayi-kemal-kilicdaroglu-2058318",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Michaelson |first=Ruth |date=6 March 2023 |title=Turkish opposition settles on bookish presidential candidate after public row |language=en-GB |work=The Guardian |url=https://www.theguardian.com/world/2023/mar/06/turkish-opposition-settles-on-bookish-presidential-candidate-after-public-row |access-date=2 May 2023 |issn=0261-3077 |archive-date=28 April 2023 |archive-url=https://web.archive.org/web/20230428161024/https://www.theguardian.com/world/2023/mar/06/turkish-opposition-settles-on-bookish-presidential-candidate-after-public-row |url-status=live }}</ref>",
+                      "url": "https://www.theguardian.com/world/2023/mar/06/turkish-opposition-settles-on-bookish-presidential-candidate-after-public-row",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=28 April 2023 |title=Kurdish-left alliance declares support for Kılıçdaroğlu in presidential election |url=https://m.bianet.org/english/politics/277959-kurdish-left-alliance-declares-support-for-kilicdaroglu-in-presidential-election |website=Bianet |access-date=2 May 2023 |archive-date=5 May 2023 |archive-url=https://web.archive.org/web/20230505164254/https://m.bianet.org/english/politics/277959-kurdish-left-alliance-declares-support-for-kilicdaroglu-in-presidential-election |url-status=live }}</ref>",
+                      "url": "https://bianet.org/haber/kurdish-left-alliance-declares-support-for-kilicdaroglu-in-presidential-election-277959",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":17\">{{Cite web |date=12 March 2023 |title=Memleket Partisi'nin cumhurbaşkanı adayı Muharrem İnce oldu|url=https://www.hurriyet.com.tr/gundem/memleket-partisinin-cumhurbaskani-adayi-muharrem-ince-oldu-42233094 |url-status=live |archive-url=https://web.archive.org/web/20230403194604/https://www.hurriyet.com.tr/gundem/memleket-partisinin-cumhurbaskani-adayi-muharrem-ince-oldu-42233094 |archive-date=3 April 2023 |access-date=12 March 2023 |website=www.hurriyet.com.tr |language=tr}}</ref>",
+                      "url": "https://www.hurriyet.com.tr/gundem/memleket-partisinin-cumhurbaskani-adayi-muharrem-ince-oldu-42233094",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=11 May 2023 |title=Muharrem Ince: Turkish candidate dramatically pulls out before election |language=en-GB |work=BBC News |url=https://www.bbc.com/news/world-europe-65560052 |access-date=11 May 2023 |archive-date=11 May 2023 |archive-url=https://web.archive.org/web/20230511124106/https://www.bbc.com/news/world-europe-65560052 |url-status=live }}</ref>",
+                      "url": "https://www.bbc.com/news/world-europe-65560052",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":14\">{{Cite web |title=Ata İttifakı hangi partilerden oluşuyor? Ata İttifakı'nın cumhurbaşkanı adayı kim?|url=https://www.cumhuriyet.com.tr/turkiye/ata-ittifaki-hangi-partilerden-olusuyor-ata-ittifakinin-cumhurbaskani-adayi-kim-2060007 |access-date=11 March 2023 |website=www.cumhuriyet.com.tr |language=tr |archive-date=11 March 2023 |archive-url=https://web.archive.org/web/20230311125429/https://www.cumhuriyet.com.tr/turkiye/ata-ittifaki-hangi-partilerden-olusuyor-ata-ittifakinin-cumhurbaskani-adayi-kim-2060007 |url-status=live }}</ref>",
+                      "url": "https://www.cumhuriyet.com.tr/turkiye/ata-ittifaki-hangi-partilerden-olusuyor-ata-ittifakinin-cumhurbaskani-adayi-kim-2060007",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.2.s2",
+                  "text": "{| class=\"wikitable\" style=\"width:130px; text-align:center\"\n|-\n|-\n! colspan=15 | List of presidential candidates in order they appear on the ballot paper{{efn|Alliances and parties do not appear on the official ballot paper.}}\n|-\n| colspan=\"4\"| '''1'''\n| '''2'''\n| colspan=\"6\"| '''3'''\n| colspan=\"4\"| '''4'''\n|-\n| colspan=\"4\" |\n|\n| colspan=\"6\" | \n| colspan=\"4\" |\n|-\n| colspan=\"4\" |Recep Tayyip Erdoğan \n|Muharrem İnce{{efn|Withdrew candidacy on 11 May 2023, remained on the ballot.|group=n|name=a}}\n| colspan=\"6\" |Kemal Kılıçdaroğlu\n| colspan=\"4\" |Sinan Oğan\n|-\n| colspan=\"4\" |'''People's Alliance (Turkey)|People's Alliance'''\n|{{n/a}}\n| colspan=\"6\" |Nation Alliance (Turkey)|'''Nation Alliance'''\n| colspan=\"4\" |'''Ancestral Alliance'''\n|-\n| style=\"background:{{party color|Justice and Development Party (Turkey)}}; width:2px;\"|\n| style=\"background:{{party color|Nationalist Movement Party}}; width:2px;\"|\n| style=\"background:{{party color|Great Unity Party}}; width:2px;\"|\n| style=\"background:{{party color|Welfare Party}}; width:2px;\"|\n|style=\"background:{{party color|Homeland Party (Turkey, 2021)}}; width:2px;\"|\n| style=\"background:{{party color|Republican People's Party}}; width:2px;\"|\n| style=\"background:{{party color|Good Party}}; width:2px;\" |\n| style=\"background:{{party color|Democracy and Progress Party}}; width:2px;\"|\n| style=\"background:{{party color|Future Party (Turkey)}}; width:2px;\"|\n| style=\"background:{{party color|Felicity Party}}; width:2px;\"|\n| style=\"background:{{party color|Democrat Party (Turkey, current)}}; width:2px;\"|\n| style=\"background:{{party color|Victory Party (Turkey)}}; width:2px;\"|\n| style=\"background:#D1050C; width:2px;\"|\n| style=\"background:#0B69B1; width:2px;\"|\n| style=\"background:#00A01A; width:2px;\"|\n|-\n|'''{{small|Justice and Development Party (Turkey)|AK Party}}'''\n|'''{{small|Nationalist Movement Party|MHP}}'''\n|'''{{small|Great Unity Party|BBP}}'''\n|'''{{small|New Welfare Party|YRP}}'''\n|Homeland Party (Turkey, 2021)|<small>'''MP'''</small>\n|'''{{small|Republican People's Party|CHP}}'''\n|'''{{small|Good Party|İYİ}}'''\n|'''{{small|Democracy and Progress Party|DEVA}}'''\n|'''{{small|Future Party (Turkey)|GP}}'''\n|'''{{small|Felicity Party|SP}}'''\n|'''{{small|Democrat Party (Turkey, current)|DP}}'''\n|'''Victory Party (Turkey)|<small>ZP</small>'''\n|<small>'''{{Interlanguage link|Justice Party (Turkey, current)|lt=AP|tr|Adalet Partisi (2015)}}'''</small>\n|'''<small>My Country Party|ÜP</small>'''\n|'''<small>Turkey Alliance Party|TÜİP</small>'''\n|-\n| colspan=\"4\" |Recep Tayyip Erdoğan 2023 presidential campaign|Campaign\n|Muharrem İnce 2023 presidential campaign|Campaign\n| colspan=\"6\" |Kemal Kılıçdaroğlu 2023 presidential campaign|Campaign\n| colspan=\"4\" |Sinan Oğan 2023 presidential campaign|Campaign\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://www.hurriyetdailynews.com/ysk-draws-presidential-candidates-place-on-ballot-paper-182043|title=YSK draws presidential candidates' place on ballot paper|date=2 April 2023|access-date=2 April 2023|archive-date=2 April 2023|archive-url=https://web.archive.org/web/20230402104219/https://www.hurriyetdailynews.com/ysk-draws-presidential-candidates-place-on-ballot-paper-182043|url-status=live}}</ref>",
+                      "url": "https://www.hurriyetdailynews.com/ysk-draws-presidential-candidates-place-on-ballot-paper-182043",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.3",
+          "title": "Nominations",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.3.s1",
+                  "text": "According to article 101 of the Constitution of Turkey, amended following the 2017 Turkish constitutional referendum|2017 constitutional referendum, any political party that has won 5% of the vote in the previous parliamentary election can put forward a candidate. The remaining candidates were required to collect at least 100,000 signatures.",
+                  "references": [
+                    {
+                      "text": "<ref name=ntv>{{cite web|url=https://www.ntv.com.tr/turkiye/hangi-cumhurbaskani-adayi-5-gun-kac-imza-topladi-100-bin-imzayi-toplayan-ikinci-aday-sinan-ogan-oldu,J9TlXv84Y0uFxgVrxEbtnA|quote=Anayasanın 101. maddesine göre; cumhurbaşkanlığına, siyasi parti grupları, en son yapılan genel seçimlerde toplam geçerli oyların tek başına veya birlikte en az yüzde 5'ini almış olan siyasi partiler ile en az 100 bin seçmen aday gösterebiliyor.|lang=Turkish|date=26 March 2023|title=Hangi Cumhurbaşkanı adayı (5.gün) kaç imza topladı? 100 bin imzayı toplayan ikinci aday Sinan Oğan oldu|access-date=18 May 2023|archive-date=18 May 2023|archive-url=https://web.archive.org/web/20230518163407/https://www.ntv.com.tr/turkiye/hangi-cumhurbaskani-adayi-5-gun-kac-imza-topladi-100-bin-imzayi-toplayan-ikinci-aday-sinan-ogan-oldu,J9TlXv84Y0uFxgVrxEbtnA|url-status=live}}</ref>",
+                      "url": "https://www.ntv.com.tr/turkiye/hangi-cumhurbaskani-adayi-5-gun-kac-imza-topladi-100-bin-imzayi-toplayan-ikinci-aday-sinan-ogan-oldu,J9TlXv84Y0uFxgVrxEbtnA",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.3.s2",
+                  "text": "On 24 March, the New Welfare Party decided to join the People's Alliance. After this decision, Fatih Erbakan announced that he had ended the candidacy process in favour of Erdoğan.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://www.tgrthaber.com.tr/politika/cumhur-ittifakina-katilan-fatih-erbakan-cumhurbaskani-adayligindan-cekildi-2880752|title=Yeniden Refah Partisi Cumhur İttifakı'nda (Fatih Erbakan adaylıktan çekildi)|date=24 March 2023|language=tr|access-date=25 March 2023|archive-date=25 March 2023|archive-url=https://web.archive.org/web/20230325080451/https://www.tgrthaber.com.tr/politika/cumhur-ittifakina-katilan-fatih-erbakan-cumhurbaskani-adayligindan-cekildi-2880752|url-status=live}}</ref>",
+                      "url": "https://www.tgrthaber.com/politika/cumhur-ittifakina-katilan-fatih-erbakan-cumhurbaskani-adayligindan-cekildi-2880752",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.3.s3",
+                  "text": "{| class=wikitable style=\"font-size:90%;\"\n|-\n!rowspan=\"2\" colspan=\"2\"|Party\n!rowspan=\"2\"|Candidate\n! colspan=\"6\"|Daily signatures\n!rowspan=\"2\"| Result\n|-\n!width=\"90px\"| 22 March\n!width=\"90px\"| 23 March\n!width=\"90px\"| 24 March\n!width=\"90px\"| 25 March\n!width=\"90px\"| 26 March\n!width=\"90px\"| 27 March\n|-\n| style=\"background: {{party color|Homeland Party (Turkey, 2021)}}\" |\n| '''Homeland Party (Turkey, 2021)|Homeland Party'''\n|Muharrem İnce\n|{{right|28,235}}\n|{{right|51,367}}\n|{{right|76,901}}\n| style=\"background: #DEFDE6\" |{{right|{{aye}} '''104,357'''}}\n| style=\"background: #DEFDE6\" |{{right|109,745}}\n| style=\"background: #DEFDE6\" |{{right|114,657}}\n! style=\"background: #DEFDE6\" |{{center|{{aye}} Nominated}}\n|-\n!\n|{{n/a}}\n|Sinan Oğan\n|{{right|15,573}}\n|{{right|25,924}}\n|{{right|39,317}}\n|{{right|63,027}}\n| style=\"background: #DEFDE6\" | {{right|{{aye}} '''102,667'''}}\n| style=\"background: #DEFDE6\" | {{right|111,502}}\n! style=\"background: #DEFDE6\" | {{center|{{aye}} Nominated}}\n|-\n| style=\"background: {{party color|Welfare Party}}\" |\n| '''New Welfare Party'''\n| Fatih Erbakan{{efn|Ended his candidacy process on 24 March.}}\n|{{right|27,910}}\n|{{right|46,725}}\n| {{right|69,079}}\n| {{right|69,159}}\n| {{right|69,200}}\n| {{right|69,255}}\n! style=\"background: #FFC2C2\" | {{center|{{nay}} Not nominated}}\n|-\n| style=\"background: {{party color|Patriotic Party (Turkey)}}\"|\n|'''Patriotic Party (Turkey)|Patriotic Party''' \n||Doğu Perinçek|| |{{right|6,679}}\n|{{right|11,792}}\n|{{right|16,192}}\n|{{right|20,400}}\n|{{right|23,776}}\n|{{right|27,055}}\n! style=\"background: #FFC2C2\" | {{center|{{nay}} Not nominated}}\n|-\n!\n|{{n/a}}\n|Yakup Türkal\n|{{right|993}}\n|{{right|1,645}}\n|{{right|2,031}}\n|{{right|2,462}}\n|{{right|2,780}}\n|{{right|3,137}}\n! style=\"background: #FFC2C2\" | {{center|{{nay}} Not nominated}}\n|-\n!\n|{{n/a}}\n|Erkan Trükten\n|{{right|397}}\n|{{right|755}}\n|{{right|1,116}}\n|{{right|1,604}}\n|{{right|1,940}}\n|{{right|2,588}}\n! style=\"background: #FFC2C2\" | {{center|{{nay}} Not nominated}}\n|-\n!\n|{{n/a}}\n|Ahmet Özal\n|{{right|237}}\n|{{right|567}}\n|{{right|807}}\n|{{right|1,025}}\n|{{right|1,311}}\n|{{right|1,544}}\n! style=\"background: #FFC2C2\" | {{center|{{nay}} Not nominated}}\n|-\n! style=\"background-color:#FFD700\" |\n| '''Justice Unity Party'''\n|İrfan Uzun\n|{{right|176}}\n|{{right|319}}\n|{{right|447}}\n|{{right|698}}\n|{{right|1,001}}\n|{{right|1,263}}\n! style=\"background: #FFC2C2\" | {{center|{{nay}} Not nominated}}\n|-\n!\n|{{n/a}}\n|Halil Murat Ünver\n|{{right|119}}\n|{{right|211}}\n|{{right|285}}\n|{{right|369}}\n|{{right|444}}\n|{{right|538}}\n! style=\"background: #FFC2C2\" | {{center|{{nay}} Not nominated}}\n|-\n!\n|{{n/a}}\n|Hilmi Özden\n|{{right|60}}\n|{{right|151}}\n|{{right|225}}\n|{{right|333}}\n|{{right|405}}\n|{{right|478}}\n! style=\"background: #FFC2C2\" | {{center|{{nay}} Not nominated}}\n|-\n!\n|{{n/a}}\n|Davut Turan\n|{{right|34}}\n|{{right|68}}\n|{{right|92}}\n|{{right|106}}\n|{{right|111}}\n|{{right|122}}\n! style=\"background: #FFC2C2\" | {{center|{{nay}} Not nominated}}\n|-\n! colspan=3|Totals\n!{{right|80,413}}\n!{{right|139,524}}\n!{{right|206,494}}\n!{{right|263,540}}\n!{{right|313,380}}\n!{{right|332,139}}\n!\n|}",
+                  "references": [
+                    {
+                      "text": "<ref name=\":23\">{{Cite news |date=22 March 2023 |title=YSK, Cumhurbaşkanı adayları için ilk gün atılan imza sayılarını açıkladı |work=Cumhuriyet |url=https://www.cumhuriyet.com.tr/siyaset/ysk-cumhurbaskani-adaylari-icin-ilk-gun-atilan-imza-sayilarini-acikladi-2063900 |access-date=24 March 2023 |archive-date=3 April 2023 |archive-url=https://web.archive.org/web/20230403193443/https://www.cumhuriyet.com.tr/siyaset/ysk-cumhurbaskani-adaylari-icin-ilk-gun-atilan-imza-sayilarini-acikladi-2063900 |url-status=live }}</ref>",
+                      "url": "https://www.cumhuriyet.com.tr/siyaset/ysk-cumhurbaskani-adaylari-icin-ilk-gun-atilan-imza-sayilarini-acikladi-2063900",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":24\">{{Cite web |title=Cumhurbaşkanı adayları için 2'nci gün atılan imza sayıları açıklandı|url=https://www.sozcu.com.tr/2023/gundem/cumhurbaskanlari-adaylari-icin-2nci-gun-atilan-imza-sayilari-aciklandi-7630850/ |access-date=24 March 2023 |website=www.sozcu.com.tr |date=23 March 2023 |language=tr |archive-date=30 March 2023|archive-url=https://web.archive.org/web/20230330122904/https://www.sozcu.com.tr/2023/gundem/cumhurbaskanlari-adaylari-icin-2nci-gun-atilan-imza-sayilari-aciklandi-7630850/ |url-status=live }}</ref>",
+                      "url": "https://www.sozcu.com.tr/cumhurbaskanlari-adaylari-icin-2nci-gun-atilan-imza-sayilari-aciklandi-wp7630850",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":25\">{{Cite web |title=Cumhurbaşkanları adayları için üçüncü gün atılan imza sayıları|url=https://t24.com.tr/haber/cumhurbaskanlari-adaylari-icin-ucuncu-gun-atilan-imza-sayilari,1100379 |access-date=25 March 2023 |website=www.t24.com.tr |language=tr |archive-date=24 March 2023 |archive-url=https://web.archive.org/web/20230324173419/https://t24.com.tr/haber/cumhurbaskanlari-adaylari-icin-ucuncu-gun-atilan-imza-sayilari,1100379 |url-status=live }}</ref>",
+                      "url": "https://t24.com.tr/haber/cumhurbaskanlari-adaylari-icin-ucuncu-gun-atilan-imza-sayilari,1100379",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.ntv.com.tr/turkiye/hangi-cumhurbaskani-adayi-kac-imza-topladi4-gun-sonuclari,-mdf0eEl1kWLVoJxme-xXg|title=Hangi Cumhurbaşkanı adayı (4.gün) kaç imza topladı? 100 bin imzayı toplayan ilk aday Muharrem İnce oldu|date=25 March 2023|access-date=25 March 2023|archive-date=3 April 2023|archive-url=https://web.archive.org/web/20230403192227/https://www.ntv.com.tr/turkiye/hangi-cumhurbaskani-adayi-kac-imza-topladi4-gun-sonuclari,-mdf0eEl1kWLVoJxme-xXg|url-status=live}}</ref>",
+                      "url": "https://www.ntv.com.tr/turkiye/hangi-cumhurbaskani-adayi-kac-imza-topladi4-gun-sonuclari,-mdf0eEl1kWLVoJxme-xXg",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.aydinyenihaber.com/haber/14375350/sinan-ogan-da-100-bin-imzaya-ulasti|title=Sinan Oğan da 100 bin imzaya ulaştı|date=26 March 2023|access-date=26 March 2023|archive-date=3 April 2023|archive-url=https://web.archive.org/web/20230403192227/https://www.aydinyenihaber.com/haber/14375350/sinan-ogan-da-100-bin-imzaya-ulasti|url-status=live}}</ref>",
+                      "url": "https://www.aydinyenihaber.com/haber/14375350/sinan-ogan-da-100-bin-imzaya-ulasti",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.dunya.com/gundem/erdogan-kentsel-donusumde-daha-kararliyiz-haberi-689665|title=100 bin imza için süre doldu! Seçime girecek 4 aday|date=27 March 2023|access-date=27 March 2023|archive-date=3 April 2023|archive-url=https://web.archive.org/web/20230403171525/https://www.dunya.com/gundem/erdogan-kentsel-donusumde-daha-kararliyiz-haberi-689665|url-status=live}}</ref>",
+                      "url": "https://www.dunya.com/gundem/erdogan-kentsel-donusumde-daha-kararliyiz-haberi-689665",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Endorsements",
+      "content": [
+        {
+          "id": "6.1",
+          "title": "Parties and alliances",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.1.s1",
+                  "text": "{| class=\"wikitable\" style=\"font-size:85%;\"\n! colspan=\"2\" |Candidate\n! colspan=\"4\" |Endorsement\n!Ideology\n|-\n! rowspan=\"11\" style=\"background:{{party color|Justice and Development Party (Turkey)}}|\n| rowspan=\"11\" |'''Recep Tayyip Erdoğan|Erdoğan'''<br>People's Alliance (Turkey)|People's Alliance<br>Justice and Development Party (Turkey)|AK Party\n| rowspan=\"3\" style=\"background:{{party color|Justice and Development Party (Turkey)}}|\n| rowspan=\"3\" | People's Alliance (Turkey)|People's Alliance\n| style=\"background:{{party color|Nationalist Movement Party}}\" |\n|'''MHP''' (Nationalist Movement Party)\n|Turkish nationalism|Turkish ultranationalism\n|-\n| style=\"background:{{party color|Great Unity Party}}\" |\n|''' BBP''' (Great Unity Party)\n|Turkish-Islamic nationalism|Turkish Islamonationalism\n|-\n| style=\"background:{{party color|Welfare Party}}\" |\n|'''YRP''' (New Welfare Party)\n|Millî Görüş\n|-\n| style=\"background:{{party color|Free Cause Party}}\" |\n|colspan=\"3\" | '''HÜDAPAR''' (Free Cause Party)\n|Kurdish Islamism\n|-\n|style=\"background:{{party color|Democratic Left Party (Turkey)}}\" |\n|colspan=\"3\" | '''DSP''' (Democratic Left Party (Turkey)|Democratic Left Party)\n|Social democracy\n|-\n| style=\"background:#8a3a40; width:2px;\" |\n|colspan=\"3\" | '''BÜYÜK TÜRKİYE''' (Great Turkey Party (2020)|Great Turkey Party)\n|Pan-Turkism\n|-\n| style=\"background:#E20A16; width:2px;\" |\n|colspan=\"3\" | '''DYP''' (True Path Party (2007)|True Path Party)\n|Liberal conservatism\n|-\n| style=\"background:#028bd1; width:2px;\" |\n| colspan=\"3\" |'''YENİ DÜNYA''' (New World Party Turkey|New World Party)\n|Conservatism in Turkey|Conservatism\n|-\n!style=\"background:{{party color|Nationalist Movement Party}}\" |\n| colspan=\"3\" |'''VATAN PARTİSİ''' Patriotic Party (Turkey)|(Patriotic Party) (second round)\n|Left-wing nationalism \n|-\n| style=\"background:#009F1A\" |\n| colspan=\"3\" |'''TÜİP''' (Turkey Alliance Party) (second round)\n|Turkish nationalism|Kemalism\n|-\n| style=\"background:#0C64AC\" |\n| colspan=\"3\" |'''ÜLKEM''' (My Country Party) (second round)\n|Turkish nationalism\n|-\n! colspan=\"7\" |\n|-\n! rowspan=\"32\" style=\"background:{{party color|Republican People's Party}}\" |\n| rowspan=\"32\" |'''Kemal Kılıçdaroğlu|Kılıçdaroğlu'''<br>Nation Alliance (Turkey)|Nation Alliance<br>Republican People's Party|CHP\n| rowspan=\"5\" style=\"background:{{party color|Republican People's Party}}|\n| rowspan=\"5\" | Nation Alliance (Turkey)|Nation Alliance\n| style=\"background:{{party color|Good Party}}\" |\n|'''İYİ PARTİ''' (Good Party)\n|Socialism\n|-\n| style=\"background:{{party color|Peoples' Democratic Party (Turkey)}}\" |\n|'''HDP''' (Peoples' Democratic Party (Turkey)|Peoples' Democratic Party)\n|Regionalism (politics)|Regionalism\n|-\n| style=\"background:#388537\" |\n|'''Yeşil Sol Parti''' (Party of Greens and the Left Future)\n|Green politics\n|-\n| style=\"background:#FF0000\" |\n|'''EMEP''' (Labour Party (Turkey)|Labour Party)\n|Communism\n|-\n| style=\"background:#E41E26\" |\n|'''EHP''' (Labourist Movement Party)\n|Socialism\n|-\n| style=\"background:{{party color|Communist Party of Turkey (modern)}}\" |\n|'''TKP''' (Communist Party of Turkey (modern)|Communist Party of Turkey)\n|Communism\n|-\n| style=\"background:#990000\"|\n|'''TKH''' (Communist Movement of Turkey)\n|Communism\n|-\n|\n|'''DH''' (Revolution Movement)\n|Social democracy\n|-\n|style=\"background:{{party color|Liberal Democratic Party (Turkey)}}\" |\n| colspan=\"3\" |'''LDP''' (Liberal Democratic Party (Turkey)|Liberal Democratic Party)\n|Classical liberalism\n|-\n|style=\"background:{{party color|Independent Turkey Party}}\" |\n| colspan=\"3\" |'''BTP''' (Independent Turkey Party)\n|Kemalism\n|-\n| style=\"background:darkred\" |\n| colspan=\"3\" |'''HKP''' (People's Liberation Party (Turkey)|People's Liberation Party)\n|Communism\n|-\n| style=\"background:#A50021\" |\n| colspan=\"3\" |'''MTP''' (Nationalist Turkey Party)\n|Turkish nationalism\n|-\n| style=\"background:#D50F80\" |\n| colspan=\"3\" |'''KP''' (Women's Party (Turkey)|Women's Party)\n|Feminism\n|-\n| style=\"background:#A50021\" |\n| colspan=\"3\" |'''TEK PARTİ''' (Technology Development Party)\n|Liberalism\n|-\n| style=\"background:{{party color|Green Party (Turkey)}}\" |\n| colspan=\"3\" |'''YEŞİLLER''' (Green Party (Turkey)|Green Party)\n|Green politics\n|-\n|style=\"background:#A50021\" |\n| colspan=\"3\" |'''DOĞRU PARTİ''' (The True Party)\n|Kemalism\n|-\n|style=\"background:#D1050C\" |\n| colspan=\"3\" |'''AP''' (Justice Party (Turkey, 2015)|Justice Party) (second round)\n|Liberal conservatism\n|-\n| style=\"background:{{party color|Victory Party (Turkey)}}\" |\n| colspan=\"3\" |'''ZP''' (Victory Party (Turkey)|Victory Party) (second round)\n|Anti-immigration\n|-\n| style=\"background:{{party color|Centre Party (Turkey)}}\" |\n| colspan=\"3\" |'''MEP''' (Centre Party (Turkey)|Centre Party) (second round)\n|Liberalism\n|-\n| style=\"background:{{party colour|Revolutionary Socialist Workers' Party (Turkey)}}\" |\n| colspan=\"3\" |'''DSİP''' (Revolutionary Socialist Workers' Party (Turkey)|Revolutionary Socialist Workers' Party) (second round)\n|Marxism–Leninism|Marxism\n|-\n|\n| colspan=\"3\" |'''Milli Yol''' (National Path Party) (second round)\n|Turkish nationalism\n|-\n|\n| colspan=\"3\" |'''İDP''' (Labor Democracy Party) (second round)\n|Marxism–Leninism|Marxism\n|-\n|\n| colspan=\"3\" |'''AB PARTİ''' (Justice Unity Party Turkey|Justice Unity Party) (second round)\n|Kemalism\n|-\n! colspan=\"7\" |\n|-\n| style=\"background:{{party color|Victory Party (Turkey)}}\" rowspan=\"5\" |\n| rowspan=\"5\" |'''Sinan Oğan|Oğan'''<br/>Ancestral Alliance<br>Independent politician|Independent\n| rowspan=\"4\" style=\"background:{{party color|Ancestor Alliance}}\" |\n| rowspan=\"4\" |Ancestral Alliance\n| style=\"background:{{party color|Victory Party (Turkey)}}\" |\n|'''ZP''' (Victory Party (Turkey)|Victory Party)\n|Liberal conservatism\n|}",
+                  "references": [
+                    {
+                      "text": "<ref name=\":7\">{{Cite news |date=8 February 2022 |title=Devlet Bahçeli: Cumhurbaşkanı adayımız Erdoğan'dır |work=Yeni Şafak|url=https://www.yenisafak.com/gundem/devlet-bahceli-cumhurbaskani-adayimiz-erdogandir-3743833 |access-date=7 March 2023 |archive-date=9 June 2022|archive-url=https://web.archive.org/web/20220609182103/https://www.yenisafak.com/gundem/devlet-bahceli-cumhurbaskani-adayimiz-erdogandir-3743833 |url-status=live }}</ref>",
+                      "url": "https://www.yenisafak.com/gundem/devlet-bahceli-cumhurbaskani-adayimiz-erdogandir-3743833",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":8\">{{Cite web |date=17 April 2022 |title=BBP Başkanı Destici, Cumhurbaşkanı adayını açıkladı|url=https://tele1.com.tr/bbp-baskani-destici-cumhurbaskani-adayini-acikladi-604938/ |access-date=6 March 2023 |website=Tele1 |language=tr |archive-date=9 June 2022 |archive-url=https://web.archive.org/web/20220609182045/https://tele1.com.tr/bbp-baskani-destici-cumhurbaskani-adayini-acikladi-604938/ |url-status=live }}</ref>",
+                      "url": "https://www.tele1.com.tr/bbp-baskani-destici-cumhurbaskani-adayini-acikladi",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Yeniden Refah Partisi Cumhur İttifakı'nda (Fatih Erbakan adaylıktan çekildi) |url=https://www.ntv.com.tr/2023-secim/yeniden-refah-partisi-cumhur-ittifakinda-fatih-erbakan-adayliktan-cekildi,QhBhwU3Bck6t10DGxnADMg |access-date=25 March 2023 |website=www.ntv.com.tr |language=tr |archive-date=24 March 2023 |archive-url=https://web.archive.org/web/20230324151501/https://www.ntv.com.tr/2023-secim/yeniden-refah-partisi-cumhur-ittifakinda-fatih-erbakan-adayliktan-cekildi,QhBhwU3Bck6t10DGxnADMg |url-status=live }}</ref>",
+                      "url": "https://www.ntv.com.tr/2023-secim/yeniden-refah-partisi-cumhur-ittifakinda-fatih-erbakan-adayliktan-cekildi,QhBhwU3Bck6t10DGxnADMg",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":15\">{{Cite web |date=11 March 2023 |title=HÜDA-PAR kararını açıkladı: Erdoğan'ı destekleyeceğiz!|url=https://www.rudaw.net/turkish/middleeast/turkey/1103202318 |access-date=11 March 2023 |website=Rudaw |archive-date=3 April 2023 |archive-url=https://web.archive.org/web/20230403194213/https://www.rudaw.net/turkish/middleeast/turkey/1103202318 |url-status=live }}</ref>",
+                      "url": "https://www.rudaw.net/turkish/middleeast/turkey/1103202318",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=7 April 2023 |title=Son dakika... DSP'den 'Cumhur İttifakı' kararı|url=https://www.cumhuriyet.com.tr/siyaset/son-dakika-dspden-cumhur-ittifaki-karari-2069189 |access-date=7 April 2023 |website=www.cumhuriyet.com.tr |language=tr |archive-date=7 April 2023 |archive-url=https://web.archive.org/web/20230407134642/https://www.cumhuriyet.com.tr/siyaset/son-dakika-dspden-cumhur-ittifaki-karari-2069189 |url-status=live }}</ref>",
+                      "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-dspden-cumhur-ittifaki-karari-2069189",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=12 April 2023 |title=Büyük Türkiye Partisi: Adaylarımızı Cumhur İttifakı'nı ve Erdoğan'ı desteklemek üzere geri çekiyoruz |url=https://www.cumhuriyet.com.tr/siyaset/buyuk-turkiye-partisi-adaylarimizi-cumhur-ittifakini-ve-erdogani-desteklemek-uzere-geri-cekiyoruz-2070735 |access-date=12 April 2023 |website=www.cumhuriyet.com.tr |language=tr |archive-date=12 April 2023 |archive-url=https://web.archive.org/web/20230412155343/https://www.cumhuriyet.com.tr/siyaset/buyuk-turkiye-partisi-adaylarimizi-cumhur-ittifakini-ve-erdogani-desteklemek-uzere-geri-cekiyoruz-2070735 |url-status=live }}</ref>",
+                      "url": "https://www.cumhuriyet.com.tr/siyaset/buyuk-turkiye-partisi-adaylarimizi-cumhur-ittifakini-ve-erdogani-desteklemek-uzere-geri-cekiyoruz-2070735",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=19 April 2023 |title=DYP'den Cumhurbaşkanı Erdoğan'a destek kararı |url=https://www.yeniakit.com.tr/haber/dypden-cumhurbaskani-erdogana-destek-karari-1751386.html |access-date=19 April 2023 |website=www.yeniakit.com.tr |language=tr |archive-date=19 April 2023 |archive-url=https://web.archive.org/web/20230419152314/https://www.yeniakit.com.tr/haber/dypden-cumhurbaskani-erdogana-destek-karari-1751386.html |url-status=live }}</ref>",
+                      "url": "https://www.yeniakit.com.tr/haber/dypden-cumhurbaskani-erdogana-destek-karari-1751386.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Yeni Dünya Partisi Baş Lideri Emanullah Gündüz Erdoğan'a destek çağrısı yaptı |url=https://www.haber7.com/siyaset/haber/3322782-yeni-dunya-partisi-bas-lideri-emanullah-gunduz-erdogana-destek-cagrisi-yapti |access-date=6 May 2023 |website=Haber7 |language=tr |archive-date=5 May 2023 |archive-url=https://web.archive.org/web/20230505152458/https://www.haber7.com/siyaset/haber/3322782-yeni-dunya-partisi-bas-lideri-emanullah-gunduz-erdogana-destek-cagrisi-yapti |url-status=live }}</ref>",
+                      "url": "https://www.haber7.com/siyaset/haber/3322782-yeni-dunya-partisi-bas-lideri-emanullah-gunduz-erdogana-destek-cagrisi-yapti",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-05-17 |title=Perinçek'ten 'U' dönüşü! 2'nci tur için Erdoğan'a oy istedi |url=https://www.cumhuriyet.com.tr/siyaset/perincekten-geri-vites-2nci-tur-icin-erdogana-oy-istedi-2082336 |access-date=2023-05-17 |website=www.cumhuriyet.com.tr |language=tr |archive-date=17 May 2023 |archive-url=https://web.archive.org/web/20230517162828/https://www.cumhuriyet.com.tr/siyaset/perincekten-geri-vites-2nci-tur-icin-erdogana-oy-istedi-2082336 |url-status=live }}</ref>",
+                      "url": "https://www.cumhuriyet.com.tr/siyaset/perincekten-geri-vites-2nci-tur-icin-erdogana-oy-istedi-2082336",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite tweet |user=TPmehmetsaglam|author=Mehmet Sağlam|number=1660991221131509762 |title=Türkiye İttifakı Partisi olarak yol arkadaşlarımızla birlikte 28 Mayıs Cumhurbaşkanlığı seçimlerinde Cumhur İttifakı adayı Sn. Recep Tayyip Erdoğan'ı destekleme kararı aldığımızı kamuoyuna beyan ederiz.  |access-date=2023-05-23 |date=23 May 2023 |language=tr}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "tweet"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-05-25 |title=Ülkem Partisi Genel Başkanı Neşet Doğan'dan Başkan Erdoğan'a destek: Türkiye'nin önüne çıkacak her engeli aşacak lider! |url=https://www.ahaber.com.tr/gundem/2023/05/25/ulkem-partisi-genel-baskani-neset-dogandan-baskan-erdogana-destek-turkiyenin-onune-cikacak-her-engeli-asacak-lider |access-date=2023-05-25 |website=A Haber |language=tr |archive-date=26 May 2023 |archive-url=https://web.archive.org/web/20230526003620/https://www.ahaber.com.tr/gundem/2023/05/25/ulkem-partisi-genel-baskani-neset-dogandan-baskan-erdogana-destek-turkiyenin-onune-cikacak-her-engeli-asacak-lider |url-status=live }}</ref>",
+                      "url": "https://www.ahaber.com.tr/gundem/2023/05/25/ulkem-partisi-genel-baskani-neset-dogandan-baskan-erdogana-destek-turkiyenin-onune-cikacak-her-engeli-asacak-lider",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":4\" />\n|Turkish nationalism\n|-\n| style=\"background:{{party color|Democracy and Progress Party}}\" |\n|'''DEVA''' (Democracy and Progress Party)<ref name=\":4\" />\n|Liberal conservatism\n|-\n| style=\"background:{{party color|Future Party (Turkey)}}\" |\n|'''GP''' (Future Party (Turkey)|Future Party)<ref name=\":4\" />\n|Conservatism in Turkey|Conservatism\n|-\n| style=\"background:{{party color|Felicity Party}}\" |\n|'''SAADET''' (Felicity Party)<ref>{{Cite web |date=8 November 2015 |title=SAADET PARTİSİ|url=http://www.yargitaycb.gov.tr/Partiler/saadet.html |access-date=7 May 2023 |archive-url=https://web.archive.org/web/20151108153159/http://www.yargitaycb.gov.tr/Partiler/saadet.html |archive-date=8 November 2015 }}</ref>",
+                      "url": "http://www.yargitaycb.gov.tr/Partiler/saadet.html",
+                      "status_code": null,
+                      "reason": "Cannot connect to host www.yargitaycb.gov.tr:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":4\" />\n|Millî Görüş\n|-\n| style=\"background:{{party color|Democratic Party (Turkey, current)}}\" |\n|'''DP''' (Democrat Party (Turkey, current)|Democrat Party)<ref name=\":4\" />\n|Liberal conservatism\n|-\n| rowspan=\"6\" style=\"background:{{party color|Peoples' Democratic Party (Turkey)}}|\n| rowspan=\"6\"|Labour and Freedom Alliance\n| style=\"background:{{party color|Workers' Party of Turkey (2017)}}\" |\n|'''TİP''' (Workers' Party of Turkey (2017)|Workers' Party of Turkey)<ref name=\":11\">{{Cite web |date=7 March 2023 |title=TİP'ten Kılıçdaroğlu'nun adaylığına tam destek: İlk turda bu işi bitirelim |url=https://www.haberler.com/politika/tip-ten-kilicdaroglu-nun-adayligina-tam-destek-15681361-haberi/ |access-date=8 March 2023 |website=Haberler |language=tr |archive-date=15 March 2023 |archive-url=https://web.archive.org/web/20230315044524/https://www.haberler.com/politika/tip-ten-kilicdaroglu-nun-adayligina-tam-destek-15681361-haberi/ |url-status=live }}</ref>",
+                      "url": "https://www.haberler.com/politika/tip-ten-kilicdaroglu-nun-adayligina-tam-destek-15681361-haberi/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=HDP 14 Mayıs'taki seçimlerde kimi destekleyeceğini duyurdu!|url=https://www.tgrthaber.com.tr/secim-2023/hdp-14-mayistaki-secimde-kemal-kilicdaroglunu-destekleme-karari-aldi-2885607 |website=TGRT |date=28 April 2023 |language=Turkish |access-date=28 April 2023 |archive-date=28 April 2023 |archive-url=https://web.archive.org/web/20230428122842/https://www.tgrthaber.com.tr/secim-2023/yurt-disi-secim-sonuclari-2023-almanya-fransa-belcika-hollanda-ve-abd-sonuclari-belli-oldu-mu-kac-secmen-var-yuzdelik-oylar-nasil-sekillendi-tum-bilgiler-2885636?is_ajax=1&renderPlaces=left_content,content,bottom_content |url-status=live }}</ref>",
+                      "url": "https://www.tgrthaber.com/secim-2023/hdp-14-mayistaki-secimde-kemal-kilicdaroglunu-destekleme-karari-aldi-2885607",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Pervin Buldan: Kullanacağımız oyun biri Yeşil Sol Parti'ye biri de Kemal Kılıçdaroğlu'na|url=https://artigercek.com/politika/pervin-buldan-kullanacagimiz-oyun-biri-yesil-sol-partiye-biri-de-kemal-247867h |access-date=28 April 2023 |website=Artı Gerçek |date=28 April 2023 |language=tr |archive-date=2 May 2023 |archive-url=https://web.archive.org/web/20230502010355/https://artigercek.com/politika/pervin-buldan-kullanacagimiz-oyun-biri-yesil-sol-partiye-biri-de-kemal-247867h |url-status=live }}</ref>",
+                      "url": "https://artigercek.com/politika/pervin-buldan-kullanacagimiz-oyun-biri-yesil-sol-partiye-biri-de-kemal-kilicdarogluna-247867h",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"Emek ve Özgürlük\">{{Cite web |title=Son Dakika: Emek ve Özgürlük İttifakı'ndan Kılıçdaroğlu kararı|url=https://www.cumhuriyet.com.tr/turkiye/son-dakika-emek-ve-ozgurluk-ittifakindan-kilicdaroglu-karari-2076086 |access-date=28 April 2023 |website=www.cumhuriyet.com.tr |date=28 April 2023 |language=tr |archive-date=28 April 2023 |archive-url=https://web.archive.org/web/20230428171755/https://www.cumhuriyet.com.tr/turkiye/son-dakika-emek-ve-ozgurluk-ittifakindan-kilicdaroglu-karari-2076086 |url-status=live }}</ref>",
+                      "url": "https://www.cumhuriyet.com.tr/turkiye/son-dakika-emek-ve-ozgurluk-ittifakindan-kilicdaroglu-karari-2076086",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"Emek ve Özgürlük\"/>\n|Communism\n|-\n| style=\"background:#FFCF06\" |\n|'''TÖP''' (Social Freedom Party)<ref name=\"Emek ve Özgürlük\"/>\n|Communism\n|-\n| rowspan=\"4\" style=\"background:#A60402;\" |\n| rowspan=\"4\" | Union of Socialist Forces\n| style=\"background:{{party color|Left Party (Turkey)}}\" |\n|'''SOL PARTİ''' (Left Party (Turkey)|Left Party)<ref>{{Cite web |title=SOL Parti ittifak kararını açıkladı|url=https://www.sozcu.com.tr/2023/gundem/sol-parti-ittifak-kararini-acikladi-7631733/ |access-date=24 March 2023 |website=www.sozcu.com.tr |date=24 March 2023 |language=tr |archive-date=31 March 2023 |archive-url=https://web.archive.org/web/20230331100741/https://www.sozcu.com.tr/2023/gundem/sol-parti-ittifak-kararini-acikladi-7631733/ |url-status=live }}</ref>",
+                      "url": "https://www.sozcu.com.tr/sol-parti-ittifak-kararini-acikladi-wp7631733",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":20\">{{cite web |date=15 March 2023 |title=TKP seçim sürecinde AKP iktidarının yarattığı yıkım ve karanlığın boyutlarını, kaynağını ve neden sonlanması gerektiğini halka anlatacak ve AKP'nin seçimlerden yenilgiyle çıkması için elinden geleni yapacaktır. |website=Facebook |url=https://www.facebook.com/TurkiyeKomunistPartisi/posts/pfbid033cvAVynPyqzWqyLDqXaFgVqTJePSDAmdVU5BKbkZdYNWhnyXmdnMPRjedahRTCJEl |lang=Turkish |access-date=15 March 2023 |archive-date=15 March 2023 |archive-url=https://web.archive.org/web/20230315075741/https://www.facebook.com/TurkiyeKomunistPartisi/posts/pfbid033cvAVynPyqzWqyLDqXaFgVqTJePSDAmdVU5BKbkZdYNWhnyXmdnMPRjedahRTCJEl |url-status=live }}</ref>",
+                      "url": "https://www.facebook.com/TurkiyeKomunistPartisi/posts/pfbid033cvAVynPyqzWqyLDqXaFgVqTJePSDAmdVU5BKbkZdYNWhnyXmdnMPRjedahRTCJEl",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":21\">{{Cite news |date=15 March 2023 |title=TKP seçim kararını açıkladı: Bir oy Erdoğan gitsin diye, bir oy TKP'ye |work=SoL |url=https://haber.sol.org.tr/haber/tkp-secim-kararini-acikladi-bir-oy-erdogan-gitsin-diye-bir-oy-tkpye-368776 |access-date=15 March 2023 |archive-date=3 April 2023|archive-url=https://web.archive.org/web/20230403191747/https://haber.sol.org.tr/haber/tkp-secim-kararini-acikladi-bir-oy-erdogan-gitsin-diye-bir-oy-tkpye-368776 |url-status=live }}</ref>",
+                      "url": "https://haber.sol.org.tr/haber/tkp-secim-kararini-acikladi-bir-oy-erdogan-gitsin-diye-bir-oy-tkpye-368776",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"auto1\">{{Cite web |date=12 March 2023 |title=TKH: Kılıçdaroğlu'nun adaylığı konusunda komünistlerin tutumu nettir |url=https://gazetemanifesto.com/2023/tkh-kilicdaroglunun-adayligi-konusunda-komunistlerin-tutumu-nettir-507466/ |access-date=2 May 2023 |website=Gazete Manifesto |language=tr |archive-date=2 May 2023 |archive-url=https://web.archive.org/web/20230502230937/https://gazetemanifesto.com/2023/tkh-kilicdaroglunun-adayligi-konusunda-komunistlerin-tutumu-nettir-507466/ |url-status=live }}</ref>",
+                      "url": "https://gazetemanifesto.com/2023/tkh-kilicdaroglunun-adayligi-konusunda-komunistlerin-tutumu-nettir-507466/",
+                      "status_code": null,
+                      "reason": "Cannot connect to host gazetemanifesto.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)')]",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"auto1\"/>\n|Communism\n|-\n| style=\"background:#E90004\" |\n| colspan=\"3\" | '''TDP''' (Party for Change in Turkey)<ref name=\":9\">{{Cite web |date=6 March 2023 |title=Sarıgül'den Kılıçdaroğlu'nun adaylığına destek |url=https://t24.com.tr/haber/sarigul-den-kilicdaroglu-nun-adayligina-destek,1096317 |access-date=6 March 2023 |website=T24 |language=Turkish |archive-date=6 March 2023 |archive-url=https://web.archive.org/web/20230306152048/https://t24.com.tr/haber/sarigul-den-kilicdaroglu-nun-adayligina-destek,1096317 |url-status=live }}</ref>",
+                      "url": "https://t24.com.tr/haber/sarigul-den-kilicdaroglu-nun-adayligina-destek,1096317",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":12\">{{Cite web |date=8 March 2023 |title=Liberal Demokrat Parti seçimlerde tarafını seçti: Kılıçdaroğlu'nu destekleyeceğiz|url=https://www.haberler.com/politika/liberal-demokrat-parti-secimlerde-tarafini-secti-15683280-haberi/ |access-date=9 March 2023 |website=Haberler |language=tr |archive-date=3 April 2023|archive-url=https://web.archive.org/web/20230403192229/https://www.haberler.com/politika/liberal-demokrat-parti-secimlerde-tarafini-secti-15683280-haberi/ |url-status=live }}</ref>",
+                      "url": "https://www.haberler.com/politika/liberal-demokrat-parti-secimlerde-tarafini-secti-15683280-haberi/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":13\">{{Cite web |date=8 March 2023 |title=KAMUOYUNA DUYURU! #LDP #liberaldemokratparti|url=https://twitter.com/liberaLDP/status/1633420010902151168 |access-date=9 March 2023 |website=Twitter |language=tr |archive-date=2 May 2023 |archive-url=https://web.archive.org/web/20230502095745/https://twitter.com/liberaLDP/status/1633420010902151168 |url-status=live }}</ref>",
+                      "url": "https://twitter.com/liberaLDP/status/1633420010902151168",
+                      "status_code": null,
+                      "reason": "400, message='Got more than 8190 bytes (9914) when reading Header value is too long.', url='https://twitter.com/liberaLDP/status/1633420010902151168'",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |url=https://www.gazeteduvar.com.tr/kilicdaroglunun-ikinci-adresi-bagimsiz-turkiye-partisi-haber-1608782 |title=Kılıçdaroğlu'nun ikinci adresi Bağımsız Türkiye Partisi |date=17 March 2023 |access-date=4 April 2023 |archive-date=5 April 2023|archive-url=https://web.archive.org/web/20230405150507/https://www.gazeteduvar.com.tr/kilicdaroglunun-ikinci-adresi-bagimsiz-turkiye-partisi-haber-1608782 |url-status=live }}</ref>",
+                      "url": "https://www.gazeteduvar.com.tr/kilicdaroglunun-ikinci-adresi-bagimsiz-turkiye-partisi-haber-1608782",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":19\">{{cite web |date=14 March 2023 |title=Halkın Kurtuluş Partisi: 14 Mayıs seçimlerinde Kılıçdaroğlu'nu destekleyeceğiz |url=https://www.haberler.com/politika/halkin-kurtulus-partisi-14-mayis-secimlerinde-15695525-haberi/ |lang=Turkish |access-date=14 March 2023 |archive-date=3 April 2023|archive-url=https://web.archive.org/web/20230403191747/https://www.haberler.com/politika/halkin-kurtulus-partisi-14-mayis-secimlerinde-15695525-haberi/ |url-status=live }}</ref>",
+                      "url": "https://www.haberler.com/politika/halkin-kurtulus-partisi-14-mayis-secimlerinde-15695525-haberi/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=MTP'den Kılıçdaroğlu'na destek|url=https://halktv.com.tr/siyaset/mtpden-kilicdarogluna-destek-728062h |access-date=30 March 2023 |website=Halk TV |language=tr |archive-date=30 March 2023 |archive-url=https://web.archive.org/web/20230330233606/https://halktv.com.tr/siyaset/mtpden-kilicdarogluna-destek-728062h |url-status=live }}</ref>",
+                      "url": "https://halktv.com.tr/siyaset/mtpden-kilicdarogluna-destek-728062h",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Kadın Partisi'nden Kemal Kılıçdaroğlu'na destek |url=https://www.cumhuriyet.com.tr/siyaset/kadin-partisinden-kemal-kilicdarogluna-destek-2066197 |access-date=30 March 2023 |website=www.cumhuriyet.com.tr |date=29 March 2023 |language=tr |archive-date=30 March 2023 |archive-url=https://web.archive.org/web/20230330233600/https://www.cumhuriyet.com.tr/siyaset/kadin-partisinden-kemal-kilicdarogluna-destek-2066197 |url-status=live }}</ref>",
+                      "url": "https://www.cumhuriyet.com.tr/siyaset/kadin-partisinden-kemal-kilicdarogluna-destek-2066197",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Ahmet Özal'dan Kılıçdaroğlu'na destek |url=https://www.birgun.net/haber/ahmet-ozal-dan-kilicdaroglu-na-destek-427584 |access-date=6 April 2023 |website=birgun.net |language=Turkish |archive-date=6 April 2023 |archive-url=https://web.archive.org/web/20230406115106/https://www.birgun.net/haber/ahmet-ozal-dan-kilicdaroglu-na-destek-427584 |url-status=live }}</ref>",
+                      "url": "https://www.birgun.net/haber/ahmet-ozal-dan-kilicdaroglu-na-destek-427584",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Yeşiller Partisi, seçim kararını açıkladı: Kılıçdaroğlu'nu destekliyoruz! |url=https://www.cumhuriyet.com.tr/siyaset/yesiller-partisi-secim-kararini-acikladi-kilicdaroglunu-destekliyoruz-2066702 |access-date=31 March 2023 |website=www.cumhuriyet.com.tr |date=31 March 2023 |language=tr |archive-date=1 April 2023 |archive-url=https://web.archive.org/web/20230401095514/https://www.cumhuriyet.com.tr/siyaset/yesiller-partisi-secim-kararini-acikladi-kilicdaroglunu-destekliyoruz-2066702 |url-status=live }}</ref>",
+                      "url": "https://www.cumhuriyet.com.tr/siyaset/yesiller-partisi-secim-kararini-acikladi-kilicdaroglunu-destekliyoruz-2066702",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Rifat Serdaroğlu duyurdu: Doğru Parti, Kılıçdaroğlu'nu destekleyecek |url=https://www.birgun.net/haber/rifat-serdaroglu-duyurdu-dogru-parti-kilicdaroglu-nu-destekleyecek-426031 |access-date=2 May 2023 |website=birgun.net |language=Turkish |archive-date=15 April 2023 |archive-url=https://web.archive.org/web/20230415123412/https://www.birgun.net/haber/rifat-serdaroglu-duyurdu-dogru-parti-kilicdaroglu-nu-destekleyecek-426031 |url-status=live }}</ref>",
+                      "url": "https://www.birgun.net/haber/rifat-serdaroglu-duyurdu-dogru-parti-kilicdaroglu-nu-destekleyecek-426031",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-05-16 |title=ATA İttifakı'nda yer alan Adalet Partisi'nden Kılıçdaroğlu'na destek kararı |url=https://www.cumhuriyet.com.tr/siyaset/ata-ittifakinda-yer-alan-adalet-partisi-kilicdarogluna-destek-2082044 |access-date=2023-05-17 |website=www.cumhuriyet.com.tr |language=tr |archive-date=16 May 2023 |archive-url=https://web.archive.org/web/20230516194746/https://www.cumhuriyet.com.tr/siyaset/ata-ittifakinda-yer-alan-adalet-partisi-kilicdarogluna-destek-2082044 |url-status=live }}</ref>",
+                      "url": "https://www.cumhuriyet.com.tr/siyaset/ata-ittifakinda-yer-alan-adalet-partisi-kilicdarogluna-destek-2082044",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-05-24 |title=Özdağ, Kılıçdaroğlu'na destek açıkladı: Protokolde 'İçişleri Bakanlığı' sözü yer almadı, 'kayyum' yargı kararına bağlandı |url=https://www.bbc.com/turkce/articles/ceq67j2p216o |access-date=2023-05-26 |website=BBC News Türkçe |language=tr |archive-date=26 May 2023 |archive-url=https://web.archive.org/web/20230526004825/https://www.bbc.com/turkce/articles/ceq67j2p216o |url-status=live }}</ref>",
+                      "url": "https://www.bbc.com/turkce/articles/ceq67j2p216o",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite tweet|user=Abdurahimkarsli|author=Abdurrahim Karslı|number=1661421256070004760 |title=Bu çok doğru, herkes kendi istikbali için oy verecek. Özellikle gençler Kılıçdaroğlu için değil, kendileri için yaşı kemale ermiş bir Kemal' e oy verecekler. |date=24 May 2023 |access-date=2023-05-26 |language=tr}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "tweet"
+                    },
+                    {
+                      "text": "<ref name=\"auto\" />\n|Trotskyism\n|-\n| style=\"background:{{party colour|Socialist Republican Party (Turkey)}}\" |\n| colspan=\"3\" |'''SCP''' (Socialist Republican Party (Turkey)|Socialist Republican Party) (second round)<ref>{{Cite web |date=2023-05-25 |title=Sosyalist Cumhuriyet Partisi Merkez Karar Kurulu Cumhurbaşkanlığı 2. Tur Seçimleri İçin Tavrını Belirledi – Sosyalist Cumhuriyet Partisi |url=https://scp.org.tr/sosyalist-cumhuriyet-partisi-merkez-karar-kurulu-cumhurbaskanligi-2-tur-secimleri-icin-tavrini-belirledi/ |access-date=2023-05-26 |language=tr |archive-date=26 May 2023 |archive-url=https://web.archive.org/web/20230526114809/https://scp.org.tr/sosyalist-cumhuriyet-partisi-merkez-karar-kurulu-cumhurbaskanligi-2-tur-secimleri-icin-tavrini-belirledi/ |url-status=live }}</ref>",
+                      "url": "https://scp.org.tr/sosyalist-cumhuriyet-partisi-merkez-karar-kurulu-cumhurbaskanligi-2-tur-secimleri-icin-tavrini-belirledi/",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-05-13 |title=Remzi Çayır: Pazar günü ya keyfiyet ya da adalet diyeceksiniz |url=https://www.dha.com.tr/video/canli-yayin/remzi-cayir-pazar-gunu-ya-keyfiyet-ya-da-adalet-diyeceksiniz-2249609 |access-date=2023-05-26 |website=DHA {{!}} Demirören Haber Ajansı |language=tr |archive-date=26 May 2023 |archive-url=https://web.archive.org/web/20230526115111/https://www.dha.com.tr/video/canli-yayin/remzi-cayir-pazar-gunu-ya-keyfiyet-ya-da-adalet-diyeceksiniz-2249609 |url-status=live }}</ref>",
+                      "url": "https://www.dha.com.tr/video/canli-yayin/remzi-cayir-pazar-gunu-ya-keyfiyet-ya-da-adalet-diyeceksiniz-2249609",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"auto\">{{Cite web |date=2023-05-18 |title=İDP Cumhurbaşkanlığı seçimlerinin ikinci turuna ilişkin tutumunu açıkladı |url=https://www.gazetenisan.net/2023/05/idp-cumhurbaskanligi-secimlerinin-ikinci-turuna-iliskin-tutumunu-acikladi/ |access-date=2023-05-26 |website=Gazete Nisan |language=tr |archive-date=26 May 2023 |archive-url=https://web.archive.org/web/20230526112934/https://www.gazetenisan.net/2023/05/idp-cumhurbaskanligi-secimlerinin-ikinci-turuna-iliskin-tutumunu-acikladi/ |url-status=live }}</ref>",
+                      "url": "https://www.gazetenisan.net/2023/05/idp-cumhurbaskanligi-secimlerinin-ikinci-turuna-iliskin-tutumunu-acikladi/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite tweet |user=irfanuzunn|author=İrfan Uzun|number=1661384827533246464|title=Değişim önemlidir. Değişim evrenin birinci ilkesidir; her şey değişir. Mevsimler de, yapraklar da, çiçekler de, kuşlar da, ahlak anlayışları da, insanlar da, binalar da. Diyalektik süreç bu. |date=24 May 2023|access-date=2023-05-26 |language=tr }}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "tweet"
+                    },
+                    {
+                      "text": "<ref name=\":14\" />\n|Anti-immigration\n|-\n| style=\"background:#D1050C\" |\n|'''AP''' (Justice Party (Turkey, 2015)|Justice Party)<ref name=\":14\" />\n|Liberal conservatism\n|-\n| style=\"background:#0C64AC\" |\n|'''ÜLKEM''' (My Country Party)<ref name=\":14\" />\n|Turkish nationalism\n|-\n| style=\"background:#009F1A\" |\n|'''TÜİP''' (Turkey Alliance Party)<ref name=\":14\" />\n|Kemalism\n|-\n| style=\"background:#FFCF06\" |\n|colspan=\"3\" | '''ANAP''' (Motherland Party (Turkey)|Motherland Party)<ref>{{cite web |author1=Dr. Sinan Oğan |title=Bugün Türkiye'nin en köklü siyasi partilerimizden olan Anavatan Partisi Genel Merkezi'nde Sayın Genel Başkan İbrahim Çelebi ve yönetim kurulu üyelerini ziyaret ettim.... |url=https://twitter.com/DrSinanOgan/status/1657308644394823680 |website=Twitter |language=tr}}</ref>",
+                      "url": "https://twitter.com/DrSinanOgan/status/1657308644394823680",
+                      "status_code": null,
+                      "reason": "400, message='Got more than 8190 bytes (9914) when reading Header value is too long.', url='https://twitter.com/DrSinanOgan/status/1657308644394823680'",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Second round",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "The first round of elections showed a shift further to the nationalist sentiment.",
+              "references": [
+                {
+                  "text": "<ref name=jpost>{{cite web|url=https://www.jpost.com/middle-east/article-743418|date=18 May 2023|title=Turkish opposition plays up nationalist sentiment ahead of 2nd round|access-date=18 May 2023|archive-date=18 May 2023|archive-url=https://web.archive.org/web/20230518162900/https://www.jpost.com/middle-east/article-743418|url-status=live}}</ref>",
+                  "url": "https://www.jpost.com/middle-east/article-743418",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.2",
+          "title": "Negotiations by Oğan and Özdağ",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.2.s1",
+                  "text": "Oğan said that \"Turkish nationalism|Turkish nationalists and Kemalism|Atatürk supporters will be the decision-makers in the second round\". Oğan demanded that he doesn't want any party, that he considers connected to terrorism, to have any role in the government. He mentioned two parties specifically: Free Cause Party|HÜDA PAR, a Kurdish Islamist party allied with Erdoğan, and the pro-Kurdish HDP, which supported Kılıçdaroğlu. The same day, Oğan met Erdoğan for negotiations, while Erdoğan told CNN International he \"would not bow to Oğan's wishes\", adding he's \"not the kind of person who likes to bargain like this\". Bahçeli published a message on the occasion of the Commemoration of Atatürk, Youth and Sports Day; alluding to Oğan, he said \"those who pretend to have non-existent political power and turn politics into a horse market are opportunistic weaklings\". On 22 May, AKP deputy chairman Numan Kurtulmuş visited Özdağ at Victory Party headquarters, where he stated that they shared similar ideas with the Victory Party on various issues such as national security and noted they hoped the party would support Erdogan in the second round. The same day, Özdağ and Kılıçdaroğlu came together for the second time. During the meeting, Özdağ presented a memorandum of understanding to Kılıçdaroğlu. Özdağ's main terms included \"continuation of the trustee practice for the fight against terrorism\" and \"forcibly returning the immigrants within a year if necessary\". He also said that they're \"still trying to close the gates of hell\", referring to Oğan's old quote.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://www.politico.eu/article/unlikely-nationalist-kingmaker-sinan-ogan-see-moment-second-round-turkey-election/|title=Say hello to Turkey's election kingmaker|date=15 May 2023|access-date=18 May 2023|archive-date=18 May 2023|archive-url=https://web.archive.org/web/20230518163307/https://www.politico.eu/article/unlikely-nationalist-kingmaker-sinan-ogan-see-moment-second-round-turkey-election/|url-status=live}}</ref>",
+                      "url": "https://www.politico.eu/article/unlikely-nationalist-kingmaker-sinan-ogan-see-moment-second-round-turkey-election/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":10\" /> He is against the presence of a Kurdish party in the \"political equation\".<ref name=\":18\">{{Cite news |last1=Altayli |first1=Birsen |last2=Coskun |first2=Orhan |date=2023-05-15 |title=For Turkey runoff, potential kingmaker draws red line at concessions to Kurds |language=en |work=Reuters |url=https://www.reuters.com/world/middle-east/turkey-runoff-potential-kingmaker-draws-red-line-kurdish-consessions-2023-05-15/ |access-date=2023-05-19 |archive-date=19 May 2023 |archive-url=https://web.archive.org/web/20230519042506/https://www.reuters.com/world/middle-east/turkey-runoff-potential-kingmaker-draws-red-line-kurdish-consessions-2023-05-15/ |url-status=live }}</ref>",
+                      "url": "https://www.reuters.com/world/middle-east/turkey-runoff-potential-kingmaker-draws-red-line-kurdish-consessions-2023-05-15/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":10\">{{cite news|url=https://www.nytimes.com/2023/05/17/world/middleeast/turkey-runoff-election-sinan-ogan.html|title=He Lost Turkey's Presidential Election, but Could Swing the Runoff|work=The New York Times |date=17 May 2023|access-date=18 May 2023|archive-date=18 May 2023|archive-url=https://web.archive.org/web/20230518162859/https://www.nytimes.com/2023/05/17/world/middleeast/turkey-runoff-election-sinan-ogan.html|url-status=live |last1=Hubbard |first1=Ben |last2=Timur |first2=Safak }}</ref>",
+                      "url": "https://www.nytimes.com/2023/05/17/world/middleeast/turkey-runoff-election-sinan-ogan.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":18\" /> If Kılıçdaroğlu signed a protocol he would not make concessions to the HDP, he could receive Oğan's support.<ref name=\":18\" /> On 19 May, Kılıçdaroğlu visited the headquarters of the Victory Party and met with its leader Özdağ.<ref>{{cite web|url=https://haberglobal.com.tr/gundem/kilicdaroglu-zafer-partisi-genel-merkezinde-sinan-ogan-gidisata-gore-katilabilir-251701|title=Cumhurbaşkanı adayı Kemal Kılıçdaroğlu, Zafer Partisi Genel Merkezinde... Kılıçdaroğlu ve Zafer Partisi Genel Başkanı Ümit Özdağ arasındaki görüşmeye dair bazı kulis bilgilerine göre Oğan, gidişata göre görüşmeye katılabilir.|date=19 May 2023|access-date=19 May 2023|archive-date=19 May 2023|archive-url=https://web.archive.org/web/20230519110728/https://haberglobal.com.tr/gundem/kilicdaroglu-zafer-partisi-genel-merkezinde-sinan-ogan-gidisata-gore-katilabilir-251701|url-status=live}}</ref>",
+                      "url": "https://haberglobal.com.tr/gundem/kilicdaroglu-ve-ozdagdan-gorusme-sonrasi-aciklama-ozdagdan-iki-soru-251701",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.haberturk.com/son-dakika-haberi-cumhurbaskani-erdogan-sinan-ogan-ile-gorusecek-3593119|title=Cumhurbaşkanı Erdoğan, Sinan Oğan ile görüşüyor|date=19 May 2023|lang=Turkish|access-date=19 May 2023|archive-date=19 May 2023|archive-url=https://web.archive.org/web/20230519205011/https://www.haberturk.com/son-dakika-haberi-cumhurbaskani-erdogan-sinan-ogan-ile-gorusecek-3593119|url-status=live}}</ref>",
+                      "url": "https://www.haberturk.com/son-dakika-haberi-cumhurbaskani-erdogan-sinan-ogan-ile-gorusecek-3593119",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://tele1.com.tr/son-dakika-erdogan-isteklerine-boyun-egmem-dedigi-sinan-oganla-gorusecek-847269/|title=Erdoğan 'İsteklerine boyun eğmem' dediği Sinan Oğan'la görüşüyor|date=19 May 2023|lang=Turkish|access-date=19 May 2023|archive-date=19 May 2023|archive-url=https://web.archive.org/web/20230519181848/https://tele1.com.tr/son-dakika-erdogan-isteklerine-boyun-egmem-dedigi-sinan-oganla-gorusecek-847269/|url-status=live}}</ref>",
+                      "url": "https://www.tele1.com.tr/son-dakika-erdogan-isteklerine-boyun-egmem-dedigi-sinan-oganla-gorusecek",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.sozcu.com.tr/2023/gundem/bahceli-olmayan-siyasi-gucunu-varmis-gibi-gosterip-siyaseti-at-pazarina-cevirenler-firsatci-acizlerdir-7688371/|lang=Turkish|date=19 May 2023|title=Bahçeli: Olmayan siyasi gücünü varmış gibi gösterip siyaseti at pazarına çevirenler fırsatçı acizlerdir|access-date=19 May 2023|archive-date=19 May 2023|archive-url=https://web.archive.org/web/20230519210136/https://www.sozcu.com.tr/2023/gundem/bahceli-olmayan-siyasi-gucunu-varmis-gibi-gosterip-siyaseti-at-pazarina-cevirenler-firsatci-acizlerdir-7688371/|url-status=live}}</ref>",
+                      "url": "https://www.sozcu.com.tr/bahceli-olmayan-siyasi-gucunu-varmis-gibi-gosterip-siyaseti-at-pazarina-cevirenler-firsatci-acizlerdir-wp7688371",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.dw.com/tr/zafer-partisi-akp-g%C3%B6r%C3%BC%C5%9Fmesinde-s%C4%B1%C4%9F%C4%B1nmac%C4%B1-detay%C4%B1/a-65700838|title=Zafer Partisi-AKP görüşmesinde sığınmacı detayı|website=Deutsche Welle|date=22 May 2023|lang=Turkish|access-date=22 May 2023|archive-date=22 May 2023|archive-url=https://web.archive.org/web/20230522204932/https://www.dw.com/tr/zafer-partisi-akp-g%C3%B6r%C3%BC%C5%9Fmesinde-s%C4%B1%C4%9F%C4%B1nmac%C4%B1-detay%C4%B1/a-65700838|url-status=live}}</ref>",
+                      "url": "https://www.dw.com/tr/zafer-partisi-akp-g%C3%B6r%C3%BC%C5%9Fmesinde-s%C4%B1%C4%9F%C4%B1nmac%C4%B1-detay%C4%B1/a-65700838",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.diken.com.tr/kilicdaroglu-ozdag-gorusmesi-olumlu-sonuclandi/|title=Özdağ, Kılıçdaroğlu'na mutabakat metni sundu|date=22 May 2023|lang=Turkish|access-date=22 May 2023|archive-date=22 May 2023|archive-url=https://web.archive.org/web/20230522190159/https://www.diken.com.tr/kilicdaroglu-ozdag-gorusmesi-olumlu-sonuclandi/|url-status=live}}</ref>",
+                      "url": "https://www.diken.com.tr/kilicdaroglu-ozdag-gorusmesi-olumlu-sonuclandi/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.bbc.com/turkce/articles/c6p5k6ne73do|title=Özdağ'a göre Kılıçdaroğlu ile görüşmeler 'olumlu' ilerliyor Kayyum ve 'göçmenlerin gönderilme takvimi' masada|date=23 May 2023|lang=Turkish|access-date=23 May 2023|archive-date=23 May 2023|archive-url=https://web.archive.org/web/20230523175357/https://www.bbc.com/turkce/articles/c6p5k6ne73do|url-status=live}}</ref>",
+                      "url": "https://www.bbc.com/turkce/articles/c6p5k6ne73do",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "7.2.2",
+              "title": "Dissolution of ATA Alliance",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "7.2.2.s1",
+                      "text": "On 21 May, it was announced that Kılıçdaroğlu would visit the Justice Party (Turkey, 2015)|Justice Party headquarters on 22 May. The same day, its leader Vecdet Öz announced his support of Kılıçdaroğlu, saying \"it is essential to get rid of the current government\", and adding that \"staying neutral means giving indirect support to the current government\". Later, Öz announced that the alliance has officially ended.",
+                      "references": [
+                        {
+                          "text": "<ref>{{cite web|url=https://www.cumhuriyet.com.tr/siyaset/ata-ittifaki-ortagindan-kemal-kilicdarogluna-destek-karari-2083294|title=ATA İttifakı ortağından Kemal Kılıçdaroğlu'na destek kararı|date=21 May 2023|language=Turkish|access-date=21 May 2023|archive-date=21 May 2023|archive-url=https://web.archive.org/web/20230521151513/https://www.cumhuriyet.com.tr/siyaset/ata-ittifaki-ortagindan-kemal-kilicdarogluna-destek-karari-2083294|url-status=live}}</ref>",
+                          "url": "https://www.cumhuriyet.com.tr/siyaset/ata-ittifaki-ortagindan-kemal-kilicdarogluna-destek-karari-2083294",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        },
+                        {
+                          "text": "<ref>{{cite web|url=https://halktv.com.tr/siyaset/vecdet-oz-ata-ittifaki-sona-ermis-oldu-her-parti-istedigi-karari-verir-741109h|title=Vecdet Öz: ATA İttifakı Sona Ermiş Oldu, Her Parti İstediği Kararı Verir|date=21 May 2023|language=Turkish|access-date=21 May 2023|archive-date=21 May 2023|archive-url=https://web.archive.org/web/20230521151514/https://halktv.com.tr/siyaset/vecdet-oz-ata-ittifaki-sona-ermis-oldu-her-parti-istedigi-karari-verir-741109h|url-status=live}}</ref>",
+                          "url": "https://halktv.com.tr/siyaset/vecdet-oz-ata-ittifaki-sona-ermis-oldu-her-parti-istedigi-karari-verir-741109h",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "7.2.3",
+              "title": "Endorsement of Erdoğan by Oğan",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "7.2.3.s1",
+                      "text": "On 22 May, Oğan announced his endorsement of Erdoğan for the second round, while Özdağ stated that Oğan's statement doesn't bind the Victory Party. Later Erdoğan thanked Oğan, and added that there was \"absolutely no bargaining\" between them.",
+                      "references": [
+                        {
+                          "text": "<ref>{{cite web|title=Erdoğan wins support from Turkey's election 'kingmaker'|date=22 May 2023|url=https://www.politico.eu/article/recep-tayyip-erdogan-sinan-ogan-wins-support-from-turkey-election-kingmaker/|access-date=22 May 2023|archive-date=22 May 2023|archive-url=https://web.archive.org/web/20230522153548/https://www.politico.eu/article/recep-tayyip-erdogan-sinan-ogan-wins-support-from-turkey-election-kingmaker/|url-status=live}}</ref>",
+                          "url": "https://www.politico.eu/article/recep-tayyip-erdogan-sinan-ogan-wins-support-from-turkey-election-kingmaker/",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        },
+                        {
+                          "text": "<ref>{{cite web|url=https://www.diken.com.tr/ozdag-oganin-aciklamasi-zafer-partisini-baglamiyor/|title=Özdağ: Oğan'ın açıklaması Zafer Partisi'ni bağlamıyor|language=Turkish|date=22 May 2023|access-date=22 May 2023|archive-date=22 May 2023|archive-url=https://web.archive.org/web/20230522153550/https://www.diken.com.tr/ozdag-oganin-aciklamasi-zafer-partisini-baglamiyor/|url-status=live}}</ref>",
+                          "url": "https://www.diken.com.tr/ozdag-oganin-aciklamasi-zafer-partisini-baglamiyor/",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        },
+                        {
+                          "text": "<ref>{{cite web|url=https://www.gazeteduvar.com.tr/erdogandan-ogana-tesekkur-aramizda-bir-pazarlik-kesinlikle-olmadi-haber-1619847|title=Erdoğan'dan Oğan'a teşekkür: Aramızda bir pazarlık kesinlikle olmadı|date=22 May 2023|language=Turkish|access-date=22 May 2023|archive-date=22 May 2023|archive-url=https://web.archive.org/web/20230522190337/https://www.gazeteduvar.com.tr/erdogandan-ogana-tesekkur-aramizda-bir-pazarlik-kesinlikle-olmadi-haber-1619847|url-status=live}}</ref>",
+                          "url": "https://www.gazeteduvar.com.tr/erdogandan-ogana-tesekkur-aramizda-bir-pazarlik-kesinlikle-olmadi-haber-1619847",
+                          "status_code": 403,
+                          "reason": "Forbidden",
+                          "type": "web"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "7.2.4",
+              "title": "Özdağ's support for Kılıçdaroğlu",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "7.2.4.s1",
+                      "text": "On 24 May, Özdağ announced his support for Kılıçdaroğlu. They signed a seven-point protocol, which reads as follows:\n* The first four articles of our Constitution and the definition and content of Turkish Citizenship in Article 66 will be preserved.\n* The national-unitary-secular state established in 1924 will never be compromised.\n* All asylum seekers and fugitives, especially Syrians, will be sent back to their countries within one year at the latest.\n* All terrorist organizations targeting the existence and integrity of the state, especially FETÖ, PKK and ISIS, will be fought effectively and decisively. Within the framework of the fight against terrorism, the practice of appointing state officials instead of local administrators whose links with terrorism are proven by legal evidence will continue within the framework of judicial decision. Terrorism will be fought, not negotiated. No political and legal arrangements targeting the national and unitary state structure of Turkey will be allowed.\n* In assignments to be made in all units of the state, it will be ensured that merit, not loyalty, is the basis.\n* All corruption will be dealt with very effectively within the framework of the law.\n* It is fully agreed that the state should be transparent and open to its citizens.",
+                      "references": [
+                        {
+                          "text": "<ref name=duvar>{{cite web|url=https://www.duvarenglish.com/far-right-leader-ozdag-declares-support-for-kilicdaroglu-in-presidential-race-news-62461|title=Far-right leader Özdağ declares support for Kılıçdaroğlu in presidential race|date=24 May 2023|language=Turkish|access-date=24 May 2023|archive-date=24 May 2023|archive-url=https://web.archive.org/web/20230524145721/https://www.duvarenglish.com/far-right-leader-ozdag-declares-support-for-kilicdaroglu-in-presidential-race-news-62461|url-status=live}}</ref>",
+                          "url": "https://www.duvarenglish.com/far-right-leader-ozdag-declares-support-for-kilicdaroglu-in-presidential-race-news-62461",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "7.2.4.s2",
+                      "text": "The fourth article in the protocol, created some concerns especially among HDP voter base and raised the question of whether they will boycott the election. HDP co-chair Pervin Buldan said \"We never get stuck with Ümit Özdağ's racist and fascist statements. The main thing for us is the promises made by Mr. Kılıçdaroğlu to the society.\"",
+                      "references": [
+                        {
+                          "text": "<ref name=duvar /> Next day, nevertheless, HDP and Green Left Party have announced that they will continue to support Kılıçdaroğlu in the second round, and said they \"will change the one-man regime\".<ref>{{cite web|url=https://www.duvarenglish.com/hdp-will-continue-to-support-kilicdaroglu-in-presidential-race-news-62465|title=HDP will continue to support Kılıçdaroğlu in presidential race|date=25 May 2023|access-date=25 May 2023|archive-date=25 May 2023|archive-url=https://web.archive.org/web/20230525144557/https://www.duvarenglish.com/hdp-will-continue-to-support-kilicdaroglu-in-presidential-race-news-62465|url-status=live}}</ref>",
+                          "url": "https://www.duvarenglish.com/hdp-will-continue-to-support-kilicdaroglu-in-presidential-race-news-62465",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        },
+                        {
+                          "text": "<ref>{{cite web|url=https://www.cumhuriyet.com.tr/siyaset/hdpli-buldandan-umit-ozdag-aciklamasi-bizim-icin-baglayici-tarafi-yok-2085149|title=HDP'li Buldan'dan Ümit Özdağ açıklaması: Bizim için bağlayıcı tarafı yok|language=Turkish|date=27 May 2023|access-date=27 May 2023|archive-date=27 May 2023|archive-url=https://web.archive.org/web/20230527103328/https://www.cumhuriyet.com.tr/siyaset/hdpli-buldandan-umit-ozdag-aciklamasi-bizim-icin-baglayici-tarafi-yok-2085149|url-status=live}}</ref>",
+                          "url": "https://www.cumhuriyet.com.tr/siyaset/hdpli-buldandan-umit-ozdag-aciklamasi-bizim-icin-baglayici-tarafi-yok-2085149",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.3",
+          "title": "Erdoğan's strategy",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.3.s1",
+                  "text": "He was scheduled to meet with the victims of recent earthquakes to show his solidarity and commitment.{{update inline|date=June 2023}}",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=Turkey's government is prioritizing politics over policy in its earthquake response\n |date=13 Feb 2023}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.4",
+          "title": "Kılıçdaroğlu's strategy",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.4.s1",
+                  "text": "According to journalist İsmail Saymaz, Kılıçdaroğlu was going to adopt a more aggressive language until 28 May and the AK Party would be attacked over the relationship between HÜDA PAR and Hezbollah. A counter stance would be taken regarding terrorism and security policies. The issue of Syrians and illegal immigrants would be highlighted. On 18 May, Kılıçdaroğlu told supporters that the influx of refugees threatens their survival, and vowed to repatriate millions of refugees to their home countries.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://t24.com.tr/haber/chp-nin-28-mayis-plani-kilicdaroglu-partisini-terorle-iliskilendiren-kampanyayi-tersine-cevirerek-milliyetci-secmenin-oyunu-almayi-planliyor,1110349|title=CHP'nin 28 Mayıs planı; \"Kılıçdaroğlu, partisini terörle ilişkilendiren kampanyayı tersine çevirerek milliyetçi seçmenin oyunu almayı planlıyor\"|date=17 May 2023|access-date=19 May 2023|archive-date=19 May 2023|archive-url=https://web.archive.org/web/20230519110519/https://t24.com.tr/haber/chp-nin-28-mayis-plani-kilicdaroglu-partisini-terorle-iliskilendiren-kampanyayi-tersine-cevirerek-milliyetci-secmenin-oyunu-almayi-planliyor,1110349|url-status=live}}</ref>",
+                      "url": "https://t24.com.tr/haber/chp-nin-28-mayis-plani-kilicdaroglu-partisini-terorle-iliskilendiren-kampanyayi-tersine-cevirerek-milliyetci-secmenin-oyunu-almayi-planliyor,1110349",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=jpost /> Kılıçdaroğlu claimed that Erdoğan, has \"deliberately allowed ten million refugees into Turkey\" and has put \"Turkish citizenship on sale to get imported votes\".<ref>{{cite web|url=https://www.politico.eu/article/kick-all-refugees-out-turkey-kemal-kilicdaroglu-recep-tayyip-erdogan-election/|title=I'll kick all refugees out of Turkey, Erdoğan rival vows|date=28 May 2023|access-date=18 May 2023|archive-date=19 May 2023|archive-url=https://web.archive.org/web/20230519040437/https://www.politico.eu/article/kick-all-refugees-out-turkey-kemal-kilicdaroglu-recep-tayyip-erdogan-election/|url-status=live}}</ref>",
+                      "url": "https://www.politico.eu/article/kick-all-refugees-out-turkey-kemal-kilicdaroglu-recep-tayyip-erdogan-election/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.5",
+          "title": "Potential debate",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.5.s1",
+                  "text": "Due to the accusations of who was a supporter of terrorists, which both contenders deem the other to be, Kılıçdaroğlu suggested holding a debate, but Erdoğan refused on the grounds that Kılıçdaroğlu wants to become famous.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=2023-05-25 |title=Kılıçdaroğlu deems Erdoğan 'protector of terrorists' and challenges him to debate |url=https://www.duvarenglish.com/kilicdaroglu-deems-erdogan-protector-of-terrorists-and-challenges-him-to-debate-news-62470 |access-date=2023-05-27 |website=Gazete Duvar |language=tr-TR |archive-date=28 May 2023 |archive-url=https://web.archive.org/web/20230528101350/https://www.duvarenglish.com/kilicdaroglu-deems-erdogan-protector-of-terrorists-and-challenges-him-to-debate-news-62470 |url-status=live }}</ref>",
+                      "url": "https://www.duvarenglish.com/kilicdaroglu-deems-erdogan-protector-of-terrorists-and-challenges-him-to-debate-news-62470",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Controversies",
+      "content": [
+        {
+          "id": "8.1",
+          "title": "Erdoğan's right to seek re-election",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.1.s1",
+                  "text": "Before the 2018 elections, Turkish presidents were serving as head of state|heads of state within a parliamentary system. After the 2017 Turkish constitutional referendum|2017 constitutional referendum, Turkey adopted a presidential system in which the president serves as the head of government. Some opposition politicians state that since Erdoğan was elected president twice in 2014 and 2018, he cannot be a candidate again unless an early election is called by the Parliament, as stated in Article 116 of the constitution.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":16\" /> Some jurists argue that since the presidential system was introduced in 2018 and a new office was formed apart from the similarity in name, the 2018 election was Erdoğan's first term in the new system and that he has the right to be a candidate again.<ref>{{cite news |title=Cumhurbaşkanlığı Yüksek İstişare Kurulu üyesi Cemil Çiçek, TBB Başkanı Feyzioğlu, Prof. Şen ve Prof. Caniklioğlu: Erdoğan tekrar aday olabilir |url=https://t24.com.tr/haber/cumhurbaskanligi-yuksek-istisare-kurulu-uyesi-cemil-cicek-tbb-baskani-feyzioglu-prof-sen-ve-prof-caniklioglu-erdogan-tekrar-aday-olabilir,903012 |access-date=25 March 2023 |work=T24 |date=14 September 2020 |language=Turkish |archive-date=15 September 2022 |archive-url=https://web.archive.org/web/20220915061533/https://t24.com.tr/haber/cumhurbaskanligi-yuksek-istisare-kurulu-uyesi-cemil-cicek-tbb-baskani-feyzioglu-prof-sen-ve-prof-caniklioglu-erdogan-tekrar-aday-olabilir,903012 |url-status=live }}</ref>",
+                      "url": "https://t24.com.tr/haber/cumhurbaskanligi-yuksek-istisare-kurulu-uyesi-cemil-cicek-tbb-baskani-feyzioglu-prof-sen-ve-prof-caniklioglu-erdogan-tekrar-aday-olabilir,903012",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":0\">{{Cite web |date=2 July 2022 |title=Turkish parliament speaker claims Erdoğan can legally run for president again |url=https://www.duvarenglish.com/turkish-parliament-speaker-claims-erdogan-can-legally-run-for-president-again-news-60318 |access-date=10 June 2022 |website=Gazete Duvar |language=tr-TR |archive-date=3 April 2023 |archive-url=https://web.archive.org/web/20230403191748/https://www.duvarenglish.com/turkish-parliament-speaker-claims-erdogan-can-legally-run-for-president-again-news-60318 |url-status=live }}</ref>",
+                      "url": "https://www.duvarenglish.com/turkish-parliament-speaker-claims-erdogan-can-legally-run-for-president-again-news-60318",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Political violence",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.2.s1",
+                  "text": "On 10 March, CHP parliamentary group deputy chair Özgür Özel claimed that Kılıçdaroğlu received assassination threats by unknown groups{{Clarify|reason=unclear whether singular (a) or plural (groups) is meant|date=April 2023}} and was offered a minister's armoured vehicle by the government, but he rejected the proposal and kept his official car.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=10 March 2023 |title=Main opposition receiving reports of assassination threats against leader Kılıçdaroğlu|url=https://www.duvarenglish.com/amp/main-opposition-receiving-reports-of-assassination-threats-against-leader-kilicdaroglu-news-62001 |website=Gazete Duvar|Duvar English |access-date=12 March 2023 |archive-date=12 March 2023|archive-url=https://web.archive.org/web/20230312035317/https://www.duvarenglish.com/amp/main-opposition-receiving-reports-of-assassination-threats-against-leader-kilicdaroglu-news-62001 |url-status=live }}</ref>",
+                      "url": "https://www.duvarenglish.com/amp/main-opposition-receiving-reports-of-assassination-threats-against-leader-kilicdaroglu-news-62001",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.2.s2",
+                  "text": "On 7 May, Istanbul Mayor Ekrem İmamoğlu was attacked during a rally in Erzurum. His rally was interrupted due to stones thrown from the crowd. \nAfter the attack, İmamoğlu supporters rushed to the Sabiha Gökçen Airport in Istanbul to welcome and show support for him. Erzurum's mayor Mehmet Sekmen said that there was no written application made from Republican People's Party's provincial chairmanship to hold a rally in Erzurum, and it was İmamoğlu \"was the one who created the chaos by rallying in Erzurum\". The Interior Minister Süleyman Soylu said that the incident was planned by İmamoğlu to aggravate the crowds.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=5 July 2023 |title=Erzurum'da İmamoğlu mitingi sonrası otobüse taşlı saldırı |url=https://www.gazeteduvar.com.tr/erzurumda-imamoglu-mitingi-sonrasi-otobuse-tasli-saldiri-haber-1617052 |access-date=7 May 2023 |website=Gazete DuvaR |language=tr-TR |archive-date=7 May 2023 |archive-url=https://web.archive.org/web/20230507154623/https://www.gazeteduvar.com.tr/erzurumda-imamoglu-mitingi-sonrasi-otobuse-tasli-saldiri-haber-1617052 |url-status=live }}</ref>",
+                      "url": "https://www.gazeteduvar.com.tr/erzurumda-imamoglu-mitingi-sonrasi-otobuse-tasli-saldiri-haber-1617052",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Voters greet Istanbul mayor at airport after mob attack in east Turkey |url=https://medyanews.net/voters-greet-istanbul-mayor-at-airport-after-mob-attack-in-east-turkey/ |access-date=20 May 2023 |work=Medya News |date=8 May 2023 |archive-date=20 May 2023 |archive-url=https://web.archive.org/web/20230520180511/https://medyanews.net/voters-greet-istanbul-mayor-at-airport-after-mob-attack-in-east-turkey/ |url-status=live }}</ref>",
+                      "url": "https://medyanews.net/voters-greet-istanbul-mayor-at-airport-after-mob-attack-in-east-turkey/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=8 May 2023 |title=Erzurum Büyükşehir Belediye Başkanı, İmamoğlu'na yönelik saldırılardan yine İmamoğlu'nu sorumlu tuttu: Senin ipliğin pazara çıktı |url=https://www.sondakika.com/haber/haber-erzurum-buyuksehir-belediye-baskani-imamoglu-na-15879270/ |website=Son Dakika |language=tr-TR |access-date=9 May 2023 |archive-date=9 May 2023 |archive-url=https://web.archive.org/web/20230509002213/https://www.sondakika.com/haber/haber-erzurum-buyuksehir-belediye-baskani-imamoglu-na-15879270/ |url-status=live }}</ref>",
+                      "url": "https://www.sondakika.com/guncel/haber-erzurum-buyuksehir-belediye-baskani-imamoglu-na-15879270/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=DuvaR>{{Cite web |date=7 May 2023 |title=Erzurum belediye başkanı: Kaosu yaratan bizzat İmamoğlu'dur |url=https://www.gazeteduvar.com.tr/erzurum-belediye-baskani-kaosu-yaratan-bizzat-imamogludur-haber-1617076 |website=Gazete DuvaR |language=tr-TR |access-date=10 May 2023 |archive-date=10 May 2023 |archive-url=https://web.archive.org/web/20230510200359/https://www.gazeteduvar.com.tr/erzurum-belediye-baskani-kaosu-yaratan-bizzat-imamogludur-haber-1617076 |url-status=live }}</ref>",
+                      "url": "https://www.gazeteduvar.com.tr/erzurum-belediye-baskani-kaosu-yaratan-bizzat-imamogludur-haber-1617076",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=8 May 2023 |title=Protesters arrested for violence at Turkish opposition rally |url=https://www.aljazeera.com/news/2023/5/8/protesters-arrested-for-violence-against-turkish-opposition-rally |website=Al Jazeera English|Aljazeera |access-date=10 May 2023 |archive-date=10 May 2023 |archive-url=https://web.archive.org/web/20230510153522/https://www.aljazeera.com/news/2023/5/8/protesters-arrested-for-violence-against-turkish-opposition-rally |url-status=live }}</ref>",
+                      "url": "https://www.aljazeera.com/news/2023/5/8/protesters-arrested-for-violence-against-turkish-opposition-rally",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.2.s3",
+                  "text": "On 12 May, extensive security measures were taken before and during Kılıçdaroğlu's rally in Samsun following the rumours of assassination attempts of Kılıçdaroğlu. Citizens who wanted to attend the rally held in Republic Square were searched twice. Snipers were placed on the roofs of buildings located around the square. İmamoğlu and Kılıçdaroğlu, who took the stage to make their speeches, were seen wearing bulletproof vests. While Kılıçdaroğlu was giving his speech, a large guard group accompanied him on the stage armed.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://www.sozcu.com.tr/2023/gundem/kilicdarogluna-olaganustu-guvenlik-onlemi-7682269/|title=Kılıçdaroğlu'na olağanüstü güvenlik önlemi|date=12 May 2023|language=Turkish|access-date=12 May 2023|archive-date=12 May 2023|archive-url=https://web.archive.org/web/20230512150511/https://www.sozcu.com.tr/2023/gundem/kilicdarogluna-olaganustu-guvenlik-onlemi-7682269/|url-status=live}}</ref>",
+                      "url": "https://www.sozcu.com.tr/kilicdarogluna-olaganustu-guvenlik-onlemi-wp7682269",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=5 December 2023 |title=Kılıçdaroğlu wears bulletproof vest at rally due to report of 'assassination' threat |url=https://www.duvarenglish.com/kilicdaroglu-wears-bulletproof-vest-at-rally-due-to-report-of-assassination-threat-news-62393 |access-date=13 May 2023 |website=Duvar English |language=en |archive-date=12 May 2023 |archive-url=https://web.archive.org/web/20230512232755/https://www.duvarenglish.com/kilicdaroglu-wears-bulletproof-vest-at-rally-due-to-report-of-assassination-threat-news-62393 |url-status=live }}</ref>",
+                      "url": "https://www.duvarenglish.com/kilicdaroglu-wears-bulletproof-vest-at-rally-due-to-report-of-assassination-threat-news-62393",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.2.s4",
+                  "text": "While visiting the burials of citizens who lost their lives during the earthquake in Adıyaman Province, Kılıçdaroğlu was subjected to a verbal attack while he was reciting Al-Fatiha. The same day, another person attempted a physical attack.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://www.cumhuriyet.com.tr/siyaset/son-dakika-kilicdarogluna-yonelik-ikinci-saldiri-girisimi-2073903|title=Son dakika... Kılıçdaroğlu'na yönelik ikinci saldırı girişimi!|language=tr|date=21 April 2023|access-date=21 April 2023|archive-date=2 May 2023|archive-url=https://web.archive.org/web/20230502095755/https://www.cumhuriyet.com.tr/IFrame/Abonelere|url-status=live}}</ref>",
+                      "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-kilicdarogluna-yonelik-ikinci-saldiri-girisimi-2073903",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.karar.com/guncel-haberler/kilicdarogluna-bir-cirkin-tavir-daha-1744977|title=Mezarlık ziyaretinde çirkin tavırla karşılaşmıştı! Kılıçdaroğlu'na türbede ikinci saldırı girişimi|language=tr|date=21 April 2023|access-date=21 April 2023|archive-date=21 April 2023|archive-url=https://web.archive.org/web/20230421155832/https://www.karar.com/guncel-haberler/kilicdarogluna-bir-cirkin-tavir-daha-1744977|url-status=live}}</ref>",
+                      "url": "https://www.karar.com/guncel-haberler/kilicdarogluna-bir-cirkin-tavir-daha-1744977",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.2.s5",
+                  "text": "Two days after the attack on İmamoğlu, Kılıçdaroğlu's vehicle was attacked with stones in Sakarya Province|Sakarya. The 15-year-old attacker was released after Kılıçdaroğlu decided not to press charges and he also asked for the anonymity of the child's identity.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=9 May 2023 |title=Son dakika... Sakarya'da Kılıçdaroğlu'nun aracına taşlı saldırı! |url=https://www.cumhuriyet.com.tr/siyaset/son-dakika-kilicdarogluna-tasli-saldiri-2079439 |access-date=10 May 2023 |website=Cumhuriyet |language=tr |archive-date=10 May 2023 |archive-url=https://web.archive.org/web/20230510000625/https://www.cumhuriyet.com.tr/siyaset/son-dakika-kilicdarogluna-tasli-saldiri-2079439 |url-status=live }}</ref>",
+                      "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-kilicdarogluna-tasli-saldiri-2079439",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.3",
+          "title": "Erdoğan's photo on ballot paper",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.3.s1",
+                  "text": "Erdoğan appeared with the same photograph on the ballot paper as the one he used for the 2014 Turkish presidential election|presidential elections in 2014 and 2018 Turkish presidential election|2018.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=14 April 2023 |title=Erdoğan to appear with 9-year-old photo on ballot paper for presidential election |url=https://www.duvarenglish.com/erdogan-to-appear-with-9-year-old-photo-on-ballot-paper-for-presidential-election-news-62213 |access-date=29 April 2023 |website=Gazete Duvar |archive-date=21 April 2023 |archive-url=https://web.archive.org/web/20230421205359/https://www.duvarenglish.com/erdogan-to-appear-with-9-year-old-photo-on-ballot-paper-for-presidential-election-news-62213 |url-status=live }}</ref>",
+                      "url": "https://www.duvarenglish.com/erdogan-to-appear-with-9-year-old-photo-on-ballot-paper-for-presidential-election-news-62213",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.4",
+          "title": "Fake videos",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.4.s1",
+                  "text": "On the Sunday before the elections Erdoğan showed an altered version of an election commercial belonging to his main challenger Kılıçdaroğlu. This commercial was edited with footage of Murat Karayılan, one of the founders of the Kurdistan Workers' Party|PKK, in an attempt to link Kilicdaroglu with the PKK. In a television interview, Erdoğan was asked about the footage. He replied that it did not matter whether it was manipulated or not, and insisted that the claim the video made was nevertheless true. Similarly, presidential spokesman İbrahim Kalın said \"Video edited by a group of witty young people. The elements put together in the video are real\". Kılıçdaroğlu called Erdoğan \"fraudulent video fabricator\". Kılıçdaroğlu also filed a 1 million TRY non-pecuniary damage lawsuit against Erdoğan through his lawyer Celal Çelik. On 25 May, the Ankara 6th Criminal Court of Peace blocked access to a troll account that shared fake footage used by Erdoğan during the election process, on the grounds that it \"attacks personal rights\".<ref name=cumhuriyet1 />",
+                  "references": [
+                    {
+                      "text": "<ref name=\"DW 2023 fake video fact checking\">{{cite web| url = https://www.dw.com/en/fact-check-turkeys-erdogan-shows-false-kilicdaroglu-video/a-65554034| title = Fact check: Turkey's Erdogan shows false Kilicdaroglu video| last1 = Ünker| first1 = Pelin| last2 = Sparrow| first2 = Thomas| date = 8 May 2023| website = dw.com| publisher = Deutsche Welle| access-date = 13 May 2023| archive-date = 12 May 2023| archive-url = https://web.archive.org/web/20230512234312/https://www.dw.com/en/fact-check-turkeys-erdogan-shows-false-kilicdaroglu-video/a-65554034| url-status = live}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"Euronews 2023 on fake media interference\">{{cite news\n| last = Elci\n| first = Aylin\n| title = AI content is meddling in Turkey's election. Experts warn it's just the beginning\n| newspaper = Euronews\n| location = Bruxelles\n| pages = \n| language = English\n| publisher = Euronews SA\n| date = 12 May 2023\n| url = https://www.euronews.com/next/2023/05/12/ai-content-deepfakes-meddling-in-turkey-elections-experts-warn-its-just-the-beginning\n| access-date = 13 May 2023\n| archive-date = 12 May 2023\n| archive-url = https://web.archive.org/web/20230512211827/https://www.euronews.com/next/2023/05/12/ai-content-deepfakes-meddling-in-turkey-elections-experts-warn-its-just-the-beginning\n| url-status = live\n}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.dw.com/en/fact-check-turkeys-erdogan-shows-false-kilicdaroglu-video/a-65554034|title=Fact check: Turkey's Erdogan shows false Kilicdaroglu video|publisher=Euronews|date=24 May 2023|access-date=13 May 2023|archive-date=12 May 2023|archive-url=https://web.archive.org/web/20230512234312/https://www.dw.com/en/fact-check-turkeys-erdogan-shows-false-kilicdaroglu-video/a-65554034|url-status=live}}</ref>",
+                      "url": "https://www.dw.com/en/fact-check-turkeys-erdogan-shows-false-kilicdaroglu-video/a-65554034",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.duvarenglish.com/turkish-man-detained-after-filing-criminal-complaint-against-erdogan-news-62462|title=Turkish man detained after filing criminal complaint against Erdoğan|date=24 May 2023|access-date=25 May 2023|archive-date=24 May 2023|archive-url=https://web.archive.org/web/20230524141028/https://www.duvarenglish.com/turkish-man-detained-after-filing-criminal-complaint-against-erdogan-news-62462|url-status=live}}</ref>",
+                      "url": "https://www.duvarenglish.com/turkish-man-detained-after-filing-criminal-complaint-against-erdogan-news-62462",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.duvarenglish.com/kilicdaroglu-calls-erdogan-fabricator-over-montage-video-linking-former-with-pkk-news-62453|title=Kılıçdaroğlu calls Erdoğan 'fabricator' over montage video linking former with PKK|date=22 May 2023|access-date=25 May 2023|archive-date=25 May 2023|archive-url=https://web.archive.org/web/20230525145337/https://www.duvarenglish.com/kilicdaroglu-calls-erdogan-fabricator-over-montage-video-linking-former-with-pkk-news-62453|url-status=live}}</ref>",
+                      "url": "https://www.duvarenglish.com/kilicdaroglu-calls-erdogan-fabricator-over-montage-video-linking-former-with-pkk-news-62453",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=cumhuriyet1>{{cite web|url=https://www.cumhuriyet.com.tr/siyaset/son-dakika-erdoganin-izlettigi-montajli-goruntulere-erisim-engeli-karari-2084727|title=Son Dakika: Erdoğan'ın izlettiği montajlı görüntülere 'erişim engeli' kararı!|date=25 May 2023|language=Turkish|access-date=25 May 2023|archive-date=25 May 2023|archive-url=https://web.archive.org/web/20230525173600/https://www.cumhuriyet.com.tr/siyaset/son-dakika-erdoganin-izlettigi-montajli-goruntulere-erisim-engeli-karari-2084727|url-status=live}}</ref>",
+                      "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-erdoganin-izlettigi-montajli-goruntulere-erisim-engeli-karari-2084727",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.4.s2",
+                  "text": "An allegedly fake sex video purporting to portray Muharrem İnce was circulated before he dropped out of the race. İnce claimed that deepfake technology had been used to make the video and stated he had suffered \"character assassination\" and blamed the country's journalists and public prosecutors for not protecting him from the \"fury of defamation|slander\".",
+                  "references": [
+                    {
+                      "text": "<ref name=\"Guardian 2023 fake media election interference reporting\">{{Cite news |last1=Michaelson |first1=Ruth |last2=Narlı |first2=Deniz Barış |date=12 May 2023 |title=Turkish opposition accuses Russia of election interference days before vote |language=en-GB |work=The Guardian |url=https://www.theguardian.com/world/2023/may/12/turkish-opposition-accuses-russia-of-election-interference-days-before-vote |access-date=12 May 2023 |issn= |archive-date=12 May 2023 |archive-url=https://web.archive.org/web/20230512092829/https://www.theguardian.com/world/2023/may/12/turkish-opposition-accuses-russia-of-election-interference-days-before-vote |url-status=live }}</ref>",
+                      "url": "https://www.theguardian.com/world/2023/may/12/turkish-opposition-accuses-russia-of-election-interference-days-before-vote",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Euronews 2023 on fake media interference\" /> Erdoğan phoned İnce to express his support and condemned the video, calling the video \"Gülen movement|Gülenist tactics\" as seen in the past.<ref>{{cite news |title=Erdoğan'dan İnce açıklaması: Kaset kumpası FETÖ taktiği |url=https://www.turkiyegazetesi.com.tr/secim-2023/erdogandan-ince-aciklamasi-kaset-kumpasi-feto-taktigi-964251 |access-date=19 May 2023 |work=Türkiye Gazetesi |date=12 May 2023 |language=tr |archive-date=20 May 2023 |archive-url=https://web.archive.org/web/20230520001629/https://www.turkiyegazetesi.com.tr/secim-2023/erdogandan-ince-aciklamasi-kaset-kumpasi-feto-taktigi-964251 |url-status=live }}</ref>",
+                      "url": "https://arsiv.turkiyegazetesi.com.tr/secim-2023/erdogandan-ince-aciklamasi-kaset-kumpasi-feto-taktigi-964251",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.5",
+          "title": "Block of Ekşi Sözlük",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.5.s1",
+                  "text": "One day before the election, the website Ekşi Sözlük was blocked from access reasoned as \"for the protection of national security and public order\".",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://www.diken.com.tr/secimden-bir-gun-once-eksi-sozlukun-yeni-kullandigi-alan-adi-erisime-engellendi/|title=Seçimden bir gün önce: Ekşi Sözlük'ün yeni kullandığı alan adı erişime engellendi|date=14 May 2023|language=Turkish|access-date=13 May 2023|archive-date=13 May 2023|archive-url=https://web.archive.org/web/20230513215806/https://www.diken.com.tr/secimden-bir-gun-once-eksi-sozlukun-yeni-kullandigi-alan-adi-erisime-engellendi/|url-status=live}}</ref>",
+                      "url": "https://www.diken.com.tr/secimden-bir-gun-once-eksi-sozlukun-yeni-kullandigi-alan-adi-erisime-engellendi/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.6",
+          "title": "Twitter censorship",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.6.s1",
+                  "text": "On the eve of the election, Elon Musk's Twitter restricted access within Turkey to accounts that were critical of Erdoğan at the request of the Turkish government.",
+                  "references": [
+                    {
+                      "text": "<ref>https://www.businessinsider.com/free-speech-censorship-elon-musk-throttled-tweets-turkey-presidential-election-2023-5?op=1</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": null
+                    },
+                    {
+                      "text": "<ref>https://arstechnica.com/tech-policy/2023/05/musk-defends-enabling-turkish-censorship-on-twitter-calling-it-his-choice/</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.7",
+          "title": "Reporting of the results",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.7.s1",
+                  "text": "On election night, the CHP complained about reports of Erdogan leading in the polls by the Anadolu Agency and produced its own numbers that held Kilicdaroglu as the leading candidate. The first results mainly come from smaller rural towns, where Erdogan and his AK party are generally popular.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":3\" /> After Ömer Çelik of the AKP accused the CHP of trying to seize the will of the nation, Ekrem İmamoğlu of the CHP justified the reports of the opposition as they had learned from the past.<ref name=\":3\" /> Anadolu is known to show the governing AKP as the leader with a large advantage in the first hours.<ref name=\":3\" /><ref>{{Cite web |date=14 May 2023 |title=LIVE: People's Alliance has the majority in parliament, according to state-run Anadolu Agency results |url=https://www.duvarenglish.com/live-peoples-alliance-has-the-majority-in-parliament-according-to-state-run-anadolu-agency-results-news-62403 |access-date=14 May 2023 |website=Gazete Duvar |language=tr-TR |archive-date=14 May 2023 |archive-url=https://web.archive.org/web/20230514205714/https://www.duvarenglish.com/live-peoples-alliance-has-the-majority-in-parliament-according-to-state-run-anadolu-agency-results-news-62403 |url-status=live }}</ref>",
+                      "url": "https://www.duvarenglish.com/peoples-alliance-has-the-majority-in-parliament-news-62403",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Erdogan haalt net geen absolute meerderheid, tweede ronde volgt op 28 mei |url=https://nos.nl/collectie/13930/liveblog/2475095-erdogan-haalt-net-geen-absolute-meerderheid-tweede-ronde-volgt-op-28-mei |access-date=20 May 2023 |work=nos.nl |date=14 May 2023 |language=nl |archive-date=15 May 2023 |archive-url=https://web.archive.org/web/20230515195056/https://nos.nl/collectie/13930/liveblog/2475095-erdogan-haalt-net-geen-absolute-meerderheid-tweede-ronde-volgt-op-28-mei |url-status=live }}</ref>",
+                      "url": "https://nos.nl/collectie/13930/liveblog/2475095-erdogan-haalt-net-geen-absolute-meerderheid-tweede-ronde-volgt-op-28-mei",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.7.s2",
+                  "text": "There were also criticisms directed at the slow pace of counting ballots cast abroad. At the time of 90% of domestic ballots were counted, only 30.8% of ballots from abroad had been counted. Ahmet Yener of the Supreme Election Council said these delays were \"normal\" and that the increase in the number of ballots and contesting parties slowed counting.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=14 May 2023 |title=87% of vote counted, election council says |url=https://www.cnn.com/europe/live-news/turkey-election-05-14-23/h_e111710e835bbfc03321094180faae1e |access-date=14 May 2023 |website=CNN |language=en |archive-date=14 May 2023 |archive-url=https://web.archive.org/web/20230514230324/https://www.cnn.com/europe/live-news/turkey-election-05-14-23/h_e111710e835bbfc03321094180faae1e |url-status=live }}</ref>",
+                      "url": "https://edition.cnn.com/europe/live-news/turkey-election-05-14-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.7.s3",
+                  "text": "The YSP demanded a repetition of the election for Gaziantep, where according to the YSP two thousand potential YSP voters were not able to vote as they were inscribed as members of the ballot committee by the Patriotic Party (Turkey)|Patriotic Party (VP) without informing them. The request was deemed an unreasonable objection by the provincial election presidency.<ref name=\":5\" />",
+                  "references": [
+                    {
+                      "text": "<ref name=\":5\">{{Cite web |date=2023-05-18 |title=YSP's request to renew elections in Gaziantep rejected |url=https://www.duvarenglish.com/ysps-request-to-renew-elections-in-gaziantep-rejected-news-62433 |access-date=2023-05-27 |website=Gazete Duvar |language=tr-TR |archive-date=18 May 2023 |archive-url=https://web.archive.org/web/20230518235129/https://www.duvarenglish.com/ysps-request-to-renew-elections-in-gaziantep-rejected-news-62433 |url-status=live }}</ref>",
+                      "url": "https://www.duvarenglish.com/ysps-request-to-renew-elections-in-gaziantep-rejected-news-62433",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.8",
+          "title": "Azerbaijani and Russian interference allegations",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.8.s1",
+                  "text": "A few days before the first round, Kılıçdaroğlu and the CHP accused Russia of Foreign electoral intervention|foreign electoral interference, claiming it to be the source of many \"Plot (narrative)|plots, montages and deepfakes\". The Russian Government rejected the claims.<ref name=\"CNN fake media election interference reporting\" />",
+                  "references": [
+                    {
+                      "text": "<ref name=\"CNN fake media election interference reporting\">{{Cite web |first1=Mostafa |last1=Salem |first2=Anna |last2=Chernova |first3=Isil |last3=Sariyuce |date=12 May 2023 |title=Turkey's main opposition candidate accuses Russia of election interference |url=https://www.cnn.com/2023/05/12/world/turkey-elections-opposition-russian-interference-intl/index.html |access-date=13 May 2023 |website=CNN |language=en |archive-date=12 May 2023 |archive-url=https://web.archive.org/web/20230512203115/https://www.cnn.com/2023/05/12/world/turkey-elections-opposition-russian-interference-intl/index.html |url-status=live }}</ref>",
+                      "url": "https://edition.cnn.com/2023/05/12/world/turkey-elections-opposition-russian-interference-intl/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url=https://www.reuters.com/world/middle-east/erdogan-rival-accuses-russia-deep-fake-campaign-ahead-presidential-vote-2023-05-12/ |title=Erdogan rival accuses Russia of 'deep fake' campaign ahead of presidential vote |date=12 May 2023 |publisher=Reuters |access-date=13 May 2023 |archive-date=12 May 2023 |archive-url=https://web.archive.org/web/20230512140037/https://www.reuters.com/world/middle-east/erdogan-rival-accuses-russia-deep-fake-campaign-ahead-presidential-vote-2023-05-12/ |url-status=live}}</ref>",
+                      "url": "https://www.reuters.com/world/middle-east/erdogan-rival-accuses-russia-deep-fake-campaign-ahead-presidential-vote-2023-05-12/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=12 May 2023 |title=Turkey election: Kremlin rejects accusations of interference |language=en-GB |work=BBC News |url=https://www.bbc.com/news/world-europe-65574312 |access-date=13 May 2023 |archive-date=13 May 2023 |archive-url=https://web.archive.org/web/20230513015436/https://www.bbc.com/news/world-europe-65574312 |url-status=live }}</ref>",
+                      "url": "https://www.bbc.com/news/world-europe-65574312",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.8.s2",
+                  "text": "After Oğan's endorsement of Erdoğan, journalist Demirağ claimed that Azerbaijani president Ilham Aliyev arranged the meeting between Erdoğan and Oğan. Istanbul Metropolitan Municipality assembly member, Good Party group deputy chairman İbrahim Özkan criticized Oğan, saying that \"he [Oğan] will do whatever Aliyev says\". Azerbaijani journalist Afgan Mukhtarli said that \"pro-Aliyev media and trolls\" campaigned against Kılıçdaroğlu, and adding that \"Oğan has close relations with the Azerbaijani government\", and that \"Aliyev's role is certain in Oğan's decision\". A journalist asked Oğan if he met with Aliyev before taking this decision. Upon the question Oğan said that his interlocutors are Erdoğan and Kılıçdaroğlu. On 23 May, Adil Aliyev, deputy chairman of the National Assembly of Azerbaijan, made a propaganda speech on behalf of the People's Alliance in Melekli, Iğdır|Melekli district of Iğdır, Oğan's hometown.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://halktv.com.tr/siyaset/sinan-oganla-ilgili-cok-konusulacak-aliyev-ayrintisi-erdogana-destek-kararinin-741377h|title=Sinan Oğan'la İlgili Çok Konuşulacak Aliyev Ayrıntısı... Erdoğan'a Destek Kararının Perde Arkası|date=22 May 2023|language=Turkish|access-date=23 May 2023|archive-date=22 May 2023|archive-url=https://web.archive.org/web/20230522161642/https://halktv.com.tr/siyaset/sinan-oganla-ilgili-cok-konusulacak-aliyev-ayrintisi-erdogana-destek-kararinin-741377h|url-status=live}}</ref>",
+                      "url": "https://halktv.com.tr/siyaset/sinan-oganla-ilgili-cok-konusulacak-aliyev-ayrintisi-erdogana-destek-kararinin-741377h",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.politikyol.com/azeri-muhalifler-oganin-erdogan-kararini-yorumluyor-kesinlikle-aliyevin-parmagi-var/|title=Azeri muhalifler Oğan'ın Erdoğan kararını yorumluyor: Kesinlikle Aliyev'in parmağı var!|date=23 May 2023|access-date=23 May 2023|archive-date=23 May 2023|archive-url=https://web.archive.org/web/20230523090813/https://www.politikyol.com/azeri-muhalifler-oganin-erdogan-kararini-yorumluyor-kesinlikle-aliyevin-parmagi-var/|url-status=live}}</ref>",
+                      "url": "https://www.politikyol.com/azeri-muhalifler-oganin-erdogan-kararini-yorumluyor-kesinlikle-aliyevin-parmagi-var",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.aa.com.tr/tr/politika/ata-ittifakinin-cumhurbaskani-adayi-ogan-secimlerin-ikinci-turunda-sayin-erdogani-destekleyecegiz/2903426|title=Ata İttifakı'nın cumhurbaşkanı adayı Oğan: Seçimlerin ikinci turunda Sayın Erdoğan'ı destekleyeceğiz|date=22 May 2023|language=Turkish|access-date=23 May 2023|archive-date=22 May 2023|archive-url=https://web.archive.org/web/20230522183138/https://www.aa.com.tr/tr/politika/ata-ittifakinin-cumhurbaskani-adayi-ogan-secimlerin-ikinci-turunda-sayin-erdogani-destekleyecegiz/2903426|url-status=live}}</ref>",
+                      "url": "https://www.aa.com.tr/tr/politika/ata-ittifakinin-cumhurbaskani-adayi-ogan-secimlerin-ikinci-turunda-sayin-erdogani-destekleyecegiz/2903426",
+                      "status_code": null,
+                      "reason": "[Errno 104] Connection reset by peer",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://tele1.com.tr/aliyevden-turkiyedeki-secimlere-dogrudan-mudahale-849553/|title=Aliyev'den Türkiye'deki seçimlere doğrudan müdahale|language=Turkish|date=23 May 2023|access-date=23 May 2023|archive-date=24 May 2023|archive-url=https://web.archive.org/web/20230524062101/https://tele1.com.tr/aliyevden-turkiyedeki-secimlere-dogrudan-mudahale-849553/|url-status=live}}</ref>",
+                      "url": "https://www.tele1.com.tr/video/aliyevden-turkiyedeki-secimlere-dogrudan-mudahale",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Opinion polls",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "9.2",
+          "title": "First round",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "9.3",
+          "title": "Second round",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Results",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "10.s1",
+              "text": "As no candidate was able to secure a majority of votes, a runoff took place between the top two finishers, Recep Tayyip Erdoğan and Kemal Kılıçdaroğlu, on 28 May. Erdoğan, the incumbent president coming into the election, received 49.52% of the vote, down from 52.59% in the last elections. Votes for Oğan pushed the race into a run-off. and despite trailing in a dozen opinion polls prior to the first round of the election, the Supreme Election Council (Turkey)|Supreme Election Council declared Erdoğan the winner after 99.4% of the votes were counted in the second round, as the remaining votes to be counted were unable to bridge the difference between him and Kılıçdaroğlu. Erdoğan received 52.18% of the vote.",
+              "references": [
+                {
+                  "text": "<ref name=\"NYT runoff\">{{cite news |last1=Hubbard |first1=Ben |last2=Harman |first2=Gulsin |title=Nail-Biter Turkish Election Goes to Round 2 as Majority Eludes Erdogan |url=https://www.nytimes.com/2023/05/14/world/europe/turkey-erdogan-presidential-election.html |access-date=15 May 2023 |work=The New York Times |date=14 March 2023 |url-access=subscription |archive-date=15 May 2023 |archive-url=https://web.archive.org/web/20230515000019/https://www.nytimes.com/2023/05/14/world/europe/turkey-erdogan-presidential-election.html/ |url-status=live }}</ref>",
+                  "url": "https://www.nytimes.com/2023/05/14/world/europe/turkey-erdogan-presidential-election.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=15 May 2023 |first=Paul |last=Kirby |title=Turkey's Erdogan appears to have upper hand after tense night |url=https://www.bbc.com/news/world-europe-65593504 |access-date=15 May 2023 |website=BBC News |language=en-GB |archive-date=17 May 2023 |archive-url=https://web.archive.org/web/20230517015716/https://www.bbc.com/news/world-europe-65593504 |url-status=live }}</ref>",
+                  "url": "https://www.bbc.com/news/world-europe-65593504",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=aj /> In the second round, the turnout rate in abroad and customs increased from 53.8% to 54.35%,<ref>{{cite web|url=https://tr.euronews.com/2023/05/23/28-mayis-cumhurbaskanligi-ikinci-tur-seciminde-yurt-disi-katilim-orani-kac|title=28 Mayıs Cumhurbaşkanlığı Seçimi'nde yurt dışı katılım oranı kaç?|date=23 May 2023 |language=Turkish|publisher=Euronews|access-date=24 May 2023|archive-date=24 May 2023|archive-url=https://web.archive.org/web/20230524184634/https://tr.euronews.com/2023/05/23/28-mayis-cumhurbaskanligi-ikinci-tur-seciminde-yurt-disi-katilim-orani-kac|url-status=live}}</ref>",
+                  "url": "https://tr.euronews.com/2023/05/23/28-mayis-cumhurbaskanligi-ikinci-tur-seciminde-yurt-disi-katilim-orani-kac",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>[https://www.lemonde.fr/en/international/article/2023/05/17/turkey-elections-how-erdogan-beat-expectations_6026998_4.html Turkey elections: How Erdogan beat expectations] {{Webarchive|url=https://web.archive.org/web/20230601220247/https://www.lemonde.fr/en/international/article/2023/05/17/turkey-elections-how-erdogan-beat-expectations_6026998_4.html |date=1 June 2023 }}, ''Le Monde''</ref>",
+                  "url": "https://web.archive.org/web/20230601220247/https://www.lemonde.fr/en/international/article/2023/05/17/turkey-elections-how-erdogan-beat-expectations_6026998_4.html",
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
+                  "type": null
+                },
+                {
+                  "text": "<ref>{{cite news |title=YSK Başkanı Yener: Erdoğan Cumhurbaşkanı seçilmiştir |url=https://www.ntv.com.tr/2023-secim/ysk-baskani-yener-erdogan-cumhurbaskani-secilmistir,TprVhVTJX0CFDy1mLpJv3Q |access-date=28 May 2023 |work=www.ntv.com.tr |date=28 May 2023 |language=tr |archive-date=28 May 2023 |archive-url=https://web.archive.org/web/20230528195832/https://www.ntv.com.tr/2023-secim/ysk-baskani-yener-erdogan-cumhurbaskani-secilmistir,TprVhVTJX0CFDy1mLpJv3Q |url-status=live }}</ref>",
+                  "url": "https://www.ntv.com.tr/2023-secim/ysk-baskani-yener-erdogan-cumhurbaskani-secilmistir,TprVhVTJX0CFDy1mLpJv3Q",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>[https://abcnews.go.com/International/wireStory/turkish-election-body-confirms-erdogans-victory-runoff-vote-99751683 Turkish election body confirms Erdogan's victory in runoff vote] {{Webarchive|url=https://web.archive.org/web/20230601221537/https://abcnews.go.com/International/wireStory/turkish-election-body-confirms-erdogans-victory-runoff-vote-99751683 |date=1 June 2023 }}, ABC News via the AP</ref>",
+                  "url": "https://web.archive.org/web/20230601221537/https://abcnews.go.com/International/wireStory/turkish-election-body-confirms-erdogans-victory-runoff-vote-99751683",
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
+                  "type": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Aftermath",
+      "content": [
+        {
+          "id": "11.1",
+          "title": "Domestic",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "11.1.s1",
+                  "text": "Erdoğan expressed his thanks to his supporters in a speech in Istanbul, saying that all 85 million citizens of the country were the \"victors\" in the elections, while taunting his opponent's defeat with the words \"Bye, bye, bay Kemal\" (\"bay\" means \"mr.\" in Turkish and has the same pronunciation as \"bye\"). Kılıçdaroğlu conceded defeat, saying, \"My real sadness is about difficulties awaiting this country.\" He vowed to continue fighting against Erdoğan. He urged his supporters to continue to fight to uphold democratic principles and expressed frustration at the massive influx of refugees in his country, commenting that \"Turkish people have become second class citizens.\" Özdağ described the election results a pyrrhic victory. He also stated that Erdoğan won largely thanks to foreign voters, adding \"the Victory Party is determined not to congratulate Erdoğan\". The Ecumenical Patriarch, Bartholomew I of Constantinople|Bartholomew I sent a congratulatory message to the re-elected President.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news|url= https://www.aljazeera.com/news/2023/5/28/turkey-presidential-election-results-3|title= Turkey's Erdogan celebrates presidential election run-off win|date= 29 May 2023|publisher= Aljazeera|access-date= 29 May 2023|archive-date= 29 May 2023|archive-url= https://web.archive.org/web/20230529060634/https://www.aljazeera.com/news/2023/5/28/turkey-presidential-election-results-3|url-status= live}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|url= https://www.bbc.com/news/world-europe-65743031|title= Turkish election victory for Erdogan leaves nation divided|date= 29 May 2023|publisher= BBC|access-date= 29 May 2023|archive-date= 29 May 2023|archive-url= https://web.archive.org/web/20230529060619/https://www.bbc.com/news/world-europe-65743031|url-status= live}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-05-28 |title=Kılıçdaroğlu concedes defeat after Erdoğan wins third term |url=https://www.turkishminute.com/2023/05/28/kilicdaroglu-conceded-defeat-after-erdogan-wins-third-term/ |access-date=2023-05-29 |website=Turkish Minute |language=en-US |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529055622/https://www.turkishminute.com/2023/05/28/kilicdaroglu-conceded-defeat-after-erdogan-wins-third-term/ |url-status=live }}</ref>",
+                      "url": "https://www.turkishminute.com/2023/05/28/kilicdaroglu-conceded-defeat-after-erdogan-wins-third-term/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.rudaw.net/turkish/middleeast/turkey/3005202314|title=Ümit Özdağ: Erdoğan için bu galibiyet, bir Pirus Zaferi'dir|date=30 May 2023|access-date=30 May 2023|archive-date=30 May 2023|archive-url=https://web.archive.org/web/20230530161806/https://www.rudaw.net/turkish/middleeast/turkey/3005202314|url-status=live}}</ref>",
+                      "url": "https://www.rudaw.net/turkish/middleeast/turkey/3005202314",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url=https://orthodoxtimes.com/message-of-the-ecumenical-patriarch-to-the-re-elected-president-of-turkey/|title=Message of the Ecumenical Patriarch to the re-elected President of Turkey &#124; Orthodox Times (en)|access-date=2 June 2023|archive-date=30 May 2023|archive-url=https://web.archive.org/web/20230530132846/https://orthodoxtimes.com/message-of-the-ecumenical-patriarch-to-the-re-elected-president-of-turkey/|url-status=live}}</ref>",
+                      "url": "https://orthodoxtimes.com/message-of-the-ecumenical-patriarch-to-the-re-elected-president-of-turkey/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "11.2",
+          "title": "International",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "11.2.s1",
+                  "text": "International markets responded to Erdoğan's victory with concern; economists continued to worry about Erdoğan's abnormal economic policies and the Turkish lira fell to its lowest value in history. After Erdoğan was declared elected, President of the European Council Charles Michel congratulated Erdogan, stating that he \"looks forward to working with you again to deepen Turkey–European Union relations|EU-Turkey relations in the years to come.\" Kubanychbek Omuraliev, Secretary General of the Organization of Turkic States, said in a message, \"I offer my sincere congratulations to President Erdogan for his victory in the 2nd round of the Presidential Elections of the Republic of Turkey, and wish him good luck for the Republic of Turkey, the brotherly Turkish people and the entire Turkic world.\" Organization of Islamic Cooperation (OIC) Secretary General Hissein Brahim Taha wished Erdoğan success in taking his country further and prosperous in his new term. NATO Secretary General Jens Stoltenberg congratulated Erdogan, stating that he \"looks forward to continuing our work together and preparing for the NATO summit in July\". UN chief António Guterres congratulated Turkish President Erdogan on his reelection.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last1=Malsin |first1=Jared |last2=Dulaney |first2=Chelsey |date=2023-05-30 |title=Turkey's Lira Hits New Low After Erdogan's Re-Election |work=The Wall Street Journal |url=https://www.wsj.com/articles/turkeys-lira-hits-new-low-after-erdogans-re-election-bb20ec8c |access-date=2023-06-01 |issn=0099-9660 |archive-date=1 June 2023 |archive-url=https://web.archive.org/web/20230601192255/https://www.wsj.com/articles/turkeys-lira-hits-new-low-after-erdogans-re-election-bb20ec8c |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/articles/turkeys-lira-hits-new-low-after-erdogans-re-election-bb20ec8c",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=EU Council head congratulates Turkey's Erdogan on election win |url=https://www.devdiscourse.com/article/headlines/2467875-ipl-final-between-chennai-super-kings-and-gujarat-titans-postponed-to-monday-after-heavy-downpour |access-date=28 May 2023 |work=Devdiscourse |date=28 May 2023 |archive-date=28 May 2023 |archive-url=https://web.archive.org/web/20230528221831/https://www.devdiscourse.com/article/headlines/2467875-ipl-final-between-chennai-super-kings-and-gujarat-titans-postponed-to-monday-after-heavy-downpour |url-status=live }}</ref>",
+                      "url": "https://www.devdiscourse.com/article/headlines/2467875-ipl-final-between-chennai-super-kings-and-gujarat-titans-postponed-to-monday-after-heavy-downpour",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Türk Devletleri Teşkilatı, Cumhurbaşkanı Erdoğan'ı kutladı |url=https://www.haberturk.com/turk-devletleri-teskilati-cumhurbaskani-erdogan-i-kutladi-3595666 |access-date=28 May 2023 |work=HaberTürk |date=29 May 2023 |language=tr |archive-date=28 May 2023 |archive-url=https://web.archive.org/web/20230528225754/https://www.haberturk.com/turk-devletleri-teskilati-cumhurbaskani-erdogan-i-kutladi-3595666 |url-status=live }}</ref>",
+                      "url": "https://www.haberturk.com/turk-devletleri-teskilati-cumhurbaskani-erdogan-i-kutladi-3595666",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"sd1\">{{cite news |title=Dünya liderleri Cumhurbaşkanı Erdoğan'ı tebrik etti |url=https://www.sondakika.com/dunya/haber-dunya-liderleri-cumhurbaskani-erdogan-i-tebrik-ett-15969136/ |access-date=28 May 2023 |work=Son Dakika |date=29 May 2023 |language=tr |archive-date=28 May 2023 |archive-url=https://web.archive.org/web/20230528230321/https://www.sondakika.com/dunya/haber-dunya-liderleri-cumhurbaskani-erdogan-i-tebrik-ett-15969136/ |url-status=live }}</ref>",
+                      "url": "https://www.sondakika.com/dunya/haber-dunya-liderleri-cumhurbaskani-erdogan-i-tebrik-ett-15969136/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=US, EU, NATO congratulate Turkey's Erdogan, stress importance of 'working together' |url=https://english.alarabiya.net/News/world/2023/05/29/US-EU-NATO-congratulate-Turkey-s-Erdogan-stress-importance-of-working-together- |access-date=28 May 2023 |work=Al Arabiya English |date=29 May 2023 |archive-date=28 May 2023 |archive-url=https://web.archive.org/web/20230528230319/https://english.alarabiya.net/News/world/2023/05/29/US-EU-NATO-congratulate-Turkey-s-Erdogan-stress-importance-of-working-together- |url-status=live }}</ref>",
+                      "url": "https://english.alarabiya.net/News/world/2023/05/29/US-EU-NATO-congratulate-Turkey-s-Erdogan-stress-importance-of-working-together-",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Fouche |first1=Gwladys |last2=Siebold |first2=Sabine |last3=Fouche |first3=Gwladys |date=2023-06-01 |title=Stoltenberg to travel to Turkey to discuss Sweden's NATO membership |work=Reuters |url=https://www.reuters.com/world/europe/stoltenberg-travel-turkey-discuss-swedens-nato-membership-2023-06-01/ |access-date=2023-06-01 |archive-date=1 June 2023 |archive-url=https://web.archive.org/web/20230601191851/https://www.reuters.com/world/europe/stoltenberg-travel-turkey-discuss-swedens-nato-membership-2023-06-01/ |url-status=live }}</ref>",
+                      "url": "https://www.reuters.com/world/europe/stoltenberg-travel-turkey-discuss-swedens-nato-membership-2023-06-01/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":6\">{{Cite web |title=UN chief Guterres congratulates Turkish President Erdogan on reelection |url=https://www.aa.com.tr/en/politics/un-chief-guterres-congratulates-turkish-president-erdogan-on-reelection/2911838 |access-date=2023-06-09 |website=www.aa.com.tr |archive-date=4 June 2023 |archive-url=https://web.archive.org/web/20230604215604/https://www.aa.com.tr/en/politics/un-chief-guterres-congratulates-turkish-president-erdogan-on-reelection/2911838 |url-status=live }}</ref>",
+                      "url": "https://www.aa.com.tr/en/politics/un-chief-guterres-congratulates-turkish-president-erdogan-on-reelection/2911838",
+                      "status_code": null,
+                      "reason": "[Errno 104] Connection reset by peer",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Notes",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

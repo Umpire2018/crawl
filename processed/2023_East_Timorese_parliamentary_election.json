@@ -1,0 +1,815 @@
+{
+  "title": "2023_East_Timorese_parliamentary_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "Parliamentary elections were held in Timor-Leste on 21 May 2023. The governing coalition going into the election was a four-party government of Fretilin, the People's Liberation Party (Timor-Leste)|People's Liberation Party (PLP), Kmanek Haburas Unidade Nasional Timor Oan (KHUNTO) and the Democratic Party (Timor-Leste)|Democratic Party (PD), whilst the National Congress for Timorese Reconstruction (CNRT) was in opposition but held the presidency.",
+              "references": [
+                {
+                  "text": "<ref name=\":1\">{{Cite web |title=Elections: Timor-Leste Parliament 2023 |url=https://www.electionguide.org/elections/id/4038/ |access-date=2022-12-21 |website=IFES Election Guide |archive-date=21 December 2022 |archive-url=https://web.archive.org/web/20221221220535/https://www.electionguide.org/elections/id/4038/ |url-status=live }}</ref>",
+                  "url": "https://www.electionguide.org/elections/id/4038/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Portugal\">{{Cite web |title=Presidente timorense marca eleições legislativas para 21 de maio |url=https://www.rtp.pt/noticias/mundo/presidente-timorense-marca-eleicoes-legislativas-para-21-de-maio_n1466737 |access-date=2023-02-16 |website=Rádio e Televisão de Portugal |date=13 February 2023 |language=pt |archive-date=13 February 2023 |archive-url=https://web.archive.org/web/20230213175716/https://www.rtp.pt/noticias/mundo/presidente-timorense-marca-eleicoes-legislativas-para-21-de-maio_n1466737 |url-status=live }}</ref>",
+                  "url": "https://www.rtp.pt/noticias/mundo/presidente-timorense-marca-eleicoes-legislativas-para-21-de-maio_n1466737",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |last1=Leach |first1=Michael |title=Prodigal son: It's victory for Xanana Gusmão's CNRT in Timor-Leste |url=https://insidestory.org.au/prodigal-son/ |website=Inside Story |access-date=2023-05-23 |language=en |date=2023-05-23}}</ref>",
+                  "url": "https://insidestory.org.au/xanana-triumph/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Lane |first=Max |date=2022-06-02 |title=Timor Leste's New President: Polarisation Defused or Postponed? |url=https://fulcrum.sg/timor-lestes-new-president-polarisation-defused-or-postponed/ |url-status=live |archive-url=https://web.archive.org/web/20221221220537/https://fulcrum.sg/timor-lestes-new-president-polarisation-defused-or-postponed/ |archive-date=21 December 2022 |access-date=2022-12-21 |website=FULCRUM |language=en-US}}</ref>",
+                  "url": "https://fulcrum.sg/timor-lestes-new-president-polarisation-defused-or-postponed/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "Initially, after the 2018 East Timorese parliamentary election, the VIII Constitutional Government was drawn from and supported by a coalition known as the Alliance for Change and Progress (AMP), which was made up of the National Congress for Timorese Reconstruction (CNRT), the People's Liberation Party (Timor-Leste)|People's Liberation Party (PLP) and Kmanek Haburas Unidade Nasional Timor Oan (KHUNTO). Prime Minister of Timor-Leste|Prime Minister Mari Bin Amude Alkatiri|Marí Bin Amude Alkatiri of Fretilin had to hand over his office to Taur Matan Ruak of the PLP. However, a large number of the candidates nominated by the CNRT for government posts were refused appointment by President Francisco Guterres (FRETILIN), as he considered them unsuitable for various reasons. Taur Matan Ruak managed to form a Cabinet of Timor-Leste|cabinet anyway by having the vacant positions of the missing CNRT members co-administered by other government members. In the National Parliament, the AMP denied the opposition parties Fretilin and Democratic Party (Timor-Leste)|Partido Democrático (PD) adequate participation in the presidium and in the management of the committees, which led to further conflicts.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |last1=Leach |first1=Michael |title=A first test for Timor-Leste's cohabitants |url=https://insidestory.org.au/a-first-test-for-timor-lestes-cohabitants/ |work=Inside Story |access-date=30 November 2020 |date=14 August 2018|archive-url= https://web.archive.org/web/20221221234014/https://insidestory.org.au/a-first-test-for-timor-lestes-cohabitants/|archive-date=21 December 2022|url-status=live}}</ref>",
+                  "url": "https://insidestory.org.au/a-first-test-for-timor-lestes-cohabitants/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "Following the breakdown of the AMP coalition during the first few months of 2020, a new governing coalition took place in the form of four-party government of Fretilin–People's Liberation Party (Timor-Leste)|PLP–Kmanek Haburas Unidade Nasional Timor Oan|KHUNTO–Democratic Party (Timor-Leste)|PD on 12 May 2020, new officials were appointed on 29 May and 24 June 2020.",
+              "references": [
+                {
+                  "text": "<ref name=\"tatoli 2020-05-14\">{{cite news |last1=Soares Martins |first1=Evaristo |date=14 May 2020 |title=PM Taur Matan Ruak Gains Two Deputies in Government Restructure |work=Tatoli |url=http://www.tatoli.tl/en/2020/05/14/pm-taur-matan-ruak-gains-two-deputies-in-government-restructure/ |access-date=28 June 2020 |archive-date=2 July 2020 |archive-url=https://web.archive.org/web/20200702104225/http://www.tatoli.tl/en/2020/05/14/pm-taur-matan-ruak-gains-two-deputies-in-government-restructure/ |url-status=live }}</ref>",
+                  "url": "http://www.tatoli.tl/en/2020/05/14/pm-taur-matan-ruak-gains-two-deputies-in-government-restructure/",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"tatoli 2020-05-25\">{{cite news |last1=Sanchez |first1=Hortencio |date=25 May 2020 |title=Foreign Minister Dionísio Soares Among Five MPs to Resign From Cabinet |work=Tatoli |url=http://www.tatoli.tl/en/2020/05/25/dionisio-soares-resigns-as-foreign-minister/?fbclid=IwAR0-sF4xO6Uge6FXDXLKZ9btn3Qpe03xhReTxumx1vPCcplykh1_rf_sbLk |access-date=27 May 2020 |archive-date=30 June 2020 |archive-url=https://web.archive.org/web/20200630030524/http://www.tatoli.tl/en/2020/05/25/dionisio-soares-resigns-as-foreign-minister/?fbclid=IwAR0-sF4xO6Uge6FXDXLKZ9btn3Qpe03xhReTxumx1vPCcplykh1_rf_sbLk |url-status=live }}</ref>",
+                  "url": "http://www.tatoli.tl/en/2020/05/25/dionisio-soares-resigns-as-foreign-minister/?fbclid=IwAR0-sF4xO6Uge6FXDXLKZ9btn3Qpe03xhReTxumx1vPCcplykh1_rf_sbLk",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"tatoli 2020-05-29\">{{cite news |last1=Colo |first1=Cipriano |date=29 May 2020 |title=Eight New Members Sworn into TL Cabinet |work=Tatoli |url=http://www.tatoli.tl/en/2020/05/29/eight-new-members-sworn-into-tl-cabinet/ |access-date=28 June 2020 |archive-date=6 December 2020 |archive-url=https://web.archive.org/web/20201206114015/http://www.tatoli.tl/en/2020/05/29/eight-new-members-sworn-into-tl-cabinet/ |url-status=dead }}</ref>",
+                  "url": "http://www.tatoli.tl/en/2020/05/29/eight-new-members-sworn-into-tl-cabinet/",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"sapo 2020-05-29\">{{cite news |date=29 May 2020 |title=Presidente timorense dá posse a oito novos membros do Governo |language=pt |trans-title=Timorese President swears in eight new members of the Government |website=Rádio e Televisão de Portugal|RTP News |agency=Lusa News Agency|Lusa |url=https://www.rtp.pt/noticias/mundo/presidente-timorense-da-posse-a-oito-novos-membros-do-governo_n1232707 |access-date=27 November 2020 |archive-date=6 January 2022 |archive-url=https://web.archive.org/web/20220106125114/https://www.rtp.pt/noticias/mundo/presidente-timorense-da-posse-a-oito-novos-membros-do-governo_n1232707 |url-status=live }}</ref>",
+                  "url": "https://www.rtp.pt/noticias/mundo/presidente-timorense-da-posse-a-oito-novos-membros-do-governo_n1232707",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite web |date=24 June 2020 |title=Swearing-In and organic structure of the Eight Constitutional Government |url=http://timor-leste.gov.tl/?p=24746&lang=en&n=1 |access-date=28 June 2020 |website=Government of Timor-Leste |archive-date=6 November 2022 |archive-url=https://web.archive.org/web/20221106002845/http://timor-leste.gov.tl/?p=24746&n=1&lang=en |url-status=live }}</ref>",
+                  "url": "https://timor-leste.gov.tl/?p=24746&lang=en&n=1",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "Presidential elections were held on 19 March 2022. Incumbent Francisco Guterres sought election to a second term. As none of the presidential nominees received at least 50% of the cast votes, a Two-round system|runoff was held on 19 April 2022, between the top two candidates, José Ramos-Horta and Guterres. Ramos-Horta won the runoff with 62.1% of the total votes cast. Former President José Ramos-Horta came out of retirement as he stated that incumbent president Francisco \"Lú-Olo\" Guterres had violated the constitution. Guterres had previously refused to swear in several ministers from Ramos-Horta's party on the grounds that they were currently undergoing legal investigations over corruption. Ramos-Horta stated that in the event of winning the presidential election, he would potentially dissolve parliament and call for new elections. He also stated that he wanted to try and improve communication across the governing political parties for the purposes of increasing stability. After his victory over incumbent Guterres, Ramos-Horta declared that he would support the VIII government until the end of its mandate.",
+              "references": [
+                {
+                  "text": "<ref name=\":0\">{{Cite web |date=2022-01-23 |title=East Timor Nobel laureate Ramos-Horta to run for president again |url=https://www.france24.com/en/live-news/20220123-east-timor-nobel-laureate-ramos-horta-to-run-for-president-again |url-status=live |archive-url=https://web.archive.org/web/20220130000757/https://www.france24.com/en/live-news/20220123-east-timor-nobel-laureate-ramos-horta-to-run-for-president-again |archive-date=30 January 2022 |access-date=2022-01-23 |website=France 24 |language=en}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20220123-east-timor-nobel-laureate-ramos-horta-to-run-for-president-again",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Barrett |first=Chris |date=2021-12-19 |title='Thousands pleading with me to run': Jose Ramos-Horta eyes return as East Timor president |url=https://www.smh.com.au/world/asia/thousands-pleading-with-me-to-run-jose-ramos-horta-eyes-return-as-east-timor-president-20211216-p59i6o.html |url-status=live |archive-url=https://web.archive.org/web/20220113093141/https://www.smh.com.au/world/asia/thousands-pleading-with-me-to-run-jose-ramos-horta-eyes-return-as-east-timor-president-20211216-p59i6o.html |archive-date=13 January 2022 |access-date=2022-01-11 |website=The Sydney Morning Herald |language=en}}</ref>",
+                  "url": "https://www.smh.com.au/world/asia/thousands-pleading-with-me-to-run-jose-ramos-horta-eyes-return-as-east-timor-president-20211216-p59i6o.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"reur1\">{{Cite news |last1=Da Cruz |first1=Nelson |last2=Lamb |first2=Kate |date=2022-03-20 |title=Ramos-Horta, Guterres early frontrunners in East Timor election |language=en |work=Reuters |editor-last=Navaratnam |editor-first=Shri |url=https://www.reuters.com/world/asia-pacific/ramos-horta-guterres-early-frontrunners-east-timor-election-2022-03-20/ |url-status=live |url-access=registration |access-date=2022-03-21 |archive-url=https://web.archive.org/web/20220321004041/https://www.reuters.com/world/asia-pacific/ramos-horta-guterres-early-frontrunners-east-timor-election-2022-03-20/ |archive-date=21 March 2022}}</ref>",
+                  "url": "https://www.reuters.com/world/asia-pacific/ramos-horta-guterres-early-frontrunners-east-timor-election-2022-03-20/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"AFPTG\" /> The election marked the first time that someone had been re-elected to the East Timorese presidency (albeit to a non-consecutive term), as well as the second time that an incumbent president had been defeated – after the 2012 East Timorese presidential election|2012 election, when Ramos-Horta was eliminated in the first round.<ref>{{Cite web |title=East Timor president out of poll race |url=https://www.aljazeera.com/news/2012/3/18/east-timor-president-out-of-poll-race |url-status=live |archive-url=https://web.archive.org/web/20221221220535/https://www.aljazeera.com/news/2012/3/18/east-timor-president-out-of-poll-race |archive-date=21 December 2022 |access-date=21 December 2022 |website=Al Jazeera}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2012/3/18/east-timor-president-out-of-poll-race",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"AFPTG\">{{cite news |date=20 April 2022 |title=Timor-Leste presidential election: José Ramos-Horta wins in landslide |language=en |work=The Guardian |agency=Agence France-Presse |url=https://www.theguardian.com/world/2022/apr/21/timor-leste-presidential-election-jose-ramos-horta-wins-in-landslide |url-status=live |access-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421074707/https://www.theguardian.com/world/2022/apr/21/timor-leste-presidential-election-jose-ramos-horta-wins-in-landslide |archive-date=21 April 2022}}</ref>",
+                  "url": "https://www.theguardian.com/world/2022/apr/21/timor-leste-presidential-election-jose-ramos-horta-wins-in-landslide",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"aj20apr\">{{cite news |date=20 April 2022 |title=Ramos-Horta takes commanding lead in East Timor presidential vote |language=en |work=Al Jazeera |url=https://www.aljazeera.com/news/2022/4/20/east-timor-ramos-horta-takes-strong-lead-in-presidential-vote |url-status=live |access-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421074709/https://www.aljazeera.com/news/2022/4/20/east-timor-ramos-horta-takes-strong-lead-in-presidential-vote |archive-date=21 April 2022}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2022/4/20/east-timor-ramos-horta-takes-strong-lead-in-presidential-vote",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"AFPTG\" /><ref name=\"aj20apr\" /> Ramos-Horta, who always sought a balance between the political parties in his speeches, remained vague in his comments on his post-election plans. Ramos-Horta ran on a platform of poverty reduction, increasing healthcare services for mothers and children, as well as increasing job creation.<ref name=\"aj21apr\">{{cite news |date=21 April 2022 |title=Ramos-Horta declares victory in East Timor presidential election |language=en |work=Al Jazeera |url=https://www.aljazeera.com/news/2022/4/21/ramos-horta-declares-victory-in-east-timor-presidential-election |url-status=live |access-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421074710/https://www.aljazeera.com/news/2022/4/21/ramos-horta-declares-victory-in-east-timor-presidential-election |archive-date=21 April 2022}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2022/4/21/ramos-horta-declares-victory-in-east-timor-presidential-election",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"aj21apr\" /> In addition, Ramos-Horta stated his intention on working with the government to address supply chain issues from the ongoing COVID-19 pandemic in Timor-Leste|COVID-19 pandemic and Russian invasion of Ukraine.<ref name=\"reu21ap\">{{cite news |last1=Da Cruz |first1=Nelson |last2=Lamb |first2=Kate |date=21 April 2022 |title=Ramos-Horta declares victory in East Timor presidential election |language=en |work=Reuters |editor-last=Davies |editor-first=Ed |url=https://www.reuters.com/world/asia-pacific/ramos-horta-declares-victory-east-timor-presidential-election-2022-04-21/ |url-status=live |access-date=21 April 2022 |archive-url=https://web.archive.org/web/20220421074711/https://www.reuters.com/world/asia-pacific/ramos-horta-declares-victory-east-timor-presidential-election-2022-04-21/ |archive-date=21 April 2022}}</ref>",
+                  "url": "https://www.reuters.com/world/asia-pacific/ramos-horta-declares-victory-east-timor-presidential-election-2022-04-21/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s4",
+              "text": "In November 2022, Ramos-Horta had initially set the regular new elections for parliament for 20 February 2023. But a discussion then broke out about the exact timing and convenience of the election date. Finally, President Ramos-Horta announced 21 May as the election date. This would allow the final results to be announced in June and the new parliament to take office at the same time as the parliamentarians for the 2018 legislature which then on was 12 June (the new government was sworn in on 21 June). In addition, the 2024 national budget could be passed in time, which would avoid various problems, and the ASEAN summit will be held in September to admit Timor-Leste as an Accession of Timor-Leste to ASEAN|official member. Fretilin had proposed a date in the second half of the year.<ref name=\"Portugal\"/>",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Marques |first=Osoria |date=2022-11-10 |title=Xefe Estadu sei dekreta kalendáriu Elisaun Parlamentár iha fevereiru 2023 |url=https://tatoli.tl/2022/11/10/xefe-estadu-sei-dekreta-kalendariu-elisaun-parlamentar-iha-fevereiru-2023/ |access-date=2023-01-01 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US |archive-date=14 November 2022 |archive-url=https://web.archive.org/web/20221114213732/https://tatoli.tl/2022/11/10/xefe-estadu-sei-dekreta-kalendariu-elisaun-parlamentar-iha-fevereiru-2023/ |url-status=live }}</ref>",
+                  "url": "https://tatoli.tl/2022/11/10/xefe-estadu-sei-dekreta-kalendariu-elisaun-parlamentar-iha-fevereiru-2023/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Lusa 2023-01-24\">[https://www.facebook.com/photo/ ''Governo timorense diz estar pronto para organizar legislativas, seja qual for a data''] {{Webarchive|url=https://web.archive.org/web/20230213182134/https://www.facebook.com/photo/ |date=13 February 2023 }} LUSA, 24 January 2023. Retrieved on 29 January 2023.</ref>",
+                  "url": "https://web.archive.org/web/20230213182134/https://www.facebook.com/photo/",
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
+                  "type": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "]]\nThe 65 members of the National Parliament were elected from a single nationwide constituency by closed list proportional representation. Parties were required to have a woman in at least every third position in their list. Seats were allocated using the d'Hondt method with an electoral threshold of four percent and with the last seat, in the case of several equal maximum numbers, being awarded to the party with the fewest votes. In order to jump the four per cent hurdle (about 26,000 voters), parties can form electoral alliances. Voters who have cast their ballot are marked on their finger with a purple, non-washable ink to prevent double voting. For this purpose, 10,000 bottles of ink were purchased at a cost of $394,000 through the United Nations Development Programme (UNDP).",
+              "references": [
+                {
+                  "text": "<ref>[http://www.ipu.org/parline-e/reports/2369_B.htm Electoral system] {{Webarchive|url=https://web.archive.org/web/20160806112942/http://www.ipu.org/parline-e/reports/2369_B.htm |date=6 August 2016 }} Inter-Parliamentary Union</ref>",
+                  "url": "https://web.archive.org/web/20160806112942/http://www.ipu.org/parline-e/reports/2369_B.htm",
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
+                  "type": null
+                },
+                {
+                  "text": "<ref>[http://www.cne.tl/wp-content/uploads/2017/05/4a-AlteracaoLeiEleitoralParlamento.pdf Fourth amendment to the Law on Election of the National Parliament] {{Webarchive|url=https://web.archive.org/web/20180619085922/http://www.cne.tl/wp-content/uploads/2017/05/4a-AlteracaoLeiEleitoralParlamento.pdf|date=2018-06-19}} CNE</ref>",
+                  "url": "https://web.archive.org/web/20180619085922/http://www.cne.tl/wp-content/uploads/2017/05/4a-AlteracaoLeiEleitoralParlamento.pdf",
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
+                  "type": null
+                },
+                {
+                  "text": "<ref name=\":2\">{{Cite web |date=2023-05-14 |title=Número recorde de votantes nas quintas legislativas de Timor-Leste |url=https://www.rtp.pt/noticias/mundo/numero-recorde-de-votantes-nas-quintas-legislativas-de-timor-leste_n1486276 |access-date=2023-05-22 |website=RTP |language=pt}}</ref>",
+                  "url": "https://www.rtp.pt/noticias/mundo/numero-recorde-de-votantes-nas-quintas-legislativas-de-timor-leste_n1486276",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":4\">{{Cite web |title=Quatro partidos timorenses anunciam coligação pré-eleitoral para legislativas de maio |url=https://24.sapo.pt/noticias/quatro-partidos-timorenses-anunciam-coligacao_64031a7c50964948aca11e0c |access-date=2023-05-22 |website=SAPO 24 |language=pt}}</ref>",
+                  "url": "https://24.sapo.pt/noticias/quatro-partidos-timorenses-anunciam-coligacao_64031a7c50964948aca11e0c",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Electoral Ink Confirmation Testing for the Parliamentary Election 2023 |url=https://www.undp.org/timor-leste/press-releases/electoral-ink-confirmation-testing-parliamentary-election-2023 |access-date=2023-05-22 |website=UNDP |language=en}}</ref>",
+                  "url": "https://www.undp.org/timor-leste/press-releases/electoral-ink-confirmation-testing-parliamentary-election-2023",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "The Secretáriado Técnico de Administração Eleitoral (STAE) provides a total of 1,472 polling centres and 1,850 polling stations in the country. 11,800 of whom are abroad. Voters had to cast their ballots in their home municipality, which meant that many residents of the capital Dili had to travel to their homes on election day. Following experience in the last presidential elections, a voting centre is now to be opened in Dili for each East Timorese Municipalities of Timor-Leste|municipality in the parliamentary elections as well, in order to save voters the trip. The Secretáriado Técnico de Administração Eleitoral (STAE) plans to provide a total of 1500 polling centres and 1880 polling stations in the country.",
+              "references": [
+                {
+                  "text": "<ref name=\":2\" /> There are 890,145 people registered on the electoral rolls,<ref>{{Cite news |title=Apuramento Eleisaun Parlamentar 2023 |work=CNE |url=https://www.cne.tl/ap2023/ |access-date=22 May 2023}}</ref>",
+                  "url": "https://www.cne.tl/ap2023/",
+                  "status_code": null,
+                  "reason": "Cannot connect to host www.cne.tl:443 ssl:default [Domain name not found]",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":2\" /> Polling stations are therefore also being prepared in Australia (Darwin, Melbourne and Sydney), Portugal (Lisbon, Porto and Beja), South Korea (Gwangju and Seoul) and the United Kingdom (Crewe, Dungannon, Peterborough and Oxford).<ref name=\":2\" /> About 20,000 people are working to conduct the election on polling day.<ref name=\":10\">{{Cite web |last=Lusa |date=21 May 2023 |title=Urnas abrem para maiores legislativas de sempre |url=https://www.facebook.com/photo/?fbid=566991552212478&set=gm.1455618838512331&idorvanity=291447921596101 |access-date=2023-05-22 |website=Facebook }}</ref>",
+                  "url": "https://www.facebook.com/login/?next=https://www.facebook.com/photo/?fbid%3D566991552212478%26set%3Dgm.1455618838512331%26idorvanity%3D291447921596101",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=de Sousa |first=Nelson |date=2022-09-02 |title=PN seidauk simu proposta Governu altera lei Eleisaun Parlamentár |url=https://tatoli.tl/2022/09/02/pn-seidauk-simu-proposta-governu-altera-lei-eleisaun-parlamentar/ |access-date=2023-01-01 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US |archive-date=14 November 2022 |archive-url=https://web.archive.org/web/20221114213727/https://tatoli.tl/2022/09/02/pn-seidauk-simu-proposta-governu-altera-lei-eleisaun-parlamentar/ |url-status=live }}</ref>",
+                  "url": "https://tatoli.tl/2022/09/02/pn-seidauk-simu-proposta-governu-altera-lei-eleisaun-parlamentar/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Marques |first=Osoria |date=2022-09-02 |title=Eleisaun parlamentár, STAE sei aumenta sentru votasaun 1.500 iha territóriu nasionál |url=https://tatoli.tl/2022/09/02/eleisaun-parlamentar-stae-sei-aumenta-sentru-votasaun-1-500-iha-territoriu-nasional/ |access-date=2023-01-01 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US |archive-date=6 December 2022 |archive-url=https://web.archive.org/web/20221206163849/https://tatoli.tl/2022/09/02/eleisaun-parlamentar-stae-sei-aumenta-sentru-votasaun-1-500-iha-territoriu-nasional/ |url-status=live }}</ref>",
+                  "url": "https://tatoli.tl/2022/09/02/eleisaun-parlamentar-stae-sei-aumenta-sentru-votasaun-1-500-iha-territoriu-nasional/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s3",
+              "text": "On 14 March, President Ramos-Horta vetoed a number of amendments to the electoral law. In his letter to MPs in parliament, he supported the planned introduction of postal voting and documents in Braille, but rejected the parallel polling stations for voters who cannot travel to their home town to vote. These had been introduced for the first time in the last presidential elections and were now to be extended. Ramos-Horta explained that the necessary mechanisms and registers would be lacking to prevent double voting. He also criticised the planned direct forwarding of the counting data to the National Electoral Commission (Timor-Leste)|National Electoral Commission (CNE), although the constitution requires a listing first at the ballot box and then at the municipal level. Moreover, the new electoral law does not mention the new municipality of Atauro, which is why there is no polling station on the island at all. Parliament now had to decide on the amendments requested by the head of state. On 20 March, by 37 votes to 22 (with two abstentions), parliament sent the law back to Ramos-Horta unchanged. If the new law is passed again, the president is obliged to sign it into law.<ref name=\":3\" />",
+              "references": [
+                {
+                  "text": "<ref name=\":3\">{{Cite web |last=Lusa |date=14 March 2023 |title=Presidente timorense contesta centros paralelos de votação no veto à lei para eleições |url=https://www.facebook.com/groups/132023013521454/permalink/6096085953781767/ |access-date=2023-05-22 |website=Facebook |language=en}}</ref>",
+                  "url": "https://www.facebook.com/login/?next=https://www.facebook.com/groups/132023013521454/permalink/6096085953781767/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=de Deus |first=Isaura Lemos |date=2023-03-20 |title=Parlamento Nacional confirma lei eleitoral e reenvia-a ao Chefe de Estado |url=https://pt.tatoli.tl/2023/03/20/parlamento-nacional-confirma-lei-eleitoral-e-reenvia-a-ao-chefe-de-estado/ |access-date=2023-05-22 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US}}</ref>",
+                  "url": "https://pt.tatoli.tl/2023/03/20/parlamento-nacional-confirma-lei-eleitoral-e-reenvia-a-ao-chefe-de-estado/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Parties and alliances",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "{{See also|List of political parties in Timor-Leste}}Parties could register their participation in the election until 15 March 2023. The election campaign began on 19 April.",
+              "references": [
+                {
+                  "text": "<ref name=\":5\">{{Cite web |last=Lusa |title=Coligação AD primeira força política timorense a candidatar–se a legislativas, 13. März 2023 |url=https://www.facebook.com/antsampaio/posts/pfbid02xb79LkDHrsuRcUwA4wiQb5qkAWVPpxZX4Gz4Z79Un9U6MG54HZedbzPHt3WSTvYPl |access-date=2023-05-22 |website=Facebook |language=en}}</ref>",
+                  "url": "https://www.facebook.com/antsampaio/posts/pfbid02xb79LkDHrsuRcUwA4wiQb5qkAWVPpxZX4Gz4Z79Un9U6MG54HZedbzPHt3WSTvYPl",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "In 2018, Timor-Leste Supreme Court of Justice|Timor-Leste's Supreme Court (Tribunal de Recurso) revoked the eligibility of the seven parties{{why|date=May 2023}} Timorese Social Democratic Association|ASDT, Association of Timorese Heroes|KOTA, Democratic Liberal Party (Timor-Leste)|PDL, National Unity Party (Timor-Leste)|PUN, PARENTIL, Timorese Nationalist Party|PNT and Timorese Labor Party|PTT, leaving the CNE to list 24 recognised political parties in Timor-Leste on 15 February. This includes the Green Party of Timor|Green Party (PVT), which was registered in 2022. However, the tribunal also found the Millennium Democratic Party (Timor-Leste)|Millennium Democratic Party (PMD), the Democratic Republic of Timor Party (PDRT), the People's Party of Development (PDP) and the Timorese Democratic Party (PTD) ineligible to contest the 2023 general elections due to a lack of legal requirements.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=de Deus |first=Isaura Lemos |date=2023-02-15 |title=CNE publicita lista de partidos políticos admitidos às eleições legislativas |url=https://pt.tatoli.tl/2023/02/15/cne-publicita-lista-de-partidos-politicos-admitidos-as-eleicoes-legislativas/ |access-date=2023-05-22 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US}}</ref>",
+                  "url": "https://pt.tatoli.tl/2023/02/15/cne-publicita-lista-de-partidos-politicos-admitidos-as-eleicoes-legislativas/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":4\" /><ref name=\":6\">{{Cite web |last=Lusa |date=15 March 2023 |title=Tribunal de Recurso timorense pede mexidas na lei para não penalizar coligações |url=https://www.facebook.com/groups/216102715072019/permalink/7016025685079654/ |access-date=2023-05-22 |website=Facebook |language=en}}</ref>",
+                  "url": "https://www.facebook.com/login/?next=https://www.facebook.com/groups/216102715072019/permalink/7016025685079654/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "On 4 March, four parties formed an electoral alliance. The Broad Democratic Front (FAD) includes the UDT and the FM as well as the two parties not represented in parliament, Timorese Social Democratic Action Center (CASDT) and National Development Party (Timor-Leste)|National Development Party (PDN).\n\nOn 13 March, the CNE confirmed the notification of the three coalitions,",
+              "references": [
+                {
+                  "text": "<ref name=\":4\" /> Another coalition was announced by the PDRT and the Timorese People's Monarchist Association (APMT).<ref name=\":4\" /><ref>{{Cite web |date=2023-03-04 |title=Coligação de forças sem assento parlamentar quer consensos em Timor-Leste |url=https://www.noticiasaominuto.com/mundo/2231228/coligacao-de-forcas-sem-assento-parlamentar-quer-consensos-em-timor-leste |access-date=2023-05-22 |website=Notícias ao Minuto |language=pt}}</ref>",
+                  "url": "https://www.noticiasaominuto.com/mundo/2231228/coligacao-de-forcas-sem-assento-parlamentar-quer-consensos-em-timor-leste",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":5\" /> but the tribunal rejected all three alliances. The PDP from the Democratic Alliance and the PDRT would both have failed to meet the legal requirements as electable parties, making their party alliances obsolete. The AND had not yet gained recognition as a party anyway. In the case of the FAD, the PDN had withdrawn from the alliance on 14 March and filed an election petition as an individual party. The tribunal found that in the case of the PDN, no congress or national conference had confirmed cooperation with the other parties, which meant that the entire FAD did not receive registration. The remaining partners of the various alliances still had the option of filing for election individually.<ref>{{Cite web |last=Lusa |date=15 March 2023 |title=Partidos de coligações timorenses chumbadas pelo tribunal vão concorrer sozinhos |url=https://www.facebook.com/NoticiasEmPortuguesDeTimor/posts/pfbid0211LQ58kUgHPHLHnfh2cfzsbwBeEzU2gBTRtxsGfmfhJnT18JiCEsQVhyAhG52z5Gl |access-date=2023-05-22 |website=Facebook |language=en}}</ref>",
+                  "url": "https://www.facebook.com/NoticiasEmPortuguesDeTimor/posts/pfbid0211LQ58kUgHPHLHnfh2cfzsbwBeEzU2gBTRtxsGfmfhJnT18JiCEsQVhyAhG52z5Gl",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s4",
+              "text": "By the deadline of 15 March, a total of 18 parties had submitted their electoral lists. Due to the internal party dispute in the Frenti-Mudança, electoral lists were submitted by both party leader Ricardo Cardoso Nheu and his predecessor Egídio de Jesus. Following the incidents surrounding the admission of electoral alliances and the question of which parties should be allowed to contest at all, both the tribunal and the CNE demanded that the future legislature clarify its jurisdiction over the decision to admit parties and electoral alliances, as this is where the court and the electoral authority come into conflict.<ref name=\":6\" />",
+              "references": [
+                {
+                  "text": "<ref name=\":7\">{{Cite web |last=Lusa |date=15 March 2023 |title=Dezassete partidos registam candidaturas no Tribunal de Recurso para legislativas timorenses |url=https://www.facebook.com/groups/216102715072019/permalink/7016178555064367/ |access-date=2023-05-22 |website=Facebook |language=en}}</ref>",
+                  "url": "https://www.facebook.com/login/?next=https://www.facebook.com/groups/216102715072019/permalink/7016178555064367/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=da Piedade |first=Domingos |date=2023-03-16 |title=Boletins de voto das legislativas poderão ter 18 opções |url=https://pt.tatoli.tl/2023/03/16/boletins-de-voto-das-legislativas-poderao-ter-18-opcoes/ |access-date=2023-05-22 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US}}</ref>",
+                  "url": "https://pt.tatoli.tl/2023/03/16/boletins-de-voto-das-legislativas-poderao-ter-18-opcoes/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s5",
+              "text": "On 25 March, the tribunal ruled that 17 parties could contest the election. The Frenti-Mudança was refused admission to the election. There was no clarification as to which of the two lists represented the party and an attempt at conciliation between the two groups failed. The official list was published in the Jornal da República on 29 March.",
+              "references": [
+                {
+                  "text": "<ref name=\":7\" /><ref name=\":8\">{{Cite web |title=Tribunal de Recurso timorense valida candidaturas de 17 partidos a legislativas de 21 de maio |url=https://www.sapo.pt/noticias/atualidade/tribunal-de-recurso-timorense-valida_641ec61525390848a63a2bfb |access-date=2023-05-22 |website=SAPO |language=pt}}</ref>",
+                  "url": "https://www.sapo.pt/noticias/atualidade/tribunal-de-recurso-timorense-valida_641ec61525390848a63a2bfb",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s6",
+              "text": "On 15 April, leaders of the ruling parties Fretilin, PLP and KHUNTO signed an agreement to form a joint government alliance after the elections.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=15 April 2023 |title=Timor-Leste/Eleições: Partidos do Governo assinam compromisso pré-eleitoral |url=https://www.lusa.pt/article/2023-04-15/40622030/timor-leste-elei%C3%A7%C3%B5es-partidos-do-governo-assinam-compromisso-pr%C3%A9-eleitoral |access-date=22 May 2023 |website=Lusa.pt}}</ref>",
+                  "url": "https://www.lusa.pt/article/2023-04-15/40622030/timor-leste-elei%C3%A7%C3%B5es-partidos-do-governo-assinam-compromisso-pr%C3%A9-eleitoral",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s7",
+              "text": "The PLPA and the AND concluded a \"strategic agreement\" which, if entered into parliament, would last for the entire legislative period until 2028. AND members were included in the PLPA's electoral list. Jorge da Conceição Teme, leader of the AND, headed the electoral list.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=PLPA quer eleger deputados em Timor-Leste, mas com apoio de outro partido |url=https://www.sapo.pt/noticias/atualidade/plpa-quer-eleger-deputados-em-timor-leste-mas_644c68d4179e3c489910bf5d |access-date=2023-05-22 |website=SAPO |language=pt}}</ref>",
+                  "url": "https://www.sapo.pt/noticias/atualidade/plpa-quer-eleger-deputados-em-timor-leste-mas_644c68d4179e3c489910bf5d",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Campaign",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "]]\nThe election campaign officially began on 19 April and ran until 18 May.",
+              "references": [
+                {
+                  "text": "<ref name=\":8\" /> José Agostinho da Costa Belo, the president of the CNE, called on the parties to suspend campaigning on 20 April because a Solar eclipse|total solar eclipse was going to take place in Timor-Leste on that day. He said the eclipse should not affect the election campaign.<ref>{{Cite web |last=Gomes |first=Domingas |date=2023-04-12 |title=CNE Husu Partidu Politiku Tenki Respeita Loron Eclipse Solar |url=https://stlnews.co/politika/cne-husu-partidu-politiku-tenki-respeita-loron-eclipse-solar/ |access-date=2023-05-22 |website=STLNEWS |language=en-US}}</ref>",
+                  "url": "https://stlnews.co/politika/cne-husu-partidu-politiku-tenki-respeita-loron-eclipse-solar/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s2",
+              "text": "In advance, the Matadalan Research Institute released the results of a survey it conducted among 400 people in all parts of the country between 24 March and 3 April. Voters in the diaspora were not included in the survey. According to the results, 49% of the respondents supported the CNRT. 25% would vote for FRETILIN, 5.5% for PD and 5.25% for KHUNTO. Prime Minister Taur Matan Ruak's PLP would fail the four-percent hurdle with 3.5%. The Greens would get 1% and all other parties together 7.75%. The margin of error in the poll was 5%. When asked who should be prime minister, 60.25% said Xanana Gusmão (CNRT), 19% Marí Alkatiri (FRETILIN) and 6.25% Taur Matan Ruak. 6% wanted Mariano Sabino Lopes (PD) and 2.75% Armanda Berta dos Santos (KHUNTO). When asked about possible coalitions, 27.75% wanted an alliance between CNRT and PD and only 17.75% wanted the current coalition of Fretilin, PLP and KHUNTO. 12% wanted a coalition of CNRT, Fretilin and PD and 8.25% wanted one of CNRT, PD and PLP.]]For almost all major parties, most respondents said they had made their decision based on the party's programme or vision. In the case of KHUNTO, however, 30% of their supporters said they had chosen them because of family ties to their party leadership. When asked who they would like to see as prime minister, Gusmão could attribute his support to his personal background and work, while for the other politicians the reason is the party behind them. The most important issues for respondents were infrastructure development (43%), job creation (22.75%) and education (14%).<ref name=\":9\" />",
+              "references": [
+                {
+                  "text": "<ref name=\":9\">{{Cite web |title=Sondagem aponta CNRT como partido com mais apoio nas eleições em Timor-Leste |url=https://www.sapo.pt/noticias/atualidade/sondagem-aponta-cnrt-como-partido-com-mais_643a6002a68aa948e0039b04 |access-date=2023-05-22 |website=SAPO |language=pt}}</ref>",
+                  "url": "https://www.sapo.pt/noticias/atualidade/sondagem-aponta-cnrt-como-partido-com-mais_643a6002a68aa948e0039b04",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s3",
+              "text": "In mid-April, Abel de Conceição, the administrator of the Aileu Municipality|municipality of Aileu, had National Police of Timor-Leste|police officers break up a public debate on \"Building a new just and solidary society\" at the Uma Dame Peace Centre in Aileu. The event, where representatives of different political forces were to discuss, had been organised by the Youth Movement of the Municipality of Aileu (MJMA). Conceição justified the dissolution with the given period of the election campaign and that debates between the parties could only be organised by the electoral bodies. President Ramos-Horta criticised the action and stressed the constitutional right to organise events and express their views on political issues. When asked by Virgílio da Silva Guterres, the ombudsman of the Provedoria dos Direitos Humanos e Justiça (PDHJ), Conceição expressed regret that he had not wanted to restrict citizens' rights, but only to implement the guidelines of the CNE and STAE. Guterres stressed that this was not the responsibility of the municipal administration, but of the CNE, and Miguel Pereira de Carvalho, Conceição's predecessor as Minister of State Administration, also stated that the municipal administrator had neither the power to decide on the authorisation of such events, nor could he give instructions to the police.The CNRT rejected FRETILIN's proposal of two debates during the election campaign between Alkatiri and Gusmão, as the proposed topics were not considered appropriate. The topics were the agreement on the Timor Gap|maritime dispute and border with Australia that Gusmão had negotiated and the Haksolok ferry construction affair. The CNRT is held partly responsible for the fact that the ferry is not in Timor-Leste after years following the bankruptcy of the Portuguese shipyard. In the vote on the border treaty, Alkatiri had FRETILIN vote against it in parliament, which he is accused of betraying. However, Alkatiri sees mistakes in the treaty and wanted to confront Gusmão with them. Likewise with mistakes in politics, of which Gusmão would pretend that he had never led the government in the last 15 years.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2023-04-18 |title=Visão {{!}} PR timorense pede a provedoria que investigue ações de administrador de Aileu |url=https://visao.sapo.pt/atualidade/mundo/2023-04-18-pr-timorense-pede-a-provedoria-que-investigue-acoes-de-administrador-de-aileu/ |access-date=2023-05-22 |website=Visão |language=pt-PT}}</ref>",
+                  "url": "https://visao.sapo.pt/atualidade/mundo/2023-04-18-pr-timorense-pede-a-provedoria-que-investigue-acoes-de-administrador-de-aileu/",
+                  "status_code": null,
+                  "reason": "Cannot connect to host visao.sapo.pt:443 ssl:default [Connect call failed ('213.13.145.45', 443)]",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-04-25 |title=CNRT rejeita debate com Fretilin por não considerar temas apropriados |url=https://www.rtp.pt/noticias/mundo/cnrt-rejeita-debate-com-fretilin-por-nao-considerar-temas-apropriados_n1481879 |access-date=2023-05-22 |website=Rádio e Televisão de Portugal |language=pt}}</ref>",
+                  "url": "https://www.rtp.pt/noticias/mundo/cnrt-rejeita-debate-com-fretilin-por-nao-considerar-temas-apropriados_n1481879",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s4",
+              "text": "On 27 April, riots broke out between supporters of different parties in Daco Ate (Suco Afaloicai) during the election campaign. Seven houses were damaged and 16 people injured, two of whom had to be treated after throwing stones in Viqueque. Police and soldiers restored peace and order and were able to identify two suspects.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Gusmao |first=Antonia Maia S. |date=2023-04-28 |title=Konfrontu iha Uatolari rezulta uma hitu hetan estragu no vítima 16 |url=https://tatoli.tl/2023/04/28/konfrontu-iha-uatolari-rezulta-uma-hitu-hetan-estragu-no-vitima-16/ |access-date=2023-05-22 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US}}</ref>",
+                  "url": "https://tatoli.tl/2023/04/28/konfrontu-iha-uatolari-rezulta-uma-hitu-hetan-estragu-no-vitima-16/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=da Costa |first=Vitorino Lopes |date=2023-04-28 |title=PNTL Viqueque aprezenta autór rua konfrontu iha Uatolari ba MP |url=https://tatoli.tl/2023/04/28/pntl-viqueque-aprezenta-autor-rua-konfrontu-iha-uatolari-ba-mp/ |access-date=2023-05-22 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US}}</ref>",
+                  "url": "https://tatoli.tl/2023/04/28/pntl-viqueque-aprezenta-autor-rua-konfrontu-iha-uatolari-ba-mp/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s5",
+              "text": "After a KHUNTO election rally in Dili, KHUNTO activists were attacked by unknown persons on 12 May. Four were seriously injured and had to be treated in hospital. Police were unable to identify any of the attackers.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Sarmento |first=Augusto |date=2023-05-13 |title=Militante KHUNTO Nain-4 Hetan Kanek Iha Dili |url=https://timorpost.com/munisipiu/dili-munisipiu/tp-35338/militante-khunto-nain-4-hetan-kanek-iha-dili/ |access-date=2023-05-22 |website=Timor Post Online |language=en-US}}</ref>",
+                  "url": "https://timorpost.com/munisipiu/dili-munisipiu/tp-35338/militante-khunto-nain-4-hetan-kanek-iha-dili/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s6",
+              "text": "On 15 May, President Ramos-Horta criticised parties that work with {{ill|Gangs in Timor-Leste|de|Bandenwesen in Osttimor|lt=martial arts groups}} in an interview. These parties and their \"unscrupulous leaders\" would manipulate youth and turn martial arts into a political tool. Ramos-Horta hinted that he might not approve a cabinet that includes such parties. The head of state emphasised that martial arts itself and the connection of some groups to Indonesia were not the problem. Ramos-Horta explained that he would be concerned if such a party were to head the Ministry of the Interior (Timor-Leste)|Ministry of Interior, for example, in a coalition, with a budget of $100 million; a direct reference to the current government. Deputy Interior Minister Antonino Armindo belongs to KHUNTO, which is closely linked to the martial arts organisation Korka. In addition to KHUNTO, the Greens also have close links with a martial arts group, the 7-7. At both parties, members of the martial arts groups and their leaders appear and display symbols and hand gestures of the groups. The non-governmental organisation ''Fundasaun Mahein'' has already warned of an increasing politicisation of the martial arts groups in the country. It also said these groups were infiltrating various state institutions, which \"could contribute to more violence and socio-political instability\". Ramos-Horta called on the population not to vote for such parties.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2023-05-15 |title=PR critica partidos que manipulam jovens das artes marciais para se infiltrar no Estado |url=https://www.rtp.pt/noticias/mundo/pr-critica-partidos-que-manipulam-jovens-das-artes-marciais-para-se-infiltrar-no-estado_n1486435 |access-date=2023-05-22 |website=RTP |language=pt}}</ref>",
+                  "url": "https://www.rtp.pt/noticias/mundo/pr-critica-partidos-que-manipulam-jovens-das-artes-marciais-para-se-infiltrar-no-estado_n1486435",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Results",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "More than 250 international election observers travelled to Timor-Leste. They came from the European Union, the Community of Portuguese Language Countries|Community of Portuguese-Speaking Countries, the United Nations Development Programme and the Parliament of Australia|Australian Parliament, among others. Ten embassies had registered observers with the STAE. In addition, there were representatives from various non-governmental organisations, the Group of Seven Plus (g7+)|G7+ countries and others. The largest delegation is the Australian one with 60 participants. The US one consists of 35, the Japanese one of 12, the New Zealand one of 11 and the European one of 8. The ''Timorese Bishops' Conference'', the ''National Justice, Peace and Integrity of Creation Commission'' (JPIC) and the ''Church Organisation for Social Affairs'' (OIPAS) provide 2000 national election observers. They are supported by the United States Agency for International Development (USAID), the International Republican Institute (IRI) and Catholic Relief Services (CRS).<ref name=\":11\" />",
+              "references": [
+                {
+                  "text": "<ref name=\":11\">{{Cite web |date=2023-05-16 |title=Eleições Timor-Leste. Mais de 250 observadores internacionais acreditados |url=https://www.rtp.pt/noticias/mundo/eleicoes-timor-leste-mais-de-250-observadores-internacionais-acreditados_n1486778 |access-date=2023-05-22 |website=RTP |language=pt}}</ref>",
+                  "url": "https://www.rtp.pt/noticias/mundo/eleicoes-timor-leste-mais-de-250-observadores-internacionais-acreditados_n1486778",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "6.s2",
+              "text": "{{Election results\n|image=\n|party1=National Congress for Timorese Reconstruction|votes1=288289|seats1=31|sc1=+10\n|party2=Fretilin|votes2=178338|seats2=19|sc2=–4\n|party3=Democratic Party (Timor-Leste)|Democratic Party|votes3=64517|seats3=6|sc3=+1\n|party4=Kmanek Haburas Unidade Nasional Timor Oan|votes4=52031|seats4=5|sc4=0\n|party5=People's Liberation Party (Timor-Leste)|People's Liberation Party|votes5=40720|seats5=4|sc5=–4\n|party6=Green Party of Timor|votes6=25106|seats6=0|sc6=New\n|party7=United Party for Development and Democracy|votes7=21647|seats7=0|sc7=–1\n|party8=Timorese Monarchist People's Association|votes8=6678|seats8=0|sc8=0\n|party9={{ill|People's Freedom Party of the Aileba|de|Partidu Liberta Povu Aileba}}|votes9=3272|seats9=0|sc9=0\n|party10=Timorese Social Democratic Action Center|votes10=3170|seats10=0|sc10=0\n|party11=Socialist Party of Timor|votes11=2415|seats11=0|sc11=0\n|party12=Republican Party (Timor-Leste)|Republican Party|votes12=1558|seats12=0|sc12=0\n|party13=Christian Democratic Party (Timor-Leste)|Christian Democratic Party|votes13=1262|seats13=0|sc13=0\n|party14=Timorese Democratic Union|votes14=1256|seats14=0|sc14=–1\n|party15=National Unity of Timorese Resistance|votes15=1023|seats15=0|sc15=0\n|party16=Freedom Movement for the Maubere People|votes16=642|seats16=0|sc16=0\n|party17=National Development Party|votes17=597|seats17=0|sc17=0|color17={{party color|National Development Party (Timor-Leste)}}\n|invalid=10473\n|blank=2698\n|total_sc=0\n|electorate=890145\n|source=[https://www.cne.tl/ap2023/ CNE], [https://tatoli.tl/2023/05/23/prezidente-partidu-cnrt-prefere-hein-rezultadu-final-molok-deklara-formasaun-governu/ Tatoli]\n}}\n\nVoter turnout fell slightly to 79.3% from 80.98% in 2018, though the number of registered voters and overall total votes cast rose from 2018 due to the country's growing population. The provisional result showed a clear victory for the CNRT, which resulted in a likely majority in the National Parliament together with the PD. The platform of the old ruling parties, Fretilin, KHUNTO and PLP, will probably only get 28 of the 65 seats, less than the CNRT alone, thus failed to unite the majority of seats. The Greens narrowly failed to clear the four-percent hurdle, followed by the PUDD. All other parties got less than one per cent of the vote each. The Fretilin was only the strongest party in its strongholds of Lautém Municipality|Lautém, Viqueque Municipality|Viqueque and Baucau Municipality|Baucau. Otherwise, the CNRT was always ahead, even in polling stations abroad. In the municipality of Ermera Municipality|Ermera, the CNRT even received an absolute majority of 51.05% of the votes. This is the worst result ever for Fretilin.",
+              "references": [
+                {
+                  "text": "<ref name=\":12\" /> President Ramos-Horta said he would invite the strongest party (the CNRT) to talks on forming a government. Again, Ramos-Horta stressed that he would not accept any coalition partner.<ref>{{Cite web |date=2023-05-22 |title=PR timorense vai convidar partido mais votado a formar Governo |url=https://www.rtp.pt/noticias/mundo/pr-timorense-vai-convidar-partido-mais-votado-a-formar-governo_n1488090 |access-date=2023-05-25 |website=Rádio e Televisão de Portugal |language=pt}}</ref>",
+                  "url": "https://www.rtp.pt/noticias/mundo/pr-timorense-vai-convidar-partido-mais-votado-a-formar-governo_n1488090",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":12\">{{Cite web |last=C.Rosario |first=Nelia B. Da |date=2023-05-23 |title=Gusmao's CNRT secures big victory in Parliamentary Election |url=https://en.tatoli.tl/2023/05/23/gusmaos-party-wins-big-election-victory/15/ |access-date=2023-05-24 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US}}</ref>",
+                  "url": "https://en.tatoli.tl/2023/05/23/gusmaos-party-wins-big-election-victory/15/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":13\">{{Cite web |title=\"O povo quer mudança\", diz Xanana Gusmão após vencer eleições em Timor-Leste, mas sem confirmar se volta a ser primeiro-ministro |url=https://24.sapo.pt/atualidade/artigos/o-povo-quer-mudanca-diz-xanana-gusmao-apos-vencer-eleicoes-em-timor-leste-mas-sem-confirmar-se-volta-a-ser-primeiro-ministro |access-date=2023-05-24 |website=SAPO 24 |language=pt}}</ref>",
+                  "url": "https://24.sapo.pt/atualidade/artigos/o-povo-quer-mudanca-diz-xanana-gusmao-apos-vencer-eleicoes-em-timor-leste-mas-sem-confirmar-se-volta-a-ser-primeiro-ministro",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "6.s3",
+              "text": "The final result is to be presented by the STAE by 27 May. The Supreme Court will then officially announce the result and the Jornal da República will publish it by 7 June. The new parliament is expected to meet for the first time on 12 June. It is generally expected that Xanana Gusmão will be re-elected Prime Minister",
+              "references": [
+                {
+                  "text": "<ref name=\":12\" /> and the formation of a coalition government with the PD being expected.<ref name=\":13\" /><ref name=\":15\">{{Cite web |title=Gusmao looks set for return as opposition wins East Timor poll |url=https://www.aljazeera.com/news/2023/5/23/gusmao-looks-set-for-return-as-opposition-wins-east-timor-poll |access-date=2023-05-30 |website=www.aljazeera.com |language=en}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/5/23/gusmao-looks-set-for-return-as-opposition-wins-east-timor-poll",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "6.s4",
+              "text": "On 5 June the results were made final by the President of the East Timorese Court of Appeal Deolindo dos Santos.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Martins |first=Filomeno |date=2023-06-05 |title=Gusmão's CNRT Party Wins Timor-Leste's Parliamentary Elections |url=https://en.tatoli.tl/2023/06/05/gusmaos-cnrt-party-wins-timor-lestes-parliamentary-elections/21/ |access-date=2023-06-09 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US}}</ref>",
+                  "url": "https://en.tatoli.tl/2023/06/05/gusmaos-cnrt-party-wins-timor-lestes-parliamentary-elections/21/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "The observers from the Community of Portuguese-Speaking Countries attested that \"under the specific conditions observed, the entire electoral process was reliable and credible, and gave no cause for complaint that could compromise the transparency and integrity of the electoral process\". The United States Department of State congratulated Timor-Leste for \"free, fair and transparent\" elections that were \"an inspiration to democracy worldwide\".",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2023-05-23 |title=Observadores da CPLP aprovam eleições em Timor-Leste |url=https://rr.sapo.pt/noticia/mundo/2023/05/23/observadores-da-cplp-aprovam-eleicoes-em-timor-leste/332436/ |access-date=2023-05-25 |website=Renascença (SAPO)}}</ref>",
+                  "url": "https://rr.pt/noticia/mundo/2023/05/23/observadores-da-cplp-aprovam-eleicoes-em-timor-leste/332436/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-05-22 |title=Timor-Leste. EUA elogiam votação que serve \"de inspiração para a democracia a nível mundial\" |url=https://www.rtp.pt/noticias/mundo/timor-leste-eua-elogiam-votacao-que-serve-de-inspiracao-para-a-democracia-a-nivel-mundial_n1488182 |access-date=2023-05-25 |website=Rádio e Televisão de Portugal |language=pt}}</ref>",
+                  "url": "https://www.rtp.pt/noticias/mundo/timor-leste-eua-elogiam-votacao-que-serve-de-inspiracao-para-a-democracia-a-nivel-mundial_n1488182",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s2",
+              "text": "Within Fretilin, voices were raised calling for the resignation of the party leadership after this \"humiliating\" defeat. José Agostinho Sequeira declared that Alkatiri and Guterres were no longer alternatives. Sequeira had failed as a candidate for the party presidency at a party congress in September 2022. The internal opponents of the party leadership included, among others, Rui Maria de Araújo, Osório Florindo, and Luís Maria Lobato. Lere Anan Timur was also present at a meeting of the inner-party opposition. The former general had run against his party colleague Guterres in the last presidential election, but presented himself as a member of a leadership troika with Alkatiri and Guterres during the parliamentary election.",
+              "references": [
+                {
+                  "text": "<ref name=\":14\">{{Cite web |date=2023-05-23 |title=Oposição na Fretilin quer demissão de liderança após derrota \"humilhante\" |url=https://www.rtp.pt/noticias/mundo/oposicao-na-fretilin-quer-demissao-de-lideranca-apos-derrota-humilhante_n1488422 |access-date=2023-05-24 |website=RTP |language=pt}}</ref>",
+                  "url": "https://www.rtp.pt/noticias/mundo/oposicao-na-fretilin-quer-demissao-de-lideranca-apos-derrota-humilhante_n1488422",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s3",
+              "text": "The outgoing government is said to have suffered as a result of the electorate's dissatisfaction with the instability of its member parties, which were held responsible for disrupting the functioning of the institutions in the midst of the Covid-19 pandemic.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web  |date=2023-05-24 |title=Timor-Leste's opposition party wins election 'punishing' ruling Fretilin coalition |website=Asia Pacific Report |url=https://asiapacificreport.nz/2023/05/24/timor-lestes-opposition-party-wins-election-in-major-upset-to-ruling-coalition/ |access-date=2023-05-30 |language=en-US}}</ref>",
+                  "url": "https://asiapacificreport.nz/2023/05/24/timor-lestes-opposition-party-wins-election-in-major-upset-to-ruling-coalition/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":14\" /> After acknowledging the results, Fidelis Leite Magalhães, Minister of the Presidency of the Council of Ministers (Timor-Leste)|Minister of the Presidency of the Council of Ministers, said the previous government would work with the future one to ensure a \"dignified and quality Peaceful transition of power|transition\".<ref>{{Cite web |last=Lusa |date=23 May 2023 |title=Governo vai cooperar para transição condigna e de qualidade – ministro |url=https://www.facebook.com/groups/291447921596101/posts/1456774121730136/ |access-date=2023-05-24 |website=Facebook |language=en}}</ref>",
+                  "url": "https://www.facebook.com/login/?next=https://www.facebook.com/groups/291447921596101/posts/1456774121730136/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Meilana |first=Gantry |date=24 May 2023 |title=Timor-Leste's Opposition Party Wins Most Seats in Parliamentary Election |url=https://thediplomat.com/2023/05/timor-lestes-opposition-party-wins-most-seats-in-parliamentary-election/ |access-date=2023-05-30 |website=thediplomat.com |language=en-US}}</ref>",
+                  "url": "https://thediplomat.com/2023/05/timor-lestes-opposition-party-wins-most-seats-in-parliamentary-election/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s4",
+              "text": "However, the date of the inauguration of the new MPs had to be set by Speaker Lopes and after the elections there were demands from the old governing parties to postpone the date to September. According to them, the current legislative period would last that long. In the meantime, the old government used the time after the elections to discuss new laws. President Ramos-Horta insisted on being sworn in within two weeks of the election, in accordance with the constitution. The Supreme Court confirmed the results of the elections on 5 June as the last formal step for their validity. The next day, after a meeting lasting more than two and a half hours, the leaders of the parliamentary groups agreed on 22 June as the date for the inauguration. This would be in accordance with the parliament's rules of procedure, which stipulate the 15th day after the Supreme Court has confirmed the election as the latest date. The decision of 5 June was only published in the Jornal da República the following day, so the latest date was 21 June. The CNRT had accepted this interpretation as a compromise, as the old ruling parties continued to insist on a September date for the transfer of power. The election of the President of Parliament will take place on 23 June and the election of the rest of the presidency on 26 June.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=PR timorense contra adiamento de tomada de posse de novos deputados |url=https://24.sapo.pt/noticias/pr-timorense-contra-adiamento-de-tomada-de_6479bd1da68aa948e016a97b |access-date=2023-06-11 |website=SAPO 24 |language=pt}}</ref>",
+                  "url": "https://24.sapo.pt/noticias/pr-timorense-contra-adiamento-de-tomada-de_6479bd1da68aa948e016a97b",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |work=A Semana |title=Timor-Leste/Eleições: Tribunal de Recurso certifica resultados definitivos das legislativas - Primeiro diário caboverdiano em linha|url=https://www.asemana.publ.cv/?Timor-Leste-Eleicoes-Tribunal-de-Recurso-certifica-resultados-definitivos-das&ak=1 |access-date=2023-06-11}}</ref>",
+                  "url": "https://www.asemana.publ.cv/?Timor-Leste-Eleicoes-Tribunal-de-Recurso-certifica-resultados-definitivos-das&ak=1",
+                  "status_code": null,
+                  "reason": "Cannot connect to host www.asemana.publ.cv:443 ssl:default [Could not contact DNS servers]",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-06-06 |title=Tomada de posse de novos deputados timorenses a 22 de junho |url=https://www.rtp.pt/noticias/mundo/tomada-de-posse-de-novos-deputados-timorenses-a-22-de-junho_n1491484 |access-date=2023-06-11 |website=Rádio e Televisão de |language=pt}}</ref>",
+                  "url": "https://www.rtp.pt/noticias/mundo/tomada-de-posse-de-novos-deputados-timorenses-a-22-de-junho_n1491484",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":16\">{{Cite web |date=2023-06-09 |title=Líderes de partidos do novo Governo timorense analisam calendário da posse com PR |url=https://visao.pt/atualidade/mundo/2023-06-09-lideres-de-partidos-do-novo-governo-timorense-analisam-calendario-da-posse-com-pr/ |access-date=2023-06-11 |website=Visão |language=pt-PT}}</ref>",
+                  "url": "https://visao.pt/atualidade/mundo/2023-06-09-lideres-de-partidos-do-novo-governo-timorense-analisam-calendario-da-posse-com-pr/",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s5",
+              "text": "On 5 June, it was announced that the CNRT and the Democratic Party had come to an agreement on a governing coalition. During the announcement, CNRT secretary-general Francisco Kalbuadi Lay revealed that Xanana Gusmão would be the coalition's prime ministerial choice.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2023-06-05 |title=CNRT vence eleições parlamentares do Timor Leste |url=https://portuguese.cri.cn/2023/06/05/ARTIXwtce5bUw1h9LpUS85dw230605.shtml |access-date=2023-06-08 |website=China Radio International}}</ref>",
+                  "url": "https://portuguese.cri.cn/2023/06/05/ARTIXwtce5bUw1h9LpUS85dw230605.shtml",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Martins |first=Filomeno |date=2023-06-05 |title=CNRT and PD officially agree to form coalition government |url=https://en.tatoli.tl/2023/06/05/cnrt-and-pd-officially-agree-to-form-coalition-government/21/ |access-date=2023-06-09 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US}}</ref>",
+                  "url": "https://en.tatoli.tl/2023/06/05/cnrt-and-pd-officially-agree-to-form-coalition-government/21/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s6",
+              "text": "On 7 June, the VIII Constitutional Government of Timor-Leste|VIII Constitutional Government met for the last time. President Ramos-Horta met semi-officially with CNRT and PD representatives on 9 June to discuss the timetable for forming IX Constitutional Government of Timor-Leste|the new IX Constitutional Government. On 29 June, the President of the Republic is to receive the Prime Minister-designate and the following day sign the decree appointing the new government, which will then be sworn in on 1 July. Ramos-Horta demanded that not all government employees who belong to another party be dismissed. In the past, this had even included and affected cleaners and cleaning staff of the government.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2023-06-07 |title=Governo timorense realiza última reunião e aprova relatório final do executivo |url=https://www.rtp.pt/noticias/mundo/governo-timorense-realiza-ultima-reuniao-e-aprova-relatorio-final-do-executivo_n1491690 |access-date=2023-06-11 |website=RTP |language=pt}}</ref>",
+                  "url": "https://www.rtp.pt/noticias/mundo/governo-timorense-realiza-ultima-reuniao-e-aprova-relatorio-final-do-executivo_n1491690",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":16\" /><ref>{{Cite web |date=2023-06-06 |title=Presidente timorense vai reunir-se com Xanana Gusmão para discutir novo Governo |url=https://www.rtp.pt/noticias/mundo/presidente-timorense-vai-reunir-se-com-xanana-gusmao-para-discutir-novo-governo_n1491436 |access-date=2023-06-11 |website=RTP |language=pt}}</ref>",
+                  "url": "https://www.rtp.pt/noticias/mundo/presidente-timorense-vai-reunir-se-com-xanana-gusmao-para-discutir-novo-governo_n1491436",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s7",
+              "text": "On 22 June as scheduled the new parliament was sworn in. During its first plenary session it elected CNRT's Maria Fernanda Lay as house speaker, the first female house speaker in East Timorese history. Later on 26 June CNRT's Maria Teresinha Veigas and PD's Alexandrino Afonso Nunez were elected deputy house speakers.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Martins |first=Filomeno |date=2023-06-22 |title=Timor-Leste parliament swore in, Maria Fernanda Lay Elected as Speaker of the House |url=https://en.tatoli.tl/2023/06/22/timor-leste-parliament-swore-in-mari-fernanda-lay-elected-as-house-speaker/14/ |access-date=2023-06-26 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US}}</ref>",
+                  "url": "https://en.tatoli.tl/2023/06/22/timor-leste-parliament-swore-in-mari-fernanda-lay-elected-as-house-speaker/14/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Martins |first=Filomeno |date=2023-06-26 |title=MPs elect vice presidents and secretary of Parliament |url=https://en.tatoli.tl/2023/06/26/mps-elect-vice-presidents-and-secretary-of-parliament/15/ |access-date=2023-06-30 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US}}</ref>",
+                  "url": "https://en.tatoli.tl/2023/06/26/mps-elect-vice-presidents-and-secretary-of-parliament/15/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s8",
+              "text": "On 29 June the party president and secretary of both the CNRT and PD presented the list of members of the new government to President Jose Ramos Horta ahead of the scheduled transfer of power from the previous government. The new government composition are as follows; Gusmão as prime minister, Kalbuadi Lay and PD leader Sabino Lopez as deputy prime ministers and a further 22 ministry. Of these ministries 17 went to the CNRT, 3 to the PD, and 2 taken up by independent figures.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Martins |first=Filomeno |date=2023-06-29 |title=Gusmão presents list of members of next Govt to President Horta |url=https://en.tatoli.tl/2023/06/29/gusmao-presents-list-of-members-of-next-govt-to-president-horta/19/ |access-date=2023-06-30 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US}}</ref>",
+                  "url": "https://en.tatoli.tl/2023/06/29/gusmao-presents-list-of-members-of-next-govt-to-president-horta/19/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=de Sousa |first=Nelson |date=2023-06-30 |title=PR Horta dekreta lista IX Governu |url=https://tatoli.tl/2023/06/30/pr-horta-dekreta-lista-ix-governu/ |access-date=2023-07-01 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US}}</ref>",
+                  "url": "https://tatoli.tl/2023/06/30/pr-horta-dekreta-lista-ix-governu/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s9",
+              "text": "On 1 July the new government was sworn in during an official ceremony attended by delegations from ASEAN countries on the grounds of the presidential palace, in his speech during the ceremony president Ramos-Horta urge the new government to make Timor Leste's ascension into ASEAN a top priority. Gusmão in his speech at the ceremony call on his ministers to carry out their duties accordingly adding that those who doesn't perform will be replaced.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Martins |first=Filomeno |date=2023-07-01 |title=Xanana Gusmão sworn in as Timor-Leste's new Prime Minister |url=https://en.tatoli.tl/2023/07/01/xanana-gusmao-sworn-in-as-timor-lestes-new-prime-minister/19/ |access-date=2023-07-02 |website=TATOLI Agência Noticiosa de Timor-Leste |language=en-US}}</ref>",
+                  "url": "https://en.tatoli.tl/2023/07/01/xanana-gusmao-sworn-in-as-timor-lestes-new-prime-minister/19/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Bibliography",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

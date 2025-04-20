@@ -4,7 +4,7 @@
 {{Infobox election
 | country = South Korea
 | type = legislative
-| previous_election = 2020 South Korean legislative election | previous_year = 2020 | next_election = 2028 South Korean legislative election | next_year = 2028
+| previous_election = 2020 South Korean legislative election | previous_year = 2020 | next_election = 2028 South Korean legislative election | next_year = ''2028''
 | outgoing_members = List of members of the National Assembly (South Korea), 2020–2024 | elected_members = List of members of the National Assembly (South Korea), 2024–2028
 | seats_for_election = All 300 seats in the [[National Assembly (South Korea)|National Assembly]]
 | majority_seats = 151
@@ -13,7 +13,7 @@
 | 1blank = Constituency&nbsp;vote | 2blank = % and swing
 | 3blank = Regional vote          | 4blank = % and swing
 
-| image1 = Lee_Jae-myung_presidential_candidate_portrait.jpg
+| image1 = Lee Jae-myung January 2025.jpg
 | leader1 = [[Lee Jae-myung]]
 | party1 = [[Democratic Party (South Korea, 2015)|Democratic]]
 | alliance1 = [[Democratic Alliance of Korea|Democratic Alliance]]{{efn|name=DPK|For the proportional seats}}
@@ -56,7 +56,7 @@
 | map_image = 2024 Republic of Korea legislative election.svg
 | map_caption = Results of the election.
 
-| title = [[Speaker of the National Assembly of South Korea|Speaker]]
+| title = [[Speaker of the National Assembly (South Korea)|Speaker]]
 | before_election = [[Kim Jin-pyo (politician)|Kim Jin-pyo]] | before_party = Democratic Party (South Korea, 2015)
 | after_election = [[Woo Won-shik]]                          | after_party = Democratic Party (South Korea, 2015)
 }}
@@ -73,7 +73,7 @@ On 28 February 2024, the ruling and opposition parties reached a consensus to re
 
 ==Electoral system==
 {{see also|Elections in South Korea|Legislative elections in South Korea}}
-The [[National Assembly (South Korea)|National Assembly]]'s 300 seats were elected by the [[parallel voting]]:<ref>{{Cite web |date=9 April 2024 |title=A Guide to South Korea's 2024 National Assembly Election |url=https://keia.org/the-peninsula/a-guide-to-south-koreas-2024-national-assembly-election/ |access-date=10 April 2024 |website=Korea Economic Institute of America |language=en}}</ref><ref>{{Cite web |last=Seung-yeon |first=Kim |date=27 March 2024 |title=April elections campaign to kick off as parties race for crucial votes |url=https://en.yna.co.kr/view/AEN20240327006100315 |access-date=10 April 2024 |website=[[Yonhap News Agency]] |language=en |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410202441/https://en.yna.co.kr/view/AEN20240327006100315 |url-status=live }}</ref>
+The [[National Assembly (South Korea)|National Assembly]]'s 300 seats were elected by a [[Mixed-member majoritarian representation|mixed-member majoritarian]] electoral system with ''de facto'' [[parallel voting]]:<ref>{{Cite web |date=9 April 2024 |title=A Guide to South Korea's 2024 National Assembly Election |url=https://keia.org/the-peninsula/a-guide-to-south-koreas-2024-national-assembly-election/ |access-date=10 April 2024 |website=Korea Economic Institute of America |language=en}}</ref><ref>{{Cite web |last=Seung-yeon |first=Kim |date=27 March 2024 |title=April elections campaign to kick off as parties race for crucial votes |url=https://en.yna.co.kr/view/AEN20240327006100315 |access-date=10 April 2024 |website=[[Yonhap News Agency]] |language=en |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410202441/https://en.yna.co.kr/view/AEN20240327006100315 |url-status=live }}</ref>
 *254 [[South Korean Legislature Constituencies|constituency seats]] are elected via [[first-past-the-post voting]]
 *46 seats are elected by [[Proportional representation (South Korean constituency)|proportional representation]] using [[largest remainder method]].{{Clarify|reason=How many via the additional member system versus the parallel voting system?|date=January 2025}}
 
@@ -440,7 +440,7 @@ The election also saw the highest number of invalid votes cast for proportional 
 |alliance16=[[Saenuri Party (2017)|Saenuri Party]]|votes16=57210|seats16=0|r2blockc16=3|totseats16=0|sc16=
 |alliance17={{ill|Freedom and Democracy Party (South Korea)|ko|자유민주당 (대한민국, 2021년)|lt=Freedom and Democracy Party}}|votes17=39977|seats17=0|votes17_2=1245|seats17_2=0|totseats17=0|sc17=|acolor17=#054EA0
 |alliance18={{ill|Christian Party (South Korea)|ko|기독당 (대한민국)|lt=Christian Party}}|votes18=36117|seats18=0|votes18_2=218|seats18_2=0|totseats18=0|sc18=|acolor18=#755191
-|alliance19=[[Grand National Unity Party]]|votes19=30323|seats19=0|r2blockc19=3|totseats19=0|sc19=|acolor19=#F26F21
+|alliance19={{ill|Grand National Unity Party (2015)|ko|국민대통합당 (2015년)|lt=Grand National Unity Party}}|votes19=30323|seats19=0|r2blockc19=3|totseats19=0|sc19=|acolor19=#002B58
 |alliance20=[[Our Republican Party (2020)|Our Republican Party]]|votes20=29895|seats20=0|votes20_2=12814|seats20_2=0|totseats20=0|sc20=
 |alliance21={{ill|Great Korea Party|ko|가가호호공명선거대한당}}|votes21=29481|seats21=0|r2blockc21=3|totseats21=0|sc21=|acolor21=#670099
 |alliance22=[[Women's Party (South Korea)|Women's Party]]|votes22=28942|seats22=0|r2blockc22=3|totseats22=0|sc22=
@@ -2995,8 +2995,8 @@ The election also saw the highest number of invalid votes cast for proportional 
 |align="right"|0
 |
 |-
-|bgcolor=#F26F21|
-|[[Grand National Unity Party]]<ref name=":1" />
+|bgcolor=#002B58|
+|Grand National Unity Party<ref name=":1" />
 |align="right"|2
 |align="right"|0
 |

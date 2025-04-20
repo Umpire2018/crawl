@@ -14,8 +14,8 @@
                 {
                   "text": "<ref>{{cite web|url=https://www.reuters.com/world/africa/senegals-president-sets-parliament-election-nov-17-2024-09-12/|title=Senegal's president sets parliament election on Nov. 17|website=Reuters|date=14 September 2024}}</ref>",
                   "url": "https://www.reuters.com/world/africa/senegals-president-sets-parliament-election-nov-17-2024-09-12/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 }
               ]
@@ -37,7 +37,7 @@
                 {
                   "text": "<ref>{{Cite web |title=Senegal's president dissolves parliament to call a snap legislative election |url=https://apnews.com/article/senegal-president-dissolves-parliament-faye-581a6f55ead32310f792c30758e40ced |access-date=13 September 2024 |website=Associated Press |date=12 September 2024 |language=en}}</ref>",
                   "url": "https://apnews.com/article/senegal-president-dissolves-parliament-faye-581a6f55ead32310f792c30758e40ced",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -67,8 +67,8 @@
                 {
                   "text": "<ref>{{cite web|title=Senegal Assemblée nationale (National Assembly)|url=http://www.ipu.org/parline-e/reports/2277_B.htm|website=Inter-Parliamentary Union|accessdate=17 June 2017}}</ref>",
                   "url": "http://www.ipu.org/parline-e/reports/2277_B.htm",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -90,7 +90,7 @@
                 {
                   "text": "<ref>{{Cite news |date=30 September 2024 |title=Inter-coalition dans presque tous les départements : \" Takku Wallu Sénégal \", \" Samm Sa Kaddu \" et \" Jamm Ak Njariñ \" se sont dits OUI |url=https://www.sudquotidien.sn/inter-coalition-dans-presque-tous-les-departements-takku-wallu-senegal-samm-sa-kaddu-et-jamm-ak-njarin-se-sont-dits-oui/ |access-date=18 November 2024 |work=Sud Quotidien}}</ref>",
                   "url": "https://www.sudquotidien.sn/inter-coalition-dans-presque-tous-les-departements-takku-wallu-senegal-samm-sa-kaddu-et-jamm-ak-njarin-se-sont-dits-oui/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -103,7 +103,7 @@
                 {
                   "text": "<ref>{{Cite web |date=3 October 2024 |title=Senegal's opposition coalition names former Pres. Macky Sall as its lead candidate |url=https://www.africanews.com/2024/10/02/senegals-opposition-coalition-names-former-pres-macky-sall-as-its-lead-candidate/ |access-date=3 October 2024 |website=Africanews |language=en}}</ref>",
                   "url": "https://www.africanews.com/2024/10/02/senegals-opposition-coalition-names-former-pres-macky-sall-as-its-lead-candidate/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -126,21 +126,21 @@
                 {
                   "text": "<ref>{{Cite web |title=Senegal PM Sonko's convoy attacked while campaigning for snap polls, party says |url=https://www.france24.com/en/africa/20241031-senegal-pm-sonko-s-convoy-attacked-while-campaigning-for-snap-polls-party-says |access-date=31 October 2024 |website=France 24 |date=31 October 2024 |language=en}}</ref>",
                   "url": "https://www.france24.com/en/africa/20241031-senegal-pm-sonko-s-convoy-attacked-while-campaigning-for-snap-polls-party-says",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Senegal enters last day of tense campaign ahead of key legislative election |url=https://apnews.com/article/senegal-legislative-election-sonko-faye-3cbbfed928b28ab34c52154468dd16ce |access-date=15 November 2024 |website=Associated Press |language=en}}</ref>",
                   "url": "https://apnews.com/article/senegal-legislative-election-sonko-faye-3cbbfed928b28ab34c52154468dd16ce",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Senegal votes in election that will decide if president can carry out the reforms he promised |url=https://apnews.com/article/senegal-election-bassirou-diomaye-faye-pastef-52d97319ade0efc750ea3bc5f50877f6 |access-date=17 November 2024 |website=Associated Press |language=en}}</ref>",
                   "url": "https://apnews.com/article/senegal-election-bassirou-diomaye-faye-pastef-52d97319ade0efc750ea3bc5f50877f6",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -153,7 +153,7 @@
                 {
                   "text": "<ref>{{Cite web |title=Senegal votes as President Faye eyes parliamentary majority to push reforms |url=https://www.aljazeera.com/news/2024/11/17/senegal-votes-as-president-faye-eyes-parliamentary-majority-to-push-reforms |access-date=17 November 2024 |website=Al Jazeera |language=en}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/11/17/senegal-votes-as-president-faye-eyes-parliamentary-majority-to-push-reforms",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -176,49 +176,49 @@
                 {
                   "text": "<ref>{{Cite web |title= Afrique Législatives au Sénégal: le parti au pouvoir Pastef revendique une «large victoire» |url=https://www.rfi.fr/fr/afrique/20241117-l%C3%A9gislatives-au-s%C3%A9n%C3%A9gal-le-parti-au-pouvoir-pastef-remporte-une-large-victoire |access-date=18 November 2024 |website=RFI |language=fr}}</ref>",
                   "url": "https://www.rfi.fr/fr/afrique/20241117-l%C3%A9gislatives-au-s%C3%A9n%C3%A9gal-le-parti-au-pouvoir-pastef-remporte-une-large-victoire",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Provisional results confirm victory for Senegal's ruling Pastef party |url=https://www.africanews.com/2024/11/20/provisional-results-confirm-victory-for-senegals-ruling-pastef-party/ |access-date=20 November 2024 |website=Africanews |language=en}}</ref>",
                   "url": "https://www.africanews.com/2024/11/20/provisional-results-confirm-victory-for-senegals-ruling-pastef-party/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Senegal's radical government claims 'large victory' in legislative polls |url=https://www.bbc.com/news/articles/c1wj4dwvj1po |access-date=18 November 2024 |website=BBC News |language=en}}</ref>",
                   "url": "https://www.bbc.com/news/articles/c1wj4dwvj1po",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Senegal ruling party claims 'large victory' in elections |url=https://www.france24.com/en/live-news/20241117-senegal-counts-votes-as-new-leaders-eye-parliamentary-win |access-date=18 November 2024 |website=France 24 |language=en}}</ref>",
                   "url": "https://www.france24.com/en/live-news/20241117-senegal-counts-votes-as-new-leaders-eye-parliamentary-win",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Senegal's ruling party poised for parliamentary majority in boost for reform agenda |url=https://apnews.com/article/senegal-legislative-election-president-reforms-edaa944a674a9dc5dff57e88a2b2029a |access-date=18 November 2024 |website=Associated Press |language=en}}</ref>",
                   "url": "https://apnews.com/article/senegal-legislative-election-president-reforms-edaa944a674a9dc5dff57e88a2b2029a",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Sénégal: le parti au pouvoir Pastef remporte haut la main les législatives anticipées du 17 novembre |url=https://www.rfi.fr/fr/afrique/20241121-s%C3%A9n%C3%A9gal-le-parti-au-pouvoir-pastef-remporte-haut-la-main-les-l%C3%A9gislatives-anticip%C3%A9es-du-17-novembre |access-date=22 November 2024 |website=Radio France International|language=fr}}</ref>",
                   "url": "https://www.rfi.fr/fr/afrique/20241121-s%C3%A9n%C3%A9gal-le-parti-au-pouvoir-pastef-remporte-haut-la-main-les-l%C3%A9gislatives-anticip%C3%A9es-du-17-novembre",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Senegal ruling party wins parliamentary majority: provisional results |url=https://www.france24.com/en/live-news/20241121-senegal-ruling-party-wins-parliamentary-majority-provisional-results |access-date=22 November 2024 |website=France 24|language=en}}</ref>",
                   "url": "https://www.france24.com/en/live-news/20241121-senegal-ruling-party-wins-parliamentary-majority-provisional-results",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

@@ -1,0 +1,60 @@
+{
+  "title": "2025_Saint_Helena_general_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "'''General elections''' will be held in Saint Helena on 3 September 2025.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Government |first=St Helena |date=2025-02-10 |title=General Election 2025 |url=https://www.sainthelena.gov.sh/2025/press-releases/general-election-2025/ |access-date=2025-03-12 |website=St Helena Government |language=en-US}}</ref>",
+                  "url": "https://www.sainthelena.gov.sh/2025/press-releases/general-election-2025/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The 12 seats in the Legislative Council of Saint Helena|Legislative Council are elected by plurality-at-large voting, with voters allowed to cast up to 12 votes. There are no registered political parties, so all candidates ran as independents.",
+              "references": [
+                {
+                  "text": "<ref name=SHG>[http://www.sainthelena.gov.sh/general-election-2017-6/ General election 2017] St Helena Government, 25 July 2017</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

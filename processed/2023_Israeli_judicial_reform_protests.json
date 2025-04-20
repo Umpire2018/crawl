@@ -1,0 +1,1586 @@
+{
+  "title": "2023_Israeli_judicial_reform_protests",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "From January to October 2023, large-scale protests took place across Israel in response to the government's push for a 2023 Israeli judicial reform|wide-ranging judicial reform. The proposed reform aimed to give the government full control of the Supreme Court of Israel|Supreme Court or court decisions through various ways. The government also attempted to dismantle the Israel Bar Association and change the makeup of the Judicial Selection Committee (Israel)|Judicial Selection Committee.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite journal |last=Segev |first=Joshua |date=2024-03-01 |title=The 2023 Judicial Reform That Wasn't: From Non-decision Constitution-Making to Decision and Back |url=http://berghahnjournals.com/view/journals/israel-studies-review/39/1/isr390103.xml |journal=Israel Studies Review |volume=39 |issue=1 |pages=39 |doi=10.3167/isr.2024.390103 |issn=2159-0370}}</ref>",
+                  "url": "http://berghahnjournals.com/view/journals/israel-studies-review/39/1/isr390103.xml",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "journal"
+                },
+                {
+                  "text": "<ref name=\":10\">{{Cite web |title=להיכן הגיעה ההפיכה המשטרית? תמונת מצב של בליץ החקיקה |url=https://www.haaretz.co.il/news/politi/2023-03-07/ty-article-magazine/00000186-b118-d12c-a3af-b7fac2090000 |website=Haaretz}}</ref>",
+                  "url": "https://www.haaretz.co.il/news/politi/2023-03-07/ty-article-magazine/00000186-b118-d12c-a3af-b7fac2090000",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "1.s2",
+              "text": "The reform was promoted by Justice Minister Yariv Levin with the backing of Prime Minister Benjamin Netanyahu and the leaders of the other parties in Thirty-seventh government of Israel|the governing coalition, but was opposed by opposition parties as well as a large segment of the Israeli public. They were faced with questions on how much, if at all, they should focus on Palestinian rights. Statements by Israeli figures linked the aim of the reform to the expansion of Israeli settlement|Israeli settlements and further annexation of Israeli-occupied territories|Israeli-occupied Palestinian territories. and the ruling coalition would have lost 11 seats in a new round of elections according to polls published by September 2023. In July 2023, the Knesset passed a law to abolish the Supreme Court's ability to review government actions on grounds of reasonableness, but it was repealed by the Supreme Court on 1 January 2024.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |last1=Peleg |first1=Bar |last2=Breiner |first2=Josh |last3=Freidson |first3=Yael |last4=Hashmonai |first4=Adi |last5=Shimoni |first5=Ran |date=January 15, 2023 |title=Israel Protest {{!}} 'We Are Not Afraid': 80,000 Demonstrate Extremist Netanyahu Gov't in Tel Aviv |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-01-15/ty-article/.premium/anti-govt-protests-draw-80-000-people-in-tel-aviv-crowds-across-israel-for-second-week/00000185-b215-d30a-a59f-f3d5dc7e0000 |url-access=subscription |access-date=2023-07-03 |archive-date=26 March 2023 |archive-url=https://web.archive.org/web/20230326134339/https://www.haaretz.com/israel-news/2023-01-15/ty-article/.premium/anti-govt-protests-draw-80-000-people-in-tel-aviv-crowds-across-israel-for-second-week/00000185-b215-d30a-a59f-f3d5dc7e0000 |url-status=live }}</ref>",
+                  "url": "https://www.haaretz.com/israel-news/2023-01-15/ty-article/.premium/anti-govt-protests-draw-80-000-people-in-tel-aviv-crowds-across-israel-for-second-week/00000185-b215-d30a-a59f-f3d5dc7e0000",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Pfeffer |first=Anshel |date=15 January 2023 |title=The Tel Aviv Protest Was a Success, but It's Only the First Test in a Long Struggle |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-01-15/ty-article/.highlight/the-tel-aviv-protest-was-a-success-but-its-only-the-first-test-in-a-long-struggle/00000185-b481-d2c1-afe7-fca7e2e20000 |url-access=subscription |access-date=2023-07-03 |archive-date=26 March 2023 |archive-url=https://web.archive.org/web/20230326190007/https://www.haaretz.com/israel-news/2023-01-15/ty-article/.highlight/the-tel-aviv-protest-was-a-success-but-its-only-the-first-test-in-a-long-struggle/00000185-b481-d2c1-afe7-fca7e2e20000 |url-status=live }}</ref>",
+                  "url": "https://www.haaretz.com/israel-news/2023-01-15/ty-article/.highlight/the-tel-aviv-protest-was-a-success-but-its-only-the-first-test-in-a-long-struggle/00000185-b481-d2c1-afe7-fca7e2e20000",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"TOIHM\">{{cite web |date=9 August 2023 |title=Liberal US Jews urge greater focus on Palestinians in Israeli anti-overhaul protests |url=https://www.timesofisrael.com/liberal-us-jews-urge-greater-focus-on-palestinians-in-israeli-anti-overhaul-protests/ |accessdate=7 September 2023 |work=The Times of Israel}}</ref>",
+                  "url": "https://www.timesofisrael.com/liberal-us-jews-urge-greater-focus-on-palestinians-in-israeli-anti-overhaul-protests/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"WPEC\" /> The protests were effective in delaying the reform,<ref>{{Cite web |title=Israel government to delay disputed judiciary bill amid mass protests |url=https://www.reuters.com/world/middle-east/israeli-president-urges-halt-judicial-overhaul-after-protests-2023-03-27/ |website=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/israeli-president-urges-halt-judicial-overhaul-after-protests-2023-03-27/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=סקר ערוץ 13: הקואליציה עם 53 מנדטים, גנץ ממשיך להוביל על נתניהו |url=https://www.haaretz.co.il/news/politi/2023-09-13/ty-article/0000018a-8fe1-d077-a7da-efeb03070000 |website=Haaretz}}</ref>",
+                  "url": "https://www.haaretz.co.il/news/politi/2023-09-13/ty-article/0000018a-8fe1-d077-a7da-efeb03070000",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=i24NEWS |url=https://www.i24news.tv/en/news/israel/politics/1704126904-israel-high-court-strikes-down-law-repealing-the-reasonableness-standard-a-key-plank-of-the-govt-s-judicial-reform |access-date=2024-06-28 |website=www.i24news.tv}}</ref>",
+                  "url": "https://www.i24news.tv/en/news/israel/politics/1704126904-israel-high-court-strikes-down-law-repealing-the-reasonableness-standard-a-key-plank-of-the-govt-s-judicial-reform",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "1.s3",
+              "text": "The protests came to an end following the October 7 Hamas-led attack on Israel|Hamas-led attack on Israel on 7 October 2023 and the ensuing Gaza war, with sporadic demonstrations continuing until the formation of a Israeli war cabinet|war cabinet on 12 October. The protests 2023–2025 Israeli hostage deal protests|partially resumed later in 2023, as part of Gaza war protests in Israel|broader protests in the country related to the war.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Israeli protests reignite as Netanyahu pushes new justice bill |url=https://www.aljazeera.com/news/2023/7/9/israeli-protests-reignite-as-netanyahu-pushes-new-justice-bill |url-status=live |archive-url=https://web.archive.org/web/20230710041930/https://www.aljazeera.com/news/2023/7/9/israeli-protests-reignite-as-netanyahu-pushes-new-justice-bill |archive-date=10 July 2023 |access-date=2023-07-10 |website=Al Jazeera |language=en}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/7/9/israeli-protests-reignite-as-netanyahu-pushes-new-justice-bill",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Margalit |first=Ruth |date=2023-09-27 |title=How Benjamin Netanyahu Pushed Israel Into Chaos |url=https://www.nytimes.com/2023/09/27/magazine/benjamin-netanyahu-israel.html |access-date=2023-09-27 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>",
+                  "url": "https://www.nytimes.com/2023/09/27/magazine/benjamin-netanyahu-israel.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":7\">{{Cite web |last=Lev Ram |first=Tal |date=2023-10-07 |title=ב\"אחים לנשק\" מפסיקים את המחאה: \"קוראים להתייצב להגנת ישראל\" |trans-title=Brothers in Arms call to stop the protests: \"They call to stand up for the defense of Israel\" |url=https://www.maariv.co.il/news/military/Article-1043152 |access-date=2023-10-07 |website=Maariv}}</ref>",
+                  "url": "https://www.maariv.co.il/news/military/Article-1043152",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":8\">{{Cite web |last=Bohbot |first=Amir |date=2023-10-07 |title=המחאה מתגייסת: אחים לנשק הודיעו על תמיכה בגיוס מילואים |trans-title=The protesters are mobilizing: Brothers in Arms announced their support for the recruitment of reserves |url=https://news.walla.co.il/item/3614218 |access-date=2023-10-07 |website=Walla! |language=he}}</ref>",
+                  "url": "https://news.walla.co.il/item/3614218",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=ההפיכה משתוללת, אנחנו בסכנה למשטר טוטליטרי: האזהרה המדהימה של שופטת העליון ענת ברון |url=https://www.haaretz.co.il/magazine/2024-06-27/ty-article-magazine/.highlight/00000190-5343-d37f-a392-7beb085a0000 |website=Haaretz}}</ref>",
+                  "url": "https://www.haaretz.co.il/magazine/2024-06-27/ty-article-magazine/.highlight/00000190-5343-d37f-a392-7beb085a0000",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "{{Further|Trial of Benjamin Netanyahu|2023 Israeli judicial reform|Reactions to the 2023 Israeli judicial reform}}\nSince the 2018–2022 Israeli political crisis|political crisis beginning in 2018, multiple snap elections were held following unsuccessful attempts to form a Coalition government|governing coalition. The 2021 Israeli legislative election|2021 election was the first to have resulted in a successful government formation. The incumbent coalition, which held a one-seat majority, collapsed in June 2022 after a member defected. In the 2022 Israeli legislative election|snap legislative election that followed, the Thirty-sixth government of Israel|incumbent government, led by Yair Lapid, was defeated by a coalition of right-wing parties, led by former prime minister Benjamin Netanyahu, who formed a Thirty-seventh government of Israel|new government that took office on 29 December 2022.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |last=Fitoussi |first=Olivier |date=3 November 2022 |title=Israel election: Final results show Netanyahu bloc at 64 seats |publisher=i24NEWS |url=https://www.i24news.tv/en/news/israeli-elections/1667497728-israel-election-final-results-show-netanyahu-bloc-at-64-seats |access-date=6 November 2022 |archive-date=4 November 2022 |archive-url=https://web.archive.org/web/20221104115132/https://www.i24news.tv/en/news/israeli-elections/1667497728-israel-election-final-results-show-netanyahu-bloc-at-64-seats |url-status=live}}</ref>",
+                  "url": "https://www.i24news.tv/en/news/israeli-elections/1667497728-israel-election-final-results-show-netanyahu-bloc-at-64-seats",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"BBCswearing\">{{Cite news |last1=Knell |first1=Yollande |last2=Gritten |first2=David |date=29 December 2022 |title=Netanyahu's hard-line new government takes office in Israel |url=https://www.bbc.com/news/world-middle-east-64115141 |access-date=29 December 2022 |publisher=BBC News |archive-date=29 December 2022 |archive-url=https://web.archive.org/web/20221229140955/https://www.bbc.com/news/world-middle-east-64115141 |url-status=live}}</ref>",
+                  "url": "https://www.bbc.com/news/world-middle-east-64115141",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "On 4 January 2023, newly appointed Justice Minister Yariv Levin announced 2023 Israeli judicial reform|plans to reform Israel's judiciary, including limiting the power of the Supreme Court and of the government's legal councillors and granting the governing coalition a majority on the committee that appoints judges. Following the announcement, several organisations, including Crime Minister and Standing Together (movement)|Standing Together, announced their intention to organise protests in Tel Aviv on 7 January. On 17 January, the Supreme Court ruled that the recently-appointed Interior Minister Aryeh Deri was unfit for the position due to his criminal record. Netanyahu, who was Trial of Benjamin Netanyahu|on trial for corruption-related charges himself, was forced to withdraw Deri.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Sharon |first=Jeremy |title=Justice minister unveils plan to shackle the High Court, overhaul Israel's judiciary |url=https://www.timesofisrael.com/justice-minister-unveils-plan-to-shackle-the-high-court-overhaul-israels-judiciary/ |date=4 January 2023 |access-date=7 February 2023 |website=The Times of Israel |language=en-US |archive-date=6 February 2023 |archive-url=https://web.archive.org/web/20230206055057/https://www.timesofisrael.com/justice-minister-unveils-plan-to-shackle-the-high-court-overhaul-israels-judiciary/ |url-status=live}}</ref>",
+                  "url": "https://www.timesofisrael.com/justice-minister-unveils-plan-to-shackle-the-high-court-overhaul-israels-judiciary/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=7 January 2023 |script-title=he:אלפי מפגינים נגד הממשלה בכיכר הבימה: \"זו הפיכה משטרית\" |trans-title=Thousands of protesters against the government in Habima Square: 'This is a coup d'état' |url=https://www.ice.co.il/local-news/news/article/924703 |access-date=7 February 2023 |website=Ice |language=he |archive-date=7 February 2023 |archive-url=https://web.archive.org/web/20230207190118/https://www.ice.co.il/local-news/news/article/924703 |url-status=live}}</ref>",
+                  "url": "https://www.ice.co.il/local-news/news/article/924703",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Kershner |first=Isabel |date=2023-01-18 |title=Amid Fight Over Judiciary, Israeli High Court Orders Netanyahu Minister Removed |language=en-US |work=The New York Times |url=https://www.nytimes.com/2023/01/18/world/middleeast/israel-aryeh-deri-netanyahu.html |access-date=2023-07-10 |issn=0362-4331 |archive-date=17 July 2023 |archive-url=https://web.archive.org/web/20230717182647/https://www.nytimes.com/2023/01/18/world/middleeast/israel-aryeh-deri-netanyahu.html |url-status=live }}</ref>",
+                  "url": "https://www.nytimes.com/2023/01/18/world/middleeast/israel-aryeh-deri-netanyahu.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"auto\">{{Cite web |date=2023-07-09 |title=Vor Knesset-Abstimmung – Proteste gegen Justizreform in Israel werden intensiver |url=https://www.srf.ch/news/international/vor-knesset-abstimmung-proteste-gegen-justizreform-in-israel-werden-intensiver |access-date=2023-07-10 |website=Schweizer Radio und Fernsehen (SRF) |language=de |archive-date=10 July 2023 |archive-url=https://web.archive.org/web/20230710065353/https://www.srf.ch/news/international/vor-knesset-abstimmung-proteste-gegen-justizreform-in-israel-werden-intensiver |url-status=live }}</ref>",
+                  "url": "https://www.srf.ch/news/international/vor-knesset-abstimmung-proteste-gegen-justizreform-in-israel-werden-intensiver",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "After Netanyahu announced a pause in the judicial legislation on 27 March, counter-protesters started organising their own demonstrations, with tens of thousands protesting in favour of the changes. Negotiations aimed at reaching a compromise collapsed in June, and the government resumed its plans to pass parts of the legislation; in response, the anti-reform movement ramped up its activities.<ref name=\":1\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Williams |first=Dan |date=30 March 2023 |title=Israelis backing Netanyahu block highway in counter-protest |publisher=Reuters |editor-last=Goller |editor-first=Howard |url=https://www.reuters.com/world/middle-east/israelis-backing-netanyahu-block-highway-counter-protest-2023-03-30/ |url-status=bot: unknown |url-access=registration |access-date=30 March 2023 |archive-url=https://web.archive.org/web/20230403202537/https://www.reuters.com/world/middle-east/israelis-backing-netanyahu-block-highway-counter-protest-2023-03-30/ |archive-date=3 April 2023 }}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/israelis-backing-netanyahu-block-highway-counter-protest-2023-03-30/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s4",
+              "text": "''The Jerusalem Post'' reported that funding for the anti-reform protests primarily came from the public, both in terms of small donations and through volunteer work; larger donors included tech entrepreneurs, as well as organizations including the New Israel Fund, Blue White Future, Our Way, and Commanders for Israel's Security. Supporters named in the article are Ilan Shiloah, Orni Petruschka, Itay Ben-Horin, and Idan Tendler.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Klein |first=Zvika |title=Follow the funds: Tracing the money behind judicial reform protests |url=https://www.jpost.com/israel-news/article-754329 |access-date=2023-08-25 |website=The Jerusalem Post |language=en-US}}</ref>",
+                  "url": "https://www.jpost.com/israel-news/article-754329",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Anti-reform demonstrations",
+      "content": [
+        {
+          "id": "3.1",
+          "title": "7 January–11 February",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.1.s1",
+                  "text": "in Tel Aviv, 28 January 2023]]\nThe first protest took place on 7 January in Tel Aviv|Tel Aviv's Habima Square. It was initially organized by Standing Together (movement)|Standing Together, a Socialism|socialist Arab-Jewish organisation, as a protest against the formation of the thirty-seventh government of Israel. Following Yariv Levin's announcement on 4 January that he planned to reform Israel's judiciary, other organisations, which included Crime Minister, joined the protest, leading a concurrent march from Habima. The combined protests included approximately 20,000 people. In the meantime, a smaller protest took place in Haifa that was attended by 200 people. On 14 January, a second protest was organized at Habima, which was attended by approximately 80,000 protesters, and was joined by smaller rallies in Haifa and Jerusalem that were attended by several thousands.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last=Green |first=David B. |date=March 12, 2020 |title=These Jewish and Arab Israelis Are Creating a New Type of Grassroots Activism |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2020-03-12/ty-article/.premium/these-jewish-and-arab-israelis-are-creating-a-new-type-of-grassroots-activism/0000017f-e325-d568-ad7f-f36ff2130000 |url-status=live |url-access=subscription |access-date=2023-05-05 |archive-url=https://web.archive.org/web/20230327165621/https://www.haaretz.com/israel-news/2020-03-12/ty-article/.premium/these-jewish-and-arab-israelis-are-creating-a-new-type-of-grassroots-activism/0000017f-e325-d568-ad7f-f36ff2130000 |archive-date=27 March 2023}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2020-03-12/ty-article/.premium/these-jewish-and-arab-israelis-are-creating-a-new-type-of-grassroots-activism/0000017f-e325-d568-ad7f-f36ff2130000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":4\">{{Cite web |last=Schneider |first=Tal |date=2023-01-22 |title=עומדים ביחד היו הראשונים להפגין. מאז נדחקו מהמחאה ופניהם לבחירות המקומיות |url=https://www.zman.co.il/366726/ |access-date=2023-05-05 |website=Zman Israel |language=he-IL |archive-date=28 April 2023 |archive-url=https://web.archive.org/web/20230428025948/https://www.zman.co.il/366726/ |url-status=live }}</ref>",
+                      "url": "https://www.zman.co.il/366726/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":4\" /> Omdim Beyachad's protest included Ayman Odeh as a guest speaker.<ref name=\":4\" /><ref>{{Cite news |last=Elimelech |first=Nadav |date=7 January 2023 |script-title=he:\"קבוצת מפגינים פאשיסטים\": איימן עודה הותקף במהלך ההפגנה בתל אביב |language=he |trans-title='Group of fascist demonstrators': Ayman Odeh was attacked during demonstration in Tel Aviv |website=Maariv |url=https://www.maariv.co.il/news/politics/Article-970786 |url-status=live |access-date=7 February 2023 |archive-url=https://web.archive.org/web/20230207205204/https://www.maariv.co.il/news/politics/Article-970786 |archive-date=7 February 2023}}</ref>",
+                      "url": "https://www.maariv.co.il/news/politics/Article-970786",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Peleg |first1=Bar |last2=Shimoni |first2=Ran |last3=Hashmonai |first3=Adi |date=7 January 2023 |title=Thousands March in Tel Aviv in Protest of Netanyahu's Far-right Gov't, Judicial Overhaul |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-01-07/ty-article/.premium/thousands-march-in-tel-aviv-in-protest-of-far-right-govt-judicial-overhaul/00000185-8da9-da33-a9e7-edf9f8440000 |url-status=live |access-date=18 February 2023 |archive-url=https://web.archive.org/web/20230201143954/https://www.haaretz.com/israel-news/2023-01-07/ty-article/.premium/thousands-march-in-tel-aviv-in-protest-of-far-right-govt-judicial-overhaul/00000185-8da9-da33-a9e7-edf9f8440000 |archive-date=1 February 2023}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-01-07/ty-article/.premium/thousands-march-in-tel-aviv-in-protest-of-far-right-govt-judicial-overhaul/00000185-8da9-da33-a9e7-edf9f8440000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":02\">{{Cite news |last1=Peleg |first1=Bar |last2=Shimoni |first2=Ran |last3=Hasmonai |first3=Adi |date=7 January 2023 |script-title=he:אלפים הפגינו נגד הממשלה בתל אביב: \"לא ניתן לכם להפוך אותנו לדיקטטורה\" |language=he |trans-title=Thousands demonstrated against the government in Tel Aviv: 'We will not allow you to turn us into a dictatorship' |work=Haaretz |url=https://www.haaretz.co.il/news/politi/2023-01-07/ty-article/.premium/00000185-8cb6-da33-a9e7-ecff16f30000 |url-status=live |access-date=21 January 2023 |archive-url=https://web.archive.org/web/20230113075447/https://www.haaretz.co.il/news/politi/2023-01-07/ty-article/.premium/00000185-8cb6-da33-a9e7-ecff16f30000 |archive-date=13 January 2023}}</ref>",
+                      "url": "https://www.haaretz.co.il/news/politi/2023-01-07/ty-article/.premium/00000185-8cb6-da33-a9e7-ecff16f30000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Kotev |first1=Adam |last2=Levi |first2=Liran |last3=Turgeman |first3=Meir |last4=Glickman |first4=Eitan |last5=Golditsch |first5=Haim |date=14 January 2023 |title= |script-title=he:80 אלף הפגינו בכיכר הבימה נגד המהפכה המשפטית |language=he |trans-title=80 thousand demonstrated in Habima Square against the revolution |work=Ynet |url=https://www.ynet.co.il/news/article/bklthrgio |url-status=live |access-date=7 February 2023 |archive-url=https://web.archive.org/web/20230119143918/https://www.ynet.co.il/news/article/bklthrgio |archive-date=19 January 2023}}</ref>",
+                      "url": "https://www.ynet.co.il/news/article/bklthrgio",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.1.s2",
+                  "text": "From 14 January to 11 February, protests against the reform were held on a weekly basis in Kaplan Street, alongside smaller protests in Jerusalem, Haifa, Beersheba, and other cities like Ness Ziona and Herzliya. The Kaplan protests were regularly attended by numbers ranging from 60,000 to 150,000 people. Protests in other cities regularly attracted smaller numbers.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last= |first= |title='Night is descending upon Israel': Masses rally against Netanyahu's government |language=en-US |website=The Times of Israel |url=https://www.timesofisrael.com/liveblog-january-21-2023/ |url-status=live |access-date=7 February 2023 |archive-url=https://web.archive.org/web/20230131205925/https://www.timesofisrael.com/liveblog-january-21-2023/ |archive-date=31 January 2023}}</ref>",
+                      "url": "https://www.timesofisrael.com/liveblog-january-21-2023/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Barsky |first=Anna |date=3 February 2023 |script-title=he:11 דיפלומטים בכירים לשעבר מצטרפים למחאה נגד הרפורמה המשפטית |language=he |trans-title=11 former senior diplomats join the protest against the legal reform |website=Maariv |url=https://www.maariv.co.il/news/politics/Article-977739 |url-status=live |access-date=7 February 2023 |archive-url=https://web.archive.org/web/20230207191309/https://www.maariv.co.il/news/politics/Article-977739 |archive-date=7 February 2023}}</ref>",
+                      "url": "https://www.maariv.co.il/news/politics/Article-977739",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Shimoni |first1=Ran |last2=Maltz |first2=Judy |last3=Hashmonai |first3=Adi |last4=Kaplan Sommer |first4=Allison |last5=Yefet |first5=Nati |last6=Freidson |first6=Yael |date=4 February 2023 |title='The Time to Be Polite Is Over': Israelis Rally Against Netanyahu's 'Regime Change' for Fifth Consecutive Week |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-02-04/ty-article/.premium/tens-of-thousands-of-israelis-rally-against-regime-change-for-fifth-consecutive-week/00000186-1da4-d840-a78e-7facf6a20000 |url-status=live |access-date=7 February 2023 |archive-url=https://web.archive.org/web/20230204205918/https://www.haaretz.com/israel-news/2023-02-04/ty-article/.premium/tens-of-thousands-of-israelis-rally-against-regime-change-for-fifth-consecutive-week/00000186-1da4-d840-a78e-7facf6a20000 |archive-date=4 February 2023}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-02-04/ty-article/.premium/tens-of-thousands-of-israelis-rally-against-regime-change-for-fifth-consecutive-week/00000186-1da4-d840-a78e-7facf6a20000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Hilai |first1=Sivan |last2=El-Hai |first2=Lior |last3=Tamari |first3=Liran |last4=Kuriel |first4=Ilana |last5=Elbaz-Alush |first5=Korin |last6=Tugerman |first6=Meir |last7=Ben-Zur |first7=Ra'anan |date=11 February 2023 |script-title=he:רבבות הפגינו בת\"א, על איילון. לבני לממשלה: \"אתם שיכורים מכוח, זה פאשיזם\" |language=he |trans-title=Many protested in Tel Aviv, on Ayalon Highway. [Tzipi] Livni to the government: 'You are drunk with power, this is fascism' |work=Ynet |url=https://www.ynet.co.il/news/article/sjirlrs6o |url-status=live |access-date=12 February 2023 |archive-url=https://web.archive.org/web/20230211193959/https://www.ynet.co.il/news/article/sjirlrs6o |archive-date=11 February 2023}}</ref>",
+                      "url": "https://www.ynet.co.il/news/article/sjirlrs6o",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |script-title=he:כ-80 אלף הפגינו ברחבי הארץ; באישור המשטרה, אלפים חסמו את נתיבי איילון |language=he |trans-title=About 80 thousand demonstrated throughout the country; With the permission of the police, thousands blocked the Ayalon routes |work=Haaretz |url=https://www.haaretz.co.il/news/education/2023-02-11/ty-article-live/.premium/00000186-405a-d80f-abff-6ada8f5e0000 |url-status=live |access-date=12 February 2023 |archive-url=https://web.archive.org/web/20230211220026/https://www.haaretz.co.il/news/education/2023-02-11/ty-article-live/.premium/00000186-405a-d80f-abff-6ada8f5e0000 |archive-date=11 February 2023}}</ref>",
+                      "url": "https://www.haaretz.co.il/news/education/2023-02-11/ty-article-live/.premium/00000186-405a-d80f-abff-6ada8f5e0000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "13–25 February",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "On 8 February, the Chairman of the Knesset's Constitution, Law and Justice Committee Simcha Rothman announced it would vote on referring several reforms to the Knesset Plenum (meeting)|Plenum on 13 February, including a law giving the coalition a majority on the judicial appointments committee. The previous day, several protest leaders, including former Chief of the General Staff (Israel)|Chief of the General Staff Moshe Ya'alon and the Movement for Quality Government in Israel, announced their intention to organize a general Strike action|strike and a protest outside the Knesset building on the same date, which was believed to be the vote's date before the announcement was made.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Rubin |first=Benzi |date=8 February 2023 |script-title=he:רוטמן מודיע: ההצבעה על סעיפי הרפורמה המשפטית יתחילו ביום שני |trans-title=Rothman announces: voting on the articles of the legal reform will begin Monday |url=https://www.srugim.co.il/762269-%d7%a8%d7%95%d7%98%d7%9e%d7%9f-%d7%9e%d7%95%d7%93%d7%99%d7%a2-%d7%94%d7%94%d7%a6%d7%91%d7%a2%d7%94-%d7%a2%d7%9c-%d7%a1%d7%a2%d7%99%d7%a4%d7%99-%d7%94%d7%a8%d7%a4%d7%95%d7%a8%d7%9e%d7%94-%d7%94%d7%9e |url-status=live |archive-url=https://web.archive.org/web/20230217203611/https://www.srugim.co.il/762269-%D7%A8%D7%95%D7%98%D7%9E%D7%9F-%D7%9E%D7%95%D7%93%D7%99%D7%A2-%D7%94%D7%94%D7%A6%D7%91%D7%A2%D7%94-%D7%A2%D7%9C-%D7%A1%D7%A2%D7%99%D7%A4%D7%99-%D7%94%D7%A8%D7%A4%D7%95%D7%A8%D7%9E%D7%94-%D7%94%D7%9E |archive-date=17 February 2023 |access-date=17 February 2023 |website=Srugim |language=he}}</ref>",
+                      "url": "https://www.srugim.co.il/762269-%D7%A8%D7%95%D7%98%D7%9E%D7%9F-%D7%9E%D7%95%D7%93%D7%99%D7%A2-%D7%94%D7%94%D7%A6%D7%91%D7%A2%D7%94-%D7%A2%D7%9C-%D7%A1%D7%A2%D7%99%D7%A4%D7%99-%D7%94%D7%A8%D7%A4%D7%95%D7%A8%D7%9E%D7%94-%D7%94%D7%9E",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Albaz-Alush |first1=Korin |last2=Rubinstein |first2=Roei |date=7 February 2023 |script-title=he:מארגני המחאה נגד המהפכה המשפטית: ביום שני הקרוב נשבית את המשק ונעלה לירושלים |language=he |trans-title=Organizers of the protest against the legal revolution: next Monday we will shut down the economy and go to Jerusalem |work=Ynet |url=https://www.ynet.co.il/news/article/s1xo001xts |url-status=live |access-date=17 February 2023 |archive-url=https://web.archive.org/web/20230217195104/https://www.ynet.co.il/news/article/s1xo001xts |archive-date=17 February 2023}}</ref>",
+                      "url": "https://www.ynet.co.il/news/article/s1xo001xts",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.2.s2",
+                  "text": "More than 100,000 people gathered for protests in Jerusalem on 13 February, while individuals in several industries, including doctors and tech workers, went on strike. That day, the Constitution committee voted 9–7 in favor of the reforms.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":12\">{{Cite news |date=13 February 2023 |title=100,000 Israelis Gather in Jerusalem to Protest Judicial Overhaul Amid Mass Strike |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-02-13/ty-article-live/as-nationwide-strike-launches-across-israel-protesters-block-airport/00000186-495d-d80f-abff-6bdd90c30000 |url-status=live |access-date=16 February 2023 |archive-url=https://web.archive.org/web/20230214161906/https://www.haaretz.com/israel-news/2023-02-13/ty-article-live/as-nationwide-strike-launches-across-israel-protesters-block-airport/00000186-495d-d80f-abff-6bdd90c30000 |archive-date=14 February 2023}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-02-13/ty-article-live/as-nationwide-strike-launches-across-israel-protesters-block-airport/00000186-495d-d80f-abff-6bdd90c30000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Ar'el |first=Yuval |newspaper=N12 |date=14 February 2023 |script-title=he:בצל ניסיונות הפשרה: ועדת החוקה תתכנס היום בשנית, ותדון בהמשך הרפורמה |language=he |trans-title=In the shadow of the compromise attempts: the Constitution Committee will meet again today, and will discuss the further reform |publisher=HaHadashot 12 |url=https://www.mako.co.il/news-politics/2023_q1/Article-07f84a7334e4681027.htm |url-status=live |access-date=14 February 2023 |archive-url=https://web.archive.org/web/20230214064428/https://www.mako.co.il/news-politics/2023_q1/Article-07f84a7334e4681027.htm?utm_source=AndroidNews12&utm_medium=Share |archive-date=14 February 2023}}</ref>",
+                      "url": "https://www.mako.co.il/news-politics/2023_q1/Article-07f84a7334e4681027.htm",
+                      "status_code": 403,
+                      "reason": "Invalid redirect destination",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=McKernan |first1=Bethan |last2=Kierszenbaum |first2=Quique |date=13 February 2023 |title=Protests and strikes in Israel as plans for judicial overhaul move forward |language=en-GB |work=The Guardian |url=https://www.theguardian.com/world/2023/feb/13/protests-and-strikes-in-israel-as-plans-for-judicial-overhaul-move-forward |url-status=live |access-date=17 February 2023 |archive-url=https://web.archive.org/web/20230217001553/https://www.theguardian.com/world/2023/feb/13/protests-and-strikes-in-israel-as-plans-for-judicial-overhaul-move-forward |archive-date=17 February 2023 |issn=0261-3077}}</ref>",
+                      "url": "https://www.theguardian.com/world/2023/feb/13/protests-and-strikes-in-israel-as-plans-for-judicial-overhaul-move-forward",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Shalu |first1=Tal |last2=Ashkenazi |first2=Bini |last3=Adamkar |first3=Vicky |date=13 February 2023 |title=דיון סוער בוועדת החוקה: אושרו סעיפים מהרפורמה במערכת המשפט – וואלה! חדשות |script-title= |language=he |trans-title=Stormy debate in the Constitution Committee: Articles from the reform of the judicial system were approved |website=Walla! |url=https://news.walla.co.il/item/3558263 |url-status=live |access-date=17 February 2023 |archive-url=https://web.archive.org/web/20230217195103/https://news.walla.co.il/item/3558263 |archive-date=17 February 2023}}</ref>",
+                      "url": "https://news.walla.co.il/item/3558263",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.2.s3",
+                  "text": "Two more weekly protests were held on Saturdays in various cities around Israel, with a central protest in Kaplan. Both numbered over 100,000. The second protest was preceded by a performance of 150 members of Women Building an Alternative wearing red-and-white outfits resembling those worn by handmaids in the television series ''The Handmaid's Tale (TV series)|The Handmaid's Tale''. The group appeared in protest against some of the proposed legal changes, which they believe will hurt women. These protests were joined by another protest on 20 February, where over 100,000 protesters gathered outside the Knesset in Jerusalem to protest against an initial plenum vote on several reform-related bills.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last=Starr |first=Michael |date=18 February 2023 |title=Quarter million protesters take to the streets ahead of judicial reforms |language=en-US |work=The Jerusalem Post |url=https://www.jpost.com/breaking-news/article-731983 |url-status=live |access-date=19 February 2023 |archive-url=https://web.archive.org/web/20230219003823/https://www.jpost.com/breaking-news/article-731983 |archive-date=19 February 2023}}</ref>",
+                      "url": "https://www.jpost.com/breaking-news/article-731983",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":22\">{{Cite news |date=2023-02-25 |title=Hundreds of Thousands Rally Against Netanyahu's Judicial Coup for Eighth Week |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-02-25/ty-article-live/.premium/tens-of-thousands-expected-at-rallies-against-netanyahus-judicial-coup-for-eighth-week/00000186-8904-d5bf-adb6-af861cb90000#1603765250 |url-status=live |access-date=2023-02-27 |archive-url=https://web.archive.org/web/20230227204824/https://www.haaretz.com/israel-news/2023-02-25/ty-article-live/.premium/tens-of-thousands-expected-at-rallies-against-netanyahus-judicial-coup-for-eighth-week/00000186-8904-d5bf-adb6-af861cb90000#1603765250 |archive-date=27 February 2023}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-02-25/ty-article-live/.premium/tens-of-thousands-expected-at-rallies-against-netanyahus-judicial-coup-for-eighth-week/00000186-8904-d5bf-adb6-af861cb90000#1603765250",
+                      "status_code": 503,
+                      "reason": "Service Unavailable",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Riva |first=Naama |date=2023-02-25 |script-title=he:מה הסיפור מאחורי הנשים הלבושות כמו ב\"סיפורה של שפחה\"? |language=he |trans-title=What's the story behind the women dressed like in ''The Handmaid's Tale''? |work=Haaretz |url=https://www.haaretz.co.il/gallery/2023-02-25/ty-article/.premium/00000186-8a59-d525-a9ef-9ef9788f0000 |url-status=live |access-date=2023-02-26 |archive-url=https://web.archive.org/web/20230226101806/https://www.haaretz.co.il/gallery/2023-02-25/ty-article/.premium/00000186-8a59-d525-a9ef-9ef9788f0000 |archive-date=26 February 2023}}</ref>",
+                      "url": "https://www.haaretz.co.il/gallery/2023-02-25/ty-article/.premium/00000186-8a59-d525-a9ef-9ef9788f0000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=McKernan |first1=Bethan |last2=correspondent |first2=Bethan McKernan Jerusalem |date=20 February 2023 |title=Israel: Benjamin Netanyahu accuses protesters of 'trampling democracy' |language=en-GB |work=The Guardian |url=https://www.theguardian.com/world/2023/feb/20/israel-benjamin-netanyahu-accuses-protesters-of-trampling-democracy |url-status=live |access-date=21 February 2023 |archive-url=https://web.archive.org/web/20230221000501/https://www.theguardian.com/world/2023/feb/20/israel-benjamin-netanyahu-accuses-protesters-of-trampling-democracy |archive-date=21 February 2023 |issn=0261-3077}}</ref>",
+                      "url": "https://www.theguardian.com/world/2023/feb/20/israel-benjamin-netanyahu-accuses-protesters-of-trampling-democracy",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "1–9 March",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.3.s1",
+                  "text": "1 March was designated by protest organizers as a 'national day of disruption'. Protesters tried to block Ayalon Highway in Tel Aviv, but police used stun grenades, mounted police, and water cannons against the demonstrators, and arrested several people. Netanyahu and Ministry of National Security (Israel)|National Security Minister Itamar Ben-Gvir both said that all protesters blocking the roads are anarchists who should be arrested. Later that evening, the Spouse of the prime minister of Israel|Prime Minister's wife, Sara Netanyahu, was spotted at a hair salon in Tel Aviv. Protesters stood outside the salon for three hours while mounted police guarded the entrance until Netanyahu was escorted out by police.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":2\">{{Cite news |last= |last2= |first2= |date=2023-03-01 |title=Israelis step up fight against government with 'national disruption day' |language=en |work=Ynetnews |url=https://www.ynetnews.com/article/hjbstdhro |access-date=2023-05-05 |archive-date=20 March 2023 |archive-url=https://web.archive.org/web/20230320215027/https://www.ynetnews.com/article/hjbstdhro |url-status=live }}</ref>",
+                      "url": "https://www.ynetnews.com/article/hjbstdhro",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |title=Police Use Stun Grenades, Water Cannons and Horses Against Tel Aviv Pro-democracy Protesters |newspaper=Haaretz |url=https://www.haaretz.com/israel-news/2023-03-01/ty-article-live/.premium/national-day-of-disruption-begins-in-israel-in-protest-of-netanyahus-judicial-coup/00000186-9bb5-d4a3-abb7-dff55f320000 |url-status=live |access-date=1 March 2023 |archive-url=https://web.archive.org/web/20230301132447/https://www.haaretz.com/israel-news/2023-03-01/ty-article-live/.premium/national-day-of-disruption-begins-in-israel-in-protest-of-netanyahus-judicial-coup/00000186-9bb5-d4a3-abb7-dff55f320000 |archive-date=1 March 2023}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-03-01/ty-article-live/.premium/national-day-of-disruption-begins-in-israel-in-protest-of-netanyahus-judicial-coup/00000186-9bb5-d4a3-abb7-dff55f320000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Greenberg |first=Hadas |date=2023-03-01 |script-title=he:מאות שוטרים מול אלפי מפגינים: שרה נתניהו חולצה מהמספרה בת\"א |language=he |trans-title=Hundreds of policemen in front of thousands of protesters: Sara Netanyahu was rescued from the hair stylist shop in Tel Aviv |publisher=Kan 11 |url=https://www.kan.org.il/Item/?itemId=146782 |url-status=live |access-date=2023-03-01 |archive-url=https://web.archive.org/web/20230301215035/https://www.kan.org.il/Item/?itemId=146782 |archive-date=1 March 2023}}</ref>",
+                      "url": "https://www.kan.org.il/Item/?itemId=146782",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s2",
+                  "text": "Additional protests took place on 4 and 8 March, with Channel 12 (Israel)|Channel 12 estimating that over 160,000 people attended the former protests, while ''Haaretz'' estimated that over 25,000 attended the latter. On 5 March 2023, El Al, the national airline of Israel, announced none of the El Al pilots volunteered to fly Prime Minister Benjamin Netanyahu and his wife Sara on a state visit to Rome, in an apparent protest against his government.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=2023-03-04 |script-title=he:N12 – 160 אלף מפגינים נגד המהפכה המשפטית בתל אביב |language=he |trans-title=160 thousand protestors against the legal revolution in Tel Aviv |website=Mako (website)|Mako |url=https://www.mako.co.il/news-israel/2023_q1/Article-5a1b0e06ecca681027.htm |url-status=live |access-date=2023-03-04 |archive-url=https://web.archive.org/web/20230304194924/https://www.mako.co.il/news-israel/2023_q1/Article-5a1b0e06ecca681027.htm |archive-date=4 March 2023}}</ref>",
+                      "url": "https://www.mako.co.il/news-israel/2023_q1/Article-5a1b0e06ecca681027.htm",
+                      "status_code": 403,
+                      "reason": "Invalid redirect destination",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Kaplan Sommer |first=Allison |date=2023-03-08 |title=Over 25,000 Red-clad Women Form Human Chains Across Israel for International Women's Day |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-03-08/ty-article/.premium/over-25-000-red-clad-women-form-human-chains-across-israel-for-international-womens-day/00000186-c269-db3c-a797-f77fd9460000 |url-status=live |access-date=2023-03-08 |archive-url=https://web.archive.org/web/20230327034352/https://www.haaretz.com/israel-news/2023-03-08/ty-article/.premium/over-25-000-red-clad-women-form-human-chains-across-israel-for-international-womens-day/00000186-c269-db3c-a797-f77fd9460000 |archive-date=27 March 2023}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-03-08/ty-article/.premium/over-25-000-red-clad-women-form-human-chains-across-israel-for-international-womens-day/00000186-c269-db3c-a797-f77fd9460000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=WALLA |title=Netanyahu chooses to stay in Rome after Tel Aviv attack |url=https://www.jpost.com/israel-news/article-733416 |website=The Jerusalem Post |date=10 March 2023 |access-date=11 July 2023 |archive-date=11 July 2023 |archive-url=https://web.archive.org/web/20230711094848/https://www.jpost.com/israel-news/article-733416 |url-status=live }}</ref>",
+                      "url": "https://www.jpost.com/israel-news/article-733416",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|title=After apparent boycott, El Al says pilots found to staff Netanyahu's flight to Rome|url=https://www.timesofisrael.com/netanyahus-office-opens-tender-as-el-al-pilots-refuse-to-fly-him-to-rome/|website=The Times of Israel|first=Michael|last=Horovitz|date=5 March 2023|access-date=23 July 2023|archive-date=11 July 2023|archive-url=https://web.archive.org/web/20230711094848/https://www.timesofisrael.com/netanyahus-office-opens-tender-as-el-al-pilots-refuse-to-fly-him-to-rome/|url-status=live}}</ref>",
+                      "url": "https://www.timesofisrael.com/netanyahus-office-opens-tender-as-el-al-pilots-refuse-to-fly-him-to-rome/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s3",
+                  "text": "On 8 March, for the occasion of International Women's Day, thousands of women dressed in red formed a human line on a beachfront of Tel Aviv to protest the planned reforms. Demonstrators at prior women's protests also dressed in red capes and white hoods, as characters from Margaret Atwood's dystopian novel The Handmaid's Tale. They condemned the government for the \"Talibanization\" of Israel. Protestors believe that the reform plan is \"patriarchal and biased\" and that women's legal rights are at stake more than they have been in years.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |last1=Rose |first1=Emily |title=Israeli women form human chains to protest planned judicial overhaul |url=https://www.reuters.com/world/middle-east/israeli-women-form-human-chains-protest-planned-judicial-overhaul-2023-03-08/ |website=Reuters |date=9 March 2023}}</ref>",
+                      "url": "https://www.reuters.com/world/middle-east/israeli-women-form-human-chains-protest-planned-judicial-overhaul-2023-03-08/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Arbit |first1=Carmiel |title=Women Will Be the Biggest Victims of Israel's Judicial Reforms |url=https://foreignpolicy.com/2023/08/02/israel-judicial-women-equality-netanyahu/ |website=Foreign policy |date=2 August 2023}}</ref>",
+                      "url": "https://foreignpolicy.com/2023/08/02/israel-judicial-women-equality-netanyahu/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Porter Robbins |first1=Claire |title=Patriarchal and biased': Israeli women fear loss of rights in legal overhaul |url=https://www.theguardian.com/world/2023/jun/13/patriarchal-biased-israeli-women-fear-loss-rights-rabbinic-courts-legal-overhaul |website=The Guardian |date=13 June 2023}}</ref>",
+                      "url": "https://www.theguardian.com/world/2023/jun/13/patriarchal-biased-israeli-women-fear-loss-rights-rabbinic-courts-legal-overhaul",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s4",
+                  "text": "On 9 March, the protest movement led to what was referred to as a 'national day of resistance'. Protesters blocked roads and maritime routes, including one of the country's main highways, Ayalon, which connects all of the major traffic routes leading to Tel Aviv. Convoys of cars packed the Tel Aviv-Jerusalem highway and streamed toward Ben Gurion Airport's main terminal. The protest at the airport came hours before Netanyahu flew to Rome to meet Italian Prime Minister Giorgia Meloni. Members of \"Brothers in Arms (organization)|Brothers In Arms\" ({{langx|he|אחים לנשק}}), a reservist protest movement, blocked the entrance to the Kohelet Policy Forum offices in Givat Shaul with sandbags and barbed wire, in protest for their part in promoting the judicial reform. The movement's co-founder, Ron Scherf, was arrested and detained for questioning following the demonstration.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last=Alterman |first=Owen |date=9 March 2023 |title=Traffic blocked, thousands protest as 'Day of disruption' underway in Israel |language=en |publisher=i24NEWS |url=https://www.i24news.tv/en/news/israel/politics/1678350061-traffic-blocked-thousands-protest-as-day-of-disruption-underway-in-israel |url-status=live |access-date=2023-03-09 |archive-url=https://web.archive.org/web/20230309143249/https://www.i24news.tv/en/news/israel/politics/1678350061-traffic-blocked-thousands-protest-as-day-of-disruption-underway-in-israel |archive-date=9 March 2023}}</ref>",
+                      "url": "https://www.i24news.tv/en/news/israel/politics/1678350061-traffic-blocked-thousands-protest-as-day-of-disruption-underway-in-israel",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Gold |first1=Hadas |author-link=Hadas Gold |last2=Schwartz |first2=Michael |last3=Somm |first3=Matthias |last4=Greene |first4=Richard Allen |last5=Liebermann |first5=Oren |date=2023-03-09 |title=Anti-Netanyahu protesters in Israel block roads to airport in latest nationwide demonstration |language=en |work=CNN |publisher= |url=https://www.cnn.com/2023/03/09/middleeast/israel-protests-anti-netanyahu-intl/index.html |url-status=live |access-date=2023-03-09 |archive-url=https://web.archive.org/web/20230309143255/https://www.cnn.com/2023/03/09/middleeast/israel-protests-anti-netanyahu-intl/index.html |archive-date=9 March 2023}}</ref>",
+                      "url": "https://edition.cnn.com/2023/03/09/middleeast/israel-protests-anti-netanyahu-intl/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Hayoun |first=Dedi |date=2023-03-09 |title=Israeli protests target Netanyahu, visiting Pentagon chief at airport |language=en |publisher=Reuters |url=https://www.reuters.com/world/middle-east/israeli-protests-target-netanyahu-visiting-pentagon-chief-airport-2023-03-09/ |url-status=live |url-access=registration |accessdate=2023-03-09 |archive-url=https://web.archive.org/web/20230309143255/https://www.reuters.com/world/middle-east/israeli-protests-target-netanyahu-visiting-pentagon-chief-airport-2023-03-09/ |archive-date=9 March 2023}}</ref>",
+                      "url": "https://www.reuters.com/world/middle-east/israeli-protests-target-netanyahu-visiting-pentagon-chief-airport-2023-03-09/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"ynet-march-9-2023\">{{cite news |language=he |last1=Golditch |first1=Haim |last2=Elbaz-Alush |first2=Korin |last3=Halbi |first3=Einav |title=Protesters Block Offices of Kohelet Forum: Former Commander of Sayeret Matkal Arrested |url=https://www.ynet.co.il/news/article/r1mgbfdj3 |newspaper=Ynet |access-date=22 July 2023 |date=9 March 2023 |archive-date=18 March 2023 |archive-url=https://web.archive.org/web/20230318185859/https://www.ynet.co.il/news/article/r1mgbfdj3 |url-status=live }}</ref>",
+                      "url": "https://www.ynet.co.il/news/article/r1mgbfdj3",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.4",
+          "title": "11–25 March",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.4.s1",
+                  "text": "According to Globes (newspaper)|''Globes'', between 150,000 and 240,000 people protested in Tel Aviv against the reform on 11 March, alongside smaller protests in other cities. Another weekly protest took place on 18 March, which was attended by over 260,000 people. Yet another protest took place on 16 March, while smaller demonstrations took place on 21 and 22 March.<ref name=\":82\" /> On 23 March, protest leaders declared a 'national day of paralysis', a series of smaller protests and demonstrations in various Israeli cities.<ref name=\":2\" />",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last=Shapir |first=Nitsan |date=2023-03-11 |title=כ-200 אלף מפגינים בתל אביב; רבבות ברחבי הארץ |work=Globes |url=https://www.globes.co.il/news/article.aspx?did=1001440935 |access-date=2023-05-05 |archive-date=15 March 2023 |archive-url=https://web.archive.org/web/20230315022821/https://www.globes.co.il/news/article.aspx?did=1001440935 |url-status=live }}</ref>",
+                      "url": "https://www.globes.co.il/news/article.aspx?did=1001440935",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Peleg |first1=Bar |last2=Kaplan Sommer |first2=Allison |last3=Kraft |first3=Dina |last4=Yefet |first4=Nati |last5=Hashmonai |first5=Adi |last6=Tibon |first6=Amir |last7=Breiner |first7=Josh |date=11 March 2023 |title='Biggest in Israeli History': Organizers Claim Half a Million Protesters Against Netanyahu's Constitutional Coup |newspaper=Haaretz |url=https://www.haaretz.com/israel-news/2023-03-11/ty-article/.premium/biggest-in-israeli-history-organizers-claim-half-a-million-protesters-in-tenth-week/00000186-d261-dfef-a3ef-d26d9bbc0000 |url-status=live |access-date=12 March 2023 |archive-url=https://web.archive.org/web/20230315154736/https://www.haaretz.com/israel-news/2023-03-11/ty-article/.premium/biggest-in-israeli-history-organizers-claim-half-a-million-protesters-in-tenth-week/00000186-d261-dfef-a3ef-d26d9bbc0000 |archive-date=15 March 2023}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-03-11/ty-article/.premium/biggest-in-israeli-history-organizers-claim-half-a-million-protesters-in-tenth-week/00000186-d261-dfef-a3ef-d26d9bbc0000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last= |first= |date=2023-03-18 |title='Destroying Zionism': Masses protest overhaul; rise in violence against demonstrators |language=en-US |website=The Times of Israel |url=https://www.timesofisrael.com/hundreds-of-thousands-rally-against-overhaul-rise-in-violence-against-protesters/ |url-status=live |access-date=2023-03-20 |archive-url=https://web.archive.org/web/20230320174108/https://www.timesofisrael.com/hundreds-of-thousands-rally-against-overhaul-rise-in-violence-against-protesters/ |archive-date=20 March 2023}}</ref>",
+                      "url": "https://www.timesofisrael.com/hundreds-of-thousands-rally-against-overhaul-rise-in-violence-against-protesters/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":72\">{{Cite news |last1=Hashmonai |first1=Adi |last2=Kadari-Ovadia |first2=Shira |date=2023-03-21 |title=Hundreds Rally Against Judicial Overhaul Outside Conference in North Israel Attended by Gov't MKs |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-03-21/ty-article/.premium/hundreds-of-pro-democracy-protesters-rally-outside-conference-attended-by-coalition-mks/00000187-03d9-dbfb-adf7-73d9d8a00000 |url-status=live |access-date=2023-03-22 |archive-url=https://web.archive.org/web/20230321195301/https://www.haaretz.com/israel-news/2023-03-21/ty-article/.premium/hundreds-of-pro-democracy-protesters-rally-outside-conference-attended-by-coalition-mks/00000187-03d9-dbfb-adf7-73d9d8a00000 |archive-date=21 March 2023}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-03-21/ty-article/.premium/hundreds-of-pro-democracy-protesters-rally-outside-conference-attended-by-coalition-mks/00000187-03d9-dbfb-adf7-73d9d8a00000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":82\">{{Cite news |last1=Peleg |first1=Bar |last2=Cohen |first2=Adi |date=2023-03-22 |title=Netanyahu Cancels Attendance as Israeli Army Reserve Protesters Flock Tel Aviv Conference |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-03-22/ty-article/.premium/netanyahu-cancels-attendance-as-israeli-army-reserve-protesters-flock-tel-aviv-conference/00000187-08a4-d182-a9b7-cdbda6e60000 |url-status=live |access-date=2023-03-22 |archive-url=https://web.archive.org/web/20230327034322/https://www.haaretz.com/israel-news/2023-03-22/ty-article/.premium/netanyahu-cancels-attendance-as-israeli-army-reserve-protesters-flock-tel-aviv-conference/00000187-08a4-d182-a9b7-cdbda6e60000 |archive-date=27 March 2023}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-03-22/ty-article/.premium/netanyahu-cancels-attendance-as-israeli-army-reserve-protesters-flock-tel-aviv-conference/00000187-08a4-d182-a9b7-cdbda6e60000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.4.s2",
+                  "text": "Another protest took place on 25 March in Tel Aviv, with over 195,000 participants according to Channel 12. Smaller protests took place in other cities such as Haifa, Beersheba and Beit Shemesh. On the same day, Israel's defense minister Yoav Gallant urged a pause in the judicial reform, stating that the growing social rift is a \"clear, immediate and tangible threat to Israel's security.\" Gallant called for the halt before lawmakers were due to vote the following week on a central part of the government's proposals. The next day, Netanyahu announced his intention to fire Gallant.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=2023-03-25 |title=N12 – 195 אלף בני אדם הפגינו בתל אביב, נתיבי איילון נחסמו לתנועה |url=https://www.mako.co.il/news-politics/2023_q1/Article-c8c3ec0eda81781026.htm |access-date=2023-05-05 |website=N12 |archive-date=6 May 2023 |archive-url=https://web.archive.org/web/20230506142711/https://www.mako.co.il/news-politics/2023_q1/Article-c8c3ec0eda81781026.htm |url-status=live }}</ref>",
+                      "url": "https://www.mako.co.il/news-politics/2023_q1/Article-c8c3ec0eda81781026.htm",
+                      "status_code": 403,
+                      "reason": "Invalid redirect destination",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=2023-03-26 |title=Israel defence minister urges pause in judicial overhaul as thousands rally in Tel Aviv |language=en-GB |work=The Guardian |agency=Agence France-Presse |url=https://www.theguardian.com/world/2023/mar/25/tel-aviv-demonstrations-against-benjamin-netanyahu-judicial-overhaul-israel |url-status=live |access-date=2023-03-26 |archive-url=https://web.archive.org/web/20230326032214/https://www.theguardian.com/world/2023/mar/25/tel-aviv-demonstrations-against-benjamin-netanyahu-judicial-overhaul-israel |archive-date=26 March 2023}}</ref>",
+                      "url": "https://www.theguardian.com/world/2023/mar/25/tel-aviv-demonstrations-against-benjamin-netanyahu-judicial-overhaul-israel",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |title=Netanyahu Fires Defense Minister Gallant for Calling to Stop Judicial Overhaul |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-03-26/ty-article-live/.premium/senior-likud-members-hint-at-opposing-judicial-overhaul/00000187-1c81-d4ca-afff-1d89ee5b0000 |url-status=live |access-date=2023-03-26 |archive-url=https://web.archive.org/web/20230326110614/https://www.haaretz.com/israel-news/2023-03-26/ty-article-live/.premium/senior-likud-members-hint-at-opposing-judicial-overhaul/00000187-1c81-d4ca-afff-1d89ee5b0000 |archive-date=26 March 2023}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-03-26/ty-article-live/senior-likud-members-hint-at-opposing-judicial-overhaul/00000187-1c81-d4ca-afff-1d89ee5b0000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.5",
+          "title": "Firing of Yoav Gallant and national strike",
+          "content": [
+            {
+              "id": "3.5.1",
+              "title": "26 March",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "3.5.1.s1",
+                      "text": "On 26 March, in response to the announcement of the firing of Yoav Gallant,{{efn|Netanyahu announced on 10 April that Gallant would not be fired.\n}} the Minister of Defense (Israel)|Minister of Defense, hundreds of thousands of protesters blocked roads across Israel, in over 150 locations.",
+                      "references": [
+                        {
+                          "text": "<ref>{{Cite news |last=Zeytun |first=Yoav |date=2023-04-10 |title=גלנט סירב להתנצל, בסביבתו קובעים: \"אזהרותיו התממשו אחת לאחת\" |language=he |work=Ynet |url=https://www.ynet.co.il/news/article/bjud11r11g2 |access-date=2023-04-10 |archive-date=29 April 2023 |archive-url=https://web.archive.org/web/20230429221747/https://www.ynet.co.il/news/article/bjud11r11g2 |url-status=live }}</ref>",
+                          "url": "https://www.ynet.co.il/news/article/bjud11r11g2",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref name=\":92\">{{Cite news |date=2023-03-26 |title=Night of Chaos in Israel: Hundreds of Thousands Take to Streets After Netanyahu Fires Defense Minister |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-03-26/ty-article-live/senior-likud-members-hint-at-opposing-judicial-overhaul/00000187-1c81-d4ca-afff-1d89ee5b0000 |url-status=live |access-date=2023-03-26 |archive-url=https://web.archive.org/web/20230326223227/https://www.haaretz.com/israel-news/2023-03-26/ty-article-live/senior-likud-members-hint-at-opposing-judicial-overhaul/00000187-1c81-d4ca-afff-1d89ee5b0000 |archive-date=26 March 2023}}</ref>",
+                          "url": "https://www.haaretz.com/israel-news/2023-03-26/ty-article-live/senior-likud-members-hint-at-opposing-judicial-overhaul/00000187-1c81-d4ca-afff-1d89ee5b0000",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{Cite news |date=2023-03-26 |title=Israel: mass protests after sacking of minister who opposed judicial overhaul |language=en-GB |work=The Guardian |agency=Associated Press |url=https://www.theguardian.com/world/2023/mar/26/benjamin-netanyahu-fires-defence-minister-yoav-gallant-judicial-overhaul |url-status=live |access-date=2023-03-27 |archive-url=https://web.archive.org/web/20230327032000/https://www.theguardian.com/world/2023/mar/26/benjamin-netanyahu-fires-defence-minister-yoav-gallant-judicial-overhaul |archive-date=27 March 2023 |issn=0261-3077}}</ref>",
+                          "url": "https://www.theguardian.com/world/2023/mar/26/benjamin-netanyahu-fires-defence-minister-yoav-gallant-judicial-overhaul",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "news"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "3.5.1.s2",
+                      "text": "Protesters escalated and marched towards Netanyahu's residence. There were reports of security barriers being broken down, but these reports were denied by police.",
+                      "references": [
+                        {
+                          "text": "<ref>{{Cite news |last=Rothwell |first=James |date=2023-03-26 |title=Thousands of Israelis march on Benjamin Netanyahu's residence as tensions reach boiling point |language=en-GB |work=The Daily Telegraph |url=https://www.telegraph.co.uk/news/2023/03/26/israelis-break-past-security-barrier-near-benjamin-netanyahus/ |url-status=live |access-date=2023-03-27 |archive-url=https://web.archive.org/web/20230327034351/https://www.telegraph.co.uk/news/2023/03/26/israelis-break-past-security-barrier-near-benjamin-netanyahus/ |archive-date=27 March 2023 |issn=0307-1235}}</ref>",
+                          "url": "https://www.telegraph.co.uk/news/2023/03/26/israelis-break-past-security-barrier-near-benjamin-netanyahus/",
+                          "status_code": 403,
+                          "reason": "Forbidden",
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{Cite news |last1=Gold |first1=Hadas |last2=Tal |first2=Amir |last3=Regan |first3=Helen |last4=Izso |first4=Lauren |last5=Gotkine |first5=Elliott |date=2023-03-26 |title=Mass protests erupt in Israel after Netanyahu fires minister who opposed judicial overhaul |language=en |publisher=CNN |url=https://www.cnn.com/2023/03/26/middleeast/israel-judicial-overhaul-legislation-intl/index.html |url-status=live |access-date=2023-03-27 |archive-url=https://web.archive.org/web/20230327040623/https://www.cnn.com/2023/03/26/middleeast/israel-judicial-overhaul-legislation-intl/index.html |archive-date=27 March 2023}}</ref>",
+                          "url": "https://edition.cnn.com/2023/03/26/middleeast/israel-judicial-overhaul-legislation-intl/index.html",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "news"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3.5.2",
+              "title": "27 March",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "3.5.2.s1",
+                      "text": "On 27 March, Israel's President Isaac Herzog called on Prime Minister Benjamin Netanyahu to immediately halt the legislative process. He said, \"for the sake of the unity of the people of Israel, for the sake of responsibility, I am calling on you to stop the legislation immediately. I turn to all the party leaders in the Knesset, coalition, and opposition as one, put the citizens of the nation above all else, and behave responsibly and bravely without further delay.\"",
+                      "references": [
+                        {
+                          "text": "<ref>{{Cite news |last=Zorlu |first=Faruk |date=27 March 2023 |title=Israeli President Herzog calls on Prime Minister Netanyahu to stop judicial overhaul |publisher=Anadolu Agency |url=https://www.aa.com.tr/en/politics/israeli-president-herzog-calls-on-prime-minister-netanyahu-to-stop-judicial-overhaul/2856327 |url-status=live |access-date=2023-03-27 |archive-url=https://web.archive.org/web/20230327060814/https://www.aa.com.tr/en/politics/israeli-president-herzog-calls-on-prime-minister-netanyahu-to-stop-judicial-overhaul/2856327 |archive-date=27 March 2023}}</ref>",
+                          "url": "https://www.aa.com.tr/en/politics/israeli-president-herzog-calls-on-prime-minister-netanyahu-to-stop-judicial-overhaul/2856327",
+                          "status_code": null,
+                          "reason": "[Errno 104] Connection reset by peer",
+                          "type": "news"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "3.5.2.s2",
+                      "text": "Histadrut labor federation chair Arnon Bar-David announced a general nationwide strike, followed by labor unions and major corporations announcing their participation in the strike. Protest leaders from the high-tech industry announced a complete shutdown of the country's tech industry. The leader of the Israel Airports trade union directed airport workers to shut down Ben Gurion Airport. Israel's doctors' union announced an immediate freeze of the health care system. This strike represented the \"first time in the history of the State of Israel [that] the business sector, together with the Histadrut and local government, are joining forces to save the country from terrible chaos,\" said Dubi Amitai, the chair of the Presidium of Israeli Business Organisations. Israel's embassies in the United States and the United Kingdom shut down for the day, joining a worldwide strike of diplomats over the proposed changes to the judicial system.",
+                      "references": [
+                        {
+                          "text": "<ref>{{Cite news |last=Sokol |first=Sam |date=2023-03-27 |title=Israel's Largest Trade Union and Major Corporations Join Forces in Historic Strike to Protest Government's Judicial Overhaul |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-03-27/ty-article/.premium/israels-largest-union-major-corporations-join-forces-against-judicial-overhaul/00000187-22f0-d7c4-ab8f-fef68de10000 |url-status=live |access-date=2023-03-27 |archive-url=https://web.archive.org/web/20230327140902/https://www.haaretz.com/israel-news/2023-03-27/ty-article/.premium/israels-largest-union-major-corporations-join-forces-against-judicial-overhaul/00000187-22f0-d7c4-ab8f-fef68de10000 |archive-date=27 March 2023}}</ref>",
+                          "url": "https://www.haaretz.com/israel-news/2023-03-27/ty-article/.premium/israels-largest-union-major-corporations-join-forces-against-judicial-overhaul/00000187-22f0-d7c4-ab8f-fef68de10000",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{Cite news |last=Ben-David |first=Daniel |date=2023-03-27 |title=Israeli embassy in London shuts down as consular staff strike |work=The Jewish Chronicle |url=https://www.thejc.com/news/news/israeli-embassy-in-london-shuts-down-as-consular-staff-strike-3CngzyVZhd65IgtCt0IpM2 |url-status=live |access-date=2023-03-27 |archive-url=https://web.archive.org/web/20230327144119/https://www.thejc.com/news/news/israeli-embassy-in-london-shuts-down-as-consular-staff-strike-3CngzyVZhd65IgtCt0IpM2 |archive-date=27 March 2023}}</ref>",
+                          "url": "https://www.thejc.com/news/israeli-embassy-in-london-shuts-down-as-consular-staff-strike-k2vxmuzg",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "news"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "3.5.2.s3",
+                      "text": "Mass protests continued throughout Israel later that day, with the largest taking place in front of the Knesset. Over one hundred thousand people participated in the protest, demanding a complete stop to the legislation.",
+                      "references": [
+                        {
+                          "text": "<ref>{{Cite news |last1=Keller-Lynn |first1=Carrie |last2=Sharon |first2=Jeremy |date=2023-03-27 |title=Over 100k at Knesset as PM delays planned speech; right organizes counter-protest |language=en-US |website=The Times of Israel |url=https://www.timesofisrael.com/mass-rally-at-knesset-as-pm-delays-planned-speech-right-plans-large-counter-protest/ |url-status=live |access-date=2023-03-31 |archive-url=https://web.archive.org/web/20230331170338/https://www.timesofisrael.com/mass-rally-at-knesset-as-pm-delays-planned-speech-right-plans-large-counter-protest/ |archive-date=31 March 2023}}</ref>",
+                          "url": "https://www.timesofisrael.com/mass-rally-at-knesset-as-pm-delays-planned-speech-right-plans-large-counter-protest/",
+                          "status_code": 403,
+                          "reason": "Forbidden",
+                          "type": "news"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "3.5.2.s4",
+                      "text": "In response to increasing pressure, Netanyahu agreed to delay the judicial legislation for a month. However, protesters stated that they would continue demonstrating until the legislation was shelved entirely. In an agreement with Itamar Ben-Gvir, who threatened to resign if the legislation were to be halted, Netanyahu promised to promote the foundation of a Thirty-seventh government of Israel#Creation of a National Guard|National Guard, which was to be headed by Ben-Gvir.",
+                      "references": [
+                        {
+                          "text": "<ref>{{Cite news |last=Lubell |first=Maayan |date=2023-03-27 |title=Netanyahu agrees to delay Israel's judicial overhaul until next parliament session |language=en |publisher=Reuters |url=https://www.reuters.com/world/middle-east/israeli-president-urges-halt-judicial-overhaul-after-protests-2023-03-27/ |url-status=bot: unknown |url-access=registration |access-date=2023-03-27 |archive-url=https://web.archive.org/web/20230327150526/https://www.reuters.com/world/middle-east/israeli-president-urges-halt-judicial-overhaul-after-protests-2023-03-27/ |archive-date=27 March 2023 }}</ref>",
+                          "url": "https://www.reuters.com/world/middle-east/israeli-president-urges-halt-judicial-overhaul-after-protests-2023-03-27/",
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{Cite news |last=McKernan |first=Bethan |date=2023-03-27 |title=Israel: Netanyahu announces delay to judicial overhaul plan |language=en-GB |work=The Guardian |url=https://www.theguardian.com/world/2023/mar/27/israel-netanyahu-judiciary-plans-halt |url-status=live |access-date=2023-03-28 |archive-url=https://web.archive.org/web/20230328030213/https://www.theguardian.com/world/2023/mar/27/israel-netanyahu-judiciary-plans-halt |archive-date=28 March 2023 |issn=0261-3077}}</ref>",
+                          "url": "https://www.theguardian.com/world/2023/mar/27/israel-netanyahu-judiciary-plans-halt",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{Cite news |last=Freedman |first=Eliyahu |date=2023-03-28 |title=Israel protesters vow to continue until judicial 'reform' gone |language=en |publisher=Al Jazeera Media Network|Al Jazeera |url=https://www.aljazeera.com/news/2023/3/28/israel-protesters-vow-to-continue-until-judicial-reform-gone |url-status=live |access-date=2023-03-28 |archive-url=https://web.archive.org/web/20230328154905/https://www.aljazeera.com/news/2023/3/28/israel-protesters-vow-to-continue-until-judicial-reform-gone |archive-date=28 March 2023}}</ref>",
+                          "url": "https://www.aljazeera.com/news/2023/3/28/israel-protesters-vow-to-continue-until-judicial-reform-gone",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "news"
+                        },
+                        {
+                          "text": "<ref>{{Cite news |last=Shpigel |first=Noa |date=2023-03-27 |title=Ben-Gvir Agrees to Netanyahu's Judicial Overhaul Delay in Exchange for Israeli National Guard |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-03-27/ty-article/.premium/ben-gvir-agrees-to-netanyahus-judicial-overhaul-delay-in-exchange-for-national-guard/00000187-23eb-d4ca-afff-33ebbc290000 |url-status=live |access-date=2023-04-03 |archive-url=https://web.archive.org/web/20230328012612/https://www.haaretz.com/israel-news/2023-03-27/ty-article/.premium/ben-gvir-agrees-to-netanyahus-judicial-overhaul-delay-in-exchange-for-national-guard/00000187-23eb-d4ca-afff-33ebbc290000 |archive-date=28 March 2023}}</ref>",
+                          "url": "https://www.haaretz.com/israel-news/2023-03-27/ty-article/.premium/ben-gvir-agrees-to-netanyahus-judicial-overhaul-delay-in-exchange-for-national-guard/00000187-23eb-d4ca-afff-33ebbc290000",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "news"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.6",
+          "title": "30 March–25 June",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.6.s1",
+                  "text": "From 1 April to 25 June, protests took place in several cities across the country on a weekly basis. The protests in Kaplan averaged between 100,000 and 200,000 people, except for 13 May, when the main protest was cancelled by the organizers due to a series of May 2023 Gaza–Israel clashes|clashes between Israel and organizations in the Gaza Strip, and replaced by a smaller demonstration. Another smaller protest took place on 30 March, with additional demonstrations on 10 and 12 April. On 20 April, delegates to the World Zionist Congress from ten countries took part in a march from the congress venue in Jerusalem to Israel's Supreme Court in opposition to the reforms, while a protest took place at the Jewish Federations of North America General Assembly on 23 April.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=2023-04-22 |title=With memorial candles, protesters across Israel rally against judicial overhaul |work=The Times of Israel |url=https://www.timesofisrael.com/with-memorial-candles-protesters-across-israel-rally-against-judicial-overhaul/ |url-status=live |access-date=2023-04-23 |archive-url=https://web.archive.org/web/20230423013312/https://www.timesofisrael.com/with-memorial-candles-protesters-across-israel-rally-against-judicial-overhaul/ |archive-date=23 April 2023}}</ref>",
+                      "url": "https://www.timesofisrael.com/with-memorial-candles-protesters-across-israel-rally-against-judicial-overhaul/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last= |first= |date=2023-04-09 |title='Democracy will win': Amid terror threat, hundreds of thousands protest overhaul |language=en-US |website=The Times of Israel |url=https://www.timesofisrael.com/democracy-will-win-amid-terror-threat-hundreds-of-thousands-protest-overhaul/ |url-status=live |access-date=2023-04-09 |archive-url=https://web.archive.org/web/20230409000420/https://www.timesofisrael.com/democracy-will-win-amid-terror-threat-hundreds-of-thousands-protest-overhaul/ |archive-date=9 April 2023}}</ref>",
+                      "url": "https://www.timesofisrael.com/democracy-will-win-amid-terror-threat-hundreds-of-thousands-protest-overhaul/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=2023-04-01 |script-title=he:בשבוע ה-13 ברציפות: כ-165 אלף מחו בתל אביב נגד המהפכה המשפטית, רבבות הפגינו ברחבי הארץ |language=he |trans-title=For the 13th week in a row: about 165 thousand protested in Tel Aviv against the legal revolution, thousands demonstrated throughout the country |website=Mako (website)|Mako |url=https://www.mako.co.il/news-israel/2023_q2/Article-0c9472729dc3781027.htm |url-status=live |access-date=2023-04-01 |archive-url=https://web.archive.org/web/20230401222706/https://www.mako.co.il/news-israel/2023_q2/Article-0c9472729dc3781027.htm |archive-date=1 April 2023}}</ref>",
+                      "url": "https://www.mako.co.il/news-israel/2023_q2/Article-0c9472729dc3781027.htm",
+                      "status_code": 403,
+                      "reason": "Invalid redirect destination",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Keller-Lynn |first=Carrie |date=2023-04-29 |title=Masses rally against prospect of fresh overhaul push, as Knesset about to reconvene |work=The Times of Israel |url=https://www.timesofisrael.com/protests-across-israel-as-knesset-to-reopen-amid-prospect-of-renewed-overhaul-push/ |url-status=live |access-date=2023-04-29 |archive-url=https://web.archive.org/web/20230430001038/https://www.timesofisrael.com/protests-across-israel-as-knesset-to-reopen-amid-prospect-of-renewed-overhaul-push/ |archive-date=30 April 2023}}</ref>",
+                      "url": "https://www.timesofisrael.com/protests-across-israel-as-knesset-to-reopen-amid-prospect-of-renewed-overhaul-push/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Starr |first=Michael |date=2023-05-06 |title=Hundreds of thousands of Israelis protest judicial reform for 18th straight week |work=The Jerusalem Post |url=https://www.jpost.com/israel-news/article-742239 |access-date=2023-05-07 |archive-date=7 May 2023 |archive-url=https://web.archive.org/web/20230507231721/https://www.jpost.com/israel-news/article-742239 |url-status=live }}</ref>",
+                      "url": "https://www.jpost.com/israel-news/article-742239",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":0\">{{Cite news |date=2023-05-27 |title=Over 200,000 protest judicial reform across Israel for 21st weekend |work=The Jerusalem Post |url=https://www.jpost.com/israel-news/politics-and-diplomacy/article-744364 |access-date=2023-05-27 |archive-date=27 May 2023 |archive-url=https://web.archive.org/web/20230527230623/https://www.jpost.com/israel-news/politics-and-diplomacy/article-744364 |url-status=live }}</ref>",
+                      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-744364",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Shimoni |first=Ran |date=2023-05-13 |title=Israel's Judicial Coup {{!}} Tens of Thousands Protest in Haifa, Tel Aviv Amid Gaza Rocket Fire |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-05-13/ty-article/.premium/protests-expected-in-haifa-smaller-demos-in-tel-aviv-despite-gaza-rocket-fire/00000188-1575-db03-adbd-35f5cab80000 |access-date=2023-05-14 |archive-date=26 July 2023 |archive-url=https://web.archive.org/web/20230726095831/https://www.haaretz.com/israel-news/2023-05-13/ty-article/.premium/protests-expected-in-haifa-smaller-demos-in-tel-aviv-despite-gaza-rocket-fire/00000188-1575-db03-adbd-35f5cab80000 |url-status=live }}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-05-13/ty-article/.premium/protests-expected-in-haifa-smaller-demos-in-tel-aviv-despite-gaza-rocket-fire/00000188-1575-db03-adbd-35f5cab80000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Kotev |first1=Adam |last2=Rubinstein |first2=Roy |last3=Glickman |first3=Eitan |last4=Hilai |first4=Sion |last5=Glick |first5=Zohar |date=2023-03-30 |title=הפגנה בת\"א בעד המהפכה המשפטית, נתיבי איילון נפתחו לתנועה אחרי שעתיים |script-title= |language=he |trans-title=Demonstration in Tel Aviv in favor of the legal revolution, Ayalon Highway lanes were opened to traffic after two hours |work=Ynet |url=https://www.ynet.co.il/news/article/bkhixz7wn |url-status=live |access-date=2023-03-31 |archive-url=https://web.archive.org/web/20230330184531/https://www.ynet.co.il/news/article/bkhixz7wn |archive-date=30 March 2023}}</ref>",
+                      "url": "https://www.ynet.co.il/news/article/bkhixz7wn",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Peleg |first1=Bar |last2=Shimoni |first2=Ran |last3=Breiner |first3=Josh |date=2023-04-11 |title=Anti-judicial Overhaul Protesters Block Tel Aviv Highway in Response to Netanyahu Speech |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-04-11/ty-article/.premium/anti-judicial-overhaul-protesters-block-tel-aviv-highway-in-response-to-netanyahu-speech/00000187-6ce4-dde0-afb7-7ef7e2b50000 |url-status=live |access-date=2023-04-11 |archive-url=https://web.archive.org/web/20230410231429/http://www.haaretz.com/israel-news/2023-04-11/ty-article/.premium/anti-judicial-overhaul-protesters-block-tel-aviv-highway-in-response-to-netanyahu-speech/00000187-6ce4-dde0-afb7-7ef7e2b50000 |archive-date=10 April 2023}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-04-11/ty-article/.premium/anti-judicial-overhaul-protesters-block-tel-aviv-highway-in-response-to-netanyahu-speech/00000187-6ce4-dde0-afb7-7ef7e2b50000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Hashmonai |first=Adi |date=2023-04-12 |title=Hundreds of Israelis Protest Outside Passover Event Attended by Netanyahu |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-04-12/ty-article/.premium/hundreds-of-israelis-protest-outside-passover-event-attended-by-netanyahu/00000187-76aa-d484-adef-f6ae6c9c0000 |url-status=live |access-date=2023-04-14 |archive-url=https://web.archive.org/web/20230418143843/https://www.haaretz.com/israel-news/2023-04-12/ty-article/.premium/hundreds-of-israelis-protest-outside-passover-event-attended-by-netanyahu/00000187-76aa-d484-adef-f6ae6c9c0000 |archive-date=18 April 2023}}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-04-12/ty-article/.premium/hundreds-of-israelis-protest-outside-passover-event-attended-by-netanyahu/00000187-76aa-d484-adef-f6ae6c9c0000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Kampeas |first=Ron |date=2023-04-21 |title=World Zionist Congress roiled by left- and right-wing protests, in sign of Independence Day tensions |language=en-US |publisher=Jewish Telegraphic Agency |url=https://www.jta.org/2023/04/21/politics/world-zionist-congress-roiled-by-left-and-right-wing-protests-in-sign-of-independence-day-tensions |url-status=live |access-date=2023-04-21 |archive-url=https://web.archive.org/web/20230421222016/https://www.jta.org/2023/04/21/politics/world-zionist-congress-roiled-by-left-and-right-wing-protests-in-sign-of-independence-day-tensions |archive-date=21 April 2023}}</ref>",
+                      "url": "https://www.jta.org/2023/04/21/politics/world-zionist-congress-roiled-by-left-and-right-wing-protests-in-sign-of-independence-day-tensions",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=2023-04-20 |title=Delegates to World Zionist Congress in Jerusalem spar over votes |work=The Times of Israel |url=https://www.timesofisrael.com/liveblog_entry/delegates-to-world-zionist-congress-in-jerusalem-spar-over-votes/ |url-status=live |access-date=2023-04-21 |archive-url=https://web.archive.org/web/20230421223528/https://www.timesofisrael.com/liveblog_entry/delegates-to-world-zionist-congress-in-jerusalem-spar-over-votes/ |archive-date=21 April 2023}}</ref>",
+                      "url": "https://www.timesofisrael.com/liveblog_entry/delegates-to-world-zionist-congress-in-jerusalem-spar-over-votes/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.6.s2",
+                  "text": "An additional day of protests took place on 4 May, dubbed a 'national equality day' by the protest organizers. It featured nationwide demonstrations for equal treatment, especially in regard to Exemption from military service in Israel|exemption from military service given to the Haredi Judaism|ultra-orthodox. Another target was the rabbinate's control over all issues relating to marriage among Jews in Israel. A protest outside Tel Aviv's Rabbinical Court (Israel)|rabbinical court included a group civil wedding for both straight and gay couples, all dressed in pink and standing under a pink chuppah. Israeli law does not permit civil marriage. The 20 May protests were broadened by the organizers to cover, in addition to the judicial reform, the proposed allocation of NIS 13.7 billion to coalition parties as part of the forthcoming state budget, benefitting primarily the ultra-Orthodox community, and the proposed municipal property tax fund which would transfer money from richer, mostly secular, towns to poorer, mostly ultra-Orthodox, ones.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last1=Sokol |first1=Sam |last2=Peleg |first2=Bar |date=2023-05-03 |title=Israeli Activists Kick Off National Day of Demonstrations With 'Milk Protest' in Tel Aviv |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-05-03/ty-article/.premium/dozens-of-protests-expected-across-israel-on-thursday-against-netanyahus-judicial-coup/00000187-e1d1-d92b-a3ef-fbd316fe0000 |access-date=2023-05-06 |archive-date=3 May 2023 |archive-url=https://web.archive.org/web/20230503181427/http://www.haaretz.com/israel-news/2023-05-03/ty-article/.premium/dozens-of-protests-expected-across-israel-on-thursday-against-netanyahus-judicial-coup/00000187-e1d1-d92b-a3ef-fbd316fe0000 |url-status=live }}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-05-03/ty-article/.premium/dozens-of-protests-expected-across-israel-on-thursday-against-netanyahus-judicial-coup/00000187-e1d1-d92b-a3ef-fbd316fe0000",
+                      "status_code": 503,
+                      "reason": "Service Unavailable",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=2023-05-04 |title=Israel Protest {{!}} Police Arrest Five in Haifa, Tel Aviv, During Day of Nationwide Pro-democracy Protests |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-05-04/ty-article-live/.premium/anti-govt-protesters-kick-off-national-equality-day-across-israel/00000187-e50d-dac5-a79f-f54dafcc0000 |access-date=2023-05-06 |archive-date=26 July 2023 |archive-url=https://web.archive.org/web/20230726095831/https://www.haaretz.com/israel-news/2023-05-04/ty-article-live/.premium/anti-govt-protesters-kick-off-national-equality-day-across-israel/00000187-e50d-dac5-a79f-f54dafcc0000#771608913 |url-status=live }}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-05-04/ty-article-live/.premium/anti-govt-protesters-kick-off-national-equality-day-across-israel/00000187-e50d-dac5-a79f-f54dafcc0000",
+                      "status_code": 503,
+                      "reason": "Service Unavailable",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Maltz |first=Judy |date=2023-05-04 |title=Protest in Pink: An Israeli Wedding Insurrection Against the Powerful Chief Rabbinate |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/haaretz-today/2023-05-04/ty-article/.highlight/protest-in-pink-an-israeli-insurrection-against-the-powerful-chief-rabbinate/00000187-e743-d230-abc7-f75be01b0000 |access-date=2023-05-06 |archive-date=26 July 2023 |archive-url=https://web.archive.org/web/20230726095908/https://www.haaretz.com/israel-news/haaretz-today/2023-05-04/ty-article/.highlight/protest-in-pink-an-israeli-insurrection-against-the-powerful-chief-rabbinate/00000187-e743-d230-abc7-f75be01b0000 |url-status=live }}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/haaretz-today/2023-05-04/ty-article/.highlight/protest-in-pink-an-israeli-insurrection-against-the-powerful-chief-rabbinate/00000187-e743-d230-abc7-f75be01b0000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Bachner |first=Michael |date=2023-05-20 |title=Rallying for 20th week, overhaul opponents also decry looming budget as 'a robbery' |work=The Times of Israel |url=https://www.timesofisrael.com/rallying-for-20th-week-overhaul-opponents-also-decry-looming-budget-as-a-robbery/ |access-date=2023-05-21 |archive-date=21 May 2023 |archive-url=https://web.archive.org/web/20230521230208/https://www.timesofisrael.com/rallying-for-20th-week-overhaul-opponents-also-decry-looming-budget-as-a-robbery/?utm_source=article_hpsidebar&utm_medium=desktop_site&utm_campaign=anti-overhaul-protests-set-to-enter-20th-week-as-compromise-talks-remain-stalled |url-status=live }}</ref>",
+                      "url": "https://www.timesofisrael.com/rallying-for-20th-week-overhaul-opponents-also-decry-looming-budget-as-a-robbery/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Peleg |first1=Bar |last2=Hashmonai |first2=Adi |date=2023-05-20 |title=Israelis Take to the Streets for 20th Week of Protests Against Netanyahu's Judicial Coup |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-05-20/ty-article/.premium/israelis-take-to-the-streets-for-20th-week-of-protests-against-netanyahus-judicial-coup/00000188-394c-d805-a7c9-f9cda3060000 |access-date=2023-05-21 |archive-date=26 July 2023 |archive-url=https://web.archive.org/web/20230726095837/https://www.haaretz.com/israel-news/2023-05-20/ty-article/.premium/israelis-take-to-the-streets-for-20th-week-of-protests-against-netanyahus-judicial-coup/00000188-394c-d805-a7c9-f9cda3060000 |url-status=live }}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-05-20/ty-article/.premium/israelis-take-to-the-streets-for-20th-week-of-protests-against-netanyahus-judicial-coup/00000188-394c-d805-a7c9-f9cda3060000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.6.s3",
+                  "text": "On 10 June, around 80,000 protesters participated in the main demonstration in Tel Aviv. They were joined by thousands of others in around 150 locations around the country. Many of the events started with a moment of silence in memory of the victims of a wave of killings in the Arab Israeli community.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=2023-06-10 |title=Judicial reform protests continue across Israel for 23rd straight week |work=The Jerusalem Post |url=https://www.jpost.com/israel-news/article-745873 |access-date=2023-06-11 |archive-date=11 June 2023 |archive-url=https://web.archive.org/web/20230611223850/https://www.jpost.com/israel-news/article-745873 |url-status=live }}</ref>",
+                      "url": "https://www.jpost.com/israel-news/article-745873",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=2023-06-10 |title='Not the time for a time-out': Mass anti-overhaul protests held for 23rd week |work=The Times of Israel |url=https://www.timesofisrael.com/not-the-time-for-a-time-out-mass-anti-overhaul-protests-held-for-23rd-week/ |access-date=2023-06-11 |archive-date=11 June 2023 |archive-url=https://web.archive.org/web/20230611223842/https://www.timesofisrael.com/not-the-time-for-a-time-out-mass-anti-overhaul-protests-held-for-23rd-week/ |url-status=live }}</ref>",
+                      "url": "https://www.timesofisrael.com/not-the-time-for-a-time-out-mass-anti-overhaul-protests-held-for-23rd-week/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.7",
+          "title": "26 June–6 October",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.7.s1",
+                  "text": "\" in front of the home of Justice Minister Yariv Levin in Modi'in-Maccabim-Re'ut|Modi'in, June 27, 2023]]\n, Shikma Bressler, Moshe Radman, and Ami Dror]]\nOn 26 June, the Knesset's Constitution, Law and Justice Committee met to advance a bill that would revoke the reasonableness standard, which has previously been used by the courts to block certain administrative decisions by the government and other authorities. As a result, the protest movement ramped up its activities, with the protests being joined by road blockings. The weekly protests were joined by a protest on 5 July, after Tel Aviv's police chief Amichai Eshed, who was due to be demoted because of his refusal to use \"disproportionate force\" against the protesters, announced his resignation, and on 9 July, ahead of a scheduled reading on the reasonabless standard bill the following day.<ref name=\"auto\"/>",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last1=Tov |first1=Michael Hauser |last2=Peleg |first2=Bar |date=2023-06-26 |title='A Black Hole' for Israel's Democracy: AG Issues Warning Over Latest Legislative Push |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-06-26/ty-article/.premium/a-black-hole-for-israels-democracy-ag-issues-warning-over-latest-legislative-push/00000188-f6d9-d894-af8d-ffdde45d0000 |access-date=2023-06-28 |archive-date=26 June 2023 |archive-url=https://web.archive.org/web/20230626103009/https://www.haaretz.com/israel-news/2023-06-26/ty-article/.premium/a-black-hole-for-israels-democracy-ag-issues-warning-over-latest-legislative-push/00000188-f6d9-d894-af8d-ffdde45d0000 |url-status=live }}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-06-26/ty-article/.premium/a-black-hole-for-israels-democracy-ag-issues-warning-over-latest-legislative-push/00000188-f6d9-d894-af8d-ffdde45d0000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":1\">{{Cite news |last1=Peleg |first1=Bar |last2=Kubovich |first2=Yaniv |date=2023-06-27 |title=Amid New Momentum, Israeli Protest Leaders Call for Demonstrations at Int'l Airport as More Reservists Threaten No-shows |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-06-27/ty-article/.premium/israeli-protest-leaders-call-for-demonstrations-at-airport-reservists-threaten-no-shows/00000188-fd5c-d6ce-abb9-fd7f67820000 |access-date=2023-06-28 |archive-date=26 July 2023 |archive-url=https://web.archive.org/web/20230726095837/https://www.haaretz.com/israel-news/2023-06-27/ty-article/.premium/israeli-protest-leaders-call-for-demonstrations-at-airport-reservists-threaten-no-shows/00000188-fd5c-d6ce-abb9-fd7f67820000 |url-status=live }}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-06-27/ty-article/.premium/israeli-protest-leaders-call-for-demonstrations-at-airport-reservists-threaten-no-shows/00000188-fd5c-d6ce-abb9-fd7f67820000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Overhaul critics seek show of force in afternoon protest at Ben Gurion Airport |url=https://www.timesofisrael.com/overhaul-critics-seek-show-of-force-in-afternoon-protest-at-ben-gurion-airport/ |access-date=2023-07-06 |website=The Times of Israel |language=en-US |archive-date=6 July 2023 |archive-url=https://web.archive.org/web/20230706034314/https://www.timesofisrael.com/overhaul-critics-seek-show-of-force-in-afternoon-protest-at-ben-gurion-airport/ |url-status=live }}</ref>",
+                      "url": "https://www.timesofisrael.com/overhaul-critics-seek-show-of-force-in-afternoon-protest-at-ben-gurion-airport/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Ashkenazi |first1=Eli |last2=Harel |first2=Erez |last3=Gabai |first3=Shlomi |date=2023-07-03 |title=\"למה נתניהו ממשיך בחקיקה בזמן מבצע?\": מאות מפגינים חסמו את הכניסה לנמל חיפה – וואלה! חדשות |trans-title=\"Why is Netanyahu continuing with legislation during the operation?\": Hundreds of protesters blocked the entrance to Haifa port |url=https://news.walla.co.il/item/3591090 |access-date=2023-07-06 |website=Walla! |language=he |archive-date=6 July 2023 |archive-url=https://web.archive.org/web/20230706034549/https://news.walla.co.il/item/3591090 |url-status=live }}</ref>",
+                      "url": "https://news.walla.co.il/item/3591090",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Thousands take to the streets, block roads after Tel Aviv police chief steps down |url=https://www.timesofisrael.com/thousands-take-to-the-streets-block-roads-after-tel-aviv-police-chief-steps-down/ |access-date=2023-07-06 |website=The Times of Israel |language=en-US |archive-date=6 July 2023 |archive-url=https://web.archive.org/web/20230706033109/https://www.timesofisrael.com/thousands-take-to-the-streets-block-roads-after-tel-aviv-police-chief-steps-down/ |url-status=live }}</ref>",
+                      "url": "https://www.timesofisrael.com/thousands-take-to-the-streets-block-roads-after-tel-aviv-police-chief-steps-down/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=המחאה מתגברת: הפגנות ברחבי הארץ, אלפים חסמו את איילון {{!}} חדשות 13 |trans-title=The protest is increasing: demonstrations across the country, thousands blocked Ayalon |url=https://13tv.co.il/item/news/domestic/internal/hqfsi-903602338/ |access-date=2023-07-06 |website=Channel 13 (Israel)|Channel 13 |language=he |archive-date=5 July 2023 |archive-url=https://web.archive.org/web/20230705221209/https://13tv.co.il/item/news/domestic/internal/hqfsi-903602338/ |url-status=live }}</ref>",
+                      "url": "https://13tv.co.il/item/news/domestic/internal/hqfsi-903602338/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.7.s2",
+                  "text": "On 27 June, over 300 IDF reservists, organised by the Brothers in Arms (organization)|Brothers in Arms ({{langx|he|אחים לנשק}}) movement, protested against the reforms outside the home of Yariv Levin. The Israeli police announced that they would investigate whether statements made by former Prime Minister Ehud Barak and former IDF Deputy Chief of Staff Yair Golan, in which they called on protesters to engage in civil disobedience, constitute sedition.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last=Shimoni |first=Ran |date=2023-06-27 |title=Dozens of Israeli Reservists Protest Judicial Overhaul Outside Justice Minister's Home, Six Arrested |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/judicial-coup/2023-06-27/ty-article/.premium/over-200-israeli-reservists-protest-judicial-overhaul-outside-justice-ministers-home/00000188-fb0f-d6ce-abb9-ff7f95b10000 |access-date=2023-06-27 |archive-date=26 July 2023 |archive-url=https://web.archive.org/web/20230726095832/https://www.haaretz.com/israel-news/judicial-coup/2023-06-27/ty-article/.premium/over-200-israeli-reservists-protest-judicial-overhaul-outside-justice-ministers-home/00000188-fb0f-d6ce-abb9-ff7f95b10000 |url-status=live }}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/judicial-coup/2023-06-27/ty-article/.premium/over-200-israeli-reservists-protest-judicial-overhaul-outside-justice-ministers-home/00000188-fb0f-d6ce-abb9-ff7f95b10000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Breiner |first=Josh |date=2023-06-27 |title=Former PM Barak and ex-Meretz Lawmaker Could Be Investigated for Sedition by Israel Police |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-06-27/ty-article/netanyahus-party-demands-investigation-after-ex-mk-calls-for-illegal-resistance-to-coup/00000188-fda0-dd5e-a1ac-fdffcd4c0000 |access-date=2023-06-27 |archive-date=26 July 2023 |archive-url=https://web.archive.org/web/20230726100358/https://www.haaretz.com/israel-news/2023-06-27/ty-article/netanyahus-party-demands-investigation-after-ex-mk-calls-for-illegal-resistance-to-coup/00000188-fda0-dd5e-a1ac-fdffcd4c0000 |url-status=live }}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-06-27/ty-article/netanyahus-party-demands-investigation-after-ex-mk-calls-for-illegal-resistance-to-coup/00000188-fda0-dd5e-a1ac-fdffcd4c0000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=McKernan |first=Bethan |date=2023-06-28 |title=Former Israeli PM and ex-parliamentarian investigated by police |language=en-GB |work=The Guardian |url=https://www.theguardian.com/world/2023/jun/28/former-israeli-pm-ehud-barak-and-ex-parliamentarian-yair-golam-investigated-by-police |access-date=2023-06-28 |issn=0261-3077 |archive-date=28 June 2023 |archive-url=https://web.archive.org/web/20230628123440/https://www.theguardian.com/world/2023/jun/28/former-israeli-pm-ehud-barak-and-ex-parliamentarian-yair-golam-investigated-by-police |url-status=live }}</ref>",
+                      "url": "https://www.theguardian.com/world/2023/jun/28/former-israeli-pm-ehud-barak-and-ex-parliamentarian-yair-golam-investigated-by-police",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.7.s3",
+                  "text": "After the reasonableness standard bill passed its first reading, major demonstrations were held on 11 July with protesters taking part in another \"day of disruption\" by blocking inter-city highways, protesting at Ben Gurion Airport and outside the President's Residence in Jerusalem. Protesters who entered the Knesset building were forced out by security. Protesters took part in another day of disruption on 18 July, alongside additional protests on 19 and 20 July. The 19 July protests included a partial, two-hour strike by doctors of the Israel Medical Association.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":3\">{{Cite news |last=Peleg |first=Bar |date=11 July 2023 |title=Judicial Overhaul Protesters to Grind Israel to a Halt After Blow to 'Reasonableness Standard' |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-07-11/ty-article/.premium/protesters-to-grind-israel-to-a-halt-after-blow-to-reasonableness-standard/00000189-413d-d9a2-a5af-59bde06e0000 |access-date=2023-07-11 |archive-date=26 July 2023 |archive-url=https://web.archive.org/web/20230726100331/https://www.haaretz.com/israel-news/2023-07-11/ty-article/.premium/protesters-to-grind-israel-to-a-halt-after-blow-to-reasonableness-standard/00000189-413d-d9a2-a5af-59bde06e0000 |url-status=live }}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-07-11/ty-article/.premium/protesters-to-grind-israel-to-a-halt-after-blow-to-reasonableness-standard/00000189-413d-d9a2-a5af-59bde06e0000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Lubell |first1=Maayan |title=Israel's Knesset gives first nod to contested Supreme Court bill |url=https://www.reuters.com/world/middle-east/israel-knesset-set-vote-new-supreme-court-bill-2023-07-10/ |website=Reuters |date=11 July 2023 |access-date=11 July 2023 |archive-date=11 July 2023 |archive-url=https://web.archive.org/web/20230711111519/https://www.reuters.com/world/middle-east/israel-knesset-set-vote-new-supreme-court-bill-2023-07-10/ |url-status=live }}</ref>",
+                      "url": "https://www.reuters.com/world/middle-east/israel-knesset-set-vote-new-supreme-court-bill-2023-07-10/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |title=Israel's Knesset adopts key clause of controversial judicial overhaul |url=https://www.france24.com/en/middle-east/20230710-israel-s-knesset-to-vote-on-controversial-judicial-overhaul |website=france24 |date=10 July 2023 |access-date=11 July 2023 |archive-date=11 July 2023 |archive-url=https://web.archive.org/web/20230711111520/https://www.france24.com/en/middle-east/20230710-israel-s-knesset-to-vote-on-controversial-judicial-overhaul |url-status=live }}</ref>",
+                      "url": "https://www.france24.com/en/middle-east/20230710-israel-s-knesset-to-vote-on-controversial-judicial-overhaul",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Shapir |first=Nitsan |last2= |first2= |date=2023-07-18 |title=יום ההתנגדות למהפכה המשפטית: הפגנות המוניות וחסימות כבישים |work=Globes |url=https://www.globes.co.il/news/article.aspx?did=1001452565 |access-date=2023-07-22 |archive-date=22 July 2023 |archive-url=https://web.archive.org/web/20230722145106/https://www.globes.co.il/news/article.aspx?did=1001452565 |url-status=live }}</ref>",
+                      "url": "https://www.globes.co.il/news/article.aspx?did=1001452565",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=אל-חי |first1=ליאור |last2=צ'כנובר |first2=יעל |last3=צור |first3=רענן בן |date=2023-07-20 |title=הצעדה לירושלים נמשכת, כ-2,000 הפגינו בחיפה: \"גלנט, נווט לחוף מבטחים\" |language=he |work=Ynet |url=https://www.ynet.co.il/news/article/b12i0euq3 |access-date=2023-07-22 |archive-date=22 July 2023 |archive-url=https://web.archive.org/web/20230722145106/https://www.ynet.co.il/news/article/b12i0euq3 |url-status=live }}</ref>",
+                      "url": "https://www.ynet.co.il/news/article/b12i0euq3",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=ynet |first=כתבי |date=2023-07-20 |title=\"ביבי – לא ניכנע\": אלפי מפגינים ברחבי הארץ וחסימות כבישים ב\"ליל ההתנגדות\" |language=he |work=Ynet |url=https://www.ynet.co.il/news/article/h1uwlydq3 |access-date=2023-07-22 |archive-date=20 July 2023 |archive-url=https://web.archive.org/web/20230720174449/https://www.ynet.co.il/news/article/h1uwlydq3 |url-status=live }}</ref>",
+                      "url": "https://www.ynet.co.il/news/article/h1uwlydq3",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Yanko |first=Adir |date=2023-07-20 |title=אחרי השביתה: יו\"ר הוועדה נוקם בהסתדרות הרפואית, השר שותק |language=he |work=Ynet |url=https://www.ynet.co.il/health/article/rjcxat8c2 |access-date=2023-07-22 |archive-date=22 July 2023 |archive-url=https://web.archive.org/web/20230722145106/https://www.ynet.co.il/health/article/rjcxat8c2 |url-status=live }}</ref>",
+                      "url": "https://www.ynet.co.il/health/article/rjcxat8c2",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.7.s4",
+                  "text": "On the evening of 18 July, protest leaders announced their intention to march from Kaplan Street in Tel Aviv to the Knesset building in Jerusalem. The march began with several hundred people, which became tens of thousands by 22 July. The protesters stopped in Shoresh on 21 July, before resuming the march on 22 July. According to media reports, this was one of the largest marches of its kind ever to take place in Israel.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last1=Tugerman |first1=Meir |last2=Kotev |first2=Adam |date=2023-07-18 |title=מאות מפגינים צועדים מת\"א לירושלים: \"נבנה את האומה מחדש מתוך השבר\" |language=he |work=Ynet |url=https://www.ynet.co.il/news/article/hjczownc2 |access-date=2023-07-22 |archive-date=21 July 2023 |archive-url=https://web.archive.org/web/20230721152440/https://www.ynet.co.il/news/article/hjczownc2 |url-status=live }}</ref>",
+                      "url": "https://www.ynet.co.il/news/article/hjczownc2",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=טובמן |first=פולי |date=2023-07-22 |title=רבבות צועדים לירושלים, מחאה גם בערב: האם החקיקה תרוכך? |work=Globes |url=https://www.globes.co.il/news/article.aspx?did=1001453016 |access-date=2023-07-22 |archive-date=22 July 2023 |archive-url=https://web.archive.org/web/20230722145106/https://www.globes.co.il/news/article.aspx?did=1001453016 |url-status=live }}</ref>",
+                      "url": "https://www.globes.co.il/news/article.aspx?did=1001453016",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Hasson |first1=Nir |last2=Peleg |first2=Bar |date=2023-07-22 |title=המפגינים שינו את הכללים, וירושלים ראתה צעדת מחאה חסרת תקדים |language=he |work=הארץ |url=https://www.haaretz.co.il/news/politi/2023-07-22/ty-article-magazine/.premium/00000189-7ea9-de6d-a1ef-ffeba7df0000 |url-status=live |access-date=2023-07-22 |archive-url=https://web.archive.org/web/20230723011622/https://www.haaretz.co.il/news/politi/2023-07-22/ty-article-magazine/.premium/00000189-7ea9-de6d-a1ef-ffeba7df0000 |archive-date=23 July 2023}}</ref>",
+                      "url": "https://www.haaretz.co.il/news/politi/2023-07-22/ty-article-magazine/.premium/00000189-7ea9-de6d-a1ef-ffeba7df0000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.7.s5",
+                  "text": "A group of 200 Israeli tech companies announced their participation in the 23 July protests. The group, which included Wix.com|Wix, Wiz (company)|Wiz, Monday.com|Monday and Redis (company)|Redis, chartered 100 buses to allow employees to arrive at the protests. In the same demonstration, former President of the Supreme Court of Israel|President of the Supreme Court Aharon Barak said that abolishing the reasonableness cause would lead to a \"grave national disaster\".",
+                  "references": [
+                    {
+                      "text": "<ref name=\":5\">{{Cite news |last=כהן |first=שגיא |date=2023-07-22 |title=200 חברות הייטק יגיעו ב-100 אוטובוסים להפגנה בכנסת: \"הגענו למאני טיים\" |language=he |work=הארץ |url=https://www.haaretz.co.il/tmr/technation/2023-07-22/ty-article/.premium/00000189-7e6b-de6d-a1ef-ffeb4d150000 |access-date=2023-07-22 |archive-date=26 July 2023 |archive-url=https://web.archive.org/web/20230726100355/https://www.haaretz.co.il/tmr/technation/2023-07-22/ty-article/.premium/00000189-7e6b-de6d-a1ef-ffeb4d150000 |url-status=live }}</ref>",
+                      "url": "https://www.haaretz.co.il/tmr/technation/2023-07-22/ty-article/.premium/00000189-7e6b-de6d-a1ef-ffeb4d150000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":5\" /> Speaking at a demonstration in Jerusalem that day, former president Reuven Rivlin said that \"the crisis is serious and real\", and called on Netanyahu to \"save these people from a... [potential] civil war\".<ref group=\"notes\">Originally: ''war among brothers'' (מלחמת אחים).</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": null
+                    },
+                    {
+                      "text": "<ref name=\":6\">{{Cite web |date=2023-07-23 |title=רבבות הפגינו בי-ם נגד ההפיכה ובת\"א בעדה; הנשיא לשעבר ריבלין לנתניהו: \"הצל את העם הזה\" |url=https://www.calcalist.co.il/local_news/article/skydjr9ch |access-date=2023-07-23 |website=כלכליסט |language=he |archive-date=23 July 2023 |archive-url=https://web.archive.org/web/20230723213332/https://www.calcalist.co.il/local_news/article/skydjr9ch |url-status=live }}</ref>",
+                      "url": "https://www.calcalist.co.il/local_news/article/skydjr9ch",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":6\" /> Former Supreme Court Justice Ayala Procaccia made a similar warning.<ref>{{Cite web |last1=טויזר |first1=ענבר |last2=נעים |first2=לי |date=2023-07-23 |title=N12 – המונים עושים את דרכם לירושלים בדרישה לעצור את החקיקה... |url=https://www.mako.co.il/news-politics/legal_reforms/Article-e3590b0e7138981027.htm |access-date=2023-07-23 |website=N12 |archive-date=23 July 2023 |archive-url=https://web.archive.org/web/20230723212228/https://www.mako.co.il/news-politics/legal_reforms/Article-e3590b0e7138981027.htm |url-status=live }}</ref>",
+                      "url": "https://www.mako.co.il/news-politics/legal_reforms/Article-e3590b0e7138981027.htm",
+                      "status_code": 403,
+                      "reason": "Invalid redirect destination",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.7.s6",
+                  "text": "On 23 July, the Israel Business Forum{{Snd}}a group composed of the 150 largest companies in Israel, which include most private sector employees{{Snd}}announced it would go on strike the following day as an \"emergency measure\", calling on Netanyahu to \"fulfill his duty\" and \"stop the legislation immediately\". The same day, hundreds of Israeli protesters and local supporters in New York marched across the Brooklyn Bridge in protest of the overhaul.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last1=שלום יתח |first1=ינון |last2=יגנה |first2=יניר |date=2023-07-23 |title=פורום העסקים, המונה כ-150 חברות, הודיע על שביתה במשק ממחר |url=https://news.walla.co.il/item/3596363 |url-status=live |archive-url=https://web.archive.org/web/20230723203820/https://news.walla.co.il/item/3596363 |archive-date=23 July 2023 |access-date=2023-07-23 |website=Walla! |language=he}}</ref>",
+                      "url": "https://news.walla.co.il/item/3596363",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Tress |first=Luke |title=Hundreds of anti-overhaul protesters march across New York's Brooklyn Bridge |url=https://www.timesofisrael.com/liveblog_entry/hundreds-of-anti-overhaul-protesters-march-across-new-yorks-brooklyn-bridge/ |access-date=2023-08-17 |website=www.timesofisrael.com |language=en-US}}</ref>",
+                      "url": "https://www.timesofisrael.com/liveblog_entry/hundreds-of-anti-overhaul-protesters-march-across-new-yorks-brooklyn-bridge/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.7.s7",
+                  "text": "On 24 July, the Knesset approved the first measure of the reform, which prevents judges from striking down government decisions on grounds of unreasonableness. The entire Knesset opposition boycotted the vote. In one demonstration after the vote, several protesters were wounded after a vehicle accelerated into them.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"iscp\" /> The Movement for Quality Government in Israel, Association for Civil Rights in Israel and Israel Bar Association, Civil Democratic Movement and the Darkenu advocacy group all filed or planned to file petitions with the High Court of Justice (Israel)|High Court of Justice against this legislation, as were various private individuals.<ref>{{cite news |last1=Starr |first1=Michael |title=NGOs prepare High Court petitions against reasonableness |url=https://www.jpost.com/israel-news/politics-and-diplomacy/article-752262 |access-date=24 July 2023 |work=The Jerusalem Post |date=24 July 2023 |archive-date=24 July 2023 |archive-url=https://web.archive.org/web/20230724135158/https://www.jpost.com/israel-news/politics-and-diplomacy/article-752262 |url-status=live }}</ref>",
+                      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-752262",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=מענית |first=חן |date=2023-07-24 |title=הוגשו עתירות לבג\"ץ נגד החוק לביטול עילת הסבירות: פוגע במהותה של ישראל כדמוקרטיה |language=he |work=הארץ |url=https://www.haaretz.co.il/news/law/2023-07-24/ty-article/.premium/00000189-8818-d95c-a7ab-fd7932170000 |access-date=2023-07-24 |archive-date=26 July 2023 |archive-url=https://web.archive.org/web/20230726100333/https://www.haaretz.co.il/news/law/2023-07-24/ty-article/.premium/00000189-8818-d95c-a7ab-fd7932170000 |url-status=live }}</ref>",
+                      "url": "https://www.haaretz.co.il/news/law/2023-07-24/ty-article/.premium/00000189-8818-d95c-a7ab-fd7932170000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Ran |first1=Shimoni |title=Israel's Democratic Crisis {{!}} Netanyahu Coalition Passes Key Judicial Coup Law Amid National Conflict |url=https://www.haaretz.com/israel-news/2023-07-24/ty-article-live/israel-on-strike-in-lead-up-to-crucial-knesset-vote-protesters-converge-on-jerusalem/00000189-861e-d5eb-abcb-ffdeeb1a0000 |access-date=24 July 2023 |work=Haaretz |date=24 July 2023 |archive-date=24 July 2023 |archive-url=https://web.archive.org/web/20230724115425/https://www.haaretz.com/israel-news/2023-07-24/ty-article-live/israel-on-strike-in-lead-up-to-crucial-knesset-vote-protesters-converge-on-jerusalem/00000189-861e-d5eb-abcb-ffdeeb1a0000 |url-status=live }}</ref>",
+                      "url": "https://www.haaretz.com/israel-news/2023-07-24/ty-article-live/israel-on-strike-in-lead-up-to-crucial-knesset-vote-protesters-converge-on-jerusalem/00000189-861e-d5eb-abcb-ffdeeb1a0000",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.7.s8",
+                  "text": "On 4 August, Arthur Dantchik, the main donor to the Kohelet Policy Forum, the right-wing think tank responsible for designing much of the overhaul, announced that he would cease his donations, following months of protests against him by Israelis in the Philadelphia region.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=2023-08-05 |title=כך הכניעה המחאה את התורם המרכזי לפורום קהלת {{!}} כלכליסט |url=https://www.calcalist.co.il/local_news/article/bk11ukjhih |access-date=2023-08-17 |website=calcalist |language=he}}</ref>",
+                      "url": "https://www.calcalist.co.il/local_news/article/bk11ukjhih",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.7.s9",
+                  "text": "Between 17 and 18 August, protests took place at the opening of the Tel Aviv Light Rail, which included demonstrations against the reform and against public transportation not operating on the Sabbath.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last1=צ'כנובר |first1=יעל |last2=קוטב |first2=אדם |last3=רובינשטיין |first3=רועי |date=2023-08-18 |title=\"הברבי הזאת נוסעת בשבת\": מפגינים אזקו עצמם במשך שעתיים לרכבת הקלה בתל אביב |language=he |work=Ynet |url=https://www.ynet.co.il/news/article/ryxyythhn |access-date=2023-09-22}}</ref>",
+                      "url": "https://www.ynet.co.il/news/article/ryxyythhn",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.7.s10",
+                  "text": "On 22 September 2023, around 3,000 Israelis and American Jews protested outside the Headquarters of the United Nations|United Nations headquarters in New York City, as Netanyahu spoke before the United Nations General Assembly|general assembly there. Organisers called it the largest anti-government demonstration outside of Israel since Netanyahu returned to power. A group of about 200 joined the protest, calling themselves the anti-occupation bloc, carrying Palestinian flags and wearing black shirts stating \"there is no democracy with occupation\". They stated that the struggle against the judicial overhaul does not end with a return to a \"democracy for Jews and a military regime for the Palestinians\".",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |date=22 September 2023 |title=Thousands in New York City protest Israel's judicial overhaul as Netanyahu addresses UN |url=https://www.theguardian.com/us-news/2023/sep/22/israel-netanyahu-new-york-protest-judicial-overhaul |accessdate=23 September 2023 |work=The Guardian}}</ref>",
+                      "url": "https://www.theguardian.com/us-news/2023/sep/22/israel-netanyahu-new-york-protest-judicial-overhaul",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.8",
+          "title": "7 October–12 October",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.8.s1",
+                  "text": "On 7 October, most protests were cancelled due to the onset of the Gaza war. Some demonstrations continued despite the fighting until 12 October, when National Unity (Israel)|National Unity joined an Israeli war cabinet|emergency wartime government, freezing all new, non-emergency legislation, including the judicial reform, as part of the deal.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":7\" /><ref name=\":8\" /> Some groups which used to protest against the reform, such as Bonot Alternativa, decided to mobilize their supporters to aid the war effort.<ref name=\":9\">{{Cite web |date=2023-11-05 |title=How Israel’s judicial reform protesters shifted focus to aiding victims of Hamas |url=https://www.pbs.org/newshour/show/how-israels-judicial-reform-protesters-shifted-focus-to-aiding-victims-of-hamas |access-date=2024-05-23 |website=PBS NewsHour |language=en-us}}</ref>",
+                      "url": "https://www.pbs.org/newshour/show/how-israels-judicial-reform-protesters-shifted-focus-to-aiding-victims-of-hamas",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Pro-reform demonstrations",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "On 27 March, as reports surfaced that Netanyahu may delay the judicial legislation, tens of thousands of supporters of the reform arrived outside the Supreme Court, calling on the government not to fold to pressure and to keep going as planned.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Keller-Lynn |first=Carrie |date=27 March 2023 |title=In first, tens of thousands rally to back overhaul; ministers promise it will pass |work=The Times of Israel |url=https://www.timesofisrael.com/in-first-tens-of-thousands-rally-to-back-overhaul-ministers-promise-it-will-pass/ |url-status=live |access-date=30 March 2023 |archive-url=https://web.archive.org/web/20230330031614/https://www.timesofisrael.com/in-first-tens-of-thousands-rally-to-back-overhaul-ministers-promise-it-will-pass/ |archive-date=30 March 2023}}</ref>",
+                  "url": "https://www.timesofisrael.com/in-first-tens-of-thousands-rally-to-back-overhaul-ministers-promise-it-will-pass/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "On 3 April, protests in support of the reform took place outside President Herzog's residence. Protesters held signs in Hebrew stating \"Benjamin Netanyahu, the people of Israel are with you.\"",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Baruch |first=Hezki |date=2023-04-03 |title=Demonstrators at Herzog's home: 'We will continue the reform' |language=en |website=Israel National News |url=https://www.israelnationalnews.com/news/369594 |url-status=live |access-date=2023-04-04 |archive-url=https://web.archive.org/web/20230403202206/https://www.israelnationalnews.com/news/369594 |archive-date=3 April 2023}}</ref>",
+                  "url": "https://www.israelnationalnews.com/news/369594",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "On 15 April, amidst anti-reform demonstrations, the right-wing Im Tirtzu organization held counter-protests in support of the changes in 12 locations across the country. According to ''The Times of Israel'', \"these did not appear to draw large crowds\", and according to ''Arutz Sheva'' they attracted tens of thousands.",
+              "references": [
+                {
+                  "text": "<ref name=\":112\">{{Cite news |date=2023-04-15 |title=Hundreds of thousands rally against judicial overhaul plans for a 15th straight week |work=The Times of Israel |url=https://www.timesofisrael.com/hundreds-of-thousands-rally-against-judicial-overhaul-plans-for-a-15th-straight-week/ |url-status=live |access-date=2023-04-15 |archive-url=https://web.archive.org/web/20230415232935/https://www.timesofisrael.com/hundreds-of-thousands-rally-against-judicial-overhaul-plans-for-a-15th-straight-week/ |archive-date=15 April 2023}}</ref>",
+                  "url": "https://www.timesofisrael.com/hundreds-of-thousands-rally-against-judicial-overhaul-plans-for-a-15th-straight-week/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":112\" /> while according to Channel 14 (Israel)|Channel 14 the counter-protests attracted thousands of supporters,<ref>{{Cite news |date=2023-04-15 |script-title=he:\"לא שווים פחות\": אלפים בהפגנות תמיכה ברפורמה ברחבי הארץ |language=he |trans-title='Not worth less': thousands in demonstrations of support for the reform throughout the country |publisher=Channel 14 (Israel) |url=https://www.now14.co.il/%D7%9C%D7%90-%D7%A9%D7%95%D7%95%D7%99%D7%9D-%D7%A4%D7%97%D7%95%D7%AA-%D7%97%D7%9B%D7%99%D7%9D-%D7%9E%D7%94%D7%9C%D7%99%D7%9B%D7%95%D7%93-%D7%99%D7%92%D7%99%D7%A2%D7%95-%D7%9C%D7%94%D7%A4%D7%92/ |url-status=live |access-date=2023-04-16 |archive-url=https://web.archive.org/web/20230416001522/https://www.now14.co.il/%D7%9C%D7%90-%D7%A9%D7%95%D7%95%D7%99%D7%9D-%D7%A4%D7%97%D7%95%D7%AA-%D7%97%D7%9B%D7%99%D7%9D-%D7%9E%D7%94%D7%9C%D7%99%D7%9B%D7%95%D7%93-%D7%99%D7%92%D7%99%D7%A2%D7%95-%D7%9C%D7%94%D7%A4%D7%92/ |archive-date=16 April 2023}}</ref>",
+                  "url": "https://www.now14.co.il/%D7%9C%D7%90-%D7%A9%D7%95%D7%95%D7%99%D7%9D-%D7%A4%D7%97%D7%95%D7%AA-%D7%97%D7%9B%D7%99%D7%9D-%D7%9E%D7%94%D7%9C%D7%99%D7%9B%D7%95%D7%93-%D7%99%D7%92%D7%99%D7%A2%D7%95-%D7%9C%D7%94%D7%A4%D7%92/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Baruch |first=Hezki |date=2023-04-15 |title=Tens of thousands at nationwide pro-judicial reform demonstrations |work=Arutz Sheva |url=https://www.israelnationalnews.com/news/370000 |url-status=live |access-date=2023-04-15 |archive-url=https://web.archive.org/web/20230415222014/https://www.israelnationalnews.com/news/370000 |archive-date=15 April 2023}}</ref>",
+                  "url": "https://www.israelnationalnews.com/news/370000",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s4",
+              "text": "On 19 April, around 300 right-wing protesters gathered outside the home of former Israeli Supreme Court President Aharon Barak, in support of the proposed judicial changes. In response to these protests, thousands gathered there the next day in a show of support for him and in opposition to the government's plan to weaken the judiciary. Barak went out to meet the crowd, who chanted \"thank you\" to the 86-year-old retired judge.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Shimoni |first=Ran |date=2023-04-19 |title=Hundreds of Right-wingers Protest Outside Former Supreme Court President's Home |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-04-19/ty-article/.premium/hundreds-of-right-wingers-protest-outside-former-supreme-court-presidents-home/00000187-9ad9-d6e9-a997-9edfed650000 |url-status=live |access-date=2023-04-19 |archive-url=https://web.archive.org/web/20230419201328/https://www.haaretz.com/israel-news/2023-04-19/ty-article/.premium/hundreds-of-right-wingers-protest-outside-former-supreme-court-presidents-home/00000187-9ad9-d6e9-a997-9edfed650000 |archive-date=19 April 2023}}</ref>",
+                  "url": "https://www.haaretz.com/israel-news/2023-04-19/ty-article/.premium/hundreds-of-right-wingers-protest-outside-former-supreme-court-presidents-home/00000187-9ad9-d6e9-a997-9edfed650000",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=2023-04-21 |title=Ex-chief justice Barak moved to tears as thousands rally in support outside his home |work=The Times of Israel |url=https://www.timesofisrael.com/ex-chief-justice-barak-moved-to-tears-as-thousands-rally-in-support-outside-his-home/ |access-date=2023-04-26 |archive-date=26 April 2023 |archive-url=https://web.archive.org/web/20230426213332/https://www.timesofisrael.com/ex-chief-justice-barak-moved-to-tears-as-thousands-rally-in-support-outside-his-home/ |url-status=live }}</ref>",
+                  "url": "https://www.timesofisrael.com/ex-chief-justice-barak-moved-to-tears-as-thousands-rally-in-support-outside-his-home/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s5",
+              "text": "On 22 April, thousands of counter-protesters demonstrated in support of the judicial reform, including at the Shilot intersection near the entrance to the city of Modi'in-Maccabim-Re'ut|Modi'in, at the Karion intersection in Kiryat Bialik, and at the Kfar Ganim mall in Petah Tikva, as well as in other cities like Rosh HaAyin, Ashkelon, and Hadera. In Rosh HaAyin, the protesters dressed up as Yemenite slaves and performed an act with working tools.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last= |first= |date=2023-04-22 |script-title=he:מסעיר: המיצג הימני שהמחיש את המשמעות האמיתית לסיפורה של שפחה |language=he-IL |trans-title=Exciting: the right-wing performance that illustrated the true meaning of the story of a slave girl |website=Now 14 |url=https://www.now14.co.il/%D7%9E%D7%A1%D7%A2%D7%99%D7%A8-%D7%94%D7%9E%D7%99%D7%A6%D7%92-%D7%94%D7%99%D7%9E%D7%A0%D7%99-%D7%A9%D7%94%D7%9E%D7%97%D7%99%D7%A9-%D7%90%D7%AA-%D7%94%D7%9E%D7%A9%D7%9E%D7%A2%D7%95%D7%AA-%D7%94%D7%90/ |url-status=live |access-date=2023-04-22 |archive-url=https://web.archive.org/web/20230422231609/https://www.now14.co.il/%D7%9E%D7%A1%D7%A2%D7%99%D7%A8-%D7%94%D7%9E%D7%99%D7%A6%D7%92-%D7%94%D7%99%D7%9E%D7%A0%D7%99-%D7%A9%D7%94%D7%9E%D7%97%D7%99%D7%A9-%D7%90%D7%AA-%D7%94%D7%9E%D7%A9%D7%9E%D7%A2%D7%95%D7%AA-%D7%94%D7%90/ |archive-date=22 April 2023}}</ref>",
+                  "url": "https://www.now14.co.il/%D7%9E%D7%A1%D7%A2%D7%99%D7%A8-%D7%94%D7%9E%D7%99%D7%A6%D7%92-%D7%94%D7%99%D7%9E%D7%A0%D7%99-%D7%A9%D7%94%D7%9E%D7%97%D7%99%D7%A9-%D7%90%D7%AA-%D7%94%D7%9E%D7%A9%D7%9E%D7%A2%D7%95%D7%AA-%D7%94%D7%90/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s6",
+              "text": "On 27 April, around 200,000 supporters (according to ''The Jerusalem Post'', the Jewish Telegraphic Agency, and police estimates quoted by ''The Times of Israel'') of the government's legal reform gathered outside the Knesset in Jerusalem. The speakers included Yariv Levin, Simcha Rothman, Itamar Ben-Gvir and Finance Minister Bezalel Smotrich.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |last=Fritzhand |first=Troy |date=2023-04-27 |title=Right-wing protest draws 200,000 attendees: 'We are tired of being second class' |work=The Jerusalem Post |url=https://www.jpost.com/breaking-news/article-741466 |access-date=2023-04-27 |archive-date=27 April 2023 |archive-url=https://web.archive.org/web/20230427223130/https://www.jpost.com/breaking-news/article-741466 |url-status=live}}</ref>",
+                  "url": "https://www.jpost.com/breaking-news/article-741466",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last=Sales |first=Ben |date=2023-04-27 |title='We will not give up' on judicial changes, right-wing protesters at Israel's largest pro-reform rally are told |publisher=Jewish Telegraphic Agency |url=https://www.jta.org/2023/04/27/israel/we-will-not-give-up-on-judicial-changes-right-wing-protesters-at-israels-largest-pro-reform-rally-are-told |access-date=2023-04-27 |archive-date=27 April 2023 |archive-url=https://web.archive.org/web/20230427223332/https://www.jta.org/2023/04/27/israel/we-will-not-give-up-on-judicial-changes-right-wing-protesters-at-israels-largest-pro-reform-rally-are-told |url-status=live}}</ref>",
+                  "url": "https://www.jta.org/2023/04/27/israel/we-will-not-give-up-on-judicial-changes-right-wing-protesters-at-israels-largest-pro-reform-rally-are-told",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last=Davidovich |first=Joshua |date=2023-04-27 |title=Right wing claims mass support for overhaul as Jerusalem rally said to draw 200,000 |work=The Times of Israel |url=https://www.timesofisrael.com/liveblog-april-27-2023/ |access-date=2023-04-27 |archive-date=27 April 2023 |archive-url=https://web.archive.org/web/20230427223613/https://www.timesofisrael.com/liveblog-april-27-2023/ |url-status=live}}</ref>",
+                  "url": "https://www.timesofisrael.com/liveblog-april-27-2023/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |date=2023-04-27 |title=Over 200,000 at start of pro-government demonstration in Jerusalem |work=Arutz Sheva |url=https://www.israelnationalnews.com/news/370645 |access-date=2023-04-27 |archive-date=27 April 2023 |archive-url=https://web.archive.org/web/20230427224240/https://www.israelnationalnews.com/news/370645 |url-status=live }}</ref>",
+                  "url": "https://www.israelnationalnews.com/news/370645",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s7",
+              "text": "On 23 July, tens of thousands of pro-reform demonstrators gathered in Kaplan Street. Speakers at the demonstration included Miri Regev, Galit Distel-Atbaryan and Smotrich.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |date=2023-07-23 |title=המונים הפגינו בת\"א; השר לוין: \"הכניעה לסרבנות היא באמת סוף הדמוקרטיה\" |url=https://www.maariv.co.il/news/politics/Blog-1024654 |access-date=2023-07-28 |website=Maariv}}</ref>",
+                  "url": "https://www.maariv.co.il/news/politics/Blog-1024654",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=קוטב |first1=אדם |last2=תורג'מן |first2=מאיר |date=2023-07-23 |title=השרה רגב על הטייסים: \"אין לכם הנחות, מי שמסרב פקודה מקומו בכלא\" |language=he |work=Ynet |url=https://www.ynet.co.il/news/article/hk9haiqc3 |access-date=2023-07-28}}</ref>",
+                  "url": "https://www.ynet.co.il/news/article/hk9haiqc3",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite web |title=רבבות תומכי החקיקה מחו בת\"א; עימותים בהפגנת הנגד בי-ם {{!}} חדשות 13 |url=https://13tv.co.il/item/news/domestic/internal/prxl3-903632689/ |access-date=2023-07-28 |website=Reshet 13 |language=he}}</ref>",
+                  "url": "https://13tv.co.il/item/news/domestic/internal/prxl3-903632689/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Connection to the Israeli–Palestinian conflict",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "''The Times of Israel'' wrote that protesters were faced with a continuous question of \"how much, if at all, should the demonstrations focus on Palestinian rights?\" Some observers have argued that the reform and the Israeli-occupied territories|Israeli occupation of Palestinian territories are connected, and that the Israeli government promotes the reform in order to further entrench the occupation. Some also argued that the framework of a formal Israeli constitution, a demand of the protesters, would not be achievable until Israel's strategy in the West Bank and Gaza Strip is changed.",
+              "references": [
+                {
+                  "text": "<ref name=\"TOIHM\" /> The debate on what implications the judicial overhaul would have for the Palestinians were discussed on articles and opinion pieces on Vox (website)|''Vox'', ''Foreign Policy'', and ''Haaretz''.<ref>{{cite web|url=https://www.vox.com/world-politics/2023/7/26/23807288/israel-judicial-overhaul-settler-agenda-netanyahu-smotrich|title=What Israel's judicial overhaul means for Palestinians|accessdate=23 September 2023|date=26 July 2023|work=Vox}}</ref>",
+                  "url": "https://www.vox.com/world-politics/2023/7/26/23807288/israel-judicial-overhaul-settler-agenda-netanyahu-smotrich",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://www.haaretz.com/israel-news/2023-06-01/ty-article-opinion/.premium/is-judicial-reform-a-trojan-horse-for-west-bank-annexation/00000188-716d-d2d1-afbe-7d6f3e3c0000|title=Is Judicial Reform a Trojan Horse for West Bank Annexation?|accessdate=23 September 2023|date=26 July 2023|work=Yaakov Or}}</ref>",
+                  "url": "https://www.haaretz.com/israel-news/2023-06-01/ty-article-opinion/.premium/is-judicial-reform-a-trojan-horse-for-west-bank-annexation/00000188-716d-d2d1-afbe-7d6f3e3c0000",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://foreignpolicy.com/2023/04/07/israel-palestine-protests-judicial-reform-supreme-court-netanyahu-apartheid/|title=Why Palestinians Aren't Joining Israel's Protests|accessdate=23 September 2023|date=7 April 2023|work=Yousef Munayyer}}</ref>",
+                  "url": "https://foreignpolicy.com/2023/04/07/israel-palestine-protests-judicial-reform-supreme-court-netanyahu-apartheid/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite journal |last=Kretzmer |first=David |date=November 2023 |title=The ‘Constitutional Reform’ and the Occupation |url=https://www.cambridge.org/core/journals/israel-law-review/article/constitutional-reform-and-the-occupation/E5D6F5AD85DE8551D8745B66EDA6155F |journal=Israel Law Review |language=en |volume=56 |issue=3 |pages=414 |doi=10.1017/S0021223723000109 |issn=0021-2237|doi-access=free }}</ref>",
+                  "url": "https://www.cambridge.org/core/journals/israel-law-review/article/constitutional-reform-and-the-occupation/E5D6F5AD85DE8551D8745B66EDA6155F",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "journal"
+                },
+                {
+                  "text": "<ref name=\"thb\">{{Cite journal |last=Brandes |first=Tamar Hostovsky |date=November 2023 |title=The Constitutional Overhaul and the West Bank: Is Israel's Constitutional Moment Occupied? |url=https://www.cambridge.org/core/journals/israel-law-review/article/abs/constitutional-overhaul-and-the-west-bank-is-israels-constitutional-moment-occupied/A62298E9FD1810DCA4560452454EC294 |journal=Israel Law Review |language=en |volume=56 |issue=3 |pages=415–425 |doi=10.1017/S0021223723000195 |issn=0021-2237}}</ref>",
+                  "url": "https://www.cambridge.org/core/journals/israel-law-review/article/abs/constitutional-overhaul-and-the-west-bank-is-israels-constitutional-moment-occupied/A62298E9FD1810DCA4560452454EC294",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "journal"
+                }
+              ]
+            },
+            {
+              "id": "5.s2",
+              "text": "On 3 September 2023, Youth Against Dictatorship released an open letter signed by 230 Israeli high school students in Tel Aviv, who collectively refused to serve in the IDF, citing their opposition to the judicial reform and a refusal to serve Israeli settlement|Israeli settlements. One of the group's members told ''Haaretz'' that the overhaul had led them to connect the reform to the occupation after looking at the politicians pushing the reform, who are all settlers: Smotrich, Rothman and Ben-Gvir.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=200 teens say they won't enlist, protesting judicial overhaul, control over West Bank |url=https://www.timesofisrael.com/teens-say-they-wont-enlist-protesting-judicial-overhaul-and-control-over-west-bank/ |access-date=2023-09-08 |website=Times of Israel|date=28 August 2023}}</ref>",
+                  "url": "https://www.timesofisrael.com/teens-say-they-wont-enlist-protesting-judicial-overhaul-and-control-over-west-bank/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Dayan |first=Linda |date=September 4, 2023 |title='The Overhaul Opened Their Eyes': Israeli Youth Publicly Refuse Draft |language=en |work=Haaretz |url=https://www.haaretz.com/israel-news/2023-09-04/ty-article/.premium/we-wont-serve-the-dictatorship-in-the-west-bank-israeli-youth-publicly-refuse-draft/0000018a-5e9e-d845-adfe-fefee2380000 |url-status=live |access-date=2023-09-08 |archive-url=https://archive.today/20230904085303/https://www.haaretz.com/israel-news/2023-09-04/ty-article/.premium/we-wont-serve-the-dictatorship-in-the-west-bank-israeli-youth-publicly-refuse-draft/0000018a-5e9e-d845-adfe-fefee2380000 |archive-date=September 4, 2023}}</ref>",
+                  "url": "https://www.haaretz.com/israel-news/2023-09-04/ty-article/.premium/we-wont-serve-the-dictatorship-in-the-west-bank-israeli-youth-publicly-refuse-draft/0000018a-5e9e-d845-adfe-fefee2380000",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "5.s3",
+              "text": "On 9 September 2023, a statement signed by over 3,500 Israeli academics, artists, writers and former officials called on U.S. President Joe Biden and Secretary-General of the United Nations|United Nations Secretary-General António Guterres to avoid meeting with Netanyahu, claiming that the ruling government undermined Israeli democracy and was \"ignoring the historical conflict that is tearing Israel apart – the forceful domination of the Palestinian people.\"",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|url=https://www.timesofisrael.com/over-3500-academics-writers-artists-urge-biden-and-un-chief-to-snub-netanyahu/|title=Over 3,500 academics, writers, artists urge Biden and UN chief to snub Netanyahu|work=Times of Israel|accessdate=11 September 2023|date=9 September 2023}}</ref>",
+                  "url": "https://www.timesofisrael.com/over-3500-academics-writers-artists-urge-biden-and-un-chief-to-snub-netanyahu/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "6.2",
+          "title": "Israel",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "6.3",
+          "title": "General or elsewhere",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Notes",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "References",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "8.s1",
+              "text": "",
+              "references": [
+                {
+                  "text": "<ref name=\"iscp\">{{cite web |last1=Gold |first1=Hadas |last2=Greene |first2=Richard Allen |last3=Tal |first3=Amir |date=2023-07-24 |title=Israel passed a bill to limit the Supreme Court's power. Here's what comes next |url=https://www.cnn.com/2023/07/24/middleeast/israel-judicial-reforms-vote-explained-mime-intl/index.html |website=CNN |language=en |archive-date=24 July 2023 |archive-url=https://web.archive.org/web/20230724152055/https://www.cnn.com/2023/07/24/middleeast/israel-judicial-reforms-vote-explained-mime-intl/index.html |url-status=live |access-date=2023-07-24}}</ref>",
+                  "url": "https://edition.cnn.com/2023/07/24/middleeast/israel-judicial-reforms-vote-explained-mime-intl/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "8.s2",
+              "text": "",
+              "references": [
+                {
+                  "text": "<ref name=\"TGPM\">{{cite web |url=https://www.theguardian.com/world/2023/aug/15/us-jewish-groups-statement-occupation-israel-palestine-netanyahu |title=US Jews urged to condemn Israeli occupation amid Netanyahu censure |work=The Guardian |date=15 August 2023 |access-date=7 September 2023}}</ref>",
+                  "url": "https://www.theguardian.com/world/2023/aug/15/us-jewish-groups-statement-occupation-israel-palestine-netanyahu",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "8.s3",
+              "text": "",
+              "references": [
+                {
+                  "text": "<ref name=\"WPEC\">{{cite news |date=11 August 2023 |title=Leading Israel scholars invoke 'apartheid' in critique of status quo |url=https://www.washingtonpost.com/world/2023/08/11/israel-palestine-apartheid-israel-scholars/ |newspaper=The Washington Post |access-date=7 September 2023}}</ref>",
+                  "url": "https://www.washingtonpost.com/world/2023/08/11/israel-palestine-apartheid-israel-scholars/",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "External links",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

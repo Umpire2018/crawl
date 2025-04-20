@@ -13,29 +13,29 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web |title=Electoral Tribunal of Panama launched General Elections Plan for 2024 with technical assistance of International IDEA |url=https://www.idea.int/news-media/news/electoral-tribunal-panama-launched-general-elections-plan-2024-technical-assistance |url-status=live |archive-url=https://web.archive.org/web/20220422184839/https://www.idea.int/news-media/news/electoral-tribunal-panama-launched-general-elections-plan-2024-technical-assistance |archive-date=22 April 2022 |access-date=25 April 2022 |website=IDEA}}</ref>",
-                  "url": "https://www.idea.int/news-media/news/electoral-tribunal-panama-launched-general-elections-plan-2024-technical-assistance",
-                  "status_code": null,
+                  "url": "https://www.idea.int/news/electoral-tribunal-panama-launched-general-elections-plan-2024-technical-assistance",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=9 March 2023 |title=Panama begins registration for an advance vote in general elections |work=Prensa Latina |url=https://www.plenglish.com/news/2023/03/09/panama-begins-registration-for-an-advance-vote-in-general-elections/,%20https://www.plenglish.com/news/2023/03/09/panama-begins-registration-for-an-advance-vote-in-general-elections/ |url-status=live |archive-url=https://web.archive.org/web/20240224123959/https://www.plenglish.com/news/2023/03/09/panama-begins-registration-for-an-advance-vote-in-general-elections/ |archive-date=24 February 2024 |access-date=18 August 2023 |language=en-US}}</ref>",
-                  "url": "https://www.plenglish.com/news/2023/03/09/panama-begins-registration-for-an-advance-vote-in-general-elections/,%20https://www.plenglish.com/news/2023/03/09/panama-begins-registration-for-an-advance-vote-in-general-elections/",
-                  "status_code": null,
+                  "url": "https://www.plenglish.com/news/2023/03/09/panama-begins-registration-for-an-advance-vote-in-general-elections/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Decree of the electoral court for the holding of elections |url=https://www.tribunal-electoral.gob.pa/wp-content/uploads/2018/08/DECRETO-22-Y-23-DEL-5-DE-MAYO-DE-2018.pdf |url-status=dead |archive-url=https://web.archive.org/web/20190915101602/https://www.tribunal-electoral.gob.pa/wp-content/uploads/2018/08/DECRETO-22-Y-23-DEL-5-DE-MAYO-DE-2018.pdf |archive-date=15 September 2019 |access-date=18 November 2018}}</ref>",
                   "url": "https://www.tribunal-electoral.gob.pa/wp-content/uploads/2018/08/DECRETO-22-Y-23-DEL-5-DE-MAYO-DE-2018.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"bbc\">{{Cite web |date=5 May 2024 |title=Panama election: Voters to choose president after front-runner sentenced |url=https://www.bbc.com/news/world-latin-america-68935251 |url-status=live |archive-url=https://web.archive.org/web/20240505055811/https://www.bbc.com/news/world-latin-america-68935251 |archive-date=5 May 2024 |access-date=5 May 2024 |website=BBC |language=en}}</ref>",
                   "url": "https://www.bbc.com/news/world-latin-america-68935251",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -48,29 +48,29 @@
                 {
                   "text": "<ref name=\"apnews.com\">{{Cite web |date=2 February 2024 |title=Panama Supreme Court lets ex-President Martinelli's sentence stand, likely ending his reelection bid |url=https://apnews.com/article/panama-ricardo-martinelli-president-432be99db9fc43d53a4d7aa52c1b45df |url-status=live |archive-url=https://web.archive.org/web/20240208084026/https://apnews.com/article/panama-ricardo-martinelli-president-432be99db9fc43d53a4d7aa52c1b45df |archive-date=8 February 2024 |access-date=7 February 2024 |website=Associated Press News}}</ref>",
                   "url": "https://apnews.com/article/panama-ricardo-martinelli-president-432be99db9fc43d53a4d7aa52c1b45df",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |author1=Mia Alberti |author2=Juan Carlos Paz |date=6 May 2024 |title=Panama's Mulino declared 'unofficial' winner of presidential election |url=https://www.cnn.com/2024/05/06/americas/panama-election-mulino-unofficial-winner-intl-hnk/index.html |access-date=6 May 2024 |website=CNN |language=en |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506171323/https://www.cnn.com/2024/05/06/americas/panama-election-mulino-unofficial-winner-intl-hnk/index.html |url-status=live }}</ref>",
-                  "url": "https://www.cnn.com/2024/05/06/americas/panama-election-mulino-unofficial-winner-intl-hnk/index.html",
-                  "status_code": null,
+                  "url": "https://edition.cnn.com/2024/05/06/americas/panama-election-mulino-unofficial-winner-intl-hnk/index.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |date=6 May 2024 |title=José Raúl Mulino: Stand-in for convicted candidate wins Panama presidency |url=https://www.bbc.com/news/world-latin-america-68963959 |access-date=6 May 2024 |language=en-GB |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506171329/https://www.bbc.com/news/world-latin-america-68963959 |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/world-latin-america-68963959",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |author1=Valentine Hilaire |author2=Elida Moreno |date=5 May 2024 |title=Panama's Mulino wins presidency with support from convicted former leader |url=https://www.reuters.com/world/americas/panamanians-vote-crowded-field-presidential-contenders-2024-05-05/ |url-status=live |archive-url=https://web.archive.org/web/20240506023850/https://www.reuters.com/world/americas/panamanians-vote-crowded-field-presidential-contenders-2024-05-05/ |archive-date=6 May 2024 |access-date=6 May 2024 |work=Reuters}}</ref>",
                   "url": "https://www.reuters.com/world/americas/panamanians-vote-crowded-field-presidential-contenders-2024-05-05/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 }
               ]
@@ -82,57 +82,57 @@
                 {
                   "text": "<ref>{{Cite web |date=6 May 2024 |title=El gobernante PRD obtiene su peor resultado presidencial en unas elecciones de Panamá |url=https://www.infobae.com/america/agencias/2024/05/06/el-gobernante-prd-obtiene-su-peor-resultado-presidencial-en-unas-elecciones-de-panama/ |access-date=6 May 2024 |website=infobae |language=es-ES |archive-date=7 May 2024 |archive-url=https://web.archive.org/web/20240507024720/https://www.infobae.com/america/agencias/2024/05/06/el-gobernante-prd-obtiene-su-peor-resultado-presidencial-en-unas-elecciones-de-panama/ |url-status=live }}</ref>",
                   "url": "https://www.infobae.com/america/agencias/2024/05/06/el-gobernante-prd-obtiene-su-peor-resultado-presidencial-en-unas-elecciones-de-panama/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=6 May 2024 |title=Mayer Mizrachi es el virtual alcalde de Panamá |url=https://www.prensa.com/politica/mayer-mizrachi-es-el-virtual-alcalde-de-panama/ |access-date=6 May 2024 |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506171329/https://www.prensa.com/politica/mayer-mizrachi-es-el-virtual-alcalde-de-panama/ |url-status=live }}</ref>",
                   "url": "https://www.prensa.com/politica/mayer-mizrachi-es-el-virtual-alcalde-de-panama/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=6 May 2024 |title=Irma Hernández, de la coalición Vamos, derrota a Zulay Rodríguez y a Valdés Carrasquilla en San Miguelito |url=https://www.prensa.com/politica/irma-hernandez-toma-ventaja-sobre-zulay-rodriguez-en-san-miguelito/ |access-date=6 May 2024 |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506171322/https://www.prensa.com/politica/irma-hernandez-toma-ventaja-sobre-zulay-rodriguez-en-san-miguelito/ |url-status=live }}</ref>",
                   "url": "https://www.prensa.com/politica/irma-hernandez-toma-ventaja-sobre-zulay-rodriguez-en-san-miguelito/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=6 May 2024 |title=Diógenes Galván derrota a Alex Lee en la alcaldía de Colón |url=https://www.prensa.com/politica/diogenes-galvan-derrota-a-alex-lee-en-la-alcaldia-de-colon/ |access-date=6 May 2024 |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506171323/https://www.prensa.com/politica/diogenes-galvan-derrota-a-alex-lee-en-la-alcaldia-de-colon/ |url-status=live }}</ref>",
                   "url": "https://www.prensa.com/politica/diogenes-galvan-derrota-a-alex-lee-en-la-alcaldia-de-colon/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=6 May 2024 |title=Stefany Dayan Peñalba le arrebata la alcaldía a Rollyns 'Tropa' Rodríguez en Arraiján |url=https://www.midiario.com/nacionales/stefany-dayan-penalba-le-arrebata-la-alcaldia-a-rollyns-tropa-rodriguez-en-arraijan/ |access-date=6 May 2024 |website=Mi Diario |language=es |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506171330/https://www.midiario.com/nacionales/stefany-dayan-penalba-le-arrebata-la-alcaldia-a-rollyns-tropa-rodriguez-en-arraijan/ |url-status=live }}</ref>",
                   "url": "https://www.midiario.com/nacionales/stefany-dayan-penalba-le-arrebata-la-alcaldia-a-rollyns-tropa-rodriguez-en-arraijan/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=6 May 2024 |title=Elecciones en Panamá 2024: Resultados de la Alcaldía de La Chorrera |url=https://www.telemetro.com/politica/elecciones-panama-2024-resultados-la-alcaldia-la-chorrera-n5978899 |access-date=6 May 2024 |work=Telemetro |language=es-PA |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506171328/https://www.telemetro.com/politica/elecciones-panama-2024-resultados-la-alcaldia-la-chorrera-n5978899 |url-status=live }}</ref>",
                   "url": "https://www.telemetro.com/politica/elecciones-panama-2024-resultados-la-alcaldia-la-chorrera-n5978899",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=6 May 2024 |title=Elecciones en Panamá 2024: Resultados en la Alcaldía de David, provincia de Chiriquí |url=https://www.telemetro.com/nacionales/elecciones-2024-candidatos-la-alcaldia-david-provincia-chiriqui-n5978911 |access-date=6 May 2024 |work=Telemetro|language=es-PA |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506171323/https://www.telemetro.com/nacionales/elecciones-2024-candidatos-la-alcaldia-david-provincia-chiriqui-n5978911 |url-status=live }}</ref>",
                   "url": "https://www.telemetro.com/nacionales/elecciones-2024-candidatos-la-alcaldia-david-provincia-chiriqui-n5978911",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":2\">{{Cite web |date=6 May 2024 |title=Elecciones en Panamá 2024: Resultado para la Alcaldía de Santiago |url=https://www.telemetro.com/politica/elecciones-panama-2024-resultado-la-alcaldia-santiago-n5979050 |access-date=6 May 2024 |work=Telemetro |language=es-PA |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506171323/https://www.telemetro.com/politica/elecciones-panama-2024-resultado-la-alcaldia-santiago-n5979050 |url-status=live }}</ref>",
                   "url": "https://www.telemetro.com/politica/elecciones-panama-2024-resultado-la-alcaldia-santiago-n5979050",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -144,14 +144,14 @@
                 {
                   "text": "<ref name=\":2\" /><ref>{{Cite web |date=6 May 2024 |title=Estos son los diputados de la nueva Asamblea Nacional; la mayoría son independientes |url=https://www.prensa.com/politica/asi-esta-quedando-conformada-la-nueva-asamblea-nacional-la-mayoria-son-diputados-independientes/ |access-date=6 May 2024 |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506171329/https://www.prensa.com/politica/asi-esta-quedando-conformada-la-nueva-asamblea-nacional-la-mayoria-son-diputados-independientes/ |url-status=live }}</ref>",
                   "url": "https://www.prensa.com/politica/asi-esta-quedando-conformada-la-nueva-asamblea-nacional-la-mayoria-son-diputados-independientes/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=9 May 2024 |title=La autopsia de una elección: ¿Por qué ganó José Raúl Mulino? |url=https://www.prensa.com/blogs/blogoterapia/la-autopsia-de-una-eleccion-por-que-gano-jose-raul-mulino/ |access-date=9 May 2024 |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509181657/https://www.prensa.com/blogs/blogoterapia/la-autopsia-de-una-eleccion-por-que-gano-jose-raul-mulino/ |url-status=live }}</ref>",
                   "url": "https://www.prensa.com/blogs/blogoterapia/la-autopsia-de-una-eleccion-por-que-gano-jose-raul-mulino/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -174,14 +174,14 @@
                 {
                   "text": "<ref name=\"IPU\">{{cite web|url=http://www.ipu.org/parline-e/reports/2245_B.htm |title=Panama: Asamblea Nacional (National Assembly): Electoral system|website=Inter-Parliamentary Union|archive-url=https://web.archive.org/web/20140429073441/http://www.ipu.org/parline-e/reports/2245_B.htm |archive-date=29 April 2014|access-date=14 May 2024}}</ref>",
                   "url": "http://www.ipu.org/parline-e/reports/2245_B.htm",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |title=Former minister Jose Raul Mulino wins Panama presidential race |url=https://www.france24.com/en/americas/20240505-polls-close-in-panama-presidential-elections-with-eight-contenders |work=France 24 |date=6 May 2024 |access-date=6 May 2024 |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506004701/https://www.france24.com/en/americas/20240505-polls-close-in-panama-presidential-elections-with-eight-contenders |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/americas/20240505-polls-close-in-panama-presidential-elections-with-eight-contenders",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -211,28 +211,28 @@
                     {
                       "text": "<ref>{{Cite web |url=https://t.me/AmericaElects/324 |title=America Elects Official |access-date=17 September 2023 |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506023821/https://t.me/AmericaElects/324 |url-status=live }}</ref>",
                       "url": "https://t.me/AmericaElects/324",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=28 March 2022 |title=Panama´s ruling party sets course towards 2024 presidential elections – Prensa Latina |url=https://www.plenglish.com/news/2022/03/28/panamas-ruling-party-sets-course-towards-2024-presidential-elections/,%20https://www.plenglish.com/news/2022/03/28/panamas-ruling-party-sets-course-towards-2024-presidential-elections/ |first=Pavel |last=López Lazo |work=Prensa Latina |access-date=25 April 2022 |language=en-US |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506024019/https://www.plenglish.com/news/2022/03/28/panamas-ruling-party-sets-course-towards-2024-presidential-elections/ |url-status=live }}</ref>",
-                      "url": "https://www.plenglish.com/news/2022/03/28/panamas-ruling-party-sets-course-towards-2024-presidential-elections/,%20https://www.plenglish.com/news/2022/03/28/panamas-ruling-party-sets-course-towards-2024-presidential-elections/",
-                      "status_code": null,
+                      "url": "https://www.plenglish.com/news/2022/03/28/panamas-ruling-party-sets-course-towards-2024-presidential-elections/",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=7 February 2022 |title=Política en Panamá: Lombana reitera el llamado a los independientes a unificar una 'visión de país' hacia el 2024 |url=https://www.tvn-2.com/nacionales/Lombana-reitera-llamado-independientes-unificar-video_0_6054144562.html |access-date=25 April 2022 |website=TVN |language=es-ES |archive-date=25 April 2022 |archive-url=https://web.archive.org/web/20220425224717/https://www.tvn-2.com/nacionales/Lombana-reitera-llamado-independientes-unificar-video_0_6054144562.html |url-status=live }}</ref>",
-                      "url": "https://www.tvn-2.com/nacionales/Lombana-reitera-llamado-independientes-unificar-video_0_6054144562.html",
-                      "status_code": null,
+                      "url": "https://www.tvn-2.com/nacionales/lombana-reitera-llamado-independientes-unificar-video_1_1029881.html",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://www.france24.com/es/minuto-a-minuto/20230428-mart%C3%ADn-torrijos-inicia-campa%C3%B1a-para-volver-a-la-presidencia-de-panam%C3%A1|title=Martín Torrijos inicia campaña para volver a la presidencia de Panamá|language=es|trans-title=Martín Torrijos begins campaign to return to the presidency of Panama|work=France 24|date=28 April 2023|access-date=26 May 2023|archive-date=26 May 2023|archive-url=https://web.archive.org/web/20230526223630/https://www.france24.com/es/minuto-a-minuto/20230428-mart%C3%ADn-torrijos-inicia-campa%C3%B1a-para-volver-a-la-presidencia-de-panam%C3%A1|url-status=live}}</ref>",
                       "url": "https://www.france24.com/es/minuto-a-minuto/20230428-mart%C3%ADn-torrijos-inicia-campa%C3%B1a-para-volver-a-la-presidencia-de-panam%C3%A1",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -240,27 +240,27 @@
                       "text": "<ref>{{Cite web |url=https://ruta2024.prensa.com/partido.php?partido=maribel_gordon&modo=candidato |title=Elecciones Generales de Panamá – Ruta 2024 |access-date=7 February 2024 |archive-date=7 February 2024 |archive-url=https://web.archive.org/web/20240207013051/https://ruta2024.prensa.com/partido.php?partido=maribel_gordon&modo=candidato |url-status=live }}</ref>",
                       "url": "https://ruta2024.prensa.com/partido.php?partido=maribel_gordon&modo=candidato",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://ruta2024.prensa.com/partido.php?partido=zulay_rodriguez&modo=candidato |title=Elecciones Generales de Panamá – Ruta 2024 |access-date=7 February 2024 |archive-date=7 February 2024 |archive-url=https://web.archive.org/web/20240207013053/https://ruta2024.prensa.com/partido.php?partido=zulay_rodriguez&modo=candidato |url-status=live }}</ref>",
                       "url": "https://ruta2024.prensa.com/partido.php?partido=zulay_rodriguez&modo=candidato",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://ruta2024.prensa.com/partido.php?partido=raul_mulino&modo=candidato |title=Elecciones Generales de Panamá – Ruta 2024 |access-date=7 February 2024 |archive-date=7 February 2024 |archive-url=https://web.archive.org/web/20240207013052/https://ruta2024.prensa.com/partido.php?partido=raul_mulino&modo=candidato |url-status=live }}</ref>",
                       "url": "https://ruta2024.prensa.com/partido.php?partido=raul_mulino&modo=candidato",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=The Uh-Oh Moment for Melitón Arrocha |url=https://www.newsroompanama.com/news/the-uh-oh-moment-for-meliton-arrocha |website=Newsroom Panama |date=May 2024 |access-date=7 May 2024 |archive-date=7 May 2024 |archive-url=https://web.archive.org/web/20240507023613/https://www.newsroompanama.com/news/the-uh-oh-moment-for-meliton-arrocha |url-status=live }}</ref>",
-                      "url": "https://www.newsroompanama.com/news/the-uh-oh-moment-for-meliton-arrocha",
-                      "status_code": null,
+                      "url": "https://newsroompanama.com",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -287,42 +287,42 @@
                         {
                           "text": "<ref>{{Cite web |last=León Barría |first=Guadalupe |date=29 August 2022 |title=Los candidatos a presidente por libre postulación con más firmas recolectadas |url=https://www.tvn-2.com/nacionales/candidatos-presidente-libre-postulacion-firmas_1_2002540.html |access-date=9 May 2024 |website=Tvn Panamá |language=es |archive-date=1 February 2023 |archive-url=https://web.archive.org/web/20230201163700/https://www.tvn-2.com/nacionales/candidatos-presidente-libre-postulacion-firmas_1_2002540.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/nacionales/candidatos-presidente-libre-postulacion-firmas_1_2002540.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=7 August 2022 |title=Precandidatos por libre postulación iniciarán recolección de firmas |url=https://www.tribunal-electoral.gob.pa/precandidatos-por-libre-postulacion-iniciaran-recoleccion-de-firmas/ |access-date=8 May 2024 |website=Electoral Tribunal |archive-date=4 October 2023 |archive-url=https://web.archive.org/web/20231004100628/https://www.tribunal-electoral.gob.pa/precandidatos-por-libre-postulacion-iniciaran-recoleccion-de-firmas/ |url-status=live }}</ref>",
                           "url": "https://www.tribunal-electoral.gob.pa/precandidatos-por-libre-postulacion-iniciaran-recoleccion-de-firmas/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Elecciones Generales de Panamá – Ruta 2024 |url=https://ruta2024.prensa.com/partido.php?partido=zulay_rodriguez&modo=candidato |url-status=live |archive-url=https://web.archive.org/web/20240207013053/https://ruta2024.prensa.com/partido.php?partido=zulay_rodriguez&modo=candidato |archive-date=7 February 2024 |access-date=7 February 2024}}</ref>",
                           "url": "https://ruta2024.prensa.com/partido.php?partido=zulay_rodriguez&modo=candidato",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Timeout",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Rodríguez, Gordón y Arrocha, los presidenciables con más firmas de respaldo |url=https://www.laestrella.com.pa/panama/nacional/230713-rodriguez-gordon-arrocha-presidenciables-AELE494589 |access-date=9 May 2024 |website=La Estrella |language=es-PA |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101646/https://www.laestrella.com.pa/panama/nacional/230713-rodriguez-gordon-arrocha-presidenciables-AELE494589 |url-status=live }}</ref>",
                           "url": "https://www.laestrella.com.pa/panama/nacional/230713-rodriguez-gordon-arrocha-presidenciables-AELE494589",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Elecciones Generales de Panamá – Ruta 2024 |url=https://ruta2024.prensa.com/partido.php?partido=maribel_gordon&modo=candidato |url-status=live |archive-url=https://web.archive.org/web/20240207013051/https://ruta2024.prensa.com/partido.php?partido=maribel_gordon&modo=candidato |archive-date=7 February 2024 |access-date=7 February 2024}}</ref>",
                           "url": "https://ruta2024.prensa.com/partido.php?partido=maribel_gordon&modo=candidato",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Timeout",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=El FAD, el único partido político que no sobrevivió a las elecciones |url=https://www.panamaamerica.com.pa/politica/el-fad-el-unico-partido-politico-que-no-sobrevivio-las-elecciones-1134183 |access-date=9 May 2024 |website=Panamá América |date=7 May 2019 |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101646/https://www.panamaamerica.com.pa/politica/el-fad-el-unico-partido-politico-que-no-sobrevivio-las-elecciones-1134183 |url-status=live }}</ref>",
                           "url": "https://www.panamaamerica.com.pa/politica/el-fad-el-unico-partido-politico-que-no-sobrevivio-las-elecciones-1134183",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
@@ -330,14 +330,14 @@
                           "text": "<ref>{{Cite web |title=Elecciones Generales de Panamá – Ruta 2024 |url=http://ruta2024.prensa.com/ |access-date=9 May 2024 |website=Prensa |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410150245/https://ruta2024.prensa.com/ |url-status=live }}</ref>",
                           "url": "http://ruta2024.prensa.com/",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Timeout",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=20 October 2023 |title=Candidatos presidenciales por libre postulación logran acuerdo de posiciones |url=https://www.tribunal-electoral.gob.pa/candidatos-presidenciales-por-libre-postulacion-logran-acuerdo-de-posiciones/ |access-date=8 May 2024 |archive-date=30 November 2023 |archive-url=https://web.archive.org/web/20231130204056/https://www.tribunal-electoral.gob.pa/candidatos-presidenciales-por-libre-postulacion-logran-acuerdo-de-posiciones/ |url-status=live }}</ref>",
                           "url": "https://www.tribunal-electoral.gob.pa/candidatos-presidenciales-por-libre-postulacion-logran-acuerdo-de-posiciones/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         }
                       ]
@@ -360,49 +360,49 @@
                           "text": "<ref name=\"RM Presidential Elections\">{{Cite web |date=4 June 2023 |title=RM Presidential Elections |url=https://resultados.te.gob.pa/resultados/101/presidente/1 |access-date=8 May 2024 |website=Electoral Tribunal |archive-date=5 June 2023 |archive-url=https://web.archive.org/web/20230605060616/https://resultados.te.gob.pa/resultados/101/presidente/1 |url-status=live }}</ref>",
                           "url": "https://resultados.te.gob.pa/resultados/101/presidente/1",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Cannot connect to host resultados.te.gob.pa:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'resultados.te.gob.pa'. (_ssl.c:1010)\")]",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=5 February 2020 |title=Simpatizantes del expresidente Martinelli anuncian nuevo partido político en Panamá |url=https://cnnespanol.cnn.com/2020/02/04/alerta-tomar-esta-ultima-version-simpatizantes-del-expresidente-martinelli-anuncian-nuevo-partido-politico-en-panama/ |access-date=9 May 2024 |website=CNN |language=es |archive-date=19 October 2023 |archive-url=https://web.archive.org/web/20231019040059/https://cnnespanol.cnn.com/2020/02/04/alerta-tomar-esta-ultima-version-simpatizantes-del-expresidente-martinelli-anuncian-nuevo-partido-politico-en-panama/ |url-status=live }}</ref>",
                           "url": "https://cnnespanol.cnn.com/2020/02/04/alerta-tomar-esta-ultima-version-simpatizantes-del-expresidente-martinelli-anuncian-nuevo-partido-politico-en-panama/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Ricardo Martinelli busca nombre para su nuevo partido |url=https://www.laestrella.com.pa/panama/politica/ricardo-martinelli-busca-nombre-nuevo-partido-HPLE420979 |access-date=9 May 2024 |website=La Estrella |language=es-PA |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101646/https://www.laestrella.com.pa/panama/politica/ricardo-martinelli-busca-nombre-nuevo-partido-HPLE420979 |url-status=live }}</ref>",
                           "url": "https://www.laestrella.com.pa/panama/politica/ricardo-martinelli-busca-nombre-nuevo-partido-HPLE420979",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=8 March 2023 |title=Cierra periodo de inscripción de precandidatos presidenciales en Realizando Metas |url=https://www.tvn-2.com/nacionales/politica/inscribe-nuevo-precandidato-presidencial-realizando_1_2040081.html |access-date=9 May 2024 |website=Tvn Panamá |language=es |archive-date=7 June 2023 |archive-url=https://web.archive.org/web/20230607013622/https://www.tvn-2.com/nacionales/politica/inscribe-nuevo-precandidato-presidencial-realizando_1_2040081.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/nacionales/politica/inscribe-nuevo-precandidato-presidencial-realizando_1_2040081.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"RM Presidential Elections\"/> He attempted to select his wife, Marta Linares de Martinelli, as his running mate,<ref>{{Cite web |title=Martinelli oficializa a su esposa Marta Linares como candidata a la vicepresidencia |url=https://www.laestrella.com.pa/panama/nacional/martinelli-oficializa-esposa-marta-linares-CELE498813 |access-date=9 May 2024 |website=La Estrella |language=es-PA |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101647/https://www.laestrella.com.pa/panama/nacional/martinelli-oficializa-esposa-marta-linares-CELE498813 |url-status=live }}</ref>",
                           "url": "https://www.laestrella.com.pa/panama/nacional/martinelli-oficializa-esposa-marta-linares-CELE498813",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\":0A\">{{Cite web |title=Marta Linares de Martinelli renuncia a la candidatura a la vicepresidencia |url=https://www.laestrella.com.pa/panama/politica/marta-linares-martinelli-renuncia-candidatura-vicepresidencia-HELE499680 |access-date=9 May 2024 |website=La Estrella |language=es-PA |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101646/https://www.laestrella.com.pa/panama/politica/marta-linares-martinelli-renuncia-candidatura-vicepresidencia-HELE499680 |url-status=live }}</ref>",
                           "url": "https://www.laestrella.com.pa/panama/politica/marta-linares-martinelli-renuncia-candidatura-vicepresidencia-HELE499680",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\":0A\" /> The party also celebrated an alliance with the Alliance Party (Panama)|Alliance Party.<ref>{{Cite web |title=Realizando Metas y Alianza oficializan su alianza política |url=https://www.laestrella.com.pa/panama/politica/rm-alianza-oficializan-acuerdo-politico-CELE497764 |access-date=2024-06-22 |website=La Estrella |language=es-PA |archive-date=22 June 2024 |archive-url=https://web.archive.org/web/20240622173727/https://www.laestrella.com.pa/panama/politica/rm-alianza-oficializan-acuerdo-politico-CELE497764 |url-status=live }}</ref>",
                           "url": "https://www.laestrella.com.pa/panama/politica/rm-alianza-oficializan-acuerdo-politico-CELE497764",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         }
                       ]
@@ -425,49 +425,49 @@
                           "text": "<ref name=\"PRD Primary Elections\">{{Cite web |date=11 June 2023 |title=PRD Primary Elections |url=https://resultados.te.gob.pa/resultados/102/presidente/1 |access-date=8 May 2024 |website=Electoral Tribunal |archive-date=15 July 2023 |archive-url=https://web.archive.org/web/20230715061940/https://resultados.te.gob.pa/resultados/102/presidente/1 |url-status=live }}</ref>",
                           "url": "https://resultados.te.gob.pa/resultados/102/presidente/1",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Cannot connect to host resultados.te.gob.pa:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'resultados.te.gob.pa'. (_ssl.c:1010)\")]",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=González |first=Saydie |date=8 March 2023 |title=Estos son los precandidatos presidenciales a las primarias del PRD |url=https://www.tvn-2.com/nacionales/son-precandidatos-presidenciales-primarias-prd_1_2040097.html |access-date=9 May 2024 |website=Tvn Panamá |language=es |archive-date=15 July 2023 |archive-url=https://web.archive.org/web/20230715061944/https://www.tvn-2.com/nacionales/son-precandidatos-presidenciales-primarias-prd_1_2040097.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/nacionales/son-precandidatos-presidenciales-primarias-prd_1_2040097.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=23 July 2023 |title=Crispiano Adames pide a la campaña de Carrizo que detenga la 'actitud anti PRD' |url=https://www.prensa.com/politica/crispiano-adames-pide-a-la-campana-de-carrizo-que-detenga-la-actitud-anti-prd/ |access-date=9 May 2024 |website=La Prensa |language=es}}\n</ref>",
                           "url": "https://www.prensa.com/politica/crispiano-adames-pide-a-la-campana-de-carrizo-que-detenga-la-actitud-anti-prd/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"PRD Primary Elections\"/> He selected Camilo Alleyne, a former health minister,<ref>{{Cite web |date=17 September 2023 |title=¿Quién es Camilo Alleyne? El compañero de fórmula de José Gabriel Carrizo |url=https://www.prensa.com/politica/quien-es-camilo-alleyne-el-companero-de-formula-de-jose-gabriel-carrizo/ |access-date=9 May 2024 |website=La Prensa |language=es |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101645/https://www.prensa.com/politica/quien-es-camilo-alleyne-el-companero-de-formula-de-jose-gabriel-carrizo/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/quien-es-camilo-alleyne-el-companero-de-formula-de-jose-gabriel-carrizo/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Eligen a Camilo Alleyne como vicepresidente de la alianza PRD- Molirena |url=https://www.laestrella.com.pa/panama/politica/eligen-camilo-alleyne-vicepresidente-alianza-prd-molirena-GELE498428 |access-date=9 May 2024 |website=La Estrella |language=es-PA |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101652/https://www.laestrella.com.pa/panama/politica/eligen-camilo-alleyne-vicepresidente-alianza-prd-molirena-GELE498428 |url-status=live }}</ref>",
                           "url": "https://www.laestrella.com.pa/panama/politica/eligen-camilo-alleyne-vicepresidente-alianza-prd-molirena-GELE498428",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=PanamaAmerica |first=Redacci\\u00f3n \\/ nacion pa@epasa com \\/ |date=2023-09-30 |title=Molirena y PRD oficializan alianza para elecciones de 2024 |url=https://www.panamaamerica.com.pa/politica/molirena-y-prd-oficializan-alianza-para-elecciones-de-2024-1221129 |access-date=2024-06-22 |website=Panamá América |language=es |archive-date=25 February 2024 |archive-url=https://web.archive.org/web/20240225083357/https://www.panamaamerica.com.pa/politica/molirena-y-prd-oficializan-alianza-para-elecciones-de-2024-1221129 |url-status=live }}</ref>",
                           "url": "https://www.panamaamerica.com.pa/politica/molirena-y-prd-oficializan-alianza-para-elecciones-de-2024-1221129",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=El 17 de septiembre se consolidará alianza entre Molirena y PRD |url=https://www.laestrella.com.pa/panama/nacional/17-septiembre-consolidara-alianza-molirena-KELE496185 |access-date=2024-06-22 |website=La Estrella |language=es-PA}}</ref>",
                           "url": "https://www.laestrella.com.pa/panama/nacional/17-septiembre-consolidara-alianza-molirena-KELE496185",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         }
                       ]
@@ -490,28 +490,28 @@
                           "text": "<ref name=\"resultados.te.gob.pa\">{{Cite web |date=9 July 2023 |title=Democratic Change Primary Elections |url=https://resultados.te.gob.pa/resultados/104/presidente/1 |access-date=8 May 2024 |website=Electoral Tribunal |archive-date=10 July 2023 |archive-url=https://web.archive.org/web/20230710170407/https://resultados.te.gob.pa/resultados/104/presidente/1 |url-status=live }}</ref>",
                           "url": "https://resultados.te.gob.pa/resultados/104/presidente/1",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Cannot connect to host resultados.te.gob.pa:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'resultados.te.gob.pa'. (_ssl.c:1010)\")]",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Roux se impone en las primarias de CD; hubo una participación de 49.38% |url=https://www.laestrella.com.pa/panama/politica/romulo-roux-impone-primarias-cd-hubo-participacion-44-GELE494453 |access-date=9 May 2024 |website=La Estrella |language=es-PA |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101647/https://www.laestrella.com.pa/panama/politica/romulo-roux-impone-primarias-cd-hubo-participacion-44-GELE494453 |url-status=live }}</ref>",
                           "url": "https://www.laestrella.com.pa/panama/politica/romulo-roux-impone-primarias-cd-hubo-participacion-44-GELE494453",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Elecciones Generales de Panamá – Ruta 2024 |url=http://ruta2024.prensa.com/ |access-date=9 May 2024 |website=Prensa |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410150245/https://ruta2024.prensa.com/ |url-status=live }}</ref>",
                           "url": "http://ruta2024.prensa.com/",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Timeout",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"resultados.te.gob.pa\"/> Ábrego, an Assembly member, ran promising to celebrate an electoral alliance with Martinelli and Realizing Goals.<ref>{{Cite web |title=[Video] Yanibel Ábrego afirma que su alianza será con Martinelli |url=https://www.laestrella.com.pa/panama/politica/video-yanibel-abrego-afirma-alianza-sera-martinelli-HELE494443 |access-date=9 May 2024 |website=La Estrella |language=es-PA |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101647/https://www.laestrella.com.pa/panama/politica/video-yanibel-abrego-afirma-alianza-sera-martinelli-HELE494443 |url-status=live }}</ref>",
                           "url": "https://www.laestrella.com.pa/panama/politica/video-yanibel-abrego-afirma-alianza-sera-martinelli-HELE494443",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         }
                       ]
@@ -534,20 +534,20 @@
                           "text": "<ref name=\"Panameñista Primary Elections\">{{Cite web |title=Panameñista Primary Elections |url=https://resultados.te.gob.pa/resultados/105/presidente/1 |access-date=8 May 2024 |website=Electoral Tribunal}}</ref>",
                           "url": "https://resultados.te.gob.pa/resultados/105/presidente/1",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Cannot connect to host resultados.te.gob.pa:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'resultados.te.gob.pa'. (_ssl.c:1010)\")]",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"Panameñista Primary Elections\"/> The party later formed an electoral alliance with Democratic Change.<ref>{{Cite web |last=Miranda |first=Nadhia |date=16 September 2023 |title=CD y PAN aprueban su alianza electoral para 2024 |url=https://www.tribunal-electoral.gob.pa/cd-y-pan-aprueban-su-alianza-electoral-para-2024/ |access-date=8 May 2024 |archive-date=28 February 2024 |archive-url=https://web.archive.org/web/20240228020422/https://www.tribunal-electoral.gob.pa/cd-y-pan-aprueban-su-alianza-electoral-para-2024/ |url-status=live }}</ref>",
                           "url": "https://www.tribunal-electoral.gob.pa/cd-y-pan-aprueban-su-alianza-electoral-para-2024/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Almanza |first=Cinthia |date=16 September 2023 |title=Blandón: 'Es una decisión histórica y necesaria para hacer los cambios en el país' |url=https://www.tvn-2.com/tu-decision-2024/blandon-mayoria-panamenistas-respaldan-alianza_1_2079003.html |access-date=9 May 2024 |website=Tvn Panamá |language=es |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101645/https://www.tvn-2.com/tu-decision-2024/blandon-mayoria-panamenistas-respaldan-alianza_1_2079003.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/blandon-mayoria-panamenistas-respaldan-alianza_1_2079003.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -570,22 +570,22 @@
                         {
                           "text": "<ref>{{Cite web |title=CD, Panameñista y Partido Popular rompen alianza territorial |url=https://www.panamaamerica.com.pa/politica/cd-panamenista-y-partido-popular-rompen-alianza-territorial-1228093 |access-date=9 May 2024 |website=Panamá América |date=22 October 2023 |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101645/https://www.panamaamerica.com.pa/politica/cd-panamenista-y-partido-popular-rompen-alianza-territorial-1228093 |url-status=live }}</ref>",
                           "url": "https://www.panamaamerica.com.pa/politica/cd-panamenista-y-partido-popular-rompen-alianza-territorial-1228093",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=16 July 2023 |title=La exministra Rosario Turner es la coordinadora de campaña de Martín Torrijos |url=https://www.tvn-2.com/tu-decision-2024/exministra-rosario-turner-jefa-campana_1_2066182.html |access-date=9 May 2024 |website=Tvn Panamá |language=es |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101646/https://www.tvn-2.com/tu-decision-2024/exministra-rosario-turner-jefa-campana_1_2066182.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/exministra-rosario-turner-jefa-campana_1_2066182.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Rosario Turner será la compañera de fórmula de Martín Torrijos |url=https://www.laestrella.com.pa/panama/nacional/rosario-turner-sera-companera-formula-NMLE500850 |access-date=9 May 2024 |website=La Estrella |language=es-PA |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101653/https://www.laestrella.com.pa/panama/nacional/rosario-turner-sera-companera-formula-NMLE500850 |url-status=live }}</ref>",
                           "url": "https://www.laestrella.com.pa/panama/nacional/rosario-turner-sera-companera-formula-NMLE500850",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         }
                       ]
@@ -607,22 +607,22 @@
                         {
                           "text": "<ref>{{Cite web |date=30 July 2023 |title=MOCA ratificará candidatura presidencial de Ricardo Lombana |url=https://www.ecotvpanama.com/voto-24/moca-ratificara-candidatura-presidencial-ricardo-lombana-n5906198 |access-date=9 May 2024 |website=ECO |language=es-PA |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101645/https://www.ecotvpanama.com/voto-24/moca-ratificara-candidatura-presidencial-ricardo-lombana-n5906198 |url-status=live }}</ref>",
                           "url": "https://www.ecotvpanama.com/voto-24/moca-ratificara-candidatura-presidencial-ricardo-lombana-n5906198",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Flores |first=Julia |date=30 July 2023 |title=MOCA escoge a su candidato presidencial |url=https://www.tribunal-electoral.gob.pa/moca-escoge-a-su-candidato-presidencial/ |access-date=9 May 2024 |website=Electoral Tribunal |archive-date=21 February 2024 |archive-url=https://web.archive.org/web/20240221012757/https://www.tribunal-electoral.gob.pa/moca-escoge-a-su-candidato-presidencial/ |url-status=live }}</ref>",
                           "url": "https://www.tribunal-electoral.gob.pa/moca-escoge-a-su-candidato-presidencial/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=27 October 2023 |title=¿Quién es Michael Chen el vicepresidente de Ricardo Lombana? |url=https://www.ecotvpanama.com/voto-24/quien-es-michael-chen-el-vicepresidente-ricardo-lombana-n5936337 |access-date=9 May 2024 |website=ECO |language=es-PA |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101646/https://www.ecotvpanama.com/voto-24/quien-es-michael-chen-el-vicepresidente-ricardo-lombana-n5936337 |url-status=live }}</ref>",
                           "url": "https://www.ecotvpanama.com/voto-24/quien-es-michael-chen-el-vicepresidente-ricardo-lombana-n5936337",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         }
                       ]
@@ -644,35 +644,35 @@
                         {
                           "text": "<ref>{{Cite web |title=PAIS escoge a su candidato presidencial |url=https://plagel2024.com/pais-escoge-a-su-candidato-presidencial/ |access-date=2024-06-22 |website=plagel2024.com |archive-date=22 June 2024 |archive-url=https://web.archive.org/web/20240622173729/https://plagel2024.com/pais-escoge-a-su-candidato-presidencial/ |url-status=live }}</ref>",
                           "url": "https://plagel2024.com/pais-escoge-a-su-candidato-presidencial/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2023-09-25 |title=Melitón Arrocha tiene el respaldo del partido PAIS |url=https://www.ecotvpanama.com/voto-24/meliton-arrocha-tiene-el-respaldo-del-partido-pais-n5925254 |access-date=2024-06-22 |website=ECO |language=es-PA |archive-date=22 June 2024 |archive-url=https://web.archive.org/web/20240622173727/https://www.ecotvpanama.com/voto-24/meliton-arrocha-tiene-el-respaldo-del-partido-pais-n5925254 |url-status=live }}</ref>",
                           "url": "https://www.ecotvpanama.com/voto-24/meliton-arrocha-tiene-el-respaldo-del-partido-pais-n5925254",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Almanza |first=Cinthia |date=2024-04-30 |title='Desagradable sorpresa', Presidente de PAÍS dice que Melitón Arrocha no les comunicó su declinación |url=https://www.tvn-2.com/tu-decision-2024/desagradable-sorpresa-presidente-pais-dice_1_2132097.html |access-date=2024-06-22 |website=Tvn Panamá |language=es |archive-date=5 June 2024 |archive-url=https://web.archive.org/web/20240605043049/https://www.tvn-2.com/tu-decision-2024/desagradable-sorpresa-presidente-pais-dice_1_2132097.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/desagradable-sorpresa-presidente-pais-dice_1_2132097.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=PAIS se desvincula de la decisión de Melitón Arrocha |url=https://www.laestrella.com.pa/panama/politica/pais-se-desvincula-de-la-decision-de-meliton-arrocha-YM7178076 |access-date=2024-06-22 |website=La Estrella |language=es-PA |archive-date=19 May 2024 |archive-url=https://web.archive.org/web/20240519233054/https://www.laestrella.com.pa/panama/politica/pais-se-desvincula-de-la-decision-de-meliton-arrocha-YM7178076 |url-status=live }}</ref>",
                           "url": "https://www.laestrella.com.pa/panama/politica/pais-se-desvincula-de-la-decision-de-meliton-arrocha-YM7178076",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\":13\" /><ref>{{Cite web |last=González |first=Carlos H. |date=2024-04-29 |title=¿Estará Melitón Arrocha en la papeleta presidencial tras anunciar su apoyo a Martín Torrijos? |url=https://www.tvn-2.com/tu-decision-2024/estara-meliton-arrocha-papeleta-presidencial-anunciar-apoyo-martin-torrijos_1_2132059.html |access-date=2024-06-22 |website=Tvn Panamá |language=es |archive-date=11 May 2024 |archive-url=https://web.archive.org/web/20240511084628/https://www.tvn-2.com/tu-decision-2024/estara-meliton-arrocha-papeleta-presidencial-anunciar-apoyo-martin-torrijos_1_2132059.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/estara-meliton-arrocha-papeleta-presidencial-anunciar-apoyo-martin-torrijos_1_2132059.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -697,49 +697,49 @@
                     {
                       "text": "<ref>{{Cite web |last=Pinto |first=Alberto |date=10 November 2021 |title=Ricardo Martinelli confirma sus aspiraciones a la Presidencia de la República en el 2024 |url=https://www.panamaamerica.com.pa/politica/ricardo-martinelli-confirma-sus-aspiraciones-la-presidencia-de-la-republica-en-el-2024 |url-status=live |archive-url=https://web.archive.org/web/20211208001627/https://www.panamaamerica.com.pa/politica/ricardo-martinelli-confirma-sus-aspiraciones-la-presidencia-de-la-republica-en-el-2024 |archive-date=8 December 2021 |access-date=25 April 2022 |website=Panamá América |language=es}}\n</ref>",
                       "url": "https://www.panamaamerica.com.pa/politica/ricardo-martinelli-confirma-sus-aspiraciones-la-presidencia-de-la-republica-en-el-2024",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Panama Ex-President Martinelli is sentenced to 10 years in prison for money laundering |url=https://abcnews.go.com/International/wireStory/panama-president-martinelli-sentenced-10-years-prison-money-101412253 |url-status=live |archive-url=https://web.archive.org/web/20230909120759/https://abcnews.go.com/International/wireStory/panama-president-martinelli-sentenced-10-years-prison-money-101412253 |archive-date=9 September 2023 |access-date=18 July 2023 |website=ABC News |language=en}}</ref>",
                       "url": "https://abcnews.go.com/International/wireStory/panama-president-martinelli-sentenced-10-years-prison-money-101412253",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Solís |first=Alma |date=2 February 2024 |title=Panama Supreme Court lets ex-President Martinelli's sentence stand, likely ending his reelection bid |url=https://apnews.com/article/panama-ricardo-martinelli-president-432be99db9fc43d53a4d7aa52c1b45df |url-status=live |archive-url=https://web.archive.org/web/20240202230717/https://apnews.com/article/panama-ricardo-martinelli-president-432be99db9fc43d53a4d7aa52c1b45df |archive-date=2 February 2024 |access-date=3 February 2024 |website=Associated Press |language=en}}</ref>",
                       "url": "https://apnews.com/article/panama-ricardo-martinelli-president-432be99db9fc43d53a4d7aa52c1b45df",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=5 March 2024 |title=Panamanian electoral court bars former president Martinelli's candidacy in May elections |url=https://apnews.com/article/panama-corruption-martinelli-president-election-73978eefa5fa8ee230bb400fbcf8aabe |url-status=live |archive-url=https://web.archive.org/web/20240305053200/https://apnews.com/article/panama-corruption-martinelli-president-election-73978eefa5fa8ee230bb400fbcf8aabe |archive-date=5 March 2024 |access-date=5 March 2024 |website=Associated Press |language=en}}</ref>",
                       "url": "https://apnews.com/article/panama-corruption-martinelli-president-election-73978eefa5fa8ee230bb400fbcf8aabe",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=5 March 2024 |title=Inhabilitan al exmandatario Martinelli como candidato presidencial para las elecciones en Panamá |url=https://apnews.com/world-news/general-news-883579cbc187c051e87fe66e39042aea |access-date=9 May 2024 |website=AP News |language=es |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509101645/https://apnews.com/world-news/general-news-883579cbc187c051e87fe66e39042aea |url-status=live }}</ref>",
                       "url": "https://apnews.com/world-news/general-news-883579cbc187c051e87fe66e39042aea",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":1\">{{Cite web |last1=Juncá |first1=Alfredo |last2=Valdés Escoffery |first2=Eduardo |last3=Guerra |first3=Luis |date=12 March 2024 |title=BOLETÍN DEL TRIBUNAL ELECTORAL |url=https://www.tribunal-electoral.gob.pa/wp-content/uploads/2024/03/BOLETIN-DEL-TRIBUNAL-ELECTORAL-n.%C2%B0-5592.pdf |access-date=9 May 2024 |website=Electoral Tribunal |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410151619/https://www.tribunal-electoral.gob.pa/wp-content/uploads/2024/03/BOLETIN-DEL-TRIBUNAL-ELECTORAL-n.%C2%B0-5592.pdf |url-status=live }}</ref>",
                       "url": "https://www.tribunal-electoral.gob.pa/wp-content/uploads/2024/03/BOLETIN-DEL-TRIBUNAL-ELECTORAL-n.%C2%B0-5592.pdf",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"challenge\">{{Cite web |date=30 April 2024 |title=Melitón Arrocha reafirma apoyo a Martín Torrijos, pero no va renunciar a la candidatura |url=https://www.tvn-2.com/tu-decision-2024/meliton-arrocha-reafirma-apoyo-martin-torrijos_1_2132195.html |url-status=live |archive-url=https://web.archive.org/web/20240506163839/https://www.tvn-2.com/tu-decision-2024/meliton-arrocha-reafirma-apoyo-martin-torrijos_1_2132195.html |archive-date=6 May 2024 |access-date=7 May 2024 |website=TVN Noticias |language=es}}\n</ref>",
                       "url": "https://www.tvn-2.com/tu-decision-2024/meliton-arrocha-reafirma-apoyo-martin-torrijos_1_2132195.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -752,7 +752,7 @@
                     {
                       "text": "<ref>{{Cite web |last=Solís |first=Alma |date=8 February 2024 |title=Panama ex-President Ricardo Martinelli receives political asylum from Nicaragua |url=https://apnews.com/article/panama-martinelli-corruption-nicaragua-ortega-78f8d8359b9ec3a3edfaf0886ceb4bfa |url-status=live |archive-url=https://web.archive.org/web/20240207225051/https://apnews.com/article/panama-martinelli-corruption-nicaragua-ortega-78f8d8359b9ec3a3edfaf0886ceb4bfa |archive-date=7 February 2024 |access-date=8 February 2024 |website=Associated Press |language=en}}</ref>",
                       "url": "https://apnews.com/article/panama-martinelli-corruption-nicaragua-ortega-78f8d8359b9ec3a3edfaf0886ceb4bfa",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -777,14 +777,14 @@
                 {
                   "text": "<ref name=\":0\">{{Cite web |date=3 May 2024 |title=Poll Tracker: Panama's 2024 Presidential Election |url=https://www.as-coa.org/articles/poll-tracker-panamas-2024-presidential-election |access-date=4 May 2024 |website=Americas Society/Council of the Americas |language=en |archive-date=3 May 2024 |archive-url=https://web.archive.org/web/20240503145417/https://www.as-coa.org/articles/poll-tracker-panamas-2024-presidential-election |url-status=live }}</ref>",
                   "url": "https://www.as-coa.org/articles/poll-tracker-panamas-2024-presidential-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":1A\">{{Cite news |title=Years of growth forged prosaic politics. Now Panamanians are fed up |url=https://www.economist.com/the-americas/2024/05/02/years-of-growth-forged-prosaic-politics-now-panamanians-are-fed-up |access-date=4 May 2024 |newspaper=The Economist |issn=0013-0613 |archive-date=4 May 2024 |archive-url=https://web.archive.org/web/20240504203623/https://www.economist.com/the-americas/2024/05/02/years-of-growth-forged-prosaic-politics-now-panamanians-are-fed-up |url-status=live }}</ref>",
                   "url": "https://www.economist.com/the-americas/2024/05/02/years-of-growth-forged-prosaic-politics-now-panamanians-are-fed-up",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -797,7 +797,7 @@
                 {
                   "text": "<ref>{{Cite web |title=Candidates confront corruption and inequality in Panama's presidential race |url=https://www.aljazeera.com/news/2024/5/2/candidates-confront-corruption-and-inequality-in-panamas-presidential-race |date=3 May 2024 |access-date=3 May 2024 |website=Al Jazeera |language=en |archive-date=3 May 2024 |archive-url=https://web.archive.org/web/20240503003209/https://www.aljazeera.com/news/2024/5/2/candidates-confront-corruption-and-inequality-in-panamas-presidential-race |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/5/2/candidates-confront-corruption-and-inequality-in-panamas-presidential-race",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -810,14 +810,14 @@
                 {
                   "text": "<ref>{{Cite web |title=Panama presidential frontrunner vows to shut jungle migrant route |url=https://www.france24.com/en/live-news/20240417-panama-presidential-frontrunner-vows-to-shut-jungle-migrant-route |date=17 April 2024 |access-date=17 April 2024 |website=France 24 |language=en |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417025247/https://www.france24.com/en/live-news/20240417-panama-presidential-frontrunner-vows-to-shut-jungle-migrant-route |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/live-news/20240417-panama-presidential-frontrunner-vows-to-shut-jungle-migrant-route",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Panamanians vote in election dominated by former president who was banned from running |url=https://apnews.com/article/panama-election-president-mulino-martinelli-a9954f8a3622885232771ffd51e69715 |date=5 May 2024 |access-date=5 May 2024 |website=Associated Press |language=en |archive-date=5 May 2024 |archive-url=https://web.archive.org/web/20240505053444/https://apnews.com/article/panama-election-president-mulino-martinelli-a9954f8a3622885232771ffd51e69715 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/panama-election-president-mulino-martinelli-a9954f8a3622885232771ffd51e69715",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -830,7 +830,7 @@
                 {
                   "text": "<ref>{{Cite web |date=9 May 2024 |title=Zulay Rodríguez anuncia que peleará por la curul en la Asamblea |url=https://www.prensa.com/politica/zulay-rodriguez-anuncia-que-peleara-por-la-curul-en-la-asamblea/ |access-date=10 May 2024 |website=La Prensa |language=es}}</ref>",
                   "url": "https://www.prensa.com/politica/zulay-rodriguez-anuncia-que-peleara-por-la-curul-en-la-asamblea/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -843,14 +843,14 @@
                 {
                   "text": "<ref name=\"challenge2\">{{Cite web |date=3 May 2024 |title=Panama Supreme Court rejects challenge to candidacy of presidential frontrunner days before vote |url=https://apnews.com/article/panama-election-presidential-contender-supreme-court-06509f45a5f5d35e96c0ef0ebfaab598 |url-status=live |archive-url=https://web.archive.org/web/20240503104939/https://apnews.com/article/panama-election-presidential-contender-supreme-court-06509f45a5f5d35e96c0ef0ebfaab598 |archive-date=3 May 2024 |access-date=3 May 2024 |website=Associated Press |language=en}}</ref>",
                   "url": "https://apnews.com/article/panama-election-presidential-contender-supreme-court-06509f45a5f5d35e96c0ef0ebfaab598",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":13\">{{Cite web |last=De La Cruz |first=Omar |date=30 April 2024 |title=Melitón Arrocha reafirma apoyo a Martín Torrijos, pero no va renunciar a la candidatura |url=https://www.tvn-2.com/tu-decision-2024/meliton-arrocha-reafirma-apoyo-martin-torrijos_1_2132195.html |access-date=7 May 2024 |website=Tvn Panamá |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508142958/https://www.tvn-2.com/tu-decision-2024/meliton-arrocha-reafirma-apoyo-martin-torrijos_1_2132195.html |url-status=live }}</ref>",
                   "url": "https://www.tvn-2.com/tu-decision-2024/meliton-arrocha-reafirma-apoyo-martin-torrijos_1_2132195.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -882,21 +882,21 @@
                 {
                   "text": "<ref>{{Cite web |title=Panama voters to elect new president in crowded field of contenders |url=https://www.aljazeera.com/news/2024/5/5/panama-voters-to-elect-new-president-in-crowded-field-of-contenders |date=5 May 2024 |access-date=5 May 2024 |website=Al Jazeera |language=en |archive-date=5 May 2024 |archive-url=https://web.archive.org/web/20240505105134/https://www.aljazeera.com/news/2024/5/5/panama-voters-to-elect-new-president-in-crowded-field-of-contenders |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/5/5/panama-voters-to-elect-new-president-in-crowded-field-of-contenders",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Panama holds general election dominated by former president who was barred from running |url=https://www.pbs.org/newshour/world/panama-holds-general-election-dominated-by-former-president-who-was-barred-from-running |website=PBS |date=5 May 2024 |access-date=8 May 2024 |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508000235/https://www.pbs.org/newshour/world/panama-holds-general-election-dominated-by-former-president-who-was-barred-from-running |url-status=live }}</ref>",
                   "url": "https://www.pbs.org/newshour/world/panama-holds-general-election-dominated-by-former-president-who-was-barred-from-running",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Bustamante |first=Aminta |date=8 May 2024 |title=Elecciones en Panamá: Quejas por alteración de actas y advertencias de impugnaciones se multiplican |url=https://www.tvn-2.com/tu-decision-2024/elecciones-panama-quejas-alteracion-actas-escogencia-diputados-tribunal-electoral-pela-curules-san-miguelito-moca-prd-rm_1_2133873.html |access-date=10 May 2024 |website=Tvn Panamá |language=es |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510155904/https://www.tvn-2.com/tu-decision-2024/elecciones-panama-quejas-alteracion-actas-escogencia-diputados-tribunal-electoral-pela-curules-san-miguelito-moca-prd-rm_1_2133873.html |url-status=live }}</ref>",
                   "url": "https://www.tvn-2.com/tu-decision-2024/elecciones-panama-quejas-alteracion-actas-escogencia-diputados-tribunal-electoral-pela-curules-san-miguelito-moca-prd-rm_1_2133873.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -919,7 +919,7 @@
                 {
                   "text": "<ref>{{Cite web |last=Morales |first=Claudya Carolina |date=2024-05-12 |title=¡Récord histórico! 77% del electorado votó en las elecciones del 5 de mayo |url=https://www.tvn-2.com/tu-decision-2024/record-historico-77-electorado-voto-elecciones-panama-5-mayo_1_2134764.html |access-date=2024-05-13 |website=Tvn Panamá |language=es}}</ref>",
                   "url": "https://www.tvn-2.com/tu-decision-2024/record-historico-77-electorado-voto-elecciones-panama-5-mayo_1_2134764.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -941,14 +941,14 @@
                       "text": "<ref>{{Cite web|language=Spanish|title=General Election 2024, Election of the President|url=https://resultados.te.gob.pa/resultados/100/presidente/1|website=Tribunal Electoral|access-date=6 May 2024}}{{Dead link|date=July 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>",
                       "url": "https://resultados.te.gob.pa/resultados/100/presidente/1",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Cannot connect to host resultados.te.gob.pa:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'resultados.te.gob.pa'. (_ssl.c:1010)\")]",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"census\">{{Cite web |title=TE Presents Final Electoral Census |language=Spanish |url=https://www.tribunal-electoral.gob.pa/te-presenta-padron-electoral-final/ |access-date=6 May 2024 |archive-date=5 May 2024 |archive-url=https://web.archive.org/web/20240505174951/https://www.tribunal-electoral.gob.pa/te-presenta-padron-electoral-final/ |url-status=live }}</ref>",
                       "url": "https://www.tribunal-electoral.gob.pa/te-presenta-padron-electoral-final/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -960,14 +960,14 @@
                     {
                       "text": "<ref>{{Cite web |title=Partido PAIS se extingue |url=https://www.laestrella.com.pa/panama/politica/partido-pais-se-extingue-GL7580910 |access-date=2024-06-05 |website=La Estrella |language=es-PA}}</ref>",
                       "url": "https://www.laestrella.com.pa/panama/politica/partido-pais-se-extingue-GL7580910",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Bustamante |first=Aminta |date=2024-06-04 |title=PAIS no sobrevivió la elección de 2024, informó el Tribunal Electoral a la Junta Nacional de Escrutinio |url=https://www.tvn-2.com/tu-decision-2024/pais-no-subsiste-eleccion-2024-partido-alternativa-independiente-social-tribunal-electoral-jose-alberto-alvarez-parlacen-molirena_1_2139338.html |access-date=2024-06-05 |website=Tvn Panamá |language=es |archive-date=5 June 2024 |archive-url=https://web.archive.org/web/20240605021632/https://www.tvn-2.com/tu-decision-2024/pais-no-subsiste-eleccion-2024-partido-alternativa-independiente-social-tribunal-electoral-jose-alberto-alvarez-parlacen-molirena_1_2139338.html |url-status=live }}</ref>",
                       "url": "https://www.tvn-2.com/tu-decision-2024/pais-no-subsiste-eleccion-2024-partido-alternativa-independiente-social-tribunal-electoral-jose-alberto-alvarez-parlacen-molirena_1_2139338.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -990,14 +990,14 @@
                     {
                       "text": "<ref>{{Cite web |last=Bustamante |first=Aminta |date=2024-05-07 |title=Realizando Metas podría adjudicarse la mayor cantidad de curules en el Parlacen |url=https://www.tvn-2.com/tu-decision-2024/realizando-metas-adjudicarse-mayor-cantidad-curules-parlacen-parlamento-centroamericano-elecciones-en-panama_1_2133660.html |access-date=2024-06-12 |website=Tvn Panamá |language=es |archive-date=11 June 2024 |archive-url=https://web.archive.org/web/20240611030255/https://www.tvn-2.com/tu-decision-2024/realizando-metas-adjudicarse-mayor-cantidad-curules-parlacen-parlamento-centroamericano-elecciones-en-panama_1_2133660.html |url-status=live }}</ref>",
                       "url": "https://www.tvn-2.com/tu-decision-2024/realizando-metas-adjudicarse-mayor-cantidad-curules-parlacen-parlamento-centroamericano-elecciones-en-panama_1_2133660.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":8\">{{Cite web |last=Bustamante |first=Aminta |date=2024-06-10 |title=Junta Nacional de Escrutinio oficializa a los diputados del Parlacen |url=https://www.tvn-2.com/tu-decision-2024/junta-nacional-de-escrutinio-entrega-credenciales-diputados-parlacen-benicio-robinson-juan-carlos-varela-martinelli-linares-parlamento-centroamericano_1_2140243.html |access-date=2024-06-12 |website=Tvn Panamá |language=es |archive-date=11 June 2024 |archive-url=https://web.archive.org/web/20240611041513/https://www.tvn-2.com/tu-decision-2024/junta-nacional-de-escrutinio-entrega-credenciales-diputados-parlacen-benicio-robinson-juan-carlos-varela-martinelli-linares-parlamento-centroamericano_1_2140243.html |url-status=live }}</ref>",
                       "url": "https://www.tvn-2.com/tu-decision-2024/junta-nacional-de-escrutinio-entrega-credenciales-diputados-parlacen-benicio-robinson-juan-carlos-varela-martinelli-linares-parlamento-centroamericano_1_2140243.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1021,7 +1021,7 @@
                       "text": "<ref>{{Cite web |language=Spanish |title=General Election 2024, Election of Deputies |url=https://resultados.te.gob.pa/resultados/100/diputado/2|website=Tribunal Electoral|access-date=7 May 2024}}</ref>",
                       "url": "https://resultados.te.gob.pa/resultados/100/diputado/2",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Cannot connect to host resultados.te.gob.pa:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'resultados.te.gob.pa'. (_ssl.c:1010)\")]",
                       "type": "web"
                     }
                   ]
@@ -1033,8 +1033,8 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-07-01 |title=Dana Castañeda presidirá la Asamblea, con los votos de todos los partidos y el repudio de los independientes |url=https://www.prensa.com/politica/dana-castaneda-presidira-la-asamblea-con-los-votos-de-todos-los-partidos-y-el-repudio-de-los-independientes/ |access-date=2024-07-01 |website=La Prensa |language=es |archive-date=1 July 2024 |archive-url=https://web.archive.org/web/20240701162237/https://www.prensa.com/politica/dana-castaneda-presidira-la-asamblea-con-los-votos-de-todos-los-partidos-y-el-repudio-de-los-independientes/ |url-status=live }}</ref>",
                       "url": "https://www.prensa.com/politica/dana-castaneda-presidira-la-asamblea-con-los-votos-de-todos-los-partidos-y-el-repudio-de-los-independientes/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
                       "type": "web"
                     }
                   ]
@@ -1046,49 +1046,49 @@
                     {
                       "text": "<ref>{{Cite web |date=8 May 2024 |title=Resultados, elecciones en Panamá 2024: La transcendental cifra de independientes que conformarán la Asamblea |url=https://www.telemetro.com/politica/resultados-elecciones-panama-2024-la-transcendental-cifra-independientes-que-conformaran-la-asamblea-n5979415 |access-date=8 May 2024 |website=Telemetro |language=es-PA |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508204824/https://www.telemetro.com/politica/resultados-elecciones-panama-2024-la-transcendental-cifra-independientes-que-conformaran-la-asamblea-n5979415 |url-status=live }}</ref>",
                       "url": "https://www.telemetro.com/politica/resultados-elecciones-panama-2024-la-transcendental-cifra-independientes-que-conformaran-la-asamblea-n5979415",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":3\">{{Cite web |last=Marquínez |first=Arellys |date=6 May 2024 |title=¡Arrasó en San Miguelito! Candidato de Vamos se convierte en el más votado del país ¿De quién se trata? |url=https://www.tvn-2.com/tu-decision-2024/arraso-san-miguelito-candidato-convierte-mas-votado-pais-quien-se-trata_1_2133542.html |access-date=8 May 2024 |website=Tvn Panamá |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508021014/https://www.tvn-2.com/tu-decision-2024/arraso-san-miguelito-candidato-convierte-mas-votado-pais-quien-se-trata_1_2133542.html |url-status=live }}</ref>",
                       "url": "https://www.tvn-2.com/tu-decision-2024/arraso-san-miguelito-candidato-convierte-mas-votado-pais-quien-se-trata_1_2133542.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=25 April 2024 |title=Rubén Blades sigue caminando con Vamos y asegura que 'mete las manos en la candela' por ellos |url=https://www.tvn-2.com/nacionales/coalicion-vamos-reune-ruben-blades-reafirma_1_2131304.html |access-date=8 May 2024 |website=Tvn Panamá |language=es |archive-date=7 May 2024 |archive-url=https://web.archive.org/web/20240507111517/https://www.tvn-2.com/nacionales/coalicion-vamos-reune-ruben-blades-reafirma_1_2131304.html |url-status=live }}</ref>",
                       "url": "https://www.tvn-2.com/nacionales/coalicion-vamos-reune-ruben-blades-reafirma_1_2131304.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Caballero |first=Fabio |date=6 May 2024 |title=Video: Eduardo Gaitán, el candidato a diputado de Vamos más votado del país |url=https://www.tvn-2.com/videos/noticias/video-eduardo-gaitan-candidato-diputado-votado_8_2133544.html |access-date=8 May 2024 |website=Tvn Panamá |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508034824/https://www.tvn-2.com/videos/noticias/video-eduardo-gaitan-candidato-diputado-votado_8_2133544.html |url-status=live }}</ref>",
                       "url": "https://www.tvn-2.com/videos/noticias/video-eduardo-gaitan-candidato-diputado-votado_8_2133544.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":3\" /> Neftalí Zamora, also affiliated with Vamos, became the youngest member-elect of the Assembly.<ref>{{Cite web |date=8 May 2024 |title=Con 24 años, Neftalí Zamora se convierte en el diputado más joven en la Asamblea Nacional |url=https://www.prensa.com/politica/con-24-anos-neftali-zamora-se-convierte-en-el-diputado-mas-joven-en-la-asamblea-nacional/ |access-date=8 May 2024 |website=La Prensa |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508200256/https://www.prensa.com/politica/con-24-anos-neftali-zamora-se-convierte-en-el-diputado-mas-joven-en-la-asamblea-nacional/ |url-status=live }}</ref>",
                       "url": "https://www.prensa.com/politica/con-24-anos-neftali-zamora-se-convierte-en-el-diputado-mas-joven-en-la-asamblea-nacional/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":9\">{{Cite web |date=2024-05-14 |title=20 diputados independientes y sus suplentes se comprometen a renunciar a exoneraciones, dietas y telefonía celular |url=https://www.prensa.com/politica/20-diputados-y-sus-suplentes-independientes-acuden-al-llamado-de-juan-diego-vasquez-en-la-asamblea-nacional/ |access-date=2024-05-14 |website=La Prensa |language=es |archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514214741/https://www.prensa.com/politica/20-diputados-y-sus-suplentes-independientes-acuden-al-llamado-de-juan-diego-vasquez-en-la-asamblea-nacional/ |url-status=live }}</ref>",
                       "url": "https://www.prensa.com/politica/20-diputados-y-sus-suplentes-independientes-acuden-al-llamado-de-juan-diego-vasquez-en-la-asamblea-nacional/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":9\" /> as did MOCA member-elect José Pérez Barboni.<ref>{{Cite web |date=2024-05-10 |title=El diputado electo Pérez Barboni dice que renunció al manejo de partidas, cobro de dietas y los beneficios en la importación de autos |url=https://www.prensa.com/politica/el-diputado-electo-perez-barboni-renuncia-al-manejo-de-partidas-cobro-de-dietas-y-los-beneficios-en-la-importacion-de-autos/ |access-date=2024-05-14 |website=La Prensa |language=es |archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514214741/https://www.prensa.com/politica/el-diputado-electo-perez-barboni-renuncia-al-manejo-de-partidas-cobro-de-dietas-y-los-beneficios-en-la-importacion-de-autos/ |url-status=live }}</ref>",
                       "url": "https://www.prensa.com/politica/el-diputado-electo-perez-barboni-renuncia-al-manejo-de-partidas-cobro-de-dietas-y-los-beneficios-en-la-importacion-de-autos/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1101,15 +1101,15 @@
                     {
                       "text": "<ref>{{Cite web |last=Marquinez |first=Arellys |date=6 May 2024 |title=¿Voto castigo? Estos son los diputados que buscaban la reelección, pero no salieron |url=https://www.tvn-2.com/tu-decision-2024/voto-castigo-son-51-diputados-buscaban-reeleccion-pero-no-salieron_1_2133479.html |access-date=8 May 2024 |website=TVN Noticias |archive-date=7 May 2024 |archive-url=https://web.archive.org/web/20240507041443/https://www.tvn-2.com/tu-decision-2024/voto-castigo-son-51-diputados-buscaban-reeleccion-pero-no-salieron_1_2133479.html |url-status=live }}</ref>",
                       "url": "https://www.tvn-2.com/tu-decision-2024/voto-castigo-son-51-diputados-buscaban-reeleccion-pero-no-salieron_1_2133479.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=11 candidatos electos, menores de 36 años, en Panamá |url=https://www.ellas.pa/estilo-de-vida/11-candidatos-electos-menores-de-36-anos-en-panama/ |access-date=10 May 2024 |website=Ellas |language=es}}</ref>",
                       "url": "https://www.ellas.pa/estilo-de-vida/11-candidatos-electos-menores-de-36-anos-en-panama/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
                       "type": "web"
                     }
                   ]
@@ -1156,8 +1156,8 @@
                         {
                           "text": "<ref>{{Cite web |date=6 May 2024 |title=Solo 13 de los 60 diputados que buscaban la reelección regresan a la Asamblea; 9 son del PRD |url=https://www.prensa.com/politica/solo-13-de-los-60-diputados-que-buscaban-la-reeleccion-regresan-a-la-asamblea-9-son-del-prd/ |access-date=11 May 2024 |website=La Prensa |language=es |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509205057/https://www.prensa.com/politica/solo-13-de-los-60-diputados-que-buscaban-la-reeleccion-regresan-a-la-asamblea-9-son-del-prd/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/solo-13-de-los-60-diputados-que-buscaban-la-reeleccion-regresan-a-la-asamblea-9-son-del-prd/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         }
                       ]
@@ -1169,56 +1169,56 @@
                         {
                           "text": "<ref name=\":42\">{{Cite web |last=Espinoza |first=Tereza |date=6 May 2024 |title=Medio cociente y residuo los salvan: Pineda, 'Bolota' Salazar, Robinson y Gálvez se mantienen en la Asamblea |url=https://www.tvn-2.com/tu-decision-2024/medio-cociente-residuo-mantienen-pineda-robinson-bolota-chello-asamblea-nacional-elecciones-panama_1_2133488.html |access-date=10 May 2024 |work=TVN Panama |language=es |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510155904/https://www.tvn-2.com/tu-decision-2024/medio-cociente-residuo-mantienen-pineda-robinson-bolota-chello-asamblea-nacional-elecciones-panama_1_2133488.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/medio-cociente-residuo-mantienen-pineda-robinson-bolota-chello-asamblea-nacional-elecciones-panama_1_2133488.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"votocastigo\">{{Cite web |last=Marquinez |first=Arellys |date=6 May 2024 |title=¿Voto castigo? Estos son los diputados que buscaban la reelección, pero no salieron |url=https://www.tvn-2.com/tu-decision-2024/voto-castigo-son-51-diputados-buscaban-reeleccion-pero-no-salieron_1_2133479.html |access-date=8 May 2024 |work=TVN Panama |archive-date=7 May 2024 |archive-url=https://web.archive.org/web/20240507041443/https://www.tvn-2.com/tu-decision-2024/voto-castigo-son-51-diputados-buscaban-reeleccion-pero-no-salieron_1_2133479.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/voto-castigo-son-51-diputados-buscaban-reeleccion-pero-no-salieron_1_2133479.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"votocastigo\" />\n# Melchor Herrera (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Luis Ernesto Carles (Panameñista Party)<ref name=\"votocastigo\" />\n# Pedro Torres (Panameñista Party)<ref name=\"votocastigo\" />\n# Fernando Arce (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Miguel Fanovich (MOLIRENA)<ref name=\"votocastigo\" />\n# Hugo Méndez (Panameñista Party)<ref name=\"votocastigo\" />\n# Everardo Concepción (Panameñista Party)<ref name=\"votocastigo\" />\n# Juan Esquivel (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Rony Araúz (Democratic Change)<ref name=\"votocastigo\" />\n# Gonzalo González (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Manolo Ruiz (MOLIRENA)<ref name=\"circuitos\">{{Cite web |date=6 May 2024 |title=Circuitos uninominales: Arquesio y Castillero son reelectos; vuelven Popi, Afú, Cohen Salerno y Dana Castañeda |url=https://www.midiario.com/nacionales/en-vivo-diputados-electos-en-los-circuitos-uninominales/ |access-date=11 May 2024 |website=Mi Diario |language=es |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510064052/https://www.midiario.com/nacionales/en-vivo-diputados-electos-en-los-circuitos-uninominales/ |url-status=live }}</ref>",
                           "url": "https://www.midiario.com/nacionales/en-vivo-diputados-electos-en-los-circuitos-uninominales/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"votocastigo\" />\n# Arnulfo Díaz (Democratic Change){{efn|name=\"CD to RM\"|This member was elected as a member of Democratic Change, but ran for reelection as part of Realizing Goals.<ref>{{Cite web |date=2024-05-01 |title=Voto 24: Nueve diputados buscan al reelección por el partido Realizando Metas |url=https://www.telemetro.com/voto-24/voto-24-nueve-diputados-buscan-al-reeleccion-el-partido-realizando-metas-n5978358 |access-date=2024-05-15 |website=Telemetro |language=es-PA |archive-date=15 May 2024 |archive-url=https://web.archive.org/web/20240515202743/https://www.telemetro.com/voto-24/voto-24-nueve-diputados-buscan-al-reeleccion-el-partido-realizando-metas-n5978358 |url-status=live }}</ref>",
                           "url": "https://www.telemetro.com/voto-24/voto-24-nueve-diputados-buscan-al-reeleccion-el-partido-realizando-metas-n5978358",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"circuitos\" />\n# Julio Mendoza (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Eric Broce (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Olivares Frías (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Dalia Bernal (Democratic Change){{efn|name=\"CD to RM\"}}<ref name=\"novas\">{{Cite web |date=6 May 2024 |title=De legendarios a desterrados; los diputados que recibieron el castigo del 'No Vas' |url=https://www.prensa.com/politica/de-legendarios-a-desterrados-los-diputados-que-recibieron-el-castigo-del-no-vas/ |access-date=11 May 2024 |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=11 May 2024 |archive-url=https://web.archive.org/web/20240511165200/https://www.prensa.com/politica/de-legendarios-a-desterrados-los-diputados-que-recibieron-el-castigo-del-no-vas/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/de-legendarios-a-desterrados-los-diputados-que-recibieron-el-castigo-del-no-vas/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"novas\" />\n# Zulay Rodríguez (Democratic Revolutionary Party)<ref>{{Cite web |last=De La Cruz |first=Omar |date=9 May 2024 |title=Zulay Rodríguez queda fuera de la Asamblea Nacional |url=https://www.tvn-2.com/tu-decision-2024/zulay-rodriguez-perder-san-miguelito-asamblea-curul_1_2134105.html |access-date=11 May 2024 |website=Tvn Panamá |language=es |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510180523/https://www.tvn-2.com/tu-decision-2024/zulay-rodriguez-perder-san-miguelito-asamblea-curul_1_2134105.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/zulay-rodriguez-perder-san-miguelito-asamblea-curul_1_2134105.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"votocastigo\" />\n# Pancho Alemán (MOLIRENA)<ref name=\"novas\" />\n# Héctor Brands (Democratic Revolutionary Party)<ref name=\"votocastigo\"/>\n# Corina Cano (MOLIRENA)<ref name=\"votocastigo\" />\n# Victor Castillo (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Raúl Fernández (Independent)<ref name=\"votocastigo\" />\n# Génesis Arjona (Democratic Change)<ref name=\"votocastigo\" />\n# Alina González (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Tito Rodríguez (MOLIRENA)<ref name=\"novas\" />\n# Cenobia Vargas (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Edwin Zúñiga (Democratic Change)<ref name=\"votocastigo\" />\n# Elías Vigil (Panameñista Party)<ref name=\"votocastigo\" />\n# Luis Rafael Cruz (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Fátima Agrazal (Democratic Change){{efn|name=\"CD to RM\"}}<ref name=\"votocastigo\" />\n# Ariel Alba (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Eugenio Bernal (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Ricardo Torres (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Leopoldo Archibold (Democratic Change){{efn|name=\"CD to RM\"}}<ref name=\"votocastigo\" />\n# Adan Bejerano (Independent)<ref name=\"votocastigo\" />\n# Ricardo Santo (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Kayra Harding (Democratic Revolutionary Party)<ref name=\"votocastigo\" />\n# Marylín Vallarino (Democratic Change){{efn|name=\"CD to RM\"}}<ref name=\"novas\" />\n# José Junier Herrera (Democratic Change){{efn|name=\"CD to PRD\"|This member was elected as a member of Democratic Change, but ran for reelection as part of a PRD-RM alliance.<ref>{{Cite web |last=Bustamante |first=Aminta |date=2024-04-18 |title=Juzgado Electoral accede a solicitud de la Corte de levantar el fuero al diputado Nelson Jackson |url=https://www.tvn-2.com/tu-decision-2024/juzgado-electoral-accede-solicitud-corte_1_2129844.html |access-date=2024-05-15 |website=Tvn Panamá |language=es |archive-date=15 May 2024 |archive-url=https://web.archive.org/web/20240515201618/https://www.tvn-2.com/tu-decision-2024/juzgado-electoral-accede-solicitud-corte_1_2129844.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/juzgado-electoral-accede-solicitud-corte_1_2129844.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Elecciones 2024: exdiputados que desean regresar a la Asamblea |url=https://www.laestrella.com.pa/panama/politica/elecciones-2024-exdiputados-que-desean-regresar-a-la-asamblea-KI5846059 |access-date=2024-05-15 |website=La Estrella |language=es-PA |archive-date=15 May 2024 |archive-url=https://web.archive.org/web/20240515201619/https://www.laestrella.com.pa/panama/politica/elecciones-2024-exdiputados-que-desean-regresar-a-la-asamblea-KI5846059 |url-status=live }}</ref>",
                           "url": "https://www.laestrella.com.pa/panama/politica/elecciones-2024-exdiputados-que-desean-regresar-a-la-asamblea-KI5846059",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1241,8 +1241,8 @@
                         {
                           "text": "<ref name=\":11\">{{Cite web |date=2024-02-16 |title=El 84% de los diputados busca la reelección |url=https://www.prensa.com/politica/el-84-de-los-diputados-busca-la-reeleccion/ |access-date=2024-05-21 |website=La Prensa |language=es |archive-date=21 May 2024 |archive-url=https://web.archive.org/web/20240521164001/https://www.prensa.com/politica/el-84-de-los-diputados-busca-la-reeleccion/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/el-84-de-los-diputados-busca-la-reeleccion/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         }
                       ]
@@ -1254,8 +1254,8 @@
                         {
                           "text": "<ref name=\"primaryloss\">{{Cite web |title=Los seis diputados perredistas que no regresarán a la Asamblea |url=https://www.laestrella.com.pa/panama/politica/cinco-diputados-perredistas-regresaran-asamblea-HELE492858 |first=Yorlenne |last=Morales Q. |access-date=2024-05-13 |work=La Estrella de Panamá |language=es-PA |trans-title=The six PRD deputies who will not return to the Assembly |archive-date=13 May 2024 |archive-url=https://web.archive.org/web/20240513222042/https://www.laestrella.com.pa/panama/politica/cinco-diputados-perredistas-regresaran-asamblea-HELE492858 |url-status=live }}</ref>",
                           "url": "https://www.laestrella.com.pa/panama/politica/cinco-diputados-perredistas-regresaran-asamblea-HELE492858",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         }
                       ]
@@ -1277,8 +1277,8 @@
                         {
                           "text": "<ref name=\":4\">{{Cite web |date=2024-05-29 |title=Magistrado Valdés Escoffery reveló que hay 22 diputados impugnados |url=https://www.prensa.com/politica/magistrado-valdes-escoffery-revelo-que-hay-22-diputados-impugnados/ |access-date=2024-05-29 |website=La Prensa |language=es |archive-date=29 May 2024 |archive-url=https://web.archive.org/web/20240529162430/https://www.prensa.com/politica/magistrado-valdes-escoffery-revelo-que-hay-22-diputados-impugnados/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/magistrado-valdes-escoffery-revelo-que-hay-22-diputados-impugnados/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         }
                       ]
@@ -1290,28 +1290,28 @@
                         {
                           "text": "<ref name=\":5\">{{Cite web |date=8 May 2024 |title=Bocas del Toro: panameñista impugnará resultados que le darían la reelección a Benicio Robinson |url=https://www.prensa.com/politica/bocas-del-toro-panamenista-impugnara-resultados-que-le-darian-la-reeleccion-a-benicio-robinson/ |access-date=8 May 2024 |first=Eliana Morales |last=Gil |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508183233/https://www.prensa.com/politica/bocas-del-toro-panamenista-impugnara-resultados-que-le-darian-la-reeleccion-a-benicio-robinson/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/bocas-del-toro-panamenista-impugnara-resultados-que-le-darian-la-reeleccion-a-benicio-robinson/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\":12\">{{Cite web |last=Bustamante |first=Aminta |date=2024-05-20 |title=Arrancan las impugnaciones: Jefe de bancada de RM y el circuito 8-4 son parte de la controversia |url=https://www.tvn-2.com/tu-decision-2024/arrancan-impugnaciones-jefe-bancada-rm-alain-cedeno-impugnado-circuito-8-4-impugnado-circuito-8-6-impugnado-asamblea-nacional-realizando-metas-tribunal-electoral_1_2136479.html |access-date=2024-05-22 |website=Tvn Panamá |language=es |archive-date=22 May 2024 |archive-url=https://web.archive.org/web/20240522024543/https://www.tvn-2.com/tu-decision-2024/arrancan-impugnaciones-jefe-bancada-rm-alain-cedeno-impugnado-circuito-8-4-impugnado-circuito-8-6-impugnado-asamblea-nacional-realizando-metas-tribunal-electoral_1_2136479.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/arrancan-impugnaciones-jefe-bancada-rm-alain-cedeno-impugnado-circuito-8-4-impugnado-circuito-8-6-impugnado-asamblea-nacional-realizando-metas-tribunal-electoral_1_2136479.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Bustamante |first=Aminta |date=2024-05-23 |title=Ubaldo Vallejos impugnó la proclamación de Benicio Robinson |url=https://www.tvn-2.com/tu-decision-2024/ubaldo-vallejos-impugno-proclamacion-benicio-robinson-bocas-del-toro-circuito1-1-diputado-asamblea-nacional_1_2137105.html |access-date=2024-05-23 |website=Tvn Panamá |language=es |archive-date=23 May 2024 |archive-url=https://web.archive.org/web/20240523231407/https://www.tvn-2.com/tu-decision-2024/ubaldo-vallejos-impugno-proclamacion-benicio-robinson-bocas-del-toro-circuito1-1-diputado-asamblea-nacional_1_2137105.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/ubaldo-vallejos-impugno-proclamacion-benicio-robinson-bocas-del-toro-circuito1-1-diputado-asamblea-nacional_1_2137105.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2024-05-30 |title=No admiten demanda de impugnación contra Benicio Robinson |url=https://www.tvn-2.com/tu-decision-2024/no-admiten-demanda-impugnacion-benicio-robinson-prd_1_2138401.html |access-date=2024-05-30 |website=Tvn Panamá |language=es |archive-date=30 May 2024 |archive-url=https://web.archive.org/web/20240530202502/https://www.tvn-2.com/tu-decision-2024/no-admiten-demanda-impugnacion-benicio-robinson-prd_1_2138401.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/no-admiten-demanda-impugnacion-benicio-robinson-prd_1_2138401.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1324,21 +1324,21 @@
                         {
                           "text": "<ref name=\":6\">{{Cite web |date=8 May 2024 |title=Moca recaba evidencias para impugnar proclamación del perredista Néstor 'Tin' Guardia en Penonomé |url=https://www.prensa.com/politica/moca-recaba-evidencias-para-impugnar-proclamacion-del-perredista-nestor-tin-guardia-en-penonome/ |access-date=8 May 2024 |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508191724/https://www.prensa.com/politica/moca-recaba-evidencias-para-impugnar-proclamacion-del-perredista-nestor-tin-guardia-en-penonome/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/moca-recaba-evidencias-para-impugnar-proclamacion-del-perredista-nestor-tin-guardia-en-penonome/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Reyes |first=Alejandro |date=2024-05-25 |title=MOCA y Víctor Carles interponen acciones penales por 'irregularidades' en circuito 2-1 |url=https://www.tvn-2.com/tu-decision-2024/moca-victor-carles-interponen-acciones_1_2137403.html |access-date=2024-05-25 |website=Tvn Panamá |language=es}}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/moca-victor-carles-interponen-acciones_1_2137403.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2024-05-25 |title=Moca y Víctor Carles presentan denuncias por supuestas anomalías en las elecciones del circuito 2-1, Penonomé |url=https://www.prensa.com/politica/moca-y-victor-carles-presentan-denuncias-por-supuestas-anomalias-en-las-elecciones-del-circuito-2-1-penonome/ |access-date=2024-05-25 |website=La Prensa |language=es}}</ref>",
                           "url": "https://www.prensa.com/politica/moca-y-victor-carles-presentan-denuncias-por-supuestas-anomalias-en-las-elecciones-del-circuito-2-1-penonome/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1351,7 +1351,7 @@
                         {
                           "text": "<ref>{{Cite web |last=González |first=Saydie M. |date=7 May 2024 |title=Tribunal Electoral hace un llamado a la 'calma' tras tensa situación en Santiago y Penonomé |url=https://www.tvn-2.com/tu-decision-2024/tribunal-electoral-llamado-calma-tensa-santiago-penonome-elecciones-tu-decision-voto-acta-moca_1_2133846.html |access-date=8 May 2024 |work=TVN (Panamanian TV network)|TVN Pamama |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508002910/https://www.tvn-2.com/tu-decision-2024/tribunal-electoral-llamado-calma-tensa-santiago-penonome-elecciones-tu-decision-voto-acta-moca_1_2133846.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/tribunal-electoral-llamado-calma-tensa-santiago-penonome-elecciones-tu-decision-voto-acta-moca_1_2133846.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1364,15 +1364,15 @@
                         {
                           "text": "<ref name=\":12\" /><ref>{{Cite web |date=2024-04-26 |title=Dana Castañeda apelará el fallo que la inhabilita para correr como diputada en el circuito 2–3 |url=https://www.prensa.com/judiciales/dana-castaneda-apelara-el-fallo-que-la-inhabilita-para-correr-como-diputada-en-el-circuito-2-3/ |access-date=2024-05-22 |website=La Prensa |language=es |archive-date=22 May 2024 |archive-url=https://web.archive.org/web/20240522024544/https://www.prensa.com/judiciales/dana-castaneda-apelara-el-fallo-que-la-inhabilita-para-correr-como-diputada-en-el-circuito-2-3/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/judiciales/dana-castaneda-apelara-el-fallo-que-la-inhabilita-para-correr-como-diputada-en-el-circuito-2-3/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2024-06-05 |title=Dana Castañeda ocupará su curul en la Asamblea Nacional tras decisión del Tribunal Electoral |url=https://www.prensa.com/politica/dana-castaneda-ocupara-su-curul-en-la-asamblea-nacional-tras-decision-del-tribunal-electoral/ |access-date=2024-06-06 |website=La Prensa |language=es}}</ref>",
                           "url": "https://www.prensa.com/politica/dana-castaneda-ocupara-su-curul-en-la-asamblea-nacional-tras-decision-del-tribunal-electoral/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         }
                       ]
@@ -1384,7 +1384,7 @@
                         {
                           "text": "<ref name=\":4\" /> However, Ábrego did not present the required deposit and so the challenge was dismissed.<ref>{{Cite web |last=Almanza |first=Cinthia |date=2024-06-03 |title=Se cae impugnación contra la proclamación de Nelson Jackson y su curul sigue asegurada |url=https://www.tvn-2.com/tu-decision-2024/cae-impugnacion-proclamacion-nelson-jackson_1_2139012.html |access-date=2024-06-05 |website=Tvn Panamá |language=es |archive-date=5 June 2024 |archive-url=https://web.archive.org/web/20240605021631/https://www.tvn-2.com/tu-decision-2024/cae-impugnacion-proclamacion-nelson-jackson_1_2139012.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/cae-impugnacion-proclamacion-nelson-jackson_1_2139012.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1397,42 +1397,42 @@
                         {
                           "text": "<ref>{{Cite web |last=Bustamante |first=Aminta |date=9 May 2024 |title=Proclamaciones en Bocas del Toro, San Miguelito y Coclé dejan descontentos; podrían ser impugnadas |url=https://www.tvn-2.com/tu-decision-2024/proclamaciones-bocas-toro-san-miguelito-impugnacion-elecciones-en-panama-benicio-robinson-zulay-rodriguez-asamblea-nacional_1_2134157.html |access-date=10 May 2024 |work=TVN (Panamanian TV network)|TVN Pamama |language=es |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510024940/https://www.tvn-2.com/tu-decision-2024/proclamaciones-bocas-toro-san-miguelito-impugnacion-elecciones-en-panama-benicio-robinson-zulay-rodriguez-asamblea-nacional_1_2134157.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/proclamaciones-bocas-toro-san-miguelito-impugnacion-elecciones-en-panama-benicio-robinson-zulay-rodriguez-asamblea-nacional_1_2134157.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=10 May 2024 |title=Diputada Zulay Rodríguez anuncia que presentará impugnación |url=https://www.tvn-2.com/tu-decision-2024/diputada-zulay-rodriguez-anuncia-presentara_1_2134567.html |access-date=11 May 2024 |work=TVN (Panamanian TV network)|TVN Pamama |language=es |archive-date=11 May 2024 |archive-url=https://web.archive.org/web/20240511092237/https://www.tvn-2.com/tu-decision-2024/diputada-zulay-rodriguez-anuncia-presentara_1_2134567.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/diputada-zulay-rodriguez-anuncia-presentara_1_2134567.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2024-01-08 |title=Estos son los candidatos a diputados que se disputarán las siete curules de San Miguelito |url=https://www.prensa.com/politica/estos-son-los-candidatos-a-diputados-que-se-disputaran-las-siete-curules-de-san-miguelito/ |access-date=2024-05-27 |website=La Prensa |language=es |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527130231/https://www.prensa.com/politica/estos-son-los-candidatos-a-diputados-que-se-disputaran-las-siete-curules-de-san-miguelito/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/estos-son-los-candidatos-a-diputados-que-se-disputaran-las-siete-curules-de-san-miguelito/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2024-05-27 |title=Sobrino de Raúl Pineda impugna elección de diputados de Vamos en San Miguelito |url=https://www.prensa.com/politica/sobrino-de-raul-pineda-impugna-eleccion-de-diputados-de-vamos-en-san-miguelito/ |access-date=2024-05-27 |website=La Prensa |language=es |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527130232/https://www.prensa.com/politica/sobrino-de-raul-pineda-impugna-eleccion-de-diputados-de-vamos-en-san-miguelito/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/sobrino-de-raul-pineda-impugna-eleccion-de-diputados-de-vamos-en-san-miguelito/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Bustamante |first=Aminta |date=2024-05-26 |title=Zulay Rodríguez y José Ruiloba Pineda impugnan proclamaciones en el 8-2, San Miguelito |url=https://www.tvn-2.com/tu-decision-2024/zulay-rodriguez-jose-ruiloba-pineda-impugnacion-circuito-8-2-san-miguelito-tribunal-electoral_1_2137547.html |access-date=2024-05-27 |website=Tvn Panamá |language=es |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527130232/https://www.tvn-2.com/tu-decision-2024/zulay-rodriguez-jose-ruiloba-pineda-impugnacion-circuito-8-2-san-miguelito-tribunal-electoral_1_2137547.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/zulay-rodriguez-jose-ruiloba-pineda-impugnacion-circuito-8-2-san-miguelito-tribunal-electoral_1_2137547.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=González |first=Saydie M. |date=2024-06-07 |title=Rechazan impugnación de José Ruiloba Pineda contra diputados electos de Vamos en San Miguelito |url=https://www.tvn-2.com/tu-decision-2024/rechazan-impugnacion-jose-ruiloba-raul-pineda-san-miguelito-tribunal-electoral-vamos-elecciones-tu-decision_1_2139960.html |access-date=2024-06-07 |website=Tvn Panamá |language=es}}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/rechazan-impugnacion-jose-ruiloba-raul-pineda-san-miguelito-tribunal-electoral-vamos-elecciones-tu-decision_1_2139960.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1445,15 +1445,15 @@
                         {
                           "text": "<ref>{{Cite web |date=8 May 2024 |title=Candidato de Moca en el circuito 8-3 denuncia que están tratando de amañar resultados para quitarle la curul |url=https://www.prensa.com/politica/candidato-de-moca-en-el-circuito-8-3-denuncia-que-estan-tratando-de-amanar-resultados-para-quitarle-la-curul/ |access-date=8 May 2024 |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508020638/https://www.prensa.com/politica/candidato-de-moca-en-el-circuito-8-3-denuncia-que-estan-tratando-de-amanar-resultados-para-quitarle-la-curul/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/candidato-de-moca-en-el-circuito-8-3-denuncia-que-estan-tratando-de-amanar-resultados-para-quitarle-la-curul/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=8 May 2024 |title=José Pérez Barboni, de MOCA, es proclamado diputado por el circuito 8-3 |url=https://www.prensa.com/politica/jose-perez-barboni-de-moca-es-proclamado-diputado-por-el-circuito-8-3/ |access-date=9 May 2024 |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508231704/https://www.prensa.com/politica/jose-perez-barboni-de-moca-es-proclamado-diputado-por-el-circuito-8-3/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/jose-perez-barboni-de-moca-es-proclamado-diputado-por-el-circuito-8-3/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         }
                       ]
@@ -1465,35 +1465,35 @@
                         {
                           "text": "<ref>{{Cite web |date=8 May 2024 |title=¿Qué está en juego en el circuito 8-4? La disputa por una curul entre Grace Hernández, de MOCA, y Alejandro Pérez, de RM |url=https://www.prensa.com/politica/que-esta-en-juego-en-el-circuito-8-4-la-disputa-por-una-curul-entre-grace-hernandez-de-moca-y-alejandro-perez-de-rm/ |access-date=8 May 2024 |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=7 May 2024 |archive-url=https://web.archive.org/web/20240507211856/https://www.prensa.com/politica/que-esta-en-juego-en-el-circuito-8-4-la-disputa-por-una-curul-entre-grace-hernandez-de-moca-y-alejandro-perez-de-rm/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/que-esta-en-juego-en-el-circuito-8-4-la-disputa-por-una-curul-entre-grace-hernandez-de-moca-y-alejandro-perez-de-rm/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=8 May 2024 |title=Sigue la pugna en el 8-4: se suman más aspirantes a la curul asignada a Grace Hernández |url=https://www.prensa.com/politica/sigue-la-pugna-en-el-8-4-se-suman-mas-contendores-a-la-curul-asignada-a-grace-hernandez/ |access-date=8 May 2024 |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508194614/https://www.prensa.com/politica/sigue-la-pugna-en-el-8-4-se-suman-mas-contendores-a-la-curul-asignada-a-grace-hernandez/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/sigue-la-pugna-en-el-8-4-se-suman-mas-contendores-a-la-curul-asignada-a-grace-hernandez/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\":7\">{{Cite web |date=9 May 2024 |title=Termina el conteo de votos en el 8-4; Alejandro Pérez no pudo quitarle la curul a Grace Hernández |url=https://www.prensa.com/politica/este-es-el-unico-circuito-de-la-provincia-de-panama-que-no-ha-proclamado-diputados/ |access-date=10 May 2024 |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510015910/https://www.prensa.com/politica/este-es-el-unico-circuito-de-la-provincia-de-panama-que-no-ha-proclamado-diputados/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/este-es-el-unico-circuito-de-la-provincia-de-panama-que-no-ha-proclamado-diputados/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=9 May 2024 |title=Grace Hernández logra la curul del circuito 8-4 |url=https://www.tvn-2.com/tu-decision-2024/grace-hernandez-logra-curul-circuito_1_2134345.html |access-date=10 May 2024 |work=TVN (Panamanian TV network)|TVN Pamama |language=es |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510024533/https://www.tvn-2.com/tu-decision-2024/grace-hernandez-logra-curul-circuito_1_2134345.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/grace-hernandez-logra-curul-circuito_1_2134345.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\":12\" /> The challenge was rejected.<ref>{{Cite web |last=Bustamante |first=Aminta |date=2024-06-11 |title=Juzgado electoral rechaza impugnación del circuito 8-4; Pérez anuncia que apelará |url=https://www.tvn-2.com/tu-decision-2024/juzgado-rechaza-impugnacion-circuito-8-4-alejandro-perez-jorge-bloise-tribunal-electoral-asamblea-nacional_1_2140491.html |access-date=2024-06-11 |website=Tvn Panamá |language=es |archive-date=11 June 2024 |archive-url=https://web.archive.org/web/20240611153224/https://www.tvn-2.com/tu-decision-2024/juzgado-rechaza-impugnacion-circuito-8-4-alejandro-perez-jorge-bloise-tribunal-electoral-asamblea-nacional_1_2140491.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/juzgado-rechaza-impugnacion-circuito-8-4-alejandro-perez-jorge-bloise-tribunal-electoral-asamblea-nacional_1_2140491.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1506,28 +1506,28 @@
                         {
                           "text": "<ref name=\":12\" /> Cedeño has accused José Muñoz, a fellow deputy candidate and president of RM's electoral ally, the Alliance Party, of being behind the challenge<ref name=\":12\" /> and the Electoral Prosecutor's Office of trying to give his seat to Muñoz.<ref>{{Cite web |date=2024-05-20 |title=La Fiscalía Electoral impugna elección de Alaín Cedeño; el diputado de RM arremete contra José Muñoz |url=https://www.prensa.com/politica/la-fiscalia-electoral-impugna-eleccion-de-alain-cedeno-el-diputado-de-rm-arremete-contra-jose-munoz/ |access-date=2024-05-22 |website=La Prensa |language=es |archive-date=22 May 2024 |archive-url=https://web.archive.org/web/20240522024553/https://www.prensa.com/politica/la-fiscalia-electoral-impugna-eleccion-de-alain-cedeno-el-diputado-de-rm-arremete-contra-jose-munoz/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/la-fiscalia-electoral-impugna-eleccion-de-alain-cedeno-el-diputado-de-rm-arremete-contra-jose-munoz/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Bustamante |first=Aminta |date=2024-05-28 |title=Cecibel García, mamá de Katleen Levy, impugna todo el circuito 8-6 |url=https://www.tvn-2.com/tu-decision-2024/katleen-levy-mama-impugnan-circuito-circuito-8-6-betsarai-richards-alain-cedeno-raphael-buchanan-impugnaciones-cecibel-garcia_1_2137987.html |access-date=2024-05-29 |website=Tvn Panamá |language=es |archive-date=29 May 2024 |archive-url=https://web.archive.org/web/20240529162431/https://www.tvn-2.com/tu-decision-2024/katleen-levy-mama-impugnan-circuito-circuito-8-6-betsarai-richards-alain-cedeno-raphael-buchanan-impugnaciones-cecibel-garcia_1_2137987.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/katleen-levy-mama-impugnan-circuito-circuito-8-6-betsarai-richards-alain-cedeno-raphael-buchanan-impugnaciones-cecibel-garcia_1_2137987.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=De La Cruz |first=Omar |date=2024-06-03 |title=No admiten la impugnación en el circuito 8-6, presentada por mamá de Katleen Levy |url=https://www.tvn-2.com/tu-decision-2024/no-admiten-impugnaciones-diputados-circuito-katleen-levy_1_2139076.html |access-date=2024-06-05 |website=Tvn Panamá |language=es |archive-date=5 June 2024 |archive-url=https://web.archive.org/web/20240605021630/https://www.tvn-2.com/tu-decision-2024/no-admiten-impugnaciones-diputados-circuito-katleen-levy_1_2139076.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/no-admiten-impugnaciones-diputados-circuito-katleen-levy_1_2139076.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Bustamante |first=Aminta |date=2024-05-31 |title=Empiezan a resolverse impugnaciones: Robinson, Cedeño y Alcalde de Santiago con el camino libre para su instalación |url=https://www.tvn-2.com/tu-decision-2024/imugnaciones-empiezan-resolver-juzgados-electorales-benicio-robinson-alain-cedeno-eric-jaen-tribunal-electoral-resolucion-de-impugnaciones-impugnaciones-rechazadas-fianzas-electorales-elecciones-en-panana-2024-asamblea-nacional-prd-realizando-metas-moca_1_2138486.html |access-date=2024-06-05 |website=Tvn Panamá |language=es |archive-date=5 June 2024 |archive-url=https://web.archive.org/web/20240605021633/https://www.tvn-2.com/tu-decision-2024/imugnaciones-empiezan-resolver-juzgados-electorales-benicio-robinson-alain-cedeno-eric-jaen-tribunal-electoral-resolucion-de-impugnaciones-impugnaciones-rechazadas-fianzas-electorales-elecciones-en-panana-2024-asamblea-nacional-prd-realizando-metas-moca_1_2138486.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/imugnaciones-empiezan-resolver-juzgados-electorales-benicio-robinson-alain-cedeno-eric-jaen-tribunal-electoral-resolucion-de-impugnaciones-impugnaciones-rechazadas-fianzas-electorales-elecciones-en-panana-2024-asamblea-nacional-prd-realizando-metas-moca_1_2138486.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1540,14 +1540,14 @@
                         {
                           "text": "<ref>{{Cite web |last=Bustamante |first=Aminta |date=2024-05-25 |title=Candidato del PRD impugna la proclamación de diputados en el circuito 13-4 en La Chorrera |url=https://www.tvn-2.com/tu-decision-2024/candidato-prd-eliecer-montenegro-impugna-circuito-13-4-la-chorrera-lilia-batista-yuzaida-marin-patsy-lee-realizando-metas-partido-popular-impugnaciones_1_2137384.html |access-date=2024-05-25 |website=Tvn Panamá |language=es |archive-date=25 May 2024 |archive-url=https://web.archive.org/web/20240525231003/https://www.tvn-2.com/tu-decision-2024/candidato-prd-eliecer-montenegro-impugna-circuito-13-4-la-chorrera-lilia-batista-yuzaida-marin-patsy-lee-realizando-metas-partido-popular-impugnaciones_1_2137384.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/candidato-prd-eliecer-montenegro-impugna-circuito-13-4-la-chorrera-lilia-batista-yuzaida-marin-patsy-lee-realizando-metas-partido-popular-impugnaciones_1_2137384.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2024-05-25 |title=Impugnan elecciones de diputados en La Chorrera por presuntas 'actas alteradas' |url=https://www.prensa.com/politica/impugnan-elecciones-de-diputados-en-la-chorrera-por-presuntas-actas-alteradas/ |access-date=2024-05-25 |website=La Prensa |language=es |archive-date=25 May 2024 |archive-url=https://web.archive.org/web/20240525231003/https://www.prensa.com/politica/impugnan-elecciones-de-diputados-en-la-chorrera-por-presuntas-actas-alteradas/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/impugnan-elecciones-de-diputados-en-la-chorrera-por-presuntas-actas-alteradas/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1577,7 +1577,7 @@
                           "text": "<ref>{{Cite web |date=8 May 2024 |title=Election 2024, Mayor, Total Results, Province: Panama > District: Panama |url=https://resultados.te.gob.pa/resultados/100/alcalde/3/provincia/8/distrito/7 |access-date=8 May 2024 |website=Electoral Tribunal}}</ref>",
                           "url": "https://resultados.te.gob.pa/resultados/100/alcalde/3/provincia/8/distrito/7",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Cannot connect to host resultados.te.gob.pa:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'resultados.te.gob.pa'. (_ssl.c:1010)\")]",
                           "type": "web"
                         }
                       ]
@@ -1589,21 +1589,21 @@
                         {
                           "text": "<ref>{{Cite web |date=6 May 2024 |title=Mayer Mizrachi desplaza a Fábrega y gana la alcaldía capitalina |url=https://www.ecotvpanama.com/politica/mayer-mizrachi-desplaza-fabrega-y-gana-la-alcaldia-capitalina-n5979103 |access-date=7 May 2024 |website=ECO |language=es-PA |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508002905/https://www.ecotvpanama.com/politica/mayer-mizrachi-desplaza-fabrega-y-gana-la-alcaldia-capitalina-n5979103 |url-status=live }}</ref>",
                           "url": "https://www.ecotvpanama.com/politica/mayer-mizrachi-desplaza-fabrega-y-gana-la-alcaldia-capitalina-n5979103",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=7 May 2024 |title=Mayer Mizrachi, el alcalde electo de la ciudad de Panamá: ¿Quién es y cuáles son sus propuestas? |url=https://www.telemetro.com/politica/mayer-mizrachi-el-alcalde-electo-la-ciudad-panama-quien-es-y-cuales-son-sus-propuestas-n5979251 |access-date=7 May 2024 |website=Telemetro |language=es-PA |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508002909/https://www.telemetro.com/politica/mayer-mizrachi-el-alcalde-electo-la-ciudad-panama-quien-es-y-cuales-son-sus-propuestas-n5979251 |url-status=live }}</ref>",
                           "url": "https://www.telemetro.com/politica/mayer-mizrachi-el-alcalde-electo-la-ciudad-panama-quien-es-y-cuales-son-sus-propuestas-n5979251",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Espinoza |first=Tereza |date=6 May 2024 |title=Elecciones en Panamá: Mayer Mizrachi da la sorpresa y gana la comuna capitalina con el voto popular |url=https://www.tvn-2.com/tu-decision-2024/elecciones-panama-mayer-mizrachi-gana-alcaldia-panama_1_2133466.html |access-date=7 May 2024 |website=Tvn Panamá |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508002905/https://www.tvn-2.com/tu-decision-2024/elecciones-panama-mayer-mizrachi-gana-alcaldia-panama_1_2133466.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/elecciones-panama-mayer-mizrachi-gana-alcaldia-panama_1_2133466.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1616,7 +1616,7 @@
                         {
                           "text": "<ref>{{Cite web |last=Marquínez |first=Arellys |date=10 May 2024 |title=Conoce a los 26 representantes electos del distrito capital ¿Quiénes se reeligieron? |url=https://www.tvn-2.com/tu-decision-2024/representantes-26-electos-distrito-capital_1_2134459.html |access-date=11 May 2024 |website=Tvn Panamá |language=es |archive-date=11 May 2024 |archive-url=https://web.archive.org/web/20240511092239/https://www.tvn-2.com/tu-decision-2024/representantes-26-electos-distrito-capital_1_2134459.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/representantes-26-electos-distrito-capital_1_2134459.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1640,14 +1640,14 @@
                           "text": "<ref>{{Cite web |date=5 May 2024 |title=General Elections 2024, Mayor, Provnice: Panama > District: San Miguelito |url=https://resultados.te.gob.pa/resultados/100/alcalde/3/provincia/8/distrito/9 |access-date=9 May 2024 |website=Electoral Tribunal}}</ref>",
                           "url": "https://resultados.te.gob.pa/resultados/100/alcalde/3/provincia/8/distrito/9",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Cannot connect to host resultados.te.gob.pa:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'resultados.te.gob.pa'. (_ssl.c:1010)\")]",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=6 May 2024 |title=Irma Hernández, de la coalición Vamos, es la nueva Alcaldesa de San Miguelito |url=https://www.ecotvpanama.com/politica/irma-hernandez-la-coalicion-vamos-es-la-nueva-alcaldesa-san-miguelito-n5979080 |access-date=7 May 2024 |website=ECO |language=es-PA |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506184820/https://www.ecotvpanama.com/politica/irma-hernandez-la-coalicion-vamos-es-la-nueva-alcaldesa-san-miguelito-n5979080 |url-status=live }}</ref>",
                           "url": "https://www.ecotvpanama.com/politica/irma-hernandez-la-coalicion-vamos-es-la-nueva-alcaldesa-san-miguelito-n5979080",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         }
                       ]
@@ -1659,7 +1659,7 @@
                         {
                           "text": "<ref>{{Cite web |last=Espinoza |first=Tereza |date=10 May 2024 |title=Representantes electos por la libre postulación en San Miguelito buscan resolver los problemas junto a la comunidad |url=https://www.tvn-2.com/tu-decision-2024/representantes-electos-libre-postulacion-san-miguelito-elecciones-panama_1_2134394.html |access-date=10 May 2024 |website=Tvn Panamá |language=es |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510155903/https://www.tvn-2.com/tu-decision-2024/representantes-electos-libre-postulacion-san-miguelito-elecciones-panama_1_2134394.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/representantes-electos-libre-postulacion-san-miguelito-elecciones-panama_1_2134394.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1683,13 +1683,13 @@
                           "text": "<ref>{{Cite web |date=5 May 2024 |title=General Elections 2024, Mayor, Province: Panama Oeste > District: Arraijan |url=https://resultados.te.gob.pa/resultados/100/alcalde/3/provincia/13/distrito/1 |access-date=9 May 2024 |website=Electoral Tribunal}}</ref>",
                           "url": "https://resultados.te.gob.pa/resultados/100/alcalde/3/provincia/13/distrito/1",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Cannot connect to host resultados.te.gob.pa:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'resultados.te.gob.pa'. (_ssl.c:1010)\")]",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=6 May 2024 |title=Stefany Dayan Peñalba le arrebata la alcaldía a Rollyns 'Tropa' Rodríguez en Arraiján |url=https://www.midiario.com/nacionales/stefany-dayan-penalba-le-arrebata-la-alcaldia-a-rollyns-tropa-rodriguez-en-arraijan/ |access-date=8 May 2024 |website=Mi Diario |language=es |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506171330/https://www.midiario.com/nacionales/stefany-dayan-penalba-le-arrebata-la-alcaldia-a-rollyns-tropa-rodriguez-en-arraijan/ |url-status=live }}</ref>",
                           "url": "https://www.midiario.com/nacionales/stefany-dayan-penalba-le-arrebata-la-alcaldia-a-rollyns-tropa-rodriguez-en-arraijan/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1712,7 +1712,7 @@
                         {
                           "text": "<ref>{{Cite web |date=7 May 2024 |title=Vídeo: Eloy Chon, alcalde electo de La Chorrera |url=https://www.tvn-2.com/videos/noticias/video-eloy-chon-alcalde-electo-chorrera_8_2133705.html |access-date=9 May 2024 |website=Tvn Panamá |language=es |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509182119/https://www.tvn-2.com/videos/noticias/video-eloy-chon-alcalde-electo-chorrera_8_2133705.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/videos/noticias/video-eloy-chon-alcalde-electo-chorrera_8_2133705.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1735,7 +1735,7 @@
                         {
                           "text": "<ref>{{Cite web |last=Espinoza |first=Tereza |date=6 May 2024 |title=El independiente Díogenes Galván conquista la alcaldía de Colón |url=https://www.tvn-2.com/tu-decision-2024/independiente-diogenes-galvan-conquista-alcaldia-colon-elecciones-panama-resultados_1_2133473.html |access-date=8 May 2024 |website=Tvn Panamá |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508002904/https://www.tvn-2.com/tu-decision-2024/independiente-diogenes-galvan-conquista-alcaldia-colon-elecciones-panama-resultados_1_2133473.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/independiente-diogenes-galvan-conquista-alcaldia-colon-elecciones-panama-resultados_1_2133473.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1758,15 +1758,15 @@
                         {
                           "text": "<ref>{{Cite web |date=2024-05-07 |title=La gran derrota del PRD |url=https://www.prensa.com/politica/la-gran-derrota-del-prd/ |access-date=2024-05-21 |website=La Prensa |language=es |archive-date=21 May 2024 |archive-url=https://web.archive.org/web/20240521131102/https://www.prensa.com/politica/la-gran-derrota-del-prd/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/la-gran-derrota-del-prd/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=7 May 2024 |title=Elecciones en Panamá 2024: Resultados en la Alcaldía de David, provincia de Chiriquí |url=https://www.telemetro.com/nacionales/elecciones-2024-candidatos-la-alcaldia-david-provincia-chiriqui-n5978911 |access-date=8 May 2024 |website=Telemetro |language=es-PA |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506171323/https://www.telemetro.com/nacionales/elecciones-2024-candidatos-la-alcaldia-david-provincia-chiriqui-n5978911 |url-status=live }}</ref>",
                           "url": "https://www.telemetro.com/nacionales/elecciones-2024-candidatos-la-alcaldia-david-provincia-chiriqui-n5978911",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         }
                       ]
@@ -1788,22 +1788,22 @@
                         {
                           "text": "<ref>{{Cite web |date=6 May 2024 |title=Apretada elección por la alcaldía de Santiago genera tensiones |url=https://www.tvn-2.com/tu-decision-2024/juan-diego-vasquez-pide-defender-moca-santiago_1_2133611.html |access-date=8 May 2024 |website=Tvn Panamá |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508202718/https://www.tvn-2.com/tu-decision-2024/juan-diego-vasquez-pide-defender-moca-santiago_1_2133611.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/juan-diego-vasquez-pide-defender-moca-santiago_1_2133611.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Espinoza |first=Tereza |date=7 May 2024 |title=¡Por 2 votos! Eric Jaén, de MOCA, es el nuevo alcalde de Santiago |url=https://www.tvn-2.com/tu-decision-2024/conteos-votos-erick-jaen-nuevo-alcalde-santiago-veraguas-moca-resultados-elecciones-panama_1_2133676.html |access-date=8 May 2024 |website=Tvn Panamá |language=es |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508202706/https://www.tvn-2.com/tu-decision-2024/conteos-votos-erick-jaen-nuevo-alcalde-santiago-veraguas-moca-resultados-elecciones-panama_1_2133676.html |url-status=live }}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/conteos-votos-erick-jaen-nuevo-alcalde-santiago-veraguas-moca-resultados-elecciones-panama_1_2133676.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\":12\" /> which was rejected.<ref>{{Cite web |date=2024-05-30 |title=Juzgado rechaza por inadmisible la demanda de impugnación contra el alcalde electo de Santiago por Moca |url=https://www.prensa.com/politica/juzgado-electoral-rechaza-por-inadmisible-la-demanda-de-impugnacion-contra-el-alcalde-electo-de-santiago/ |access-date=2024-05-30 |website=La Prensa |language=es |archive-date=30 May 2024 |archive-url=https://web.archive.org/web/20240530202501/https://www.prensa.com/politica/juzgado-electoral-rechaza-por-inadmisible-la-demanda-de-impugnacion-contra-el-alcalde-electo-de-santiago/ |url-status=live }}</ref>",
                           "url": "https://www.prensa.com/politica/juzgado-electoral-rechaza-por-inadmisible-la-demanda-de-impugnacion-contra-el-alcalde-electo-de-santiago/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         }
                       ]
@@ -1825,15 +1825,15 @@
                         {
                           "text": "<ref>{{Cite web |last=Bustamante |first=Aminta |date=8 May 2024 |title=Estos son los virtuales alcaldes de los distritos con más peso electoral |url=https://www.tvn-2.com/tu-decision-2024/son-virtuales-alcaldes-distritos-peso-electoral_1_2133439.html |access-date=9 May 2024 |website=Tvn Panamá |language=es}}</ref>",
                           "url": "https://www.tvn-2.com/tu-decision-2024/son-virtuales-alcaldes-distritos-peso-electoral_1_2133439.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Irma Hernández, en San Miguelito; Stefany Dayan Peñalba, en Arraiján, y otras mujeres que ganaron alcaldías en Panamá |url=https://www.ellas.pa/mundo-ellas/irma-hernandez-en-san-miguelito-stefany-dayan-penalba-en-arraijan-y-otras-mujeres-que-ganaron-alcaldias-en-panama/ |access-date=2024-05-12 |website=Ellas |language=es |archive-date=12 May 2024 |archive-url=https://web.archive.org/web/20240512120301/https://www.ellas.pa/mundo-ellas/irma-hernandez-en-san-miguelito-stefany-dayan-penalba-en-arraijan-y-otras-mujeres-que-ganaron-alcaldias-en-panama/ |url-status=live }}</ref>",
                           "url": "https://www.ellas.pa/mundo-ellas/irma-hernandez-en-san-miguelito-stefany-dayan-penalba-en-arraijan-y-otras-mujeres-que-ganaron-alcaldias-en-panama/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "web"
                         }
                       ]
@@ -1863,14 +1863,14 @@
                     {
                       "text": "<ref>{{cite web |last1=Hilaire |first1=Valentine |last2=Moreno |first2=Elida |title=Mulino wins Panama presidency with support from convicted former leader |url=https://www.reuters.com/world/americas/panamanians-vote-crowded-field-presidential-contenders-2024-05-05/ |work=Reuters |access-date=6 May 2024 |date=5 May 2024 |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506023850/https://www.reuters.com/world/americas/panamanians-vote-crowded-field-presidential-contenders-2024-05-05/ |url-status=live }}</ref>",
                       "url": "https://www.reuters.com/world/americas/panamanians-vote-crowded-field-presidential-contenders-2024-05-05/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Stand-in Jose Raul Mulino wins Panama presidential race |url=https://www.aljazeera.com/news/2024/5/6/mulino-wins-panama-presidential-race |work=Al Jazeera |access-date=6 May 2024 |date=6 May 2024 |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506121656/https://www.aljazeera.com/news/2024/5/6/mulino-wins-panama-presidential-race |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/5/6/mulino-wins-panama-presidential-race",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1883,28 +1883,28 @@
                     {
                       "text": "<ref>{{Cite web |last=Almanza |first=Cinthia |date=9 May 2024 |title=Pedro Miguel González sugiere la renuncia de la directiva para ayudar a resurgir un partido que 'está en el piso' |url=https://www.tvn-2.com/tu-decision-2024/pedro-miguel-gonzalez-sugiere-renuncia_1_2134179.html |access-date=10 May 2024 |work=TVN Panama |language=es |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510025149/https://www.tvn-2.com/tu-decision-2024/pedro-miguel-gonzalez-sugiere-renuncia_1_2134179.html |url-status=live }}</ref>",
                       "url": "https://www.tvn-2.com/tu-decision-2024/pedro-miguel-gonzalez-sugiere-renuncia_1_2134179.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=González |first=Saydie M. |date=8 May 2024 |title=Crispiano Adames sobre el PRD: 'Hay una situación interna bastante deteriorada' |url=https://www.tvn-2.com/tu-decision-2024/crispiano-adames-prd-hay-situacion-elecciones-tu-decision-voto-electores_1_2134149.html |access-date=10 May 2024 |work=TVN Panama |language=es |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510024701/https://www.tvn-2.com/tu-decision-2024/crispiano-adames-prd-hay-situacion-elecciones-tu-decision-voto-electores_1_2134149.html |url-status=live }}</ref>",
                       "url": "https://www.tvn-2.com/tu-decision-2024/crispiano-adames-prd-hay-situacion-elecciones-tu-decision-voto-electores_1_2134149.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-05-14 |title=Crispiano Adames renuncia como primer vicepresidente del CEN del PRD |url=https://www.prensa.com/politica/crispiano-adames-renuncia-como-primer-vicepresidente-del-cen-del-prd/ |access-date=2024-05-14 |website=La Prensa |language=es |archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514191346/https://www.prensa.com/politica/crispiano-adames-renuncia-como-primer-vicepresidente-del-cen-del-prd/ |url-status=live }}</ref>",
                       "url": "https://www.prensa.com/politica/crispiano-adames-renuncia-como-primer-vicepresidente-del-cen-del-prd/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Bustamante |first=Aminta |date=2024-05-14 |title=Benicio Robinson habla sobre reestructuración del PRD y niega reuniones con bancada de Realizando Metas |url=https://www.tvn-2.com/tu-decision-2024/benicio-robinson-habla-restructuracion-prd-realizando-metas_1_2135174.html |access-date=2024-05-15 |website=Tvn Panamá |language=es |archive-date=15 May 2024 |archive-url=https://web.archive.org/web/20240515040132/https://www.tvn-2.com/tu-decision-2024/benicio-robinson-habla-restructuracion-prd-realizando-metas_1_2135174.html |url-status=live }}</ref>",
                       "url": "https://www.tvn-2.com/tu-decision-2024/benicio-robinson-habla-restructuracion-prd-realizando-metas_1_2135174.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1917,35 +1917,35 @@
                     {
                       "text": "<ref>{{Cite web |last=Bustamante |first=Aminta |date=9 May 2024 |title=Cambio Democrático activa proceso de renovación de su junta directiva, tras perder elecciones |url=https://www.tvn-2.com/tu-decision-2024/cambio-democratico-activa-proceso-renovacion-junta-directiva-derrota-elecciones-en-panama_1_2134381.html |access-date=10 May 2024 |work=TVN Panama |language=es |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510155904/https://www.tvn-2.com/tu-decision-2024/cambio-democratico-activa-proceso-renovacion-junta-directiva-derrota-elecciones-en-panama_1_2134381.html |url-status=live }}</ref>",
                       "url": "https://www.tvn-2.com/tu-decision-2024/cambio-democratico-activa-proceso-renovacion-junta-directiva-derrota-elecciones-en-panama_1_2134381.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=10 May 2024 |title=Tras las elecciones, Cambio Democrático iniciará proceso de renovación de su junta directiva |url=https://www.prensa.com/politica/tras-las-elecciones-cambio-democratico-iniciara-proceso-de-renovacion-de-su-junta-directiva/ |access-date=10 May 2024 |work=La Prensa (Panama City)|La Prensa |language=es |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510155903/https://www.prensa.com/politica/tras-las-elecciones-cambio-democratico-iniciara-proceso-de-renovacion-de-su-junta-directiva/ |url-status=live }}</ref>",
                       "url": "https://www.prensa.com/politica/tras-las-elecciones-cambio-democratico-iniciara-proceso-de-renovacion-de-su-junta-directiva/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Espinoza |first=Tereza |date=2024-05-13 |title=Miembros de Cambio Democrático piden la renuncia de Rómulo Roux tras la derrota del 5 de mayo |url=https://www.tvn-2.com/nacionales/miembros-cambio-democratico-piden-renuncia-romulo-roux-elecciones-panama_1_2134923.html |access-date=2024-05-13 |work=TVN Panama |language=es |archive-date=13 May 2024 |archive-url=https://web.archive.org/web/20240513183429/https://www.tvn-2.com/nacionales/miembros-cambio-democratico-piden-renuncia-romulo-roux-elecciones-panama_1_2134923.html |url-status=live }}</ref>",
                       "url": "https://www.tvn-2.com/nacionales/miembros-cambio-democratico-piden-renuncia-romulo-roux-elecciones-panama_1_2134923.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":10\">{{Cite web |date=2024-05-14 |title=Grupo Vanguardia Democrática pide a Roux que renuncie a la presidencia de CD; propone una alianza con RM, el 'partido hermano' |url=https://www.prensa.com/politica/grupo-vanguardia-democratica-pide-a-roux-que-renuncie-a-la-presidencia-de-cd-propone-una-alianza-con-rm-el-partido-hermano/ |access-date=2024-05-15 |website=La Prensa |language=es |archive-date=15 May 2024 |archive-url=https://web.archive.org/web/20240515040135/https://www.prensa.com/politica/grupo-vanguardia-democratica-pide-a-roux-que-renuncie-a-la-presidencia-de-cd-propone-una-alianza-con-rm-el-partido-hermano/ |url-status=live }}</ref>",
                       "url": "https://www.prensa.com/politica/grupo-vanguardia-democratica-pide-a-roux-que-renuncie-a-la-presidencia-de-cd-propone-una-alianza-con-rm-el-partido-hermano/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":10\" /> Yanibel Ábrego ultimately won the party's presidency in its internal 2024 elections.<ref>{{Cite web |last=Paz |first=Francisco |date=2024-10-27 |title=Yanibel Ábrego gana la presidencia de CD |url=https://www.panamaamerica.com.pa/politica/yanibel-abrego-gana-la-presidencia-de-cd-1242348 |access-date=2024-12-11 |website=Panamá América |language=es}}</ref>",
                       "url": "https://www.panamaamerica.com.pa/politica/yanibel-abrego-gana-la-presidencia-de-cd-1242348",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1958,28 +1958,28 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-05-14 |title='Hay un intento de tomarse el partido por parte del gobierno' entrante: José Blandón |url=https://www.prensa.com/politica/hay-un-intento-de-tomarse-el-partido-por-parte-del-gobierno-entrante-jose-blandon/ |access-date=2024-05-15 |website=La Prensa |language=es |archive-date=15 May 2024 |archive-url=https://web.archive.org/web/20240515040132/https://www.prensa.com/politica/hay-un-intento-de-tomarse-el-partido-por-parte-del-gobierno-entrante-jose-blandon/ |url-status=live }}</ref>",
                       "url": "https://www.prensa.com/politica/hay-un-intento-de-tomarse-el-partido-por-parte-del-gobierno-entrante-jose-blandon/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-05-14 |title=Mireya Moscoso se refirió al resultado de las elecciones, pide renuncia de directivos panameñistas |url=https://www.tvn-2.com/tu-decision-2024/mireya-moscoso-refirio-resultados-elecciones_1_2135240.html |access-date=2024-05-15 |website=Tvn Panamá |language=es |archive-date=15 May 2024 |archive-url=https://web.archive.org/web/20240515040133/https://www.tvn-2.com/tu-decision-2024/mireya-moscoso-refirio-resultados-elecciones_1_2135240.html |url-status=live }}</ref>",
                       "url": "https://www.tvn-2.com/tu-decision-2024/mireya-moscoso-refirio-resultados-elecciones_1_2135240.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Piden que Blandón dé un paso al costado para permitir nuevo liderazgo en el panameñismo |url=https://www.laestrella.com.pa/panama/nacional/piden-que-blandon-de-un-paso-al-costado-para-permitir-nuevo-liderazgo-en-el-panamenismo-IY7313930 |access-date=2024-05-15 |website=La Estrella|language=es-PA |archive-date=15 May 2024 |archive-url=https://web.archive.org/web/20240515040136/https://www.laestrella.com.pa/panama/nacional/piden-que-blandon-de-un-paso-al-costado-para-permitir-nuevo-liderazgo-en-el-panamenismo-IY7313930 |url-status=live }}</ref>",
                       "url": "https://www.laestrella.com.pa/panama/nacional/piden-que-blandon-de-un-paso-al-costado-para-permitir-nuevo-liderazgo-en-el-panamenismo-IY7313930",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-05-15 |title=El directorio nacional del Partido Panameñista 'tiene que renunciar ya': Mireya Moscoso |url=https://www.prensa.com/politica/el-directorio-nacional-del-partido-panamenista-tiene-que-renunciar-ya-mireya-moscoso/ |access-date=2024-05-15 |website=La Prensa |language=es |archive-date=15 May 2024 |archive-url=https://web.archive.org/web/20240515040132/https://www.prensa.com/politica/el-directorio-nacional-del-partido-panamenista-tiene-que-renunciar-ya-mireya-moscoso/ |url-status=live }}</ref>",
                       "url": "https://www.prensa.com/politica/el-directorio-nacional-del-partido-panamenista-tiene-que-renunciar-ya-mireya-moscoso/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -2002,21 +2002,21 @@
                     {
                       "text": "<ref>{{Cite web |date=6 May 2024 |title=Nayib Bukele, el \"primer\" mandatario en llamar a Mulino para felicitarlo |url=https://www.ecotvpanama.com/internacionales/nayib-bukele-el-primer-mandatario-llamar-mulino-felicitarlo-n5979107 |access-date=8 May 2024 |website=ECO|language=es-PA |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508002903/https://www.ecotvpanama.com/internacionales/nayib-bukele-el-primer-mandatario-llamar-mulino-felicitarlo-n5979107 |url-status=live }}</ref>",
                       "url": "https://www.ecotvpanama.com/internacionales/nayib-bukele-el-primer-mandatario-llamar-mulino-felicitarlo-n5979107",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Congratulations to Panama's President-Elect Mulino |url=https://www.state.gov/congratulations-to-panamas-president-elect-mulino/ |website=U.S. Department of State |access-date=6 May 2024 |date=6 May 2024 |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506163252/https://www.state.gov/congratulations-to-panamas-president-elect-mulino/ |url-status=live }}</ref>",
                       "url": "https://www.state.gov/congratulations-to-panamas-president-elect-mulino/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://www.eeas.europa.eu/eeas/panama-statement-spokesperson-presidential-elections_en|title=Panama: Statement by the Spokesperson on the presidential elections|date=7 May 2024|access-date=9 May 2024|website=European External Action Service}}</ref>",
                       "url": "https://www.eeas.europa.eu/eeas/panama-statement-spokesperson-presidential-elections_en",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }

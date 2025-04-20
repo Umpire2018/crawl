@@ -1,0 +1,213 @@
+{
+  "title": "2023_Brovary_helicopter_crash",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "On 18 January 2023, a Ukraine|Ukrainian Eurocopter EC225 Super Puma carrying ten people, including Ministry of Internal Affairs (Ukraine)#Ministers of Internal Affairs|Ukrainian Minister of Internal Affairs Denys Monastyrsky, his deputy Yevhen Yenin, and State Secretary Yurii Lubkovych, crashed into a kindergarten in Brovary, a suburb of Kyiv, Ukraine. The crash killed fourteen people, including Monastyrsky, Yenin, and Lubkovych. Four of the victims were killed on the ground, including one child. Twenty-five other people were injured on the ground, including eleven children.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |url=https://www.aljazeera.com/news/2023/1/18/ukraine-helicopter-crash-what-we-know-so-far |title=Ukraine helicopter crash: What we know so far |work=Al Jazeera |date=18 January 2023 |access-date=18 January 2023 |archive-date=19 January 2023 |archive-url=https://web.archive.org/web/20230119072543/https://www.aljazeera.com/news/2023/1/18/ukraine-helicopter-crash-what-we-know-so-far |url-status=live }}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/1/18/ukraine-helicopter-crash-what-we-know-so-far",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"2023-01-18 BBC\" /><ref>{{Cite news |last=Ogirenko |first=Valentyn |date=18 January 2023 |title=Ukraine's interior minister among 18 dead in helicopter crash |language=en |work=Reuters |url=https://www.reuters.com/world/europe/ukraine-closer-receiving-modern-western-battle-tanks-more-patriots-2023-01-18/ |access-date=18 January 2023 |archive-date=18 January 2023 |archive-url=https://web.archive.org/web/20230118113832/https://www.reuters.com/world/europe/ukraine-closer-receiving-modern-western-battle-tanks-more-patriots-2023-01-18/ |url-status=live}}</ref>",
+                  "url": "https://www.reuters.com/world/europe/ukraine-closer-receiving-modern-western-battle-tanks-more-patriots-2023-01-18/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |last1=Swails |first1=Maria |last2=Kostenko |first2=Sophie |last3=Tanno |first3=Brent |date=18 January 2023 |title=Helicopter crash near Kyiv kills 18, including Ukrainian interior minister |url=https://www.cnn.com/2023/01/18/europe/helicopter-crash-ukraine-intl/index.html |access-date=18 January 2023 |website=CNN |language=en |archive-date=18 January 2023 |archive-url=https://web.archive.org/web/20230118114334/https://www.cnn.com/2023/01/18/europe/helicopter-crash-ukraine-intl/index.html |url-status=live}}</ref>",
+                  "url": "https://edition.cnn.com/2023/01/18/europe/helicopter-crash-ukraine-intl/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|first1=Ian|last1=Lovett|first2=Jared|last2=Malsin|title=Ukraine Helicopter Crash Kills Interior Minister and at Least 13 Others|url=https://www.wsj.com/articles/ukraines-interior-minister-killed-in-kyiv-helicopter-crash-11674033634|date=18 January 2023|access-date=19 January 2023|work=The Wall Street Journal|language=en-US|url-access=subscription|archive-date=19 January 2023|archive-url=https://web.archive.org/web/20230119054149/https://www.wsj.com/articles/ukraines-interior-minister-killed-in-kyiv-helicopter-crash-11674033634|url-status=live}}</ref>",
+                  "url": "https://www.wsj.com/articles/ukraines-interior-minister-killed-in-kyiv-helicopter-crash-11674033634",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Crash",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "According to Kyrylo Tymoshenko, deputy head of the Office of the President of Ukraine, the officials onboard had been traveling to a Russian invasion of Ukraine|combat zone when the helicopter plunged to the ground at 08:20 Eastern European Time|EET. Eyewitnesses described foggy conditions at the time of the crash, and some reported seeing the helicopter on fire, spinning with its pylon and tail rotor missing, and circling before it hit the ground. The helicopter came to rest against a local kindergarten, resulting in a fire that charred the side of the building. Search and rescue efforts ended later that day, after nearly nine hours.",
+              "references": [
+                {
+                  "text": "<ref name=\"auto\">{{Cite news |last1=Kramer |first1=Andrew E. |last2=Specia |first2=Megan |date=19 January 2023 |title=Helicopter Crash Kills Ukrainian Minister in Blow to Wartime Leadership |language=en-US |work=The New York Times |url=https://www.nytimes.com/2023/01/18/world/europe/ukraine-helicopter-crash.html |access-date=19 January 2023 |issn=0362-4331 |archive-date=19 January 2023 |archive-url=https://web.archive.org/web/20230119010724/https://www.nytimes.com/2023/01/18/world/europe/ukraine-helicopter-crash.html |url-status=live }}</ref>",
+                  "url": "https://www.nytimes.com/2023/01/18/world/europe/ukraine-helicopter-crash.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"auto1\">{{Cite news |last1=Hunder |first1=Max |last2=Balmforth |first2=Tom |date=18 January 2023 |title=Ukrainian interior minister killed in helicopter crash, Zelenskiy orders probe |language=en |work=Reuters |url=https://www.reuters.com/world/europe/aircraft-crashes-into-building-outside-ukrainian-capital-kyiv-2023-01-18/ |access-date=19 January 2023 |archive-date=18 January 2023 |archive-url=https://web.archive.org/web/20230118183825/https://www.reuters.com/world/europe/aircraft-crashes-into-building-outside-ukrainian-capital-kyiv-2023-01-18/ |url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/world/europe/aircraft-crashes-into-building-outside-ukrainian-capital-kyiv-2023-01-18/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"NYT\">{{Cite news |last1=Specia |first1=Megan |last2=Kramer |first2=Andrew |date=19 January 2023 |title=Helicopter Crash in Ukraine Kills at Least 14, Including Cabinet Official |language=en |work=The New York Times |url=https://www.nytimes.com/live/2023/01/18/world/russia-ukraine-news |url-access=subscription |access-date=19 January 2023 |archive-date=19 January 2023 |archive-url=https://web.archive.org/web/20230119120303/https://www.nytimes.com/live/2023/01/18/world/russia-ukraine-news |url-status=live }}</ref>",
+                  "url": "https://www.nytimes.com/live/2023/01/18/world/russia-ukraine-news",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "Twenty-five people on the ground were taken to Brovary City Hospital, of whom eight were later transferred to a specialized Burn center|burn unit in Kyiv. Though none were in critical condition, the Ministry of Health (Ukraine)|Ministry of Health later announced that six of the patients would be sent abroad for further treatment.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |date=19 January 2023 |title=Six injured in Brovary helicopter crash to be sent for treatment abroad |language=en-US |work=Yahoo News |url=https://news.yahoo.com/six-injured-brovary-helicopter-crash-135209222.html |access-date=20 January 2023 |archive-date=19 January 2023 |archive-url=https://web.archive.org/web/20230119161739/https://news.yahoo.com/six-injured-brovary-helicopter-crash-135209222.html |url-status=live }}</ref>",
+                  "url": "https://news.yahoo.com/six-injured-brovary-helicopter-crash-135209222.html",
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web|title=Helicopter crash kills senior leaders in Brovary, Ukraine: What we know|url=https://www.usatoday.com/in-depth/graphics/2023/01/19/ukraine-helicopter-crash-what-we-know/11074636002/|access-date=2023-01-23|work=USA Today|first=Karina|last=Zaiets|first2=Janet|last2=Loehrke|first3=Stephen J.|last3=Beard|date=19 January 2023|language=en|archive-date=20 January 2023|archive-url=https://web.archive.org/web/20230120173804/https://www.usatoday.com/in-depth/graphics/2023/01/19/ukraine-helicopter-crash-what-we-know/11074636002/|url-status=live}}</ref>",
+                  "url": "https://www.usatoday.com/in-depth/graphics/2023/01/19/ukraine-helicopter-crash-what-we-know/11074636002/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Aircraft",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The helicopter involved in the crash was a Eurocopter EC225 Super Puma, also known as Airbus H225, with identification number 54. It belonged to the State Emergency Service of Ukraine|Ukrainian State Emergency Service and was one of the 21 model H225 helicopters delivered by France between 2018 and 2021, as part of a program to modernize Ukraine's aging List of military aircraft of the Soviet Union and the CIS|Soviet aircraft fleet. Nearly half of the delivered aircraft were used, with some of the parts having a wear rate of 50%, but they were refurbished before being put into operation.",
+              "references": [
+                {
+                  "text": "<ref name=\"auto2\">{{Cite news |last1=Semenova |first1=Thaisa |last2=Khrebet |first2=Alexander |date=19 January 2023 |title=Explainer: What we know about helicopter crash that killed children, top officials |language=en |work=The Kyiv Post |url=https://kyivindependent.com/national/explainer-what-we-know-about-helicopter-crash-that-killed-children-top-officials}}</ref>",
+                  "url": "https://kyivindependent.com/tag/ukraine/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Passengers and crew",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Investigation",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "There was no indication that the crash was anything other than an accident, although officials gave no immediate account of the cause of the crash. In an address following the incident, President of Ukraine|President Volodymyr Zelenskyy|Zelenskyy said he had asked the Security Service of Ukraine|SBU state security service to launch a criminal probe into the cause.",
+              "references": [
+                {
+                  "text": "<ref name=\"2023-01-18 BBC\">{{cite news |last1=Waterhouse |first1=James |last2=Kirby |first2=Paul |date=2023-01-18 |title=Ukraine's interior ministry leadership killed in helicopter crash |url=https://www.bbc.com/news/world-europe-64315594 |url-status=live |language=en |publisher=BBC News |archive-url=https://web.archive.org/web/20230125020952/https://www.bbc.com/news/world-europe-64315594 |archive-date=2023-01-25 |access-date=2023-01-25}}</ref>",
+                  "url": "https://www.bbc.com/news/world-europe-64315594",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"auto1\"/> Several possible causes are under investigation, including a breach of flight rules, technical malfunction, and intentional destruction or sabotage of the helicopter.<ref>{{cite web|url=https://www.theguardian.com/world/2023/jan/18/ukraine-interior-minister-killed-in-helicopter-crash-brovary-kyiv|title=Ukraine's interior minister killed in helicopter crash|work=The Guardian|first1=Isobel|last1=Koshiv|first2=Peter|last2=Beaumont|date=18 January 2023|access-date=20 January 2023|archive-date=19 January 2023|archive-url=https://web.archive.org/web/20230119145105/https://www.theguardian.com/world/2023/jan/18/ukraine-interior-minister-killed-in-helicopter-crash-brovary-kyiv|url-status=live}}</ref>",
+                  "url": "https://www.theguardian.com/world/2023/jan/18/ukraine-interior-minister-killed-in-helicopter-crash-brovary-kyiv",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s2",
+              "text": "On 3 August, the State Bureau of Investigation (Ukraine)|State Bureau of Investigation of Ukraine announced that five State Emergency Service employees had been charged with safety violations and negligence regarding the crash, namely the head of the service's Department of Aviation and Air Search and Rescue, its acting commander, the commander of the aviation squadron, the deputy commander for flight training, and the head of the flight safety service of the Special aviation unit from Nizhyn, Chernihiv Oblast.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|url=https://kyivindependent.com/state-emergency-workers-charged-over-death-of-interior-minister/ |title=Emergency service employees charged over helicopter crash that killed interior minister |work=The Kyiv Independent |first=Martin |last=Fornusek |date=3 August 2023|access-date=3 August 2023}}</ref>",
+                  "url": "https://kyivindependent.com/state-emergency-workers-charged-over-death-of-interior-minister/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Reactions",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "Many Ukrainian, European, and American officials paid tributes to the victims and expressed condolences, including Ukrainian president Volodymyr Zelenskyy, Ukrainian prime minister Denys Shmyhal, Ukrainian foreign minister Dmytro Kuleba, Ukrainian parliament chairman Ruslan Stefanchuk, European Council President Charles Michel, U.S. President Joe Biden, U.S. ambassador to Ukraine Bridget A. Brink, and UK ambassador to Ukraine Melinda Simmons.",
+              "references": [
+                {
+                  "text": "<ref name=\"auto\"/><ref>{{Cite news |last1=Da Silva |first1=Chantal |author-link=Chantal Da Silva |last2=Smith |first2=Patrick |title=Ukraine's interior minister among 18 killed in helicopter crash outside Kyiv |work=NBC News |url=https://www.nbcnews.com/news/world/helicopter-crash-ukraine-interior-minister-dead-kyiv-kindergarten-rcna66245 |url-status=live |access-date=18 January 2023 |archive-url=https://web.archive.org/web/20230118104252/https://www.nbcnews.com/news/world/helicopter-crash-ukraine-interior-minister-dead-kyiv-kindergarten-rcna66245 |archive-date=18 January 2023}}</ref>",
+                  "url": "https://www.nbcnews.com/news/world/helicopter-crash-ukraine-interior-minister-dead-kyiv-kindergarten-rcna66245",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

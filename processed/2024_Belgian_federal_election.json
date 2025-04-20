@@ -14,14 +14,14 @@
                 {
                   "text": "<ref>{{Cite web |title=Quand auront lieu les prochaines elections |url=https://elections.fgov.be/node/111485 |access-date=7 May 2023 |website=IBZ Elections |archive-date=4 December 2023 |archive-url=https://web.archive.org/web/20231204152427/https://elections.fgov.be/node/111485 |url-status=live }}</ref>",
                   "url": "https://elections.fgov.be/node/111485",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |agency=Belga |author-link=Belga (news agency) |date=17 May 2023 |title=Kogel is door de kerk: op zondag 9 juni 2024 trekken we naar de stembus |url=https://www.vrt.be/vrtnws/nl/2023/05/17/verkiezingsdatum/ |access-date=26 May 2023 |website=VRT |language=nl |archive-date=17 May 2023 |archive-url=https://web.archive.org/web/20230517145557/https://www.vrt.be/vrtnws/nl/2023/05/17/verkiezingsdatum/ |url-status=live }}</ref>",
                   "url": "https://www.vrt.be/vrtnws/nl/2023/05/17/verkiezingsdatum/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -43,8 +43,8 @@
               "references": [
                 {
                   "text": "<ref name=\"psw\">{{cite news |last=Arnoudt |first=Rik |date=16 March 2020 |title=Premier Sophie Wilmès (MR) vraagt morgen het vertrouwen in de Kamer |url=https://vrtnws.be/p.NqGMjWNNk |work=vrtnws.be |language=nl |access-date=14 June 2024 |archive-date=2 November 2020 |archive-url=https://web.archive.org/web/20201102071324/https://www.vrt.be/vrtnws/nl/2020/03/16/premier-sophie-wilmes-mr-vraagt-morgen-het-vertrouwen-in-de-ka/ |url-status=live }}</ref>",
-                  "url": "https://vrtnws.be/p.NqGMjWNNk",
-                  "status_code": null,
+                  "url": "https://www.vrt.be/vrtnws/nl/2020/03/16/premier-sophie-wilmes-mr-vraagt-morgen-het-vertrouwen-in-de-ka/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -67,7 +67,7 @@
                 {
                   "text": "<ref name=odihr4>{{cite report |author=Office for Democratic Institutions and Human Rights |date=23-26 January 2024 |title=Federal Elections, 9 June 2024 |url=https://www.osce.org/files/f/documents/7/1/569376.pdf |page=4 |access-date=11 June 2024 |archive-date=9 June 2024 |archive-url=https://web.archive.org/web/20240609022113/https://www.osce.org/files/f/documents/7/1/569376.pdf |url-status=live }}</ref>",
                   "url": "https://www.osce.org/files/f/documents/7/1/569376.pdf",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "report"
                 }
@@ -80,7 +80,7 @@
                 {
                   "text": "<ref>{{cite news|url=https://www.bruzz.be/politiek/brussel-krijgt-extra-volksvertegenwoordiger-bij-verkiezingen-2024-2022-11-23|title=Brussel krijgt extra volksvertegenwoordiger bij verkiezingen 2024|publisher=BRUZZ|date=23 November 2022|access-date=21 October 2023|archive-date=17 May 2023|archive-url=https://web.archive.org/web/20230517071819/https://www.bruzz.be/politiek/brussel-krijgt-extra-volksvertegenwoordiger-bij-verkiezingen-2024-2022-11-23|url-status=live}}</ref>",
                   "url": "https://www.bruzz.be/politiek/brussel-krijgt-extra-volksvertegenwoordiger-bij-verkiezingen-2024-2022-11-23",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -141,8 +141,8 @@
                         {
                           "text": "<ref name=\"verkiezingen.fgov.be\">{{Cite web |title=Definitieve afsluiting van de kandidatenlijsten |url=https://verkiezingen.fgov.be/kandidaten/definitieve-afsluiting-van-de-kandidatenlijsten |access-date=19 April 2024 |website=Ministry of the Interior |language=nl |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419121630/https://verkiezingen.fgov.be/kandidaten/definitieve-afsluiting-van-de-kandidatenlijsten |url-status=live }}</ref>",
                           "url": "https://verkiezingen.fgov.be/kandidaten/definitieve-afsluiting-van-de-kandidatenlijsten",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         }
                       ]
@@ -154,8 +154,8 @@
                         {
                           "text": "<ref name=\"verkiezingen.fgov.be\"/>\n| Paul Van Tigchelt\n| Alexander De Croo\n| Irina De Knop\n| Steven Coenegrachts\n| Vincent Van Quickenborne\n| Together with Reformist Movement|MR\n|-\n| style=\"background-color: {{party color|Workers' Party (Belgium)}}; width:2px;\" |\n| Workers' Party of Belgium|PVDA<ref name=\"verkiezingen.fgov.be\"/>\n| Peter Mertens\n| Robin Tonniau\n| Kemal Bilmez\n| Kim De Witte\n| Natalie Eggermont\n| Together with Workers' Party of Belgium|PTB\n|-\n| style=\"background-color: {{party color|Flemish Interest}}; width:2px;\" |\n| Vlaams Belang<ref name=\"verkiezingen.fgov.be\"/>\n| Lode Vereeck\n| Barbara Pas\n| Britt Huybrechts\n| Annick Ponthier\n| Wouter Vermeersch\n| Jan Verleysen\n|-\n| style=\"background-color: {{party color|Socialist Party Differently}}; width:2px;\" |\n| Vooruit (political party)|Vooruit<ref name=\"verkiezingen.fgov.be\"/>\n| Jinnih Beels\n| Joris Vandenbroucke\n| Frank Vandenbroucke (politician)|Frank Vandenbroucke\n| Funda Oru\n| Melissa Depraetere\n| Together with Socialist Party (Belgium)|PS\n|-\n| style=\"background-color: {{party color|Volt Belgium}}; width:2px;\" |\n|Volt Belgium|Volt<ref>{{Cite web |title=Candidates 2024 |url=https://voltbelgium.org/people/candidates-2024 |access-date=5 April 2024 |website=Volt België |language=en |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409072152/https://voltbelgium.org/people/candidates-2024 |url-status=live }}</ref>",
                           "url": "https://voltbelgium.org/people/candidates-2024",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 404,
+                          "reason": "Not Found",
                           "type": "web"
                         }
                       ]
@@ -177,21 +177,21 @@
                         {
                           "text": "<ref>{{cite news|url=https://www.lecho.be/dossiers/elections-en-belgique/ces-combats-qui-vont-animer-les-elections-du-9-juin/10518659.html|title=Ces combats qui vont animer les élections du 9 juin|publisher=L'Echo|date=13 January 2024|access-date=28 January 2024|archive-date=28 January 2024|archive-url=https://web.archive.org/web/20240128103630/https://www.lecho.be/dossiers/elections-en-belgique/ces-combats-qui-vont-animer-les-elections-du-9-juin/10518659.html|url-status=live}}</ref>",
                           "url": "https://www.lecho.be/dossiers/elections-en-belgique/ces-combats-qui-vont-animer-les-elections-du-9-juin/10518659.html",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref name=\"q965\">{{cite web | last=Clapson | first=Colin | title=N-VA to stand in Wallonia: \"Belgium is not a democracy\" | website=vrtnws.be | date=4 December 2023 | url=https://www.vrt.be/vrtnws/en/2023/12/04/n-va-to-stand-in-wallonia-belgium-is-not-a-democracy/ | access-date=19 May 2024 | archive-date=10 June 2024 | archive-url=https://web.archive.org/web/20240610174605/https://www.vrt.be/vrtnws/en/2023/12/04/n-va-to-stand-in-wallonia-belgium-is-not-a-democracy/ | url-status=live }}</ref>",
                           "url": "https://www.vrt.be/vrtnws/en/2023/12/04/n-va-to-stand-in-wallonia-belgium-is-not-a-democracy/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"verkiezingen.fgov.be\"/>\n| Mikhaël Jacquemain\n| Freddy Debarsy\n| Didier Serteyn\n| Julien Lemoine\n| Pierre Pinte\n| {{Ill|François De Smet|fr}}\n|-\n| style=\"background-color: {{party color|Ecolo}}; width:2px;\" |\n| Ecolo<ref name=\"verkiezingen.fgov.be\"/>\n| {{Ill|Jean-Marc Nollet|fr}}\n| Sarah Schlitz\n| {{Ill|Olivier Vajda|fr}}\n| Georges Gilkinet\n| {{Ill|Simon Moutquin|fr}}\n| Zakia Khattabi\n|-\n| style=\"background-color: {{party color|Les Engagés (political party)}}; width:2px;\" |\n| Les Engagés<ref name=\"verkiezingen.fgov.be\"/>\n| Jean-Luc Crucke\n| Vanessa Matz\n| Benoît Lutgen\n| Maxime Prévot\n| Yves Coppieters\n| Elisabeth Degryse\n|-\n| style=\"background-color: {{party color|Reformist Movement}}; width:2px;\" |\n| Reformist Movement|MR<ref name=\"verkiezingen.fgov.be\"/>\n| Georges-Louis Bouchez\n| Pierre-Yves Jeholet\n| Benoît Piedboeuf\n| David Clarinval\n| Florence Reuter\n| Sophie Wilmès\n|-\n| style=\"background-color: {{party color|Socialist Party (francophone Belgium)}}; width:2px;\" |\n| Socialist Party (Belgium)|PS<ref name=\"verkiezingen.fgov.be\"/>\n| Paul Magnette\n| Frédéric Daerden\n| Philippe Courard\n| Pierre-Yves Dermagne\n| Dimitri Legasse\n| Caroline Désir\n|-\n| style=\"background-color: {{party color|Workers' Party (Belgium)}}; width:2px;\" |\n| Workers' Party of Belgium|PTB<ref name=\"verkiezingen.fgov.be\"/>\n| Sofie Merckx\n| Raoul Hedebouw\n| \n| Farah Jacquet\n| Amaury Laridon\n| Nabil Boukili\n|-\n| style=\"background-color: {{party color|New Flemish Alliance}}; width:2px;\" |\n|New Flemish Alliance|N-VA<ref>{{Cite web |date=2 December 2023 |title=EXCLUSIEF. N-VA wil in Wallonië opkomen |url=https://www.hln.be/binnenland/exclusief-n-va-wil-in-wallonie-opkomen~ac1b80ef/ |access-date=5 December 2023 |website=Het Laatste Nieuws |archive-date=3 December 2023 |archive-url=https://web.archive.org/web/20231203071903/https://www.hln.be/binnenland/exclusief-n-va-wil-in-wallonie-opkomen~ac1b80ef/ |url-status=live }}</ref>",
                           "url": "https://www.hln.be/binnenland/exclusief-n-va-wil-in-wallonie-opkomen~ac1b80ef/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -217,29 +217,29 @@
               "references": [
                 {
                   "text": "<ref name=\"DS20230421\">{{cite news|url=https://www.standaard.be/cnt/dmf20230421_93534908|title=Deze politici kondigden al aan dat ze niet terugkeren in het Parlement|publisher=De Standaard|date=21 April 2023|access-date=28 January 2024|archive-date=16 May 2023|archive-url=https://web.archive.org/web/20230516103013/https://www.standaard.be/cnt/dmf20230421_93534908|url-status=live}}</ref>",
-                  "url": "https://www.standaard.be/cnt/dmf20230421_93534908",
-                  "status_code": null,
+                  "url": "https://www.standaard.be/politiek/deze-politici-kondigden-al-aan-dat-ze-niet-terugkeren-in-het-parlement/40684511.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"DS20230421\" />\n* Maggie De Block (Open Vld) <ref name=\"DS20230421\" />\n* {{Ill|Barbara Creemers|nl}} (Groen)<ref name=\"Niewsblad20231026\">{{Cite news |title=Kopstuk na kopstuk begeeft zich naar de uitgang: de groene leegloop uit de Kamer |url=https://www.nieuwsblad.be/cnt/dmf20231026_97401280 |last=Heynderickx |first=Hannes |website=Het Nieuwsblad |language=nl |date=25 October 2023 |archive-url=https://archive.today/20231213104432/https://www.nieuwsblad.be/cnt/dmf20231026_97401280 |archive-date=13 December 2023 |access-date=14 June 2024}}</ref>",
                   "url": "https://www.nieuwsblad.be/cnt/dmf20231026_97401280",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"Niewsblad20231026\"/><ref>{{Cite news |url=https://www.vrt.be/vrtnws/nl/2023/10/26/wouter-de-vriendt/ |title=Groen-kopstuk Wouter De Vriendt past voor verkiesbare plaats bij de verkiezingen van juni 2024 |date=26 October 2023 |website=VRT NWS |language=nl |access-date=14 June 2024 |archive-date=26 October 2023 |archive-url=https://web.archive.org/web/20231026200519/https://www.vrt.be/vrtnws/nl/2023/10/26/wouter-de-vriendt/ |url-status=live }}</ref>",
                   "url": "https://www.vrt.be/vrtnws/nl/2023/10/26/wouter-de-vriendt/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"Niewsblad20231026\"/> though he later announced he will support the Ecolo list in Hainaut, without aiming to be elected<ref>{{cite news|url=https://www.vrt.be/vrtnws/nl/2024/01/22/calvo-lijstduwer-henegouwen/|title=Kristof Calvo (Groen) wordt lijstduwer van zusterpartij Ecolo in Henegouwen: \"Ik ambieer geen zetel\"|publisher=VRT NWS|date=22 January 2024|access-date=28 January 2024|archive-date=28 January 2024|archive-url=https://web.archive.org/web/20240128101355/https://www.vrt.be/vrtnws/nl/2024/01/22/calvo-lijstduwer-henegouwen/|url-status=live}}</ref>",
                   "url": "https://www.vrt.be/vrtnws/nl/2024/01/22/calvo-lijstduwer-henegouwen/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
@@ -253,7 +253,7 @@
                 {
                   "text": "<ref>{{cite news|url=https://www.vrt.be/vrtnws/nl/2024/04/19/politiek-afscheid-definitief-meryame-kitir-is-geen-lid-meer-van/|title=Afscheid is nu definitief: Meryame Kitir heeft geen lidkaart meer van Vooruit|last=Sellam|first=Khalid|publisher=VRT NWS|date=19 April 2024|access-date=14 June 2024|archive-date=15 June 2024|archive-url=https://web.archive.org/web/20240615024724/https://www.vrt.be/vrtnws/nl/2024/04/19/politiek-afscheid-definitief-meryame-kitir-is-geen-lid-meer-van/|url-status=live}}</ref>",
                   "url": "https://www.vrt.be/vrtnws/nl/2024/04/19/politiek-afscheid-definitief-meryame-kitir-is-geen-lid-meer-van/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -275,37 +275,37 @@
               "references": [
                 {
                   "text": "<ref>{{cite news |url=https://www.hln.be/nieuws/binnenland/de-grote-peiling-vlaams-belang-wipt-over-n-va-naar-eerste-plaats-dramatische-score-voor-cd-v-en-sp-a~a8e15ff7/ |title=De Grote Peiling. Vlaams Belang wipt over N-VA naar eerste plaats, dramatische score voor cd&v en sp.a |date=13 September 2019 |work=Het Laatste Nieuws (Dutch) |access-date=15 June 2024 |archive-date=20 January 2020 |archive-url=https://web.archive.org/web/20200120121152/https://www.hln.be/nieuws/binnenland/de-grote-peiling-vlaams-belang-wipt-over-n-va-naar-eerste-plaats-dramatische-score-voor-cd-v-en-sp-a~a8e15ff7/ |url-status=live }}</ref>",
-                  "url": "https://www.hln.be/nieuws/binnenland/de-grote-peiling-vlaams-belang-wipt-over-n-va-naar-eerste-plaats-dramatische-score-voor-cd-v-en-sp-a~a8e15ff7/",
-                  "status_code": null,
+                  "url": "https://myprivacy.dpgmedia.be/consent?siteKey=Uqxf9TXhjmaG4pbQ&callbackUrl=https://www.hln.be/privacy-gate/accept-tcf2?redirectUri%3D%252Fnieuws%252Fbinnenland%252Fde-grote-peiling-vlaams-belang-wipt-over-n-va-naar-eerste-plaats-dramatische-score-voor-cd-v-en-sp-a~a8e15ff7%252F",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=6 June 2024 |title=DE LAATSTE PEILING. Vlaams Belang blijft de grootste, voor N-VA en Vooruit |language=nl |url=https://www.hln.be/binnenland/de-laatste-peiling-vlaams-belang-blijft-de-grootste-voor-n-va-en-vooruit~a9e4af51/ |access-date=15 June 2024 |archive-date=6 June 2024 |archive-url=https://web.archive.org/web/20240606231429/https://www.hln.be/binnenland/de-laatste-peiling-vlaams-belang-blijft-de-grootste-voor-n-va-en-vooruit~a9e4af51/ |url-status=live }}</ref>",
                   "url": "https://www.hln.be/binnenland/de-laatste-peiling-vlaams-belang-blijft-de-grootste-voor-n-va-en-vooruit~a9e4af51/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=24 May 2024 |title=DE GROTE PEILING. Vlaams Belang blijft grootste partij van Vlaanderen, Vooruit profiteert van Conner-effect |language=nl |url=https://www.hln.be/binnenland/de-grote-peiling-vlaams-belang-blijft-grootste-partij-van-vlaanderen-vooruit-profiteert-van-conner-effect~a175109d/}}</ref>",
                   "url": "https://www.hln.be/binnenland/de-grote-peiling-vlaams-belang-blijft-grootste-partij-van-vlaanderen-vooruit-profiteert-van-conner-effect~a175109d/}}</ref>",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=25 April 2024 |title=Découvrez les résultats de notre sondage : le Vlaams Belang toujours plus haut, le MR en grande forme à Bruxelles |language=fr |url=https://www.lalibre.be/belgique/elections-belges/elections-federales/2024/04/25/decouvrez-les-resultats-de-notre-sondage-le-vlaams-belang-toujours-plus-haut-le-mr-en-grande-forme-a-bruxelles-Z7ORRB47IZDANMJ3IMAUUPUGD4/ |access-date=15 June 2024 |archive-date=26 May 2024 |archive-url=https://web.archive.org/web/20240526030652/https://www.lalibre.be/belgique/elections-belges/elections-federales/2024/04/25/decouvrez-les-resultats-de-notre-sondage-le-vlaams-belang-toujours-plus-haut-le-mr-en-grande-forme-a-bruxelles-Z7ORRB47IZDANMJ3IMAUUPUGD4/ |url-status=live }}</ref>",
                   "url": "https://www.lalibre.be/belgique/elections-belges/elections-federales/2024/04/25/decouvrez-les-resultats-de-notre-sondage-le-vlaams-belang-toujours-plus-haut-le-mr-en-grande-forme-a-bruxelles-Z7ORRB47IZDANMJ3IMAUUPUGD4/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>[https://www.euronews.com/my-europe/2024/06/09/right-wing-new-flemish-alliance-wins-belgian-election Right-wing New Flemish Alliance wins Belgian 'Super Sunday' elections] {{Webarchive|url=https://web.archive.org/web/20240612213615/https://www.euronews.com/my-europe/2024/06/09/right-wing-new-flemish-alliance-wins-belgian-election |date=12 June 2024 }}, Euronews</ref>",
                   "url": "https://web.archive.org/web/20240612213615/https://www.euronews.com/my-europe/2024/06/09/right-wing-new-flemish-alliance-wins-belgian-election",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
                   "type": null
                 }
               ]
@@ -361,7 +361,7 @@
                     {
                       "text": "<ref name=\"odihr4\"/><ref>{{Cite web |title=Brochure of the Senate |url=https://www.senate.be/virtualtour/halfrond/TheSenate.pdf |access-date=14 June 2024 |archive-date=19 September 2021 |archive-url=https://web.archive.org/web/20210919021759/https://senate.be/virtualtour/halfrond/TheSenate.pdf |url-status=live }}</ref>",
                       "url": "https://www.senate.be/virtualtour/halfrond/TheSenate.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -374,21 +374,21 @@
                     {
                       "text": "<ref>{{cite web |title=Senate seat distribution |url=https://www.senate.be/event/20240422-elections2024/2024-zetelverdeling.pdf |access-date=14 June 2024 |language=nl}}</ref>",
                       "url": "https://www.senate.be/event/20240422-elections2024/2024-zetelverdeling.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Matthijs |first1=Herman |title=De Senaat: wat nu? |url=https://doorbraak.be/de-senaat-wat-nu |access-date=14 June 2024 |work=Doorbraak |date=14 June 2024 |language=nl |archive-date=14 June 2024 |archive-url=https://web.archive.org/web/20240614052034/https://doorbraak.be/de-senaat-wat-nu |url-status=live }}</ref>",
                       "url": "https://doorbraak.be/de-senaat-wat-nu",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Flemish nationalists largest party in Belgian Senate |url=https://www.vrt.be/vrtnws/en/2024/06/12/flemish-nationalists-largest-party-in-belgian-senate/ |access-date=14 June 2024 |date=12 June 2024 |archive-date=15 June 2024 |archive-url=https://web.archive.org/web/20240615020701/https://www.vrt.be/vrtnws/en/2024/06/12/flemish-nationalists-largest-party-in-belgian-senate/ |url-status=live }}</ref>",
                       "url": "https://www.vrt.be/vrtnws/en/2024/06/12/flemish-nationalists-largest-party-in-belgian-senate/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -413,7 +413,7 @@
                 {
                   "text": "<ref name=bt1>{{Cite news |title=Post-Belgian Elections Live: PS leader tries to resign, MR wants to form government soon |url=https://www.brusselstimes.com/belgium/1085836/post-election-live-over-a-million-abstentions-no-flemish-nationalist-majority |date=10 June 2024 |access-date=11 June 2024 |archive-date=12 June 2024 |archive-url=https://web.archive.org/web/20240612024131/https://www.brusselstimes.com/belgium/1085836/post-election-live-over-a-million-abstentions-no-flemish-nationalist-majority |url-status=live }}</ref>",
                   "url": "https://www.brusselstimes.com/belgium/1085836/post-election-live-over-a-million-abstentions-no-flemish-nationalist-majority",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -426,14 +426,14 @@
                 {
                   "text": "<ref name=\"guardian\">{{Cite news |title=Belgium headed for new government as PM set to resign after general election |url=https://www.theguardian.com/world/article/2024/jun/10/belgium-general-election-2024-pm-prime-minister-alexander-de-croo-set-to-resign |access-date=10 June 2024 |website=The Guardian |language=en |last1=O'Carroll |first1=Lisa |archive-date=10 June 2024 |archive-url=https://web.archive.org/web/20240610174551/https://www.theguardian.com/world/article/2024/jun/10/belgium-general-election-2024-pm-prime-minister-alexander-de-croo-set-to-resign |url-status=live }}</ref>",
                   "url": "https://www.theguardian.com/world/article/2024/jun/10/belgium-general-election-2024-pm-prime-minister-alexander-de-croo-set-to-resign",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |title=Belgium drifts to the right — but not far right |last1=Haeck |first1=Pieter |last2=Gijs |first2=Camille |last3=Jack |first3=Victor |url=https://www.politico.eu/article/belgium-far-right-election-extremist-landslide-elections-in-europe-results-2024/ |date=9 June 2024 |access-date=11 June 2024 |archive-date=10 June 2024 |archive-url=https://web.archive.org/web/20240610181057/https://www.politico.eu/article/belgium-far-right-election-extremist-landslide-elections-in-europe-results-2024/ |url-status=live }}</ref>",
                   "url": "https://www.politico.eu/article/belgium-far-right-election-extremist-landslide-elections-in-europe-results-2024/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -446,14 +446,14 @@
                 {
                   "text": "<ref>{{Cite news |title=Long road ahead or quick decisions: What possible coalitions can be formed? |last=Walker |first=Lauren |url=https://www.brusselstimes.com/belgian-elections-2024/1085844/long-road-ahead-for-belgium-what-possible-coalitions-can-be-formed |date=10 June 2024 |access-date=11 June 2024 |archive-date=10 June 2024 |archive-url=https://web.archive.org/web/20240610210027/https://www.brusselstimes.com/belgian-elections-2024/1085844/long-road-ahead-for-belgium-what-possible-coalitions-can-be-formed |url-status=live }}</ref>",
                   "url": "https://www.brusselstimes.com/belgian-elections-2024/1085844/long-road-ahead-for-belgium-what-possible-coalitions-can-be-formed",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |title=\"Federal coalition puzzle can be solved quickly, but N-VA will have to make choices\" |url=https://www.vrt.be/vrtnws/en/2024/06/11/_federal-coalition-puzzle-can-be-solved-quickly-but-n-va-will-h/ |date=11 June 2024 |access-date=11 June 2024 |archive-date=12 June 2024 |archive-url=https://web.archive.org/web/20240612024042/https://www.vrt.be/vrtnws/en/2024/06/11/_federal-coalition-puzzle-can-be-solved-quickly-but-n-va-will-h/ |url-status=live }}</ref>",
                   "url": "https://www.vrt.be/vrtnws/en/2024/06/11/_federal-coalition-puzzle-can-be-solved-quickly-but-n-va-will-h/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -466,14 +466,14 @@
                 {
                   "text": "<ref>{{Cite news |title=Now what? How Belgium's government formation works |last=Chini |first=Maïthé |url=https://www.brusselstimes.com/belgium/1074462/now-what-how-belgiums-government-formation-works |date=9 June 2024 |access-date=11 June 2024 |archive-date=11 June 2024 |archive-url=https://web.archive.org/web/20240611124630/https://www.brusselstimes.com/belgium/1074462/now-what-how-belgiums-government-formation-works |url-status=live }}</ref>",
                   "url": "https://www.brusselstimes.com/belgium/1074462/now-what-how-belgiums-government-formation-works",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |title=Post-Elections Live (day two): Wallonia reaches government agreement |url=https://www.brusselstimes.com/belgian-elections-2024/1087862/elections-aftermath-live-king-receives-more-visits-talks-start-on-flemish-government-tbtb |date=11 June 2024 |access-date=11 June 2024 |archive-date=11 June 2024 |archive-url=https://web.archive.org/web/20240611125359/https://www.brusselstimes.com/belgian-elections-2024/1087862/elections-aftermath-live-king-receives-more-visits-talks-start-on-flemish-government-tbtb |url-status=live }}</ref>",
                   "url": "https://www.brusselstimes.com/belgian-elections-2024/1087862/elections-aftermath-live-king-receives-more-visits-talks-start-on-flemish-government-tbtb",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -486,14 +486,14 @@
                 {
                   "text": "<ref>{{cite web|url=https://www.politico.eu/article/belgium-gets-new-government-with-flemish-separatist-bart-de-wever-as-pm/ |title=Belgium gets new government with Flemish separatist Bart De Wever as PM |publisher=Politico.eu  |date=31 January 2025 |access-date=3 February 2025}}</ref>",
                   "url": "https://www.politico.eu/article/belgium-gets-new-government-with-flemish-separatist-bart-de-wever-as-pm/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web|url=https://apnews.com/article/belgium-government-nationalism-eu-de-wever-56f491df936173918dfe488b461f5b16 |title=Belgium has a new prime minister, one who long tried to gut the nation and seek regional autonomy |publisher=AP News |last=Casert |first=Raf |date=3 February 2025 |access-date=3 February 2025}}</ref>",
                   "url": "https://apnews.com/article/belgium-government-nationalism-eu-de-wever-56f491df936173918dfe488b461f5b16",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

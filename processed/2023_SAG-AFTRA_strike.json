@@ -1,0 +1,1647 @@
+{
+  "title": "2023_SAG-AFTRA_strike",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "From July 14 to November 9, 2023, the American actors' union SAG-AFTRA (Screen Actors Guild – American Federation of Television and Radio Artists) went on strike over a labor dispute with the Alliance of Motion Picture and Television Producers (AMPTP). It was the longest actors' strike against the film and TV studios in Hollywood history. Its duration overlapped significantly with the 2023 Writers Guild of America strike.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Maddaus |first=Gene |date=2023-11-08 |title=SAG-AFTRA Approves Deal to End Historic Strike |url=https://variety.com/2023/biz/news/sag-aftra-tentative-deal-historic-strike-1235771894/ |access-date=2025-04-01 |website=Variety |language=en-US}}</ref>",
+                  "url": "https://variety.com/2023/biz/news/sag-aftra-tentative-deal-historic-strike-1235771894/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "1.s2",
+              "text": "Along with the 2023 Writers Guild of America strike (which ended on September 27, 2023), it was part of a series of 2023 Hollywood labor disputes|broader Hollywood labor disputes. Both the 2023 SAG-AFTRA and WGA strikes contributed to the biggest interruption to the American film and television industry|American film and television industries since Impact of the COVID-19 pandemic on television in the United States|the impact of the COVID-19 pandemic in 2020 just three years prior. In addition to standing in solidarity with the writers, the strike was led by changes in the industry caused by Streaming media|streaming and its effect on Residual (entertainment industry)|residuals, as well as other new technologies like Generative artificial intelligence|AI and Synthetic media|digital recreation. It marked the first time that actors initiated a labor dispute in the U.S. since the 1980 actors strike and the first time that actors and writers have walked out simultaneously since 1960.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |last1=Kilkenny |first1=Katie |title=Writers Guild Strike to End Wednesday: Leadership Votes to Conclude Historic Work Stoppage |url=https://www.hollywoodreporter.com/business/business-news/writers-guild-strike-end-1235600992/ |access-date=September 26, 2023 |work=The Hollywood Reporter |date=September 26, 2023 |archive-date=September 28, 2023 |archive-url=https://web.archive.org/web/20230928000038/https://www.hollywoodreporter.com/business/business-news/writers-guild-strike-end-1235600992/amp/ |url-status=live }}</ref>",
+                  "url": "https://www.hollywoodreporter.com/business/business-news/writers-guild-strike-end-1235600992/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Coyle |first=Jake |date=July 17, 2023 |title=Hollywood plunges into all-out war on the heels of pandemic and a streaming revolution |newspaper=Washington Post |url=https://www.washingtonpost.com/business/2023/07/17/actors-strike-writers-effects-pandemic-streaming/6ef4271c-24b8-11ee-9201-826e5bb78fa1_story.html |access-date=July 17, 2023 |archive-date=July 30, 2023 |archive-url=https://web.archive.org/web/20230730021140/https://www.washingtonpost.com/business/2023/07/17/actors-strike-writers-effects-pandemic-streaming/6ef4271c-24b8-11ee-9201-826e5bb78fa1_story.html |url-status=live }}</ref>",
+                  "url": "https://www.washingtonpost.com/business/2023/07/17/actors-strike-writers-effects-pandemic-streaming/6ef4271c-24b8-11ee-9201-826e5bb78fa1_story.html",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "1.s3",
+              "text": "Negotiations between SAG-AFTRA and the AMPTP took place from October 2 to October 11 and resumed on October 24. On November 8, 2023, a tentative deal between the two sides was reached. Striking ended on November 9 at 12:01&nbsp;a.m. PST. On December 5, the SAG-AFTRA membership officially ratified the contract with over 78% of members voting in favor of it.",
+              "references": [
+                {
+                  "text": "<ref name=\"sag-aftra\"/><ref name=\"theend\"/><ref>{{cite web|url=https://variety.com/2023/biz/news/sag-aftra-tentative-deal-historic-strike-1235771894/|title=SAG-AFTRA Approves Deal to End Historic Strike|first=Gene|last=Maddaus|work=Variety|date=November 8, 2023|accessdate=November 9, 2023|archive-date=November 9, 2023|archive-url=https://web.archive.org/web/20231109010354/https://variety.com/2023/biz/news/sag-aftra-tentative-deal-historic-strike-1235771894/|url-status=live}}</ref>",
+                  "url": "https://variety.com/2023/biz/news/sag-aftra-tentative-deal-historic-strike-1235771894/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://www.hollywoodreporter.com/business/business-news/sag-aftra-deal-reached-studios-union-contract-terms-1235607563/|title=SAG-AFTRA Reaches Tentative Agreement With Studios, Ending Actors Strike|work=The Hollywood Reporter|first=Katie|last=Kilkenny|date=November 8, 2023|accessdate=November 9, 2023|archive-date=November 9, 2023|archive-url=https://web.archive.org/web/20231109004238/https://www.hollywoodreporter.com/business/business-news/sag-aftra-deal-reached-studios-union-contract-terms-1235607563/|url-status=live}}</ref>",
+                  "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-deal-reached-studios-union-contract-terms-1235607563/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://deadline.com/2023/12/actors-strike-deal-approved-ratification-vote-sag-aftra-1235649206/|title=SAG-AFTRA Members Ratify New Three-Year Contract With Studios|access-date=2023-12-06|last1=Campione|first1=Katie|last2=White|first2=Peter|date=2023-12-05|work=Deadline Hollywood|archive-date=May 27, 2024|archive-url=https://web.archive.org/web/20240527184941/https://deadline.com/2023/12/actors-strike-deal-approved-ratification-vote-sag-aftra-1235649206/|url-status=live}}</ref>",
+                  "url": "https://deadline.com/2023/12/actors-strike-deal-approved-ratification-vote-sag-aftra-1235649206/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://www.hollywoodreporter.com/business/business-news/sag-aftra-contract-ending-strike-ratified-1235712566/|title=SAG-AFTRA Members Vote to Ratify Strike-Ending Contract|first=Katie|last=Kilkenny|work=The Hollywood Reporter|date=December 5, 2023|accessdate=December 6, 2023|archive-date=May 27, 2024|archive-url=https://web.archive.org/web/20240527184941/https://www.hollywoodreporter.com/business/business-news/sag-aftra-contract-ending-strike-ratified-1235712566/|url-status=live}}</ref>",
+                  "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-contract-ending-strike-ratified-1235712566/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"variety-ratify\">{{cite web|url=https://variety.com/2023/biz/news/sag-aftra-ratifies-contract-1235822165/|title=SAG-AFTRA Ratifies Contract, Officially Ending Historic Labor Dispute|first=Gene|last=Maddaus|work=Variety|date=December 5, 2023|accessdate=December 6, 2023|archive-date=May 27, 2024|archive-url=https://web.archive.org/web/20240527184941/https://variety.com/2023/biz/news/sag-aftra-ratifies-contract-1235822165/|url-status=live}}</ref>",
+                  "url": "https://variety.com/2023/biz/news/sag-aftra-ratifies-contract-1235822165/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"sagaftraratify\">{{cite news|url=https://www.sagaftra.org/sag-aftra-members-approve-2023-tvtheatrical-contracts-tentative-agreement|title=SAG-AFTRA Members Approve 2023 TV/Theatrical Contracts Tentative Agreement|publisher=SAG-AFTRA|date=December 5, 2023|accessdate=December 6, 2023|archive-date=May 27, 2024|archive-url=https://web.archive.org/web/20240527184942/https://www.sagaftra.org/sag-aftra-members-approve-2023-tvtheatrical-contracts-tentative-agreement|url-status=live}}</ref>",
+                  "url": "https://www.sagaftra.org/sag-aftra-members-approve-2023-tvtheatrical-contracts-tentative-agreement",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "id": "2.1",
+          "title": "Unionization in Hollywood",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.1.s1",
+                  "text": "{{Further|2023 Writers Guild of America strike}}\nThe Screen Actors Guild – American Federation of Television and Radio Artists (SAG-AFTRA) is a labor union that represents approximately 160,000 media professionals and entertainers. The Alliance of Motion Picture and Television Producers (AMPTP) is a trade association that represents film and television studios in collective bargaining negotiations with unions such as SAG-AFTRA, the Directors Guild of America (DGA), and Writers Guild of America, East and Writers Guild of America West, comprising the Writers Guild of America (WGA). SAG-AFTRA was formed by the merger of the Screen Actors Guild (SAG) and the American Federation of Television and Radio Artists (AFTRA) in March 2012, allowing SAG-AFTRA to represent not only actors, but also journalists, talk show hosts, and other broadcast workers. The WGA and the Screen Actors Guild have not simultaneously been on strike since 1960, when actors 1960 Writers Guild of America strike|joined striking writers over residual (entertainment industry)|residual payments from films sold to television networks. The 1980 actors strike involved the combined efforts of SAG and AFTRA. The largest SAG-AFTRA strike since 1980 occurred in 2000, in which commercial actors 2000 commercial actors strike|went on strike to push for a continuation of the residual system against advertiser backlash, amidst the divisions between SAG and AFTRA.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=July 11, 2023 |title=SAG-AFTRA agrees to federal mediation with studios as deadline nears |url=https://www.cbsnews.com/losangeles/news/sag-aftra-studios-agree-to-federal-mediation-as-deadline-nears/ |url-status=live |archive-url=https://web.archive.org/web/20230714073444/https://www.cbsnews.com/losangeles/news/sag-aftra-studios-agree-to-federal-mediation-as-deadline-nears/ |archive-date=July 14, 2023 |access-date=July 13, 2023 |website=CBS News}}</ref>",
+                      "url": "https://www.cbsnews.com/losangeles/news/sag-aftra-studios-agree-to-federal-mediation-as-deadline-nears/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Littleton |first=Cynthia |date=July 11, 2023 |title=If SAG-AFTRA Goes Out, How Fast Will WGA Go Back in to Negotiations With AMPTP? |url=https://variety.com/2023/biz/news/wga-sag-aftra-strike-amptp-negotiations-1235666738/ |url-status=live |archive-url=https://web.archive.org/web/20230715015925/https://variety.com/2023/biz/news/wga-sag-aftra-strike-amptp-negotiations-1235666738/ |archive-date=July 15, 2023 |access-date=July 13, 2023 |website=Variety (magazine)|Variety}}</ref>",
+                      "url": "https://variety.com/2023/biz/news/wga-sag-aftra-strike-amptp-negotiations-1235666738/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Cieply |first=Michael |date=March 30, 2012 |title=Merger of Performers' Unions Approved |url=https://www.nytimes.com/2012/03/31/business/media/merger-of-screen-actors-guild-and-aftra-approved.html |url-status=live |archive-url=https://web.archive.org/web/20230703073056/https://www.nytimes.com/2012/03/31/business/media/merger-of-screen-actors-guild-and-aftra-approved.html |archive-date=July 3, 2023 |access-date=July 13, 2023 |website=The New York Times}}</ref>",
+                      "url": "https://www.nytimes.com/2012/03/31/business/media/merger-of-screen-actors-guild-and-aftra-approved.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Richwine |first=Lisa |date=July 13, 2023 |title=Hollywood actors poised to strike, join writers on picket lines |url=https://www.reuters.com/world/us/hollywood-actors-union-sets-strike-vote-thursday-talks-break-down-2023-07-13/ |url-status=live |archive-url=https://web.archive.org/web/20230713102111/https://www.reuters.com/world/us/hollywood-actors-union-sets-strike-vote-thursday-talks-break-down-2023-07-13/ |archive-date=July 13, 2023 |access-date=July 13, 2023 |website=Reuters}}</ref>",
+                      "url": "https://www.reuters.com/world/us/hollywood-actors-union-sets-strike-vote-thursday-talks-break-down-2023-07-13/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=McNamara |first=Mary |date=June 7, 2023 |title=Ed Asner warned us about Hollywood's summer of labor unrest 40 years ago |url=https://www.latimes.com/entertainment-arts/story/2023-06-07/wga-writers-strike-sag-aftra-actors-strike-ed-asner-column |url-status=live |archive-url=https://web.archive.org/web/20230618231437/https://www.latimes.com/entertainment-arts/story/2023-06-07/wga-writers-strike-sag-aftra-actors-strike-ed-asner-column |archive-date=June 18, 2023 |access-date=July 13, 2023 |website=Los Angeles Times}}</ref>",
+                      "url": "https://www.latimes.com/entertainment-arts/story/2023-06-07/wga-writers-strike-sag-aftra-actors-strike-ed-asner-column",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=McNary |first=Dave |date=October 20, 2020 |title=20 Years Later, Actors Wrestle With Legacy of Divisive Six-Month Commercials Strike |url=https://variety.com/2020/tv/news/sag-aftra-strike-20-years-later-1234792060/ |url-status=live |archive-url=https://web.archive.org/web/20221208063442/https://variety.com/2020/tv/news/sag-aftra-strike-20-years-later-1234792060/ |archive-date=December 8, 2022 |access-date=July 13, 2023 |website=Variety (magazine)|Variety}}</ref>",
+                      "url": "https://variety.com/2020/tv/news/sag-aftra-strike-20-years-later-1234792060/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.1.s2",
+                  "text": "During the last decade and the rise of streaming, writers and actors have been frustrated over studio policy regarding residuals from Streaming media|streaming services; the decline of network television has led to a stronger reliance on other residuals. The 2007–08 WGA strike was motivated in large part by studio executives insisting that writers should receive no residuals from streaming services. The 2007–08 strike cost the city of Los Angeles an estimated {{USD|1.5}} billion, according to NPR. As with striking WGA writers, actors have expressed concerns about the use of artificial intelligence, noting that it could be used to replicate their likeness without compensation.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Wilkinson |first=Alissa |date=April 27, 2017 |title=Why Hollywood's writers are on the verge of a strike — and what it could mean for the industry |url=https://www.vox.com/culture/2017/4/19/15265700/wga-strike-writers-guild-hollywood |url-status=live |archive-url=https://web.archive.org/web/20230628155209/https://www.vox.com/culture/2017/4/19/15265700/wga-strike-writers-guild-hollywood |archive-date=June 28, 2023 |access-date=July 13, 2023 |website=Vox (website)|Vox}}</ref>",
+                      "url": "https://www.vox.com/culture/2017/4/19/15265700/wga-strike-writers-guild-hollywood",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Grisby Bates |first=Karen |date=February 12, 2008 |title=Writers Strike May End Soon, but Trouble Isn't Over |url=https://www.npr.org/2008/02/12/18921318/writers-strike-may-end-soon-but-trouble-isnt-over |url-status=live |archive-url=https://web.archive.org/web/20230714073638/https://www.npr.org/2008/02/12/18921318/writers-strike-may-end-soon-but-trouble-isnt-over |archive-date=July 14, 2023 |access-date=July 13, 2023 |website=All Things Considered |publisher=NPR}}</ref>",
+                      "url": "https://www.npr.org/2008/02/12/18921318/writers-strike-may-end-soon-but-trouble-isnt-over",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Koblin |first1=John |last2=Sperling |first2=Nicole |date=July 13, 2023 |title=The two sides are divided over compensation, artificial intelligence, and more. |url=https://www.nytimes.com/live/2023/07/13/business/actors-strike-sag/the-two-sides-are-divided-over-compensation-artificial-intelligence-and-more |url-status=live |archive-url=https://web.archive.org/web/20230715015951/https://www.nytimes.com/live/2023/07/13/business/actors-strike-sag/the-two-sides-are-divided-over-compensation-artificial-intelligence-and-more |archive-date=July 15, 2023 |access-date=July 13, 2023 |website=The New York Times}}</ref>",
+                      "url": "https://www.nytimes.com/live/2023/07/13/business/actors-strike-sag/the-two-sides-are-divided-over-compensation-artificial-intelligence-and-more",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Wilkinson |first=Alissa |date=May 2, 2023 |title=Hollywood's writers are on strike. Here's why that matters. |url=https://www.vox.com/culture/23696617/writers-strike-wga-2023-explained-residuals-streaming-ai |url-status=live |archive-url=https://web.archive.org/web/20230425105322/https://www.vox.com/culture/23696617/writers-strike-wga-2023-explained-residuals-streaming-ai |archive-date=April 25, 2023 |access-date=July 13, 2023 |website=Vox (website)|Vox}}</ref>",
+                      "url": "https://www.vox.com/culture/23696617/writers-strike-wga-2023-explained-residuals-streaming-ai",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.2",
+          "title": "Pre-strike activity",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.2.s1",
+                  "text": "Weeks after the Writers Guild of America went Strike action|on strike in May 2023, SAG-AFTRA's national board of directors unanimously agreed to pursue a strike authorization vote ahead of a renewed contract; SAG-AFTRA approved a new contract in 2020 that would expire on June 30, 2023. The union stated that it did not intend to strike but that it sought to give its negotiators \"maximum bargaining leverage\" ahead of negotiations on June 7, 2023. SAG-AFTRA cited several issues in negotiations, including \"economic fairness, residuals, regulating the use of artificial intelligence and alleviating the burdens of the industry-wide shift to self-taping\", and told its members that the Alliance of Motion Picture and Television Producers would cut actors' salaries to \"pad corporate profits\". In a video released on May 30, 2023, SAG-AFTRA members Julia Louis-Dreyfus, Jean Smart, and Kumail Nanjiani appealed to members to vote to strike but reserved that a vote for strike authorization was solely a bargaining tool, not a vote to order an immediate strike.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Sakoui |first=Anousha |date=June 11, 2020 |title=SAG-AFTRA reaches deal with studios on a new contract |url=https://www.latimes.com/entertainment-arts/business/story/2020-06-11/sag-aftra-reaches-deal-with-studios-on-a-new-contract |url-status=live |archive-url=https://web.archive.org/web/20230611092342/https://www.latimes.com/entertainment-arts/business/story/2020-06-11/sag-aftra-reaches-deal-with-studios-on-a-new-contract |archive-date=June 11, 2023 |access-date=July 13, 2023 |website=Los Angeles Times}}</ref>",
+                      "url": "https://www.latimes.com/entertainment-arts/business/story/2020-06-11/sag-aftra-reaches-deal-with-studios-on-a-new-contract",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Sakoui |first=Anousha |date=May 17, 2023 |title=SAG-AFTRA seeks strike authorization even before talks with studios begin |url=https://www.latimes.com/entertainment-arts/business/story/2023-05-17/sag-aftra-strike-authorization-vote-writers-strike |url-status=live |archive-url=https://web.archive.org/web/20230622163929/https://www.latimes.com/entertainment-arts/business/story/2023-05-17/sag-aftra-strike-authorization-vote-writers-strike |archive-date=June 22, 2023 |access-date=July 13, 2023 |website=Los Angeles Times}}</ref>",
+                      "url": "https://www.latimes.com/entertainment-arts/business/story/2023-05-17/sag-aftra-strike-authorization-vote-writers-strike",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Robb |first=David |date=May 22, 2023 |title=SAG-AFTRA: Studios Seek To \"Pad Corporate Profits & Fund Lavish Executive Compensation\" As Threatened Actors Strike Looms |url=https://deadline.com/2023/05/sag-aftra-actors-strike-threat-hollywood-studios-1235376214/ |url-status=live |archive-url=https://web.archive.org/web/20230529224353/https://deadline.com/2023/05/sag-aftra-actors-strike-threat-hollywood-studios-1235376214/ |archive-date=May 29, 2023 |access-date=July 13, 2023 |website=Deadline Hollywood}}</ref>",
+                      "url": "https://deadline.com/2023/05/sag-aftra-actors-strike-threat-hollywood-studios-1235376214/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Frank |first=Jason |date=May 31, 2023 |title=SAG-AFTRA Prepares Its Troops for the Fight |url=https://www.vulture.com/2023/05/sag-strike-2023-celebrities-support.html |url-status=live |archive-url=https://web.archive.org/web/20230629111716/https://www.vulture.com/2023/05/sag-strike-2023-celebrities-support.html |archive-date=June 29, 2023 |access-date=July 13, 2023 |website=Vulture (website)|Vulture}}</ref>",
+                      "url": "https://www.vulture.com/2023/05/sag-strike-2023-celebrities-support.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.2.s2",
+                  "text": "On June 5, 2023, SAG-AFTRA approved the strike authorization by a 98% margin, according to the union. High-profile members—including Quinta Brunson, Jennifer Lawrence, and Rami Malek—signaled their willingness to strike ahead of the deadline to achieve a \"transformative deal\", despite \"extremely productive\" negotiations. SAG-AFTRA agreed to extend negotiations to midnight on July 13, 2023, in an attempt to avoid a strike, but negotiations broke down in July 2023. SAG-AFTRA surveyed members on a strike on July 5, 2023, and began preparing Picketing|picket signs two days later.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Sakoui |first=Anousha |date=June 5, 2023 |title=SAG-AFTRA members approve strike authorization by overwhelming margin |url=https://www.latimes.com/entertainment-arts/business/story/2023-06-05/sag-aftra-strike-hollywood-labor-amptp-strike-authorization |url-status=live |archive-url=https://web.archive.org/web/20230705030759/https://www.latimes.com/entertainment-arts/business/story/2023-06-05/sag-aftra-strike-hollywood-labor-amptp-strike-authorization |archive-date=July 5, 2023 |access-date=July 13, 2023 |website=Los Angeles Times}}</ref>",
+                      "url": "https://www.latimes.com/entertainment-arts/business/story/2023-06-05/sag-aftra-strike-hollywood-labor-amptp-strike-authorization",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Pulliam-Moore |first=Charles |date=June 28, 2023 |title=Hundreds of actors are ready to strike if SAG-AFTRA doesn't secure a truly transformative deal' |url=https://www.theverge.com/2023/6/28/23776829/sag-aftra-strike-letter |url-status=live |archive-url=https://web.archive.org/web/20230711011743/https://www.theverge.com/2023/6/28/23776829/sag-aftra-strike-letter |archive-date=July 11, 2023 |access-date=July 13, 2023 |website=The Verge}}</ref>",
+                      "url": "https://www.theverge.com/2023/6/28/23776829/sag-aftra-strike-letter",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Kilkenny |first=Katie |date=June 27, 2023 |title=Meryl Streep, Jennifer Lawrence, Julia Louis-Dreyfus, Other Top Actors Sign Letter to SAG-AFTRA: We're 'Prepared to Strike' |url=https://www.hollywoodreporter.com/business/business-news/meryl-street-top-actors-sag-aftra-prepared-to-strike-1235524973/ |url-status=live |archive-url=https://web.archive.org/web/20230705204909/https://www.hollywoodreporter.com/business/business-news/meryl-street-top-actors-sag-aftra-prepared-to-strike-1235524973/ |archive-date=July 5, 2023 |access-date=July 13, 2023 |website=The Hollywood Reporter}}</ref>",
+                      "url": "https://www.hollywoodreporter.com/business/business-news/meryl-street-top-actors-sag-aftra-prepared-to-strike-1235524973/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Kilkenny |first=Katie |date=June 24, 2023 |title=SAG-AFTRA Leaders Tell Members Negotiations Have Been 'Extremely Productive' as Expiration Date Looms |url=https://www.hollywoodreporter.com/business/business-news/sag-aftra-negotiations-update-talks-extremely-productive-1235523287/ |url-status=live |archive-url=https://web.archive.org/web/20230705222717/https://www.hollywoodreporter.com/business/business-news/sag-aftra-negotiations-update-talks-extremely-productive-1235523287/ |archive-date=July 5, 2023 |access-date=July 13, 2023 |website=The Hollywood Reporter}}</ref>",
+                      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-negotiations-update-talks-extremely-productive-1235523287/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Sakoui |first=Anousha |date=June 30, 2023 |title=SAG-AFTRA agrees to extend negotiations with studios, averting a strike for now |url=https://www.latimes.com/entertainment-arts/business/story/2023-06-30/sag-aftra-strike-contract-extension-studios-actors-writers-strike-drescher |url-status=live |archive-url=https://web.archive.org/web/20230711011156/https://www.latimes.com/entertainment-arts/business/story/2023-06-30/sag-aftra-strike-contract-extension-studios-actors-writers-strike-drescher |archive-date=July 11, 2023 |access-date=July 13, 2023 |website=Los Angeles Times}}</ref>",
+                      "url": "https://www.latimes.com/entertainment-arts/business/story/2023-06-30/sag-aftra-strike-contract-extension-studios-actors-writers-strike-drescher",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Robb |first=David |date=July 5, 2023 |title=Preparing For Possible Strike, SAG-AFTRA Surveys Members About How They Can Help Out |url=https://deadline.com/2023/07/preparing-for-possible-strike-sag-aftra-surveys-members-about-help-out-1235430725/ |url-status=live |archive-url=https://web.archive.org/web/20230707175944/https://deadline.com/2023/07/preparing-for-possible-strike-sag-aftra-surveys-members-about-help-out-1235430725/ |archive-date=July 7, 2023 |access-date=July 13, 2023 |website=Deadline Hollywood}}</ref>",
+                      "url": "https://deadline.com/2023/07/preparing-for-possible-strike-sag-aftra-surveys-members-about-help-out-1235430725/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Robb |first=David |date=July 7, 2023 |title=SAG-AFTRA Preparing Picket Signs As Possible Strike Looms |url=https://deadline.com/2023/07/actors-strike-sag-aftra-picket-signs-1235432253/ |url-status=live |archive-url=https://web.archive.org/web/20230708220319/https://deadline.com/2023/07/actors-strike-sag-aftra-picket-signs-1235432253/ |archive-date=July 8, 2023 |access-date=July 13, 2023 |website=Deadline Hollywood}}</ref>",
+                      "url": "https://deadline.com/2023/07/actors-strike-sag-aftra-picket-signs-1235432253/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.2.s3",
+                  "text": "The AMPTP agreed to a \"last-minute request\" for mediation from the Federal Mediation and Conciliation Service (United States)|Federal Mediation and Conciliation Service on July 11, 2023; congressional and public affairs director Greg Raelson stated that a federal mediator would be present the following day. In turn, SAG-AFTRA accused the AMPTP of attempting to extend negotiations beyond the deadline and reiterated that it would not continue negotiating after July 12, 2023. A number of high-profile actors, including Lawrence and Malek, then affirmed their support again by signing a letter urging the union to take aggressive measures and stating their willingness to strike. It was later reported by ''Variety (magazine)|Variety'' that mediation collapsed after AMPTP President Carol Lombardini insulted negotiators by telling them to \"be civilized\" and avert a strike, which prompted a walkout by union negotiators. In response to Lombardini's comment, SAG-AFTRA president Fran Drescher reportedly said to AMPTP negotiators \"Now you've got two unions on strike\" as they left.<ref name=\"Lombardini insult\" />",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Sakoui |first=Anousha |date=July 11, 2023 |title=SAG-AFTRA and studios turn to federal mediator as strike threat looms |url=https://www.latimes.com/entertainment-arts/business/story/2023-07-11/sag-aftra-amptp-federal-mediator-contract |url-status=live |archive-url=https://web.archive.org/web/20230712180649/https://www.latimes.com/entertainment-arts/business/story/2023-07-11/sag-aftra-amptp-federal-mediator-contract |archive-date=July 12, 2023 |access-date=July 13, 2023 |website=Los Angeles Times}}</ref>",
+                      "url": "https://www.latimes.com/entertainment-arts/business/story/2023-07-11/sag-aftra-amptp-federal-mediator-contract",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Isidore |first=Chris |date=July 12, 2023 |title=Actors are poised to go on strike against studios and streaming services |url=https://www.cnn.com/2023/07/12/business/sag-aftra-actors-strike-deadline/index.html |url-status=live |archive-url=https://web.archive.org/web/20230712174304/https://www.cnn.com/2023/07/12/business/sag-aftra-actors-strike-deadline/index.html |archive-date=July 12, 2023 |access-date=July 13, 2023 |website=CNN}}</ref>",
+                      "url": "https://edition.cnn.com/2023/07/12/business/sag-aftra-actors-strike-deadline/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"Lombardini insult\">{{Cite web |last=Littleton |first=Cynthia |date=July 21, 2023 |title=How SAG-AFTRA and AMPTP Talks Broke Down After Calls to CEOs, a Strike Delay Demand and Rebuffed Offers |url=https://variety.com/2023/biz/news/sag-actors-strike-amptp-fran-drescher-1235675852/ |url-status=live |archive-url=https://web.archive.org/web/20230724125448/https://variety.com/2023/biz/news/sag-actors-strike-amptp-fran-drescher-1235675852/ |archive-date=July 24, 2023 |access-date=July 25, 2023 |website=Variety (magazine)|Variety}}</ref>",
+                      "url": "https://variety.com/2023/biz/news/sag-actors-strike-amptp-fran-drescher-1235675852/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.2.s4",
+                  "text": "On July 12, a statement was made announcing the construction of a ''Fast & Furious''-themed roller coaster; the date of the announcement coincided with the deadline SAG-AFTRA gave before ending negotiations with the AMPTP, and construction began by the strike's start. This added to the construction that began on May 8, shortly after the WGA began protesting on-site, obstructing Lankershim Boulevard along the west end of the park's campus and parking lot and further restricting sidewalk access. The sidewalks in front of Gates 1, 2, 4, and 5 would be scaffolded-off and demolished in this construction.<ref name=\"TheLawyersAreDenying\" /><ref name=\"WGAWestPetition\" /> Despite prior advice from the Los Angeles Police Department's Labor Relations Unit to place K-rails from River Road to Universal Hollywood Drive for the safety of protesters and other pedestrians since WGA protests as early as June 6, none were placed by July 18, by which time reports of two protesters being struck by vehicles had been made.<ref name=\"TheLawyersAreDenying\" /><ref name=\"WGAWestPetition\" />",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=July 12, 2023 |title=Universal Studios Hollywood to begin construction on \"Fast & Furious\" themed rollercoaster |url=https://www.cbsnews.com/losangeles/news/universal-studios-hollywood-to-begin-construction-on-fast-furious-themed-rollercoaster/ |url-status=live |archive-url=https://web.archive.org/web/20230727095717/https://www.cbsnews.com/losangeles/news/universal-studios-hollywood-to-begin-construction-on-fast-furious-themed-rollercoaster/ |archive-date=July 27, 2023 |access-date=July 27, 2023 |website=CBS News |language=en-US}}</ref>",
+                      "url": "https://www.cbsnews.com/losangeles/news/universal-studios-hollywood-to-begin-construction-on-fast-furious-themed-rollercoaster/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"WGAWestPetition\">{{Cite web |last=Writers Guild of America West |date=July 18, 2023 |title=WGA NBCU Construction Petition |url=https://docs.google.com/forms/d/e/1FAIpQLSdJbtnZjJYw9sX8ZWI7tOOECpKmDqKMrEAkD8qOy3g6E74WhQ/viewform |url-status=live |archive-url=https://web.archive.org/web/20230723214314/https://docs.google.com/forms/d/e/1FAIpQLSdJbtnZjJYw9sX8ZWI7tOOECpKmDqKMrEAkD8qOy3g6E74WhQ/viewform |archive-date=July 23, 2023 |access-date=July 23, 2023 |website=Google Forms}}</ref>",
+                      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdJbtnZjJYw9sX8ZWI7tOOECpKmDqKMrEAkD8qOy3g6E74WhQ/viewform",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.2.s5",
+                  "text": "On July 13, with no agreement between SAG-AFTRA and the Alliance of Motion Picture and Television Producers (AMPTP), the SAG-AFTRA negotiating committee voted unanimously to recommend a strike to the union's national board. The national board held a vote officially approving the strike. SAG-AFTRA president Fran Drescher announced the strike would begin at midnight on July 14; the cast of ''Oppenheimer (film)|Oppenheimer'' left the film's London premiere ahead of the announcement to walk out. Joined by chief negotiator Duncan Crabtree-Ireland, Drescher asserted that the strike was a reluctant last resort and described the proposed contract as \"moving around furniture on the ''Titanic''.\" In the press conference, Crabtree-Ireland alleged that the AMPTP attempted to include a proposal that allowed studios to, for a one-time fee equivalent to one day's pay, have exclusive and indefinite rights to Extra (acting)|extras' likenesses, including the use of Generative artificial intelligence|generative AI to replicate them on screen. Media commentators likened this to the film ''The Congress (2013 film)|The Congress'' (2013) and the ''Black Mirror'' sixth series episode \"Joan Is Awful\" (2023). However, AMPTP denied these claims, stating that their proposal would allow usage of these replicas within the specific film for which they are employed, and that any other uses would require consent and further compensation.<ref name=\"Verge AI replicas\" />",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last1=Grant |first1=Teddy |last2=Carr |first2=Will |last3=Shalawylo |first3=Abigail |last4=Haworth |first4=Jon |date=July 13, 2023 |title=SAG-AFTRA negotiating committee votes unanimously to recommend strike as Hollywood talks stall |url=https://abcnews.go.com/US/sag-aftra-strike-looms-union-studios-meet-federal/story?id=101181001 |url-status=live |archive-url=https://web.archive.org/web/20230713092105/https://abcnews.go.com/US/sag-aftra-strike-looms-union-studios-meet-federal/story?id=101181001 |archive-date=July 13, 2023 |access-date=July 13, 2023 |website=ABC News (United States)|ABC News}}</ref>",
+                      "url": "https://abcnews.go.com/US/sag-aftra-strike-looms-union-studios-meet-federal/story?id=101181001",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Robb |first1=David |last2=Patten |first2=Dominic |date=July 13, 2023 |title=SAG-AFTRA Contract Talks Fail To Reach Deal; National Board Meeting Thursday Morning To Launch Strike; Sides Issue Statements |url=https://deadline.com/2023/07/actors-strike-contract-talks-fail-sag-aftra-to-launch-pickets-1235436031/ |url-status=live |archive-url=https://web.archive.org/web/20230713080654/https://deadline.com/2023/07/actors-strike-contract-talks-fail-sag-aftra-to-launch-pickets-1235436031/ |archive-date=July 13, 2023 |access-date=July 13, 2023 |website=Deadline Hollywood}}</ref>",
+                      "url": "https://deadline.com/2023/07/actors-strike-contract-talks-fail-sag-aftra-to-launch-pickets-1235436031/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Robb |first1=David |last2=Patten |first2=Dominic |date=July 13, 2023 |title=SAG-AFTRA Officially Calls Strike As National Board Approves Guild's First Walkout Against Film & TV Industry Since 1980 |url=https://deadline.com/2023/07/actors-strike-sag-aftra-hollywood-studios-1235436118/ |url-status=live |archive-url=https://web.archive.org/web/20230713191744/https://deadline.com/2023/07/actors-strike-sag-aftra-hollywood-studios-1235436118/ |archive-date=July 13, 2023 |access-date=July 13, 2023 |website=Deadline Hollywood}}</ref>",
+                      "url": "https://deadline.com/2023/07/actors-strike-sag-aftra-hollywood-studios-1235436118/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Ravindran |first=Manori |date=July 13, 2023 |title='Oppenheimer' Cast Leaves U.K. Premiere as SAG-AFTRA Strike Imminent |url=https://variety.com/2023/film/global/matt-damon-oppenheimer-cast-moved-red-carpet-strike-1235669528/ |url-status=live |archive-url=https://web.archive.org/web/20230713204356/https://variety.com/2023/film/global/matt-damon-oppenheimer-cast-moved-red-carpet-strike-1235669528/ |archive-date=July 13, 2023 |access-date=July 13, 2023 |website=Variety (magazine)|Variety}}</ref>",
+                      "url": "https://variety.com/2023/film/global/matt-damon-oppenheimer-cast-moved-red-carpet-strike-1235669528/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Powell |first1=Tori B. |last2=Hammond |first2=Elise |last3=Chowdhury |first3=Maureen |date=July 13, 2023 |title=SAG-AFTRA national board votes to go on strike, union leader says |url=https://www.cnn.com/business/live-news/hollywood-actors-sag-aftra-strike-07-13-23/h_583f1629128b3e03da59db71743956f7 |url-status=live |archive-url=https://web.archive.org/web/20230714074108/https://www.cnn.com/business/live-news/hollywood-actors-sag-aftra-strike-07-13-23/h_583f1629128b3e03da59db71743956f7 |archive-date=July 14, 2023 |access-date=July 13, 2023 |website=CNN}}</ref>",
+                      "url": "https://edition.cnn.com/business/live-news/hollywood-actors-sag-aftra-strike-07-13-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Powell |first1=Tori B. |last2=Hammond |first2=Elise |last3=Chowdhury |first3=Maureen |date=July 13, 2023 |title='We had no choice': Actors union president Fran Drescher details importance of strike |url=https://www.cnn.com/business/live-news/hollywood-actors-sag-aftra-strike-07-13-23/h_f80cbf58facb32ce576352424fc594f3 |url-status=live |archive-url=https://web.archive.org/web/20230715015951/https://www.cnn.com/business/live-news/hollywood-actors-sag-aftra-strike-07-13-23/h_f80cbf58facb32ce576352424fc594f3 |archive-date=July 15, 2023 |access-date=July 13, 2023 |website=CNN}}</ref>",
+                      "url": "https://edition.cnn.com/business/live-news/hollywood-actors-sag-aftra-strike-07-13-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Powell |first1=Tori B. |last2=Hammond |first2=Elise |last3=Chowdhury |first3=Maureen |date=July 13, 2023 |title='Moving around furniture on the Titanic': Fran Drescher says union won't accept incremental changes |url=https://www.cnn.com/business/live-news/hollywood-actors-sag-aftra-strike-07-13-23/h_c75c5f2f4d2f217dc3981d817c1aafad |url-status=live |archive-url=https://web.archive.org/web/20230714074639/https://www.cnn.com/business/live-news/hollywood-actors-sag-aftra-strike-07-13-23/h_c75c5f2f4d2f217dc3981d817c1aafad |archive-date=July 14, 2023 |access-date=July 13, 2023 |website=CNN}}</ref>",
+                      "url": "https://edition.cnn.com/business/live-news/hollywood-actors-sag-aftra-strike-07-13-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"Verge AI replicas\">{{Cite web |last=Webster |first=Andrew |date=July 13, 2023 |title=Actors say Hollywood studios want their AI replicas-for free, forever |url=https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights |url-status=live |archive-url=https://web.archive.org/web/20230715134352/https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights |archive-date=July 15, 2023 |access-date=July 15, 2023 |website=The Verge}}</ref>",
+                      "url": "https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"ai proposal\">{{Cite web |last=Buckley |first=Sean |date=July 13, 2023 |title=Striking actors say studios 'AI proposal' would have them sell their digital likeness for only one day's pay |url=https://www.engadget.com/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html |url-status=live |archive-url=https://web.archive.org/web/20230715020436/https://www.engadget.com/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html |archive-date=July 15, 2023 |access-date=July 14, 2023 |website=Engadget |language=en-US |quote=They proposed that our background actors should be able to be scanned, get paid for one day's pay, and their company should own that scan, their image, their likeness and to be able to use it for the rest of eternity in any project they want with no consent and no compensation.}}</ref>",
+                      "url": "https://www.engadget.com/striking-actors-say-rejected-ai-proposal-would-let-studios-use-their-likeness-without-fair-pay-000025878.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Donaldson |first=Kayleigh |date=May 8, 2023 |title=A.I. Filmmaking Is A Terrible Idea, And One Underseen Movie Shows Us Why |url=https://www.slashfilm.com/1279512/a-i-filmmaking-is-a-terrible-idea/ |url-status=live |archive-url=https://web.archive.org/web/20230622055114/https://www.slashfilm.com/1279512/a-i-filmmaking-is-a-terrible-idea/ |archive-date=June 22, 2023 |access-date=July 14, 2023 |website=/Film |language=en-US}}</ref>",
+                      "url": "https://www.slashfilm.com/1279512/a-i-filmmaking-is-a-terrible-idea/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Heritage |first=Stuart |date=July 13, 2023 |title=Joan Is Awful: Black Mirror episode is every striking actor's worst nightmare |language=en-GB |work=The Guardian |url=https://www.theguardian.com/tv-and-radio/2023/jul/13/joan-is-awful-black-mirror-striking-actors-nightmare |url-status=live |access-date=July 14, 2023 |archive-url=https://web.archive.org/web/20230713140421/https://www.theguardian.com/tv-and-radio/2023/jul/13/joan-is-awful-black-mirror-striking-actors-nightmare |archive-date=July 13, 2023 |issn=0261-3077}}</ref>",
+                      "url": "https://www.theguardian.com/tv-and-radio/2023/jul/13/joan-is-awful-black-mirror-striking-actors-nightmare",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Timeline",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "3.2",
+          "title": "July",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "The strike officially began on July 14. As part of the rules established on July 10, actors cannot engage in film or television productions and cannot take part in promotional work, such as press junkets, film premieres, and events—including San Diego Comic-Con, which was scheduled for July 20–23. The strike action does not apply to SAG-AFTRA members who work under contracts that are negotiated by the union separately from the AMPTP contract, including broadcast journalists. Work in podcasts, \"micro-budget\" independent films, and student films is allowed, as is \"unscripted\" television work such as game shows, reality competition shows, documentaries, and talk shows. Internationally, SAG-AFTRA members are authorized to continue work in the United Kingdom under pre-established Equity (British trade union)|Equity collective bargaining agreements, as UK law criminalizes Solidarity action|solidarity strikes. The HBO series ''House of the Dragon'' thus continued its UK-based filming with SAG-AFTRA actors operating under Equity contracts, prompting backlash among fans of the series.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"strikebegins\">{{Cite news |last=Lang |first=Robert |date=July 14, 2023 |title=SAG-AFTRA Strike Photos: Actors Hit The Picket Lines On Day 1 |work=Deadline Hollywood |url=https://deadline.com/gallery/actors-strike-photos-picket-line-sag-aftra/ |url-status=live |access-date=July 14, 2023 |archive-url=https://web.archive.org/web/20230714172702/https://deadline.com/gallery/actors-strike-photos-picket-line-sag-aftra/ |archive-date=July 14, 2023}}</ref>",
+                      "url": "https://deadline.com/gallery/actors-strike-photos-picket-line-sag-aftra/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Fuster |first=Jeremy |date=July 10, 2023 |title=SAG-AFTRA Lays Out Strike Rules: No Shoots, No Press, No Social Media Promos |url=https://www.thewrap.com/sag-aftra-strike-rules-publicists/ |url-status=live |archive-url=https://web.archive.org/web/20230712172426/https://www.thewrap.com/sag-aftra-strike-rules-publicists/ |archive-date=July 12, 2023 |access-date=July 13, 2023 |website=TheWrap}}</ref>",
+                      "url": "https://www.thewrap.com/sag-aftra-strike-rules-publicists/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Levin |first=Gary |date=July 14, 2023 |title=Game shows, soaps and British actors: What TV will look like during the SAG actor's strike |language=en-US |work=USA Today |url=https://www.usatoday.com/story/entertainment/tv/2023/07/14/sag-strike-what-to-know-tv-soaps-game-shows-emmys/70413456007/ |url-status=live |access-date=July 16, 2023 |archive-url=https://web.archive.org/web/20230716103208/https://www.usatoday.com/story/entertainment/tv/2023/07/14/sag-strike-what-to-know-tv-soaps-game-shows-emmys/70413456007/ |archive-date=July 16, 2023}}</ref>",
+                      "url": "https://www.usatoday.com/story/entertainment/tv/2023/07/14/sag-strike-what-to-know-tv-soaps-game-shows-emmys/70413456007/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Durkee |first=Alison |date=July 14, 2023 |title=SAG-AFTRA Strike: Here's What Isn't Affected By Actors' Work Stoppage |url=https://www.forbes.com/sites/alisondurkee/2023/07/14/sag-aftra-strike-heres-what-isnt-affected-by-actors-work-stoppage/ |url-status=live |archive-url=https://web.archive.org/web/20230716080757/https://www.forbes.com/sites/alisondurkee/2023/07/14/sag-aftra-strike-heres-what-isnt-affected-by-actors-work-stoppage/ |archive-date=July 16, 2023 |access-date=July 15, 2023 |website=Forbes |language=en}}</ref>",
+                      "url": "https://www.forbes.com/sites/alisondurkee/2023/07/14/sag-aftra-strike-heres-what-isnt-affected-by-actors-work-stoppage/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Whittock |first=Jesse |date=July 13, 2023 |title=Actors Strike: British Acting Union Equity \"Stands In Unwavering Solidarity\" With SAG-AFTRA |url=https://deadline.com/2023/07/actors-strike-equity-issues-uk-members-working-guidance-1235437198/ |url-status=live |archive-url=https://web.archive.org/web/20230713194634/https://deadline.com/2023/07/actors-strike-equity-issues-uk-members-working-guidance-1235437198/ |archive-date=July 13, 2023 |access-date=July 13, 2023 |website=Deadline Hollywood |publisher=Penske Media Corporation}}</ref>",
+                      "url": "https://deadline.com/2023/07/actors-strike-equity-issues-uk-members-working-guidance-1235437198/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Clark |first=Meredith |date=July 14, 2023 |title=House of the Dragon hit with backlash for continuing filming despite SAG-AFTRA strike |url=https://www.independent.co.uk/arts-entertainment/tv/news/house-of-the-dragon-filming-actors-strike-b2375139.html |url-status=live |archive-url=https://web.archive.org/web/20230715015925/https://www.independent.co.uk/arts-entertainment/tv/news/house-of-the-dragon-filming-actors-strike-b2375139.html |archive-date=July 15, 2023 |access-date=July 14, 2023 |website=The Independent}}</ref>",
+                      "url": "https://www.independent.co.uk/arts-entertainment/tv/news/house-of-the-dragon-filming-actors-strike-b2375139.html",
+                      "status_code": 405,
+                      "reason": "Not allowed.",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.2.s2",
+                  "text": "On July 17, the Ficus trees on Barham Boulevard's sidewalk outside Gate 8 were pruned almost entirely of their leaves. Pine trees on the opposite side of Barham were not touched, nor were a row of pepper trees behind the fence near the production gate. The pruning was described as a vindictive action because the trees had been being used by protesters as shade from the over 90&nbsp;°F (32&nbsp;°C) summer temperatures of Southern California. The pruning was also described as illegal, on the grounds that the trees are owned by the city and that Los Angeles' tree ordinances prohibit trimming them between July and September. NBCUniversal issued a statement to ''Deadline Hollywood'' denying that the trimming was done out of malice, claiming that they trim the trees outside the park in July annually for safety, and describing it and the obstructive construction hazards as \"unintended challenges for demonstrators\".",
+                  "references": [
+                    {
+                      "text": "<ref name=\"WhoCaresIfAFewTreesAreDying\">{{Cite news |last=Miller |first=Julius |date=July 17, 2023 |title=Striking Writers, Actors Peeved at Hollywood Studio's Spite Stunt: Pruning Trees on Sweltering L.A. Day |work=Los Angeles (magazine)|Los Angeles |location=Los Angeles |url=https://www.lamag.com/article/tree-pruning-universal-pictures-strike-spite/ |url-status=live |access-date=July 18, 2023 |archive-url=https://web.archive.org/web/20230718040122/https://www.lamag.com/article/tree-pruning-universal-pictures-strike-spite/ |archive-date=July 18, 2023 |quote=Some are questioning the timing of Universal Pictures's shade-eliminating trimming alongside a picketing route}}</ref>",
+                      "url": "https://www.lamag.com/article/tree-pruning-universal-pictures-strike-spite/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Chapter 16.76 – Tree Trimming |url=https://library.municode.com/ca/los_angeles_county/codes/code_of_ordinances?nodeId=TIT16HI_DIV5MIPR_CH16.76TRTR |url-status=live |archive-url=https://web.archive.org/web/20230718180511/https://library.municode.com/ca/los_angeles_county/codes/code_of_ordinances?nodeId=TIT16HI_DIV5MIPR_CH16.76TRTR |archive-date=July 18, 2023 |access-date=July 27, 2023 |website=library.municode.com}}</ref>",
+                      "url": "https://library.municode.com/ca/los_angeles_county/codes/code_of_ordinances?nodeId=TIT16HI_DIV5MIPR_CH16.76TRTR",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Bawden Davis |first=Julie |date=February 26, 1994 |title=When to Prune Trees |work=Los Angeles Times |url=https://www.latimes.com/archives/la-xpm-1994-02-26-hm-27488-story.html |url-status=live |access-date=July 18, 2023 |archive-url=https://web.archive.org/web/20220929195725/https://www.latimes.com/archives/la-xpm-1994-02-26-hm-27488-story.html |archive-date=September 29, 2022}}</ref>",
+                      "url": "https://www.latimes.com/archives/la-xpm-1994-02-26-hm-27488-story.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=July 23, 2023 |title=NBCUniversal Gets Weak Fine for Mid-Strike Tree Pruning |url=https://gizmodo.com/nbc-universal-tree-controversy-los-angeles-penalty-1850668332 |url-status=live |archive-url=https://web.archive.org/web/20230723220813/https://gizmodo.com/nbc-universal-tree-controversy-los-angeles-penalty-1850668332 |archive-date=July 23, 2023 |access-date=July 23, 2023 |website=Gizmodo |language=en}}</ref>",
+                      "url": "https://gizmodo.com/nbc-universal-tree-controversy-los-angeles-penalty-1850668332",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=July 23, 2023 |title=Universal Studios fined for trimming trees that were shading striking actors and writers from extreme heat |url=https://sg.news.yahoo.com/universal-studios-fined-trimming-trees-204857693.html |url-status=live |archive-url=https://web.archive.org/web/20230723220814/https://sg.news.yahoo.com/universal-studios-fined-trimming-trees-204857693.html |archive-date=July 23, 2023 |access-date=July 23, 2023 |website=Yahoo News |language=en-SG}}</ref>",
+                      "url": "https://sg.news.yahoo.com/universal-studios-fined-trimming-trees-204857693.html",
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"TheLawyersAreDenying\" /> NBCUniversal was fined US$250 for violating tree laws and destroying city property.<ref>{{Cite news |last=Rice |first=Lynette |date=July 21, 2023 |title=More On Treegate: City To Slap Universal With $250 Fine For Trimming Ficus Trees |work=Deadline Hollywood |url=https://deadline.com/2023/07/writers-strike-wga-files-federal-complaint-nbcuniversal-construction-1235441167/ |url-status=live |access-date=July 23, 2023 |archive-url=https://web.archive.org/web/20230723032148/https://deadline.com/2023/07/writers-strike-wga-files-federal-complaint-nbcuniversal-construction-1235441167/ |archive-date=July 23, 2023}}</ref>",
+                      "url": "https://deadline.com/2023/07/writers-strike-wga-files-federal-complaint-nbcuniversal-construction-1235441167/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.2.s3",
+                  "text": "Also on July 17, SAG-AFTRA released a twelve-page statement outlining the breakdown in negotiations, and terms they found unacceptable, including but not limited to a five-percent salary increase for actors, while the union had asked for eleven percent. The AMPTP released a counter-statement, highlighting that its actions were being \"deliberately distort[ed]\" and that SAG-AFTRA had chosen to pass over \"the most lucrative deal we have ever negotiated... valued at $318 million over the three-year term of the contract.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=July 17, 2023 |title=We're Fighting for the Survival of Our Profession |url=https://www.sagaftra.org/files/sa_documents/SAG-AFTRA_Negotiations_Status_7_13_23.pdf |url-status=live |archive-url=https://web.archive.org/web/20230718040403/https://www.sagaftra.org/files/sa_documents/SAG-AFTRA_Negotiations_Status_7_13_23.pdf |archive-date=July 18, 2023 |access-date=July 18, 2023}}</ref>",
+                      "url": "https://www.sagaftra.org/sites/default/files/sa_documents/SAG-AFTRA_Negotiations_Status_7_13_23.pdf",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=July 17, 2023 |title=Statement from the Alliance of Motion Picture and Television Producers |url=https://s3.documentcloud.org/documents/23879629/amtptp-sag-aftra-717.pdf |url-status=live |archive-url=https://web.archive.org/web/20230719061145/https://s3.documentcloud.org/documents/23879629/amtptp-sag-aftra-717.pdf |archive-date=July 19, 2023 |access-date=July 18, 2023}}</ref>",
+                      "url": "https://s3.documentcloud.org/documents/23879629/amtptp-sag-aftra-717.pdf",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Littleton |first=Cynthia |date=July 18, 2023 |title=SAG-AFTRA, AMPTP Spar Over Terms of Rejected Contract Offer: 'Deliberately Distorts,' Says AMPTP; 'Rewarded for Exploiting Workers,' Says Union |url=https://variety.com/2023/biz/news/sag-strike-amptp-contract-reject-fight-1235672764/ |url-status=live |archive-url=https://web.archive.org/web/20230719023655/https://variety.com/2023/biz/news/sag-strike-amptp-contract-reject-fight-1235672764/ |archive-date=July 19, 2023 |access-date=July 27, 2023 |website=Variety |language=en-US}}</ref>",
+                      "url": "https://variety.com/2023/biz/news/sag-strike-amptp-contract-reject-fight-1235672764/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.2.s4",
+                  "text": "On July 18, NBCUniversal was accused of conducting business at Universal Studios Hollywood to deter or endanger the protesters and infringe on their rights to protest. In response, SAG-AFTRA and WGA issued a joint grievance to the National Labor Relations Board against NBCUniversal, accusing the company of interfering with their freedom to picket and endangering their members. Writers Guild of America West additionally filed a petition to the AMPTP in response to NBCUniversal's failure to install barriers to protect WGA and SAG-AFTRA protestors from the risk of being forced into traffic. NBCUniversal responded to ''The Hollywood Reporter'' in a statement: \"We are aware of the WGA and SAG-AFTRA complaints. We strongly believe that the company has fulfilled our legal obligations under the National Labor Relations Act (NLRA) and we will cooperate with respect to any inquiries by the National Labor Relations Board on this issue. While we understand the timing of our multi-year construction project has created challenges for demonstrators, we continue to work with public agencies to increase access. We support the unions' rights to demonstrate safely.\"<ref name=\"THRGaryBaum\" />",
+                  "references": [
+                    {
+                      "text": "<ref name=\"TheLawyersAreDenying\">{{Cite news |last=Rice |first=Lynette |date=July 18, 2023 |title=Universal Responds To Complaints About Pruned Trees On Barham Boulevard: \"Not Our Intent …To Create Unintended Challenges For Demonstrators\" |work=Deadline Hollywood |url=https://deadline.com/2023/07/universal-pruned-ficus-trees-wga-picket-line-barham-boulevard-1235440896/ |url-status=live |access-date=July 23, 2023 |archive-url=https://web.archive.org/web/20230722193601/https://deadline.com/2023/07/universal-pruned-ficus-trees-wga-picket-line-barham-boulevard-1235440896/ |archive-date=July 22, 2023}}</ref>",
+                      "url": "https://deadline.com/2023/07/universal-pruned-ficus-trees-wga-picket-line-barham-boulevard-1235440896/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"THRGaryBaum\">{{Cite news |last=Baum |first=Gary |date=July 18, 2023 |title=Writers Guild, SAG-AFTRA File Labor Grievance Against NBCUniversal (Exclusive) |work=The Hollywood Reporter |url=https://www.hollywoodreporter.com/business/business-news/sag-wga-labor-board-grievance-nbcuniversal-1235539134/ |url-status=live |access-date=July 23, 2023 |archive-url=https://web.archive.org/web/20230723214315/https://www.hollywoodreporter.com/business/business-news/sag-wga-labor-board-grievance-nbcuniversal-1235539134/ |archive-date=July 23, 2023}}</ref>",
+                      "url": "https://www.hollywoodreporter.com/business/business-news/sag-wga-labor-board-grievance-nbcuniversal-1235539134/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=<!--not stated--> |date=July 19, 2023 |title=Striking writers and actors accuse NBCUniversal of blocking picket area |work=Reuters |url=https://www.reuters.com/world/us/us-writers-guild-sag-aftra-file-nbcuniversal-grievance-the-hollywood-reporter-2023-07-18/ |url-status=live |access-date=July 23, 2023 |archive-url=https://web.archive.org/web/20230723214315/https://www.reuters.com/world/us/us-writers-guild-sag-aftra-file-nbcuniversal-grievance-the-hollywood-reporter-2023-07-18/ |archive-date=July 23, 2023}}</ref>",
+                      "url": "https://www.reuters.com/world/us/us-writers-guild-sag-aftra-file-nbcuniversal-grievance-the-hollywood-reporter-2023-07-18/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"TheLawyersAreDenying\" /><ref name=\"WGAWestPetition\" /><ref name=\"WGAWestPetitionTweet\">{{Cite tweet|number=1681482995889504256|user=WGAWest|title=Say...while you're here, sign the petition being ciruclated by WGA members picketing at @NBCUniversal #WGAstrike|author=Writers Guild of America West|author-link=Writers Guild of America West|date=July 18, 2023|access-date=July 23, 2023|language=English}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "tweet"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.2.s5",
+                  "text": "On July 19, 2023, SAG-AFTRA approved more films to be shot during the strike, including Ishana Night Shyamalan's ''The Watchers (film)|The Watchers'', Sam Raimi's ''Don't Move (2024 film)|Don't Move'', and David Lowery (director)|David Lowery's ''Mother Mary (upcoming film)|Mother Mary''. 56 films then became eligible to shoot under strike rules.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Kroll |first=Justin |date=July 19, 2023 |title=Ishana Night Shyamalan's 'The Watchers' & Sam Raimi's 'Don't Move' Among Latest Projects Granted SAG-AFTRA Waivers To Shoot During Strike |url=https://deadline.com/2023/07/actors-strike-sag-aftra-waivers-list-the-watchers-dont-move-1235442039/ |url-status=live |archive-url=https://web.archive.org/web/20230722012028/https://deadline.com/2023/07/actors-strike-sag-aftra-waivers-list-the-watchers-dont-move-1235442039/ |archive-date=July 22, 2023 |access-date=July 21, 2023 |website=Deadline}}</ref>",
+                      "url": "https://deadline.com/2023/07/actors-strike-sag-aftra-waivers-list-the-watchers-dont-move-1235442039/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.2.s6",
+                  "text": "On July 25, 2023, thousands of actors rallied Tuesday morning at Times Square from 9:30 A.M. to noon to voice their concerns about fair treatment and wages. SAG-AFTRA's main contractual negotiator, Duncan Crabtree-Ireland spoke about the struggle that the union is facing with the AMPTP.  Many celebrities gave speeches to express their concerns about the future of their union and technological advancements in the industry.  In attendance were: Lauren Ambrose, Matt Bomer, Christine Baranski, Steve Buscemi, Bobby Cannavale, Tituss Burgess, Liza Colón-Zayas, Bryan Cranston, Jessica Chastain, Gregory Diaz, Jennifer Ehle, Brendan Fraser, Nancy Giles, Danai Gurira, Jill Hennessy, Marin Hinkle, Stephen Lang, Arian Moayed, Christopher Meloni, Chloë Grace Moretz, Wendell Pierce, Michael Shannon, Christian Slater, Corey Stoll, Merritt Wever and Rachel Zegler.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Lindsay |first=Benjamin |date=July 24, 2023 |title=SAG-AFTRA Strike to Host Star-Studded 'Rock the City' Times Square Rally |url=https://www.thewrap.com/sag-aftra-strike-to-host-star-studded-rock-the-city-times-square-rally/ |url-status=live |archive-url=https://web.archive.org/web/20230725045029/https://www.thewrap.com/sag-aftra-strike-to-host-star-studded-rock-the-city-times-square-rally/ |archive-date=July 25, 2023 |access-date=July 25, 2023 |website=TheWrap |location=Los Angeles, California}}</ref>",
+                      "url": "https://www.thewrap.com/sag-aftra-strike-to-host-star-studded-rock-the-city-times-square-rally/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Complex |first1=Valerie |last2=Piccoli |first2=Sean |date=July 25, 2023 |title=Dispatches From The Picket Lines: Stars Hit Times Square Rally – From Fraser, Chastain, Cranston & Pierce To Slater, Wong, Hennessy, Shannon, Buscemi & More |url=https://deadline.com/2023/07/actors-strike-brendan-fraser-bryan-cranston-picket-line-1235447565/ |archive-url=https://web.archive.org/web/20230725221522/https://deadline.com/2023/07/actors-strike-brendan-fraser-bryan-cranston-picket-line-1235447565/ |archive-date=July 25, 2023 |access-date=July 25, 2023 |website=Deadline Hollywood |location=Los Angeles, California}}</ref>",
+                      "url": "https://deadline.com/2023/07/actors-strike-brendan-fraser-bryan-cranston-picket-line-1235447565/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Otterson |first=Joe |date=July 25, 2023 |title=Bryan Cranston Tells Bob Iger 'Our Jobs Will Not Be Taken Away' by AI in Rousing Speech: You Will Not 'Take Away Our Dignity' |url=https://variety.com/2023/tv/news/bryan-cranston-bob-iger-sag-strike-speech-ai-1235679629/ |url-status=live |archive-url=https://web.archive.org/web/20230727082744/https://variety.com/2023/tv/news/bryan-cranston-bob-iger-sag-strike-speech-ai-1235679629/ |archive-date=July 27, 2023 |access-date=July 27, 2023 |website=Variety |language=en-US}}</ref>",
+                      "url": "https://variety.com/2023/tv/news/bryan-cranston-bob-iger-sag-strike-speech-ai-1235679629/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "August",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.3.s1",
+                  "text": "Picketing was called off for one day, August 21, 2023, due to Hurricane Hilary.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Roe |first=Mike |date=August 18, 2023 |title=WGA and SAG-AFTRA Cancel Monday Strike Pickets Ahead of Tropical Storm Hitting Los Angeles |url=https://www.thewrap.com/wga-and-sag-aftra-cancel-monday-strike-pickets-hurricane-hilary-tropical-storm/ |url-status=live |archive-url=https://web.archive.org/web/20230819152343/https://www.thewrap.com/wga-and-sag-aftra-cancel-monday-strike-pickets-hurricane-hilary-tropical-storm/ |archive-date=August 19, 2023 |access-date=August 18, 2023 |website=The Wrap}}</ref>",
+                      "url": "https://www.thewrap.com/wga-and-sag-aftra-cancel-monday-strike-pickets-hurricane-hilary-tropical-storm/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.4",
+          "title": "September",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.4.s1",
+                  "text": "After the WGA and AMPTP reached a tentative agreement on September 24, leading to the 2023 Writers Guild of America strike#September 2023|official end of the WGA strike on September 27, SAG-AFTRA announced that it remains on strike, and called for renewed negotiations with the AMPTP. Later on September 27, SAG-AFTRA and AMPTP made a joint announcement that \"SAG-AFTRA and the AMPTP will resume negotiations for a new TV/Theatrical contract on Monday, October 2.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web|url=https://deadline.com/2023/09/sag-aftra-congratulates-wga-1235554206/|title=SAG-AFTRA Congratulates WGA On Tentative Deal, Urges Studios To Return To Table With Actors|first=Peter|last=White|work=Deadline|date=September 24, 2023|accessdate=September 26, 2023|archive-date=September 25, 2023|archive-url=https://web.archive.org/web/20230925032713/https://deadline.com/2023/09/sag-aftra-congratulates-wga-1235554206/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/09/sag-aftra-congratulates-wga-1235554206/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url=https://deadline.com/2023/09/actors-strike-sag-aftra-studios-could-meet-soon-1235556499/|title=SAG-AFTRA & Studios Could Meet Within Days|first1=Anthony|last1=D'Alessandro|first2=Dominic|last2=Patten|work=Deadline|date=September 26, 2023|accessdate=September 26, 2023|archive-date=September 26, 2023|archive-url=https://web.archive.org/web/20230926171626/https://deadline.com/2023/09/actors-strike-sag-aftra-studios-could-meet-soon-1235556499/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/09/actors-strike-sag-aftra-studios-could-meet-soon-1235556499/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"early\">{{cite news|last1 = D'Alessandro|first1 = Anthony|last2 = Patten|first2 = Dominic|date = 2023-09-27|title = SAG-AFTRA & Studios To Meet Early Next Week – Update|url = https://deadline.com/2023/09/actors-strike-sag-aftra-studios-could-meet-soon-1235556499/|work = Deadline Hollywood|access-date = September 26, 2023|archive-date = September 26, 2023|archive-url = https://web.archive.org/web/20230926212547/https://deadline.com/2023/09/actors-strike-sag-aftra-studios-could-meet-soon-1235556499/|url-status = live}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.hollywoodreporter.com/business/business-news/sag-aftra-studios-to-resume-negotiations-oct-2-1235571438/|title=SAG-AFTRA, Studios to Resume Negotiations on Oct. 2|first1=Katie|last1=Kilkenny|first2=Lesley|last2=Goldberg|work=The Hollywood Reporter|date=September 27, 2023|accessdate=September 27, 2023|archive-date=September 28, 2023|archive-url=https://web.archive.org/web/20230928015050/https://www.hollywoodreporter.com/business/business-news/sag-aftra-studios-to-resume-negotiations-oct-2-1235571438/|url-status=live}}</ref>",
+                      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-studios-to-resume-negotiations-oct-2-1235571438/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.5",
+          "title": "October",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.5.s1",
+                  "text": "]]\nOn October 2, SAG-AFTRA and the AMPTP met for negotiations, in the first meeting between the two unions since the SAG-AFTRA strike began on July 14. Unlike the WGA's negotiations, the SAG-AFTRA's negotiations were held at SAG-AFTRA's headquarters on Wilshire Boulevard rather than the AMPTP's headquarters in Sherman Oaks as, according to ''Deadline'', SAG-AFTRA officials were displeased \"with the AMPTP's setup\" and wanted a change of scenery. Participants included AMPTP chief Carol Lombardini, Donna Langley (NBCUniversal), David Zaslav (Warner Bros. Discovery), Ted Sarandos (Netflix), Bob Iger (The Walt Disney Company|Disney), as well as SAG-AFTRA's Fran Drescher, Duncan Crabtree-Ireland, and Ray Rodriguez. This pattern continued from October 4 to 9, when a joint statement announced a meeting on October 11. However, negotiations broke down on October 11.",
+                  "references": [
+                    {
+                      "text": "<ref name=start>{{cite web|url=https://deadline.com/2023/10/actors-strike-talks-hollywood-studios-issues-remain-1235561315/|title=SAG-AFTRA & Studio CEOs Start Talks Today With Revenue Sharing Still Divisive Issue; \"Be Cautious\" Expecting A Quick Deal, Town Warned|access-date=2023-10-02|last=Patten|first=Dominic|date=2023-10-02|work=Deadline Hollywood|archive-date=October 2, 2023|archive-url=https://web.archive.org/web/20231002144128/https://deadline.com/2023/10/actors-strike-talks-hollywood-studios-issues-remain-1235561315/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-talks-hollywood-studios-issues-remain-1235561315/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"chief\">{{cite web |last=Robb |first=David |date=2023-09-28 |title=SAG-AFTRA Chief Duncan Crabtree-Ireland Overseas, Will Be Back For Monday's AMPTP Talks |url=https://deadline.com/2023/09/actors-strike-sag-aftra-chief-overseas-1235558582/ |access-date=2023-09-28 |publisher=Deadline Hollywood |archive-date=September 28, 2023 |archive-url=https://web.archive.org/web/20230928185755/https://deadline.com/2023/09/actors-strike-sag-aftra-chief-overseas-1235558582/ |url-status=live }}</ref>",
+                      "url": "https://deadline.com/2023/09/actors-strike-sag-aftra-chief-overseas-1235558582/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last=Robb |first=David |date=September 28, 2023 |title=SAG-AFTRA Contract Talks Moved From AMPTP Offices To Union's Headquarters In Los Angeles – Update |url=https://deadline.com/2023/09/actors-strike-contract-talks-amptp-offices-chanage-1235558117/ |accessdate=September 28, 2023 |work=Deadline |archive-date=September 28, 2023 |archive-url=https://web.archive.org/web/20230928021455/https://deadline.com/2023/09/actors-strike-contract-talks-amptp-offices-chanage-1235558117/ |url-status=live }}</ref>",
+                      "url": "https://deadline.com/2023/09/actors-strike-contract-talks-amptp-offices-chanage-1235558117/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"start\" /> The meeting concluded with an announcement that they would meet again on the 4th.<ref name=\"oct2\">{{cite web|url=https://deadline.com/2023/10/actors-strike-talks-full-day-return-wednesday-1235562087/|title=SAG-AFTRA & Studio CEOs Wrap Full Day Of Talks, Will Resume Wednesday|access-date=2023-10-02|last=Patten|first=Dominic|date=2023-10-02|work=Deadline Hollywood|archive-date=October 17, 2023|archive-url=https://web.archive.org/web/20231017035001/https://deadline.com/2023/10/actors-strike-talks-full-day-return-wednesday-1235562087/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-talks-full-day-return-wednesday-1235562087/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"oct4\">{{cite web|url=https://deadline.com/2023/10/actors-strike-talks-continue-no-deal-sag-aftra-studios-1235564370/|title=SAG-AFTRA & Studios Negotiations To Continue Friday & Next Week; Talks Proceeding \"Calmly\"|access-date=2023-10-04|last=Patten|first=Dominic|date=2023-10-04|work=Deadline Hollywood|archive-date=October 5, 2023|archive-url=https://web.archive.org/web/20231005022340/https://deadline.com/2023/10/actors-strike-talks-continue-no-deal-sag-aftra-studios-1235564370/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-talks-continue-no-deal-sag-aftra-studios-1235564370/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.hollywoodreporter.com/business/business-news/actors-strike-sag-aftra-negotiations-continue-friday-1235609293/|title=SAG-AFTRA Negotiations to Continue Friday, Next Week|first=Katie|last=Kilkenny|work=The Hollywood Reporter|date=October 4, 2023|accessdate=October 4, 2023|archive-date=October 5, 2023|archive-url=https://web.archive.org/web/20231005020414/https://www.hollywoodreporter.com/business/business-news/actors-strike-sag-aftra-negotiations-continue-friday-1235609293/|url-status=live}}</ref>",
+                      "url": "https://www.hollywoodreporter.com/business/business-news/actors-strike-sag-aftra-negotiations-continue-friday-1235609293/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"oct9\">{{cite web|url=https://deadline.com/2023/10/actors-guild-talks-update-sag-aftra-studios-meetings-1235568131/|title=SAG-AFTRA & Studios End Negotiations For Today, Will Continue Talks Wednesday|access-date=2023-10-09|last=Patten|first=Dominic|date=2023-10-09|work=Deadline Hollywood|archive-date=October 10, 2023|archive-url=https://web.archive.org/web/20231010020206/https://deadline.com/2023/10/actors-guild-talks-update-sag-aftra-studios-meetings-1235568131/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-guild-talks-update-sag-aftra-studios-meetings-1235568131/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"pause\">{{cite web|url=https://deadline.com/2023/10/actors-strike-talks-break-down-likely-1235570627/|title=SAG-AFTRA & Studio Talks \"Much Rockier Than Usual\" Today; Pause \"Likely\" In Negotiations|access-date=2023-10-11|last=Patten|first=Dominic|date=2023-10-11|work=Deadline Hollywood|archive-date=October 12, 2023|archive-url=https://web.archive.org/web/20231012034448/https://deadline.com/2023/10/actors-strike-talks-break-down-likely-1235570627/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-talks-break-down-likely-1235570627/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.5.s2",
+                  "text": "Beginning October 12, numerous reasons were given as to why negotiations stopped. Sarandos said that talks broke down because SAG-AFTRA \"introduced a levy on subscribers on top of [other] areas\" which he said was \"a bridge too far.\" However, SAG-AFTRA accused the AMPTP of using \"bully tactics\", with SAG-AFTRA president Fran Drescher, stating that the AMPTP \"had given us a proposal package. We worked for like 36 hours on it. We brought it back to them. We walked them through it and they left and then called a few hours later and said, 'We're breaking negotiations.'\" Drescher has also said that SAG-AFTRA wants to continue negotiations. Duncan Crabtree-Ireland (SAG-AFTRA) also responded stating that, \"the public statement from the CEOs in their press release from the AMPTP characterized our demands as excessive. But really we don't think they are. The numbers they've been using are wildly overstated.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://deadline.com/2023/10/actors-strike-ted-sarandos-suspended-talks-1235571506/|title=Netflix's Ted Sarandos Reveals Why Talks Broke Down With SAG-AFTRA|access-date=2023-10-14|last=White|first=Peter|date=2023-10-12|work=Deadline Hollywood|archive-date=October 15, 2023|archive-url=https://web.archive.org/web/20231015051448/https://deadline.com/2023/10/actors-strike-ted-sarandos-suspended-talks-1235571506/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-ted-sarandos-suspended-talks-1235571506/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|last=Kilkenny|first=Katie|date=October 11, 2023|title=SAG-AFTRA Accuses Studios of \"Bully Tactics\" as Talks Suspended|url=https://www.hollywoodreporter.com/business/business-news/sag-aftra-talks-suspended-studios-say-1235616218/|url-status=live|archive-url=https://web.archive.org/web/20231012095515/https://www.hollywoodreporter.com/business/business-news/sag-aftra-talks-suspended-studios-say-1235616218/|archive-date=October 12, 2023|access-date=October 12, 2023|website=The Hollywood Reporter}}</ref>",
+                      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-talks-suspended-studios-say-1235616218/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=apfd>{{cite web|url=https://apnews.com/article/actors-strike-fran-drescher-interview-efa8d2ffac5f27dcdf0b9172e2f0e187|title=Q&A: SAG-AFTRA President Fran Drescher reacts to Hollywood studios breaking off negotiations|access-date=2023-10-13|last=Fauria|first=Krysta|date=2023-10-13|work=Associated Press|archive-date=October 13, 2023|archive-url=https://web.archive.org/web/20231013163107/https://apnews.com/article/actors-strike-fran-drescher-interview-efa8d2ffac5f27dcdf0b9172e2f0e187|url-status=live}}</ref>",
+                      "url": "https://apnews.com/article/actors-strike-fran-drescher-interview-efa8d2ffac5f27dcdf0b9172e2f0e187",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=apfd/><ref>{{cite web|url=https://www.reuters.com/world/us/george-clooney-studios-at-least-get-room-with-striking-actors-2023-10-13/|title=George Clooney to studios: 'At least get in the room' with striking actors|access-date=2023-10-13|last=Younis|first=Omar|date=2023-10-13|work=Reuters|archive-date=October 14, 2023|archive-url=https://web.archive.org/web/20231014003518/https://www.reuters.com/world/us/george-clooney-studios-at-least-get-room-with-striking-actors-2023-10-13/|url-status=live}}</ref>",
+                      "url": "https://www.reuters.com/world/us/george-clooney-studios-at-least-get-room-with-striking-actors-2023-10-13/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://deadline.com/2023/10/actors-strike-talks-update-taylor-swift-1235573736/|title=\"It's Preposterous!\" SAG-AFTRA's Duncan Crabtree-Ireland On Ted Sarandos' Claim Of Union Seeking \"Levy On Subscribers\"; Praises Taylor Swift|access-date=2023-10-14|last=D'Alessandro|first=Anthony|date=2023-10-14|work=Deadline Hollywood|archive-date=October 15, 2023|archive-url=https://web.archive.org/web/20231015020218/https://deadline.com/2023/10/actors-strike-talks-update-taylor-swift-1235573736/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-talks-update-taylor-swift-1235573736/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.5.s3",
+                  "text": "On October 16, SAG-AFTRA announced that it will schedule negotiations regarding a new video game contract.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news | title = SAG-AFTRA to Set More Talks With Video Game Companies in Hopes of Averting Second Strike | url = https://variety.com/2023/digital/news/sag-aftra-video-game-more-talks-avert-second-strike-1235758473/ | date = October 16, 2023 | author = Gene Maddus | publisher = Variety | access-date = October 17, 2023 | archive-date = October 17, 2023 | archive-url = https://web.archive.org/web/20231017025841/https://variety.com/2023/digital/news/sag-aftra-video-game-more-talks-avert-second-strike-1235758473/ | url-status = live }}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.5.s4",
+                  "text": "On October 19, ''Deadline Hollywood'' reported that a Zoom (software)|Zoom call between Hollywood stars (George Clooney, Scarlett Johansson, Kerry Washington, Tyler Perry, Bradley Cooper, Meryl Streep, Jennifer Aniston, Robert De Niro, Ben Affleck, Laura Dern, Emma Stone, Reese Witherspoon, Ryan Reynolds, and Ariana DeBose) and SAG-AFTRA leaders introduced a proposal that \"amounts to the town's biggest earners defraying the costs to AMPTP signatories by eliminating the cap on membership dues, to be used to bolster health benefits and other areas that SAG-AFTRA is trying to shore up. The offer would remove the $1 million cap on membership dues,\" and ultimately would have brought $150 million over three years. While Crabtree-Ireland found the proposal \"worthy of review and consideration\" as \"someone wanting to help is not someone wanting to undermine,\" Drescher ultimately rejected the offer, saying that it is not feasible. She instead called upon the AMPTP to resume negotiations with SAG-AFTRA.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://deadline.com/2023/10/actors-strike-movie-industry-impact-100-days-1235578390/|title=SAG-AFTRA Strike At 100 Days: What Does The Milestone Mean For The Movie Industry?|access-date=2023-10-21|last=D'Alessandro|first=Anthony|date=2023-10-21|work=Deadline Hollywood|archive-date=October 21, 2023|archive-url=https://web.archive.org/web/20231021214636/https://deadline.com/2023/10/actors-strike-movie-industry-impact-100-days-1235578390/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-movie-industry-impact-100-days-1235578390/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://deadline.com/2023/10/hollywood-stars-offer-150-million-dollars-over-three-years-in-higher-dues-to-help-end-actors-strike-stalemate-1235578089/|title=Hollywood's Biggest Stars Offer To Kick In $150M Over Three Years In Dues To Help End Actors Strike Stalemate|access-date=2023-10-19|last=Fleming|first=Mike Jr.|date=2023-10-19|work=Deadline Hollywood|archive-date=October 19, 2023|archive-url=https://web.archive.org/web/20231019170606/https://deadline.com/2023/10/hollywood-stars-offer-150-million-dollars-over-three-years-in-higher-dues-to-help-end-actors-strike-stalemate-1235578089/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/hollywood-stars-offer-150-million-dollars-over-three-years-in-higher-dues-to-help-end-actors-strike-stalemate-1235578089/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://deadline.com/2023/10/actors-strike-stars-proposal-sag-aftra-reaction-1235578231/|title=George Clooney & Other A-Listers' Residuals & Dues Proposals \"A Gesture Of Goodwill,\" SAG-AFTRA Exec Says|access-date=2023-10-19|last=Patten|first=Dominic|date=2023-10-19|work=Deadline Hollywood|archive-date=October 19, 2023|archive-url=https://web.archive.org/web/20231019215319/https://deadline.com/2023/10/actors-strike-stars-proposal-sag-aftra-reaction-1235578231/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-stars-proposal-sag-aftra-reaction-1235578231/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://deadline.com/2023/10/sag-aftra-negotiating-committee-letter-george-clooney-actors-proposal-urges-amptp-negotiations-1235578923/|title=SAG-AFTRA Negotiating Committee Addresses Top Actors' Proposal, Urges AMPTP \"To Negotiate Genuinely\"|access-date=2023-10-19|last=Andreeva|first=Nellie|date=2023-10-19|work=Deadline Hollywood|archive-date=October 20, 2023|archive-url=https://web.archive.org/web/20231020205144/https://deadline.com/2023/10/sag-aftra-negotiating-committee-letter-george-clooney-actors-proposal-urges-amptp-negotiations-1235578923/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/sag-aftra-negotiating-committee-letter-george-clooney-actors-proposal-urges-amptp-negotiations-1235578923/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.5.s5",
+                  "text": "On October 20, actress and SAG-AFTRA#Leadership history|former SAG president Melissa Gilbert dismissed a message from SAG-AFTRA stating that actors should not wear Halloween costumes of characters from \"struck companies,\" and said: \"THIS is what you guys come up with? Literally no one cares what anyone wears for Halloween ... do you really think this kind of infantile stuff is going to end the strike? ... please tell me you're going to make this rule go away... and go negotiate!... people are suffering mightily... this is the kind of silly bullshit that keeps us on strike.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://variety.com/2023/film/news/sag-aftra-halloween-rules-actors-costumes-barbie-oppenheimer-1235762273/|title=Halloween on Strike: SAG-AFTRA Tells Members to Not Dress Up as Characters From Struck Companies|access-date=2023-10-20|last=Shanfeld|first=Ethan|date=2023-10-20|work=Variety|archive-date=October 20, 2023|archive-url=https://web.archive.org/web/20231020225835/https://variety.com/2023/film/news/sag-aftra-halloween-rules-actors-costumes-barbie-oppenheimer-1235762273/|url-status=live}}</ref>",
+                      "url": "https://variety.com/2023/film/news/sag-aftra-halloween-rules-actors-costumes-barbie-oppenheimer-1235762273/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=gilbertedict>{{cite web|url=https://deadline.com/2023/10/melissa-gilbert-delivers-unhappy-halloween-message-sag-aftra-costume-edict-1235579537/|title=Melissa Gilbert Delivers Unhappy Halloween Message To SAG-AFTRA Costume Edict|access-date=2023-10-20|last=Haring|first=Bruce|date=2023-10-20|work=Deadline Hollywood|archive-date=October 20, 2023|archive-url=https://web.archive.org/web/20231020222650/https://deadline.com/2023/10/melissa-gilbert-delivers-unhappy-halloween-message-sag-aftra-costume-edict-1235579537/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/melissa-gilbert-delivers-unhappy-halloween-message-sag-aftra-costume-edict-1235579537/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.5.s6",
+                  "text": "On October 21, a joint statement announced that negotiations would resume on October 24, 2023. After a full day of negotiations on the 24th, the initial plan of meeting on October 25 was moved to October 26. Negotiations thus resumed on October 26, with Crabtree-Ireland stating that they are \"100% focused on making a fair deal at the table ... I am cautiously optimistic that can happen. I don't really want to characterize what's going on in the room but we're really focused on just staying prepared and focused on getting the negotiations done.\" An individual also speculated to ''The Wrap'' that \"studios believe that if they can't reach a deal in the next week with the Screen Actors Guild, which has been on strike since July 14, then no new production will be able to start before 2024.\" After the meeting, they announced that negotiations will continue on October 27. Also on October 26, a public letter signed by thousands of high-profile actors was sent to the SAG-AFTRA negotiating committee encouraging them to keep fighting for their values rather than cave in to the studios' demands, saying, \"As hard as this is, we would rather stay on strike than take a bad deal.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite Instagram|title=SAG-AFTRA and the AMPTP will meet for bargaining on Tuesday, Oct. 24 at SAG-AFTRA Plaza. Several executives from AMPTP member companies will be in attendance.|author=SAG-AFTRA|date=October 21, 2023|accessdate=October 21, 2023|postid=CyrOcfsyvyV|user=sagaftra|archive-url=http://ghostarchive.org/iarchive/instagram/sagaftra/3218729889520352405|archive-date=22 October 2023|url-status=live}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "Instagram"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Patten |first1=Dominic |last2=D'Alessandro |first2=Anthony |title=Happy 100! SAG-AFTRA And Studios To Return To Talks On Tuesday |url=https://deadline.com/2023/10/happy-100-sag-aftra-studios-return-talks-on-tuesday-1235579902/ |website=Deadline |access-date=21 October 2023 |date=21 October 2023 |archive-date=October 21, 2023 |archive-url=https://web.archive.org/web/20231021211048/https://deadline.com/2023/10/happy-100-sag-aftra-studios-return-talks-on-tuesday-1235579902/ |url-status=live }}</ref>",
+                      "url": "https://deadline.com/2023/10/happy-100-sag-aftra-studios-return-talks-on-tuesday-1235579902/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://deadline.com/2023/10/actors-strike-negotiations-resume-contract-studios-1235582176/|title=SAG-AFTRA & CEOs' First Meeting Of Renewed Contract Talks Over; More Planned Soon Even As Studios' New Proposal To Break Revenue Sharing Logjam \"Flopped\" In Room|access-date=2023-10-24|last=Patten|first=Dominic|date=2023-10-24|work=Deadline Hollywood|archive-date=October 25, 2023|archive-url=https://web.archive.org/web/20231025015342/https://deadline.com/2023/10/actors-strike-negotiations-resume-contract-studios-1235582176/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-negotiations-resume-contract-studios-1235582176/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.hollywoodreporter.com/business/business-news/sag-aftra-negotiations-rescheduled-thursday-1235628348/|title=SAG-AFTRA Negotiations Rescheduled for Thursday|first=Katie|last=Kilkenny|work=The Hollywood Reporter|date=October 25, 2023|accessdate=October 25, 2023|archive-date=May 27, 2024|archive-url=https://web.archive.org/web/20240527184942/https://www.hollywoodreporter.com/business/business-news/sag-aftra-negotiations-rescheduled-thursday-1235628348/|url-status=live}}</ref>",
+                      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-negotiations-rescheduled-thursday-1235628348/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"return\">{{cite web |last=Codero |first=Rosy |date=2023-10-26 |title=SAG-AFTRA's Duncan Crabtree-Ireland Is \"Cautiously Optimistic\" As Two Sides Return To Negotiating Table |url=https://deadline.com/2023/10/sag-aftra-cautiously-optimistic-1235584288/ |access-date=2023-10-26 |work=Deadline Hollywood |archive-date=May 27, 2024 |archive-url=https://web.archive.org/web/20240527185459/https://deadline.com/2023/10/sag-aftra-cautiously-optimistic-1235584288/ |url-status=live }}</ref>",
+                      "url": "https://deadline.com/2023/10/sag-aftra-cautiously-optimistic-1235584288/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.thewrap.com/studios-sag-strike-one-week-deadline/|title=Witching Hour: Studios to Devote Another Week to Resolve SAG Strike or Give Up Until January <nowiki>|</nowiki> Exclusive|first=Sharon|last=Waxman|work=The Wrap|date=October 26, 2023|accessdate=October 26, 2023|archive-date=May 27, 2024|archive-url=https://web.archive.org/web/20240527185500/https://www.thewrap.com/studios-sag-strike-one-week-deadline/|url-status=live}}</ref>",
+                      "url": "https://www.thewrap.com/studios-sag-strike-one-week-deadline/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"morefriday\">{{cite web|url=https://deadline.com/2023/10/actors-strike-talks-friday-optimism-1235584425/|title=SAG-AFTRA & Studios Set More Contract Talks For Friday; \"Cautious Optimism\" Motto Of The Day|access-date=2023-10-24|last=Patten|first=Dominic|date=2023-10-24|work=Deadline Hollywood|archive-date=May 27, 2024|archive-url=https://web.archive.org/web/20240527185500/https://deadline.com/2023/10/actors-strike-talks-friday-optimism-1235584425/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-talks-friday-optimism-1235584425/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://deadline.com/2023/10/actors-strike-letter-1235584852/|title=Thousands Of Stars Including Sarah Paulson, Chelsea Handler, Jon Hamm, Daveed Diggs, Christian Slater & Sandra Oh Tell SAG-AFTRA Leadership: \"We Would Rather Stay On Strike Than Take A Bad Deal\"|first=Peter|last=White|work=Deadline|date=October 26, 2023|accessdate=October 27, 2023|archive-date=May 27, 2024|archive-url=https://web.archive.org/web/20240527190214/https://deadline.com/2023/10/actors-strike-letter-1235584852/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-letter-1235584852/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.5.s7",
+                  "text": "On October 27, 2023, negotiations continued, but no deal was made, and it was announced that talks will continue over the weekend. The four studio CEOs did not attend the meeting, and Lombardini attended in their stead. The meeting on October 28 was conducted virtually between SAG-AFTRA leaders Drescher, Crabtree-Ireland and the SAG-AFTRA negotiating committee, with the guild awaiting a response from the studios, and plans to meet again on October 29.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://www.hollywoodreporter.com/business/business-news/sag-aftra-studios-continue-negotiations-through-weekend-1235629487/|title=SAG-AFTRA, Studios to Continue Negotiations Through Weekend|first=Katie|last=Kilkenny|work=The Hollywood Reporter|date=October 27, 2023|accessdate=October 27, 2023}}</ref>",
+                      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-studios-continue-negotiations-through-weekend-1235629487/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://deadline.com/2023/10/actors-strike-weekend-talks-deal-hope-1235585553/|title=SAG-AFTRA & Studio CEOs Plan Talks Into Weekend In Hopes Of Reaching Deal|first1=Dominic|last1=Patten|first2=Anthony|last2=D'Alessandro|work=Deadline|date=October 27, 2023|accessdate=October 27, 2023|archive-date=May 27, 2024|archive-url=https://web.archive.org/web/20240527192350/https://deadline.com/2023/10/actors-strike-weekend-talks-deal-hope-1235585553/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-weekend-talks-deal-hope-1235585553/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://deadline.com/2023/10/actors-strike-talks-extend-sunday-latest-proposal-1235586058/|title=SAG-AFTRA & Studios End Talks For Today; Guild Awaits AMPTP Response To Latest Proposal|first1=Dominic|last1=Patten|first2=Anthony|last2=D'Alessandro|work=Deadline|date=October 28, 2023|accessdate=October 28, 2023}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-talks-extend-sunday-latest-proposal-1235586058/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.5.s8",
+                  "text": "Then, after intermittent communications on October 29, a guild source told ''Deadline Hollywood'' that there \"is a feeling of optimism... looks like we're in the final stretch.\" ''Deadline'' also states that \"both sides expressed confidence a deal may be reached within days, but as before cautioned the situation is still fluid. From our understanding, SAG-AFTRA and the studios have gained 'significant' traction on bridging their gap over what has been termed as success-based compensation for streaming shows and their casts.\" Later in the afternoon a \"well-positioned individual\" told ''Deadline Hollywood'' that \"There's still a lot of work to be done.\"",
+                  "references": [
+                    {
+                      "text": "<ref name=\"optimism\">{{cite web|url=https://deadline.com/2023/10/actors-strike-deal-near-final-stretch-1235586671/|title=No Direct Talks Monday Between SAG-AFTRA & Studios; Negotiations \"In The Final Stretch\" As Deal Looks Close - Update|first1=Dominic|last1=Patten|first2=Anthony|last2=D'Alessandro|work=Deadline|date=October 29, 2023|accessdate=October 28, 2023}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-deal-near-final-stretch-1235586671/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"optimism\" /> Late in the evening SAG-AFTRA  stated: \"Both parties will be working independently Monday and re-engage on scheduling at the end of the day.\"<ref name=\"optimism\" /> The next day, Crabtree-Ireland informed ''Deadline'' that the weekend talks were \"productive,\" and he continues to remain \"cautiously optimistic about making progress.\" Also according to ''Deadline'', he said that SAG-AFTRA and AMPTP are \"not just 'dotting I's and crossing T's' just yet... He added that AI is the current focus of talks.\"<ref>{{cite web|url=https://deadline.com/2023/10/duncan-crabtree-ireland-talks-productive-1235587405/|title=SAG-AFTRA's Duncan Crabtree-Ireland Says Studio Talks Are \"Productive\", But Cautions \"We're Not There Yet\" As A.I. Emerges As Latest Focus|first=Lynette|last=Rice|work=Deadline|date=October 30, 2023|accessdate=October 30, 2023}}</ref>",
+                      "url": "https://deadline.com/2023/10/duncan-crabtree-ireland-talks-productive-1235587405/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=time>{{cite web|url=https://deadline.com/2023/10/actors-strike-latest-no-deal-yet-1235587352/|title=\"Everything Takes Time\": SAG-AFTRA & Studios Search For Common Ground On New Deal|access-date=2023-10-30|last=Patten|first=Dominic|date=2023-10-30|work=Deadline Hollywood}}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-latest-no-deal-yet-1235587352/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=time/> Another source told ''Deadline'', \"there's a lot of common ground now, and we are building on that... details still have to be determined, but we're heading in the right direction.\"<ref name=time/> That evening, SAG-AFTRA released a statement saying they would meet again on October 31.<ref>{{Cite web|url=https://www.hollywoodreporter.com/business/business-news/actors-strike-sag-aftra-negotiations-resume-tuesday-1235632755/|title=SAG-AFTRA, Hollywood Studios to Resume Negotiations on Tuesday|first=Katie|last=Kilkenny|work=The Hollywood Reporter|date=October 30, 2023|accessdate=October 30, 2023|archive-date=October 31, 2023|archive-url=https://web.archive.org/web/20231031023923/https://www.hollywoodreporter.com/business/business-news/actors-strike-sag-aftra-negotiations-resume-tuesday-1235632755/|url-status=live}}</ref>",
+                      "url": "https://www.hollywoodreporter.com/business/business-news/actors-strike-sag-aftra-negotiations-resume-tuesday-1235632755/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.5.s9",
+                  "text": "On October 31, talks ended early out of consideration of families celebrating Halloween, with the intention to meet again on November 1, and with plans to have further meetings later in the week if needed.",
+                  "references": [
+                    {
+                      "text": "<ref name=oct30/><ref>{{cite web|url=https://www.hollywoodreporter.com/business/business-news/sag-aftra-strike-negotiations-continue-wednesday-deal-in-sight-1235633627/|title=SAG-AFTRA Negotiations to Continue Wednesday With Deal in Sight|first1=Katie|last1=Kilkenny|first2=Pamela |last2=McClintock|work=The Hollywood Reporter|date=October 31, 2023|accessdate=October 31, 2023}}</ref>",
+                      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-strike-negotiations-continue-wednesday-deal-in-sight-1235633627/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.6",
+          "title": "November",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.6.s1",
+                  "text": "Meetings continued from November 1 to November 3. On November 4, SAG-AFTRA lead negotiators stated that they \"received an offer today from the AMPTP, which they characterized as their 'Last, Best, and Final Offer' ... we are reviewing it and considering our response within the context of the critical issues addressed in our proposals.\" On November 5, SAG-AFTRA sent a statement to its members saying that the negotiating team had \"analyzed and thoroughly discussed the AMPTP's counter proposal all day and well into the night and will continue our deliberations on Monday.\"  On November 6, SAG-AFTRA sent a letter to members that said: \"This morning our negotiators formally responded to the AMPTP's 'Last, Best & Final' offer ... there are several essential items on which we still do not have an agreement, including AI.\" Later that evening, ''Deadline Hollywood'' reported that the virtual meeting ended late, with plans to continue negotiations. A studio insider told ''Deadline'' that, \"this was a productive session, some work still required before there's a deal.\" In addition, ''Deadline Hollywood'' reported that it \"heard from several sources that guild president Fran Drescher was pinged by A-list stars asking about whether a deal was nigh.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |last1=Patten |first1=Dominic |last2=D'Alessandro |first2=Anthony |date=November 1, 2023 |title=SAG-AFTRA & Studios \"Closer & Closer\" To A Deal; More Talks Set For Thursday |url=https://deadline.com/2023/11/actors-strike-talks-deal-framework-in-place-1235589978/ |accessdate=November 1, 2023 |work=Deadline |archive-date=November 2, 2023 |archive-url=https://web.archive.org/web/20231102002125/https://deadline.com/2023/11/actors-strike-talks-deal-framework-in-place-1235589978/ |url-status=live }}</ref>",
+                      "url": "https://deadline.com/2023/11/actors-strike-talks-deal-framework-in-place-1235589978/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://deadline.com/2023/11/actors-strike-no-talks-ai-proposals-1235591221/|title=SAG-AFTRA Awaits Studios' Response To Latest AI Proposals On Day Of No Formal Talks; More \"Bargaining With The Companies\" Friday – Update|last1=Patten|first1=Dominic|last2=D'Alessandro|first2=Anthony|work=Deadline|date=November 2, 2023|accessdate=November 2, 2023|archive-date=November 3, 2023|archive-url=https://web.archive.org/web/20231103004221/https://deadline.com/2023/11/actors-strike-no-talks-ai-proposals-1235591221/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/11/actors-strike-no-talks-ai-proposals-1235591221/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://deadline.com/2023/11/actors-strike-studios-contract-offer-sent-sag-aftra-1235592535/|title=Studios Deliver New Contract Offer To SAG-AFTRA; More Talks Set For Weekend|last1=Patten|first1=Dominic|last2=D'Alessandro|first2=Anthony|work=Deadline|date=November 3, 2023|accessdate=November 3, 2023|archive-date=November 4, 2023|archive-url=https://web.archive.org/web/20231104020626/https://deadline.com/2023/11/actors-strike-studios-contract-offer-sent-sag-aftra-1235592535/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/11/actors-strike-studios-contract-offer-sent-sag-aftra-1235592535/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url=https://deadline.com/2023/11/actors-strike-studio-proposal-ceo-meeting-1235593291/ |title=SAG-AFTRA \"Reviewing\" Studios' \"Last, Best, And Final Offer\" After Expanded CEO Meeting Today – Update |last1=Patten |first1=Dominic |last2=D'Alessandro |first2=Anthony |work=Deadline |date=November 4, 2023 |accessdate=November 4, 2023 |archive-date=November 4, 2023 |archive-url=https://web.archive.org/web/20231104215610/https://deadline.com/2023/11/actors-strike-studio-proposal-ceo-meeting-1235593291/ |url-status=live }}</ref>",
+                      "url": "https://deadline.com/2023/11/actors-strike-studio-proposal-ceo-meeting-1235593291/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Kilkenny |first=Katie |date=November 6, 2023 |title=SAG-AFTRA Tells Members It's Reviewing Studios' \"Final\" Offer |url=https://www.hollywoodreporter.com/business/business-news/sag-aftra-reviewing-studios-final-offer-1235637478/ |accessdate=November 6, 2023 |work=Hollywood Reporter |archive-date=November 6, 2023 |archive-url=https://web.archive.org/web/20231106162930/https://www.hollywoodreporter.com/business/business-news/sag-aftra-reviewing-studios-final-offer-1235637478/ |url-status=live }}</ref>",
+                      "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-reviewing-studios-final-offer-1235637478/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Patten |first1=Dominic |last2=D'Alessandro |first2=Anthony |date=November 5, 2023 |title=Hollywood Waits: SAG-AFTRA \"Still Reviewing\" Studios' \"Last, Best, And Final Offer\"; No Monday Meetings Set Yet |url=https://deadline.com/2023/11/actors-strike-final-offer-under-review-1235593669/ |accessdate=November 5, 2023 |work=Deadline |archive-date=November 6, 2023 |archive-url=https://web.archive.org/web/20231106011951/https://deadline.com/2023/11/actors-strike-final-offer-under-review-1235593669/ |url-status=live }}</ref>",
+                      "url": "https://deadline.com/2023/11/actors-strike-final-offer-under-review-1235593669/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"responds116\">{{cite web |last1=Patten |first1=Dominic |last2=D'Alessandro |first2=Anthony |date=2023-11-06 |title=SAG-AFTRA & Studio CEOs End Tonight's Talks With No Deal; More Negotiations In Works For Tuesday – Update |url=https://deadline.com/2023/11/actors-strike-new-talks-final-offer-1235594696/ |access-date=2023-11-06 |publisher=Deadline Hollywood |archive-date=November 7, 2023 |archive-url=https://web.archive.org/web/20231107000706/https://deadline.com/2023/11/actors-strike-new-talks-final-offer-1235594696/ |url-status=live }}</ref>",
+                      "url": "https://deadline.com/2023/11/actors-strike-new-talks-final-offer-1235594696/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=responds116/> On November 7, SAG-AFTRA and AMPTP met again. A \"guild source\" told ''Deadline Hollywood'' that they \"are very close ... not done yet, but very close with strong protection language in place.\" However, the meeting ended without a deal, and with plans to continue talking on November 8.<ref name=\"later\">{{cite web|url=https://deadline.com/2023/11/actors-strike-deal-close-ai-1235595961/|title=No Deal Tonight: SAG-AFTRA & Studios End Long Day Of Talks, Expected Back At It Wednesday – Update|first=Dominic|last=Patten|work=Deadline|date=November 7, 2023|accessdate=November 7, 2023|archive-date=November 7, 2023|archive-url=https://web.archive.org/web/20231107211959/https://deadline.com/2023/11/actors-strike-deal-close-ai-1235595961/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/11/actors-strike-deal-close-ai-1235595961/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"later\" /> Also on November 7, Tyler Perry gave an interview on ''CBS Mornings.'' While praising the SAG-AFTRA lead negotiators, he also stated that the work stoppage has been \"debilitating,\" and that \"it's really important to know when we've won. This is only a three-year deal. In two years, two-and-a-half years, we'll be renegotiating again ... so we have to know what have we won, and what have we won for now? That's the thing. For now. [...] If I had ran my business trying to get everything at once, I wouldn't be here. I've got as much as I can for now, so let's see what we can do next.\"<ref>{{cite web|url=https://deadline.com/2023/11/tyler-perry-sag-aftra-strike-won-for-now-1235596239/|title=Tyler Perry Says \"It's Important To Know What We Have Won For Now\" Amid Ongoing SAG-AFTRA Strike: \"This Is Only A Three-Year Deal…We'll Be Renegotiating Again\"|access-date=2023-11-06|last=Petski|first=Denise|date=2023-11-06|publisher=Deadline Hollywood|archive-date=November 8, 2023|archive-url=https://web.archive.org/web/20231108002955/https://deadline.com/2023/11/tyler-perry-sag-aftra-strike-won-for-now-1235596239/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/11/tyler-perry-sag-aftra-strike-won-for-now-1235596239/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.6.s2",
+                  "text": "On November 8, 2023, SAG-AFTRA released a statement to its members that announced the end of the strike: \"We are thrilled and proud to tell you that today your TV/Theatrical Negotiating Committee voted unanimously to approve a tentative agreement with the AMPTP. As of 12:01am on November 9, our strike is officially suspended and all picket locations are closed.\" The SAG-AFTRA's National Board committee then approved the agreement by a majority of 86%. The summary of the agreement was published on November 13, 2023. Voting among SAG-AFTRA members began on November 14.<ref name=sagaftravote />",
+                  "references": [
+                    {
+                      "text": "<ref name=\"sag-aftra\">{{cite web|url=https://www.sagaftra.org/tentative-agreement-reached|title=Tentative Agreement Reached|access-date=2023-11-08|date=2023-11-08|publisher=SAG-AFTRA media release|archive-date=November 9, 2023|archive-url=https://web.archive.org/web/20231109204557/https://www.sagaftra.org/tentative-agreement-reached|url-status=live}}</ref>",
+                      "url": "https://www.sagaftra.org/tentative-agreement-reached",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"theend\">{{cite web|url=https://deadline.com/2023/11/sag-strike-ends-actors-studios-deal-contract-1235566470/|title=The Strike Is Over! SAG-AFTRA & Studios Reach Deal On New Three-Year Contract|access-date=2023-11-08|last1=Patten|first1=Dominic|date=2023-11-08|publisher=Deadline Hollywood|archive-date=November 9, 2023|archive-url=https://web.archive.org/web/20231109013439/https://deadline.com/2023/11/sag-strike-ends-actors-studios-deal-contract-1235566470/|url-status=live}}</ref>",
+                      "url": "https://deadline.com/2023/11/sag-strike-ends-actors-studios-deal-contract-1235566470/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=sagaftravote>{{cite news|url=https://www.sagaftra.org/sag-aftra-national-board-approves-tentative-agreement-recommends-ratification-2023-tvtheatrical|title=SAG-AFTRA National Board Approves Tentative Agreement, Recommends Ratification of 2023 TV/Theatrical Contracts|publisher=SAG-AFTRA|date=2023-11-10|accessdate=2023-11-13|archive-date=November 14, 2023|archive-url=https://web.archive.org/web/20231114001850/https://www.sagaftra.org/sag-aftra-national-board-approves-tentative-agreement-recommends-ratification-2023-tvtheatrical|url-status=live}}</ref>",
+                      "url": "https://www.sagaftra.org/sag-aftra-national-board-approves-tentative-agreement-recommends-ratification-2023-tvtheatrical",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.sagaftra.org/files/sa_documents/TV-Theatrical_23_Summary_Agreement_Final.pdf|title=Summary of Tentative Agreement|publisher=SAG-AFTRA|date=2023-11-13|accessdate=2023-11-13|archive-date=November 13, 2023|archive-url=https://web.archive.org/web/20231113235449/https://www.sagaftra.org/files/sa_documents/TV-Theatrical_23_Summary_Agreement_Final.pdf|url-status=live}}</ref>",
+                      "url": "https://www.sagaftra.org/sites/default/files/sa_documents/TV-Theatrical_23_Summary_Agreement_Final.pdf",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news|url=https://thehill.com/policy/technology/4307400-sag-aftra-releases-agreement-details-ai-protections/|title=SAG-AFTRA releases agreement, details AI protections|first=Rebecca|last=Klar|work=The Hill|date=13 November 2023|accessdate=13 November 2023|archive-date=November 13, 2023|archive-url=https://web.archive.org/web/20231113235509/https://thehill.com/policy/technology/4307400-sag-aftra-releases-agreement-details-ai-protections/|url-status=live}}</ref>",
+                      "url": "https://thehill.com/policy/technology/4307400-sag-aftra-releases-agreement-details-ai-protections/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.7",
+          "title": "December",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.7.s1",
+                  "text": "Voting concluded on December 5. The deal was approved with 78.33% support, with a 38.15% turnout.",
+                  "references": [
+                    {
+                      "text": "<ref name=sagaftravote /><ref>{{cite news|url=https://news.yahoo.com/hollywood-braces-actors-vote-strike-054028488.html|title=Hollywood braces for actors' vote on strike deal|first=Andrew|last=Marszal|work=AFP|publisher=Yahoo News|date=December 5, 2023|accessdate=December 5, 2023}}</ref>",
+                      "url": "https://news.yahoo.com/hollywood-braces-actors-vote-strike-054028488.html",
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"variety-ratify\"/><ref name=\"sagaftraratify\" /><ref>{{cite news|url=https://people.com/sag-aftra-members-approve-2023-tv-theatrical-contracts-tentative-agreement-8411279|title=Actors Approve SAG-AFTRA Deal That Ended 118-Day Strike: 'It's an Enormous Victory'|first=Angel|last=Sounders|publisher=People|date=December 6, 2023|accessdate=December 6, 2023}}</ref>",
+                      "url": "https://people.com/sag-aftra-members-approve-2023-tv-theatrical-contracts-tentative-agreement-8411279",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Strike activity and responses",
+      "content": [
+        {
+          "id": "4.1",
+          "title": "Locations",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.1.s1",
+                  "text": "SAG-AFTRA's strikes in Los Angeles targeted the major film studios as well as offices for companies. Drescher personally joined the strikes outside of Netflix's offices. Josh Gad was among the protestors at Fox Entertainment's picket lines. Allison Janney, Kaitlyn Dever, Logan Lerman, and Joey King joined protests at Warner Bros., and actresses Constance Zimmer and Ginnifer Goodwin took part in picket lines at Paramount's Los Angeles studios. Disney's offices saw picket lines whose notable members included Mandy Moore, Michelle Monaghan, Raini Rodriguez|Raini and Rico Rodriguez (actor)|Rico Rodriguez, Danielle Fishel, and Ben Schwartz.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":0\">{{Cite web |last=Lang |first=Robert |date=July 17, 2023 |title=SAG-AFTRA Strike Photos: Actors Hit The Picket Lines Including Kevin Bacon, David Duchovny, Hilary Duff & Rosario Dawson |url=https://deadline.com/gallery/actors-strike-photos-picket-line-sag-aftra/ |url-status=live |archive-url=https://web.archive.org/web/20230714172702/https://deadline.com/gallery/actors-strike-photos-picket-line-sag-aftra/ |archive-date=July 14, 2023 |access-date=July 17, 2023 |website=Deadline |language=en-US}}</ref>",
+                      "url": "https://deadline.com/gallery/actors-strike-photos-picket-line-sag-aftra/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Earl |first=William |date=July 14, 2023 |title=SAG-AFTRA Strike Begins in New York and L.A. With Celebrities, Signs and Chants: 'Logan Roy Would Pay Us More' |url=https://variety.com/2023/film/news/sag-actors-strike-begins-1235670214/ |url-status=live |archive-url=https://web.archive.org/web/20230718041433/https://variety.com/2023/film/news/sag-actors-strike-begins-1235670214/ |archive-date=July 18, 2023 |access-date=July 17, 2023 |website=Variety |language=en-US}}</ref>",
+                      "url": "https://variety.com/2023/film/news/sag-actors-strike-begins-1235670214/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.1.s2",
+                  "text": "SAG-AFTRA's New York picketing action took place at Paramount's New York headquarters at 1515 Broadway and various offices of NBCUniversal, including Rockefeller Center. Jason Sudeikis joined the NBCUniversal picket lines, stating that actors would strike for \"as long as it takes\", as did Joe Pantoliano, the Naked Cowboy, Alex Edelman, and Sarah Sherman. Meanwhile, at Paramount's headquarters, picket lines included Michael Schur and Kevin Bacon.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last1=Isidore |first1=Chris |last2=Melas |first2=Chris |date=July 14, 2023 |title=Jason Sudeikis on the picket line: We'll strike 'as long as it takes' {{!}} CNN Business |url=https://www.cnn.com/2023/07/14/business/actors-strike-picket-lines/index.html |url-status=live |archive-url=https://web.archive.org/web/20230719023334/https://www.cnn.com/2023/07/14/business/actors-strike-picket-lines/index.html |archive-date=July 19, 2023 |access-date=July 17, 2023 |website=CNN |language=en}}</ref>",
+                      "url": "https://edition.cnn.com/2023/07/14/business/actors-strike-picket-lines/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":0\" /><ref>{{Cite web |date=July 17, 2023 |title='I'm here for the working class': Kevin Bacon joins actors protesting against Hollywood studios |url=https://ca.sports.yahoo.com/news/m-working-class-kevin-bacon-203354577.html |url-status=live |archive-url=https://web.archive.org/web/20230718041541/https://ca.sports.yahoo.com/news/m-working-class-kevin-bacon-203354577.html |archive-date=July 18, 2023 |access-date=July 17, 2023 |website=Yahoo Sports |language=en-CA}}</ref>",
+                      "url": "https://ca.sports.yahoo.com/news/m-working-class-kevin-bacon-203354577.html",
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Earl |first=William |title=SAG-AFTRA Strike Begins in New York and L.A. With Celebrities, Signs and Chants: 'Logan Roy Would Pay Us More' |url=https://variety.com/2023/tv/news/sag-actors-strike-begins-1235670214/ |url-status=live |access-date=July 14, 2023 |archive-url=https://web.archive.org/web/20230715015929/https://variety.com/2023/tv/news/sag-actors-strike-begins-1235670214/ |archive-date=July 15, 2023}}</ref>",
+                      "url": "https://variety.com/2023/tv/news/sag-actors-strike-begins-1235670214/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.1.s3",
+                  "text": "SAG-AFTRA also staged brief strikes at other locations outside of New York and Los Angeles. Branded as \"Quick Photo Op\" strikes, these took place in Orlando, Honolulu, and Atlanta. The union stated it plans to launch more protests across the country, requesting that SAG-AFTRA members contact their local executives for details.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Robb |first=David |date=July 17, 2023 |title=SAG-AFTRA Expands \"Quick Photo Op\" Strike Events To Orlando, Atlanta & Honolulu |url=https://www.yahoo.com/entertainment/sag-aftra-expands-quick-photo-175437146.html |url-status=live |archive-url=https://web.archive.org/web/20230718000958/https://www.yahoo.com/entertainment/sag-aftra-expands-quick-photo-175437146.html |archive-date=July 18, 2023 |access-date=July 17, 2023 |website=Yahoo! |language=en-US}}</ref>",
+                      "url": "https://www.yahoo.com/entertainment/sag-aftra-expands-quick-photo-175437146.html",
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Media executives' response",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "Before the end of SAG-AFTRA's negotiations, an unnamed AMPTP executive stated that their strategy was to \"allow things to drag on until union members [started] losing their apartments and losing their houses\" to force SAG-AFTRA into less favorable negotiating positions.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last=Wilkinson |first=Alissa |date=July 13, 2023 |title=Hollywood's historic double strike, explained |work=Vox.com |url=https://www.vox.com/culture/2023/7/13/23793828/sag-aftra-strike-wga-hollywood |url-status=live |access-date=July 15, 2023 |archive-url=https://web.archive.org/web/20230714033021/https://www.vox.com/culture/2023/7/13/23793828/sag-aftra-strike-wga-hollywood |archive-date=July 14, 2023}}</ref>",
+                      "url": "https://www.vox.com/culture/2023/7/13/23793828/sag-aftra-strike-wga-hollywood",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.2.s2",
+                  "text": "Casey Bloys, CEO of HBO and Max (streaming service)|Max, said that the strike would slow everything down, and predicted that it would heavily affect HBO's 2024 season.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"bloys\">{{Cite news |last=Wolinsky |first=David |date=July 12, 2023 |title=HBO Boss Predicts \"A Lot Of Pain For Everybody\" If Actors Join Writers On Strike |work=GameSpot |url=https://www.gamespot.com/articles/hbo-boss-predicts-a-lot-of-pain-for-everybody-if-actors-join-writers-on-strike/1100-6515929/ |url-status=live |access-date=September 1, 2023 |archive-url=https://web.archive.org/web/20230716013947/https://www.gamespot.com/articles/hbo-boss-predicts-a-lot-of-pain-for-everybody-if-actors-join-writers-on-strike/1100-6515929/ |archive-date=July 16, 2023}}</ref>",
+                      "url": "https://www.gamespot.com/articles/hbo-boss-predicts-a-lot-of-pain-for-everybody-if-actors-join-writers-on-strike/1100-6515929/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.2.s3",
+                  "text": "Bob Iger, CEO of The Walt Disney Company, said the actors' demands were \"not realistic\", adding they were \"adding to the set of challenges that this business is already facing\". Iger has been criticized for these remarks in light of his contract with Disney, which allows him to earn as much as $27 million in 2023 between his salary and bonuses. ''TheWrap'' wrote that Iger makes over 500 times the median salary of Disney employees, while ''Town & Country (magazine)|Town & Country'' wrote it was actually 1,242 times a Disney employee's median salary. Drescher described Iger's remarks as \"repugnant\" and \"tone deaf\", and the ''Wall Street Journal'' also called him \"tone deaf\". Actor Bryan Cranston also responded to Iger, saying: \"We will not be having our jobs taken away and given to robots.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Shafer |first=Ellise |date=July 13, 2023 |title=Disney CEO Bob Iger Says Writers and Actors Are Not Being 'Realistic' With Strikes: 'It's Very Disturbing to Me' |url=https://variety.com/2023/tv/news/bob-iger-writers-actors-strike-disney-ceo-1235669169/ |url-status=live |archive-url=https://web.archive.org/web/20230713172509/https://variety.com/2023/tv/news/bob-iger-writers-actors-strike-disney-ceo-1235669169/ |archive-date=July 13, 2023 |access-date=July 13, 2023 |website=Variety (magazine)|Variety}}</ref>",
+                      "url": "https://variety.com/2023/tv/news/bob-iger-writers-actors-strike-disney-ceo-1235669169/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Csathy |first=Peter |date=July 27, 2023 |title=No More Mr. Nice Guy: Bob Iger May Just Want to Sell Disney and Be Done |publisher=TheWrap |url=https://www.thewrap.com/bob-iger-disney-off-site-meeting-anxiety-tv-not-core/ |url-status=live |access-date=July 27, 2023 |archive-url=https://web.archive.org/web/20230727224320/https://www.thewrap.com/bob-iger-disney-off-site-meeting-anxiety-tv-not-core/ |archive-date=July 27, 2023}}</ref>",
+                      "url": "https://www.thewrap.com/bob-iger-disney-off-site-meeting-anxiety-tv-not-core/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Burack |first=Emily |date=July 26, 2023 |title=Abigail Disney Calls Out Disney CEO Bob Iger |publisher=Town & Country |url=https://www.townandcountrymag.com/society/money-and-power/a44649891/abigail-disney-calls-out-disney-ceo-bob-iger/ |url-status=live |access-date=July 27, 2023 |archive-url=https://web.archive.org/web/20230726153646/https://www.townandcountrymag.com/society/money-and-power/a44649891/abigail-disney-calls-out-disney-ceo-bob-iger/ |archive-date=July 26, 2023}}</ref>",
+                      "url": "https://www.townandcountrymag.com/society/money-and-power/a44649891/abigail-disney-calls-out-disney-ceo-bob-iger/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Sharf |first=Zack |date=July 14, 2023 |title=Fran Drescher Slams Bob Iger's 'Repugnant' and 'Tone Deaf' Strike Comments: If I Were Disney, 'I Would Lock Him Behind Doors' |url=https://variety.com/2023/film/news/fran-drescher-slams-bob-iger-sag-strike-comments-repugnant-1235670767/ |url-status=live |archive-url=https://web.archive.org/web/20230719061144/https://variety.com/2023/film/news/fran-drescher-slams-bob-iger-sag-strike-comments-repugnant-1235670767/ |archive-date=July 19, 2023 |access-date=July 16, 2023 |website=Variety}}</ref>",
+                      "url": "https://variety.com/2023/film/news/fran-drescher-slams-bob-iger-sag-strike-comments-repugnant-1235670767/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Masters |first=Kim |date=July 25, 2023 |title=Unpacking Bob Iger's Terrible, Horrible, No Good PR Week |work=The Hollywood Reporter |url=https://www.hollywoodreporter.com/business/business-news/unpacking-bob-igers-bad-pr-week-1235544279/ |url-status=live |access-date=July 26, 2023 |archive-url=https://web.archive.org/web/20230726005332/https://www.hollywoodreporter.com/business/business-news/unpacking-bob-igers-bad-pr-week-1235544279/ |archive-date=July 26, 2023}}</ref>",
+                      "url": "https://www.hollywoodreporter.com/business/business-news/unpacking-bob-igers-bad-pr-week-1235544279/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=July 25, 2023 |title=Bryan Cranston calls out Bob Iger at striking actors' rally |publisher=Reuters |url=https://www.reuters.com/business/media-telecom/bryan-cranston-calls-out-bob-iger-striking-actors-rally-2023-07-25/ |url-status=live |access-date=July 26, 2023 |archive-url=https://web.archive.org/web/20230726002511/https://www.reuters.com/business/media-telecom/bryan-cranston-calls-out-bob-iger-striking-actors-rally-2023-07-25/ |archive-date=July 26, 2023}}</ref>",
+                      "url": "https://www.reuters.com/business/media-telecom/bryan-cranston-calls-out-bob-iger-striking-actors-rally-2023-07-25/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Politicians' response",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.3.s1",
+                  "text": "U.S. President Joe Biden, Vermont U.S. senator Bernie Sanders, and Mayor of Los Angeles Karen Bass voiced their support for the actors' union. Biden had previously supported the writers on strike in May 2023. Some politicians joined the picket lines themselves, including Burbank, California|Burbank mayor Konstantine Anthony (himself a SAG-AFTRA member) and California U.S. Representative Adam Schiff. U.S. Representative Alexandria Ocasio-Cortez joined the picket line in front of Netflix studios in New York City. She criticized the wealth of studio executives while the average screenwriter or actor struggles to get access to healthcare, and she emphasized the power of direct action in achieving economic victories.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite magazine |last=Murphy |first=Chris |date=July 14, 2023 |title=President Biden, Bernie Sanders Support SAG Strike |url=https://www.vanityfair.com/hollywood/2023/07/president-biden-bernie-sanders-support-sag-strike |magazine=Vanity Fair |access-date=July 16, 2023 |archive-date=October 17, 2023 |archive-url=https://web.archive.org/web/20231017035002/https://www.vanityfair.com/hollywood/2023/07/president-biden-bernie-sanders-support-sag-strike |url-status=live }}</ref>",
+                      "url": "https://www.vanityfair.com/hollywood/2023/07/president-biden-bernie-sanders-support-sag-strike",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "magazine"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Johnson |first=Ted |date=July 17, 2023 |title=Los Angeles Mayor Karen Bass Issues New Statement On SAG-AFTRA And WGA Strikes With More Explicit Case For \"Fair And Equitable\" Contracts |url=https://deadline.com/2023/07/sag-aftra-strike-karen-bass-los-angeles-mayor-1235438482/ |url-status=live |archive-url=https://web.archive.org/web/20230717212144/https://deadline.com/2023/07/sag-aftra-strike-karen-bass-los-angeles-mayor-1235438482/ |archive-date=July 17, 2023 |access-date=July 21, 2023 |website=Deadline |language=en-US}}</ref>",
+                      "url": "https://deadline.com/2023/07/sag-aftra-strike-karen-bass-los-angeles-mayor-1235438482/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Whitten |first=Sarah |date=July 14, 2023 |title=Biden throws his support behind Hollywood actors' strike |url=https://www.cnbc.com/2023/07/14/biden-supports-hollywood-actors-strike.html |url-status=live |archive-url=https://web.archive.org/web/20230719061145/https://www.cnbc.com/2023/07/14/biden-supports-hollywood-actors-strike.html |archive-date=July 19, 2023 |access-date=July 16, 2023 |website=CNBC}}</ref>",
+                      "url": "https://www.cnbc.com/2023/07/14/biden-supports-hollywood-actors-strike.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Johnson |first=Ted |date=July 17, 2023 |title=Los Angeles Mayor Karen Bass Issues New Statement On SAG-AFTRA And WGA Strikes With More Explicit Case For \"Fair And Equitable\" Contracts |url=https://deadline.com/2023/07/sag-aftra-strike-karen-bass-los-angeles-mayor-1235438482/ |url-status=live |archive-url=https://web.archive.org/web/20230717212144/https://deadline.com/2023/07/sag-aftra-strike-karen-bass-los-angeles-mayor-1235438482/ |archive-date=July 17, 2023 |access-date=July 17, 2023 |website=Deadline |language=en-US}}</ref>",
+                      "url": "https://deadline.com/2023/07/sag-aftra-strike-karen-bass-los-angeles-mayor-1235438482/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Patel |first1=Jaysha |last2=Hayes |first2=Rob |date=July 17, 2023 |title=Adam Schiff, Michael Rapaport join SAG-AFTRA picket lines as 1st full week of strike begins |url=https://abc7.com/hollywood-strike-sag-aftra-actors-wga/13515206/ |url-status=live |archive-url=https://web.archive.org/web/20230718041329/https://abc7.com/hollywood-strike-sag-aftra-actors-wga/13515206/ |archive-date=July 18, 2023 |access-date=July 17, 2023 |website=ABC7 Los Angeles |language=en}}</ref>",
+                      "url": "https://abc7.com/hollywood-strike-sag-aftra-actors-wga/13515206/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Kilkenny |first1=Katie |last2=Goldberg |first2=Lesley |date=July 14, 2023 |title=Burbank Mayor Takes Aim At Hollywood CEOs Amid Actors Strike: \"We Need to Keep the Money Here\" |url=https://www.hollywoodreporter.com/business/business-news/burbanks-mayor-actors-strike-economic-impact-1235536723/ |url-status=live |archive-url=https://web.archive.org/web/20230718041229/https://www.hollywoodreporter.com/business/business-news/burbanks-mayor-actors-strike-economic-impact-1235536723/ |archive-date=July 18, 2023 |access-date=July 17, 2023 |website=The Hollywood Reporter |language=en-US}}</ref>",
+                      "url": "https://www.hollywoodreporter.com/business/business-news/burbanks-mayor-actors-strike-economic-impact-1235536723/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Sainato |first=Michael |date=July 24, 2023 |title=AOC joins Hollywood picket line in New York: 'Solidarity is stronger than greed' Liberal congresswoman criticizes the wealth of studio executives as new contract negotiations remain at loggerheads |work=Guardian US |url=https://www.theguardian.com/us-news/2023/jul/24/aoc-hollywood-strike-new-york |url-status=live |access-date=July 25, 2023 |archive-url=https://web.archive.org/web/20230724235213/https://www.theguardian.com/us-news/2023/jul/24/aoc-hollywood-strike-new-york |archive-date=July 24, 2023}}</ref>",
+                      "url": "https://www.theguardian.com/us-news/2023/jul/24/aoc-hollywood-strike-new-york",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.3.s2",
+                  "text": "Both Bass and Governor of California Gavin Newsom offered to help mediation|mediate an end to the strikes.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"bass\">{{Cite web |last=Johnson |first=Ted |date=August 4, 2023 |title=Los Angeles Mayor Karen Bass Says She's Ready To \"Personally Engage\" To Resolve Strikes, Calls WGA-AMPTP Meeting An \"Encouraging Development\" |url=https://deadline.com/2023/08/actors-strike-los-angeles-mayor-karen-bass-sag-aftra-wga-1235455321/ |url-status=live |archive-url=https://web.archive.org/web/20230807032418/https://deadline.com/2023/08/actors-strike-los-angeles-mayor-karen-bass-sag-aftra-wga-1235455321/ |archive-date=August 7, 2023 |access-date=August 7, 2023 |publisher=Deadline Hollywood}}</ref>",
+                      "url": "https://deadline.com/2023/08/actors-strike-los-angeles-mayor-karen-bass-sag-aftra-wga-1235455321/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"new\">{{Cite web |last=Beam |first=Adam |date=July 26, 2023 |title=California Gov. Gavin Newsom offers to help negotiate Hollywood strike |url=https://apnews.com/article/california-governor-gavin-newsom-hollywood-strike-df976d34120393b7e1f8be14c874c871 |url-status=live |archive-url=https://web.archive.org/web/20230811144611/https://apnews.com/article/california-governor-gavin-newsom-hollywood-strike-df976d34120393b7e1f8be14c874c871 |archive-date=August 11, 2023 |access-date=August 7, 2023 |publisher=Associated Press}}</ref>",
+                      "url": "https://apnews.com/article/california-governor-gavin-newsom-hollywood-strike-df976d34120393b7e1f8be14c874c871",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.4",
+          "title": "Other unions' response",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.4.s1",
+                  "text": "Numerous other labor unions in the United States expressed support for the strike. Along with the Writers' Guild, statements of support were released by the Directors Guild of America|Directors Guild and Producers Guild of America|Producers Guild. The International Brotherhood of Teamsters, which was itself in a contractual dispute with United Parcel Service|UPS at the time and was scheduled to go on strike at the end of July unless an agreement was reached, expressed support through a statement released by their president, Sean O'Brien (labor leader)|Sean O'Brien. The AFL–CIO additionally threw their support behind SAG-AFTRA, as did the Department for Professional Employees, AFL–CIO|Department for Professional Employees, the International Alliance of Theatrical Stage Employees, and the Writers Guild of America, East.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Cypress |first=K. C. |date=July 19, 2023 |title=UPS Bows to Teamster Pressure, Negotiations to Resume Next Week |url=https://teamster.org/2023/07/ups-bows-to-teamster-pressure-negotiations-to-resume-next-week/ |url-status=live |archive-url=https://web.archive.org/web/20230814182205/https://teamster.org/2023/07/ups-bows-to-teamster-pressure-negotiations-to-resume-next-week/ |archive-date=August 14, 2023 |access-date=August 14, 2023 |website=International Brotherhood of Teamsters |language=en}}</ref>",
+                      "url": "https://teamster.org/2023/07/ups-bows-to-teamster-pressure-negotiations-to-resume-next-week/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Moskowitz |first=Daniel |date=July 13, 2023 |title=Teamsters Statement on SAG-AFTRA Strike |url=https://teamster.org/2023/07/teamsters-statement-on-sag-aftra-strike/ |url-status=live |archive-url=https://web.archive.org/web/20230814182205/https://teamster.org/2023/07/teamsters-statement-on-sag-aftra-strike/ |archive-date=August 14, 2023 |access-date=August 14, 2023 |website=International Brotherhood of Teamsters |language=en}}</ref>",
+                      "url": "https://teamster.org/2023/07/teamsters-statement-on-sag-aftra-strike/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=July 13, 2023 |title=DPE Stands in Solidarity with SAG-AFTRA Members Going on Strike |url=https://www.dpeaflcio.org/press-releases/dpe-stands-in-solidarity-with-sag-aftra-members-on-strike |url-status=live |archive-url=https://web.archive.org/web/20230718041102/https://www.dpeaflcio.org/press-releases/dpe-stands-in-solidarity-with-sag-aftra-members-on-strike |archive-date=July 18, 2023 |access-date=July 17, 2023 |website=Department for Professional Employees, AFL-CIO |language=en-US}}</ref>",
+                      "url": "https://www.dpeaflcio.org/press-releases/dpe-stands-in-solidarity-with-sag-aftra-members-on-strike",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=July 12, 2023 |title=Teamsters, IATSE, Writers Guild, DGA Issue Joint Statement in Solidarity with SAG-AFTRA |url=https://iatse.net/teamsters-iatse-writers-guild-dga-issue-joint-statement-in-solidarity-with-sag-aftra/ |url-status=live |archive-url=https://web.archive.org/web/20230718040913/https://iatse.net/teamsters-iatse-writers-guild-dga-issue-joint-statement-in-solidarity-with-sag-aftra/ |archive-date=July 18, 2023 |access-date=July 17, 2023 |website=IATSE |language=en-US}}</ref>",
+                      "url": "https://iatse.net/teamsters-iatse-writers-guild-dga-issue-joint-statement-in-solidarity-with-sag-aftra/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=July 14, 2023 |title=SAG-AFTRA Members on Strike Deserve a Fair Contract |url=https://aflcio.org/press/releases/sag-aftra-members-strike-deserve-fair-contract |url-status=live |archive-url=https://web.archive.org/web/20230718040826/https://aflcio.org/press/releases/sag-aftra-members-strike-deserve-fair-contract |archive-date=July 18, 2023 |access-date=July 17, 2023 |website=aflcio.org |language=en}}</ref>",
+                      "url": "https://aflcio.org/press/releases/sag-aftra-members-strike-deserve-fair-contract",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.5",
+          "title": "Other organizations' response",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.5.s1",
+                  "text": "Two forthcoming film festivals, the Toronto International Film Festival and the Venice International Film Festival, acknowledged the potential impact of the strike and its associated ban on promotional appearances by actors if the strike was not resolved by September but indicated that both events would proceed regardless, with an increase of Canadian, European, Asian, and South American titles in all sections being expected. However, leaders of SAG-AFTRA had been adamant that actors in movies with interim agreements should be at festivals to promote them.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Ransome |first=Noel |date=July 18, 2023 |title=A starless red carpet? TIFF attendees say festival enthusiasm waning due to strikes |url=https://www.thestar.com/entertainment/a-starless-red-carpet-tiff-attendees-say-festival-enthusiasm-waning-due-to-strikes/article_a4fc8544-2644-5956-80db-87f8a954ee94.html |url-status=live |archive-url=https://archive.today/20230721152141/https://www.thestar.com/entertainment/a-starless-red-carpet-tiff-attendees-say-festival-enthusiasm-waning-due-to-strikes/article_a4fc8544-2644-5956-80db-87f8a954ee94.html |archive-date=July 21, 2023 |access-date=July 21, 2023 |website=Toronto Star |language=en}}</ref>",
+                      "url": "https://www.thestar.com/entertainment/a-starless-red-carpet-tiff-attendees-say-festival-enthusiasm-waning-due-to-strikes/article_a4fc8544-2644-5956-80db-87f8a954ee94.html",
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Mouriquand |first=David |date=July 18, 2023 |title=Venice Film Festival preparing Plan B if Hollywood strikes continue |url=https://www.euronews.com/culture/2023/07/18/venice-preparing-pan-european-festival-amid-potential-hollywood-strike-impact-on-fall-fest |url-status=live |archive-url=https://web.archive.org/web/20230725102516/https://www.euronews.com/culture/2023/07/18/venice-preparing-pan-european-festival-amid-potential-hollywood-strike-impact-on-fall-fest |archive-date=July 25, 2023 |access-date=July 20, 2023 |website=Euronews |language=en}}</ref>",
+                      "url": "https://www.euronews.com/culture/2023/07/18/venice-preparing-pan-european-festival-amid-potential-hollywood-strike-impact-on-fall-fest",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Robb |first=David |date=August 25, 2023 |title=SAG-AFTRA Tells Members It's OK To Promote Their Movies With Interim Agreements At Film Festivals |url=https://deadline.com/2023/08/sag-aftra-interim-agreements-festivals-1235527733/ |url-status=live |archive-url=https://web.archive.org/web/20230827012651/https://deadline.com/2023/08/sag-aftra-interim-agreements-festivals-1235527733/ |archive-date=August 27, 2023 |access-date=August 27, 2023 |website=Deadline Hollywood |language=en-US}}</ref>",
+                      "url": "https://deadline.com/2023/08/sag-aftra-interim-agreements-festivals-1235527733/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.6",
+          "title": "Impact",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.6.s1",
+                  "text": "{{Main|List of productions impacted by the 2023 SAG-AFTRA strike}}\nOn October 30, 2023, the ''Hunger Games (franchise)|Hunger Games'' prequel film ''The Hunger Games: The Ballad of Songbirds & Snakes'' was given an interim agreement so that actors could promote the film during the strike. However, a List of productions impacted by the 2023 SAG-AFTRA strike|large number of productions were suspended or had their release date delayed because of the strike.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web|url=https://www.hollywoodreporter.com/movies/movie-news/hunger-games-prequel-sag-aftra-interim-agreement-1235632637/|title='Hunger Games' Prequel Nabs SAG-AFTRA Interim Agreement|first=Ryan|last=Gajewski|work=The Hollywood Reporter|date=October 30, 2023|accessdate=October 30, 2023|archive-date=December 7, 2023|archive-url=https://web.archive.org/web/20231207113428/https://www.hollywoodreporter.com/movies/movie-news/hunger-games-prequel-sag-aftra-interim-agreement-1235632637/|url-status=live}}</ref>",
+                      "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-prequel-sag-aftra-interim-agreement-1235632637/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.6.s2",
+                  "text": "The Australian film industry was affected by the strike, although wholly local film and TV productions, even those engaging SAG members, could continue. Cast and crew working on series and films funded from the US were stood down during the strike, but Australian-scripted productions using Australian and SAG members would not be affected by the strike order \"if they were engaged under Australian industry contracts agreed to by SAG-AFTRA and the Media, Entertainment and Arts Alliance|MEAA\". Screen Producers Australia supported the strike, but said that its members would not be supported if they withheld their labour. ''Mortal Kombat 2'' and ''Apples Never Fall'' were temporarily suspended. The strike had a negative effect on foreign productions shot in Australia, after a recent increase which was worth AUD$1.22B ($780M).",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web | last=Frater | first=Patrick | title=Australian Guild Says Fully Local Productions Are Unaffected by SAG-AFTRA Strike | website=Variety (magazine)|Variety | date=14 July 2023 | url=https://variety.com/2023/film/news/sag-strike-international-local-productions-1235670384/ | access-date=24 August 2024}}</ref>",
+                      "url": "https://variety.com/2023/film/news/sag-strike-international-local-productions-1235670384/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web | last=Burke | first=Kelly | title=Hollywood actors strike: hundreds of Australian film and TV workers to be stood down | website=The Guardian | date=14 July 2023 | url=https://www.theguardian.com/culture/2023/jul/14/hollywood-actors-strike-australian-film-tv-workers-stood-down | access-date=24 August 2024}}</ref>",
+                      "url": "https://www.theguardian.com/culture/2023/jul/14/hollywood-actors-strike-australian-film-tv-workers-stood-down",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web | last=Whittock | first=Jesse | title=Screen Producers Australia Predicts U.S. Strikes Will Hit Drama Investment Figures Next Year & Bemoans $260M Drop In Local Stories Spend | website=Deadline | date=2 November 2023 | url=https://deadline.com/2023/11/screen-producers-australia-writers-strike-actors-strike-drama-spend-fall-1235590684/ | access-date=24 August 2024}}</ref>",
+                      "url": "https://deadline.com/2023/11/screen-producers-australia-writers-strike-actors-strike-drama-spend-fall-1235590684/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.6.s3",
+                  "text": "On August 15, 2023, Lucasfilm announced that it would be shutting down its Lucasfilm Animation#Lucasfilm Animation Singapore|Singapore operations. Disney explained that the shutdown was due to economic factors, with the SAG-AFTRA strike in the United States affecting the industry's work.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=Lucasfilm to shut Singapore operations, affecting more than 300 employees |url=https://www.channelnewsasia.com/singapore/lucasfilm-shut-operations-singapore-studio-animation-visual-effects-disney-3700061 |url-status=live |archive-url=https://web.archive.org/web/20230816091254/https://www.channelnewsasia.com/singapore/lucasfilm-shut-operations-singapore-studio-animation-visual-effects-disney-3700061 |archive-date=August 16, 2023 |access-date=August 15, 2023 |website=CNA |language=en}}</ref>",
+                      "url": "https://www.channelnewsasia.com/singapore/lucasfilm-shut-operations-singapore-studio-animation-visual-effects-disney-3700061",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.6.s4",
+                  "text": "According to ''Deadline Hollywood'', the \"harshest pain\" was \"perhaps felt among the below-the-line workers who've had to sell or mortgage their homes, and wipe through IRAs to survive.\"",
+                  "references": [
+                    {
+                      "text": "<ref name=\"oct30\">{{cite web |last1=Patten |first1=Dominic |last2=D'Alessandro |first2=Anthony |date=October 31, 2023 |title=No Trick, No Treat: SAG-AFTRA & AMPTP End Talks For Day, Will Resume Wednesday |url=https://deadline.com/2023/10/actors-strike-talks-continue-1235588705/ |accessdate=October 31, 2023 |work=Deadline |archive-date=May 27, 2024 |archive-url=https://web.archive.org/web/20240527184922/https://deadline.com/2023/10/actors-strike-talks-continue-1235588705/ |url-status=live }}</ref>",
+                      "url": "https://deadline.com/2023/10/actors-strike-talks-continue-1235588705/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "{{Main|2024 SAG-AFTRA video game strike}}\nOn July 26, 2024, SAG-AFTRA began a 2024 SAG-AFTRA video game strike|strike against video game developers for similar reasons related to AI use. The strike was initiated based on the authorization that was approved in September 2023.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|url=https://apnews.com/article/sagaftra-video-game-performers-ai-strike-4f4c7d846040c24553dbc2604e5b6034|title=Video game performers will go on strike over artificial intelligence concerns|first=Sarah|last=Parvini|publisher=Associated Press|date=July 26, 2024|accessdate=July 26, 2024|archive-date=July 25, 2024|archive-url=https://web.archive.org/web/20240725232247/https://apnews.com/article/sagaftra-video-game-performers-ai-strike-4f4c7d846040c24553dbc2604e5b6034|url-status=live}}</ref>",
+                  "url": "https://apnews.com/article/sagaftra-video-game-performers-ai-strike-4f4c7d846040c24553dbc2604e5b6034",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|url=https://www.wsbtv.com/news/local/atlanta/video-game-voice-actor-members-sag-aftra-go-strike-over-lack-ai-protections-union/KJROSWJI75BG5AKQEXPK3K25DE/|title=Video game voice actor members of SAG-AFTRA go on strike over lack of AI protections for union|publisher=WSB-TV|date=July 26, 2024|accessdate=July 26, 2024}}</ref>",
+                  "url": "https://www.wsbtv.com/unavailable-location/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Notes",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "External links",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

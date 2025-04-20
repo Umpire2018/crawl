@@ -14,56 +14,56 @@
                 {
                   "text": "<ref name=\"auto1\">{{Cite web |last1=Troianovski |first1=Anton |last2=Nechepurenko |first2=Ivan |date=23 June 2024 |title=Gunmen Attack Synagogues and Churches in Russian Republic |url=https://www.nytimes.com/2024/06/23/world/europe/russia-attack-dagestan.html |url-status=live |archive-url=https://web.archive.org/web/20240624090906/https://www.nytimes.com/2024/06/23/world/europe/russia-attack-dagestan.html |archive-date=24 June 2024 |access-date=24 June 2024 |work=The New York Times}}</ref>",
                   "url": "https://www.nytimes.com/2024/06/23/world/europe/russia-attack-dagestan.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"CNN\" /> Two synagogues, two Eastern Orthodoxy|Eastern Orthodox Church (building)|churches, and a traffic police post were attacked simultaneously<ref name=\":0\">{{Cite web |date=2024-06-23 |title=В Дербенте неизвестные обстреляли синагогу и церковь |url=https://www.rbc.ru/society/23/06/2024/6678445c9a794781777cad91 |url-status=live |archive-url=https://web.archive.org/web/20240624132018/https://www.rbc.ru/society/23/06/2024/6678445c9a794781777cad91 |archive-date=24 June 2024 |access-date=2024-06-23 |website=РБК |language=ru}}</ref>",
                   "url": "https://www.rbc.ru/society/23/06/2024/6678445c9a794781777cad91",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-06-23 |title=Неизвестные открыли стрельбу по синагоге в Дербенте, погиб полицейский |url=https://life.ru/p/1667832 |url-status=live |archive-url=https://web.archive.org/web/20240623214743/https://life.ru/p/1667832 |archive-date=23 June 2024 |access-date=2024-06-23 |website=Life.ru |language=ru}}</ref>",
                   "url": "https://life.ru/p/1667832",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Dagestan: Deadly attacks on churches and synagogue in southern Russia |url=https://www.bbc.com/news/articles/crgggwg158do |url-status=live |archive-url=https://web.archive.org/web/20240625041024/https://www.bbc.com/news/articles/crgggwg158do |archive-date=25 June 2024 |access-date=2024-06-24 |publisher=BBC News |language=en-GB}}</ref>",
                   "url": "https://www.bbc.com/news/articles/crgggwg158do",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"mt22\">{{Cite web |date=1 July 2024 |title=Dagestan Church and Synagogue Attack Toll Hits 22 |url=https://www.themoscowtimes.com/2024/07/01/dagestan-church-and-synagogue-attack-toll-hits-22-a85576 |access-date=1 July 2024 |website=The Moscow Times |language=en }}</ref>",
                   "url": "https://www.themoscowtimes.com/2024/07/01/dagestan-church-and-synagogue-attack-toll-hits-22-a85576",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":13\">{{Cite web |date=2024-06-25 |title=Death toll from attack in Russia's Dagestan reaches 21 |url=https://apnews.com/article/dagestan-militant-attacks-russia-derbent-makhachkala-caucasus-fb737dddf2d26fe1201b9639aa2d5c6c |access-date=2024-06-26 |website=AP News |language=en |archive-date=26 June 2024 |archive-url=https://web.archive.org/web/20240626172033/https://apnews.com/article/dagestan-militant-attacks-russia-derbent-makhachkala-caucasus-fb737dddf2d26fe1201b9639aa2d5c6c |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/dagestan-militant-attacks-russia-derbent-makhachkala-caucasus-fb737dddf2d26fe1201b9639aa2d5c6c",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"apnews\">{{cite news |title=Gunmen kill 15 police officers and several civilians in Russia's southern Dagestan region |url=https://apnews.com/article/dagestan-militant-attack-churches-synagogue-police-d4ceba71308ab75b28e128991776b2b5 |access-date=24 June 2024 |publisher=AP News |date=24 June 2024 |language=en |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624075040/https://apnews.com/article/dagestan-militant-attack-churches-synagogue-police-d4ceba71308ab75b28e128991776b2b5 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/dagestan-militant-attack-churches-synagogue-police-d4ceba71308ab75b28e128991776b2b5",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-06-24 |title=Orthodox priest, multiple police killed in terrorist attack in Russia's Dagestan |url=https://www.euractiv.com/section/global-europe/news/orthodox-priest-multiple-police-killed-in-terrorist-attack-in-russias-dagestan/ |access-date=2024-06-24 |website=euractiv.com |language=en-GB |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624073422/https://www.euractiv.com/section/global-europe/news/orthodox-priest-multiple-police-killed-in-terrorist-attack-in-russias-dagestan/ |url-status=live }}</ref>",
-                  "url": "https://www.euractiv.com/section/global-europe/news/orthodox-priest-multiple-police-killed-in-terrorist-attack-in-russias-dagestan/",
-                  "status_code": null,
+                  "url": "https://www.euractiv.com/section/defence/news/orthodox-priest-multiple-police-killed-in-terrorist-attack-in-russias-dagestan/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -76,28 +76,28 @@
                 {
                   "text": "<ref name=\"auto9\">{{Cite news|url=https://www.nytimes.com/2024/06/24/world/europe/russia-attack-dagestan.html|title=Deadly Attack Revives Fears of the Return of Mass Terror in Russia|first1=Anatoly|last1=Kurmanaev|first2=Ivan|last2=Nechepurenko |work=The New York Times |date=24 June 2024 |access-date=24 June 2024|archive-date=24 June 2024|archive-url=https://web.archive.org/web/20240624105441/https://www.nytimes.com/2024/06/24/world/europe/russia-attack-dagestan.html|url-status=live}}</ref>",
                   "url": "https://www.nytimes.com/2024/06/24/world/europe/russia-attack-dagestan.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\":3\" /><ref name=\":4\">{{Cite web |date=2024-06-24 |title=Dagestani official sacked after sons implicated in Sunday's deadly attacks |url=https://www.politico.eu/article/death-toll-rises-in-attacks-on-religious-sites-russia-dagestan-region-official-sacked/ |url-status=live |archive-url=https://web.archive.org/web/20240625051919/https://www.politico.eu/article/death-toll-rises-in-attacks-on-religious-sites-russia-dagestan-region-official-sacked/ |archive-date=25 June 2024 |access-date=2024-06-24 |website=POLITICO |language=en-GB}}</ref>",
                   "url": "https://www.politico.eu/article/death-toll-rises-in-attacks-on-religious-sites-russia-dagestan-region-official-sacked/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"bbc1\"/> Omarov later submitted a resignation letter and was detained for questioning.<ref name=\":5\">{{Cite web |date=2024-06-23 |title=В Дагестане задержали главу района — отца двух предполагаемых боевиков |url=https://www.rbc.ru/society/23/06/2024/66786dfc9a7947827f989a05 |url-status=live |archive-url=https://web.archive.org/web/20240624055229/https://www.rbc.ru/society/23/06/2024/66786dfc9a7947827f989a05 |archive-date=24 June 2024 |access-date=2024-06-24 |website=РБК |language=ru}}</ref>",
                   "url": "https://www.rbc.ru/society/23/06/2024/66786dfc9a7947827f989a05",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":6\">{{cite news |date=24 June 2024 |title='Справедливая Россия' исключила из партии ликвидированного в Дагестане боевика |trans-title={{\"'}}A Just Russia' expels perpetrator of Dagestan attack from party\" |url=https://tass.ru/politika/21184453 |access-date=24 June 2024 |publisher=TASS |language=ru}}</ref>",
                   "url": "https://tass.ru/politika/21184453",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -110,14 +110,14 @@
                 {
                   "text": "<ref name=\":7\" /><ref name=\":8\">{{Cite web |date=24 June 2024 |title=Operation against Dagestan attackers over: Russian anti-terror agency |url=https://english.alarabiya.net/News/world/2024/06/24/operation-against-dagestan-attackers-over-russian-anti-terror-agency- |url-status=live |archive-url=https://web.archive.org/web/20240624090118/https://english.alarabiya.net/News/world/2024/06/24/operation-against-dagestan-attackers-over-russian-anti-terror-agency- |archive-date=24 June 2024 |access-date=24 June 2024 |website=Alarabiya news}}</ref>",
                   "url": "https://english.alarabiya.net/News/world/2024/06/24/operation-against-dagestan-attackers-over-russian-anti-terror-agency-",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":9\">{{cite news |date=24 June 2024 |title=Власти Дагестана объявили трехдневный траур в связи с терактами |trans-title=Government of Dagestan announces three-day mourning period in association with terrorist attacks |url=https://www.interfax.ru/russia/967758 |url-status=live |archive-url=https://web.archive.org/web/20240625052725/https://www.interfax.ru/InfiniteItem.asp?id=967933 |archive-date=25 June 2024 |access-date=24 June 2024 |publisher=Interfax |lang=ru}}</ref>",
                   "url": "https://www.interfax.ru/russia/967758",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -141,26 +141,26 @@
                   "text": "<ref name=\"background1\">{{cite news |last1=Abbakumova |first1=Natalia |last2=Westfall |first2=Sammy |title=Gunmen kill 9 in attacks on synagogue, Orthodox church in Russia's Dagestan |url=https://www.washingtonpost.com/world/2024/06/23/russia-attack-church-synagogue-dagestan/ |access-date=24 June 2024 |work=The New York Times |date=24 June 2024 |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624001852/https://www.washingtonpost.com/world/2024/06/23/russia-attack-church-synagogue-dagestan/ |url-status=live }}</ref>",
                   "url": "https://www.washingtonpost.com/world/2024/06/23/russia-attack-church-synagogue-dagestan/",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"auto2\">{{Cite web|url=https://www.barrons.com/news/gunmen-kill-police-a-priest-in-russia-s-dagestan-b4546dc0|title=Gunmen In Russia's Dagestan Kill Police And Priest In 'Terror' Attack|first=AFP-Agence France|last=Presse|website=Barrons|access-date=24 June 2024|archive-date=25 June 2024|archive-url=https://web.archive.org/web/20240625041001/https://www.barrons.com/news/gunmen-kill-police-a-priest-in-russia-s-dagestan-b4546dc0|url-status=live}}</ref>",
                   "url": "https://www.barrons.com/news/gunmen-kill-police-a-priest-in-russia-s-dagestan-b4546dc0",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
             },
             {
               "id": "2.s2",
-              "text": "The History of the Jews in Derbent|Jewish community of Derbent, a part of the Jewish diaspora known as the Mountain Jews, dates back to the 6th century, when Persian Jews (who had emigrated to Persia after the destruction of the First Temple in Jerusalem) settled in Derbent along the Silk Road trade route. Since the outbreak of the Israel–Hamas war in October 2023, History of the Jews in Russia|Russia's Jewish community has faced increasing threats of violence.  On 28 and 29 October of the same year, 2023 antisemitic riots in the North Caucasus|antisemitic riots broke out in the Muslim-majority regions of the Northern Caucasus, including in Dagestan.",
+              "text": "The History of the Jews in Derbent|Jewish community of Derbent, a part of the Jewish diaspora known as the Mountain Jews, dates back to the 6th century, when Persian Jews (who had emigrated to Persia after the destruction of the First Temple in Jerusalem) settled in Derbent along the Silk Road trade route. Since the outbreak of the Gaza war in October 2023, History of the Jews in Russia|Russia's Jewish community has faced increasing threats of violence.  On 28 and 29 October of the same year, 2023 antisemitic riots in the North Caucasus|antisemitic riots broke out in the Muslim-majority regions of the Northern Caucasus, including in Dagestan.",
               "references": [
                 {
                   "text": "<ref>{{Cite web|url=https://mishpacha.com/the-last-shtetl/|title=The Last Shtetl – Mishpacha Magazine|first=Cindy|last=Scarr|date=2 January 2024|access-date=24 June 2024|archive-date=24 March 2024|archive-url=https://web.archive.org/web/20240324163218/https://mishpacha.com/the-last-shtetl/|url-status=live}}</ref>",
                   "url": "https://mishpacha.com/the-last-shtetl/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -174,7 +174,7 @@
                 {
                   "text": "<ref name=\"auto12\">{{Cite web|url=https://www.jta.org/2024/06/24/global/synagogues-in-dagestan-russia-targeted-alongside-churches-in-terror-attack|title=Synagogues in Dagestan, Russia, targeted alongside churches in terror attack|first=Philissa|last=Cramer|date=24 June 2024|access-date=24 June 2024|archive-date=24 June 2024|archive-url=https://web.archive.org/web/20240624102304/https://www.jta.org/2024/06/24/global/synagogues-in-dagestan-russia-targeted-alongside-churches-in-terror-attack|url-status=live}}</ref>",
                   "url": "https://www.jta.org/2024/06/24/global/synagogues-in-dagestan-russia-targeted-alongside-churches-in-terror-attack",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -182,14 +182,14 @@
                   "text": "<ref>{{Cite web|url=https://www.haaretz.com/world-news/europe/2024-06-24/ty-article/after-attack-exiled-chief-rabbi-says-russia-neglects-terror-threat-in-favor-of-repression/00000190-4ab8-dafc-adb4-7bf94da60000|title=Exiled Chief Rabbi Says Putin's Russia Neglects Terror Threat by Focusing on Repression After Dagestan Attack - Europe - Haaretz.com|access-date=24 June 2024|archive-date=25 June 2024|archive-url=https://web.archive.org/web/20240625052202/https://www.haaretz.com/world-news/europe/2024-06-24/ty-article/after-attack-exiled-chief-rabbi-says-russia-neglects-terror-threat-in-favor-of-repression/00000190-4ab8-dafc-adb4-7bf94da60000|url-status=live}}</ref>",
                   "url": "https://www.haaretz.com/world-news/europe/2024-06-24/ty-article/after-attack-exiled-chief-rabbi-says-russia-neglects-terror-threat-in-favor-of-repression/00000190-4ab8-dafc-adb4-7bf94da60000",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://ca.news.yahoo.com/russia-seen-two-major-terror-090953207.html|title=Russia has seen two major terror attacks in just three months. Here's what we know|date=24 June 2024|website=Yahoo News|access-date=24 June 2024|archive-date=25 June 2024|archive-url=https://web.archive.org/web/20240625051918/https://ca.news.yahoo.com/russia-seen-two-major-terror-090953207.html|url-status=live}}</ref>",
                   "url": "https://ca.news.yahoo.com/russia-seen-two-major-terror-090953207.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
                   "type": "web"
                 }
               ]
@@ -201,14 +201,14 @@
                 {
                   "text": "<ref>{{Cite web|url=https://www.independent.co.uk/news/world/europe/dagestan-news-attack-russia-gunmen-b2567439.html|title=Three dead after gunmen open fire in attacks in Dagestan in Russia|date=23 June 2024|website=The Independent|access-date=24 June 2024|archive-date=25 June 2024|archive-url=https://web.archive.org/web/20240625051919/https://www.independent.co.uk/news/world/europe/dagestan-news-attack-russia-gunmen-b2567439.html|url-status=live}}</ref>",
                   "url": "https://www.independent.co.uk/news/world/europe/dagestan-news-attack-russia-gunmen-b2567439.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 405,
+                  "reason": "Not allowed.",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"Belam-2024\">{{cite news |last=Belam |first=Martin |date=23 March 2024 |title=Moscow concert hall attack: Putin tells Russians Ukraine linked to attack which killed 115, claims denied by Kyiv officials – live updates |url=https://www.theguardian.com/world/live/2024/mar/23/moscow-concert-attack-crocus-city-hall-shooting-russia-live-updates |url-status=live |archive-url=https://web.archive.org/web/20240323093345/https://www.theguardian.com/world/live/2024/mar/23/moscow-concert-attack-crocus-city-hall-shooting-russia-live-updates |archive-date=23 March 2024 |access-date=23 March 2024 |work=the Guardian |issn=0261-3077}}</ref>",
                   "url": "https://www.theguardian.com/world/live/2024/mar/23/moscow-concert-attack-crocus-city-hall-shooting-russia-live-updates",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -235,28 +235,28 @@
                     {
                       "text": "<ref name=\"auto8\">{{Cite web|url=https://www.aljazeera.com/news/2024/6/24/terror-attack-on-synagogue-churches-in-russias-dagestan-what-we-know|title='Terror attack' on synagogue, churches in Russia's Dagestan: What we know|website=Al Jazeera|access-date=24 June 2024|archive-date=24 June 2024|archive-url=https://web.archive.org/web/20240624172401/https://www.aljazeera.com/news/2024/6/24/terror-attack-on-synagogue-churches-in-russias-dagestan-what-we-know|url-status=live}}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/6/24/terror-attack-on-synagogue-churches-in-russias-dagestan-what-we-know",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"auto6\">{{Cite web|url=https://www.reuters.com/world/europe/russias-dagestan-mourns-priest-police-killed-attack-by-gunmen-2024-06-24/|title=Death toll rises to 20 after gunmen attack Russia's Dagestan |website=Reuters }}</ref>",
                       "url": "https://www.reuters.com/world/europe/russias-dagestan-mourns-priest-police-killed-attack-by-gunmen-2024-06-24/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"auto7\">{{Cite web|url=https://www.cbs19news.com/story/50944789/russian-region-of-dagestan-holds-a-day-of-mourning-after-attacks-kill-20-people-officials-say|title=Russian region of Dagestan holds a day of mourning after attacks kill 20 people, officials say|website=cbs19news.com|date=24 June 2024 |access-date=24 June 2024|archive-date=25 June 2024|archive-url=https://web.archive.org/web/20240625040956/https://www.cbs19news.com/story/50944789/russian-region-of-dagestan-holds-a-day-of-mourning-after-attacks-kill-20-people-officials-say|url-status=live}}</ref>",
                       "url": "https://www.cbs19news.com/story/50944789/russian-region-of-dagestan-holds-a-day-of-mourning-after-attacks-kill-20-people-officials-say",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"CNN\"/><ref name=\"auto1\"/><ref name=\"auto9\"/> The attackers reportedly broke into the church shortly after its holiday Sunday evening service; other clergy at the church managed to lock themselves in safely, and were later rescued.<ref name=\"auto\" /> The church's security guard, armed only with a non-lethal gas pistol, was shot and killed by the attackers.<ref name=\":1\" /><ref>{{Cite web |author1=Jen Deaton |author2=Darya Tarasova |date=2024-06-23 |title=Priest and police officer killed in attacks on synagogue and church in Russia's Dagestan |url=https://www.cnn.com/2024/06/23/europe/dagestan-synagogue-attack-russia-intl-latam/index.html |url-status=live |archive-url=https://web.archive.org/web/20240624114346/https://www.cnn.com/2024/06/23/europe/dagestan-synagogue-attack-russia-intl-latam/index.html |archive-date=24 June 2024 |access-date=2024-06-23 |website=CNN |language=en}}</ref>",
-                      "url": "https://www.cnn.com/2024/06/23/europe/dagestan-synagogue-attack-russia-intl-latam/index.html",
-                      "status_code": null,
+                      "url": "https://edition.cnn.com/2024/06/23/europe/dagestan-synagogue-attack-russia-intl-latam/index.html",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -269,28 +269,28 @@
                     {
                       "text": "<ref>{{cite web | url=https://www.timesnownews.com/world/europe/orthodox-priest-killed-in-dagestan-russia-church-attack-identified-as-nikolay-kotelnikov-article-111212422 | title=Orthodox Priest Killed in Russia Church Attack Identified as Nikolay Kotelnikov | date=24 June 2024 | access-date=24 June 2024 | archive-date=24 June 2024 | archive-url=https://web.archive.org/web/20240624075110/https://www.timesnownews.com/world/europe/orthodox-priest-killed-in-dagestan-russia-church-attack-identified-as-nikolay-kotelnikov-article-111212422 | url-status=live }}</ref>",
                       "url": "https://www.timesnownews.com/world/europe/orthodox-priest-killed-in-dagestan-russia-church-attack-identified-as-nikolay-kotelnikov-article-111212422",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"auto8\" /><ref name=\"auto6\" /><ref name=\"auto7\" /><ref name=\"CNN\" /><ref name=\"auto1\" /> The priest was identified as Father Nikolay Kotelnikov, who had served the Church of the Intercession of the Holy Virgin in Derbent for over four decades and was killed there by the attackers. Initially, it was reported that his throat had been slit,<ref>{{cite web |title=Fr Nikolai, an Orthodox priest who helped everyone, has his throat cut in Dagestan |url=https://www.asianews.it/news-en/Fr-Nikolai,-an-Orthodox-priest-who-helped-everyone,-has-his-throat-cut-in-Dagestan-61009.html |url-status=live |archive-url=https://web.archive.org/web/20240625051924/https://www.asianews.it/news-en/Fr-Nikolai,-an-Orthodox-priest-who-helped-everyone,-has-his-throat-cut-in-Dagestan-61009.html |archive-date=25 June 2024 |access-date=24 June 2024}}</ref>",
                       "url": "https://www.asianews.it/news-en/Fr-Nikolai,-an-Orthodox-priest-who-helped-everyone,-has-his-throat-cut-in-Dagestan-61009.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Furman |first1=Lera |date=23 June 2024 |title=Дербентское жертвоприношение. Убитый террористами дербентский священник всю жизнь прослужил в одном храме и был запечатлен в бронзе за 5 лет до своего мученичества |trans-title=Derbent sacrifice. The Derbent priest that was killed by terrorists had served in one church all his life and was immortalized in bronze 5 years before his martyrdom |url=https://novayagazeta.eu/articles/2024/06/23/derbentskoe-zhertvoprinoshenie |url-status=live |archive-url=https://web.archive.org/web/20240624001654/https://novayagazeta.eu/articles/2024/06/23/derbentskoe-zhertvoprinoshenie |archive-date=24 June 2024 |access-date=24 June 2024 |work=Novaya Gazeta Europe |lang=ru}}</ref>",
                       "url": "https://novayagazeta.eu/articles/2024/06/23/derbentskoe-zhertvoprinoshenie",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Священник рассказал, как террористы в Дербенте убили протоиерея |trans-title=Priest tells how terrorists in Derbent killed protoiereus |url=https://ria.ru/20240626/protoierey-1955473968.html |access-date=27 June 2024 |work=RIA Novosti |date=26 June 2024 |language=ru}}</ref>",
                       "url": "https://ria.ru/20240626/protoierey-1955473968.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -303,21 +303,21 @@
                     {
                       "text": "<ref>{{Cite web|url=https://www.bbc.com/news/articles/cj555p05yl4o|title=Russia pins Dagestan attack on Ukraine and the West, ignoring religious tension|website=BBC|access-date=24 June 2024|archive-date=25 June 2024|archive-url=https://web.archive.org/web/20240625041006/https://www.bbc.com/news/articles/cj555p05yl4o|url-status=live}}</ref>",
                       "url": "https://www.bbc.com/news/articles/cj555p05yl4o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web|url=https://www.jns.org/attacks-reported-on-synagogues-church-in-dagestan-russia/|title=Attacks reported on synagogues, church in Dagestan, Russia|work=JNS|date=23 June 2024 |access-date=24 June 2024|archive-date=24 June 2024|archive-url=https://web.archive.org/web/20240624084406/https://www.jns.org/attacks-reported-on-synagogues-church-in-dagestan-russia/|url-status=live}}</ref>",
                       "url": "https://www.jns.org/attacks-reported-on-synagogues-church-in-dagestan-russia/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"auto2\" /><ref name=\"auto\">{{Cite web|url=https://www.timesnownews.com/world/europe/orthodox-priest-killed-in-dagestan-russia-church-attack-identified-as-nikolay-kotelnikov-article-111212422|title=Orthodox Priest Killed In Russia Church Attack Identified As Nikolay Kotelnikov|date=24 June 2024|website=Times Now|access-date=24 June 2024|archive-date=24 June 2024|archive-url=https://web.archive.org/web/20240624075110/https://www.timesnownews.com/world/europe/orthodox-priest-killed-in-dagestan-russia-church-attack-identified-as-nikolay-kotelnikov-article-111212422|url-status=live}}</ref>",
                       "url": "https://www.timesnownews.com/world/europe/orthodox-priest-killed-in-dagestan-russia-church-attack-identified-as-nikolay-kotelnikov-article-111212422",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -330,35 +330,35 @@
                     {
                       "text": "<ref name=\"auto12\" /><ref name=\"auto3\">{{Cite news|url=https://www.nytimes.com/2024/06/23/world/europe/russia-attack-dagestan.html|title=Gunmen Attack Synagogues and Churches in Russian Republic|first1=Anton|last1=Troianovski|first2=Ivan|last2=Nechepurenko|work=The New York Times|date=23 June 2024|access-date=24 June 2024|archive-date=24 June 2024|archive-url=https://web.archive.org/web/20240624090906/https://www.nytimes.com/2024/06/23/world/europe/russia-attack-dagestan.html|url-status=live}}</ref>",
                       "url": "https://www.nytimes.com/2024/06/23/world/europe/russia-attack-dagestan.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"ng1\">{{cite news |title=Local politician detained after 19 killed in Dagestan terror attacks |url=https://novayagazeta.eu/articles/2024/06/24/local-politician-detained-after-dagestan-terror-attacks-leave-at-least-19-people-dead-en-news |access-date=24 June 2024 |work=Novaya Gazeta Europe |date=24 June 2024 |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624101032/https://novayagazeta.eu/articles/2024/06/24/local-politician-detained-after-dagestan-terror-attacks-leave-at-least-19-people-dead-en-news |url-status=live }}</ref>",
                       "url": "https://novayagazeta.eu/articles/2024/06/24/local-politician-detained-after-dagestan-terror-attacks-leave-at-least-19-people-dead-en-news",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\":1\">{{Cite web |title=В Дербенте и Махачкале вооруженные боевики напали на православные храмы и синагоги. Погибли и ранены полицейские Материал обновляется |url=https://meduza.io/feature/2024/06/23/v-derbente-i-mahachkale-vooruzhennye-boeviki-napali-na-pravoslavnye-hramy-i-sinagogi-pogibli-i-raneny-politseyskie |access-date=2024-06-23 |website=Meduza |language=ru |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624014150/https://meduza.io/feature/2024/06/23/v-derbente-i-mahachkale-vooruzhennye-boeviki-napali-na-pravoslavnye-hramy-i-sinagogi-pogibli-i-raneny-politseyskie |url-status=live }}</ref>",
                       "url": "https://meduza.io/feature/2024/06/23/v-derbente-i-mahachkale-vooruzhennye-boeviki-napali-na-pravoslavnye-hramy-i-sinagogi-pogibli-i-raneny-politseyskie",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |date=24 June 2024 |title=Внутри — пепелище. Видео из сожженной синагоги в Дербенте |trans-title=Inside – ashes. Video from the burnt synagogue in Derbent |url=https://www.fontanka.ru/2024/06/24/73745306/ |url-status=live |archive-url=https://web.archive.org/web/20240625052425/https://www.fontanka.ru/2024/06/24/73745306/ |archive-date=25 June 2024 |access-date=24 June 2024 |work=fontanka.ru |language=ru}}</ref>",
                       "url": "https://www.fontanka.ru/2024/06/24/73745306/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=24 June 2024 |title=Меликов приехал в атакованные боевиками церковь и синагогу в Дербенте |trans-title=Melikov arrives at the Derbent church and synagogue attacked by militants |url=https://www.rbc.ru/politics/24/06/2024/6679275e9a7947bc53c6bce0 |url-status=live |archive-url=https://web.archive.org/web/20240624092654/https://www.rbc.ru/politics/24/06/2024/6679275e9a7947bc53c6bce0 |archive-date=24 June 2024 |access-date=24 June 2024 |work=RBK Group|RBK |language=ru}}</ref>",
                       "url": "https://www.rbc.ru/politics/24/06/2024/6679275e9a7947bc53c6bce0",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -370,8 +370,8 @@
                   "references": [
                     {
                       "text": "<ref name=\"moscow\">{{Cite web |title=Several Killed in Church and Synagogue Attacks in Russia's Dagestan |url=https://www.themoscowtimes.com/2024/06/23/several-killed-in-church-and-synagogue-attacks-in-russias-dagestan-a85496 |access-date=2024-06-24 |website=The Moscow Times |date=23 June 2024 |language=en |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624045020/https://www.themoscowtimes.com/2024/06/23/several-killed-in-church-and-synagogue-attacks-in-russias-dagestan-a85496 |url-status=live }}</ref>",
-                      "url": "https://www.themoscowtimes.com/2024/06/23/several-killed-in-church-and-synagogue-attacks-in-russias-dagestan-a85496",
-                      "status_code": null,
+                      "url": "https://www.themoscowtimes.com/2024/06/23/at-least-19-dead-after-church-and-synagogue-attacks-in-russias-dagestan-a85496",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -394,7 +394,7 @@
                     {
                       "text": "<ref name=\"auto6\"/><ref name=\"auto3\"/><ref name=\"auto2\"/><ref name=\"auto5\">{{Cite web|url=https://abc7.com/post/derbent-russia-attack-9-killed-amid-synagogue-orthodox/14993034/|title=Officers among 9 killed as attacks launched on synagogue, Orthodox church in Russia: officials|date=23 June 2024|website=ABC7 Los Angeles|access-date=24 June 2024|archive-date=23 June 2024|archive-url=https://web.archive.org/web/20240623233909/https://abc7.com/post/derbent-russia-attack-9-killed-amid-synagogue-orthodox/14993034/|url-status=live}}</ref>",
                       "url": "https://abc7.com/post/derbent-russia-attack-9-killed-amid-synagogue-orthodox/14993034/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -407,14 +407,14 @@
                     {
                       "text": "<ref name=\"auto3\"/><ref name=\"auto2\"/><ref name=\"auto5\"/> The fire was later extinguished, and no victims were reported.<ref>{{cite news |title=Еврейские религиозные организации сообщили об атаке на синагогу в Махачкале |url=https://ria.ru/20240623/sinagoga-1954930158.html |trans-title=Jewish religious organizations inform of attack on synagogue in Makhachkala |access-date=23 June 2024 |work=RIA Novosti |date=23 June 2024 |language=ru |archive-date=23 June 2024 |archive-url=https://web.archive.org/web/20240623211545/https://ria.ru/20240623/sinagoga-1954930158.html |url-status=live }}</ref>",
                       "url": "https://ria.ru/20240623/sinagoga-1954930158.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Нападения в Махачкале и Дербенте: что известно на данный момент |trans-title=Attacks in Makhachkala and Derbent: what we currently know |url=https://www.bbc.com/russian/articles/cl7771zvpj8o |access-date=24 June 2024 |work=BBC News Русская служба |date=23 June 2024 |language=ru |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624164352/https://www.bbc.com/russian/articles/cl7771zvpj8o |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/russian/articles/cl7771zvpj8o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -437,14 +437,14 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-06-23 |title=В центре села рядом с Дербентом неизвестные обстреляли полицейскую машину |url=https://www.rbc.ru/politics/23/06/2024/667870ce9a794776deee6e56 |access-date=2024-06-25 |website=РБК |language=ru |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624055132/https://www.rbc.ru/politics/23/06/2024/667870ce9a794776deee6e56 |url-status=live }}</ref>",
                       "url": "https://www.rbc.ru/politics/23/06/2024/667870ce9a794776deee6e56",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-06-23 |title=На площади в дагестанском Сергокале неизвестные в обстреляли машину полицейских |url=https://www.kommersant.ru/doc/6789145 |access-date=2024-06-25 |website=Коммерсантъ |language=ru |archive-date=23 June 2024 |archive-url=https://web.archive.org/web/20240623215411/https://www.kommersant.ru/doc/6789145 |url-status=live }}</ref>",
                       "url": "https://www.kommersant.ru/doc/6789145",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -469,7 +469,7 @@
                 {
                   "text": "<ref name=\"mt22\"/> along with at least five perpetrators.<ref name=\":13\" /><ref name=\"apnews\" /> At least 46 others were injured in the attacks, including 13 police officers. Four of the injured police officers were described as being in \"grave\" condition.<ref name=\":11\">{{Cite web |date=2024-06-24 |title=Russian region of Dagestan holds a day of mourning after attacks kill 20 people, officials say |url=https://apnews.com/article/dagestan-militant-attacks-church-synagogue-police-84b57fbaa2d087eeb4ef87fa73b65f74 |url-status=live |archive-url=https://web.archive.org/web/20240625051926/https://apnews.com/article/dagestan-militant-attacks-church-synagogue-police-84b57fbaa2d087eeb4ef87fa73b65f74 |archive-date=25 June 2024 |access-date=2024-06-24 |website=Associated Press |language=en}}</ref>",
                   "url": "https://apnews.com/article/dagestan-militant-attacks-church-synagogue-police-84b57fbaa2d087eeb4ef87fa73b65f74",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -492,7 +492,7 @@
                 {
                   "text": "<ref name=\":14\" /> While some of the attackers initially fled in a car,<ref>{{Cite web |date=2024-06-24 |title=Terrorist attacks in Russia's Dagestan region target church, synagogue and police, kill at least 19 people |url=https://www.cbsnews.com/news/synagogue-church-gunmen-attack-russia-dagestan/ |url-status=live |archive-url=https://web.archive.org/web/20240624093553/https://www.cbsnews.com/news/synagogue-church-gunmen-attack-russia-dagestan/ |archive-date=24 June 2024 |access-date=2024-06-24 |website=CBS News |language=en-US}}</ref>",
                   "url": "https://www.cbsnews.com/news/synagogue-church-gunmen-attack-russia-dagestan/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -505,14 +505,14 @@
                 {
                   "text": "<ref>{{cite news |date=23 June 2024 |title=Источник сообщил о задержании главы района в Дагестане Магомеда Омарова |trans-title=Source informs of detainment of head of Sergokalinsky district Magomed Omarov |url=https://iz.ru/1717017/2024-06-23/istochnik-soobshchil-o-zaderzhanii-glavy-raiona-v-dagestane-magomeda-omarova |url-status=live |archive-url=https://web.archive.org/web/20240624052118/https://iz.ru/1717017/2024-06-23/istochnik-soobshchil-o-zaderzhanii-glavy-raiona-v-dagestane-magomeda-omarova |archive-date=24 June 2024 |access-date=23 June 2024 |work=Izvestiya}}</ref>",
                   "url": "https://iz.ru/1717017/2024-06-23/istochnik-soobshchil-o-zaderzhanii-glavy-raiona-v-dagestane-magomeda-omarova",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=23 June 2024 |title=В нападении в Дагестане участвовали сыновья и племянник главы Сергокалинского района |trans-title=The sons and nephew of the head of Sergokalinsky District involved in attack on Dagestan |url=https://meduza.io/news/2024/06/23/baza-v-napadenii-v-dagestane-uchastvovali-synovya-glavy-sergokalinskogo-rayona |access-date=23 June 2024 |work=Meduza |language=ru}}</ref>",
                   "url": "https://meduza.io/news/2024/06/23/baza-v-napadenii-v-dagestane-uchastvovali-synovya-glavy-sergokalinskogo-rayona",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -524,64 +524,64 @@
               "references": [
                 {
                   "text": "<ref name=\":10\">{{Cite web |last1=Tarasova |first1=Darya |last2=Gigova |first2=Radina |date=2024-06-24 |title=Mixed martial arts fighter, relatives of regional official among Dagestan attackers, Russian authorities say |url=https://www.cnn.com/2024/06/24/europe/mma-fighter-dagestan-attack-intl-latam/index.html |access-date=2024-06-25 |website=CNN |language=en |archive-date=25 June 2024 |archive-url=https://web.archive.org/web/20240625140945/https://www.cnn.com/2024/06/24/europe/mma-fighter-dagestan-attack-intl-latam/index.html |url-status=live }}</ref>",
-                  "url": "https://www.cnn.com/2024/06/24/europe/mma-fighter-dagestan-attack-intl-latam/index.html",
-                  "status_code": null,
+                  "url": "https://edition.cnn.com/2024/06/24/europe/mma-fighter-dagestan-attack-intl-latam/index.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":12\">{{Cite web |last=Суворов |first=Андрей |date=2024-06-24 |title=Сыновья единоросса и боец ММА: что известно об устроивших теракт в Дагестане |url=https://rtvi.com/news/synovya-edinorossa-i-boecz-mma-chto-izvestno-ob-ustroivshih-terakt-v-dagestane/ |url-status=live |archive-url=https://web.archive.org/web/20240625041459/https://rtvi.com/news/synovya-edinorossa-i-boecz-mma-chto-izvestno-ob-ustroivshih-terakt-v-dagestane/ |archive-date=25 June 2024 |access-date=2024-06-24 |website=Главные новости в России и мире – RTVI |language=ru}}</ref>",
                   "url": "https://rtvi.com/news/synovya-edinorossa-i-boecz-mma-chto-izvestno-ob-ustroivshih-terakt-v-dagestane/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"ng2\">{{cite news |last=Serafimov |first=Andrey |date=24 June 2024 |title=Что известно о нападавших на православные храмы и синагогу в Дагестане? |trans-title=What do we know about the attackers of the Orthodox churches and synagogue in Dagestan? |url=https://novayagazeta.eu/articles/2024/06/24/chto-izvestno-o-napadavshikh-na-pravoslavnye-khramy-i-sinagogu-v-dagestane |url-status=live |archive-url=https://web.archive.org/web/20240624230901/https://novayagazeta.eu/articles/2024/06/24/chto-izvestno-o-napadavshikh-na-pravoslavnye-khramy-i-sinagogu-v-dagestane |archive-date=24 June 2024 |access-date=25 June 2024 |work=Novaya Gazeta Europe |lang=ru}}</ref>",
                   "url": "https://novayagazeta.eu/articles/2024/06/24/chto-izvestno-o-napadavshikh-na-pravoslavnye-khramy-i-sinagogu-v-dagestane",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"ng1\" /><ref>{{Cite web |date=2024-06-24 |title=В одном из боевиков из Дербента узнали бойца MMA и воспитанника Нурмагомедова |url=https://www.gazeta.ru/social/news/2024/06/24/23309155.shtml |url-status=live |archive-url=https://web.archive.org/web/20240625041459/https://www.gazeta.ru/social/news/2024/06/24/23309155.shtml |archive-date=25 June 2024 |access-date=2024-06-24 |website=Газета.Ru |language=ru}}</ref>",
                   "url": "https://www.gazeta.ru/social/news/2024/06/24/23309155.shtml",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":14\">{{Cite web |last=Shenheliia |first=Kateryna |date=2024-06-24 |title=What We Know About the Church and Synagogue Attacks in Dagestan |url=https://www.themoscowtimes.com/2024/06/24/what-we-know-about-church-and-synagogue-attacks-in-dagestan-a85498 |url-status=live |archive-url=https://web.archive.org/web/20240624100903/https://www.themoscowtimes.com/2024/06/24/what-we-know-about-church-and-synagogue-attacks-in-dagestan-a85498 |archive-date=24 June 2024 |access-date=2024-06-24 |website=The Moscow Times |language=en}}</ref>",
                   "url": "https://www.themoscowtimes.com/2024/06/24/what-we-know-about-church-and-synagogue-attacks-in-dagestan-a85498",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"ng2\" />\n* Ali Zakarigaev, 35, former president of the Sergokala section of the A Just Russia – For Truth party (until 2022), and nephew of Magomed Omarov<ref name=\":6\" /><ref>{{cite news |date=24 June 2024 |title=СК сообщил об установлении личностей всех ликвидированных в Дагестане боевиков |trans-title=Investigative Committee informs of confirmation of identities of all liquidated terrorists in Dagestan |url=https://iz.ru/1717212/2024-06-24/sk-soobshchil-ob-ustanovlenii-lichnostei-vsekh-likvidirovannykh-v-dagestane-boevikov?from=read_more |access-date=24 June 2024 |work=Izvestiya |lang=ru}}</ref>",
                   "url": "https://iz.ru/1717212/2024-06-24/sk-soobshchil-ob-ustanovlenii-lichnostei-vsekh-likvidirovannykh-v-dagestane-boevikov?from=read_more",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"bbc1\"/><ref>{{cite news |title=РИА Новости нашло дом экс-главы Сергокалинского района Омарова |url=https://ria.ru/20240625/omarov-1955200314.html |access-date=25 June 2024 |work=RIA Novosti |date=25 June 2024 |language=ru |archive-date=26 June 2024 |archive-url=https://web.archive.org/web/20240626172100/https://ria.ru/20240625/omarov-1955200314.html |url-status=live }}</ref>",
                   "url": "https://ria.ru/20240625/omarov-1955200314.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"bbc1\">{{cite news |title=Атака на Дагестан: что стало известно спустя двое суток |trans-title=The attack on Dagestan: what we know after 2 days |url=https://www.bbc.com/russian/articles/cd11xqlxxedo |access-date=25 June 2024 |work=BBC News Русская служба |date=25 June 2024 |language=ru |archive-date=26 June 2024 |archive-url=https://web.archive.org/web/20240626171906/https://www.bbc.com/russian/articles/cd11xqlxxedo |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/russian/articles/cd11xqlxxedo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Daghestan Holds Second Day Of Mourning After At Least 20 Killed In Attacks |url=https://www.rferl.org/a/daghenstan-mkhachkala-derbent-russia-attack/33008031.html |access-date=25 June 2024 |work=RadioFreeEurope/RadioLiberty |date=25 June 2024 |language=en |archive-date=26 June 2024 |archive-url=https://web.archive.org/web/20240626172037/https://www.rferl.org/a/daghenstan-mkhachkala-derbent-russia-attack/33008031.html |url-status=live }}</ref>",
                   "url": "https://www.rferl.org/a/daghenstan-mkhachkala-derbent-russia-attack/33008031.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -594,49 +594,49 @@
                 {
                   "text": "<ref name=\":5\" /> Later, Omarov was expelled from the United Russia party, the ruling political party in Russia, \"for actions that discredit United Russia\".<ref>{{Cite web |date=2024-06-24 |title=Из «Единой России» исключили отца боевиков, напавших на Дагестан |url=https://www.rbc.ru/politics/24/06/2024/6678a7b99a794709507be065 |access-date=2024-06-24 |website=РБК |language=ru |archive-date=25 June 2024 |archive-url=https://web.archive.org/web/20240625140958/https://www.rbc.ru/politics/24/06/2024/6678a7b99a794709507be065 |url-status=live }}</ref>",
                   "url": "https://www.rbc.ru/politics/24/06/2024/6678a7b99a794709507be065",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |last=Roth |first=Andrew |date=24 June 2024 |title=Dagestan attack highlights Russia's vulnerability at home amid Ukraine war |url=https://www.theguardian.com/world/article/2024/jun/24/dagestan-attack-highlights-russias-islamist-terror-threat-as-forces-are-engaged-in-ukraine |url-status=live |archive-url=https://web.archive.org/web/20240625044218/https://www.theguardian.com/world/article/2024/jun/24/dagestan-attack-highlights-russias-islamist-terror-threat-as-forces-are-engaged-in-ukraine |archive-date=25 June 2024 |access-date=24 June 2024 |newspaper=The Guardian}}</ref>",
                   "url": "https://www.theguardian.com/world/article/2024/jun/24/dagestan-attack-highlights-russias-islamist-terror-threat-as-forces-are-engaged-in-ukraine",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\":10\" /> Omarov was then arrested for 10 days on charges of \"minor hooliganism\"; Russian media reports state that he may face terrorism charges.<ref>{{cite news |title=В Дагестане арестовали на 10 суток главу Сергокалинского района |url=https://tass.ru/proisshestviya/21197333 |access-date=25 June 2024 |work=TASS |date=25 June 2024 |language=ru}}</ref>",
                   "url": "https://tass.ru/proisshestviya/21197333",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Бывшего главу Сергокалинского района арестовали на 10 суток по делу о мелком хулиганстве. Его сыновей подозревают в нападениях в Дагестане |url=https://meduza.io/news/2024/06/25/byvshego-glavu-sergokalinskogo-rayona-arestovali-na-10-sutok-po-delu-o-melkom-huliganstve-ego-synovey-podozrevayut-v-napadeniyah-v-dagestane |access-date=25 June 2024 |work=Meduza |date=25 June 2024 |language=ru |archive-date=26 June 2024 |archive-url=https://web.archive.org/web/20240626172032/https://meduza.io/news/2024/06/25/byvshego-glavu-sergokalinskogo-rayona-arestovali-na-10-sutok-po-delu-o-melkom-huliganstve-ego-synovey-podozrevayut-v-napadeniyah-v-dagestane |url-status=live }}</ref>",
                   "url": "https://meduza.io/news/2024/06/25/byvshego-glavu-sergokalinskogo-rayona-arestovali-na-10-sutok-po-delu-o-melkom-huliganstve-ego-synovey-podozrevayut-v-napadeniyah-v-dagestane",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Daghestani Official Fired After Deadly Attacks Gets 10 Days In Jail |url=https://www.rferl.org/a/russia-daghestan-attacks-omarov-jailed/33008772.html |access-date=25 June 2024 |work=RadioFreeEurope/RadioLiberty |date=25 June 2024 |language=en |archive-date=26 June 2024 |archive-url=https://web.archive.org/web/20240626172044/https://www.rferl.org/a/russia-daghestan-attacks-omarov-jailed/33008772.html |url-status=live }}</ref>",
                   "url": "https://www.rferl.org/a/russia-daghestan-attacks-omarov-jailed/33008772.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\":10\" /><ref name=\":12\" /> was detained by police.<ref>{{cite news |date=24 June 2024 |title=Участник нападения в Дагестане, один из сыновей Омарова, пропал из списка погибших. Все нападавшие — односельчане, многие из богатых семей |trans-title=A participant of the attack in Dagestan, one of the sons of Omarov, disappeared from the list of deaths. All the attackers were from one village, many were from rich families |url=https://theins.ru/news/272627 |url-status=live |archive-url=https://web.archive.org/web/20240626171906/https://theins.ru/news/272627 |archive-date=26 June 2024 |access-date=26 June 2024 |work=The Insider (website)|The Insider |language=ru}}</ref>",
                   "url": "https://theins.ru/news/272627",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=25 June 2024 |title=Объявленного убитым террористом сына главы муниципалитета в Дагестане не было среди нападавших. Его задержали и отправили в отдел полиции |trans-title=Municipal head of Dagestan's son, announced as a dead terrorist, was not one of the attackers. He was detained and send to the police |url=https://theins.ru/news/272659 |url-status=live |archive-url=https://web.archive.org/web/20240626171937/https://theins.ru/news/272659 |archive-date=26 June 2024 |access-date=26 June 2024 |work=The Insider |language=ru}}</ref>",
                   "url": "https://theins.ru/news/272659",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -649,35 +649,35 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-06-23 |title=ТАСС: напавшие в Дагестане входили в международную террористическую организацию |url=https://www.kommersant.ru/doc/6789134 |access-date=2024-06-24 |website=Коммерсантъ |language=ru |archive-date=25 June 2024 |archive-url=https://web.archive.org/web/20240625041112/https://www.kommersant.ru/doc/6789134 |url-status=live }}</ref>",
                   "url": "https://www.kommersant.ru/doc/6789134",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-06-23 |title=Устроившие стрельбу в Дагестане являются членами террористической организации |url=https://www.vedomosti.ru/politics/news/2024/06/23/1045660-ustroivshie-strelbu-v-dagestane/ |access-date=2024-06-24 |website=Ведомости |language=ru |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624043314/https://www.vedomosti.ru/politics/news/2024/06/23/1045660-ustroivshie-strelbu-v-dagestane |url-status=live }}</ref>",
-                  "url": "https://www.vedomosti.ru/politics/news/2024/06/23/1045660-ustroivshie-strelbu-v-dagestane/",
-                  "status_code": null,
+                  "url": "https://www.vedomosti.ru/politics/news/2024/06/23/1045660-ustroivshie-strelbu-v-dagestane",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"auto10\">[https://www.npr.org/2024/06/24/g-s1-5882/dagestan-attacks-russia-synagogue-orthodox \"Russian region of Dagestan holds a day of mourning after attacks kill 19 people,\"] {{Webarchive|url=https://web.archive.org/web/20240624152559/https://www.npr.org/2024/06/24/g-s1-5882/dagestan-attacks-russia-synagogue-orthodox |date=24 June 2024 }} NPR.</ref>",
                   "url": "https://web.archive.org/web/20240624152559/https://www.npr.org/2024/06/24/g-s1-5882/dagestan-attacks-russia-synagogue-orthodox",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
                   "type": null
                 },
                 {
                   "text": "<ref name=\"auto4\">{{Cite web |date=2024-06-24 |title=Anti-terror operation against deadly Dagestan attack over, say Russian authorities |url=https://www.france24.com/en/europe/20240624-anti-terror-operation-against-deadly-dagestan-attack-over-say-russian-authorities |access-date=2024-06-24 |website=France 24 |language=en |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624093425/https://www.france24.com/en/europe/20240624-anti-terror-operation-against-deadly-dagestan-attack-over-say-russian-authorities |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/europe/20240624-anti-terror-operation-against-deadly-dagestan-attack-over-say-russian-authorities",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"auto10\" /><ref>{{cite news |date=24 June 2024 |title=В Дагестане при нападении боевиков погибли более 15 полицейских |trans-title=Over 15 police officers killed in attack on Dagestan |url=https://meduza.io/news/2024/06/24/v-dagestane-pri-napadenii-boevikov-pogibli-bolee-15-politseyskih |url-status=live |archive-url=https://web.archive.org/web/20240624060024/https://meduza.io/news/2024/06/24/v-dagestane-pri-napadenii-boevikov-pogibli-bolee-15-politseyskih |archive-date=24 June 2024 |access-date=24 June 2024 |work=Meduza |language=ru}}</ref>",
                   "url": "https://meduza.io/news/2024/06/24/v-dagestane-pri-napadenii-boevikov-pogibli-bolee-15-politseyskih",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -690,15 +690,15 @@
                 {
                   "text": "<ref>{{Cite web|url=https://ent.siteintelgroup.com/Jihadist-Threat-Statements/saluting-lone-wolves-inspired-by-its-ideology-is-says-faith-based-brotherhood-triumphs-over-organizational-ties.html|title=Saluting Lone Wolves Inspired by its Ideology, IS Says Faith-based Brotherhood Triumphs Over Organizational Ties|website=SITE|date=2024-07-04}}</ref>",
                   "url": "https://ent.siteintelgroup.com/Jihadist-Threat-Statements/saluting-lone-wolves-inspired-by-its-ideology-is-says-faith-based-brotherhood-triumphs-over-organizational-ties.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://ent.siteintelgroup.com/Jihadist-Threat-Multimedia/pro-is-unit-applies-flames-of-war-to-russia-in-glorifying-attacks-in-moscow-dagestan-and-ingushetia.html|title=Pro-IS Unit Applies \"Flames of War\" to Russia in Glorifying Attacks in Moscow, Dagestan, and Ingushetia|website=SITE|date=2024-07-08}}</ref>",
                   "url": "https://ent.siteintelgroup.com/Jihadist-Threat-Multimedia/pro-is-unit-applies-flames-of-war-to-russia-in-glorifying-attacks-in-moscow-dagestan-and-ingushetia.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -720,21 +720,21 @@
                 {
                   "text": "<ref name=\":9\" /> On these days of mourning, national flags were to be flown throughout the territory of the republic. Cultural institutions and television and radio companies in Dagestan were to cancel all their entertainment events and programs.<ref>{{Cite web |date=2024-06-24 |title=Russia's Dagestan announces 3-day mourning in connection with terrorist attacks |url=https://news.am/eng/news/830700.html |url-status=live |archive-url=https://web.archive.org/web/20240625052426/https://news.am/eng/news/830700.html |archive-date=25 June 2024 |access-date=2024-06-24 |website=news.am |language=en}}</ref>",
                   "url": "https://news.am/eng/news/830700.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=24 June 2024 |title=More than a dozen killed in Dagestan following attack on churches and synagogue |url=https://www.itv.com/watch/news/more-than-a-dozen-killed-in-dagestan-following-attack-on-churches-and-synagogue/4spm78x |url-status=live |archive-url=https://web.archive.org/web/20240625052532/https://www.itv.com/watch/news/more-than-a-dozen-killed-in-dagestan-following-attack-on-churches-and-synagogue/4spm78x |archive-date=25 June 2024 |access-date=24 June 2024 |website=Itv}}</ref>",
                   "url": "https://www.itv.com/watch/news/more-than-a-dozen-killed-in-dagestan-following-attack-on-churches-and-synagogue/4spm78x",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=25 June 2024 |title=Russia's Dagestan to Inspect Local Officials After Attacks on Religious Sites |url=https://www.themoscowtimes.com/2024/06/25/russias-dagestan-to-inspect-local-officials-after-attacks-on-religious-sites-a85515 |access-date=26 June 2024 |website=The Moscow Times |archive-date=26 June 2024 |archive-url=https://web.archive.org/web/20240626172034/https://www.themoscowtimes.com/2024/06/25/russias-dagestan-to-inspect-local-officials-after-attacks-on-religious-sites-a85515 |url-status=live }}</ref>",
                   "url": "https://www.themoscowtimes.com/2024/06/25/russias-dagestan-to-inspect-local-officials-after-attacks-on-religious-sites-a85515",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -747,7 +747,7 @@
                 {
                   "text": "<ref name=\"ng6\" /><ref>{{cite news |title=В Дербенте похоронили погибшего от рук террористов священника |trans-title=Priest murdered by terrorists buried in Derbent |url=https://www.rbc.ru/rbcfreenews/667bfddf9a794799f0c419dd?from=story_667854099a7947d45cea1ddc |access-date=27 June 2024 |work=RBK |date=26 June 2024 |language=ru}}</ref>",
                   "url": "https://www.rbc.ru/rbcfreenews/667bfddf9a794799f0c419dd?from=story_667854099a7947d45cea1ddc",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -770,28 +770,28 @@
                 {
                   "text": "<ref>{{cite news |title=Президент РФ наградил орденом Мужества погибшего в Дагестане протоиерея |url=https://kavkaz.rbc.ru/kavkaz/freenews/667b10e59a79477f742f1cc9 |access-date=27 June 2024 |trans-title=President of RF awards Order of Courage to murdered in Dagestan priest |work=RBC |date=25 June 2024}}</ref>",
                   "url": "https://kavkaz.rbc.ru/kavkaz/freenews/667b10e59a79477f742f1cc9",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Путин наградил 20 дагестанских полицейских орденом, включая погибших |url=https://ria.ru/20240625/nagrady-1955451496.html |access-date=25 June 2024 |work=RIA Novosti |date=25 June 2024 |language=ru |archive-date=26 June 2024 |archive-url=https://web.archive.org/web/20240626171907/https://ria.ru/20240625/nagrady-1955451496.html |url-status=live }}</ref>",
                   "url": "https://ria.ru/20240625/nagrady-1955451496.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\":7\">{{cite news |title=Nineteen dead in attacks on churches and synagogue in southern Russia |url=https://www.bbc.com/news/articles/crgggwg158do |access-date=24 June 2024 |work=BBC |date=24 June 2024 |language=en |archive-date=25 June 2024 |archive-url=https://web.archive.org/web/20240625041024/https://www.bbc.com/news/articles/crgggwg158do |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/articles/crgggwg158do",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Песков: Путин не планирует выступить с обращением в связи с терактами |url=https://tass.ru/politika/21181479 |access-date=27 June 2024 |work=TASS |date=24 June 2024 |language=ru |trans-title=Peskov: Putin does not plan to make an address in connection with the terrorist attacks}}</ref>",
                   "url": "https://tass.ru/politika/21181479",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -804,49 +804,49 @@
                 {
                   "text": "<ref>{{cite news |title=Москалькова осудила теракты в Махачкале и Дербенте |url=https://ria.ru/20240623/moskalkova-1954929860.html?in=t |access-date=23 June 2024 |trans-title=Moskalkova condemns terrorist attacks in Makhachkala and Derbent |work=RIA Novosti |date=23 June 2024 |language=ru |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624030616/https://ria.ru/20240623/moskalkova-1954929860.html?in=t |url-status=live }}</ref>",
                   "url": "https://ria.ru/20240623/moskalkova-1954929860.html?in=t",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Нападения в Дагестане: задержан глава района, некоторые уже приплетают Украину |url=https://www.pravda.com.ua/rus/news/2024/06/23/7462196/ |access-date=2024-06-24 |website=Украинская правда |language=ru |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624014724/https://www.pravda.com.ua/rus/news/2024/06/23/7462196/ |url-status=live }}</ref>",
                   "url": "https://www.pravda.com.ua/rus/news/2024/06/23/7462196/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":3\">{{cite news |last1=Astier |first1=Henri |last2=Gozzi |first2=Laura |title=Dagestan: Deadly attacks on churches and synagogue in southern Russia |url=https://www.bbc.com/news/articles/crgggwg158do |access-date=24 June 2024 |work=BBC |date=24 June 2024 |archive-date=25 June 2024 |archive-url=https://web.archive.org/web/20240625041024/https://www.bbc.com/news/articles/crgggwg158do |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/articles/crgggwg158do",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Слуцкий назвал инспирированными извне теракты в Севастополе и Дагестане |trans-title=Slutsky called the attacks in Sevastopol and Dagestan \"orchestrated from outside\" |url=https://iz.ru/1717136/2024-06-24/slutckii-nazval-inspirirovannymi-izvne-terakty-v-sevastopole-i-dagestane |access-date=24 June 2024 |work=Izvestiya |lang=ru |date=24 June 2024}}</ref>",
                   "url": "https://iz.ru/1717136/2024-06-24/slutckii-nazval-inspirirovannymi-izvne-terakty-v-sevastopole-i-dagestane",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\":2\" /> At the same time, Federal Senator Dmitry Rogozin called for not considering the terrorist attack as \"the machinations of Ukraine and NATO\", since, in his opinion, if all such attacks are explained in this way, it will lead to problems.<ref>{{Cite web |date=2024-06-24 |title=Рогозин призвал не считать теракт в Дагестане «происками Украины и НАТО» |url=https://www.rbc.ru/politics/24/06/2024/667876d79a79472215cced73 |access-date=2024-06-24 |website=РБК |language=ru |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624040619/https://www.rbc.ru/politics/24/06/2024/667876d79a79472215cced73 |url-status=live }}</ref>",
                   "url": "https://www.rbc.ru/politics/24/06/2024/667876d79a79472215cced73",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":2\">{{Cite web |date=2024-06-23 |title=Боевики убили полицейских в российском Дагестане |url=https://ru.euronews.com/2024/06/23/dagestan-terrorist-attack |access-date=2024-06-24 |website=Euronews |language=ru |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624020334/https://ru.euronews.com/2024/06/23/dagestan-terrorist-attack |url-status=live }}</ref>",
                   "url": "https://ru.euronews.com/2024/06/23/dagestan-terrorist-attack",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |title=Миронов предложил смертную казнь для террористов |url=https://ria.ru/20240624/terroristy-1955063867.html |access-date=25 June 2024 |work=RIA Novosti |date=24 June 2024 |language=ru |archive-date=26 June 2024 |archive-url=https://web.archive.org/web/20240626172049/https://ria.ru/20240624/terroristy-1955063867.html |url-status=live }}</ref>",
                   "url": "https://ria.ru/20240624/terroristy-1955063867.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -858,22 +858,22 @@
               "references": [
                 {
                   "text": "<ref name=\"CNN\">{{Cite web |last1=Knight |first1=Mariya |last2=Tarasova |first2=Darya |last3=Deaton |first3=Jen |date=2024-06-23 |title=Gunmen kill police, priest and civilians in attacks on places of worship in Russia's Dagestan |url=https://www.cnn.com/2024/06/23/europe/dagestan-synagogue-attack-russia-intl-latam/index.html |access-date=2024-06-23 |website=CNN |language=en |archive-date=24 June 2024 |archive-url=https://web.archive.org/web/20240624114346/https://www.cnn.com/2024/06/23/europe/dagestan-synagogue-attack-russia-intl-latam/index.html |url-status=live }}</ref>",
-                  "url": "https://www.cnn.com/2024/06/23/europe/dagestan-synagogue-attack-russia-intl-latam/index.html",
-                  "status_code": null,
+                  "url": "https://edition.cnn.com/2024/06/23/europe/dagestan-synagogue-attack-russia-intl-latam/index.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-06-23 |title=More than a dozen killed in synagogue, church attacks in Russia's Dagestan |url=https://www.aljazeera.com/news/2024/6/23/synagogue-church-attacks-in-russias-dagestan-kill-police-report |access-date=2024-06-24 |website=Al Jazeera |language=en |archive-date=25 June 2024 |archive-url=https://web.archive.org/web/20240625051928/https://www.aljazeera.com/news/2024/6/23/synagogue-church-attacks-in-russias-dagestan-kill-police-report |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/6/23/synagogue-church-attacks-in-russias-dagestan-kill-police-report",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"ng6\">{{cite news |title=Убитого в Дербенте протоиерея Николая Котельникова похоронили на территории храма, где он служил с 1979 года |trans-title=Murdered in Derbent archpriest Nikolay Kotelnikov buried on grounds of church, where he served since 1979 |url=https://novayagazeta.eu/articles/2024/06/26/ubitogo-v-derbente-protoiereia-nikolaia-kotelnikova-pokhoronili-na-territorii-khrama-gde-on-sluzhil-s-1979-goda-news |access-date=27 June 2024 |work=Novaya Gazeta Europe |date=26 June 2024}}</ref>",
                   "url": "https://novayagazeta.eu/articles/2024/06/26/ubitogo-v-derbente-protoiereia-nikolaia-kotelnikova-pokhoronili-na-territorii-khrama-gde-on-sluzhil-s-1979-goda-news",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }

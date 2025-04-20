@@ -1,9 +1,10 @@
 # database.py
-from sqlmodel import SQLModel, Session, create_engine, select, delete
-from models import NewsLink
-from loguru import logger
 import re
 
+from loguru import logger
+from sqlmodel import Session, SQLModel, create_engine, delete, select
+
+from models import NewsLink
 
 DATABASE_URL = "sqlite:///news_links.db"
 engine = create_engine(DATABASE_URL)
@@ -39,7 +40,7 @@ def save_to_db(links, year):
                         session.add(NewsLink(url=link, year=year))
                         session.commit()  # Try inserting directly
                         new_links += 1
-                    except Exception as e:
+                    except Exception:
                         session.rollback()  # Rollback if unique constraint fails
         session.commit()
 
@@ -48,11 +49,10 @@ def save_to_db(links, year):
     )
 
 
-def get_first_n_links(year: str, n: int = 10):
+def get_first_n_links(n: int = 1000):
+    """返回数据库中前n条新闻链接，默认返回前 1000 条"""
     with Session(engine) as session:
-        results = session.exec(
-            select(NewsLink.url).where(NewsLink.year == year).limit(n)
-        ).all()
+        results = session.exec(select(NewsLink.url).limit(n)).all()
     logger.info(f"📌 Retrieved {len(results)} links from database.")
     return results
 

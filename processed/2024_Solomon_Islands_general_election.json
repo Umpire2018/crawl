@@ -14,15 +14,15 @@
                 {
                   "text": "<ref name=day>{{cite news |last1=Sasako |first1=Alfred |title=It's 17th April |url=https://www.solomonstarnews.com/its-17th-april/ |access-date=29 January 2024 |work=Solomon Star |date=27 January 2024 |archive-url=https://web.archive.org/web/20240129023721/https://www.solomonstarnews.com/its-17th-april/ |archive-date=29 January 2024|url-status=live}}</ref>",
                   "url": "https://www.solomonstarnews.com/its-17th-april/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Delayed Solomons Election Set For April 17 |url=https://www.barrons.com/news/delayed-solomons-election-set-for-april-17-c692e0a1 |work=Barron's |date=24 January 2024 |access-date=29 January 2024 |archive-date=29 January 2024 |archive-url=https://web.archive.org/web/20240129084257/https://www.barrons.com/news/delayed-solomons-election-set-for-april-17-c692e0a1 |url-status=live }}</ref>",
                   "url": "https://www.barrons.com/news/delayed-solomons-election-set-for-april-17-c692e0a1",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -34,7 +34,7 @@
                 {
                   "text": "<ref name=\":1\">{{Cite news|title=China-friendly Jeremiah Manele picked as Solomon Islands PM by lawmakers|url=https://www.scmp.com/news/asia/australasia/article/3261111/china-friendly-jeremiah-manele-picked-solomon-islands-pm-lawmakers?module=Australasia&pgtype=section|access-date=2 May 2024|work=South China Morning Post|archive-date=4 May 2024|archive-url=https://web.archive.org/web/20240504131630/https://www.scmp.com/news/asia/australasia/article/3261111/china-friendly-jeremiah-manele-picked-solomon-islands-pm-lawmakers?module=Australasia&pgtype=section|url-status=live}}</ref>",
                   "url": "https://www.scmp.com/news/asia/australasia/article/3261111/china-friendly-jeremiah-manele-picked-solomon-islands-pm-lawmakers?module=Australasia&pgtype=section",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -57,84 +57,84 @@
                 {
                   "text": "<ref>{{cite news |title=Sogavare relaunches party amid Solomons coalition talks |url=https://www.rnz.co.nz/international/pacific-news/386825/sogavare-relaunches-party-amid-solomons-coalition-talks |access-date=21 November 2023 |work=Radio New Zealand |date=11 April 2019 |archive-url=https://web.archive.org/web/20230215000631/https://www.rnz.co.nz/international/pacific-news/386825/sogavare-relaunches-party-amid-solomons-coalition-talks |archive-date=15 February 2023|url-status=live}}</ref>",
                   "url": "https://www.rnz.co.nz/international/pacific-news/386825/sogavare-relaunches-party-amid-solomons-coalition-talks",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=pm>{{cite news |last1=Fanasia |first1=Andrew |title=Wale to take on Sogavare for PM's position |url=https://www.solomonstarnews.com/wale-to-take-on-sogavare-for-pm-s-position/ |access-date=21 November 2023 |work=Solomon Star |date=19 April 2019 |archive-url=https://web.archive.org/web/20211031064718/https://www.solomonstarnews.com/wale-to-take-on-sogavare-for-pm-s-position/ |archive-date=31 October 2021|url-status=live}}</ref>",
                   "url": "https://www.solomonstarnews.com/wale-to-take-on-sogavare-for-pm-s-position/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=New Coalition Group Formed, Claims 33 MPs |url=https://www.solomontimes.com/news/new-coalition-group-formed-claims-33-mps/8989 |access-date=21 November 2023 |work=Solomon Times |date=15 April 2019 |archive-url=https://web.archive.org/web/20230529111836/https://www.solomontimes.com/news/new-coalition-group-formed-claims-33-mps/8989 |archive-date=29 May 2023|url-status=live}}</ref>",
                   "url": "https://www.solomontimes.com/news/new-coalition-group-formed-claims-33-mps/8989",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=pm/> Wale challenged Sogavare's eligibility to serve as prime minister in court, claiming he was ineligible as he registered his party after the election, in breach of the electoral act.<ref name=case>{{cite news |title=Case against Solomons PM thrown out of court |url=https://www.rnz.co.nz/international/pacific-news/390598/case-against-solomons-pm-thrown-out-of-court |access-date=21 November 2023 |work=Radio New Zealand |date=27 May 2019 |archive-url=https://web.archive.org/web/20220328122938/https://www.rnz.co.nz/international/pacific-news/390598/case-against-solomons-pm-thrown-out-of-court |archive-date=28 March 2022|url-status=live}}</ref>",
                   "url": "https://www.rnz.co.nz/international/pacific-news/390598/case-against-solomons-pm-thrown-out-of-court",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Sogavare's Eligibility Case May Take Months |url=https://www.solomontimes.com/news/sogavares-eligibility-case-may-take-months/9021 |access-date=21 November 2023 |work=Solomon Times |date=29 April 2019 |archive-url=https://web.archive.org/web/20230604164939/https://www.solomontimes.com/news/sogavares-eligibility-case-may-take-months/9021 |archive-date=4 June 2023|url-status=live}}</ref>",
                   "url": "https://www.solomontimes.com/news/sogavares-eligibility-case-may-take-months/9021",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Solomons' police say no to protest march |url=https://www.rnz.co.nz/international/pacific-news/387330/solomons-police-say-no-to-protest-march |access-date=21 November 2023 |work=Radio New Zealand |date=18 April 2019 |archive-url=https://web.archive.org/web/20220526143851/https://www.rnz.co.nz/international/pacific-news/387330/solomons-police-say-no-to-protest-march |archive-date=26 May 2022|url-status=live}}</ref>",
                   "url": "https://www.rnz.co.nz/international/pacific-news/387330/solomons-police-say-no-to-protest-march",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=el>{{cite news |last1=Fale |first1=Steve |title=Sogavare's Eligibility Case May Take Months |url=https://www.solomontimes.com/news/sogavares-eligibility-case-may-take-months/9021 |access-date=21 November 2023 |work=Solomon Times |date=29 April 2019 |archive-url=https://web.archive.org/web/20230604164939/https://www.solomontimes.com/news/sogavares-eligibility-case-may-take-months/9021 |archive-date=4 June 2023|url-status=live}}</ref>",
                   "url": "https://www.solomontimes.com/news/sogavares-eligibility-case-may-take-months/9021",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Manasseh Sogavare elected prime minister of Solomon Islands |url=https://www.rnz.co.nz/international/pacific-news/387670/manasseh-sogavare-elected-prime-minister-of-solomon-islands |access-date=21 November 2023 |work=Radio New Zealand |date=24 April 2019 |archive-url=https://web.archive.org/web/20221025223222/http://www.rnz.co.nz/international/pacific-news/387670/manasseh-sogavare-elected-prime-minister-of-solomon-islands |archive-date=25 October 2022|url-status=live}}</ref>",
                   "url": "https://www.rnz.co.nz/international/pacific-news/387670/manasseh-sogavare-elected-prime-minister-of-solomon-islands",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Protests erupt as Sogavare is elected as Prime Minister |url=https://www.sibconline.com.sb/protests-erupt-as-sogavare-is-elected-as-prime-minister/ |access-date=21 November 2023 |work=Solomon Islands Broadcasting Corporation |date=24 April 2019 |archive-url=https://web.archive.org/web/20230617144705/https://www.sibconline.com.sb/protests-erupt-as-sogavare-is-elected-as-prime-minister/ |archive-date=17 June 2023|url-status=live}}</ref>",
                   "url": "https://www.sibconline.com.sb/protests-erupt-as-sogavare-is-elected-as-prime-minister/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=el/> Sogavare's return as prime minister resulted in riots in Honiara, stemming from public frustration over the lack of citizen involvement with government formation.<ref>{{cite news |last1=Wyeth |first1=Grant |title=Riots in the Solomon Islands Greet Returned Prime Minister |url=https://thediplomat.com/2019/05/riots-in-the-solomon-islands-greet-returned-prime-minister/ |access-date=21 November 2023 |work=The Diplomat (magazine)|The Diplomat |date=1 May 2019 |archive-url=https://web.archive.org/web/20230127173422/https://thediplomat.com/2019/05/riots-in-the-solomon-islands-greet-returned-prime-minister/ |archive-date=27 January 2023|url-status=live}}</ref>",
                   "url": "https://thediplomat.com/2019/05/riots-in-the-solomon-islands-greet-returned-prime-minister/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Armbruster |first1=Stefan |title=Protests in streets of Solomon Islands after Manasseh Sogavare elected as PM |url=https://www.sbs.com.au/news/article/protests-in-streets-of-solomon-islands-after-manasseh-sogavare-elected-as-pm/bkon0nl7w |access-date=21 November 2023 |work=Special Broadcasting Service |date=24 April 2019 |archive-url=https://web.archive.org/web/20220910044758/https://www.sbs.com.au/news/article/protests-in-streets-of-solomon-islands-after-manasseh-sogavare-elected-as-pm/bkon0nl7w |archive-date=10 September 2022|url-status=live}}</ref>",
                   "url": "https://www.sbs.com.au/news/article/protests-in-streets-of-solomon-islands-after-manasseh-sogavare-elected-as-pm/bkon0nl7w",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=case/>\nThe OUR Party saw numerous MPs join after the election, and by November 2019, the party had attained a comfortable majority of 32 seats.<ref>{{cite news |last1=Fanasia |first1=Andrew |title=OUR Party Runs Show |url=https://www.solomonstarnews.com/our-party-runs-show/ |access-date=21 November 2023 |work=Solomon Star |date=1 November 2019 |archive-url=https://web.archive.org/web/20221203115728/https://www.solomonstarnews.com/our-party-runs-show/ |archive-date=3 December 2022|url-status=live}}</ref>",
                   "url": "https://www.solomonstarnews.com/our-party-runs-show/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -155,21 +155,21 @@
                     {
                       "text": "<ref name=dip>{{cite news |last1=McDonald |first1=Joshua |title=Violent Protests Unsettle Solomon Islands |url=https://thediplomat.com/2021/11/violent-protests-unsettle-solomon-islands/ |access-date=26 November 2023 |work=The Diplomat (magazine)|The Diplomat |date=26 November 2021 |archive-url=https://web.archive.org/web/20230321144308/https://thediplomat.com/2021/11/violent-protests-unsettle-solomon-islands/ |archive-date=21 March 2023|url-status=live}}</ref>",
                       "url": "https://thediplomat.com/2021/11/violent-protests-unsettle-solomon-islands/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=guardian>{{cite news |title=Solomon Islands unrest: New Zealand to send dozens of peacekeepers |url=https://www.theguardian.com/world/2021/dec/01/solomon-islands-unrest-new-zealand-to-send-dozens-of-peacekeepers |access-date=26 November 2023 |work=The Guardian |date=1 December 2021 |archive-url=https://web.archive.org/web/20230923061432/https://www.theguardian.com/world/2021/dec/01/solomon-islands-unrest-new-zealand-to-send-dozens-of-peacekeepers |archive-date=23 September 2023|url-status=live}}</ref>",
                       "url": "https://www.theguardian.com/world/2021/dec/01/solomon-islands-unrest-new-zealand-to-send-dozens-of-peacekeepers",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=dip/> resulting in three deaths. Once the rioting ceased, military personnel and police from Australia, Fiji, New Zealand and Papua New Guinea were deployed to help restore order.<ref name=guardian/> Opposition Leader Matthew Wale called for Sogavare to do \"the honourable thing and resign\" and announced he would file a Motion of no confidence|no-confidence motion if the prime minister refused. Sogavare resisted calls to step down and blamed interference from unnamed foreign powers for the riots, stating, \"I don't want to name names…we know who they are\".<ref name=dip/> Wale subsequently introduced a no-confidence motion, which Parliament voted on in December 2021. During the debate, Sogavare claimed the \"innocent people of Malaita have been lied to by these agents of Taiwan\" and described the riots as an \"attempted illegal coup\". Sogavare survived the no-confidence motion with 32 MPs voting to keep him in office.<ref>{{cite news |title=Solomon Islands Prime Minister Manasseh Sogavare survives vote of no confidence |url=https://www.abc.net.au/news/2021-12-06/solomon-islands-pm-sogavare-survives-vote-no-confidence/100676588 |access-date=26 November 2023 |work=Australian Broadcasting Corporation |date=6 December 2021 |archive-url=https://web.archive.org/web/20230204230501/https://www.abc.net.au/news/2021-12-06/solomon-islands-pm-sogavare-survives-vote-no-confidence/100676588 |archive-date=4 February 2023|url-status=live}}</ref>",
                       "url": "https://www.abc.net.au/news/2021-12-06/solomon-islands-pm-sogavare-survives-vote-no-confidence/100676588",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -192,28 +192,28 @@
                     {
                       "text": "<ref name=low>{{cite news |last1=Kiloe |first1=Ilan |title=The disproportionate attention on the Solomons-China security pact |url=https://www.lowyinstitute.org/the-interpreter/disproportionate-attention-solomons-china-security-pact |access-date=29 December 2023 |work=Lowy Institute |date=11 May 2023 |archive-url=https://web.archive.org/web/20230902040231/https://www.lowyinstitute.org/the-interpreter/disproportionate-attention-solomons-china-security-pact |archive-date=2 September 2023|url-status=live}}</ref>",
                       "url": "https://www.lowyinstitute.org/the-interpreter/disproportionate-attention-solomons-china-security-pact",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=dip2>{{cite news |last1=Zhang |first1=Denghua |last2=Pendeverana |first2=Lincy |last3=Diamana |first3=Walter |title=What Do China and Solomon Islands Get From Their Security Pact? |url=https://thediplomat.com/2022/05/what-do-china-and-solomon-islands-get-from-their-security-pact/ |access-date=29 December 2023 |work=The Diplomat (magazine)|The Diplomat |date=4 May 2022 |archive-url=https://web.archive.org/web/20230610224625/https://thediplomat.com/2022/05/what-do-china-and-solomon-islands-get-from-their-security-pact/ |archive-date=10 June 2023|url-status=live}}</ref>",
                       "url": "https://thediplomat.com/2022/05/what-do-china-and-solomon-islands-get-from-their-security-pact/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=guard2>{{cite news |last1=Piringi |first1=Charley |title=As Solomon Islands' election looms, China's influence on the Pacific country draws scrutiny |url=https://www.theguardian.com/world/2024/apr/15/as-solomon-islands-election-looms-chinas-influence-on-the-pacific-country-draws-scrutiny?ref=upstract.com |access-date=15 April 2024 |work=The Guardian |date=14 April 2024 |archive-url=https://web.archive.org/web/20240415031849/https://www.theguardian.com/world/2024/apr/15/as-solomon-islands-election-looms-chinas-influence-on-the-pacific-country-draws-scrutiny?ref=upstract.com |archive-date=15 April 2024|url-status=live|location=Honiara}}</ref>",
                       "url": "https://www.theguardian.com/world/2024/apr/15/as-solomon-islands-election-looms-chinas-influence-on-the-pacific-country-draws-scrutiny?ref=upstract.com",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=low/><ref name=dip2/> The pact prompted the United States to re-open an embassy in Honiara in 2023.<ref>{{cite news |title=US opens new embassy in Solomon Islands to counter China's increasing presence in the Pacific |url=https://www.abc.net.au/news/2023-02-02/us-opens-embassy-solomon-islands-china-beijing-presence-pacific/101921796 |access-date=29 December 2023 |work=Australian Broadcasting Corporation |date=2 February 2023 |archive-url=https://web.archive.org/web/20231224090117/https://www.abc.net.au/news/2023-02-02/us-opens-embassy-solomon-islands-china-beijing-presence-pacific/101921796 |archive-date=24 December 2023|url-status=live}}</ref>",
                       "url": "https://www.abc.net.au/news/2023-02-02/us-opens-embassy-solomon-islands-china-beijing-presence-pacific/101921796",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -238,14 +238,14 @@
                 {
                   "text": "<ref name=act>{{cite act |title=Electoral Act 2018 |url=https://solomon-islands.ec-undp-electoralassistance.org/wp-content/uploads/sites/4/2018/09/ec-undp-jtf-solomons-islands-resources-electoral-act-2018.pdf |publisher=National Parliament of the Solomon Islands |date=2018 |access-date=21 November 2023 |archive-url=https://web.archive.org/web/20200923224425/https://solomon-islands.ec-undp-electoralassistance.org/wp-content/uploads/sites/4/2018/09/ec-undp-jtf-solomons-islands-resources-electoral-act-2018.pdf |archive-date=23 September 2020 |pages=30–32,34 |url-status=live }} {{Cite web |url=https://solomon-islands.ec-undp-electoralassistance.org/wp-content/uploads/sites/4/2018/09/ec-undp-jtf-solomons-islands-resources-electoral-act-2018.pdf |title=Archived copy |access-date=21 November 2023 |archive-date=23 September 2020 |archive-url=https://web.archive.org/web/20200923224425/https://solomon-islands.ec-undp-electoralassistance.org/wp-content/uploads/sites/4/2018/09/ec-undp-jtf-solomons-islands-resources-electoral-act-2018.pdf |url-status=bot: unknown }}</ref>",
                   "url": "https://solomon-islands.ec-undp-electoralassistance.org/wp-content/uploads/sites/4/2018/09/ec-undp-jtf-solomons-islands-resources-electoral-act-2018.pdf",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=IPU>{{cite web |title=Electoral System |url=http://archive.ipu.org/parline-e/reports/2289_B.htm |publisher=IPU |access-date=21 November 2023 |archive-url=https://web.archive.org/web/20221219015053/http://archive.ipu.org/parline-e/reports/2289_B.htm |archive-date=19 December 2022|url-status=live}}</ref>",
                   "url": "http://archive.ipu.org/parline-e/reports/2289_B.htm",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -266,29 +266,29 @@
                     {
                       "text": "<ref name=IPU/> The 2018 electoral act introduced pre-polling, open to polling staff and police officers that are to provide security for voting centres on election day.<ref>{{cite news |title=First Pre-Poll Voting Successful |url=https://www.solomontimes.com/news/first-prepoll-voting-successful/8929 |access-date=21 November 2023 |work=Solomon Times|date=22 March 2019 |archive-url=https://web.archive.org/web/20210418044512/https://www.solomontimes.com/news/first-prepoll-voting-successful/8929 |archive-date=18 April 2021|url-status=live}}</ref>",
                       "url": "https://www.solomontimes.com/news/first-prepoll-voting-successful/8929",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Eddie |first1=Lachlan |title=Seasonal workers will not participate in elections |url=https://www.solomonstarnews.com/seasonal-workers-will-not-participate-in-elections/ |access-date=8 February 2024 |work=Solomon Star |date=5 February 2024 |archive-url=https://web.archive.org/web/20240205074341/https://www.solomonstarnews.com/seasonal-workers-will-not-participate-in-elections/ |archive-date=5 February 2024|url-status=live |location=Honiara}}</ref>",
                       "url": "https://www.solomonstarnews.com/seasonal-workers-will-not-participate-in-elections/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=parties>{{cite news |title=Solomon Islands election 2024: 13 political parties to contest |url=https://www.rnz.co.nz/international/pacific-news/508666/solomon-islands-election-2024-13-political-parties-to-contest |access-date=8 February 2024 |work=Radio New Zealand |date=8 February 2024 |archive-url=https://web.archive.org/web/20240208023057/https://www.rnz.co.nz/international/pacific-news/508666/solomon-islands-election-2024-13-political-parties-to-contest |archive-date=8 February 2024|url-status=live}}</ref>",
                       "url": "https://www.rnz.co.nz/international/pacific-news/508666/solomon-islands-election-2024-13-political-parties-to-contest",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |title=Elections in Solomon Islands: 2024 Joint Elections |url=https://www.ifes.org/tools-resources/election-snapshots/elections-solomon-islands-2024-joint-elections |publisher=IFES |access-date=12 April 2024 |archive-url=https://web.archive.org/web/20240412034802/https://www.ifes.org/tools-resources/election-snapshots/elections-solomon-islands-2024-joint-elections |archive-date=12 April 2024 |url-status=live}}</ref>",
                       "url": "https://www.ifes.org/tools-resources/election-snapshots/elections-solomon-islands-2024-joint-elections",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -310,63 +310,63 @@
                     {
                       "text": "<ref>{{cite news |last1=Nolan |first1=Jimmy |title=Parliament Passes Bill to Defer Elections to 2024 |url=https://www.solomontimes.com/news/parliament-passes-bill-to-defer-elections-to-2024/12168 |access-date=21 November 2023 |work=Solomon Times |date=9 September 2022 |archive-url=https://web.archive.org/web/20220909105137/https://www.solomontimes.com/news/parliament-passes-bill-to-defer-elections-to-2024/12168 |archive-date=9 September 2022|url-status=live}}</ref>",
                       "url": "https://www.solomontimes.com/news/parliament-passes-bill-to-defer-elections-to-2024/12168",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Osifelo |first1=Eddie |title=Elections in April 2024 |url=https://theislandsun.com.sb/elections-in-april-2024/ |access-date=21 November 2023 |work=The Island Sun |date=9 September 2022 |archive-url=https://web.archive.org/web/20230606004516/https://theislandsun.com.sb/elections-in-april-2024/ |archive-date=6 June 2023}}</ref>",
                       "url": "https://theislandsun.com.sb/elections-in-april-2024/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=ib>{{cite news |title=Solomon Islands election delayed to 2024 |url=https://islandsbusiness.com/news-break/solomon-islands-election-delayed-to-2024/ |access-date=2 December 2023 |work=Islands Business |date=10 September 2022 |archive-url=https://web.archive.org/web/20220912230839/https://islandsbusiness.com/news-break/solomon-islands-election-delayed-to-2024/ |archive-date=12 September 2022}}</ref>",
                       "url": "https://islandsbusiness.com/news-break/solomon-islands-election-delayed-to-2024/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=dip1>{{cite news |last1=Perry |first1=Nick |title=Solomon Islands to Delay Election, Raising Fears of Unrest |url=https://thediplomat.com/2022/09/solomon-islands-to-delay-election-raising-fears-of-unrest/ |access-date=2 December 2023 |work=The Diplomat (magazine)|The Diplomat |date=8 September 2022 |archive-url=https://web.archive.org/web/20230924071843/https://thediplomat.com/2022/09/solomon-islands-to-delay-election-raising-fears-of-unrest/ |archive-date=24 September 2023|url-status=live}}</ref>",
                       "url": "https://thediplomat.com/2022/09/solomon-islands-to-delay-election-raising-fears-of-unrest/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Osifelo |first1=Eddie |title=People VS DCGA |url=https://theislandsun.com.sb/people-vs-dcga/ |access-date=30 December 2023 |work=The Island Sun |date=27 June 2022 |archive-url=https://web.archive.org/web/20230606003201/https://theislandsun.com.sb/people-vs-dcga/ |archive-date=6 June 2023}}</ref>",
                       "url": "https://theislandsun.com.sb/people-vs-dcga/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=dip1/><ref name=1guardian>{{cite news |last1=Lyons |first1=Kate |title=Solomon Islands PM's election delay push a 'power grab' linked to China pact, opposition leader alleges |url=https://www.theguardian.com/world/2022/aug/11/solomon-islands-pms-election-delay-push-a-power-grab-linked-to-china-pact-opposition-leader-says |access-date=21 November 2023 |work=The Guardian |date=10 August 2022 |archive-url=https://web.archive.org/web/20221129024745/https://www.theguardian.com/world/2022/aug/11/solomon-islands-pms-election-delay-push-a-power-grab-linked-to-china-pact-opposition-leader-says |archive-date=29 November 2022|url-status=live}}</ref>",
                       "url": "https://www.theguardian.com/world/2022/aug/11/solomon-islands-pms-election-delay-push-a-power-grab-linked-to-china-pact-opposition-leader-says",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=ib/> An electoral amendment bill passed by parliament on 14 December 2023 arranged for the national election to occur on the same day as the provincial and Honiara City Council elections,<ref>{{cite news |title=Towards Synchronised Elections With Parliamentary Passing of Bills |url=https://solomons.gov.sb/towards-synchronised-elections-with-parliamentary-passing-of-bills/ |access-date=31 December 2023 |work=Solomon Islands Election Office Press|via=Solomon Islands Government |date=20 December 2023 |archive-url=https://web.archive.org/web/20231231012239/https://solomons.gov.sb/towards-synchronised-elections-with-parliamentary-passing-of-bills/ |archive-date=31 December 2023|url-status=live}}</ref>",
                       "url": "https://solomons.gov.sb/towards-synchronised-elections-with-parliamentary-passing-of-bills/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 307,
+                      "reason": "Temporary Redirect",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Rovoi |first1=Christine |title=Voter education key, media expert says |url=https://pmn.co.nz/read/pacific-region/voter-education-key-media-expert-says |access-date=13 April 2024 |work=Pacific Media Network |date=10 April 2024 |archive-url=https://web.archive.org/web/20240410215941/https://pmn.co.nz/read/pacific-region/voter-education-key-media-expert-says |archive-date=10 April 2024|url-status=live}}</ref>",
                       "url": "https://pmn.co.nz/read/pacific-region/voter-education-key-media-expert-says",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=West and Choiseul Province Awaits Election Results |url=https://www.solomontimes.com/news/west-and-choiseul-province-awaits-election-results/12342 |access-date=13 April 2024 |work=Solomon Times |date=15 December 2022 |archive-url=https://web.archive.org/web/20221215065713/https://www.solomontimes.com/news/west-and-choiseul-province-awaits-election-results/12342 |archive-date=15 December 2022|url-status=live}}</ref>",
                       "url": "https://www.solomontimes.com/news/west-and-choiseul-province-awaits-election-results/12342",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -391,7 +391,7 @@
                 {
                   "text": "<ref>{{cite news |last1=Maka{{okina}}a |first1=Gina |title=14-Day Nomination Period for Joint SI Elections Now Open |url=https://indepthsolomons.com.sb/14-day-nomination-period-for-joint-si-elections-now-open/ |access-date=22 February 2024 |work=In-depth Solomons |date=20 February 2024 |archive-url=https://archive.today/20240222075757/https://indepthsolomons.com.sb/14-day-nomination-period-for-joint-si-elections-now-open/ |archive-date=22 February 2024|url-status=live}}</ref>",
                   "url": "https://indepthsolomons.com.sb/14-day-nomination-period-for-joint-si-elections-now-open/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -414,49 +414,49 @@
                 {
                   "text": "<ref name=sinp>{{cite news |last1=Houanihau |first1=John |title=334 Candidates to Contest the Solomon Islands National Election |url=https://sundayisles.islesmedia.net/334-candidates-to-contest-the-solomon-islands-national-election/ |access-date=6 April 2024 |work=Sunday Isles |date=21 March 2024 |archive-url=https://web.archive.org/web/20240406032657/https://sundayisles.islesmedia.net/334-candidates-to-contest-the-solomon-islands-national-election/ |archive-date=6 April 2024|url-status=live}}</ref>",
                   "url": "https://sundayisles.islesmedia.net/334-candidates-to-contest-the-solomon-islands-national-election/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=rnz3>{{cite news |title=Women make up just 6% of candidates for Solomon Islands election |url=https://www.rnz.co.nz/international/pacific-news/511591/women-make-up-just-6-percent-of-candidates-for-solomon-islands-election |access-date=6 April 2024 |work=Radio New Zealand |date=13 March 2024 |archive-url=https://web.archive.org/web/20240313020602/https://www.rnz.co.nz/international/pacific-news/511591/women-make-up-just-6-percent-of-candidates-for-solomon-islands-election |archive-date=13 March 2024|url-status=live}}</ref>",
                   "url": "https://www.rnz.co.nz/international/pacific-news/511591/women-make-up-just-6-percent-of-candidates-for-solomon-islands-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=McGuirk |first1=Rod |title=Solomon Islands' elections could impact China's influence in the South Pacific |url=https://apnews.com/article/solomon-islands-election-china-sogavare-d6403a59c4927bff0b84613fe726fd72 |access-date=15 April 2024 |work=Associated Press |date=6 February 2024 |archive-date=15 April 2024 |archive-url=https://web.archive.org/web/20240415101118/https://apnews.com/article/solomon-islands-election-china-sogavare-d6403a59c4927bff0b84613fe726fd72 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/solomon-islands-election-china-sogavare-d6403a59c4927bff0b84613fe726fd72",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=SIEC>{{cite web |title=Election Candidates |url=https://siec.gov.sb/voter-information/election-candidates/ |publisher=Solomon Islands Electoral Commission |access-date=12 April 2024 |archive-date=21 April 2024 |archive-url=https://web.archive.org/web/20240421200332/https://siec.gov.sb/voter-information/election-candidates/ |url-status=live }}</ref>",
                   "url": "https://siec.gov.sb/voter-information/election-candidates/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=rnz3/><ref>{{cite news |last1=Dadamu |first1=Alex |title=13 Political Parties to Contest Election: 3 New, 5 Suspended |url=https://www.sibconline.com.sb/13-political-parties-to-contest-election-3-new-5-suspended/ |access-date=8 February 2024 |work=Solomon Islands Broadcasting Corporation |date=6 February 2024 |archive-url=https://web.archive.org/web/20240207013545/https://www.sibconline.com.sb/13-political-parties-to-contest-election-3-new-5-suspended/ |archive-date=7 February 2024|url-status=live}}</ref>",
                   "url": "https://www.sibconline.com.sb/13-political-parties-to-contest-election-3-new-5-suspended/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |last=Toito'ona |first=Ronald |date=9 April 2024|title=Political parties stepping out for the contest |url=https://indepthsolomons.com.sb/political-parties-stepping-out-for-the-contest/ |access-date=26 April 2024|work=In-depth Solomons|archive-url= https://web.archive.org/web/20240314005200/https://indepthsolomons.com.sb/political-parties-stepping-out-for-the-contest/|archive-date=14 March 2024|url-status=live}}</ref>",
                   "url": "https://indepthsolomons.com.sb/political-parties-stepping-out-for-the-contest/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"lowy\">{{Cite web |last1=Fraenkel|first1=Jon|title=Solomon Islands: Unexpected defeat for Sogavare |url=https://www.lowyinstitute.org/the-interpreter/solomon-islands-unexpected-defeat-sogavare |date=26 April 2024|access-date=26 April 2024|website=Lowy Institute |archive-url=https://web.archive.org/web/20240426055523/https://www.lowyinstitute.org/the-interpreter/solomon-islands-unexpected-defeat-sogavare|archive-date=26 April 2024|url-status=live}}</ref>",
                   "url": "https://www.lowyinstitute.org/the-interpreter/solomon-islands-unexpected-defeat-sogavare",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -476,42 +476,42 @@
                 {
                   "text": "<ref name=sinp/><ref name=care1>{{cite news |title=CARE Coalition set to launch policy |url=https://www.sibconline.com.sb/care-coalition-set-to-launch-policy/ |access-date=2 December 2024 |work=Solomon Islands Broadcasting Corporation |date=12 February 2024 |archive-url=https://web.archive.org/web/20240822101215/https://www.sibconline.com.sb/care-coalition-set-to-launch-policy/ |archive-date=22 August 2024|url-status=live}}</ref>",
                   "url": "https://www.sibconline.com.sb/care-coalition-set-to-launch-policy/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=res>{{cite web |title=Results |url=https://solomonelections.net/results |publisher=Solomon Islands Electoral Commission |access-date=6 April 2024 |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406041442/https://solomonelections.net/results |url-status=live }}</ref>",
                   "url": "https://solomonelections.net/results",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=sinp/><ref name=rnzu/><ref name=res/>\n|-\n| style=\"background:{{party colour|Kadere Party}};\"|\n|align=left|Kadere Party\n|align=left|Martin Housanau \n| 21\n| 9.50%\n| {{Composition bar|8|50|{{party colour|Kadere Party}}}}\n| <ref name=sinp/><ref name=kadere/><ref name=res/>\n|-\n| style=\"background:{{party colour|Democratic Alliance Party (Solomon Islands)}};\"|\n|align=left|Democratic Alliance Party (Solomon Islands)|Democratic Alliance Party\n|align=left|Rick Houenipwela\n| 10\n| 6.37%\n| {{Composition bar|3|50|{{party colour|Democratic Alliance Party (Solomon Islands)}}}}\n| <ref name=sinp/><ref name=care1/><ref name=res/>\n|-\n| style=\"background:{{party colour|People's Alliance Party (Solomon Islands)}};\"|\n|align=left|People's Alliance Party (Solomon Islands)|People's Alliance Party\n|align=left|Nathaniel Waena\n| 15\n| 6.00%\n| {{Composition bar|2|50|{{party colour|People's Alliance Party (Solomon Islands)}}}}\n| <ref name=sinp/><ref name=res/><ref name=CIA>{{cite web|url=https://www.cia.gov/the-world-factbook/countries/solomon-islands/|title=Solomon Islands|website=CIA World Factbook|access-date=24 April 2024|archive-date=22 October 2021|archive-url=https://web.archive.org/web/20211022092556/https://www.cia.gov/the-world-factbook/countries/solomon-islands/|url-status=live}}</ref>",
                   "url": "https://www.cia.gov/the-world-factbook/countries/solomon-islands/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=sinp/><ref name=res/><ref name=CIA/>\n|-\n| style=\"background:{{party colour|Solomon Islands Party for Rural Advancement}};\"|\n|align=left|Solomon Islands Party for Rural Advancement\n|align=left|Gordon Darcy Lilo\n| 17\n| 3.19%\n| {{Composition bar|1|50|{{party colour|Solomon Islands Party for Rural Advancement}}}}\n| <ref name=sinp/><ref name=sipra>{{cite news |last1=Dadamu |first1=Alex |title=SIPRA Pledges to combat Corruption |url=https://www.sibconline.com.sb/sipra-pledges-to-combat-anti-corruption/ |access-date=15 April 2024 |work=Solomon Islands Broadcasting Corporation |date=26 February 2024 |archive-url=https://web.archive.org/web/20240314061901/https://www.sibconline.com.sb/sipra-pledges-to-combat-anti-corruption/ |archive-date=14 March 2024|url-status=live}}</ref>",
                   "url": "https://www.sibconline.com.sb/sipra-pledges-to-combat-anti-corruption/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=res/>\n|-\n| style=\"background:{{party colour|National Transformation Party (Solomon Islands)}};\"|\n|align=left|National Transformation Party\n|\n| 3\n| 1.49%\n| {{Composition bar|0|50}}\n| <ref name=sinp/><ref name=res/>\n|-\n| style=\"background:{{party colour|Green Party Solomon Islands}};\"|\n|align=left|Green Party Solomon Islands\n|align=left|Lawrence Makili\n| 2\n| 0.20%\n| {{Composition bar|0|50}}\n| <ref name=sinp/><ref name=res/><ref>{{cite news |last1=Gagahe |first1=Ned |title=Green Party elects new office bearers |url=https://theislandsun.com.sb/green-party-elects-new-office-bearers/ |access-date=26 April 2024 |work=The Island Sun |date=25 April 2023 |archive-url=https://web.archive.org/web/20230527123146/https://theislandsun.com.sb/green-party-elects-new-office-bearers/ |archive-date=27 May 2023|url-status=live}}</ref>",
                   "url": "https://theislandsun.com.sb/green-party-elects-new-office-bearers/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=sinp/><ref name=our/><ref name=res/>\n|-\n| style=\"background:{{party colour|Umi for Change Party}};\"|\n|align=left|Umi for Change Party\n|align=left|Daniel Suidani\n| 8\n| {{N/A}}\n| {{N/A}}\n| <ref name=sinp/><ref name=umi/><ref name=res/>\n|-\n| style=\"background:{{party colour|People's Liberal Democratic Party (Solomon Islands)}};\"|\n|align=left|People's Liberal Democratic Party\n|align=left|Benedict Maesua \n| 30\n| {{N/A}}\n| {{N/A}}\n| <ref name=sinp/><ref>{{cite news |last1=Ride |first1=Anouk |title=Solomon Islands goes to the polls. Here's what to expect |url=https://pina.com.fj/2024/04/12/solomon-islands-goes-to-the-polls-heres-what-to-expect/ |access-date=14 April 2024 |work=Pacific Islands News Association |date=12 April 2024 |archive-url=https://web.archive.org/web/20240412012128/https://pina.com.fj/2024/04/12/solomon-islands-goes-to-the-polls-heres-what-to-expect/ |archive-date=12 April 2024|url-status=live}}</ref>",
                   "url": "https://pina.com.fj/2024/04/12/solomon-islands-goes-to-the-polls-heres-what-to-expect/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -534,14 +534,14 @@
                 {
                   "text": "<ref name=reuters>{{cite news |last1=Needham |first1=Kirsty |last2=Craymer |first2=Lucy |title=Solomon Islands election watched by US, China amid Pacific influence contest |url=https://www.reuters.com/world/asia-pacific/solomon-islands-election-watched-by-us-china-amid-pacific-influence-contest-2024-04-12/ |access-date=13 April 2024 |work=Reuters |archive-url=https://archive.today/20240412070729/https://www.reuters.com/world/asia-pacific/solomon-islands-election-watched-by-us-china-amid-pacific-influence-contest-2024-04-12/ |archive-date=12 April 2024|url-status=live}}</ref>",
                   "url": "https://www.reuters.com/world/asia-pacific/solomon-islands-election-watched-by-us-china-amid-pacific-influence-contest-2024-04-12/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Solomon Islands prepares for election in shadow of China's influence |url=https://www.scmp.com/news/asia/australasia/article/3258947/solomon-islands-prepares-election-shadow-chinas-influence |access-date=15 April 2024 |work=South China Morning Post |date=14 April 2024 |archive-url=https://web.archive.org/web/20240414110843/https://www.scmp.com/news/asia/australasia/article/3258947/solomon-islands-prepares-election-shadow-chinas-influence |archive-date=14 April 2024|url-status=live}}</ref>",
                   "url": "https://www.scmp.com/news/asia/australasia/article/3258947/solomon-islands-prepares-election-shadow-chinas-influence",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -562,21 +562,21 @@
                     {
                       "text": "<ref>{{cite news |title=OUR Party to launch Manifesto |url=https://www.sibconline.com.sb/our-party-to-launch-manifesto/ |access-date=14 February 2024 |work=Solomon Islands Broadcasting Corporation |date=7 February 2024 |archive-url=https://web.archive.org/web/20240208031113/https://www.sibconline.com.sb/our-party-to-launch-manifesto/ |archive-date=8 February 2024|url-status=live}}</ref>",
                       "url": "https://www.sibconline.com.sb/our-party-to-launch-manifesto/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=our>{{cite news |title=OUR Party unveils five key policy priorities |url=https://www.sibconline.com.sb/our-party-unveils-five-key-policy-priorities/ |access-date=14 February 2024 |work=Solomon Islands Broadcasting Corporation |date=12 February 2024 |archive-url=https://web.archive.org/web/20240213040255/https://www.sibconline.com.sb/our-party-unveils-five-key-policy-priorities/ |archive-date=13 February 2024|url-status=live}}</ref>",
                       "url": "https://www.sibconline.com.sb/our-party-unveils-five-key-policy-priorities/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Sas |first1=Nick |last2=Dziedzic |first2=Stephen |last3=Aumanu-Leong |first3=Chrisnrita |title=Solomon Islands prime minister critical of democracy, praises 'Chinese-style' governance |url=https://www.abc.net.au/news/2024-03-20/solomon-islands-prime-minister-defends-chinese-governance-style/103606172 |access-date=4 April 2024 |work=Australian Broadcasting Corporation |date=20 March 2024 |archive-url=https://web.archive.org/web/20240403104520/https://www.abc.net.au/news/2024-03-20/solomon-islands-prime-minister-defends-chinese-governance-style/103606172 |archive-date=3 April 2024|url-status=live}}</ref>",
                       "url": "https://www.abc.net.au/news/2024-03-20/solomon-islands-prime-minister-defends-chinese-governance-style/103606172",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -599,42 +599,42 @@
                     {
                       "text": "<ref>{{cite news |title='WE CARE': SIDP and DAP signs coalition agreement ahead of elections |url=https://www.sibconline.com.sb/we-care-sidp-and-dap-signs-coalition-agreement-ahead-of-elections/ |access-date=8 February 2024 |work=Solomon Islands Broadcasting Corporation |date=6 February 2024 |archive-url=https://web.archive.org/web/20240208014257/https://www.sibconline.com.sb/we-care-sidp-and-dap-signs-coalition-agreement-ahead-of-elections/ |archive-date=8 February 2024|url-status=live}}</ref>",
                       "url": "https://www.sibconline.com.sb/we-care-sidp-and-dap-signs-coalition-agreement-ahead-of-elections/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=sibc2>{{cite news|url=https://www.sibconline.com.sb/know-the-parties-and-the-their-number-of-elected-members-so-far/|title=Know the Parties and their number of elected members|work=Solomon Islands Broadcasting Corporation|date=21 April 2024|access-date=24 April 2024|archive-date=24 April 2024|archive-url= https://web.archive.org/web/20240424225445/https://www.sibconline.com.sb/know-the-parties-and-the-their-number-of-elected-members-so-far/ |url-status=live}}</ref>",
                       "url": "https://www.sibconline.com.sb/know-the-parties-and-the-their-number-of-elected-members-so-far/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Campaigns ramp up for Solomon Islands election |url=https://www.rnz.co.nz/international/pacific-news/509388/campaigns-ramp-up-for-solomon-islands-election |access-date=16 February 2024 |work=Radio New Zealand |date=16 February 2024 |archive-url=https://web.archive.org/web/20240216111641/https://www.rnz.co.nz/international/pacific-news/509388/campaigns-ramp-up-for-solomon-islands-election |archive-date=16 February 2024|url-status=live}}</ref>",
                       "url": "https://www.rnz.co.nz/international/pacific-news/509388/campaigns-ramp-up-for-solomon-islands-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=in>{{cite news |last1=Piringi |first1=Charley |title=Wale pledges to balance Solomons' international engagement |url=https://indepthsolomons.com.sb/wale-pledges-to-balance-solomons-international-engagement/ |access-date=22 February 2024 |work=In-depth Solomons |date=14 February 2024 |archive-url=https://web.archive.org/web/20240214074517/https://indepthsolomons.com.sb/wale-pledges-to-balance-solomons-international-engagement/ |archive-date=14 February 2024|url-status=live}}</ref>",
                       "url": "https://indepthsolomons.com.sb/wale-pledges-to-balance-solomons-international-engagement/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Kusu |first1=Fredrick |title=CARE pledges a 15 percent pay increase for gov't employees and improve health service delivery |url=https://www.sibconline.com.sb/care-pledges-a-15-percent-pay-increase-for-govt-employees-and-improve-health-service-delivery/ |access-date=16 February 2024|work=Solomon Islands Broadcasting Corporation |date=14 February 2024|archive-url=https://web.archive.org/web/20240215025255/https://www.sibconline.com.sb/care-pledges-a-15-percent-pay-increase-for-govt-employees-and-improve-health-service-delivery/|archive-date=15 February 2024|url-status=live}}</ref>",
                       "url": "https://www.sibconline.com.sb/care-pledges-a-15-percent-pay-increase-for-govt-employees-and-improve-health-service-delivery/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Kusu |first1=Fredrick |title=CARE threatens to abolish constitutionally established PEC if in government |url=https://www.sibconline.com.sb/care-threatens-to-abolish-constitutionally-established-pec-if-in-government/ |access-date=16 February 2024 |work=Solomon Islands Broadcasting Corporation |date=15 February 2024 |archive-url=https://web.archive.org/web/20240216110802/https://www.sibconline.com.sb/care-threatens-to-abolish-constitutionally-established-pec-if-in-government/ |archive-date=16 February 2024|url-status=live}}</ref>",
                       "url": "https://www.sibconline.com.sb/care-threatens-to-abolish-constitutionally-established-pec-if-in-government/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -655,42 +655,42 @@
                         {
                           "text": "<ref>{{cite news |last1=Waikori |first1=Samie |title=Premier Suidani forms new political party |url=https://theislandsun.com.sb/premier-suidani-forms-new-political-party/ |access-date=18 February 2024 |work=The Island Sun |date=10 October 2022 |archive-url=https://web.archive.org/web/20230602110104/https://theislandsun.com.sb/premier-suidani-forms-new-political-party/ |archive-date=2 June 2023|url-status=live |location=Auki}}</ref>",
                           "url": "https://theislandsun.com.sb/premier-suidani-forms-new-political-party/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Brennan |first1=Dechlan |title=Malaita Premier Daniel Suidani Ousted in Solomon Islands |url=https://thediplomat.com/2023/02/malaita-premier-daniel-suidani-ousted-in-solomon-islands/ |access-date=18 February 2024 |work=The Diplomat (magazine)|The Diplomat |date=23 February 2023 |archive-url=https://web.archive.org/web/20231123125254/https://thediplomat.com/2023/02/malaita-premier-daniel-suidani-ousted-in-solomon-islands/ |archive-date=23 November 2023|url-status=live}}</ref>",
                           "url": "https://thediplomat.com/2023/02/malaita-premier-daniel-suidani-ousted-in-solomon-islands/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref name=U4C>{{cite news |last1=Palmer |first1=Ednal |title=U4C Launches Election Manifesto, Promotes MARA's Restorative Policy |url=https://indepthsolomons.com.sb/u4c-launches-election-manifesto-promotes-maras-restorative-policy/ |access-date=18 February 2024 |work=In-depth Solomons |date=30 January 2024 |archive-url=https://web.archive.org/web/20240130035156/https://indepthsolomons.com.sb/u4c-launches-election-manifesto-promotes-maras-restorative-policy/ |archive-date=30 January 2024|url-status=live |location=Auki}}</ref>",
                           "url": "https://indepthsolomons.com.sb/u4c-launches-election-manifesto-promotes-maras-restorative-policy/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Lofana |first1=Solomon |title=Suidani: Malaita to complete 18 PCDF projects |url=https://www.solomonstarnews.com/suidani-malaita-to-complete-18-pcdf-projects/ |access-date=18 February 2024 |work=Solomon Star |date=22 August 2022 |archive-url=https://web.archive.org/web/20221203070635/https://www.solomonstarnews.com/suidani-malaita-to-complete-18-pcdf-projects/ |archive-date=3 December 2022|url-status=live |location=Auki}}</ref>",
                           "url": "https://www.solomonstarnews.com/suidani-malaita-to-complete-18-pcdf-projects/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref name=U4C/><ref>{{cite news |last1=Lofana |first1=Solomon |title=Suidani's Party stand to remove public officers immunity |url=https://www.solomonstarnews.com/suidanis-party-stand-to-remove-public-officers-immunity/ |access-date=18 February 2024 |work=Solomon Star |date=3 February 2024 |archive-url=https://web.archive.org/web/20240209021840/https://www.solomonstarnews.com/suidanis-party-stand-to-remove-public-officers-immunity/ |archive-date=9 February 2024 |url-status=live|location=Auki}}</ref>",
                           "url": "https://www.solomonstarnews.com/suidanis-party-stand-to-remove-public-officers-immunity/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref name=umi>{{cite news |last1=Lofana |first1=Solomon |title=U4C aims to build on existing inclusive education policy to be more embracing |url=https://www.solomonstarnews.com/u4c-aims-to-build-on-existing-inclusive-education-policy-to-be-more-embracing/ |access-date=18 February 2024 |work=Solomon Star |date=12 February 2024 |archive-url=https://web.archive.org/web/20240214021408/https://www.solomonstarnews.com/u4c-aims-to-build-on-existing-inclusive-education-policy-to-be-more-embracing/ |archive-date=14 February 2024|url-status=live|location=Auki}}</ref>",
                           "url": "https://www.solomonstarnews.com/u4c-aims-to-build-on-existing-inclusive-education-policy-to-be-more-embracing/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -715,7 +715,7 @@
                     {
                       "text": "<ref name=kadere>{{cite news |last1=Dadamu |first1=Alex |last2=Hoʻatamauri |first2=George |title=Kadere Party confident ahead of April Election |url=https://www.sibconline.com.sb/kadere-party-confident-ahead-of-april-election/ |access-date=11 April 2024 |work=Solomon Islands Broadcasting Corporation |date=28 February 2024 |archive-url=https://web.archive.org/web/20240301235833/https://www.sibconline.com.sb/kadere-party-confident-ahead-of-april-election/ |archive-date=1 March 2024|url-status=live}}</ref>",
                       "url": "https://www.sibconline.com.sb/kadere-party-confident-ahead-of-april-election/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -738,7 +738,7 @@
                     {
                       "text": "<ref name=guard2/> pledged to provide additional resources to assist the anti-corruption commission. Lilo claimed that despite the passage of an anti-corruption act, the government had taken little action in combatting corruption and suggested the anti-corruption commission was under-resourced.<ref name=sipra/> The party also promised to assist small and medium-sized businesses nationwide and invest in the agricultural, tourism and fisheries sectors. Viewing small and medium businesses as key to economic recovery and growth, Lilo cited the roles these businesses have played in numerous Asian countries.<ref>{{cite news |last1=Houanihou |first1=John |title=SIPRA Vows to Help Small and Medium Businesses |url=https://sundayisles.islesmedia.net/sipra-vows-to-help-small-and-medium-businesses/ |access-date=15 April 2024 |work=Sunday Isles |date=4 March 2024 |archive-url=https://web.archive.org/web/20240415032725/https://sundayisles.islesmedia.net/sipra-vows-to-help-small-and-medium-businesses/ |archive-date=15 April 2024|url-status=live}}</ref>",
                       "url": "https://sundayisles.islesmedia.net/sipra-vows-to-help-small-and-medium-businesses/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -761,35 +761,35 @@
                     {
                       "text": "<ref>{{cite news |last1=Maealasia |first1=Indy |title=UP launches campaign trail |url=https://theislandsun.com.sb/up-launches-campaign-trail/ |access-date=8 April 2024 |work=The Island Sun |date=8 March 2024|archive-url= https://archive.today/20240408040446/https://theislandsun.com.sb/up-launches-campaign-trail/|archive-date=8 April 2024|url-status=live}}</ref>",
                       "url": "https://theislandsun.com.sb/up-launches-campaign-trail/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Bainbridge |first1=Amy |last2=Aumanu-Leong |first2=Chrisnrita |title=Solomon Islands MP Peter Kenilorea Jr wants to rip up the country's security pact with China |url=https://www.abc.net.au/news/2022-07-14/solomon-islands-mp-peter-kenilorea-security-pact-china-youth/101234214 |access-date=8 April 2024 |work=Australian Broadcasting Corporation |date=14 July 2022 |archive-url=https://web.archive.org/web/20240404121833/https://www.abc.net.au/news/2022-07-14/solomon-islands-mp-peter-kenilorea-security-pact-china-youth/101234214 |archive-date=4 April 2024 |url-status=live|location=Honiara}}</ref>",
                       "url": "https://www.abc.net.au/news/2022-07-14/solomon-islands-mp-peter-kenilorea-security-pact-china-youth/101234214",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=rnzu>{{cite news |title=Solomon Islands politician Peter Kenilorea Jr will re-establish Taiwan ties if he gets into office |url=https://www.rnz.co.nz/international/pacific-news/509176/solomon-islands-politician-peter-kenilorea-jr-will-re-establish-taiwan-ties-if-he-gets-into-office |access-date=8 April 2024 |work=Radio New Zealand |date=14 February 2024 |archive-url=https://web.archive.org/web/20240214005002/https://www.rnz.co.nz/international/pacific-news/509176/solomon-islands-politician-peter-kenilorea-jr-will-re-establish-taiwan-ties-if-he-gets-into-office |archive-date=14 February 2024|url-status=live}}</ref>",
                       "url": "https://www.rnz.co.nz/international/pacific-news/509176/solomon-islands-politician-peter-kenilorea-jr-will-re-establish-taiwan-ties-if-he-gets-into-office",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Piringi |first1=Charlie |title=United Party pledges to rekindle Partnerships with Traditional Allies, Including Taiwan |url=https://indepthsolomons.com.sb/united-party-pledges-to-rekindle-partnerships-with-traditional-allies-including-taiwan/ |access-date=8 April 2024 |work=In-depth Solomons |date=8 March 2024 |archive-url=https://web.archive.org/web/20240308111208/https://indepthsolomons.com.sb/united-party-pledges-to-rekindle-partnerships-with-traditional-allies-including-taiwan/ |archive-date=8 March 2024|url-status=live}}</ref>",
                       "url": "https://indepthsolomons.com.sb/united-party-pledges-to-rekindle-partnerships-with-traditional-allies-including-taiwan/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Houanihou |first1=John |title=UP Identifies the Solomon Islands Economy as Vulnerable |url=https://sundayisles.islesmedia.net/up-identifies-the-solomon-islands-economy-as-vulnerable/ |access-date=8 April 2024 |work=Sunday Isles |date=27 February 2024 |archive-url=https://web.archive.org/web/20240408042840/https://sundayisles.islesmedia.net/up-identifies-the-solomon-islands-economy-as-vulnerable/ |archive-date=8 April 2024|url-status=live}}</ref>",
                       "url": "https://sundayisles.islesmedia.net/up-identifies-the-solomon-islands-economy-as-vulnerable/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -823,21 +823,21 @@
                 {
                   "text": "<ref>{{cite news |last1=Dziedzic |first1=Stephen |title=Honiara reacts angrily after Australia offers to help fund Solomon Islands election amid moves to postpone the poll |url=https://www.abc.net.au/news/2022-09-06/solomon-islands-election-funding-penny-wong/101410316 |access-date=29 December 2023 |work=Australian Broadcasting Corporation |date=6 September 2022 |archive-url=https://web.archive.org/web/20231219103435/https://www.abc.net.au/news/2022-09-06/solomon-islands-election-funding-penny-wong/101410316 |archive-date=19 December 2023|url-status=live}}</ref>",
                   "url": "https://www.abc.net.au/news/2022-09-06/solomon-islands-election-funding-penny-wong/101410316",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Dziedzic |first1=Stephen |last2=Burgess |first2=Annika |last3=Fennell |first3=Jordan |title=Solomon Islands parliament votes to delay national poll as Manasseh Sogavare mocks Australia's election fund offer |url=https://www.abc.net.au/news/2022-09-08/solomon-islands-election-delay-bill-passes-parliament/101417646 |access-date=29 December 2023 |work=Australian Broadcasting Corporation |date=8 September 2022 |archive-url=https://web.archive.org/web/20230922023438/https://www.abc.net.au/news/2022-09-08/solomon-islands-election-delay-bill-passes-parliament/101417646 |archive-date=22 September 2023|url-status=live}}</ref>",
                   "url": "https://www.abc.net.au/news/2022-09-08/solomon-islands-election-delay-bill-passes-parliament/101417646",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Eddie |first1=Lachlan |title=$130m budget focus for joint elections |url=https://www.solomonstarnews.com/130m-budget-focus-for-joint-elections/ |access-date=14 February 2024 |work=Solomon Star |date=1 February 2024 |archive-url=https://web.archive.org/web/20240206122439/https://www.solomonstarnews.com/130m-budget-focus-for-joint-elections/ |archive-date=6 February 2024|url-status=live}}</ref>",
                   "url": "https://www.solomonstarnews.com/130m-budget-focus-for-joint-elections/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -850,14 +850,14 @@
                 {
                   "text": "<ref>{{cite news |title=New Zealand troops to help Solomon Islands in election |url=https://www.rappler.com/world/asia-pacific/new-zealand-troops-help-solomon-islands-election/ |access-date=25 March 2024 |work=Rappler |date=25 March 2024 |archive-date=25 March 2024 |archive-url=https://web.archive.org/web/20240325082057/https://www.rappler.com/world/asia-pacific/new-zealand-troops-help-solomon-islands-election/ |url-status=live }}</ref>",
                   "url": "https://www.rappler.com/world/asia-pacific/new-zealand-troops-help-solomon-islands-election/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Ligaiula |first1=Pita |title=300 foreign officers to be deployed to Solomon Islands for elections: Police Chief Mangau |url=https://pina.com.fj/2024/03/22/300-foreign-officers-to-be-deployed-to-solomon-islands-for-elections-police-chief-mangau/ |access-date=13 April 2024 |work=Pacific Islands News Association |date=22 March 2024 |archive-url=https://web.archive.org/web/20240322050644/https://pina.com.fj/2024/03/22/300-foreign-officers-to-be-deployed-to-solomon-islands-for-elections-police-chief-mangau/ |archive-date=22 March 2024|url-status=live}}</ref>",
                   "url": "https://pina.com.fj/2024/03/22/300-foreign-officers-to-be-deployed-to-solomon-islands-for-elections-police-chief-mangau/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -880,21 +880,21 @@
                 {
                   "text": "<ref>{{cite news |title=Solomon Islands election 2024: Polling day workers cast votes |url=https://www.rnz.co.nz/international/pacific-news/513541/solomon-islands-election-2024-polling-day-workers-cast-votes |access-date=11 April 2024 |work=Radio New Zealand |date=5 April 2024 |archive-url=https://web.archive.org/web/20240405043411/https://www.rnz.co.nz/international/pacific-news/513541/solomon-islands-election-2024-polling-day-workers-cast-votes |archive-date=5 April 2024|url-status=live}}</ref>",
                   "url": "https://www.rnz.co.nz/international/pacific-news/513541/solomon-islands-election-2024-polling-day-workers-cast-votes",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Public Holiday for Elections Declared and Liquor Ban Ordered |url=https://www.solomontimes.com/news/public-holiday-for-elections-declared-and-liquor-ban-ordered/12900 |access-date=11 April 2024 |work=Solomon Times|date=9 April 2024 |archive-url=https://web.archive.org/web/20240410013937/https://www.solomontimes.com/news/public-holiday-for-elections-declared-and-liquor-ban-ordered/12900 |archive-date=10 April 2024|url-status=live}}</ref>",
                   "url": "https://www.solomontimes.com/news/public-holiday-for-elections-declared-and-liquor-ban-ordered/12900",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"rnz\"/> An emergency was declared at the country's main hospital due to shortages of staff who went to vote.<ref name=\"apelection\">{{cite news |title=Solomon Islanders cast votes in an election that will shape relations with China |url=https://apnews.com/article/solomon-islands-election-sogavare-china-taiwan-4a854a3580786bdcdd3cf6db1d73555a |access-date=17 April 2024 |work=Associated Press |date=17 April 2024 |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417031248/https://apnews.com/article/solomon-islands-election-sogavare-china-taiwan-4a854a3580786bdcdd3cf6db1d73555a |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/solomon-islands-election-sogavare-china-taiwan-4a854a3580786bdcdd3cf6db1d73555a",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -906,43 +906,43 @@
               "references": [
                 {
                   "text": "<ref>{{cite news |last1=Hawkins |first1=Koroi |title=In pictures: Polling progressing smoothly in Solomon Islands |url=https://www.rnz.co.nz/international/pacific-news/514498/in-pictures-polling-progressing-smoothly-in-solomon-islands |access-date=17 April 2024 |work=Radio New Zealand |date=17 April 2024 |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417012312/https://www.rnz.co.nz/international/pacific-news/514498/in-pictures-polling-progressing-smoothly-in-solomon-islands |url-status=live }}</ref>",
-                  "url": "https://www.rnz.co.nz/international/pacific-news/514498/in-pictures-polling-progressing-smoothly-in-solomon-islands",
-                  "status_code": null,
+                  "url": "https://www.rnz.co.nz/news/pacific/514498/in-pictures-polling-ends-smoothly-in-solomon-islands",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Kusu |first1=Fredrick |title=Polling day in Solomon Islands |url=https://www.sibconline.com.sb/polling-day-in-solomon-islands/ |access-date=17 April 2024 |work=Solomon Islands Broadcasting Corporation |date=16 April 2024 |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417051143/https://www.sibconline.com.sb/polling-day-in-solomon-islands/ |url-status=live }}</ref>",
                   "url": "https://www.sibconline.com.sb/polling-day-in-solomon-islands/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Solomon Islanders vote in election that could shape ties with China |url=https://www.aljazeera.com/news/2024/4/17/solomon-islanders-vote-in-election-that-could-shape-ties-with-china |access-date=17 April 2024 |work=Al Jazeera |date=17 April 2024 |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417042326/https://www.aljazeera.com/news/2024/4/17/solomon-islanders-vote-in-election-that-could-shape-ties-with-china |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/4/17/solomon-islanders-vote-in-election-that-could-shape-ties-with-china",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-04-17 |title=Counting begins in Solomon Islands after peaceful election day |url=https://www.abc.net.au/pacific/programs/pacificbeat/elexrecap/103738390 |access-date=2024-04-18 |website=ABC Pacific |language=en-AU |archive-date=18 April 2024 |archive-url=https://web.archive.org/web/20240418075144/https://www.abc.net.au/pacific/programs/pacificbeat/elexrecap/103738390 |url-status=live }}</ref>",
                   "url": "https://www.abc.net.au/pacific/programs/pacificbeat/elexrecap/103738390",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"apelection\"/><ref>{{cite news |title=Solomon Islands prepares for 'most important election since independence' |url=https://www.aljazeera.com/news/2024/4/16/solomon-islands-prepares-for-most-important-election-since-independence |access-date=17 April 2024 |work=Al Jazeera |date=17 April 2024 |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417042418/https://www.aljazeera.com/news/2024/4/16/solomon-islands-prepares-for-most-important-election-since-independence |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/4/16/solomon-islands-prepares-for-most-important-election-since-independence",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Slow start – 'Counting after verification' in Solomon Islands, election chief says |url=https://www.rnz.co.nz/international/pacific-news/514617/slow-start-counting-after-verification-in-solomon-islands-election-chief-says |access-date=18 April 2024 |work=Radio New Zealand |date=18 April 2024 |archive-date=18 April 2024 |archive-url=https://web.archive.org/web/20240418033149/https://www.rnz.co.nz/international/pacific-news/514617/slow-start-counting-after-verification-in-solomon-islands-election-chief-says |url-status=live }}</ref>",
                   "url": "https://www.rnz.co.nz/international/pacific-news/514617/slow-start-counting-after-verification-in-solomon-islands-election-chief-says",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -965,42 +965,42 @@
                 {
                   "text": "<ref>{{Cite news |last1=Tavake |first1=Simon |date=24 April 2024 |title=It's a Wrap: SIEC Chairlady Officially Closes 2024 Joint Election |work=Solomon Islands Broadcasting Corporation |url=https://www.sibconline.com.sb/its-a-wrap-siec-chairlady-officially-closes-2024-joint-election/ |access-date=25 April 2024|archive-url= https://web.archive.org/web/20240424130950/https://www.sibconline.com.sb/its-a-wrap-siec-chairlady-officially-closes-2024-joint-election/|archive-date=24 April 2024|url-status=live}}</ref>",
                   "url": "https://www.sibconline.com.sb/its-a-wrap-siec-chairlady-officially-closes-2024-joint-election/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=sibc2/> however, 18 of the party's incumbent MPs lost their seats, including Police Minister Anthony Veke, and no newcomers from the party were elected.<ref name=\"lowy\"/><ref>{{cite news |title=Solomon Islands faces tense wait for election results |url=https://www.fbcnews.com.fj/world/pacific-islands/solomon-islands-faces-tense-wait-for-election-results/ |access-date=29 April 2024 |work=Fijian Broadcasting Corporation |date=23 April 2024 |archive-url=https://web.archive.org/web/20240423001659/https://www.fbcnews.com.fj/world/pacific-islands/solomon-islands-faces-tense-wait-for-election-results/ |archive-date=23 April 2024|url-status=live}}</ref>",
                   "url": "https://www.fbcnews.com.fj/world/pacific-islands/solomon-islands-faces-tense-wait-for-election-results/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"sibc3\"/> The remaining seats went to smaller parties and independents. Sogavare himself was narrowly re-elected in his seat of East Choiseul constituency|East Choiseul<ref>{{cite news |title=Solomon Islands pro-China PM Manasseh Sogavare fails to secure majority |url=https://www.aljazeera.com/news/2024/4/24/solomon-islands-pro-china-pm-manasseh-sogavare-fails-to-secure-majority |access-date=24 April 2024 |work=Al Jazeera |date=24 April 2024 |archive-date=24 April 2024 |archive-url=https://web.archive.org/web/20240424070504/https://www.aljazeera.com/news/2024/4/24/solomon-islands-pro-china-pm-manasseh-sogavare-fails-to-secure-majority |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/4/24/solomon-islands-pro-china-pm-manasseh-sogavare-fails-to-secure-majority",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=sec>{{cite news |title=Solomon Islands' Sogavare says he runs security amid tense wait for new government |url=https://www.rnz.co.nz/international/pacific-news/515128/solomon-islands-sogavare-says-he-runs-security-amid-tense-wait-for-new-government |access-date=24 April 2024 |work=Radio New Zealand |date=24 April 2024 |archive-date=24 April 2024 |archive-url=https://web.archive.org/web/20240424055411/https://www.rnz.co.nz/international/pacific-news/515128/solomon-islands-sogavare-says-he-runs-security-amid-tense-wait-for-new-government |url-status=live }}</ref>",
                   "url": "https://www.rnz.co.nz/international/pacific-news/515128/solomon-islands-sogavare-says-he-runs-security-amid-tense-wait-for-new-government",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Piringi |first1=Charley |title=Solomons Economy In 'Precarious State' As Parties Lobby to Form New Government |url=https://indepthsolomons.com.sb/solomons-economy-in-precarious-state-as-parties-lobby-to-form-new-government/ |access-date=27 April 2024 |work=In-depth Solomons |date=25 April 2024 |archive-url=https://archive.today/20240427001320/https://indepthsolomons.com.sb/solomons-economy-in-precarious-state-as-parties-lobby-to-form-new-government/ |archive-date=27 April 2024|url-status=live}}</ref>",
                   "url": "https://indepthsolomons.com.sb/solomons-economy-in-precarious-state-as-parties-lobby-to-form-new-government/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"women\">{{cite news |title=Eight women secure seats in joint elections |url=https://indepthsolomons.com.sb/eight-women-secure-seats-in-joint-elections/ |access-date=24 April 2024 |work=In-depth Solomons |date=23 April 2024 |archive-url=https://web.archive.org/web/20240424090256/https://indepthsolomons.com.sb/eight-women-secure-seats-in-joint-elections/ |archive-date=24 April 2024|url-status=live}}</ref>",
                   "url": "https://indepthsolomons.com.sb/eight-women-secure-seats-in-joint-elections/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -1013,14 +1013,14 @@
                 {
                   "text": "<ref>{{Cite news |last1=Tavake|first1=Simon|date=24 April 2024|title=39 Pre-Poll Ballots from Honiara Overlooked in Isabel Count; Election Results Remain Unchanged |work=Solomon Islands Broadcasting Corporation|url=https://www.sibconline.com.sb/39-pre-poll-ballots-from-honiara-overlooked-in-isabel-count-election-results-remain-unchanged/ |access-date=25 April 2024|archive-url= https://web.archive.org/web/20240424091456/https://www.sibconline.com.sb/39-pre-poll-ballots-from-honiara-overlooked-in-isabel-count-election-results-remain-unchanged/|archive-date=24 April 2024|url-status=live}}</ref>",
                   "url": "https://www.sibconline.com.sb/39-pre-poll-ballots-from-honiara-overlooked-in-isabel-count-election-results-remain-unchanged/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |last1=Tavake|first1=Simon|date=25 April 2024|title=Lesson learnt next: SIEC anticipates Observer Reports for post-election review |work=Solomon Islands Broadcasting Corporation|url=https://www.sibconline.com.sb/lesson-learnt-next-siec-anticipates-observer-reports-for-post-election-review/ |access-date=25 April 2024|archive-url=https://web.archive.org/web/20240425213453/https://www.sibconline.com.sb/lesson-learnt-next-siec-anticipates-observer-reports-for-post-election-review|archive-date=25 April 2024|url-status=live}}</ref>",
                   "url": "https://www.sibconline.com.sb/lesson-learnt-next-siec-anticipates-observer-reports-for-post-election-review/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -1033,7 +1033,7 @@
                 {
                   "text": "<ref name=res/> SIBC,<ref name=\"sibc3\">{{cite news |last1=Kusu |first1=Fredrick |title=It's a race between OUR Party, CARE and UP: Sogavare claims OUR Party already has the absolute majority |url=https://www.sibconline.com.sb/its-a-race-between-our-party-care-and-up-sogavare-says-our-party-already-has-the-absolute-majority/ |access-date=26 April 2024 |work=Solomon Islands Broadcasting Corporation |date=26 April 2024 |archive-url=https://web.archive.org/web/20240426052507/https://www.sibconline.com.sb/its-a-race-between-our-party-care-and-up-sogavare-says-our-party-already-has-the-absolute-majority/ |archive-date=26 April 2024|url-status=live}}</ref>",
                   "url": "https://www.sibconline.com.sb/its-a-race-between-our-party-care-and-up-sogavare-says-our-party-already-has-the-absolute-majority/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
@@ -1041,7 +1041,7 @@
                   "text": "<ref name=\"2018results\">{{Cite web |date=30 April 2024 |title=Solomon Islands Gazette No. 70 |url=https://www.paclii.org/sb/other/SBGovGaz/2024/109.pdf}}</ref>",
                   "url": "https://www.paclii.org/sb/other/SBGovGaz/2024/109.pdf}}</ref>",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Cannot connect to host www.paclii.org:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]",
                   "type": "web"
                 }
               ]
@@ -1070,7 +1070,7 @@
                     {
                       "text": "<ref>{{cite news |title=Solomon Islands election: PM Sogavare retains seat as count continues |url=https://www.theguardian.com/world/2024/apr/20/solomon-islands-election-pm-sogavare-retains-seat-as-count-continues |access-date=22 April 2024 |work=The Guardian |date=20 April 2024 |archive-date=22 April 2024 |archive-url=https://web.archive.org/web/20240422025257/https://www.theguardian.com/world/2024/apr/20/solomon-islands-election-pm-sogavare-retains-seat-as-count-continues |url-status=live }}</ref>",
                       "url": "https://www.theguardian.com/world/2024/apr/20/solomon-islands-election-pm-sogavare-retains-seat-as-count-continues",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
@@ -1078,7 +1078,7 @@
                       "text": "<ref>{{cite news |title=Solomon Islands Election in the Balance as Voting Continues |url=https://www.usnews.com/news/world/articles/2024-04-22/solomon-islands-election-in-the-balance-as-voting-continues |access-date=22 April 2024 |work=U.S. News & World Report |date=22 April 2024 |archive-date=22 April 2024 |archive-url=https://web.archive.org/web/20240422072025/https://www.usnews.com/news/world/articles/2024-04-22/solomon-islands-election-in-the-balance-as-voting-continues |url-status=live }}</ref>",
                       "url": "https://www.usnews.com/news/world/articles/2024-04-22/solomon-islands-election-in-the-balance-as-voting-continues",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     }
                   ]
@@ -1106,21 +1106,21 @@
                     {
                       "text": "<ref>{{cite news |last1=Hawkins |first1=Koroi |title=Let the games begin – Coalition negotiations underway in Honiara |url=https://www.rnz.co.nz/international/pacific-news/514468/let-the-games-begin-coalition-negotiations-underway-in-honiara |access-date=25 April 2024 |work=Radio New Zealand |date=17 April 2024 |archive-url=https://web.archive.org/web/20240417183000/https://www.rnz.co.nz/international/pacific-news/514468/let-the-games-begin-coalition-negotiations-underway-in-honiara |archive-date=17 April 2024|url-status=live}}</ref>",
                       "url": "https://www.rnz.co.nz/international/pacific-news/514468/let-the-games-begin-coalition-negotiations-underway-in-honiara",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=abcc>{{cite news |last1=Sas |first1=Nick |last2=Aumanu-Leong |first2=Chrisnrita |title=Solomon Islands election counting complete, as negotiation process to find a prime minister kicks off |url=https://www.abc.net.au/news/2024-04-25/solomons-election-counting-complete-as-mps-select-prime-minister/103762224 |access-date=25 April 2024 |work=Australian Broadcasting Corporation |date=25 April 2024 |archive-url=https://web.archive.org/web/20240425003417/https://www.abc.net.au/news/2024-04-25/solomons-election-counting-complete-as-mps-select-prime-minister/103762224 |archive-date=25 April 2024|url-status=live}}</ref>",
                       "url": "https://www.abc.net.au/news/2024-04-25/solomons-election-counting-complete-as-mps-select-prime-minister/103762224",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=sec/> CARE coalition Leader Matthew Wale, UP Leader Peter Kenilorea Jr., and former Prime Minister Gordon Darcy Lilo emerged as potential candidates to take on Sogavare for prime minister.<ref name=abcc/> On 26 April, Sogavare announced that the OUR Party had renewed an alliance with the People First Party, giving the bloc 18 seats, claiming it had enough support to form a government. However, he did not name other coalition partners.<ref name=\"sibc3\"/> On 27 April, CARE signed a coalition agreement with the UP, increasing the alliance's seat count to 20.<ref>{{cite news |title=Care and SIUP Signs Coalition Pact |url=https://www.sibconline.com.sb/care-and-siup-signs-coalition-pact/ |access-date=27 April 2024 |work=Solomon Islands Broadcasting Corporation |date=27 April 2024 |archive-url=https://web.archive.org/web/20240427122234/https://www.sibconline.com.sb/care-and-siup-signs-coalition-pact/ |archive-date=27 April 2024|url-status=live}}</ref>",
                       "url": "https://www.sibconline.com.sb/care-and-siup-signs-coalition-pact/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1140,77 +1140,77 @@
                     {
                       "text": "<ref name=gnut>{{cite news |last1=Kusu |first1=Fredrick |title=Coalition for National Unity and Transformation nominates Jeremiah Manele as PM Candidate |url=https://www.sibconline.com.sb/coalition-for-national-united-and-transformation-nominates-jeremiah-manele-as-pm-candidate/ |access-date=30 April 2024 |work=Solomon Islands Broadcasting Corporation |date=29 April 2024 |archive-url=https://web.archive.org/web/20240429231535/https://www.sibconline.com.sb/coalition-for-national-united-and-transformation-nominates-jeremiah-manele-as-pm-candidate/ |archive-date=29 April 2024|url-status=live}}</ref>",
                       "url": "https://www.sibconline.com.sb/coalition-for-national-united-and-transformation-nominates-jeremiah-manele-as-pm-candidate/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Ladds Oso |first1=Ian |title=Manele adjourns Parliament till June 10 |url=https://www.solomonstarnews.com/manele-adjourns-parliament-till-june-10/ |access-date=26 May 2024 |work=Solomon Star |date=20 May 2024 |archive-url=https://web.archive.org/web/20240520142332/https://www.solomonstarnews.com/manele-adjourns-parliament-till-june-10/ |archive-date=20 May 2024|url-status=live |location=Honiara}}</ref>",
                       "url": "https://www.solomonstarnews.com/manele-adjourns-parliament-till-june-10/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=bow>{{cite news |last1=Hawkins |first1=Koroi |title=Manasseh Sogavare bows out of prime ministerial race in Solomon Islands |url=https://www.rnz.co.nz/international/pacific-news/515516/manasseh-sogavare-bows-out-of-prime-ministerial-race-in-solomon-islands |access-date=30 April 2024 |work=Radio New Zealand |date=30 April 2024 |archive-url=https://web.archive.org/web/20240429230309/https://www.rnz.co.nz/international/pacific-news/515516/manasseh-sogavare-bows-out-of-prime-ministerial-race-in-solomon-islands |archive-date=29 April 2024|url-status=live}}</ref>",
                       "url": "https://www.rnz.co.nz/international/pacific-news/515516/manasseh-sogavare-bows-out-of-prime-ministerial-race-in-solomon-islands",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=gnut/> The CARE coalition, along with the UP and SIPRA, nominated Matthew Wale for prime minister.<ref>{{cite news |title=CARE, SIUP, SIPRA Nominate Matthew Wale as PM Candidate |url=https://www.sibconline.com.sb/care-siup-sipra-nominate-matthew-wale-as-pm-candidate/ |access-date=30 April 2024 |work=Solomon Islands Broadcasting Corporation |date=30 April 2024 |archive-url=https://web.archive.org/web/20240430065339/https://www.sibconline.com.sb/care-siup-sipra-nominate-matthew-wale-as-pm-candidate/ |archive-date=30 April 2024|url-status=live}}</ref>",
                       "url": "https://www.sibconline.com.sb/care-siup-sipra-nominate-matthew-wale-as-pm-candidate/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Hawkins |first1=Koroi |title=Ready, set, go in Solomons PM race – Jeremiah Manele vs Matthew Wale |url=https://www.rnz.co.nz/international/pacific-news/515617/ready-set-go-in-solomons-pm-race-jeremiah-manele-vs-matthew-wale |access-date=3 May 2024 |work=Radio New Zealand |date=1 May 2024 |archive-url=https://web.archive.org/web/20240502021321/https://www.rnz.co.nz/international/pacific-news/515617/ready-set-go-in-solomons-pm-race-jeremiah-manele-vs-matthew-wale |archive-date=2 May 2024|url-status=live}}</ref>",
                       "url": "https://www.rnz.co.nz/international/pacific-news/515617/ready-set-go-in-solomons-pm-race-jeremiah-manele-vs-matthew-wale",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=bow/> Ruth Liloqula, the chief executive of Transparency Solomon Islands, claimed many MPs were changing affiliation, motivated by personal and political gain rather than by policies and principles. She highlighted how many of the newly elected independent MPs had campaigned for a change in government, with some unseating OUR Party members, only to join the party's coalition after the election.<ref>{{cite news |last1=Hawkins |first1=Koroi |title=Zero tolerance – Solomon Islands police on high alert ahead of prime ministerial election |url=https://www.rnz.co.nz/international/pacific-news/515711/zero-tolerance-solomon-islands-police-on-high-alert-ahead-of-prime-ministerial-election |access-date=3 May 2024 |work=Radio New Zealand |date=1 May 2024 |archive-url=https://web.archive.org/web/20240502163832/https://www.rnz.co.nz/international/pacific-news/515711/zero-tolerance-solomon-islands-police-on-high-alert-ahead-of-prime-ministerial-election |archive-date=2 May 2024|url-status=live}}</ref>",
                       "url": "https://www.rnz.co.nz/international/pacific-news/515711/zero-tolerance-solomon-islands-police-on-high-alert-ahead-of-prime-ministerial-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Eremae |first1=Ofani |title=The battle has come down to Wale and Manele |url=https://indepthsolomons.com.sb/the-battle-has-come-down-to-wale-and-manele/ |access-date=3 May 2024 |work=In-depth Solomons |date=1 May 2024 |archive-url=https://web.archive.org/web/20240501223550/https://indepthsolomons.com.sb/the-battle-has-come-down-to-wale-and-manele/ |archive-date=1 May 2024|url-status=live}}</ref>",
                       "url": "https://indepthsolomons.com.sb/the-battle-has-come-down-to-wale-and-manele/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Hawkins |first1=Koroi |title=Jeremiah Manele is new Solomon Islands Prime Minister |url=https://www.rnz.co.nz/international/pacific-news/515780/jeremiah-manele-is-new-solomon-islands-prime-minister |access-date=2 May 2024 |work=Radio New Zealand |date=2 May 2024 |archive-url=https://web.archive.org/web/20240502021007/https://www.rnz.co.nz/international/pacific-news/515780/jeremiah-manele-is-new-solomon-islands-prime-minister |archive-date=2 May 2024|url-status=live}}</ref>",
                       "url": "https://www.rnz.co.nz/international/pacific-news/515780/jeremiah-manele-is-new-solomon-islands-prime-minister",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Oso |first1=Deli-Sharon |title=Who were Wale's betrayers? |url=https://www.solomonstarnews.com/who-were-wales-betrayers/ |access-date=26 May 2024 |work=Solomon Star |date=20 May 2024 |archive-url=https://web.archive.org/web/20240520142341/https://www.solomonstarnews.com/who-were-wales-betrayers/ |archive-date=20 May 2024|url-status=live |location=Honiara}}</ref>",
                       "url": "https://www.solomonstarnews.com/who-were-wales-betrayers/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Ladds Oso |first1=Ian |title=Oti vows to continue serving as Speaker with impartiality |url=https://www.solomonstarnews.com/oti-vows-to-continue-serving-as-speaker-with-impartiality/ |access-date=26 May 2024 |work=Solomon Star |date=20 May 2024 |archive-url=https://web.archive.org/web/20240520142327/https://www.solomonstarnews.com/oti-vows-to-continue-serving-as-speaker-with-impartiality/ |archive-date=20 May 2024 |url-status=live|location=Honiara}}</ref>",
                       "url": "https://www.solomonstarnews.com/oti-vows-to-continue-serving-as-speaker-with-impartiality/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Toito'ona |first1=Ronald |title=Wale assumes Opposition leader's role in Solomon Islands |url=https://indepthsolomons.com.sb/wale-assumes-opposition-leaders-role-in-solomon-islands/ |access-date=26 May 2024 |work=In-depth Solomons |date=14 May 2024 |archive-url=https://web.archive.org/web/20240526093252/https://indepthsolomons.com.sb/wale-assumes-opposition-leaders-role-in-solomon-islands/ |archive-date=26 May 2024|url-status=live}}</ref>",
                       "url": "https://indepthsolomons.com.sb/wale-assumes-opposition-leaders-role-in-solomon-islands/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1231,28 +1231,28 @@
                         {
                           "text": "<ref>{{cite news |title=New Ministers Sworn In |url=https://www.sibconline.com.sb/new-ministers-sworn-in-3/ |access-date=7 May 2024 |work=Solomon Islands Broadcasting Corporation |date=4 May 2024 |archive-url=https://web.archive.org/web/20240506110907/https://www.sibconline.com.sb/new-ministers-sworn-in-3/ |archive-date=6 May 2024|url-status=live}}</ref>",
                           "url": "https://www.sibconline.com.sb/new-ministers-sworn-in-3/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title=Nine more Ministers sworn-in |url=https://www.sibconline.com.sb/nine-more-ministers-sworn-in/ |access-date=7 May 2024 |work=Solomon Islands Broadcasting Corporation |date=6 May 2024 |archive-url=https://web.archive.org/web/20240507021706/https://www.sibconline.com.sb/nine-more-ministers-sworn-in/ |archive-date=7 May 2024|url-status=live}}</ref>",
                           "url": "https://www.sibconline.com.sb/nine-more-ministers-sworn-in/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title=DPM and two more ministers sworn-in |url=https://www.sibconline.com.sb/dpm-and-two-more-ministers-sworn-in/ |access-date=9 May 2024 |work=Solomon Islands Broadcasting Corporation |date=7 May 2024 |archive-url=https://web.archive.org/web/20240508010136/https://www.sibconline.com.sb/dpm-and-two-more-ministers-sworn-in/ |archive-date=8 May 2024|url-status=live}}</ref>",
                           "url": "https://www.sibconline.com.sb/dpm-and-two-more-ministers-sworn-in/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |url=https://www.sibconline.com.sb/honorable-freda-tuki-rangirei-completed-gnut-cabinets-line-up/ |title=Honourable Freda Tuki Rangirei Completed GNUT's Cabinet Line Up |access-date=6 July 2024 |work=Solomon Islands Broadcasting Corporation |date=15 May 2024 |archive-url=https://web.archive.org/web/20240519195046/https://www.sibconline.com.sb/honorable-freda-tuki-rangirei-completed-gnut-cabinets-line-up/ |archive-date=19 May 2024|url-status=live}}</ref>",
                           "url": "https://www.sibconline.com.sb/honorable-freda-tuki-rangirei-completed-gnut-cabinets-line-up/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -1279,7 +1279,7 @@
                 {
                   "text": "<ref>{{cite news |title=Jeremiah Manele elected prime minister in Solomon Islands, which is likely to keep close China ties |url=https://apnews.com/article/solomon-islands-prime-minister-jeremiah-manale-fcf911d376d56f9ee8d235fb885c9bc6 |access-date=3 May 2024 |work=Associated Press |date=3 May 2024 |archive-date=2 May 2024 |archive-url=https://web.archive.org/web/20240502080728/https://apnews.com/article/solomon-islands-prime-minister-jeremiah-manale-fcf911d376d56f9ee8d235fb885c9bc6 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/solomon-islands-prime-minister-jeremiah-manale-fcf911d376d56f9ee8d235fb885c9bc6",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -1292,28 +1292,28 @@
                 {
                   "text": "<ref>{{cite news |last1=Mao |first1=Frances |title=Pro-China candidate wins Solomon Islands PM vote |url=https://www.bbc.com/news/articles/cxr3xpw9v04o |access-date=2 May 2024 |work=BBC |date=2 May 2024 |archive-date=2 May 2024 |archive-url=https://web.archive.org/web/20240502034347/https://www.bbc.com/news/articles/cxr3xpw9v04o |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/articles/cxr3xpw9v04o",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Deputy Prime Minister John Rosso delivers PM's congratulatory letter to new Solomon Islands PM |url=https://www.postcourier.com.pg/deputy-prime-minister-john-rosso-delivers-pms-congratulatory-letter-to-new-solomon-islands-pm/ |access-date=3 May 2024 |work=Papua New Guinea Post-Courier |date=3 May 2024 |archive-url=https://web.archive.org/web/20240503103143/https://www.postcourier.com.pg/deputy-prime-minister-john-rosso-delivers-pms-congratulatory-letter-to-new-solomon-islands-pm/ |archive-date=3 May 2024|url-status=live}}</ref>",
                   "url": "https://www.postcourier.com.pg/deputy-prime-minister-john-rosso-delivers-pms-congratulatory-letter-to-new-solomon-islands-pm/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Foreign Affairs Minister Winston Peters meets with new Solomon Islands PM |url=https://www.rnz.co.nz/news/political/516623/foreign-affairs-minister-winston-peters-meets-with-new-solomon-islands-pm |access-date=16 May 2024 |work=Radio New Zealand |date=12 May 2024 |archive-url=https://web.archive.org/web/20240512073803/https://www.rnz.co.nz/news/political/516623/foreign-affairs-minister-winston-peters-meets-with-new-solomon-islands-pm |archive-date=12 May 2024|url-status=live}}</ref>",
                   "url": "https://www.rnz.co.nz/news/political/516623/foreign-affairs-minister-winston-peters-meets-with-new-solomon-islands-pm",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=India congratulates PM Manele and presents Bilateral initiatives |url=https://www.sibconline.com.sb/india-congratulates-pm-manele-and-presents-bilateral-initiatives/ |access-date=16 May 2024 |work=Solomon Islands Broadcasting Corporation |date=16 May 2024 |archive-url=https://archive.today/20240516111823/https://www.sibconline.com.sb/india-congratulates-pm-manele-and-presents-bilateral-initiatives/ |archive-date=16 May 2024|url-status=live}}</ref>",
                   "url": "https://www.sibconline.com.sb/india-congratulates-pm-manele-and-presents-bilateral-initiatives/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }

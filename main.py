@@ -1,35 +1,29 @@
-from fetch_save_wikitext import fetch_and_save_wikitext
-from database import create_db, save_to_db, year_exists, get_first_n_links
-from rewriter import Rewriter
-from process_references import process_references
-from convert_references import process_json_files
-from wiki import get_yearly_events_links
-from loguru import logger
-from convert_references import process_json_files
+from citation_processor import process_wiki_documents
+from convert_references import transform_json_files
+from database import create_db, get_first_n_links
+from wikipedia_yearly_events_scraper import fetch_and_save_wikitext, scrape_year_events
 
 
 async def main():
     create_db()
 
-    year = "2024"
+    years = ["2023", "2024", "2025"]
 
-    if not year_exists(year):
-        logger.info(f"🔍 Fetching Wikipedia links for {year}...")
-        links = get_yearly_events_links(year)
-        save_to_db(links, year)
+    scrape_year_events(years=years)
 
-    links = get_first_n_links(year, n=120)
+    links = get_first_n_links()
 
     fetch_and_save_wikitext(links)
 
-    Rewriter.process_folder()
+    await process_wiki_documents()
 
-    await process_references()
-
-    process_json_files()
+    transform_json_files()
 
 
 if __name__ == "__main__":
     import asyncio
 
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        print("Program interrupted by user")

@@ -1,0 +1,87 @@
+{
+  "title": "2025_Seychellois_general_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "'''General elections''' are provisionally scheduled to be held in Seychelles on 27 September 2025.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|title=EISA's 2025 African election calendar|url=https://www.eisa.org/election-calendar/|access-date=11 April 2024|website=EISA}}</ref>",
+                  "url": "https://www.eisa.org/election-calendar/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |title=Seychelles' government proposes fixed date of Sept. 27 for presidential and parliamentary elections in 2025 |url=http://www.seychellesnewsagency.com/articles/20576/Seychelles'+government+proposes+fixed+date+of+Sept.++for+presidential+and+parliamentary+elections+in+ |access-date=25 August 2024 |work=Seychelles News Agency}}</ref>",
+                  "url": "http://www.seychellesnewsagency.com/articles/20576/Seychelles'+government+proposes+fixed+date+of+Sept.++for+presidential+and+parliamentary+elections+in+",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The president of Seychelles is elected using the two-round system; if no candidate receives a majority of the vote in the first round, a second round is held between the top two candidates.",
+              "references": [
+                {
+                  "text": "<ref>{{citation|url=http://www.electionguide.org/elections/id/2883/|title=Republic of Seychelles: Election for President|website=IFES Election Guide}}</ref>",
+                  "url": "https://www.electionguide.org/elections/id/2883/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "Members of the National Assembly (Seychelles)|National Assembly are elected by two methods; 26 (with a new constituency established in 2020) are elected from single-member constituencies using first-past-the-post voting, and up to a further ten are elected based on the percentage of votes received by each party; for each 10% of the total national vote received, a party gets one additional seat.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|url=http://www.ipu.org/parline-e/reports/2279_B.htm|title=Electoral system|website=Inter-Parliamentary Union}}</ref>",
+                  "url": "http://www.ipu.org/parline-e/reports/2279_B.htm",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://thecommonwealth.org/our-member-countries/seychelles/constitution-politics|title=Seychelles : Constitution and politics|website=The Commonwealth|archive-url=https://web.archive.org/web/20201013222727/https://thecommonwealth.org/our-member-countries/seychelles/constitution-politics |archive-date=13 October 2020 }}</ref>",
+                  "url": "https://thecommonwealth.org/our-member-countries/seychelles/constitution-politics",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

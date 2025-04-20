@@ -14,14 +14,14 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-08-06 |title=Primary Election Decision Pending as Filing Deadline Approaches in Palau |url=https://islandtimes.org/primary-election-decision-pending-as-filing-deadline-approaches-in-palau/ |access-date=2024-09-07 |website=Island Times |language=en-US}}</ref>",
                   "url": "https://islandtimes.org/primary-election-decision-pending-as-filing-deadline-approaches-in-palau/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-08-26 |title=Whipps v Remengesau: Brothers-in-law to run against each other in 2024 Palau elections |url=https://www.rnz.co.nz/international/pacific-news/526208/whipps-v-remengesau-brothers-in-law-to-run-against-each-other-in-2024-palau-elections |access-date=2024-09-07 |website=RNZ |language=en-nz}}</ref>",
                   "url": "https://www.rnz.co.nz/international/pacific-news/526208/whipps-v-remengesau-brothers-in-law-to-run-against-each-other-in-2024-palau-elections",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -57,7 +57,7 @@
                 {
                   "text": "<ref>{{Cite web|last=|first=|date=|title=Palau (House of Delegates), Electoral system|url=http://archive.ipu.org/parline-e/reports/2243_B.htm|website=Inter-Parliamentary Union}}</ref>",
                   "url": "http://archive.ipu.org/parline-e/reports/2243_B.htm",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -229,7 +229,7 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-11-05 |title=Palau polls open as pro-US president faces election test |url=https://www.france24.com/en/live-news/20241105-palau-polls-open-as-pro-us-president-faces-election-test |access-date=2024-11-05 |website=France 24 |language=en}}</ref>",
                   "url": "https://www.france24.com/en/live-news/20241105-palau-polls-open-as-pro-us-president-faces-election-test",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -252,14 +252,14 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-11-06 |title=Unofficial election results coming in for Guam, Palau, CNMI |url=https://www.rnz.co.nz/international/pacific-news/532980/unofficial-election-results-coming-in-for-guam-palau-cnmi |access-date=2024-11-06 |website=RNZ |language=en}}</ref>",
                   "url": "https://www.rnz.co.nz/international/pacific-news/532980/unofficial-election-results-coming-in-for-guam-palau-cnmi",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"taiwan\"/> Whipps formally claimed victory on 11 November, while Remengesau conceded defeat earlier.<ref>{{Cite web |date=2024-11-11 |title=Pro-US incumbent claims victory in Palau presidential vote |url=https://www.france24.com/en/live-news/20241111-pro-us-incumbent-claims-victory-in-palau-presidential-vote |access-date=2024-11-11 |website=France 24 |language=en}}</ref>",
                   "url": "https://www.france24.com/en/live-news/20241111-pro-us-incumbent-claims-victory-in-palau-presidential-vote",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -298,7 +298,7 @@
                     {
                       "text": "<ref>{{cite web |last1=Reklai |first1=Leilani |title=New Faces, New Roles |url=https://islandtimes.org/new-faces-new-roles/ |website=Island Times |date=13 December 2024}}</ref>",
                       "url": "https://islandtimes.org/new-faces-new-roles/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -332,7 +332,7 @@
                 {
                   "text": "<ref name=\"taiwan\">{{Cite web |date=2024-11-07 |title=Taiwan congratulates Palau President Whipps on reelection |url=https://focustaiwan.tw/politics/202411070028 |access-date=2024-11-07 |website=Focus Taiwan |language=en}}</ref>",
                   "url": "https://focustaiwan.tw/politics/202411070028",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

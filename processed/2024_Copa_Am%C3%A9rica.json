@@ -14,14 +14,14 @@
                 {
                   "text": "<ref name=\"auto\">{{cite news |url=https://www.goal.com/es/noticias/copa-america-2024-cuando-es-donde-y-todo-lo-que-hay-que/3r80fxu4mr2k10x1umj0bnhox |title=Copa América 2024: cuándo es, dónde y todo lo que hay que saber |website=Goal.com |language=es |access-date=April 13, 2020 |archive-date=March 20, 2023 |archive-url=https://web.archive.org/web/20230320214904/https://www.goal.com/es/noticias/copa-america-2024-cuando-es-donde-y-todo-lo-que-hay-que/3r80fxu4mr2k10x1umj0bnhox |url-status=live}}</ref>",
                   "url": "https://www.goal.com/es/noticias/copa-america-2024-cuando-es-donde-y-todo-lo-que-hay-que/3r80fxu4mr2k10x1umj0bnhox",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"concon\">{{cite web |title=CONMEBOL and Concacaf sign strategic collaboration agreement |url=https://www.concacaf.com/news/conmebol-and-concacaf-sign-strategic-collaboration-agreement/ |publisher=CONCACAF |date=January 27, 2023 |access-date=January 27, 2023 |archive-date=March 17, 2023 |archive-url=https://web.archive.org/web/20230317114746/https://www.concacaf.com/news/conmebol-and-concacaf-sign-strategic-collaboration-agreement/ |url-status=live}}</ref>",
                   "url": "https://www.concacaf.com/news/conmebol-and-concacaf-sign-strategic-collaboration-agreement/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -34,21 +34,21 @@
                 {
                   "text": "<ref>{{cite web |date=July 11, 2021 |title=Copa America 2021 Final Highlights: Argentina beat Brazil 1–0, Messi wins first senior International trophy |url=https://indianexpress.com/article/sports/football/copa-america-2021-final-live-score-argentina-vs-brazil-live-score-streaming-7398292/ |access-date=July 11, 2021 |website=The Indian Express |archive-date=July 11, 2021 |archive-url=https://web.archive.org/web/20210711014514/https://indianexpress.com/article/sports/football/copa-america-2021-final-live-score-argentina-vs-brazil-live-score-streaming-7398292/ |url-status=live}}</ref>",
                   "url": "https://indianexpress.com/article/sports/football/copa-america-2021-final-live-score-argentina-vs-brazil-live-score-streaming-7398292/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |last=Burrows |first=Ben |title=Argentina beats Colombia to win record-breaking Copa America title |url=https://www.nytimes.com/athletic/5637691/2024/07/15/argentina-colombia-result-copa-america-final/ |access-date=July 15, 2024 |work=The New York Times |issn=0362-4331}}</ref>",
                   "url": "https://www.nytimes.com/athletic/5637691/2024/07/15/argentina-colombia-result-copa-america-final/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last=Rosenstein |first=Greg |date=July 15, 2024 |title=Argentina wins the 2024 Copa América title over Colombia with a late goal |url=https://www.nbcnews.com/news/sports/argentina-wins-2024-copa-america-title-colombia-late-goal-rcna161821 |access-date=July 15, 2024 |website=NBC News}}</ref>",
                   "url": "https://www.nbcnews.com/news/sports/argentina-wins-2024-copa-america-title-colombia-late-goal-rcna161821",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
@@ -56,7 +56,7 @@
                   "text": "<ref>{{cite news |last=Kaufman |first=Michelle |author-link=Michelle Kaufman |date=November 21, 2023 |title=Golazo Miami! 2024 Copa America final to be held at Hard Rock Stadium next summer |url=https://www.miamiherald.com/sports/mls/inter-miami/article282095248.html |work=Miami Herald |accessdate=December 7, 2023 |archive-date=February 14, 2024 |archive-url=https://web.archive.org/web/20240214040206/https://www.miamiherald.com/sports/mls/inter-miami/article282095248.html |url-status=live}}</ref>",
                   "url": "https://www.miamiherald.com/sports/mls/inter-miami/article282095248.html",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 }
               ]
@@ -77,22 +77,22 @@
               "references": [
                 {
                   "text": "<ref>{{cite web |title=Copa América to run in parallel with Euros from 2020 |url=https://en.as.com/en/2017/03/19/football/1489921774_407918.html |publisher=Diario online de deportes |date=March 19, 2017|access-date=July 15, 2018|archive-date=July 5, 2019|archive-url=https://web.archive.org/web/20190705193433/https://en.as.com/en/2017/03/19/football/1489921774_407918.html|url-status=dead}}</ref>",
-                  "url": "https://en.as.com/en/2017/03/19/football/1489921774_407918.html",
-                  "status_code": null,
+                  "url": "https://en.as.com/en/2017/03/19/soccer/1489921774_407918.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=November 9, 2022 |title=Ya es oficial: Ecuador no será sede de la Copa América 2024 |url=https://www.eluniverso.com/deportes/futbol/ya-es-oficial-ecuador-no-sera-sede-la-copa-america-2024-nota/ |access-date=November 10, 2022 |website=El Universo |language=es |archive-date=November 10, 2022 |archive-url=https://web.archive.org/web/20221110000134/https://www.eluniverso.com/deportes/futbol/ya-es-oficial-ecuador-no-sera-sede-la-copa-america-2024-nota/ |url-status=live}}</ref>",
                   "url": "https://www.eluniverso.com/deportes/futbol/ya-es-oficial-ecuador-no-sera-sede-la-copa-america-2024-nota/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"auto\" /><ref>{{cite news |last=Vertelney |first=Seth |date=December 12, 2022 |url=https://prosoccerwire.usatoday.com/2022/12/12/conmebol-united-states-could-host-2024-copa-america/ |title=CONMEBOL chief: 'Conversation remains open' on 2024 Copa America in United States |work=Pro Soccer Wire |access-date=December 14, 2022 |archive-date=June 10, 2023 |archive-url=https://web.archive.org/web/20230610075410/https://prosoccerwire.usatoday.com/2022/12/12/conmebol-united-states-could-host-2024-copa-america/ |url-status=live}}</ref>",
-                  "url": "https://prosoccerwire.usatoday.com/2022/12/12/conmebol-united-states-could-host-2024-copa-america/",
-                  "status_code": null,
+                  "url": "https://prosoccerwire.usatoday.com/story/sports/mls/2022/12/12/conmebol-united-states-could-host-2024-copa-america/77435656007/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -105,14 +105,14 @@
                 {
                   "text": "<ref name=\"concon\" /> The tournament also acted as a prelude to the 2026 FIFA World Cup, of which the United States is a joint host along with Canada and Mexico.<ref>{{cite news |last=Wine II |first=Donald |date=January 27, 2023 |title=United States to host 2024 Copa América |url=https://www.starsandstripesfc.com/2023/1/27/23574283/usa-usmnt-host-2024-copa-america-concacaf-conmebol |work=Stars and Stripes FC |access-date=January 27, 2023 |archive-date=April 1, 2023 |archive-url=https://web.archive.org/web/20230401015320/https://www.starsandstripesfc.com/2023/1/27/23574283/usa-usmnt-host-2024-copa-america-concacaf-conmebol |url-status=live}}</ref>",
                   "url": "https://www.starsandstripesfc.com/2023/1/27/23574283/usa-usmnt-host-2024-copa-america-concacaf-conmebol",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=January 27, 2023 |title=Copa América 2024 to be hosted in USA |url=https://www.mlssoccer.com/news/copa-america-2024-to-be-hosted-in-usa |work=Major League Soccer |access-date=April 9, 2023 |archive-date=April 9, 2023 |archive-url=https://web.archive.org/web/20230409211354/https://www.mlssoccer.com/news/copa-america-2024-to-be-hosted-in-usa |url-status=live}}</ref>",
                   "url": "https://www.mlssoccer.com/news/copa-america-2024-to-be-hosted-in-usa",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -134,15 +134,15 @@
               "references": [
                 {
                   "text": "<ref>{{cite news |title=CONMEBOL Announces Host Venues for Opening and Final matches of the CONMEBOL Copa America 2024 |website=Copa América |url=https://copaamerica.com/news/conmebol-anuncia-las-sedes-de-los-partidos-de-apertura-y-final-de-la-conmebol-copa-america-2024%ef%b8%8f/?lang=en |access-date=November 20, 2023 |archive-date=November 20, 2023 |archive-url=https://web.archive.org/web/20231120202539/https://copaamerica.com/news/conmebol-anuncia-las-sedes-de-los-partidos-de-apertura-y-final-de-la-conmebol-copa-america-2024%EF%B8%8F/?lang=en |url-status=live}}</ref>",
-                  "url": "https://copaamerica.com/news/conmebol-anuncia-las-sedes-de-los-partidos-de-apertura-y-final-de-la-conmebol-copa-america-2024%ef%b8%8f/?lang=en",
-                  "status_code": null,
+                  "url": "https://copaamerica.com/es/novedades/conmebol-anuncia-las-sedes-de-los-partidos-de-apertura-y-final-de-la-conmebol-copa-america-2024",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=CONMEBOL announces venue cities, stadiums and schedule of the CONMEBOL Copa America 2024 |website=Copa América |url=https://copaamerica.com/news/conmebol-anuncia-ciudades-sedes-estadios-y-calendario-de-la-conmebol-copa-america-2024/?lang=en|access-date=December 4, 2023|archive-date=December 4, 2023|archive-url=https://web.archive.org/web/20231204214225/https://copaamerica.com/news/conmebol-anuncia-ciudades-sedes-estadios-y-calendario-de-la-conmebol-copa-america-2024/?lang=en|url-status=live}}</ref>",
-                  "url": "https://copaamerica.com/news/conmebol-anuncia-ciudades-sedes-estadios-y-calendario-de-la-conmebol-copa-america-2024/?lang=en",
-                  "status_code": null,
+                  "url": "https://copaamerica.com/es/novedades/conmebol-anuncia-ciudades-sedes-estadios-y-calendario-de-la-conmebol-copa-america-2024?lang=en",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -163,14 +163,14 @@
                     {
                       "text": "<ref>{{Cite web|url=https://www.intermiamicf.com/albums/argentina-national-team-training-at-florida-blue-training-center-ahead-of-2024-copa-america|title=Argentina National Team Training at Florida Blue Training Center Ahead of 2024 Copa América &#124; Inter Miami CF|website=intermiamicf}}</ref>",
                       "url": "https://www.intermiamicf.com/albums/argentina-national-team-training-at-florida-blue-training-center-ahead-of-2024-copa-america",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web|url=https://sports.yahoo.com/brazil-prepares-copa-america-relaxed-212130715.html|title=Brazil prepares for the Copa America in a relaxed atmosphere in Orlando|date=June 15, 2024|website=Yahoo Sports}}</ref>",
                       "url": "https://sports.yahoo.com/brazil-prepares-copa-america-relaxed-212130715.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -184,7 +184,7 @@
                     {
                       "text": "<ref>{{Cite web|url=https://www.youtube.com/watch?v=pdfMgflWdY4|title=The USMNT visited our campus for training camp to prepare for the 2024 Copa América.|date=June 20, 2024|via=YouTube}}</ref>",
                       "url": "https://www.youtube.com/watch?v=pdfMgflWdY4",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -223,7 +223,7 @@
                     {
                       "text": "<ref name=\"concon\" /> The teams were the four League A quarter-final winners, and two 2024 Copa América qualifying play-offs|play-off round winners between the four losing quarter-finalists.<ref name=\"CONCACAF format\">{{cite web |url=https://www.concacaf.com/news/concacaf-announces-formats-for-men-s-national-team-competitions-for-the-2023-2026-cycle/ |title=CONCACAF announces formats for men's national team competitions for the 2023–2026 cycle |publisher=CONCACAF |date=February 28, 2023 |access-date=February 28, 2023 |archive-date=February 28, 2023 |archive-url=https://web.archive.org/web/20230228191449/https://www.concacaf.com/news/concacaf-announces-formats-for-men-s-national-team-competitions-for-the-2023-2026-cycle/ |url-status=live}}</ref>",
                       "url": "https://www.concacaf.com/news/concacaf-announces-formats-for-men-s-national-team-competitions-for-the-2023-2026-cycle/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -245,8 +245,8 @@
                   "references": [
                     {
                       "text": "<ref>{{cite web |url=https://copaamerica.com/news/conoceremos-los-grupos-para-la-conmebol-copa-america-2024/ |title=Conoceremos los grupos para la CONMEBOL Copa América 2024 |publisher=CONMEBOL |date=November 10, 2023 |language=es|access-date=November 12, 2023|archive-date=November 14, 2023|archive-url=https://web.archive.org/web/20231114023704/https://copaamerica.com/news/conoceremos-los-grupos-para-la-conmebol-copa-america-2024/|url-status=live}}</ref>",
-                      "url": "https://copaamerica.com/news/conoceremos-los-grupos-para-la-conmebol-copa-america-2024/",
-                      "status_code": null,
+                      "url": "https://copaamerica.com/es/novedades/conoceremos-los-grupos-para-la-conmebol-copa-america-2024",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -260,7 +260,7 @@
                       "text": "<ref name=\":0\">{{cite web |url=https://cdn.conmebol.com/wp-content/uploads/2023/11/CONMEBOL-Copa-America-2024-Regulations__ENG-.pdf |title=CONMEBOL Copa America 2024 Regulations |publisher=CONMEBOL |date=November 29, 2023|access-date=December 1, 2023|archive-date=December 1, 2023|archive-url=https://web.archive.org/web/20231201144229/https://cdn.conmebol.com/wp-content/uploads/2023/11/CONMEBOL-Copa-America-2024-Regulations__ENG-.pdf|url-status=live}}</ref>",
                       "url": "https://cdn.conmebol.com/wp-content/uploads/2023/11/CONMEBOL-Copa-America-2024-Regulations__ENG-.pdf",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     }
                   ]
@@ -272,8 +272,8 @@
                     {
                       "text": "<ref>{{cite news |date=December 4, 2023 |title=Key points of the 2024 Copa America draw: Seeded teams, draw pots, and rules |url=https://www.sambafoot.com/news/key-points-of-the-2024-copa-america-draw-seeded-teams-draw-pots-and-rules |access-date=December 7, 2023 |website=Sambafoot |archive-date=December 5, 2023 |archive-url=https://web.archive.org/web/20231205160416/https://www.sambafoot.com/news/key-points-of-the-2024-copa-america-draw-seeded-teams-draw-pots-and-rules |url-status=live}}</ref>",
                       "url": "https://www.sambafoot.com/news/key-points-of-the-2024-copa-america-draw-seeded-teams-draw-pots-and-rules",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 410,
+                      "reason": "Gone",
                       "type": "news"
                     }
                   ]
@@ -315,7 +315,7 @@
                 {
                   "text": "<ref>{{Cite web |title=CONMEBOL Copa América USA 2024™ has increased the allowed number of registered players |url=https://copaamerica.com/en/news/conmebol-copa-america-usa-2024-has-increased-the-allowed-number-of-registered-players |access-date=2024-06-25 |website=copaamerica.com |language=en |archive-date=June 16, 2024 |archive-url=https://web.archive.org/web/20240616230150/https://copaamerica.com/en/news/conmebol-copa-america-usa-2024-has-increased-the-allowed-number-of-registered-players |url-status=live}}</ref>",
                   "url": "https://copaamerica.com/en/news/conmebol-copa-america-usa-2024-has-increased-the-allowed-number-of-registered-players",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -337,8 +337,8 @@
               "references": [
                 {
                   "text": "<ref>{{cite news |date=May 24, 2024 |title=Referees called for the CONMEBOL Copa América 2024™ |website=Copa América |url=https://copaamerica.com/news/arbitros-convocados-para-la-conmebol-copa-america-2024/ |access-date=May 25, 2024 |archive-date=May 25, 2024 |archive-url=https://web.archive.org/web/20240525021549/https://copaamerica.com/news/arbitros-convocados-para-la-conmebol-copa-america-2024/ |url-status=live}}</ref>",
-                  "url": "https://copaamerica.com/news/arbitros-convocados-para-la-conmebol-copa-america-2024/",
-                  "status_code": null,
+                  "url": "https://copaamerica.com/es/novedades/arbitros-convocados-para-la-conmebol-copa-america-2024",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -482,7 +482,7 @@
                     {
                       "text": "<ref>{{cite news|url=https://www.sportingnews.com/ca/soccer/news/copa-america-golden-ball-who-won-player-tournament-mvp-glove-boot/919db45959e9bdabd8b804db|title=2024 Copa America Golden Ball: Player of tournament MVP plus prizes for Golden Glove, Golden Boot and Team of the Tournament|website=The Sporting News|date=July 15, 2024|access-date=July 15, 2024}}</ref>",
                       "url": "https://www.sportingnews.com/ca/soccer/news/copa-america-golden-ball-who-won-player-tournament-mvp-glove-boot/919db45959e9bdabd8b804db",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -503,7 +503,7 @@
                         {
                           "text": "<ref>{{cite news |title=The CONMEBOL Copa América 2024™ Best XI |url=https://copaamerica.com/en/news/best-xi-team-tournament-copa-america-2024 |website=Copa América |access-date=July 31, 2024 |date=July 31, 2024 }}</ref>",
                           "url": "https://copaamerica.com/en/news/best-xi-team-tournament-copa-america-2024",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -534,84 +534,84 @@
                     {
                       "text": "<ref>{{Cite web |title=ABSOLUT Sport becomes the Official Travel Partner of CONMEBOL Copa América USA 2024™ {{!}} CONMEBOL Copa América |url=https://copaamerica.com/en/news/absolut-sport-becomes-the-official-travel-partner-of-conmebol-copa-america-usa-2024 |access-date=2024-11-20 |website=copaamerica.com}}</ref>",
                       "url": "https://copaamerica.com/en/news/absolut-sport-becomes-the-official-travel-partner-of-conmebol-copa-america-usa-2024",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Betano, nuevo Sponsor Oficial de la CONMEBOL Copa America 2024™️ – CONMEBOL |trans-title=Betano, new Official Sponsor of the CONMEBOL Copa America 2024™️ |url=https://www.conmebol.com/noticias/betano-nuevo-sponsor-oficial-de-la-conmebol-copa-america-2024%EF%B8%8F/ |access-date=2024-06-22 |website=www.conmebol.com |archive-date=February 23, 2024 |archive-url=https://web.archive.org/web/20240223092627/https://www.conmebol.com/noticias/betano-nuevo-sponsor-oficial-de-la-conmebol-copa-america-2024%EF%B8%8F/ |url-status=live}}</ref>",
                       "url": "https://www.conmebol.com/noticias/betano-nuevo-sponsor-oficial-de-la-conmebol-copa-america-2024%EF%B8%8F/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=May 21, 2024 |title=BYD se une con la CONMEBOL COPA AMÉRICA USA 2024™ como Partner Oficial – CONMEBOL |url=https://www.conmebol.com/noticias/byd-se-une-con-la-conmebol-copa-america-usa-2024-como-partner-oficial-de-la-conmebol-copa-america-usa-2024/ |access-date=May 22, 2024 |website=www.conmebol.com |language=es-ES |archive-date=May 21, 2024 |archive-url=https://web.archive.org/web/20240521222021/https://www.conmebol.com/noticias/byd-se-une-con-la-conmebol-copa-america-usa-2024-como-partner-oficial-de-la-conmebol-copa-america-usa-2024/ |url-status=live}}</ref>",
                       "url": "https://www.conmebol.com/noticias/byd-se-une-con-la-conmebol-copa-america-usa-2024-como-partner-oficial-de-la-conmebol-copa-america-usa-2024/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=June 20, 2024 |title=Coca-Cola joins CONMEBOL as Global Partners of the Copa America 2024™️ |url=https://copaamerica.com/en/news/coca-cola-joins-conmebol-as-global-partners-copa-america |access-date=June 21, 2024 |website=copaamerica.com |language=en-EN |archive-date=June 20, 2024 |archive-url=https://web.archive.org/web/20240620232314/https://copaamerica.com/en/news/coca-cola-joins-conmebol-as-global-partners-copa-america |url-status=live}}</ref>",
                       "url": "https://copaamerica.com/en/news/coca-cola-joins-conmebol-as-global-partners-copa-america",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=June 10, 2024 |title=Grupo LATAM y Delta serán las aerolíneas oficiales de la Copa América 2024 |url=https://news.delta.com/grupo-latam-y-delta-seran-las-aerolineas-oficiales-de-la-copa-america-2024 |access-date=June 10, 2024 |website=news.delta.com |language=en-EN |archive-date=June 11, 2024 |archive-url=https://web.archive.org/web/20240611183938/https://news.delta.com/grupo-latam-y-delta-seran-las-aerolineas-oficiales-de-la-copa-america-2024 |url-status=live}}</ref>",
                       "url": "https://news.delta.com/grupo-latam-y-delta-seran-las-aerolineas-oficiales-de-la-copa-america-2024",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=LOWE'S TEAMS UP WITH LIONEL MESSI, INTER MIAMI CF AND CONMEBOL COPA AMÉRICA 2024 USA™ TO WIN OVER SOCCER FANS |url=https://corporate.lowes.com/newsroom/press-releases/lowes-teams-lionel-messi-inter-miami-cf-and-conmebol-copa-america-2024-usatm-win-over-soccer-fans-04-18-24| access-date=April 18, 2024 |website=corporate.lowes.com |date=April 18, 2024 |language=en| archive-date=April 29, 2024| archive-url=https://web.archive.org/web/20240429145114/https://corporate.lowes.com/newsroom/press-releases/lowes-teams-lionel-messi-inter-miami-cf-and-conmebol-copa-america-2024-usatm-win-over-soccer-fans-04-18-24| url-status=live}}</ref>",
                       "url": "https://corporate.lowes.com/newsroom/press-releases/lowes-teams-lionel-messi-inter-miami-cf-and-conmebol-copa-america-2024-usatm-win-over-soccer-fans-04-18-24",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Mastercard Renews its Commitment to South American Football and Becomes the Official Sponsor of Women's Football |url=https://www.mastercard.com/news/latin-america/en/newsroom/press-releases/pr-en/2020/february/mastercard-renews-its-commitment-to-south-american-football-and-becomes-the-official-sponsor-of-women-s-football/ |access-date=December 8, 2023 |website=www.mastercard.com |language=en |archive-date=December 8, 2023 |archive-url=https://web.archive.org/web/20231208110031/https://www.mastercard.com/news/latin-america/en/newsroom/press-releases/pr-en/2020/february/mastercard-renews-its-commitment-to-south-american-football-and-becomes-the-official-sponsor-of-women-s-football/ |url-status=live}}</ref>",
                       "url": "https://www.mastercard.com/news/latin-america/en/newsroom/press-releases/pr-en/2020/february/mastercard-renews-its-commitment-to-south-american-football-and-becomes-the-official-sponsor-of-women-s-football/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=May 30, 2024 |title=Mercado Livre é o novo patrocinador oficial da Copa América 2024 |url=https://istoe.com.br/mercado-livre-e-o-novo-patrocinador-oficial-da-copa-america-2024/ |access-date=May 30, 2024 |website=ISTOÉ Independente |language=pt-br}}</ref>",
                       "url": "https://istoe.com.br/mercado-livre-e-o-novo-patrocinador-oficial-da-copa-america-2024/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=CONMEBOL and Michelob Ultra: Official Beer Sponsor Worldwide of the CONMEBOL Copa América 2024 |url=https://copaamerica.com/news/conmebol-y-michelob-ultra-sponsor-oficial-de-cerveza-a-nivel-mundial-de-la-conmebol-copa-america-2024/ |access-date=December 9, 2023 |website=copaamerica.com |language=es-ES |archive-date=December 9, 2023 |archive-url=https://web.archive.org/web/20231209050931/https://copaamerica.com/news/conmebol-y-michelob-ultra-sponsor-oficial-de-cerveza-a-nivel-mundial-de-la-conmebol-copa-america-2024/ |url-status=live}}</ref>",
-                      "url": "https://copaamerica.com/news/conmebol-y-michelob-ultra-sponsor-oficial-de-cerveza-a-nivel-mundial-de-la-conmebol-copa-america-2024/",
-                      "status_code": null,
+                      "url": "https://copaamerica.com/es/novedades/conmebol-y-michelob-ultra-sponsor-oficial-de-cerveza-a-nivel-mundial-de-la-conmebol-copa-america-2024",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=PUMA PARTNERS WITH CONMEBOL TO SPONSOR MAJOR FOOTBALLTOURNAMENTS AND PRODUCTION LATIN AMERICAN {{!}} PUMA |url=https://about.puma.com/en/newsroom/news/puma-partners-conmebol-sponsor-major-footballtournaments-and-productin-latin-american |access-date=December 8, 2023 |website=about.puma.com |language=en |archive-date=December 8, 2023 |archive-url=https://web.archive.org/web/20231208101812/https://about.puma.com/en/newsroom/news/puma-partners-conmebol-sponsor-major-footballtournaments-and-productin-latin-american |url-status=live }}</ref>",
-                      "url": "https://about.puma.com/en/newsroom/news/puma-partners-conmebol-sponsor-major-footballtournaments-and-productin-latin-american",
-                      "status_code": null,
+                      "url": "https://about.puma.com/en/newsroom/news/puma-partners-conmebol-sponsor-major-football-tournaments-and-product-latin-america",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=May 29, 2024 |title=TCL é patrocinadora oficial da CONMEBOL Copa América 2024™, pelo terceiro ano consecutivo – CONMEBOL |url=https://www.conmebol.com/pt-br/noticias-pt-br/tcl-e-patrocinadora-oficial-da-conmebol-copa-america-2024-pelo-terceiro-ano-consecutivo/ |access-date=May 30, 2024 |website=www.conmebol.com |language=pt-br |archive-date=May 30, 2024 |archive-url=https://web.archive.org/web/20240530010641/https://www.conmebol.com/pt-br/noticias-pt-br/tcl-e-patrocinadora-oficial-da-conmebol-copa-america-2024-pelo-terceiro-ano-consecutivo/ |url-status=live}}</ref>",
                       "url": "https://www.conmebol.com/pt-br/noticias-pt-br/tcl-e-patrocinadora-oficial-da-conmebol-copa-america-2024-pelo-terceiro-ano-consecutivo/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Unilever Personal Care brands to partner CONMEBOL Copa América USA 2024™ |url=https://copaamerica.com/news/unilever-personal-care-brands-to-partner-conmebol-copa-america-usa-2024/ |access-date=April 27, 2024 |website=CONMEBOL Copa America |language=es-ES |archive-date=April 27, 2024 |archive-url=https://web.archive.org/web/20240427044936/https://copaamerica.com/news/unilever-personal-care-brands-to-partner-conmebol-copa-america-usa-2024/ |url-status=live}}</ref>",
-                      "url": "https://copaamerica.com/news/unilever-personal-care-brands-to-partner-conmebol-copa-america-usa-2024/",
-                      "status_code": null,
+                      "url": "https://copaamerica.com/es/novedades/unilever-personal-care-brands-to-partner-conmebol-copa-america-usa-2024",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -633,22 +633,22 @@
                   "references": [
                     {
                       "text": "<ref>{{cite web | url=https://clutchpoints.com/ea-sports-conmebol-bring-copa-america-ultimate-team-mobile | title=EA SPORTS and CONMEBOL Bring Copa América 2024 to FC 24 Ultimate Team & Mobile | date=June 14, 2024 }}</ref>",
-                      "url": "https://clutchpoints.com/ea-sports-conmebol-bring-copa-america-ultimate-team-mobile",
-                      "status_code": null,
+                      "url": "https://clutchpoints.com/gaming/ea-sports-conmebol-bring-copa-america-ultimate-team-mobile",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://www.destructoid.com/is-copa-america-2024-coming-to-ea-fc-24/ | title=Is Copa America 2024 coming to EA FC 24? | date=June 6, 2024 }}</ref>",
                       "url": "https://www.destructoid.com/is-copa-america-2024-coming-to-ea-fc-24/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://www.ea.com/games/fifa/fifa-mobile/news/copa-2024 | title=EA SPORTS FC™ Mobile – CONMEBOL Copa América™ 2024 | date=June 20, 2024 }}</ref>",
-                      "url": "https://www.ea.com/games/fifa/fifa-mobile/news/copa-2024",
-                      "status_code": null,
+                      "url": "https://www.ea.com/games/ea-sports-fc/fc-mobile/news",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -661,7 +661,7 @@
                     {
                       "text": "<ref>{{cite web | url=https://copaamerica.com/en/news/panini-presents-the-official-collectible-sticker-album-of-the-conmebol-copa-america-usa-2024- | title=Panini presents the official collectible sticker album of the CONMEBOL Copa América USA 2024™ &#124; CONMEBOL Copa América }}</ref>",
                       "url": "https://copaamerica.com/en/news/panini-presents-the-official-collectible-sticker-album-of-the-conmebol-copa-america-usa-2024-",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -691,126 +691,126 @@
                     {
                       "text": "<ref>{{Cite web |date=June 20, 2024 |title=Ekskluzivitet i MCN/ Grupet dhe kalendari i ndeshjeve të Copa America |url=https://www.mcntv.al/node/198715 |access-date=June 21, 2024 |website=MCNTV |language=sq}}</ref>",
                       "url": "https://www.mcntv.al/node/198715",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Página{{!}}12 |date=May 31, 2024 |title=TV Pública transmitirá los partidos de la selección argentina en la Copa América 2024 {{!}} Acuerdo con Torneos, DirecTV y Telefe |url=https://www.pagina12.com.ar/741175-tv-publica-transmitira-los-partidos-de-la-seleccion-argentin |access-date=June 6, 2024 |website=PAGINA12 |language=es |archive-date=June 1, 2024 |archive-url=https://web.archive.org/web/20240601024505/https://www.pagina12.com.ar/741175-tv-publica-transmitira-los-partidos-de-la-seleccion-argentin |url-status=live }}</ref>",
                       "url": "https://www.pagina12.com.ar/741175-tv-publica-transmitira-los-partidos-de-la-seleccion-argentin",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Confrensa di Prensa Copa America 2024\n| website=YouTube |url=https://www.youtube.com/live/Wv9hsr8rBwc?si=9ToRuiJo1FzVapKM}}</ref>",
-                      "url": "https://www.youtube.com/live/Wv9hsr8rBwc?si=9ToRuiJo1FzVapKM}}</ref>",
-                      "status_code": null,
+                      "url": "https://www.youtube.com/live/Wv9hsr8rBwc?si=9ToRuiJo1FzVapKM%7D%7D%3C/ref%3E",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=Optus Sport secures long term rights to Copa America 2021 and 2024 tournaments |url=https://sport.optus.com.au/articles/os23029/optus-sport-secures-long-term-rights-to-copa-america-2021-and-2024-tournaments |access-date=June 5, 2021 |work=Optus Sport |date=March 30, 2021 |archive-date=June 4, 2021 |archive-url=https://web.archive.org/web/20210604042926/https://sport.optus.com.au/articles/os23029/optus-sport-secures-long-term-rights-to-copa-america-2021-and-2024-tournaments |url-status=live}}</ref>",
                       "url": "https://sport.optus.com.au/articles/os23029/optus-sport-secures-long-term-rights-to-copa-america-2021-and-2024-tournaments",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"auto2\">{{Cite news |title=Die Copa América 2024 LIVE bei Sportdigital+ |url=https://start.sportdigital.de/mediathek/21463/CONMEBOL++Copa+Am%C3%A9rica+2024 |access-date=June 14, 2024 |date=June 5, 2024 |archive-date=June 14, 2024 |archive-url=https://web.archive.org/web/20240614154232/https://start.sportdigital.de/mediathek/21463/CONMEBOL++Copa+Am%C3%A9rica+2024 |url-status=live}}</ref>",
                       "url": "https://start.sportdigital.de/mediathek/21463/CONMEBOL++Copa+Am%C3%A9rica+2024",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Scaloni objavio popis Argentinaca za Copa Americu |url=https://tvarenasport.hr/nogomet/scaloni-objavio-popis-argentinaca-za-copa-americu/ |access-date=June 17, 2024 |date=June 16, 2024 |archive-date=June 17, 2024 |archive-url=https://web.archive.org/web/20240617012029/https://tvarenasport.hr/nogomet/scaloni-objavio-popis-argentinaca-za-copa-americu/ |url-status=live}}</ref>",
                       "url": "https://tvarenasport.hr/nogomet/scaloni-objavio-popis-argentinaca-za-copa-americu/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Where to watch Copa? |url=https://www.instagram.com/reel/C6Oav0Jtlp3/?igsh=MWE0ZTN0aThhbzRscw==|access-date=June 14, 2024 |date=April 26, 2024}}</ref>",
                       "url": "https://www.instagram.com/reel/C6Oav0Jtlp3/?igsh=MWE0ZTN0aThhbzRscw==",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=No te pierdas el sorteo de la Copa América 2024 este jueves por UNITEL |url=https://futbol.unitel.bo/futbol/no-te-pierdas-el-sorteo-de-la-copa-america-2024-este-jueves-por-unitel-JL10280393|access-date=December 4, 2023 |work=Unitel |date=December 3, 2023|archive-date=December 4, 2023|archive-url=https://web.archive.org/web/20231204230901/https://futbol.unitel.bo/futbol/no-te-pierdas-el-sorteo-de-la-copa-america-2024-este-jueves-por-unitel-JL10280393|url-status=live}}</ref>",
                       "url": "https://futbol.unitel.bo/futbol/no-te-pierdas-el-sorteo-de-la-copa-america-2024-este-jueves-por-unitel-JL10280393",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Mattos |first=Rodrigo |date=September 18, 2023 |title=Brax leva direitos da Copa América nos EUA |trans-title=Brax takes Copa America rights |url=https://www.uol.com.br/esporte/futebol/colunas/rodrigo-mattos/2023/09/18/brax-leva-direitos-da-copa-america-nos-eua-e-ja-negocia-com-a-globo.htm |access-date=September 20, 2023 |website=UOL |language=pt-br |archive-date=September 20, 2023 |archive-url=https://web.archive.org/web/20230920154935/https://www.uol.com.br/esporte/futebol/colunas/rodrigo-mattos/2023/09/18/brax-leva-direitos-da-copa-america-nos-eua-e-ja-negocia-com-a-globo.htm |url-status=live}}</ref>",
                       "url": "https://www.uol.com.br/esporte/futebol/colunas/rodrigo-mattos/2023/09/18/brax-leva-direitos-da-copa-america-nos-eua-e-ja-negocia-com-a-globo.htm",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"UEFA2024\">{{Cite news |title=UEFA EURO & CONMEBOL COPA AMÉRICA 2024. All Matches, All Live, All in HD. Subscribe to the Astro Sports Pack, now with free installation |url=https://www.instagram.com/reel/C8OYVPWAVY8/?igsh=NjJ3dmxld21iYnlw|access-date=June 19, 2024 |date=June 15, 2024}}</ref>",
                       "url": "https://www.instagram.com/reel/C8OYVPWAVY8/?igsh=NjJ3dmxld21iYnlw",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |title=MAX Sport Придоби Праватв за Излъчването на Copa América 2024 |url=https://www.a1.bg/medien-tsentar-informatsia-za-mediite/mc/index/ma/view/infoblock_id/3531 |access-date=June 14, 2024 |date=June 4, 2024 |archive-date=June 14, 2024 |archive-url=https://web.archive.org/web/20240614154233/https://www.a1.bg/medien-tsentar-informatsia-za-mediite/mc/index/ma/view/infoblock_id/3531 |url-status=live}}</ref>",
                       "url": "https://www.a1.bg/medien-tsentar-informatsia-za-mediite/mc/index/ma/view/infoblock_id/3531",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |author=TSN ca Staff |date=December 7, 2023 |title=TSN and RDS Acquire Exclusive Media Rights to the CONMEBOL COPA AMERICA 2024 – TSN.ca |url=https://www.tsn.ca/tsn-and-rds-acquire-exclusive-media-rights-to-the-conmebol-copa-america-2024-1.2045799 |access-date=December 8, 2023 |website=TSN |language=en |archive-date=December 8, 2023 |archive-url=https://web.archive.org/web/20231208103720/https://www.tsn.ca/tsn-and-rds-acquire-exclusive-media-rights-to-the-conmebol-copa-america-2024-1.2045799 |url-status=live}}</ref>",
                       "url": "https://www.tsn.ca/tsn-and-rds-acquire-exclusive-media-rights-to-the-conmebol-copa-america-2024-1.2045799",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |title=CVM TV & C Sport Secure Exclusive Broadcast Rights for Copa América 2024 |url=https://our.today/cvm-tv-csport-secure-exclusive-broadcast-rights-for-copa-america-2024/|access-date=June 25, 2024 |date=December 7, 2023|archive-date=December 8, 2023|archive-url=https://web.archive.org/web/20231208063844/https://our.today/cvm-tv-csport-secure-exclusive-broadcast-rights-for-copa-america-2024/|url-status=live}}</ref>",
                       "url": "https://our.today/cvm-tv-csport-secure-exclusive-broadcast-rights-for-copa-america-2024/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |author=Al Aire Libre |date=January 22, 2024 |title=Chilevisión y Canal 13 transmitirán la Copa América 2024 |url=https://www.alairelibre.cl/noticias/deportes/copa-america/ee-uu-2024/chilevision-y-canal-13-transmitiran-la-copa-america-2024/2024-01-19/114636.html |access-date=January 22, 2024 |website=Radio Cooperativa |language=es |archive-date=January 22, 2024 |archive-url=https://web.archive.org/web/20240122233231/https://www.alairelibre.cl/noticias/deportes/copa-america/ee-uu-2024/chilevision-y-canal-13-transmitiran-la-copa-america-2024/2024-01-19/114636.html |url-status=live}}</ref>",
                       "url": "https://www.alairelibre.cl/noticias/deportes/copa-america/ee-uu-2024/chilevision-y-canal-13-transmitiran-la-copa-america-2024/2024-01-19/114636.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=June 1, 2024 |title=2024年美洲杯足球赛央视体育宣传片 |url=https://pic.cctv.cn/cctv/cctvh5/cctv5/2023/cctvsportsshare/video/video.html?id=VIDE1717249738418924 |access-date=June 19, 2024 |website=CCTV Sports |language=zh |archive-date=June 19, 2024 |archive-url=https://web.archive.org/web/20240619053738/https://pic.cctv.cn/cctv/cctvh5/cctv5/2023/cctvsportsshare/video/video.html?id=VIDE1717249738418924 |url-status=live}}</ref>",
                       "url": "https://pic.cctv.cn/cctv/cctvh5/cctv5/2023/cctvsportsshare/video/video.html?id=VIDE1717249738418924",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=November 23, 2023 |title=Confirmado: Caracol y RCN no transmitirán toda la Copa América 2024 |url=https://bolavip.com/co/seleccioncolombiana/confirmado-caracol-y-rcn-no-transmitiran-toda-la-copa-america-2024-20231123-BCO-37883.html |access-date=May 1, 2024 |website=Bolavip Colombia |language=es |archive-date=December 8, 2023 |archive-url=https://web.archive.org/web/20231208123102/https://bolavip.com/co/seleccioncolombiana/confirmado-caracol-y-rcn-no-transmitiran-toda-la-copa-america-2024-20231123-BCO-37883.html |url-status=live}}</ref>",
                       "url": "https://bolavip.com/co/seleccioncolombiana/confirmado-caracol-y-rcn-no-transmitiran-toda-la-copa-america-2024-20231123-BCO-37883.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=Televisora de Costa Rica transmitirá la Liga de Naciones de la CONCACAF 2023–2024, Copa América 2024 y las Eliminatorias de la CONCACAF rumbo al Mundial 2026 en todas sus plataformas. |url=http://www.solofutbolcr.com/2023/09/televisora-de-costa-rica-transmitira-la.html?m=1|access-date=September 23, 2023 |date=September 8, 2023|archive-date=November 4, 2023|archive-url=https://web.archive.org/web/20231104023024/http://www.solofutbolcr.com/2023/09/televisora-de-costa-rica-transmitira-la.html?m=1|url-status=live}}</ref>",
                       "url": "http://www.solofutbolcr.com/2023/09/televisora-de-costa-rica-transmitira-la.html?m=1",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Viaplay viser Copa América i Danmark – og otte andre lande. |url=https://www.tv3sport.dk/sport/fodbold/nyheder/viaplay-viser-copa-america-i-ni-lande|access-date=December 1, 2023 |date=June 11, 2021|archive-date=December 1, 2023|archive-url=https://web.archive.org/web/20231201161817/https://www.tv3sport.dk/sport/fodbold/nyheder/viaplay-viser-copa-america-i-ni-lande|url-status=live}}</ref>",
                       "url": "https://www.tv3sport.dk/sport/fodbold/nyheder/viaplay-viser-copa-america-i-ni-lande",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
@@ -824,294 +824,294 @@
                     {
                       "text": "<ref name=\"Viaplay\" />\n|-\n|Fiji\n|Fijian Broadcasting Corporation|FBC\n|<ref>{{cite news |title=Fiji's FBC Sports secures rights to 2022 FIFA World Cup |url=https://www.abu.org.my/2022/05/12/fijis-fbc-sports-secures-rights-to-2022-fifa-world-cup/?doing_wp_cron=1668649441.1907820701599121093750|access-date=November 22, 2022 |work=Asia-Pacific Broadcasting Union|archive-date=April 29, 2024|archive-url=https://web.archive.org/web/20240429145118/https://www.abu.org.my/2022/05/12/fijis-fbc-sports-secures-rights-to-2022-fifa-world-cup/?doing_wp_cron=1668649441.1907820701599121093750|url-status=live}}</ref>",
                       "url": "https://www.abu.org.my/2022/05/12/fijis-fbc-sports-secures-rights-to-2022-fifa-world-cup/?doing_wp_cron=1668649441.1907820701599121093750",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"Viaplay\" />\n|-\n|France\n|L'Équipe (TV channel)|L'Équipe\n|<ref>{{Cite news |title=La Copa America à suivre sur L'Équipe live foot du 20 juin au 14 juillet |url=https://www.lequipe.fr/tv/replay/la-copa-america-a-suivre-sur-l-equipe-live-foot-du-20-juin-au-14-juillet/20191563|access-date=June 14, 2024 |date=May 28, 2024}}</ref>",
                       "url": "https://www.lequipe.fr/tv/replay/la-copa-america-a-suivre-sur-l-equipe-live-foot-du-20-juin-au-14-juillet/20191563",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |title=კოპა ამერიკა იწყება! ტურნირს ჩემპიონები კანადასთან დაპირისპირებით გახსნიან 04:00-დან, უყურე მატჩის ლაივს Setanta Sports 1-სა |url=https://www.instagram.com/p/C8bTo6ctPYl/?igsh=d2ZqbGVrOGs0NHRr|access-date=June 25, 2024 |date=June 20, 2024}}</ref>",
                       "url": "https://www.instagram.com/p/C8bTo6ctPYl/?igsh=d2ZqbGVrOGs0NHRr",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"auto2\"/>\n|-\n|Greece\n|ANT1\n|<ref>{{Cite web |title=Το Copa America 2024 αποκλειστικά σε ΑΝΤ1 και ANT1+ |url=https://www.antenna.gr/Sports/article/4/915298/to-copa-america-2024-apokleistika-se-ant1-kai-ant1- |access-date=June 7, 2024 |website=antenna.gr/news |language=el |archive-date=June 7, 2024 |archive-url=https://web.archive.org/web/20240607141533/https://www.antenna.gr/Sports/article/4/915298/to-copa-america-2024-apokleistika-se-ant1-kai-ant1- |url-status=live}}</ref>",
                       "url": "https://www.antenna.gr/Sports/article/4/915298/to-copa-america-2024-apokleistika-se-ant1-kai-ant1-",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Inicia la Copa América con Transmisión Exclusiva en TV Azteca Guatemala |url=https://tvaztecaguate.com/deportes/copa-america-2024/2024/06/19/inicia-la-copa-america-con-transmision-exclusiva-en-tv-azteca-guatemala/|access-date=June 22, 2024 |date=June 20, 2024|archive-date=June 22, 2024|archive-url=https://web.archive.org/web/20240622102648/https://tvaztecaguate.com/deportes/copa-america-2024/2024/06/19/inicia-la-copa-america-con-transmision-exclusiva-en-tv-azteca-guatemala/|url-status=live}}</ref>",
                       "url": "https://tvaztecaguate.com/deportes/copa-america-2024/2024/06/19/inicia-la-copa-america-con-transmision-exclusiva-en-tv-azteca-guatemala/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Cómo ver la Eurocopa y Copa América en Guatemala |url=https://agn.gt/como-ver-la-eurocopa-y-copa-america-en-guatemala/|access-date=June 22, 2024 |date=June 20, 2024|archive-date=June 22, 2024|archive-url=https://web.archive.org/web/20240622102648/https://agn.gt/como-ver-la-eurocopa-y-copa-america-en-guatemala/|url-status=live}}</ref>",
                       "url": "https://agn.gt/como-ver-la-eurocopa-y-copa-america-en-guatemala/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Copa América 2024, el torneo de fútbol más antiguo del mundo Solo por el Once |url=https://www.oncenoticias.hn/copa-america-canal-11-2/|access-date=February 25, 2024 |date=December 1, 2023|archive-date=February 25, 2024|archive-url=https://web.archive.org/web/20240225215011/https://www.oncenoticias.hn/copa-america-canal-11-2/|url-status=live}}</ref>",
                       "url": "https://www.oncenoticias.hn/copa-america-canal-11-2/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=June 18, 2024 |title=美洲國家盃2024直播賽程時間表 HOY TV免費播足全部32場美洲盃 |url=https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/1029778/%E7%BE%8E%E6%B4%B2%E5%9C%8B%E5%AE%B6%E7%9B%832024%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-hoy-tv%E5%85%8D%E8%B2%BB%E6%92%AD%E8%B6%B3%E5%85%A8%E9%83%A832%E5%A0%B4%E7%BE%8E%E6%B4%B2%E7%9B%83 |access-date=June 19, 2024 |website=HK01 |language=zh |archive-date=June 19, 2024 |archive-url=https://web.archive.org/web/20240619053735/https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/1029778/%E7%BE%8E%E6%B4%B2%E5%9C%8B%E5%AE%B6%E7%9B%832024%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-hoy-tv%E5%85%8D%E8%B2%BB%E6%92%AD%E8%B6%B3%E5%85%A8%E9%83%A832%E5%A0%B4%E7%BE%8E%E6%B4%B2%E7%9B%83 |url-status=live}}</ref>",
                       "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E9%AB%94%E8%82%B2/1029778/%E7%BE%8E%E6%B4%B2%E5%9C%8B%E5%AE%B6%E7%9B%832024%E7%9B%B4%E6%92%AD%E8%B3%BD%E7%A8%8B%E6%99%82%E9%96%93%E8%A1%A8-hoy-tv%E5%85%8D%E8%B2%BB%E6%92%AD%E8%B6%B3%E5%85%A8%E9%83%A832%E5%A0%B4%E7%BE%8E%E6%B4%B2%E7%9B%83",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Copa América Network4 Kozvetitesi Jog |url=https://media1.hu/2024/06/14/copa-america-network4-kozvetitesi-jog/ |access-date=June 17, 2024 |date=June 14, 2024 }}{{Dead link|date=August 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>",
                       "url": "https://media1.hu/2024/06/14/copa-america-network4-kozvetitesi-jog/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"Viaplay\">{{Cite web |url=https://www.tvmatchen.nu/nyheter/sportrattigheter/viaplay-visar-copa-america-2021-och-2024/ |title=Viaplay visar Copa América 2021 och 2024 |date=June 17, 2021 |access-date=June 5, 2024 |language=sv |trans-title=Viaplay will show Copa América 2021 and 2024 |archive-date=June 5, 2024 |archive-url=https://web.archive.org/web/20240605021443/https://www.tvmatchen.nu/nyheter/sportrattigheter/viaplay-visar-copa-america-2021-och-2024/ |url-status=live}}</ref>",
                       "url": "https://www.tvmatchen.nu/nyheter/sportrattigheter/viaplay-visar-copa-america-2021-och-2024/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=Official Account Nex Parabola on Instagram |url=https://www.instagram.com/reel/C5Px-b1Lkgc/?igsh=eWd5MGsyY3M0NHYx|access-date=April 2, 2024 |date=April 2, 2024}}</ref>",
                       "url": "https://www.instagram.com/reel/C5Px-b1Lkgc/?igsh=eWd5MGsyY3M0NHYx",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"auto1\"/>\n|-\n|Ireland\n|Premier Sports\n|<ref name=\"auto3\">{{cite news |title=Premier Sports Scores 2024 Copa América rights |url=https://advanced-television.com/2024/04/24/premier-sports-scores-2024-copa-america-rights/ |access-date=May 2, 2024 |date=April 24, 2024 |archive-date=May 1, 2024 |archive-url=https://web.archive.org/web/20240501230731/https://advanced-television.com/2024/04/24/premier-sports-scores-2024-copa-america-rights/ |url-status=live}}</ref>",
-                      "url": "https://advanced-television.com/2024/04/24/premier-sports-scores-2024-copa-america-rights/",
-                      "status_code": null,
+                      "url": "https://www.advanced-television.com/2024/04/24/premier-sports-scores-2024-copa-america-rights/",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Copa America 2024 in diretta su Sportitalia |url=https://www.digital-news.it/news/sport/51799/copa-america-2024-in-diretta-su-sportitalia-tutte-le-partite-live-sul-canale-60-del-digitale-terrestre/ |access-date=May 11, 2024 |date=May 11, 2024 |archive-date=May 17, 2024 |archive-url=https://web.archive.org/web/20240517182730/https://www.digital-news.it/news/sport/51799/copa-america-2024-in-diretta-su-sportitalia-tutte-le-partite-live-sul-canale-60-del-digitale-terrestre |url-status=live}}</ref>",
                       "url": "https://www.digital-news.it/news/sport/51799/copa-america-2024-in-diretta-su-sportitalia-tutte-le-partite-live-sul-canale-60-del-digitale-terrestre/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=LA @copaamerica SBARCA SU MOLA, SEMPRE PIU CASA DEL CALCIO SUDAMERICANO |url=https://www.instagram.com/reel/C7jsNlAqabc/?igsh=MTBmdWNzNGI5a2pj |access-date=May 30, 2024 |date=May 29, 2024 |archive-date=May 29, 2024 |archive-url=https://web.archive.org/web/20240529182301/https://www.instagram.com/reel/C7jsNlAqabc/?igsh=MTBmdWNzNGI5a2pj |url-status=live}}</ref>",
                       "url": "https://www.instagram.com/reel/C7jsNlAqabc/?igsh=MTBmdWNzNGI5a2pj",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |title=We've Got COPA! Catch all the COPA América matches live on CVM and CVM+ |url=https://www.instagram.com/reel/C8alMSas-Jb/|access-date=June 22, 2024 |date=June 19, 2024}}</ref>",
                       "url": "https://www.instagram.com/reel/C8alMSas-Jb/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=June 6, 2024 |title=Amazon makes rare sports move in Japan with Copa América |url=https://www.sportbusiness.com/news/amazon-makes-rare-sports-move-in-japan-with-copa-america/ |access-date=June 7, 2024 |website=SportBusiness |language=en-US |archive-date=June 7, 2024 |archive-url=https://web.archive.org/web/20240607043028/https://www.sportbusiness.com/news/amazon-makes-rare-sports-move-in-japan-with-copa-america/ |url-status=live}}</ref>",
                       "url": "https://www.sportbusiness.com/news/amazon-makes-rare-sports-move-in-japan-with-copa-america/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |title=«Qazaqstan» және «Qazsport» телеарналары футболдан 2024 жылғы Америка кубогын тікелей эфирде көрсетеді |url=https://m.qazsporttv.kz/kz/news/17555/|access-date=22 June 2024 |date=June 17, 2024|archive-date=June 22, 2024|archive-url=https://web.archive.org/web/20240622092301/https://m.qazsporttv.kz/kz/news/17555/|url-status=live}}</ref>",
-                      "url": "https://m.qazsporttv.kz/kz/news/17555/",
-                      "status_code": null,
+                      "url": "https://qazsporttv.kz/kz/news/17555/",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"Viaplay\" />\n|-\n|Lithuania\n|Viaplay Group|Viaplay\n|<ref name=\"Viaplay\" />\n|-\n|Malaysia\n|Astro (company)|Astro\n|<ref name=\"UEFA2024\" />\n|-\n|Mexico\n|TelevisaUnivision, TV Azteca\n|<ref>{{cite news |title=TelevisaUnivision Announces Expansive Sports Offering in 2024 |url=https://corporate.televisaunivision.com/press/2023/05/16/televisaunivision-announces-expansive-sports-offering-in-2024/|access-date=December 7, 2023 |date=May 16, 2023 |language=en-US|archive-date=November 27, 2023|archive-url=https://web.archive.org/web/20231127152727/https://corporate.televisaunivision.com/press/2023/05/16/televisaunivision-announces-expansive-sports-offering-in-2024/|url-status=live}}</ref>",
                       "url": "https://corporate.televisaunivision.com/press/2023/05/16/televisaunivision-announces-expansive-sports-offering-in-2024/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=TV Azteca transmitirá el sorteo de la Copa América 2024 |url=https://www.tvazteca.com/aztecadeportes/donde-ver-en-vivo-gratis-sorteo-copa-america-2024-mexico-estados-unidos-argentina-brasil|access-date=December 8, 2023 |date=December 5, 2023|archive-date=December 5, 2023|archive-url=https://web.archive.org/web/20231205232512/https://www.tvazteca.com/aztecadeportes/donde-ver-en-vivo-gratis-sorteo-copa-america-2024-mexico-estados-unidos-argentina-brasil|url-status=live}}</ref>",
                       "url": "https://www.tvazteca.com/aztecadeportes/donde-ver-en-vivo-gratis-sorteo-copa-america-2024-mexico-estados-unidos-argentina-brasil",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Voetballiefhebbers opgelet: Nederlandse zender heeft rechten Copa América |url=https://www.vi.nl/nieuws/voetballiefhebbers-opgelet-nederlandse-zender-heeft-rechten-copa-america |access-date=June 14, 2024 |date=May 3, 2024 |archive-date=June 14, 2024 |archive-url=https://web.archive.org/web/20240614154231/https://www.vi.nl/nieuws/voetballiefhebbers-opgelet-nederlandse-zender-heeft-rechten-copa-america |url-status=live}}</ref>",
                       "url": "https://www.vi.nl/nieuws/voetballiefhebbers-opgelet-nederlandse-zender-heeft-rechten-copa-america",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|title=Spark Sport closure|url=https://www.spark.co.nz/getmore/spark-sport-closure/|access-date=7 December 2023|date=30 June 2023}}</ref>",
                       "url": "https://www.spark.co.nz/getmore/spark-sport-closure/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Instagram |url=https://www.instagram.com/p/C6zW0_Du7qF/?igsh=MXhwa2pwanppcTllZw==|access-date=June 25, 2024 |date=May 11, 2024}}</ref>",
                       "url": "https://www.instagram.com/p/C6zW0_Du7qF/?igsh=MXhwa2pwanppcTllZw==",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"Viaplay\" />\n|-\n|List of islands in the Pacific Ocean|Pacific Islands\n|Digicel\n|<ref name=UEFA/>\n|-\n|Pakistan\n|PTV Sports,\n|<ref>{{cite news |title=Sorteo Copa América 2024: Fecha, hora y dónde ver en vivo |url=https://www.rpctv.com/futbol/futbol-internacional/copa-america-2024/sorteo-copa-america-2024-fecha-hora-y-donde-ver-vivo-n5946848|access-date=December 8, 2023 |date=December 7, 2023|archive-date=December 8, 2023|archive-url=https://web.archive.org/web/20231208062112/https://www.rpctv.com/futbol/futbol-internacional/copa-america-2024/sorteo-copa-america-2024-fecha-hora-y-donde-ver-vivo-n5946848|url-status=live}}</ref>",
                       "url": "https://www.rpctv.com/futbol/futbol-internacional/copa-america-2024/sorteo-copa-america-2024-fecha-hora-y-donde-ver-vivo-n5946848",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Copa América 2024: Todo lo que debes saber previo a este evento internacional |url=https://www.tvn-2.com/tvmax/futbol-internacional/copa-america-2024-debes-previo-messi-miami-panama-concacaf-conmebol_1_2096047.html|access-date=December 8, 2023 |date=December 7, 2023|archive-date=December 16, 2023|archive-url=https://web.archive.org/web/20231216081417/https://www.tvn-2.com/tvmax/futbol-internacional/copa-america-2024-debes-previo-messi-miami-panama-concacaf-conmebol_1_2096047.html|url-status=live}}</ref>",
-                      "url": "https://www.tvn-2.com/tvmax/futbol-internacional/copa-america-2024-debes-previo-messi-miami-panama-concacaf-conmebol_1_2096047.html",
-                      "status_code": null,
+                      "url": "https://www.tvn-2.com/tvmax/copa-america-2024/copa-america-2024-debes-previo-messi-miami-panama-concacaf-conmebol_1_2096047.html",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"AFC\" />\n|-\n|Paraguay\n|Unicanal, Telefuturo, Sistema Nacional de Televisión (Paraguay)|SNT\n|<ref>{{cite news |title=¡La Copa América nos une! |url=https://www.snt.com.py/noticia/la-copa-america-nos-une/|access-date=December 8, 2023 |date=December 5, 2023|archive-date=December 8, 2023|archive-url=https://web.archive.org/web/20231208133028/https://www.snt.com.py/noticia/la-copa-america-nos-une/|url-status=live}}</ref>",
                       "url": "https://www.snt.com.py/noticia/la-copa-america-nos-une/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://larepublica.pe/deportes/2024/06/07/que-canales-transmiten-la-copa-america-en-vivo-en-peru-y-que-partidos-iran-por-senal-abierta-o-cable-donde-ver-la-copa-america-en-suelo-peruano-en-vivo-588798 |title=¿Qué canales transmitirán la Copa América en vivo en Perú y qué partidos irán por señal abierta o cable? |date=June 7, 2024 |access-date=June 10, 2024 |archive-date=June 8, 2024 |archive-url=https://web.archive.org/web/20240608212732/https://larepublica.pe/deportes/2024/06/07/que-canales-transmiten-la-copa-america-en-vivo-en-peru-y-que-partidos-iran-por-senal-abierta-o-cable-donde-ver-la-copa-america-en-suelo-peruano-en-vivo-588798 |url-status=live}}</ref>",
                       "url": "https://larepublica.pe/deportes/2024/06/07/que-canales-transmiten-la-copa-america-en-vivo-en-peru-y-que-partidos-iran-por-senal-abierta-o-cable-donde-ver-la-copa-america-en-suelo-peruano-en-vivo-588798",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=x.com |url=https://twitter.com/viaplaysportpl/status/1784854478119723125 |access-date=May 31, 2024 |website=X (formerly Twitter) |archive-date=May 31, 2024 |archive-url=https://web.archive.org/web/20240531135800/https://twitter.com/viaplaysportpl/status/1784854478119723125 |url-status=live}}</ref>",
                       "url": "https://twitter.com/viaplaysportpl/status/1784854478119723125",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 400,
+                      "reason": "Bad Request",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |title=As maiores estrelas da Copa América 2024 em exclusivo na sport tv |url=https://www.instagram.com/p/C7WsmImtSVc/?igsh=MXVzc3J1NGw5ZHFzMA==|access-date=June 14, 2024 |date=May 24, 2024}}</ref>",
                       "url": "https://www.instagram.com/p/C7WsmImtSVc/?igsh=MXVzc3J1NGw5ZHFzMA==",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://www.digisport.ro/fotbal/copa-america/copa-america-2024-in-exclusivitate-la-digi-sport-messi-cauta-sa-si-apere-trofeul-cucerit-cu-argentina-2967117 |title=Copa America 2024, în EXCLUSIVITATE la Digi Sport |website=digisport.ro |date=May 16, 2024 |access-date=May 17, 2024 |language=ro |trans-title=Copa America 2024, EXCLUSIVE at Digi Sport |archive-date=May 16, 2024 |archive-url=https://web.archive.org/web/20240516112956/https://www.digisport.ro/fotbal/copa-america/copa-america-2024-in-exclusivitate-la-digi-sport-messi-cauta-sa-si-apere-trofeul-cucerit-cu-argentina-2967117 |url-status=live}}</ref>",
                       "url": "https://www.digisport.ro/fotbal/copa-america/copa-america-2024-in-exclusivitate-la-digi-sport-messi-cauta-sa-si-apere-trofeul-cucerit-cu-argentina-2967117",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Кубок Америки 2024 в —Okko |url=https://www.instagram.com/p/C8EkHwBID95/?igsh=aGRzZjMwZmNtbDB4|access-date=June 22, 2024 |date=June 11, 2024|archive-date=June 22, 2024|archive-url=https://web.archive.org/web/20240622100338/https://www.instagram.com/p/C8EkHwBID95/?igsh=aGRzZjMwZmNtbDB4|url-status=live}}</ref>",
                       "url": "https://www.instagram.com/p/C8EkHwBID95/?igsh=aGRzZjMwZmNtbDB4",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |title=TV program – RTVS.sk |url=https://www.rtvs.sk/televizia/program/21195/472234 |access-date=June 11, 2024 |website=www.rtvs.sk |language=sk |archive-date=June 11, 2024 |archive-url=https://web.archive.org/web/20240611075552/https://www.rtvs.sk/televizia/program/21195/472234 |url-status=live}}</ref>",
-                      "url": "https://www.rtvs.sk/televizia/program/21195/472234",
-                      "status_code": null,
+                      "url": "https://www.stvr.sk/televizia/program/21195/472234",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://www.yna.co.kr/view/AKR20240530049300005?section=search |title=[방송소식] 티빙, '2024 코파 아메리카' 전 경기 생중계 |website=www.tving.com |date=May 30, 2024 |access-date=May 30, 2024 |language=ko-KR |trans-title=TVING will broadcast all the matches of '2024 Copa America' at live. |archive-date=June 7, 2024 |archive-url=https://web.archive.org/web/20240607062950/https://www.yna.co.kr/view/AKR20240530049300005?section=search |url-status=live}}</ref>",
                       "url": "https://www.yna.co.kr/view/AKR20240530049300005?section=search",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://www.mundoplus.tv/tv-digital/la-copa-america-y-la-soccer-champions-tour-se-juegan-al-completo-en-movistar-plus/ |title=La Copa América y la Soccer Champions Tour se juegan al completo en Movistar Plus+ |website=mundoplus.tv |date=May 16, 2024 |access-date=May 16, 2024 |language=es-ES |trans-title=Copa América and the Soccer Champions Tour in full on Movistar Plus+}}</ref>",
                       "url": "https://www.mundoplus.tv/tv-digital/la-copa-america-y-la-soccer-champions-tour-se-juegan-al-completo-en-movistar-plus/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://www.ccma.cat/esport3/la-copa-america-de-futbol-i-la-gira-americana-del-barca-a-3cat/noticia/3297692/ |title=La Copa Amèrica de futbol i la gira americana del Barça, a 3Cat |language=ca |date=June 11, 2024 |access-date=June 11, 2024 |publisher=Corporació Catalana de Mitjans Audiovisuals|CCMA |trans-title=The football Copa América and Barcelona's American tour will be on 3Cat |archive-date=June 11, 2024 |archive-url=https://web.archive.org/web/20240611113717/https://www.ccma.cat/esport3/la-copa-america-de-futbol-i-la-gira-americana-del-barca-a-3cat/noticia/3297692/ |url-status=live}}</ref>",
-                      "url": "https://www.ccma.cat/esport3/la-copa-america-de-futbol-i-la-gira-americana-del-barca-a-3cat/noticia/3297692/",
-                      "status_code": null,
+                      "url": "https://www.3cat.cat/esport3/la-copa-america-de-futbol-i-la-gira-americana-del-barca-a-3cat/noticia/3297692/",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Canal Plus acquires Copa America rights for sub-Saharan Africa |url=https://www.sportcal.com/media/canal-plus-acquires-copa-america-rights-for-sub-saharan-africa/|access-date=June 17, 2024 |date=June 12, 2024|archive-date=June 17, 2024|archive-url=https://web.archive.org/web/20240617152711/https://www.sportcal.com/media/canal-plus-acquires-copa-america-rights-for-sub-saharan-africa/|url-status=live}}</ref>",
                       "url": "https://www.sportcal.com/media/canal-plus-acquires-copa-america-rights-for-sub-saharan-africa/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"Viaplay\" />\n|-\n|Switzerland\n|Sportdigital\n|<ref name=\"auto2\"/>\n|-\n|Tajikistan\n|TV Varzish, TV Football\n|<ref name=\"auto1\"/>\n|-\n|Turkey\n|TV8.5, Exxen\n|<ref>{{Cite news |title=Copa América 2024 maçında Arjantin-Kanada karşı karşıya Gerliyor |url=https://www.instagram.com/p/C8cQkS6gd1n/?igsh=MnVia2dieGZ2aDd4|access-date=June 22, 2024 |date=June 20, 2024}}</ref>",
                       "url": "https://www.instagram.com/p/C8cQkS6gd1n/?igsh=MnVia2dieGZ2aDd4",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"auto3\"/>\n|-\n|United States\n|Fox Sports (United States)|Fox Sports (English)<br />TUDN (brand)|TUDN (Spanish language in the United States|Spanish)\n|<ref>{{cite news |last1=Carp |first1=Sam |title=Copa America to kick off Fox Sports\" six-year Conmebol rights deal |url=https://www.sportspromedia.com/news/copa-america-tv-rights-fox-sports-conmebol/ |access-date=October 16, 2022 |work=SportsPro |date=May 5, 2021 |archive-date=June 8, 2023 |archive-url=https://web.archive.org/web/20230608155444/https://www.sportspromedia.com/news/copa-america-tv-rights-fox-sports-conmebol/ |url-status=live}}</ref>",
                       "url": "https://www.sportspromedia.com/news/copa-america-tv-rights-fox-sports-conmebol/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=May 16, 2023 |title=TelevisaUnivision lands Super Bowl, Copa América, Uefa club rights |last=Medow |first=Shawn |url=https://www.sportbusiness.com/news/televisaunivision-lands-super-bowl-copa-america-uefa-rights/ |access-date=May 16, 2023 |website=SportBusiness |language=en-US |archive-date=May 16, 2023 |archive-url=https://web.archive.org/web/20230516180123/https://www.sportbusiness.com/news/televisaunivision-lands-super-bowl-copa-america-uefa-rights/ |url-status=live}}</ref>",
                       "url": "https://www.sportbusiness.com/news/televisaunivision-lands-super-bowl-copa-america-uefa-rights/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Televisación de Uruguay en la Copa América: lo que está confirmado, qué se negocia y la estrategia de AUF TV |url=https://www.elpais.com.uy/ovacion/futbol/la-televisacion-de-uruguay-en-la-copa-america-lo-que-esta-confirmado-lo-que-se-negocia-y-la-estrategia-de-auf-tv|access-date=June 22, 2024 |date=June 17, 2024}}</ref>",
                       "url": "https://www.elpais.com.uy/ovacion/futbol/la-televisacion-de-uruguay-en-la-copa-america-lo-que-esta-confirmado-lo-que-se-negocia-y-la-estrategia-de-auf-tv",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Amerika Kubogining birinchi o'yinini o'tkazib yubormang! Turnirni chempionlar Kanada bilan qarama-qarshilik orqali orchib berishadi! Uchrashuvni 05:00 dan boshlab Setanta Sports 1 telekanali |url=https://www.instagram.com/p/C8b7Ce1KNYE/?igsh=djg2MTJsODY0Z3N3|access-date=June 25, 2024 |date=June 20, 2024}}</ref>",
                       "url": "https://www.instagram.com/p/C8b7Ce1KNYE/?igsh=djg2MTJsODY0Z3N3",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=TELEVEN transmitirá la Copa América 2024 |url=https://www.televen.com/tusprogramas/televen-transmitira-la-copa-america-2024/|access-date=December 8, 2023 |date=September 7, 2023|archive-date=December 8, 2023|archive-url=https://web.archive.org/web/20231208135742/https://www.televen.com/tusprogramas/televen-transmitira-la-copa-america-2024/|url-status=live}}</ref>",
-                      "url": "https://www.televen.com/tusprogramas/televen-transmitira-la-copa-america-2024/",
-                      "status_code": null,
+                      "url": "https://televen.com/tusprogramas/televen-transmitira-la-copa-america-2024/",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |last=thanhnien.vn |date=June 15, 2024 |title=Khán giả Việt Nam chính thức được xem Copa America 2024, trên kênh nào, ở đâu? |trans-title=Where to watch Copa America 2024 in Vietnam? |url=https://thanhnien.vn/khan-gia-viet-nam-chinh-thuc-duoc-xem-copa-america-2024-tren-kenh-nao-o-dau-185240615110233272.htm |access-date=June 15, 2024 |website=thanhnien.vn |language=vi |archive-date=June 16, 2024 |archive-url=https://web.archive.org/web/20240616063901/https://thanhnien.vn/khan-gia-viet-nam-chinh-thuc-duoc-xem-copa-america-2024-tren-kenh-nao-o-dau-185240615110233272.htm |url-status=live}}</ref>",
                       "url": "https://thanhnien.vn/khan-gia-viet-nam-chinh-thuc-duoc-xem-copa-america-2024-tren-kenh-nao-o-dau-185240615110233272.htm",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1139,8 +1139,8 @@
                   "references": [
                     {
                       "text": "<ref>{{cite news |title=CAPITÁN will be the official mascot of the CONMEBOL Copa América 2024 |url=https://copaamerica.com/news/capitan-sera-la-mascota-oficial-de-la-conmebol-copa-america-2024/?lang=en |access-date=December 8, 2023 |website=Copa América |archive-date=January 6, 2024 |archive-url=https://web.archive.org/web/20240106043731/https://copaamerica.com/news/capitan-sera-la-mascota-oficial-de-la-conmebol-copa-america-2024/?lang=en |url-status=live}}</ref>",
-                      "url": "https://copaamerica.com/news/capitan-sera-la-mascota-oficial-de-la-conmebol-copa-america-2024/?lang=en",
-                      "status_code": null,
+                      "url": "https://copaamerica.com/es/novedades/capitan-sera-la-mascota-oficial-de-la-conmebol-copa-america-2024",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1162,8 +1162,8 @@
                   "references": [
                     {
                       "text": "<ref>{{cite news |title=PUMA Cumbre: the official ball of the CONMEBOL Copa América 2024 |url=https://copaamerica.com/news/puma-cumbre-el-balon-oficial-de-la-conmebol-copa-america-2024/?lang=en |access-date=December 8, 2023 |website=Copa América |archive-date=January 6, 2024 |archive-url=https://web.archive.org/web/20240106021638/https://copaamerica.com/news/puma-cumbre-el-balon-oficial-de-la-conmebol-copa-america-2024/?lang=en |url-status=live}}</ref>",
-                      "url": "https://copaamerica.com/news/puma-cumbre-el-balon-oficial-de-la-conmebol-copa-america-2024/?lang=en",
-                      "status_code": null,
+                      "url": "https://copaamerica.com/es/novedades/puma-cumbre-el-balon-oficial-de-la-conmebol-copa-america-2024",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1186,7 +1186,7 @@
                     {
                       "text": "<ref>{{cite magazine |url=https://www.billboard.com/music/latin/shakiras-punteria-televisaunivision-copa-america-coverage-song-2024-1235683010/ |title=Shakira's 'Puntería' Named the Official Song of TelevisaUnivision's Copa America Coverage |date=May 15, 2024|access-date=June 22, 2024 |magazine=Billboard}}</ref>",
                       "url": "https://www.billboard.com/music/latin/shakiras-punteria-televisaunivision-copa-america-coverage-song-2024-1235683010/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "magazine"
                     }
@@ -1215,21 +1215,21 @@
                     {
                       "text": "<ref>{{cite web |last=Mudaliar |first=Karthik |date=July 9, 2024 |title=Copa America 2024: Smaller US grounds, poor quality of surface hamper tournament |url=https://sportstar.thehindu.com/football/copa-america-2024-stadium-pitch-condition-size-smaller-usa-grounds-poor-quality-surface-messi-mbappe/article68384613.ece |access-date=July 14, 2024 |website=Sportstar}}</ref>",
                       "url": "https://sportstar.thehindu.com/football/copa-america-2024-stadium-pitch-condition-size-smaller-usa-grounds-poor-quality-surface-messi-mbappe/article68384613.ece",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last=James |first=Stuart |title=Why Copa America is being played on small pitches – and what it means |url=https://www.nytimes.com/athletic/5591857/2024/06/27/copa-america-small-field-pitch-brazil/ |date=June 27, 2024 |access-date=July 14, 2024 |work=The New York Times |issn=0362-4331}}</ref>",
                       "url": "https://www.nytimes.com/athletic/5591857/2024/06/27/copa-america-small-field-pitch-brazil/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |date=July 1, 2024 |title=Copa organizers defend quality of pitches in U.S. |url=https://www.espn.com/soccer/story/_/id/40476958/copa-america-2024-conmebol-defends-pitches-criticism-fields |access-date=July 14, 2024 |website=ESPN}}</ref>",
                       "url": "https://www.espn.com/soccer/story/_/id/40476958/copa-america-2024-conmebol-defends-pitches-criticism-fields",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1242,21 +1242,21 @@
                     {
                       "text": "<ref>{{cite news | url=https://www.nytimes.com/athletic/5584059/2024/06/23/copa-america-field-argentina-usmnt/ | title='It's not normal grass': Why field conditions at Copa America are causing concern | work=The New York Times | last1=O'Keeffe | first1=Greg }}</ref>",
                       "url": "https://www.nytimes.com/athletic/5584059/2024/06/23/copa-america-field-argentina-usmnt/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"poor pitch\">{{cite web | url=https://www.espn.com/soccer/story/_/id/40491687/copa-america-poor-pitch-conditions-united-states-2026-world-cup | title=Will Copa América's controversy over poor pitch conditions affect 2026 World Cup? |website=ESPN |date=July 6, 2024 |access-date=July 13, 2024}}</ref>",
                       "url": "https://www.espn.com/soccer/story/_/id/40491687/copa-america-poor-pitch-conditions-united-states-2026-world-cup",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |date=June 21, 2024 |title=Argentina slams Atlanta field: 'Better that we won' |url=https://www.espn.com/soccer/story/_/id/40398515/argentina-slams-mercedes-benz-pitch-copa-america |access-date=July 13, 2024 |website=ESPN}}</ref>",
                       "url": "https://www.espn.com/soccer/story/_/id/40398515/argentina-slams-mercedes-benz-pitch-copa-america",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1269,7 +1269,7 @@
                     {
                       "text": "<ref>{{cite web |title=Copa America 2024: Poor ground surfaces, injury concerns & player complaints |url=https://khelnow.com/football/world-football-poor-surfaces-injury-concerns-player-complaints-copa-america-202407 |access-date=July 14, 2024 |website=Khel Now}}</ref>",
                       "url": "https://khelnow.com/football/world-football-poor-surfaces-injury-concerns-player-complaints-copa-america-202407",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1292,14 +1292,14 @@
                     {
                       "text": "<ref>{{cite web |last=O'Sullivan |first=Joseph |title=High Copa América Ticket Prices Led To Many Empty Seats |url=https://www.forbes.com/sites/josephosullivan/2024/07/10/crazy-copa-amrica-ticket-prices-result-in-many-empty-seats/ |date=July 10, 2024 |access-date=July 14, 2024 |website=Forbes}}</ref>",
                       "url": "https://www.forbes.com/sites/josephosullivan/2024/07/10/crazy-copa-amrica-ticket-prices-result-in-many-empty-seats/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |date=June 25, 2024 |title=Why do Copa América games have empty seats? It's about more than ticket prices |url=https://sports.yahoo.com/why-do-copa-america-games-have-empty-seats-its-about-more-than-ticket-prices-151017048.html |access-date=July 14, 2024 |website=Yahoo Sports}}</ref>",
                       "url": "https://sports.yahoo.com/why-do-copa-america-games-have-empty-seats-its-about-more-than-ticket-prices-151017048.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1317,12 +1317,12 @@
               "sentences": [
                 {
                   "id": "12.3.s1",
-                  "text": "The tournament was met with several poor refereeing incidents, the most notable of which included the United States vs Uruguay match; Uruguay's Mathías Olivera scored the only goal of the match in the 66th minute, but appeared to be offside when the ball was flicked on, yet a prolonged VAR review upheld the goal without summoning the match referee, Kevin Ortega, to the video monitor. Replays revealed a marginal overlap between Olivera's position and the foot of United States defender Chris Richards (soccer)|Chris Richards, potentially keeping the Uruguayan onside. There were other contentious non-decisions during the match, but the most peculiar incident, aside from the goal, occurred in the 32nd minute, when Ortega reached for a yellow card to book Richards. Uruguay quickly took the free kick, and just as Ortega was about to show the card, he raised his other arm signaling to play on. Nahitan Nández found himself through on goal but failed to score. Members of the United States team were very disappointed in the overall outcome of the match, particularly Christian Pulisic, who was seen showing his frustration to Ortega throughout the match, with Ortega refusing to shake Pulisic's hand after the final whistle, and head coach Gregg Berhalter stated in a post-game interview, \"I don't understand it. You know, I feel like I know the rule pretty well. I feel like we had the pictures that are showing how the rule could be interpreted and it's an offside goal.\"",
+                  "text": "The tournament was met with several poor refereeing incidents, the most notable of which included the United States vs Uruguay match; Uruguay's Mathías Olivera scored the only goal of the match in the 66th minute, but appeared to be offside when the ball was flicked on, yet a prolonged VAR review upheld the goal without summoning the match referee, Kevin Ortega (football referee)|Kevin Ortega, to the video monitor. Replays revealed a marginal overlap between Olivera's position and the foot of United States defender Chris Richards (soccer)|Chris Richards, potentially keeping the Uruguayan onside. There were other contentious non-decisions during the match, but the most peculiar incident, aside from the goal, occurred in the 32nd minute, when Ortega reached for a yellow card to book Richards. Uruguay quickly took the free kick, and just as Ortega was about to show the card, he raised his other arm signaling to play on. Nahitan Nández found himself through on goal but failed to score. Members of the United States team were very disappointed in the overall outcome of the match, particularly Christian Pulisic, who was seen showing his frustration to Ortega throughout the match, with Ortega refusing to shake Pulisic's hand after the final whistle, and head coach Gregg Berhalter stated in a post-game interview, \"I don't understand it. You know, I feel like I know the rule pretty well. I feel like we had the pictures that are showing how the rule could be interpreted and it's an offside goal.\"",
                   "references": [
                     {
                       "text": "<ref>{{cite web |date=July 2, 2024 |title=Pulisic 'can't accept' referee as U.S. exits Copa |url=https://www.espn.com/soccer/story/_/id/40479319/usa-captain-pulisic-accept-ref-calls |access-date=July 14, 2024 |website=ESPN}}</ref>",
                       "url": "https://www.espn.com/soccer/story/_/id/40479319/usa-captain-pulisic-accept-ref-calls",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1335,7 +1335,7 @@
                     {
                       "text": "<ref>{{cite web |date=July 3, 2024 |title=CONMEBOL admits Brazil VAR error in Copa America |url=https://worldsoccertalk.com/copa-america/conmebol-admits-var-error-in-brazil-copa-america-game/ |access-date=July 14, 2024 |website=World Soccer Talk}}</ref>",
                       "url": "https://worldsoccertalk.com/copa-america/conmebol-admits-var-error-in-brazil-copa-america-game/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1358,21 +1358,21 @@
                     {
                       "text": "<ref>{{cite news |title=Footballer Darwin Núñez involved in clash with fans |url=https://www.bbc.com/news/articles/ce78z0zg2ezo |date=July 11, 2024 |access-date=July 12, 2024 |website=BBC Sport}}</ref>",
                       "url": "https://www.bbc.com/news/articles/ce78z0zg2ezo",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |title=Incidentes entre los jugadores uruguayos e hinchas colombianos al final del partido: mirá los videos |url=https://www.elpais.com.uy/ovacion/futbol/incidentes-entre-uruguayos-y-colombianos-al-termino-de-la-semifinal-de-la-copa-america-mira-el-video |access-date=July 12, 2024 |website=El País |date=July 11, 2024 |language=es}}</ref>",
                       "url": "https://www.elpais.com.uy/ovacion/futbol/incidentes-entre-uruguayos-y-colombianos-al-termino-de-la-semifinal-de-la-copa-america-mira-el-video",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=Conmebol investigates clash between Nunez and fans |url=https://www.bbc.com/sport/football/articles/c3gen2xp345o |date=July 11, 2024 |access-date=July 12, 2024 |website=BBC Sport}}</ref>",
                       "url": "https://www.bbc.com/sport/football/articles/c3gen2xp345o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1385,7 +1385,7 @@
                     {
                       "text": "<ref>{{cite web  |date=July 13, 2024 |title=Uruguay coach Bielsa defends players after Copa America brawl |url=https://sportstar.thehindu.com/football/bielsa-defends-players-after-brawl-uruguay-vs-colombia-copa-america-2024-semifinal-conmebol-investigation/article68399228.ece |access-date=July 13, 2024 |website=Sportstar}}</ref>",
                       "url": "https://sportstar.thehindu.com/football/bielsa-defends-players-after-brawl-uruguay-vs-colombia-copa-america-2024-semifinal-conmebol-investigation/article68399228.ece",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1398,14 +1398,14 @@
                     {
                       "text": "<ref>{{Cite web |date=July 13, 2024 |title=Dibu Martínez calienta la final ante Colombia con seis palabras sobre la pelea con Uruguay |url=https://bolavip.com/co/copa-america/dibu-martinez-calienta-la-final-ante-colombia-con-seis-palabras-sobre-la-pelea-con-uruguay |access-date=July 13, 2024 |website=Bolavip Colombia |language=es}}</ref>",
                       "url": "https://bolavip.com/co/copa-america/dibu-martinez-calienta-la-final-ante-colombia-con-seis-palabras-sobre-la-pelea-con-uruguay",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |date=July 13, 2024 |title=Juan Fernando Quintero alzó la voz y defendió a familias de jugadores uruguayos |url=https://www.noticiascaracol.com/golcaracol/juan-fernando-quintero-alzo-la-voz-y-defendio-a-familias-de-jugadores-uruguayos-cb20 |access-date=July 14, 2024 |website=Gol Caracol |language=es}}</ref>",
                       "url": "https://www.noticiascaracol.com/golcaracol/juan-fernando-quintero-alzo-la-voz-y-defendio-a-familias-de-jugadores-uruguayos-cb20",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1428,42 +1428,42 @@
                     {
                       "text": "<ref name=\"ticketless1\">{{cite news|url=https://www.reuters.com/sports/soccer/copa-america-final-between-argentina-colombia-delayed-conmebol-says-2024-07-15/ |title=Copa final delayed after ticketless fans rush stadium gates |publisher=Reuters |date=July 14, 2024 |access-date=July 15, 2024}}</ref>",
                       "url": "https://www.reuters.com/sports/soccer/copa-america-final-between-argentina-colombia-delayed-conmebol-says-2024-07-15/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"ticketless1\"/><ref name=\"ticketless2\">{{cite news |last1=Credeur |first1=Aaron |last2=Goff |first2=Steven |date=July 15, 2024 |title=Crowd chaos leads to lengthy delay at Copa América final |url=https://www.washingtonpost.com/sports/2024/07/14/copa-america-final-delay-crowd-argentina-colombia/ |access-date=July 15, 2024 |newspaper=The Washington Post  |issn=0190-8286}}</ref>",
                       "url": "https://www.washingtonpost.com/sports/2024/07/14/copa-america-final-delay-crowd-argentina-colombia/",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref name =\"ticketless3\">{{cite news |date=July 15, 2024 |title=Copa America final delayed: Hard Rock Stadium breached by ticketless fans before Argentina vs. Colombia |url=https://www.cbssports.com/soccer/news/copa-america-final-delayed-hard-rock-stadium-breached-by-ticketless-fans-before-argentina-vs-colombia/ |access-date=July 15, 2024 |website=CBS Sports}}</ref>",
                       "url": "https://www.cbssports.com/soccer/news/copa-america-final-delayed-hard-rock-stadium-breached-by-ticketless-fans-before-argentina-vs-colombia/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 406,
+                      "reason": "Not Acceptable",
                       "type": "news"
                     },
                     {
                       "text": "<ref name =\"ticketless4\">{{cite magazine |date=July 15, 2024 |title=Fans Seen Entering Copa America Final Through Vents of Hard Rock Stadium |url=https://www.si.com/soccer/fans-seen-entering-copa-america-final-through-vents-of-hard-rock-stadium |access-date=July 15, 2024 |magazine=Sports Illustrated}}</ref>",
                       "url": "https://www.si.com/soccer/fans-seen-entering-copa-america-final-through-vents-of-hard-rock-stadium",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "magazine"
                     },
                     {
                       "text": "<ref>{{Cite web |date=July 15, 2024 |title=Absolute Disaster Crowd Crush Scenes Ahead of Copa America Final Cast Shadow on USA as World Cup Host |url=https://www.theroar.com.au/2024/07/15/absolute-disaster-crowd-crush-scenes-ahead-of-copa-america-final-cast-shadow-on-usa-as-world-cup-host/ |access-date=2024-08-17 |website=www.theroar.com.au}}</ref>",
                       "url": "https://www.theroar.com.au/2024/07/15/absolute-disaster-crowd-crush-scenes-ahead-of-copa-america-final-cast-shadow-on-usa-as-world-cup-host/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://www.nbcmiami.com/responds/ticketed-fans-kept-out-of-copa-america-final-want-refunds/3362353/ | title=Ticketed fans kept out of Copa America final want refunds | date=July 15, 2024 }}</ref>",
                       "url": "https://www.nbcmiami.com/responds/ticketed-fans-kept-out-of-copa-america-final-want-refunds/3362353/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1486,21 +1486,21 @@
                     {
                       "text": "<ref>{{cite web |date=June 28, 2024 |title=Argentina boss Lionel Scaloni handed one-match ban and fined after halftime antics in Copa America |url=https://www.goal.com/en-us/lists/argentina-lionel-scaloni-one-match-ban-fined-copa-america/blt3b8e813e59faa00e |access-date=July 15, 2024 |website=Goal.com}}</ref>",
                       "url": "https://www.goal.com/en-us/lists/argentina-lionel-scaloni-one-match-ban-fined-copa-america/blt3b8e813e59faa00e",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |date=June 30, 2024 |title=Explained: Bizarre reason Marcelo Bielsa suspended for Uruguay vs USMNT as Gregg Berhalter's side handed potential boost ahead of huge Copa America clash |url=https://www.goal.com/en-us/lists/explained-bizarre-reason-marcelo-bielsa-suspended-uruguay-usmnt-gregg-berhalter-boost-copa-america-clash/bltc83a9a361a02008e |access-date=July 15, 2024 |website=Goal.com}}</ref>",
                       "url": "https://www.goal.com/en-us/lists/explained-bizarre-reason-marcelo-bielsa-suspended-uruguay-usmnt-gregg-berhalter-boost-copa-america-clash/bltc83a9a361a02008e",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=June 23, 2024 |title='Unfair and disrespectful'? Opponents call out Mexico's, Argentina's halftime antics at Copa América |url=https://sports.yahoo.com/unfair-and-disrespectful-opponents-call-out-mexicos-argentinas-halftime-antics-at-copa-america-071725716.html |access-date=July 15, 2024 |website=Yahoo Sports}}</ref>",
                       "url": "https://sports.yahoo.com/unfair-and-disrespectful-opponents-call-out-mexicos-argentinas-halftime-antics-at-copa-america-071725716.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1513,7 +1513,7 @@
                     {
                       "text": "<ref>{{cite news |last1=Cardenas |first1=Felipe |last2=Burrows |first2=Ben |title=Colombia coach criticizes Copa America plans for halftime show |url=https://www.nytimes.com/athletic/5635843/2024/07/13/copa-america-halftime-show-shakira/ |date=July 13, 2024 |access-date=July 15, 2024 |work=The New York Times |issn=0362-4331}}</ref>",
                       "url": "https://www.nytimes.com/athletic/5635843/2024/07/13/copa-america-halftime-show-shakira/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1536,63 +1536,63 @@
                     {
                       "text": "<ref>{{cite web | url=https://www.espn.com/soccer/story/_/id/40575987/france-federation-legal-complaint-racist-argentina-chants-copa | title=France take action over 'racist' Argentina chants | date=July 16, 2024 }}</ref>",
                       "url": "https://www.espn.com/soccer/story/_/id/40575987/france-federation-legal-complaint-racist-argentina-chants-copa",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://www.dw.com/en/france-condemns-argentina-footballers-racist-remarks/a-69684417 | title=France condemns Argentina footballers' 'racist remarks' – DW – 07/16/2024 | website=Deutsche Welle }}</ref>",
                       "url": "https://www.dw.com/en/france-condemns-argentina-footballers-racist-remarks/a-69684417",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://www.usatoday.com/story/sports/soccer/2024/07/16/argentina-song-france-kylian-mbappe-copa-america/74427944007/ | title=Argentina faces calls for discipline over team singing 'racist' song about France players | website=USA Today }}</ref>",
                       "url": "https://www.usatoday.com/story/sports/soccer/2024/07/16/argentina-song-france-kylian-mbappe-copa-america/74427944007/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=Enzo Fernandez's 'racist' video triggers Chelsea investigation after team-mates' fury |url=https://www.telegraph.co.uk/football/2024/07/16/argentina-chelsea-enzo-fernandez-france-racist-copa-america/ |website=The Telegraph |publisher=The Telegraph |access-date=17 July 2024 |last1=Dean |first1=Sam |last2=Rumsby |first2=Ben }}</ref>",
                       "url": "https://www.telegraph.co.uk/football/2024/07/16/argentina-chelsea-enzo-fernandez-france-racist-copa-america/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |last1=Kinsella |first1=Nizaar |title=Fernandez faces disciplinary action over alleged racist chant |url=https://www.bbc.com/sport/football/articles/c80x1947rxzo |website=BBC Sport |date=July 16, 2024 |publisher=BBC News |access-date=17 July 2024}}</ref>",
                       "url": "https://www.bbc.com/sport/football/articles/c80x1947rxzo",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://www.bbc.com/sport/football/articles/c80x1947rxzo | title=Enzo Fernandez: Chelsea and Fifa begin action over alleged racist chant video | date=July 16, 2024 }}</ref>",
                       "url": "https://www.bbc.com/sport/football/articles/c80x1947rxzo",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Chelsea Investigating Enzo Fernandezs Video of Argentina Squad That French Football Federation Alleges is Racist |url=https://www.skysports.com/football/news/11095/13179116/chelsea-investigating-enzo-fernandezs-video-of-argentina-squad-that-french-football-federation-alleges-is-racist |website=www.skysports.com}}</ref>",
                       "url": "https://www.skysports.com/football/news/11095/13179116/chelsea-investigating-enzo-fernandezs-video-of-argentina-squad-that-french-football-federation-alleges-is-racist",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news | url=https://www.theguardian.com/football/article/2024/jul/17/chelsea-disciplinary-action-enzo-fernandez-racist-chants-argentina | title=Enzo Fernández apologises to Chelsea teammates over racist chants | newspaper=The Guardian | last1=Aarons | first1=Ed }}</ref>",
                       "url": "https://www.theguardian.com/football/article/2024/jul/17/chelsea-disciplinary-action-enzo-fernandez-racist-chants-argentina",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://www.cnn.com/2024/07/17/sport/enzo-fernandez-apologizes-argentina-racist-chant-spt-intl/index.html | title=Enzo Fernández apologizes for singing racist chant with Argentina teammates about France | website=CNN | date=July 17, 2024 }}</ref>",
-                      "url": "https://www.cnn.com/2024/07/17/sport/enzo-fernandez-apologizes-argentina-racist-chant-spt-intl/index.html",
-                      "status_code": null,
+                      "url": "https://edition.cnn.com/2024/07/17/sport/enzo-fernandez-apologizes-argentina-racist-chant-spt-intl/index.html",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1605,15 +1605,15 @@
                     {
                       "text": "<ref>{{cite news |title=Milei felicita a selección de Argentina por bicampeonato en la Copa América |url=https://www.milenio.com/futbol-internacional/copa-america/javier-milei-celebra-bicampeonato-de-argentina |agency=Milenio |date=14 July 2024}}</ref>",
                       "url": "https://www.milenio.com/futbol-internacional/copa-america/javier-milei-celebra-bicampeonato-de-argentina",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Argentina fans revel in their Copa America triumph, a brief respite from their country's crises |url=https://www.news10.com/news/ap-argentina-fans-revel-in-their-copa-america-triumph-a-brief-respite-from-their-countrys-crises/ |agency=News 10 |date=15 July 2024}}</ref>",
                       "url": "https://www.news10.com/news/ap-argentina-fans-revel-in-their-copa-america-triumph-a-brief-respite-from-their-countrys-crises/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]

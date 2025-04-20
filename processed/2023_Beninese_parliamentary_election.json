@@ -1,0 +1,302 @@
+{
+  "title": "2023_Beninese_parliamentary_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "Parliamentary elections were held in Benin on 8 January 2023 to elect all 109 members of the National Assembly (Benin)|National Assembly. The preliminary results of the election were announced on 11 January. The result was a victory for parties supportive of President Patrice Talon, the Progressive Union (Benin)|Progressive Union and Republican Bloc, which together won 81 of the 109 seats.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |last=Linkpon |first=Stanislas |date=9 November 2022 |title=Législatives 2023 : plus de 6,6 millions électeurs inscrits sur la liste électorale |url=https://ortb.bj/a-la-une/legislatives-2023-plus-de-66-millions-electeurs-inscrits-sur-la-liste-electorale/ |access-date=8 December 2022 |website=ORTB |language=fr-FR |archive-date=5 December 2022 |archive-url=https://web.archive.org/web/20221205020359/https://ortb.bj/a-la-une/legislatives-2023-plus-de-66-millions-electeurs-inscrits-sur-la-liste-electorale/ |url-status=live }}</ref>",
+                  "url": "https://srtb.bj",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Reuters\">{{cite web | last=Adjoha | first=Pulcherie | title=Benin holds parliamentary election set to test democracy | work=Reuters | date=8 January 2023 | url=https://www.reuters.com/world/africa/benin-holds-parliamentary-election-set-test-democracy-2023-01-08/ | access-date=8 January 2023 | archive-date=8 January 2023 | archive-url=https://web.archive.org/web/20230108011738/https://www.reuters.com/world/africa/benin-holds-parliamentary-election-set-test-democracy-2023-01-08/ | url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/world/africa/benin-holds-parliamentary-election-set-test-democracy-2023-01-08/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The 2016 Beninese presidential election|2016 presidential election was won by Patrice Talon, with the country then widely seen as an example of democracy on the African continent. However, the 2019 Beninese parliamentary election|2019 parliamentary elections led to a major crisis. Only two parties, both of which supported Talon, were allowed to compete (the Progressive Union for Renewal|Progressive Union and the Republican Bloc), with opposition lists failing validation after the implementation of a more restrictive electoral code by the government. The opposition, civil society and NGOs such as Amnesty International denounced what they considered to be an authoritarian drift by the government, damaging the country's democratic reputation. The conduct of the parliamentary elections was criticised, including the government cutting off access to the internet and social networks during the vote, and the arrest of opponents and journalists in the months leading up to election day.",
+              "references": [
+                {
+                  "text": "<ref name=\"participation\">{{cite news|title=Bénin : une abstention massive aux législatives pour protester contre le gouvernement|url=https://www.lemonde.fr/afrique/article/2019/04/28/benin-a-massive-abstention-at-the-legislative-elections-to-protest-against-the-government_5456027_3212.html|work=Le Monde|date=28 April 2019|language=fr|access-date=14 January 2023}}</ref>",
+                  "url": "https://www.lemonde.fr/afrique/article/2019/04/28/benin-une-abstention-massive-aux-legislatives-pour-protester-contre-le-gouvernement_5456027_3212.html?_staled_=1",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=participation/><ref>{{cite news|title=Bénin: sale temps pour Cotonou|url=https://www.lepoint.fr/afrique/benin-sale-temps-pour-cotonou-29-04-2019-2309896_3826.php|work=Le Point|language=fr|date=29 April 2019|access-date=14 January 2023}}</ref>",
+                  "url": "https://www.lepoint.fr/afrique/benin-sale-temps-pour-cotonou-29-04-2019-2309896_3826.php",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|language=FR|title=Législatives au Bénin : l'opposition lance un ultimatum à Patrice Talon au lendemain du scrutin|url=https://www.jeuneafrique.com/768960/politique/legislatives-au-benin-lopposition-lance-un-ultimatum-a-patrice-talon-au-lendemain-du-scrutin/|website=Jeune Afrique|date=30 April 2019|access-date=14 January 2023}}</ref>",
+                  "url": "https://www.jeuneafrique.com/768960/politique/legislatives-au-benin-lopposition-lance-un-ultimatum-a-patrice-talon-au-lendemain-du-scrutin/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|title=Benin: in the absence of the opposition, massive abstention in the legislative elections|url=https://www.france24.com/fr/20190429-benin-absence-opposition-abstention-massive-legislatives-patrice-talon|publisher=France 24|date=29 April 2019|access-date=1 May 2019}}</ref>",
+                  "url": "https://www.france24.com/fr/20190429-benin-absence-opposition-abstention-massive-legislatives-patrice-talon",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|title=Benin. Cutting off the internet on election day is a direct attack on freedom of expression|url=https://www.amnesty.org/fr/latest/news/2019/04/benin-internet-shutdown-on-election-day-is-a-blunt-attack/|publisher=Amnesty International|access-date=1 May 2019}}</ref>",
+                  "url": "https://www.amnesty.org/fr/latest/news/2019/04/benin-internet-shutdown-on-election-day-is-a-blunt-attack/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|title=Legislatives: Benin still waiting for results|url=https://information.tv5monde.com/afrique/legislatives-le-benin-toujours-dans-l-attente-des-resultats-297865|publisher=TV5 Monde|language=fr|date=30 April 2019|access-date=1 May 2019|archive-date=1 May 2019|archive-url=https://web.archive.org/web/20190501003915/https://information.tv5monde.com/afrique/legislatives-le-benin-toujours-dans-l-attente-des-resultats-297865|url-status=dead}}</ref>",
+                  "url": "https://information.tv5monde.com/afrique/legislatives-le-benin-toujours-dans-l-attente-des-resultats-297865",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "As expected, the elections saw a low turnout, with only 27% of voters voting. The Progressive Union won an absolute majority with 47 seats, while the Republican Bloc won the remaining 36. Several post-election demonstrations led to violence between police and demonstrators, as well as significant material damage and at least two deaths. The police and army intervened to disperse barricades erected in several streets of the port city Cotonou, including via live fire, causing one death.",
+              "references": [
+                {
+                  "text": "<ref>[https://www.jeuneafrique.com/769501/politique/legislatives-au-benin-le-taux-de-participation-sous-le-seuil-des-25-selon-les-resultats-preliminaires/ Legislative elections in Benin: turnout below 25% according to preliminary results] Jeune Afrique</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                },
+                {
+                  "text": "<ref>[https://www.jeuneafrique.com/769650/politique/benin-heurts-aux-abords-du-domicile-de-boni-yayi-le-pouvoir-nie-avoir-voulu-arreter-lex-president/ Benin: clashes around Boni Yayi's home, the government denies wanting to arrest the former president] Jeune Afrique</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                },
+                {
+                  "text": "<ref>{{cite news|title=Le Bénin secoué par des violences post-électorales|url=http://www.rfi.fr/afrique/20190502-benin-armee-deloge-manifestants-balles-reelles|publisher=Radio France Internationale}}</ref>",
+                  "url": "https://www.rfi.fr/fr/afrique/20190502-benin-armee-deloge-manifestants-balles-reelles",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://information.tv5monde.com/afrique/benin-tirs-balles-reelles-un-mort-dans-les-manifestations-contre-le-pouvoir-298165|title=Benin: live fire, one dead in anti-power protests|access-date=14 January 2023|archive-date=6 May 2019|archive-url=https://web.archive.org/web/20190506025338/https://information.tv5monde.com/afrique/benin-tirs-balles-reelles-un-mort-dans-les-manifestations-contre-le-pouvoir-298165|url-status=dead}}</ref>",
+                  "url": "https://information.tv5monde.com/afrique/benin-tirs-balles-reelles-un-mort-dans-les-manifestations-contre-le-pouvoir-298165",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "Political dialogue was held for six months after the elections and led to an agreement on the rules of participation in the next legislative elections, which was enshrined in a revision of the constitution. Parties could no longer participate in alliances, and were required to present candidates in each constituency to concentrate votes on parties of real national importance. However, during the 2020 Beninese municipal elections|municipal elections of May 2020, which involved 546 districts, five parties had their participation validated by the Constitutional Court (CENA), compared to 34 party or party alliance lists in the previous municipal elections in 2015. The agreement also led to the number of parliamentary deputies increasing from 83 to 109, but elected for a shortened term of three years, to hold the next set of legislative and municipal elections together in January 2026, followed by presidential elections in April. The latter will also see a vice-president elected at the same time as the president, both elected for a term of five years.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|title=[Editorial] Municipalities in Benin, a democratic test – Jeune Afrique|url=https://www.jeuneafrique.com/mag/912820/politics/edito-les-municipales-au-benin-un-test-democratique/|website=Jeune Afrique}}</ref>",
+                  "url": "https://www.jeuneafrique.com/912820/politique/edito-les-municipales-au-benin-un-test-democratique/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|publisher=Deutsche Welle|title=In Benin, the 9th legislature will serve a transitional term|url=https://www.dw.com/fr/benin-elections-legislatives-inclusives/a-64266457|access-date= 4 January 2023}}</ref>",
+                  "url": "https://www.dw.com/fr/benin-elections-legislatives-inclusives/a-64266457",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=revision1>{{cite news|title=Limitation of the number of elective mandates in Benin: Which candidates for the 2023 legislative and 2026 presidential elections?|url=http://news.acotonou.com/h/144271.html|website=aCotonou|access-date=20 December 2022}}</ref>",
+                  "url": "http://news.acotonou.com/h/144271.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=revision2>{{cite news|title=Benin, legislatives: the electoral campaign for the January 2023 polls will begin on 23 December|year=2022|url=https://french.news.cn/20221220/fb126fc429934b62adbbe25281a9c101/c.html|publisher=french.news.cn|access-date=20 December 2022}}</ref>",
+                  "url": "https://french.news.cn/20221220/fb126fc429934b62adbbe25281a9c101/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The 109 members of the National Assembly (Benin)|National Assembly (increased from the prior election's 83) are elected by proportional representation in 24 multi-member constituencies, based on the country's Departments of Benin|departments, with seats allocated using the simple quotient and then the largest remainder method, and an electoral threshold of 10%. A Election deposit|deposit of 249 million West African CFA franc|francs is required for a list to contest the elections. Lists are required to put forward at least one candidate in all constituencies. Following the constitutional revision of 2019, the mandate of deputies elected in the 2023 elections is reduced from four to three years, as a transitional measure, while the normal duration of the mandate in following elections is extended from four to five years. Following this, in January 2026, Benin will hold with new legislative and municipal elections combined with a presidential-vice-presidential election (for a five-year term) later in April. The revision also introduces a total of 24 seats reserved for women, one per constituency, as well as a Term limit|limit of three terms from the 2023 elections, without retroactive effect, for all MPs.",
+              "references": [
+                {
+                  "text": "<ref>[http://www.ipu.org/parline-e/reports/2033_B.htm Electoral system] {{Webarchive|url=https://web.archive.org/web/20170925114008/http://www.ipu.org/parline-e/reports/2033_B.htm |date=25 September 2017 }} IPU</ref>",
+                  "url": "https://web.archive.org/web/20170925114008/http://www.ipu.org/parline-e/reports/2033_B.htm",
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
+                  "type": null
+                },
+                {
+                  "text": "<ref name=\"JA2\">[https://www.jeuneafrique.com/mag/632821/politique/benin-le-nouveau-code-electoral-suscite-la-polemique/ Bénin : le nouveau code électoral suscite la polémique] {{Webarchive|url=https://web.archive.org/web/20190501235812/https://www.jeuneafrique.com/mag/632821/politique/benin-le-nouveau-code-electoral-suscite-la-polemique/ |date=1 May 2019 }} Jeune Afrique, 27 September 2018</ref>",
+                  "url": "https://web.archive.org/web/20190501235812/https://www.jeuneafrique.com/mag/632821/politique/benin-le-nouveau-code-electoral-suscite-la-polemique/",
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
+                  "type": null
+                },
+                {
+                  "text": "<ref>{{cite web|access-date=20 December 2022|date=1 November 2019|title=Adoption de la loi de révision de la Constitution au Bénin: ce qui change|url=https://www.rfi.fr/fr/afrique/20191101-benin-adoption-loi-revision-constitution-modifications|publisher=Radio France Internationale|archive-date=20 December 2022|archive-url=https://web.archive.org/web/20221220185935/https://www.rfi.fr/fr/afrique/20191101-benin-adoption-loi-revision-constitution-modifications|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                  "url": "https://www.rfi.fr/fr/afrique/20191101-benin-adoption-loi-revision-constitution-modifications",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|access-date=4 January 2023|date=2 January 2023|title=Au Bénin, la 9e législature fera un mandat de transition|url=https://www.dw.com/fr/benin-elections-legislatives-inclusives/a-64266457|publisher=Deutsche Welle|archive-date=3 January 2023|archive-url=https://web.archive.org/web/20230103234534/https://www.dw.com/fr/benin-elections-legislatives-inclusives/a-64266457|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                  "url": "https://www.dw.com/fr/benin-elections-legislatives-inclusives/a-64266457",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"révision1\">{{cite web|access-date=20 December 2022|title=Limitation du nombre des mandats électifs au Bénin: Quels candidats pour les législatives de 2023 et la présidentielle de 2026 ?|url=http://news.acotonou.com/h/144271.html|website=aCotonou|archive-date=20 December 2022|archive-url=https://web.archive.org/web/20221220184830/http://news.acotonou.com/h/144271.html|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                  "url": "http://news.acotonou.com/h/144271.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Results",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "{{Politics of Benin}}\nProvisional results were announced on 11 January, with the Progressive Union for Renewal (UPR) winning a plurality of seats (53), followed by the Republican Bloc (BR) and The Democrats (Benin)|the Democrats (LD) each winning 28 seats. The only opposition party to cross the electoral threshold was the Democrats of former president Thomas Boni Yayi. Other parties, including the Cowry Forces for an Emerging Benin, Movement of Committed Elites for the Emancipation of Benin, People's Liberation Movement and Democratic Union for a New Benin combined for approximately 9% of the votes, but did not earn any seats because they did not earn above 10% of the vote individually. Roughly 3% of votes were invalid, and preliminary turnout was 38.66%. The Constitutional Court certified the results on 12 January.<ref name=\"F24\"/>",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|access-date=11 January 2023|date=11 January 2023|website=La Nouvelle Tribune|publisher=lanouvelletribunebenin|title=Résultats provisoires des législatives au Bénin : UP 1er (53 sièges), BR 2è(28 sièges) et LD 3è(28 sièges)|url=https://lanouvelletribune.info/2023/01/resultats-provisoires-des-legislatives-au-benin-up-1er-br-2e-et-ld-3e/|archive-date=11 January 2023|archive-url=https://web.archive.org/web/20230111125952/https://lanouvelletribune.info/2023/01/resultats-provisoires-des-legislatives-au-benin-up-1er-br-2e-et-ld-3e/|url-status=live}}<!-- auto-translated by Module:CS1 translator -->.</ref>",
+                  "url": "https://lanouvelletribune.info/2023/01/resultats-provisoires-des-legislatives-au-benin-up-1er-br-2e-et-ld-3e/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |date=11 January 2023 |title=Résultats provisoires des législatives au Bénin : UP 1er (53 sièges), BR 2è (28 sièges) et LD 3è (28 sièges) |url=https://lanouvelletribune.info/2023/01/resultats-provisoires-des-legislatives-au-benin-up-1er-br-2e-et-ld-3e/ |access-date=11 January 2023 |website=La Nouvelle Tribune |language=fr |archive-date=11 January 2023 |archive-url=https://web.archive.org/web/20230111125952/https://lanouvelletribune.info/2023/01/resultats-provisoires-des-legislatives-au-benin-up-1er-br-2e-et-ld-3e/ |url-status=live }}</ref>",
+                  "url": "https://lanouvelletribune.info/2023/01/resultats-provisoires-des-legislatives-au-benin-up-1er-br-2e-et-ld-3e/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |title=Législatives 2023 au Bénin : liste des 109 députés élus selon les résultats provisoires par la CENA |url=https://www.banouto.info/article/politique/20230111-legislatives-2023-au-benin-liste-des-109-deputes-elus-selon-les-resultats-provisoires-par-la-cena |access-date=11 January 2023 |website=Banouto |language=fr |archive-date=12 January 2023 |archive-url=https://web.archive.org/web/20230112230941/https://www.banouto.bj/article/politique/20230111-legislatives-2023-au-benin-liste-des-109-deputes-elus-selon-les-resultats-provisoires-par-la-cena |url-status=live }}</ref>",
+                  "url": "https://www.banouto.bj/article/politique/20230111-legislatives-2023-au-benin-liste-des-109-deputes-elus-selon-les-resultats-provisoires-par-la-cena",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |date=11 January 2023 |title=En direct de la CENA : résultats provisoires des législatives |url=https://ortb.bj/a-la-une/en-direct-de-la-cena-resultats-provisoires-des-legislatives/ |access-date=11 January 2023 |website=ORTB |language=fr-FR |archive-date=11 January 2023 |archive-url=https://web.archive.org/web/20230111143744/https://ortb.bj/a-la-une/en-direct-de-la-cena-resultats-provisoires-des-legislatives/ |url-status=live }}</ref>",
+                  "url": "https://srtb.bj",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "As the elections were won by pro-government parties, incumbent president Patrice Talon was expected to retain control of the government until his second term concludes in 2026. Although Talon is not a member of either party, the UPR and BR both support his presidency. Éric Houndété, leader of the LD opposition party, made claims of vote buying and Electoral_fraud#Ballot_stuffing|ballot stuffing without providing evidence, saying \"The Democrats party rejects this result, which does not reflect the will of the people to make our party the first political force in our country.\" Election observers, including the Benin-based Civic Academy for Africa's Future (CiAAF), noted that the elections were violence-free compared to prior elections in 2019 and 2021, with CiAAF head Expedit Ologou calling the elections \"calm, peaceful, friendly, [and] fraternal in most areas of the country\".",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|access-date=11 January 2023|date=11 January 2023|publisher=Radio France Internationale|title=Législatives au Bénin: l'opposition de retour à l'Assemblée avec le parti Les Démocrates|url=https://www.rfi.fr/fr/afrique/20230111-l%C3%A9gislatives-au-b%C3%A9nin-l-opposition-de-retour-%C3%A0-l-assembl%C3%A9e-avec-le-parti-les-d%C3%A9mocrates|archive-date=11 January 2023|archive-url=https://web.archive.org/web/20230111153051/https://www.rfi.fr/fr/afrique/20230111-l%C3%A9gislatives-au-b%C3%A9nin-l-opposition-de-retour-%C3%A0-l-assembl%C3%A9e-avec-le-parti-les-d%C3%A9mocrates|url-status=live}}<!-- auto-translated by Module:CS1 translator -->.</ref>",
+                  "url": "https://www.rfi.fr/fr/afrique/20230111-l%C3%A9gislatives-au-b%C3%A9nin-l-opposition-de-retour-%C3%A0-l-assembl%C3%A9e-avec-le-parti-les-d%C3%A9mocrates",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"F24\">{{cite news |title=Benin's ruling coalition won election, constitutional court says |url=https://www.france24.com/en/africa/20230113-benin-s-ruling-coalition-won-election-constitutional-court-says |access-date=18 January 2023 |work=France24 |date=13 January 2021}}</ref>",
+                  "url": "https://www.france24.com/en/africa/20230113-benin-s-ruling-coalition-won-election-constitutional-court-says",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Polls close in Benin parliamentary election |url=https://www.aljazeera.com/news/2023/1/8/benin-holds-parliamentary-vote-with-opposition-allowed-to-run |access-date=18 January 2023 |publisher=Al Jazeera |date=8 January 2023}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/1/8/benin-holds-parliamentary-vote-with-opposition-allowed-to-run",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

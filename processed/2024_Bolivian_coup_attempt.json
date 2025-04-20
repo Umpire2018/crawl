@@ -74,14 +74,14 @@
                     {
                       "text": "<ref>{{Cite web |title=Russia 'Strongly Condemns Attempted Military Coup' In Bolivia |url=https://www.barrons.com/news/russia-strongly-condemns-attempted-military-coup-in-bolivia-df69bacb |access-date=2024-06-27 |website=Barron's |language=en-US |archive-date=27 June 2024 |archive-url=https://web.archive.org/web/20240627105759/https://www.barrons.com/news/russia-strongly-condemns-attempted-military-coup-in-bolivia-df69bacb |url-status=live }}</ref>",
                       "url": "https://www.barrons.com/news/russia-strongly-condemns-attempted-military-coup-in-bolivia-df69bacb",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Bolivia summons Argentine ambassador for reprimand over its claims of a fake coup |url=https://apnews.com/article/bolivia-argentina-relations-army-coup-rebellion-fake-milei-morales-7e82e262b8c28c379905c63188449ba9 |access-date=3 July 2024 |website=Associated Press |date=July 2024 |language=en-US |archive-date=2 July 2024 |archive-url=https://web.archive.org/web/20240702121408/https://apnews.com/article/bolivia-argentina-relations-army-coup-rebellion-fake-milei-morales-7e82e262b8c28c379905c63188449ba9 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/bolivia-argentina-relations-army-coup-rebellion-fake-milei-morales-7e82e262b8c28c379905c63188449ba9",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -113,7 +113,7 @@
                 {
                   "text": "<ref name=\":0\">{{Cite news |last1=Vock |first1=Ido |last2=Armstrong |first2=Kathryn |date=26 June 2024 |title=Bolivian police arrest leader of coup attempt |url=https://www.bbc.com/news/articles/c288eewr1wko |url-status=live |archive-url=https://web.archive.org/web/20240627000701/https://www.bbc.com/news/articles/c288eewr1wko |archive-date=27 June 2024 |access-date=26 June 2024 |work=BBC News}}</ref>",
                   "url": "https://www.bbc.com/news/articles/c288eewr1wko",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -126,35 +126,35 @@
                 {
                   "text": "<ref name=\":6\">{{Cite web |date=2024-06-26 |title=Antes de ser detenido, Juan José Zúñiga sugirió que se trató de un 'autogolpe': \"El domingo me reuní con Arce\" |url=https://www.infobae.com/america/america-latina/2024/06/26/levantamiento-militar-en-bolivia-el-jefe-del-ejercito-juan-jose-zuniga-aseguro-que-el-pais-no-puede-seguir-asi/ |url-status=live |archive-url=https://web.archive.org/web/20240626215652/https://www.infobae.com/america/america-latina/2024/06/26/levantamiento-militar-en-bolivia-el-jefe-del-ejercito-juan-jose-zuniga-aseguro-que-el-pais-no-puede-seguir-asi/ |archive-date=26 June 2024 |accessdate=2024-06-27 |website=infobae |language=es-ES}}</ref>",
                   "url": "https://www.infobae.com/america/america-latina/2024/06/26/levantamiento-militar-en-bolivia-el-jefe-del-ejercito-juan-jose-zuniga-aseguro-que-el-pais-no-puede-seguir-asi/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=26 June 2024 |title=\"Arce me ordenó sacar los blindados para levantar su popularidad\", acusa el general Zúñiga tras ser detenido por el intento de golpe de Estado en Bolivia |url=https://latinus.us/2024/06/26/arce-me-ordeno-sacar-blindados-levantar-popularidad-acusa-general-zuniga-detenido-intento-golpe-estado-bolivia/ |url-status=live |archive-url=https://web.archive.org/web/20240627035533/https://latinus.us/2024/06/26/arce-me-ordeno-sacar-blindados-levantar-popularidad-acusa-general-zuniga-detenido-intento-golpe-estado-bolivia/ |archive-date=27 June 2024 |access-date=27 June 2024 |website=Latinus}}</ref>",
-                  "url": "https://latinus.us/2024/06/26/arce-me-ordeno-sacar-blindados-levantar-popularidad-acusa-general-zuniga-detenido-intento-golpe-estado-bolivia/",
-                  "status_code": null,
+                  "url": "https://latinus.us/latam/2024/6/26/arce-me-ordeno-sacar-los-blindados-para-levantar-su-popularidad-acusa-el-general-zuniga-tras-ser-detenido-por-el-intento-de-golpe-de-estado-en-bolivia-118063.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"FELCC\">{{Cite web |title=Del Castillo presenta a Zúñiga en la FELCC, lo llamó \"delincuente\" |url=https://elpais.bo/nacional/20240626_del-castillo-presenta-a-zuniga-en-la-felcc-lo-llamo-delincuente.html |accessdate=2024-06-27 |website=El País Tarija |language=es |archive-date=27 June 2024 |archive-url=https://web.archive.org/web/20240627064821/https://elpais.bo/nacional/20240626_del-castillo-presenta-a-zuniga-en-la-felcc-lo-llamo-delincuente.html |url-status=live }}</ref>",
                   "url": "https://elpais.bo/nacional/20240626_del-castillo-presenta-a-zuniga-en-la-felcc-lo-llamo-delincuente.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"deny\">{{Cite web |url=https://apnews.com/article/bolivia-military-coup-arce-zuniga-arrest-568a17444e3356bce9812b7979e933f4 |title=Bolivia's president denies being behind attempted coup and says the general acted 'on his own' |access-date=2023-06-28 |work=Associated Press |date=2023-06-27 |archive-date=27 June 2024 |archive-url=https://web.archive.org/web/20240627120426/https://apnews.com/article/bolivia-military-coup-arce-zuniga-arrest-568a17444e3356bce9812b7979e933f4 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/bolivia-military-coup-arce-zuniga-arrest-568a17444e3356bce9812b7979e933f4",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |url=https://apnews.com/article/bolivia-president-coup-arce-interview-ade93ba7392bfaa18fd0b39bd0647473 |title=Bolivia's leader says the general accused of leading failed coup wanted to 'take over' as president |access-date=2023-06-29 |work=Associated Press |date=2023-06-29 |archive-date=29 June 2024 |archive-url=https://web.archive.org/web/20240629094227/https://apnews.com/article/bolivia-president-coup-arce-interview-ade93ba7392bfaa18fd0b39bd0647473 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/bolivia-president-coup-arce-interview-ade93ba7392bfaa18fd0b39bd0647473",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -167,7 +167,7 @@
                 {
                   "text": "<ref>{{Cite web|url=https://www.univision.com/noticias/america-latina/presidente-bolivia-denuncia-movimientos-irregulares-tropas|title=Arrestan al exlíder militar que encabezó un aparente golpe de Estado en Bolivia|accessdate=2023-06-27|work=Univisión|date=2023-06-26|archive-date=28 June 2024|archive-url=https://web.archive.org/web/20240628002709/https://www.univision.com/noticias/america-latina/presidente-bolivia-denuncia-movimientos-irregulares-tropas|url-status=live}}</ref>",
                   "url": "https://www.univision.com/noticias/america-latina/presidente-bolivia-denuncia-movimientos-irregulares-tropas",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -180,28 +180,28 @@
                 {
                   "text": "<ref>{{Cite web|url=https://www.latercera.com/tendencias/noticia/el-ideologo-del-fallido-golpe-en-bolivia-menciono-a-chile-en-su-defensa-esto-fue-lo-que-dijo/IVCW4HSSYREFLHL4OG3IQA7UO4/|title=El ideólogo del fallido golpe en Bolivia mencionó a Chile en su defensa: esto fue lo que dijo|accessdate=2023-06-28|website=ATB|date=2023-06-28|archive-date=29 June 2024|archive-url=https://web.archive.org/web/20240629023135/https://www.latercera.com/tendencias/noticia/el-ideologo-del-fallido-golpe-en-bolivia-menciono-a-chile-en-su-defensa-esto-fue-lo-que-dijo/IVCW4HSSYREFLHL4OG3IQA7UO4/|url-status=live}}</ref>",
                   "url": "https://www.latercera.com/tendencias/noticia/el-ideologo-del-fallido-golpe-en-bolivia-menciono-a-chile-en-su-defensa-esto-fue-lo-que-dijo/IVCW4HSSYREFLHL4OG3IQA7UO4/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |url=https://apnews.com/article/bolivia-military-coup-conspiracy-rumors-arce-zuniga-906af02327b909351e797025155a2f5a |title=A week after an alleged coup attempt in Bolivia, confusion and conspiracy theories reign |access-date=4 July 2024 |work=Associated Press |date=4 July 2024 }}</ref>",
                   "url": "https://apnews.com/article/bolivia-military-coup-conspiracy-rumors-arce-zuniga-906af02327b909351e797025155a2f5a",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |url=https://www.france24.com/en/americas/20240629-suspected-leaders-of-failed-bolivian-coup-ordered-into-six-month-custody |title=Suspected leaders of failed Bolivian coup remanded in six-month custody |access-date=2023-06-29 |work=France 24 |date=2023-06-29 |archive-date=29 June 2024 |archive-url=https://web.archive.org/web/20240629155530/https://www.france24.com/en/americas/20240629-suspected-leaders-of-failed-bolivian-coup-ordered-into-six-month-custody |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/americas/20240629-suspected-leaders-of-failed-bolivian-coup-ordered-into-six-month-custody",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |url=https://apnews.com/article/bolivia-coup-attempt-zuniga-arce-prison-aa0770b7f23e7d49e1504004c51f93be |title=Bolivian general accused of failed coup is transferred to a maximum-security prison |access-date=2023-06-29 |work=Associated Press |date=2023-06-30 |archive-date=30 June 2024 |archive-url=https://web.archive.org/web/20240630085736/https://apnews.com/article/bolivia-coup-attempt-zuniga-arce-prison-aa0770b7f23e7d49e1504004c51f93be |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/bolivia-coup-attempt-zuniga-arce-prison-aa0770b7f23e7d49e1504004c51f93be",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -214,7 +214,7 @@
                 {
                   "text": "<ref>{{Cite news |last1=Grant |first1=Will |date=27 June 2024 |title=Bolivian police arrest leader of apparent coup attempt |work=BBC |url=https://www.bbc.com/news/articles/c288eewr1wko |access-date=30 June 2024 |archive-date=27 June 2024 |archive-url=https://web.archive.org/web/20240627000701/https://www.bbc.com/news/articles/c288eewr1wko |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/articles/c288eewr1wko",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -227,7 +227,7 @@
                 {
                   "text": "<ref>{{cite news|last=Janetsky|first=Megan|title=Bolivian president orchestrated a 'self-coup,' political rival Evo Morales claims|url=https://apnews.com/article/bolivia-coup-accusation-arce-morales-b0051f5a98fdd7ec5ba212bbe49d9850|work=Associated Press News|date=2024-06-30|access-date=30 June 2024|archive-date=30 June 2024|archive-url=https://web.archive.org/web/20240630231938/https://apnews.com/article/bolivia-coup-accusation-arce-morales-b0051f5a98fdd7ec5ba212bbe49d9850|url-status=live}}</ref>",
                   "url": "https://apnews.com/article/bolivia-coup-accusation-arce-morales-b0051f5a98fdd7ec5ba212bbe49d9850",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }

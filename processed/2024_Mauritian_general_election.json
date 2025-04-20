@@ -14,22 +14,22 @@
                 {
                   "text": "<ref name=F24>{{Cite news |title=Mauritius to hold legislative election on November 10 |url=https://www.france24.com/en/live-news/20241004-mauritius-to-hold-legislative-election-on-november-10 |access-date=5 October 2024 |work=France 24|location=Port Louis|language=en}}</ref>",
                   "url": "https://www.france24.com/en/live-news/20241004-mauritius-to-hold-legislative-election-on-november-10",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=barrons>{{cite news |title=Mauritius Heads To The Polls Under Wire-tapping Cloud |url=https://www.barrons.com/amp/news/mauritius-heads-to-the-polls-under-wire-tapping-cloud-cd038b6e |access-date=8 November 2024 |work=Barron's |date=7 November 2024 |archive-url=https://archive.today/20241108043837/https://www.barrons.com/amp/news/mauritius-heads-to-the-polls-under-wire-tapping-cloud-cd038b6e |archive-date=8 November 2024|url-status=live}}</ref>",
                   "url": "https://www.barrons.com/amp/news/mauritius-heads-to-the-polls-under-wire-tapping-cloud-cd038b6e",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Élections Générales : La nouvelle liste d'électeurs entre en vigueur aujourd'hui |url=https://www.lemauricien.com/actualites/politique/elections-generales-la-nouvelle-liste-delecteurs-entre-en-vigueur-aujourdhui/645843/#google_vignette |access-date=13 November 2024 |work=Le Mauricien |date=16 August 2024 |archive-url=https://archive.today/20241113192645/https://www.lemauricien.com/actualites/politique/elections-generales-la-nouvelle-liste-delecteurs-entre-en-vigueur-aujourdhui/645843/%23google_vignette |archive-date=13 November 2024|url-status=live |language=fr}}</ref>",
                   "url": "https://www.lemauricien.com/actualites/politique/elections-generales-la-nouvelle-liste-delecteurs-entre-en-vigueur-aujourdhui/645843/#google_vignette",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Server disconnected",
                   "type": "news"
                 }
               ]
@@ -41,15 +41,15 @@
                 {
                   "text": "<ref>{{Cite news |date=12 November 2024 |title=Mauritius opposition wins country's election by a landslide |url=https://apnews.com/article/mauritius-election-results-opposition-victory-landslide-af70d3a8810f7992cef4d1d75bbef769 |access-date=12 November 2024 |work=Associated Press}}</ref>",
                   "url": "https://apnews.com/article/mauritius-election-results-opposition-victory-landslide-af70d3a8810f7992cef4d1d75bbef769",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=12 November 2024 |title=Mauritius opposition wins country's election by a landslide |url=https://abcnews.go.com/International/wireStory/mauritius-opposition-wins-countrys-election-landslide-115760794 |access-date=12 November 2024 |work=ABC News (United States)|ABC News}}</ref>",
                   "url": "https://abcnews.go.com/International/wireStory/mauritius-opposition-wins-countrys-election-landslide-115760794",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "news"
                 }
               ]
@@ -71,28 +71,28 @@
                 {
                   "text": "<ref>{{cite web |title=Elections results |url=https://data.ipu.org/parliament/MU/MU-LC01/election/MU-LC01-E20191107/ |publisher=Inter-Parliamentary Union |access-date=3 November 2024 |archive-url=https://archive.today/20241103222220/https://data.ipu.org/parliament/MU/MU-LC01/election/MU-LC01-E20191107/ |archive-date=3 November 2024 |url-status=live}}</ref>",
                   "url": "https://data.ipu.org/parliament/MU/MU-LC01/election/MU-LC01-E20191107/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |title=Mauritius PM's coalition strengthens Parliament grip after vote |url=https://www.aljazeera.com/news/2019/11/10/mauritius-pms-coalition-strengthens-parliament-grip-after-vote |access-date=3 November 2024 |work=Al Jazeera |date=10 November 2019 |archive-url=https://web.archive.org/web/20240612040239/https://www.aljazeera.com/news/2019/11/10/mauritius-pms-coalition-strengthens-parliament-grip-after-vote/ |archive-date=12 June 2024|url-status=live}}</ref>",
                   "url": "https://www.aljazeera.com/news/2019/11/10/mauritius-pms-coalition-strengthens-parliament-grip-after-vote",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Mauritians vote in first election since PM succeeded father |url=https://www.aljazeera.com/news/2019/11/7/mauritians-vote-in-first-election-since-pm-succeeded-father |access-date=3 November 2024 |work=Al Jazeera |date=7 November 2019 |archive-url=https://web.archive.org/web/20230430123325/https://www.aljazeera.com/news/2019/11/7/mauritians-vote-in-first-election-since-pm-succeeded-father |archive-date=30 April 2023|url-status=live}}</ref>",
                   "url": "https://www.aljazeera.com/news/2019/11/7/mauritians-vote-in-first-election-since-pm-succeeded-father",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Kasenally |first1=Roukaya |title=How Pravind Jugnauth clinched the win in Mauritius' elections |url=https://theconversation.com/how-pravind-jugnauth-clinched-the-win-in-mauritius-elections-127193 |access-date=3 November 2024 |work=The Conversation (website)|The Conversation|date=25 November 2019 |archive-url=https://web.archive.org/web/20240710043916/https://theconversation.com/how-pravind-jugnauth-clinched-the-win-in-mauritius-elections-127193 |archive-date=10 July 2024|url-status=live}}</ref>",
                   "url": "https://theconversation.com/how-pravind-jugnauth-clinched-the-win-in-mauritius-elections-127193",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -105,15 +105,15 @@
                 {
                   "text": "<ref>{{cite web |title=Legislative Election of 7 November 2019 |url=http://psephos.adam-carr.net/countries/m/mauritius/mauritius2019.txt |publisher=Psephos |access-date=3 November 2024 |archive-url=https://web.archive.org/web/20211202101420/http://psephos.adam-carr.net/countries/m/mauritius/mauritius2019.txt |archive-date=2 December 2021}}</ref>",
                   "url": "http://psephos.adam-carr.net/countries/m/mauritius/mauritius2019.txt",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |title=Court upholds election of Mauritius PM in 2019 |url=https://www.reuters.com/world/africa/court-upholds-election-mauritius-pm-2019-2023-10-16/ |access-date=3 November 2024 |work=Reuters |date=16 October 2023 |archive-url=https://web.archive.org/web/20231021195622/https://www.reuters.com/world/africa/court-upholds-election-mauritius-pm-2019-2023-10-16/ |archive-date=21 October 2023|url-status=live|location=London}}</ref>",
                   "url": "https://www.reuters.com/world/africa/court-upholds-election-mauritius-pm-2019-2023-10-16/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 }
               ]
@@ -133,14 +133,14 @@
                     {
                       "text": "<ref>{{cite news |last1=Singh Khadka |first1=Navin |title=Why the Mauritius oil spill is so serious |url=https://www.bbc.com/news/world-africa-53754751 |access-date=23 November 2024 |work=BBC |date=13 August 2020 |archive-url=https://web.archive.org/web/20240919103258/https://www.bbc.com/news/world-africa-53754751 |archive-date=19 September 2024|url-status=live}}</ref>",
                       "url": "https://www.bbc.com/news/world-africa-53754751",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Degnarain |first1=Nishan |title=Mauritius Sees Popular Protests Over Handling Of The Wakashio Oil Spill And Whale Deaths |url=https://www.forbes.com/sites/nishandegnarain/2020/08/29/mauritius-sees-popular-protests-over-handling-of-the-wakashio-oil-spill-and-whale-deaths/ |access-date=23 November 2024 |work=Forbes |date=29 August 2020 |archive-url=https://web.archive.org/web/20200830153910/https://www.forbes.com/sites/nishandegnarain/2020/08/29/mauritius-sees-popular-protests-over-handling-of-the-wakashio-oil-spill-and-whale-deaths/#cf5c0d352531 |archive-date=30 August 2020|url-status=live}}</ref>",
                       "url": "https://www.forbes.com/sites/nishandegnarain/2020/08/29/mauritius-sees-popular-protests-over-handling-of-the-wakashio-oil-spill-and-whale-deaths/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -163,7 +163,7 @@
                     {
                       "text": "<ref>{{cite news |title=Scandal Erupts in Mauritius as Wire-Tapping Allegations Emerge |url=https://newsmoris.com/2024/10/27/scandal-erupts-in-mauritius-as-wire-tapping-allegations-emerge/ |access-date=3 November 2024 |work=News Moris |date=27 October 2024 |archive-url=https://archive.today/20241103231759/https://newsmoris.com/2024/10/27/scandal-erupts-in-mauritius-as-wire-tapping-allegations-emerge/ |archive-date=3 November 2024|url-status=live}}</ref>",
                       "url": "https://newsmoris.com/2024/10/27/scandal-erupts-in-mauritius-as-wire-tapping-allegations-emerge/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -176,15 +176,15 @@
                     {
                       "text": "<ref>{{cite news |title=Mauritius blocks social media until after election amid wiretapping row |url=https://www.aljazeera.com/news/2024/11/1/mauritius-blocks-social-media-until-after-election-amid-wiretapping-row |access-date=3 November 2024 |work=Al Jazeera |date=1 November 2024 |archive-url=https://archive.today/20241103232317/https://www.aljazeera.com/news/2024/11/1/mauritius-blocks-social-media-until-after-election-amid-wiretapping-row |archive-date=3 November 2024|url-status=live}}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/11/1/mauritius-blocks-social-media-until-after-election-amid-wiretapping-row",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Kloren |first1=Sarene |title=Mauritius lifts social media ban following outcry from civil rights groups |url=https://www.iol.co.za/news/africa/mauritius-lifts-social-media-ban-following-outcry-from-civil-rights-groups-c05d5a97-175a-4c2d-8237-0aec6e0fb41e |access-date=3 November 2024 |work=Independent Online |date=2 November 2024 |archive-url=https://archive.today/20241103232649/https://www.iol.co.za/news/africa/mauritius-lifts-social-media-ban-following-outcry-from-civil-rights-groups-c05d5a97-175a-4c2d-8237-0aec6e0fb41e |archive-date=3 November 2024|url-status=live}}</ref>",
                       "url": "https://www.iol.co.za/news/africa/mauritius-lifts-social-media-ban-following-outcry-from-civil-rights-groups-c05d5a97-175a-4c2d-8237-0aec6e0fb41e",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -206,28 +206,28 @@
                     {
                       "text": "<ref name=chagos>{{cite news |last1=Lawal |first1=Shola |title=Why is the UK handing the Chagos Islands back to Mauritius? |url=https://www.aljazeera.com/news/2024/10/4/why-is-the-uk-handing-the-chagos-islands-back-to-mauritius |access-date=7 November 2024 |work=Al Jazeera |date=4 October 2024 |archive-url=https://web.archive.org/web/20241004145112/https://www.aljazeera.com/news/2024/10/4/why-is-the-uk-handing-the-chagos-islands-back-to-mauritius |archive-date=4 October 2024|url-status=live}}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/10/4/why-is-the-uk-handing-the-chagos-islands-back-to-mauritius",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Harding |first1=Andrew |title=UK will give sovereignty of Chagos Islands to Mauritius |url=https://www.bbc.com/news/articles/c98ynejg4l5o |access-date=7 November 2024 |work=BBC |date=4 October 2024}}</ref>",
                       "url": "https://www.bbc.com/news/articles/c98ynejg4l5o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=chagos1>{{cite news |title=L'Alliance Lepep à Curepipe : Jugnauth confirme l'abolition des droits d'accise sur l'essence et le diesel |url=https://www.lemauricien.com/le-mauricien/lalliance-lepep-a-curepipe-jugnauth-confirme-labolition-des-droits-daccise-sur-lessence-et-le-diesel/656180/ |access-date=8 November 2024 |work=Le Mauricien|date=7 November 2024 |archive-url=https://archive.today/20241108000301/https://www.lemauricien.com/le-mauricien/lalliance-lepep-a-curepipe-jugnauth-confirme-labolition-des-droits-daccise-sur-lessence-et-le-diesel/656180/ |archive-date=8 November 2024|url-status=live |language=fr}}</ref>",
                       "url": "https://www.lemauricien.com/le-mauricien/lalliance-lepep-a-curepipe-jugnauth-confirme-labolition-des-droits-daccise-sur-lessence-et-le-diesel/656180/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=chagos/> Navin Ramgoolam and Paul Bérenger welcomed the transfer of the archipelago but criticised Jugnauth for agreeing to the lease of Diego Garcia.<ref>{{cite news |title=Dissolution du parlement : « Un soulagement » pour les Mauriciens, s'exclame Navin Ramgoolam |url=https://www.lemauricien.com/actualites/politique/dissolution-du-parlement-un-soulagement-pour-les-mauriciens-sexclame-navin-ramgoolam/652322/#google_vignette |access-date=8 November 2024 |work=Le Mauricien |date=5 October 2024 |archive-url=https://archive.today/20241108000905/https://www.lemauricien.com/actualites/politique/dissolution-du-parlement-un-soulagement-pour-les-mauriciens-sexclame-navin-ramgoolam/652322/%23google_vignette |archive-date=8 November 2024|url-status=live|language=fr}}</ref>",
-                      "url": "https://www.lemauricien.com/actualites/politique/dissolution-du-parlement-un-soulagement-pour-les-mauriciens-sexclame-navin-ramgoolam/652322/#google_vignette",
-                      "status_code": null,
+                      "url": "https://www.lemauricien.com/actualites/politique/dissolution-du-parlement-un-soulagement-pour-les-mauriciens-sexclame-navin-ramgoolam/652322/",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
@@ -235,7 +235,7 @@
                       "text": "<ref>{{cite news |title=Linion Moris – Chagos : « L'accord politique entre États n'existe pas » |url=https://www.lemauricien.com/le-mauricien/linion-moris-chagos-laccord-politique-entre-etats-nexiste-pas/652303/ |access-date=8 November 2024 |work=Le Mauricien |date=5 October 2024 |archive-url=https://archive.today/20241108001426/https://www.lemauricien.com/le-mauricien/linion-moris-chagos-laccord-politique-entre-etats-nexiste-pas/652303/ |archive-date=8 November 2024|url-status=live|language=fr}}</ref>",
                       "url": "https://www.lemauricien.com/le-mauricien/linion-moris-chagos-laccord-politique-entre-etats-nexiste-pas/652303/",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Server disconnected",
                       "type": "news"
                     }
                   ]
@@ -259,7 +259,7 @@
                 {
                   "text": "<ref name=ipu>{{cite web |title=Electoral System |url=http://archive.ipu.org/parline-e/reports/2209_B.htm |publisher=Inter-Parliamentary Union |access-date=6 November 2024 |archive-url=https://archive.today/20241106013027/http://archive.ipu.org/parline-e/reports/2209_B.htm |archive-date=6 November 2024 |url-status=live}}</ref>",
                   "url": "http://archive.ipu.org/parline-e/reports/2209_B.htm",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -267,7 +267,7 @@
                   "text": "<ref name=BSL>{{cite journal |last1=Fessha |first1=Yonatan |last2=Ho Tu Ham |first2=Nora |title=Is it time to let go? The Best Loser System in Mauritius |journal=Afrika Focus |date=2015 |volume=28 |issue=1 |pages=66–67,70|doi=10.21825/af.v28i1.4739 |url=https://repository.up.ac.za/bitstream/handle/2263/52483/Fessha_Is_2015.pdf?sequence=1&isAllowed=y |access-date=6 November 2024}}</ref>",
                   "url": "https://repository.up.ac.za/bitstream/handle/2263/52483/Fessha_Is_2015.pdf?sequence=1&isAllowed=y",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "journal"
                 },
                 {
@@ -286,21 +286,21 @@
                 {
                   "text": "<ref name=ipu/> A total of 1,002,857 individuals were registered to vote in this election.<ref>{{cite news |last1=Le Roy |first1=Jean Claude |title=1,002,857 électeurs appelés aux urnes |url=https://www.maurice-info.mu/2024/10/05/1002857-electeurs-appeles-aux-urnes.html |access-date=7 November 2024 |work=Maurice Info |date=5 October 2024 |archive-url=https://web.archive.org/web/20241005044833/https://www.maurice-info.mu/2024/10/05/1002857-electeurs-appeles-aux-urnes.html |archive-date=5 October 2024|url-status=live |language=fr}}</ref>",
                   "url": "https://www.maurice-info.mu/2024/10/05/1002857-electeurs-appeles-aux-urnes.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |title=National Assembly Elections 2024 |url=https://electoral.govmu.org/oec/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=218&wpfd_file_id=4942&token=53cd546a4c2a63bbaeb726e7ed01434a&preview=1 |website=Office of the Electoral Commissioner |access-date=7 November 2024 |location=Port Louis |date=15 October 2024}}</ref>",
                   "url": "https://electoral.govmu.org/oec/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=218&wpfd_file_id=4942&token=53cd546a4c2a63bbaeb726e7ed01434a&preview=1",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |title=Législatives 2024 : les candidats repêchés comme best losers connus |url=https://www.lemauricien.com/actualites/politique/legislatives-2024-les-candidats-repeches-comme-best-losers-connus/656475/ |access-date=26 November 2024 |work=Le Mauricien |date=12 November 2024 |archive-url=https://archive.today/20241126204012/https://www.lemauricien.com/actualites/politique/legislatives-2024-les-candidats-repeches-comme-best-losers-connus/656475/ |archive-date=26 November 2024|url-status=live|language=fr}}</ref>",
                   "url": "https://www.lemauricien.com/actualites/politique/legislatives-2024-les-candidats-repeches-comme-best-losers-connus/656475/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -323,56 +323,56 @@
                 {
                   "text": "<ref name=IFES>{{cite web |title=Republic of Mauritius |url=https://www.electionguide.org/elections/id/4363/ |website=IFES |access-date=7 November 2024 |archive-url=https://archive.today/20241107023834/https://www.electionguide.org/elections/id/4363/ |archive-date=7 November 2024 |url-status=live}}</ref>",
                   "url": "https://www.electionguide.org/elections/id/4363/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=List of Registered Parties/Party Alliances |url=https://electoral.govmu.org/oec/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=218&wpfd_file_id=4915&token=7d1f4e5c7e7c374bdf4549424e90cc76&preview=1 |website=Office of the Electoral Commissioner |access-date=7 November 2024|archive-url=https://archive.today/20241107023543/https://electoral.govmu.org/oec/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=218&wpfd_file_id=4915&token=7d1f4e5c7e7c374bdf4549424e90cc76&preview=1|archive-date=7 November 2024|url-status=live}}</ref>",
                   "url": "https://electoral.govmu.org/oec/wp-admin/admin-ajax.php?juwpfisadmin=false&action=wpfd&task=file.download&wpfd_category_id=218&wpfd_file_id=4915&token=7d1f4e5c7e7c374bdf4549424e90cc76&preview=1",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=IFES/><ref name=adc>{{cite news |title=Historic Alliance Formed Ahead of Upcoming Elections |url=https://newsmoris.com/2024/10/11/historic-alliance-formed-ahead-of-upcoming-elections/ |access-date=7 November 2024 |work=News Moris |date=11 October 2024 |archive-url=https://archive.today/20241107024217/https://newsmoris.com/2024/10/11/historic-alliance-formed-ahead-of-upcoming-elections/ |archive-date=7 November 2024|url-status=live}}</ref>",
                   "url": "https://newsmoris.com/2024/10/11/historic-alliance-formed-ahead-of-upcoming-elections/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=IFES/> Parties in Alliance du Changement included Ramgoolam's Labour Party, former Prime Minister Paul Bérenger's Mauritian Militant Movement, Rezistans ek Alternativ and the New Democrats.<ref name=adc/> A total of 891 candidates contested the election,<ref>{{cite web |title=National Assembly Elections 2024 |url=https://electoral.govmu.org/oec/ |website=Office of the Electoral Commissioner |access-date=7 November 2024 |archive-url=https://archive.today/20241107024806/https://electoral.govmu.org/oec/ |archive-date=7 November 2024}}</ref>",
                   "url": "https://electoral.govmu.org/oec/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Parties |url=https://www.electionsmauritius.com/2024/parties/ |website=Elections Mauritius |access-date=7 November 2024 |archive-url=https://archive.today/20241107025301/https://www.electionsmauritius.com/2024/parties/ |archive-date=7 November 2024 |url-status=live}}</ref>",
                   "url": "https://www.electionsmauritius.com/2024/parties/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=sadc>{{cite news |title=SADC – Mission d'observation : L'insuffisance de la participation des femmes et des jeunes décriée |url=https://www.lemauricien.com/le-mauricien/sadc-mission-dobservation-linsuffisance-de-la-participation-des-femmes-et-des-jeunes-decriee/656596/ |access-date=18 November 2024 |work=Le Mauricien |date=14 November 2024 |archive-url=https://archive.today/20241118052000/https://www.lemauricien.com/le-mauricien/sadc-mission-dobservation-linsuffisance-de-la-participation-des-femmes-et-des-jeunes-decriee/656596/ |archive-date=18 November 2024|url-status=live |language=fr}}</ref>",
                   "url": "https://www.lemauricien.com/le-mauricien/sadc-mission-dobservation-linsuffisance-de-la-participation-des-femmes-et-des-jeunes-decriee/656596/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |title=Candidates |url=https://www.electionsmauritius.com/2019/party/45/organisation-du-peuple-de-rodrigues/ |website=Elections Mauritius – Elections 2019|access-date=7 November 2024 |archive-url=https://archive.today/20241107044816/https://www.electionsmauritius.com/2019/party/45/organisation-du-peuple-de-rodrigues/ |archive-date=7 November 2024 |url-status=live}}</ref>",
                   "url": "https://www.electionsmauritius.com/2019/party/45/organisation-du-peuple-de-rodrigues/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Candidates |url=https://www.electionsmauritius.com/2024/party/47/organisation-du-peuple-de-rodrigues/ |website=Elections Mauritius – Elections 2024 |access-date=7 November 2024 |archive-url=https://archive.today/20241107045229/https://www.electionsmauritius.com/2024/party/47/organisation-du-peuple-de-rodrigues/|archive-date=7 November 2024 |url-status=live}}</ref>",
                   "url": "https://www.electionsmauritius.com/2024/party/47/organisation-du-peuple-de-rodrigues/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -395,7 +395,7 @@
                 {
                   "text": "<ref>{{cite news |last1=Lawal |first1=Shola |title=Mauritius election 2024: Amid wiretapping scandal, what's at stake? |url=https://www.aljazeera.com/news/2024/11/10/mauritius-election-amid-wiretapping-scandal-whats-at-stake |access-date=10 November 2024 |work=Al Jazeera |date=10 November 2024 |archive-url=https://archive.today/20241110193158/https://www.aljazeera.com/news/2024/11/10/mauritius-election-amid-wiretapping-scandal-whats-at-stake |archive-date=10 November 2024|url-status=live}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/11/10/mauritius-election-amid-wiretapping-scandal-whats-at-stake",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -408,14 +408,14 @@
                 {
                   "text": "<ref>{{cite news |title=Présentation du programme électoral de l'Alliance Lepep |url=https://www.lemauricien.com/actualites/politique/live-presentation-du-programme-electoral-de-lalliance-lepep/654396/ |access-date=9 November 2024 |work=Le Mauricien |date=23 October 2024 |archive-url=https://archive.today/20241109033545/https://www.lemauricien.com/actualites/politique/live-presentation-du-programme-electoral-de-lalliance-lepep/654396/ |archive-date=9 November 2024|url-status=live |language=fr}}</ref>",
                   "url": "https://www.lemauricien.com/actualites/politique/live-presentation-du-programme-electoral-de-lalliance-lepep/654396/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=chagos1/> It also pledged to finance economic programs using payments made to be made by the UK under the revised agreement over the Chagos Islands.<ref name=AJ1>{{cite news |title=Mauritius holds parliamentary election with cost of living crisis key issue |url=https://www.aljazeera.com/news/2024/11/10/mauritius-holds-parliamentary-election-with-cost-of-living-crisis-key-issue |access-date=10 November 2024 |work=Al Jazeera |date=10 November 2024 |archive-url=https://archive.today/20241110212139/https://www.aljazeera.com/news/2024/11/10/mauritius-holds-parliamentary-election-with-cost-of-living-crisis-key-issue |archive-date=10 November 2024|url-status=live}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/11/10/mauritius-holds-parliamentary-election-with-cost-of-living-crisis-key-issue",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -428,14 +428,14 @@
                 {
                   "text": "<ref>{{cite news |title=Manifeste électoral : voici les 25 mesures phares annoncés par l'Alliance du Changement |url=https://defimedia.info/manifeste-electoral-voici-les-25-mesures-phares-annonces-par-lalliance-du-changement |access-date=9 November 2024 |work=Le Defi Media Group |date=29 October 2024 |archive-url=https://archive.today/20241109034336/https://defimedia.info/manifeste-electoral-voici-les-25-mesures-phares-annonces-par-lalliance-du-changement |archive-date=9 November 2024|url-status=live|language=fr}}</ref>",
                   "url": "https://defimedia.info/manifeste-electoral-voici-les-25-mesures-phares-annonces-par-lalliance-du-changement",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=L'Alliance du Changement promet que les personnes touchant moins de Rs 77 000 par mois ne paieront plus d'impôt sur le revenu |url=https://defimedia.info/lalliance-du-changement-promet-que-les-personnes-touchant-moins-de-rs-77-000-par-mois-ne-paieront-plus-dimpot-sur-le-revenu |access-date=9 November 2024 |work=Le Defi Media Group |date=6 November 2024 |archive-url=https://archive.today/20241109035047/https://defimedia.info/lalliance-du-changement-promet-que-les-personnes-touchant-moins-de-rs-77-000-par-mois-ne-paieront-plus-dimpot-sur-le-revenu |archive-date=9 November 2024|url-status=live|language=fr}}</ref>",
                   "url": "https://defimedia.info/lalliance-du-changement-promet-que-les-personnes-touchant-moins-de-rs-77-000-par-mois-ne-paieront-plus-dimpot-sur-le-revenu",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -448,14 +448,14 @@
                 {
                   "text": "<ref>{{cite news |last1=Denmamode |first1=Yasin |title=Linion Reform voit le jour, les modalités dévoilées |url=https://lexpress.mu/s/linion-reform-voit-le-jour-les-modalites-devoilees-539170 |access-date=9 November 2024 |work=L'Express (Mauritius)|L'Express |date=13 October 2024 |archive-url=https://archive.today/20241109040328/https://lexpress.mu/s/linion-reform-voit-le-jour-les-modalites-devoilees-539170 |archive-date=9 November 2024|url-status=live|language=fr}}</ref>",
                   "url": "https://lexpress.mu/s/linion-reform-voit-le-jour-les-modalites-devoilees-539170",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=LF>{{cite news |title=\"Les élections se joueront entre Linion Reform et l'Alliance du changement\" |url=https://lexpress.mu/s/les-elections-se-joueront-entre-linion-reform-et-lalliance-du-changement-539758 |access-date=9 November 2024 |work=L'Express (Mauritius)|L'Express |date=4 November 2024 |archive-url=https://archive.today/20241109035727/https://lexpress.mu/s/les-elections-se-joueront-entre-linion-reform-et-lalliance-du-changement-539758 |archive-date=9 November 2024|url-status=live|language=fr}}</ref>",
                   "url": "https://lexpress.mu/s/les-elections-se-joueront-entre-linion-reform-et-lalliance-du-changement-539758",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -478,21 +478,21 @@
                 {
                   "text": "<ref name=info>{{cite news |last1=Le Roy |first1=Jean Claude |title=Le Parlement dissout et les legislatives le 10 novembre 2024 |url=https://www.maurice-info.mu/2024/10/04/le-parlement-dissout-et-les-legislatives-le-10-novembre-2024.html |access-date=8 November 2024 |work=Maurice Info |date=4 October 2024 |archive-url=https://archive.today/20241108075441/https://www.maurice-info.mu/2024/10/04/le-parlement-dissout-et-les-legislatives-le-10-novembre-2024.html |archive-date=8 November 2024|url-status=live|language=fr}}</ref>",
                   "url": "https://www.maurice-info.mu/2024/10/04/le-parlement-dissout-et-les-legislatives-le-10-novembre-2024.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Mauritius to hold legislative election on November 10 |url=https://www.newindianexpress.com/world/2024/Oct/04/mauritius-to-hold-legislative-election-on-november-10 |access-date=8 November 2024 |work=The New Indian Express |date=4 October 2024 |archive-url=https://archive.today/20241108075908/https://www.newindianexpress.com/world/2024/Oct/04/mauritius-to-hold-legislative-election-on-november-10 |archive-date=8 November 2024|url-status=live|location=Port Louis}}</ref>",
                   "url": "https://www.newindianexpress.com/world/2024/Oct/04/mauritius-to-hold-legislative-election-on-november-10",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=sadc/><ref>{{cite news |last1=Gulbul-Nathoo |first1=Reshma |title=La mission d'observation électorale de la SADC officiellement lancée |url=https://lexpress.mu/s/la-mission-dobservation-electorale-de-la-sadc-officiellement-lancee-539790 |access-date=8 November 2024 |work=L'Express (Mauritius)|L'Express |date=5 November 2024 |archive-url=https://archive.today/20241108081803/https://lexpress.mu/s/la-mission-dobservation-electorale-de-la-sadc-officiellement-lancee-539790 |archive-date=8 November 2024|url-status=live|language=fr}}</ref>",
                   "url": "https://lexpress.mu/s/la-mission-dobservation-electorale-de-la-sadc-officiellement-lancee-539790",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
@@ -500,13 +500,13 @@
                   "text": "<ref name=AJ1/> Voting centres in Agaléga and Rodrigues opened at 6:00, closing at 10:00 in Agaléga and 17:00 in Rodrigues.<ref>{{cite news |title=Législatives 2024 : le vote à Agaléga a déjà pris fin |url=https://www.lemauricien.com/actualites/societe/legislatives-2024-le-vote-a-agalega-a-deja-pris-fin/656390/ |access-date=18 November 2024 |work=Le Mauricien |date=10 November 2024 |archive-url=https://archive.today/20241111225832/https://www.lemauricien.com/actualites/societe/legislatives-2024-le-vote-a-agalega-a-deja-pris-fin/656390/ |archive-date=11 November 2024 |url-status=live|language=fr}}</ref>",
                   "url": "https://www.lemauricien.com/actualites/societe/legislatives-2024-le-vote-a-agalega-a-deja-pris-fin/656390/",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Server disconnected",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |title=Organisation and Conduct of Elections |url=https://electoral.govmu.org/oec/?page_id=669 |website=Office of the Electoral Commissioner |access-date=18 November 2024 |archive-url=https://archive.today/20241111230516/https://electoral.govmu.org/oec/?page_id=669 |archive-date=11 November 2024 |url-status=live}}</ref>",
                   "url": "https://electoral.govmu.org/oec/?page_id=669",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -519,14 +519,14 @@
                 {
                   "text": "<ref>{{cite news |title=Spectre d'élections truquées : Agitation à travers le pays, hier soir et aux petites heures du matin |url=https://www.lemauricien.com/actualites/faits-divers/spectre-delections-truquees-agitation-a-travers-le-pays-hier-soir-et-aux-petites-heures-du-matin/656379/ |access-date=11 November 2024 |work=Le Mauricien |date=10 November 2024 |archive-url=https://archive.today/20241111201914/https://www.lemauricien.com/actualites/faits-divers/spectre-delections-truquees-agitation-a-travers-le-pays-hier-soir-et-aux-petites-heures-du-matin/656379/ |archive-date=11 November 2024|url-status=live|language=fr}}</ref>",
                   "url": "https://www.lemauricien.com/actualites/faits-divers/spectre-delections-truquees-agitation-a-travers-le-pays-hier-soir-et-aux-petites-heures-du-matin/656379/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=nm3>{{cite news |title=2024 General Elections: The Countring Begins |url=https://newsmoris.com/2024/11/11/2024-general-elections-the-counting-begins/ |access-date=11 November 2024 |work=News Moris |date=11 November 2024 |archive-url=https://archive.today/20241111215844/https://newsmoris.com/2024/11/11/2024-general-elections-the-counting-begins/ |archive-date=11 November 2024|url-status=live}}</ref>",
                   "url": "https://newsmoris.com/2024/11/11/2024-general-elections-the-counting-begins/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
@@ -534,14 +534,14 @@
                   "text": "<ref>{{cite news |title=Le Commissaire électoral, Irfan Rahman lance un appel au calme |url=https://www.lemauricien.com/actualites/societe/le-commissaire-electoral-irfan-rahman-lance-un-appel-au-calme/656399/ |access-date=11 November 2024 |work=Le Mauricien |date=11 November 2024 |archive-url=https://archive.today/20241111223052/https://www.lemauricien.com/actualites/societe/le-commissaire-electoral-irfan-rahman-lance-un-appel-au-calme/656399/ |archive-date=11 November 2024|url-status=live |language=fr}}</ref>",
                   "url": "https://www.lemauricien.com/actualites/societe/le-commissaire-electoral-irfan-rahman-lance-un-appel-au-calme/656399/",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Server disconnected",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Pravind Jugnauth et Navin Ramgoolam font un appel au calme à travers leur page Facebook |url=https://www.lemauricien.com/actualites/societe/pravind-jugnauth-et-navin-ramgoolam-font-un-appel-au-calme-a-travers-leur-page-facebook/656395/ |access-date=11 November 2024 |work=Le Mauricien |date=11 November 2024 |archive-url=https://archive.today/20241111222804/https://www.lemauricien.com/actualites/societe/pravind-jugnauth-et-navin-ramgoolam-font-un-appel-au-calme-a-travers-leur-page-facebook/656395/ |archive-date=11 November 2024|url-status=live |language=fr}}</ref>",
                   "url": "https://www.lemauricien.com/actualites/societe/pravind-jugnauth-et-navin-ramgoolam-font-un-appel-au-calme-a-travers-leur-page-facebook/656395/",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Server disconnected",
                   "type": "news"
                 }
               ]
@@ -563,35 +563,35 @@
                 {
                   "text": "<ref>{{cite news |title=Mauritian Prime Minister Jugnauth Concedes Election Defeat |url=https://www.bloomberg.com/news/articles/2024-11-11/mauritian-prime-minister-jugnauth-concedes-election-defeat?embedded-checkout=true |access-date=11 November 2024 |work=Bloomberg News |date=11 November 2024|url-access=subscription}}</ref>",
                   "url": "https://www.bloomberg.com/news/articles/2024-11-11/mauritian-prime-minister-jugnauth-concedes-election-defeat?embedded-checkout=true",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Mauritius PM Pravind Jugnauth concedes defeat in parliamentary election |url=https://www.aljazeera.com/news/2024/11/11/mauritius-pm-pravind-jugnauth-concedes-defeat-in-parliamentary |access-date=11 November 2024 |work=Al Jazeera |date=11 November 2024}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/11/11/mauritius-pm-pravind-jugnauth-concedes-defeat-in-parliamentary",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=lop>{{cite news |last1=Hilbert |first1=Patrick |title=Élections générales : un troisième 60-0 qui marque l'histoire |url=https://defimedia.info/elections-generales-un-troisieme-60-0-qui-marque-lhistoire |access-date=12 November 2024 |work=Le Défi Media Group |date=12 November 2024 |archive-url=https://archive.today/20241112084233/https://defimedia.info/elections-generales-un-troisieme-60-0-qui-marque-lhistoire |archive-date=12 November 2024|url-status=live |language=fr}}</ref>",
                   "url": "https://defimedia.info/elections-generales-un-troisieme-60-0-qui-marque-lhistoire",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=seats>{{cite web |title=ELECTIONS GÉNÉRALES 2024 |url=https://www.lemauricien.com/legislatives2024/results |access-date=12 November 2024 |work=Le Mauricien |language=fr}}</ref>",
                   "url": "https://www.lemauricien.com/legislatives2024/results",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=lop/> The Rodrigues People's Organisation secured two seats, winning the Rodrigues constituency.<ref name=seats/> Electoral Commissioner Irfan Rahman announced the appointment of four unsuccessful candidates to parliament through the Best Loser System. Two contestants from Alliance Lepep were selected, securing parliamentary representation for the bloc. The other two appointees were members of the Rodrigues-based Alliance Liberation.<ref>{{cite news |title=Les quatre Best Losers connus |url=https://defimedia.info/les-quatre-best-losers-connus |access-date=12 November 2024 |work=Le Défi Media Group |date=12 November 2024 |archive-url=https://archive.today/20241112205340/https://defimedia.info/les-quatre-best-losers-connus |archive-date=12 November 2024|url-status=live|language=fr}}</ref>",
                   "url": "https://defimedia.info/les-quatre-best-losers-connus",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -609,82 +609,82 @@
           "sentences": [
             {
               "id": "8.s1",
-              "text": "thanking voters.]]\nReferring to the election result, Navin Ramgoolam said: \"The power of the people is stronger than a dictatorship.\" He was congratulated by Indian Prime Minister Narendra Modi. President Prithvirajsing Roopun formally appointed Ramgoolam as prime minister on 12 November, shortly after Jugnauth resigned, and was sworn in the following day. Ramgoolam announced that his first act after returning to the premiership was to disassemble Mauritius' \"spying system\".\nOn 14 November, Alliance Liberation declared its support for the government. The following day, Joe Lesjongard of Alliance Lepep became Leader of the Opposition (Mauritius)|leader of the opposition. Ramgoolam's cabinet was sworn in at the State House, Mauritius|State House on 22 November. The prime minister assumed several portfolios, including finance, home affairs, defence and external communication. Paul Bérenger was appointed deputy prime minister. The first session of the Eighth National Assembly commenced on 29 November. That day, parliament unanimously elected former Attorney-General Shirin Aumeeruddy-Cziffra as speaker.",
+              "text": "Referring to the election result, Navin Ramgoolam said: \"The power of the people is stronger than a dictatorship.\" He was congratulated by Indian Prime Minister Narendra Modi. President Prithvirajsing Roopun formally appointed Ramgoolam as prime minister on 12 November, shortly after Jugnauth resigned, and was sworn in the following day. Ramgoolam announced that his first act after returning to the premiership was to disassemble Mauritius' \"spying system\".\nOn 14 November, Alliance Liberation declared its support for the government. The following day, Joe Lesjongard of Alliance Lepep became Leader of the Opposition (Mauritius)|leader of the opposition. Ramgoolam's cabinet was sworn in at the State House, Mauritius|State House on 22 November. The prime minister assumed several portfolios, including finance, home affairs, defence and external communication. Paul Bérenger was appointed deputy prime minister. The first session of the Eighth National Assembly commenced on 29 November. That day, parliament unanimously elected former Attorney-General Shirin Aumeeruddy-Cziffra as speaker.",
               "references": [
                 {
                   "text": "<ref>{{cite news |title=Mauritius opposition leader claims sweeping vote win |url=https://www.france24.com/en/live-news/20241112-mauritius-opposition-leader-claims-sweeping-vote-win |access-date=12 November 2024 |work=France 24 |date=12 November 2024}}</ref>",
                   "url": "https://www.france24.com/en/live-news/20241112-mauritius-opposition-leader-claims-sweeping-vote-win",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Navin Ramgoolam Officially Appointed as New Prime Minister |url=https://newsmoris.com/2024/11/12/navin-ramgoolam-officially-appointed-as-new-prime-minister/ |access-date=12 November 2024 |work=News Moris |date=12 November 2024 |archive-url=https://archive.today/20241112211254/https://newsmoris.com/2024/11/12/navin-ramgoolam-officially-appointed-as-new-prime-minister/ |archive-date=12 November 2024|url-status=live}}</ref>",
                   "url": "https://newsmoris.com/2024/11/12/navin-ramgoolam-officially-appointed-as-new-prime-minister/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Pravind Jugnauth Resigns as PM Following Legislative Election Defeat |url=https://newsmoris.com/2024/11/12/pravind-jugnauth-resigns-as-pm-following-legislative-election-defeat/ |access-date=12 November 2024 |work=News Moris |date=12 November 2024 |archive-url=https://archive.today/20241112211718/https://newsmoris.com/2024/11/12/pravind-jugnauth-resigns-as-pm-following-legislative-election-defeat/ |archive-date=12 November 2024|url-status=live}}</ref>",
                   "url": "https://newsmoris.com/2024/11/12/pravind-jugnauth-resigns-as-pm-following-legislative-election-defeat/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Prestation de serment : Ramgoolam revient au pouvoir après 10 ans |url=https://defimedia.info/prestation-de-serment-ramgoolam-revient-au-pouvoir-apres-10-ans |access-date=23 November 2024 |work=Le Défi Media Group |date=13 November 2024 |archive-url=https://archive.today/20241123111259/https://defimedia.info/prestation-de-serment-ramgoolam-revient-au-pouvoir-apres-10-ans |archive-date=23 November 2024 |url-status=live|language=fr}}</ref>",
                   "url": "https://defimedia.info/prestation-de-serment-ramgoolam-revient-au-pouvoir-apres-10-ans",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Opposition secures landslide victory in Mauritius election |url=https://www.aljazeera.com/news/2024/11/12/opposition-secures-landslide-victory-in-mauritius-election |access-date=13 November 2024 |work=Al Jazeera |date=12 November 2024 |archive-url=https://archive.today/20241113001012/https://www.aljazeera.com/news/2024/11/12/opposition-secures-landslide-victory-in-mauritius-election |archive-date=13 November 2024|url-status=live}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/11/12/opposition-secures-landslide-victory-in-mauritius-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Rodrigues' 2 Best Losers Align with Govt in National Assembly |url=https://newsmoris.com/2024/11/14/rodrigues-2-best-losers-align-with-govt-in-national-assembly/ |access-date=18 November 2024 |work=News Moris |date=14 November 2024 |archive-url=https://archive.today/20241118052239/https://newsmoris.com/2024/11/14/rodrigues-2-best-losers-align-with-govt-in-national-assembly/ |archive-date=18 November 2024|url-status=live}}</ref>",
                   "url": "https://newsmoris.com/2024/11/14/rodrigues-2-best-losers-align-with-govt-in-national-assembly/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Joe Lesjongard Appointed New Leader of the Opposition |url=https://newsmoris.com/2024/11/15/joe-lesjongard-appointed-new-leader-of-the-opposition/ |access-date=18 November 2024 |work=News Moris |date=15 November 2024 |archive-url=https://archive.today/20241118191751/https://newsmoris.com/2024/11/15/joe-lesjongard-appointed-new-leader-of-the-opposition/ |archive-date=18 November 2024|url-status=live}}</ref>",
                   "url": "https://newsmoris.com/2024/11/15/joe-lesjongard-appointed-new-leader-of-the-opposition/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |title=Candidates L'Alliance Lepep |url=https://www.electionsmauritius.com/2024/party/18/l-alliance-lepep/ |website=Elections Mauritius |access-date=18 November 2024 |archive-url=https://archive.today/20241118192318/https://www.electionsmauritius.com/2024/party/18/l-alliance-lepep/ |archive-date=18 November 2024 |url-status=live}}</ref>",
                   "url": "https://www.electionsmauritius.com/2024/party/18/l-alliance-lepep/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |title=New Cabinet Ministerial Team Unveiled at the State House |url=https://newsmoris.com/2024/11/22/new-cabinet-ministerial-team-unveiled-at-the-state-house/ |access-date=23 November 2024 |work=News Moris |date=22 November 2024}}</ref>",
                   "url": "https://newsmoris.com/2024/11/22/new-cabinet-ministerial-team-unveiled-at-the-state-house/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Ouverture de la huitième Assemblée nationale |url=https://lexpress.mu/s/ouverture-de-la-huitieme-assemblee-nationale-540370 |access-date=9 February 2025 |work=L'Express (Mauritius)|L'Express |date=29 November 2024 |archive-url=https://web.archive.org/web/20241130052656/https://lexpress.mu/s/ouverture-de-la-huitieme-assemblee-nationale-540370 |archive-date=30 November 2024|url-status=live|language=fr}}</ref>",
                   "url": "https://lexpress.mu/s/ouverture-de-la-huitieme-assemblee-nationale-540370",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Shirin Aumeeruddy-Cziffra Elected Speaker of the National Assembly |url=https://newsmoris.com/2024/11/29/shirin-aumeeruddy-cziffra-elected-speaker-of-the-national-assembly/ |access-date=9 February 2025 |work=News Moris |date=29 November 2024 |archive-url=https://web.archive.org/web/20241203055627/https://newsmoris.com/2024/11/29/shirin-aumeeruddy-cziffra-elected-speaker-of-the-national-assembly/ |archive-date=3 December 2024|url-status=live}}</ref>",
                   "url": "https://newsmoris.com/2024/11/29/shirin-aumeeruddy-cziffra-elected-speaker-of-the-national-assembly/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -697,14 +697,14 @@
                 {
                   "text": "<ref name=convo1>{{cite news |last1=Kasenally |first1=Roukaya |title=Mauritius elections landslide – why voters were determined to get Jugnauth's government out |url=https://theconversation.com/mauritius-elections-landslide-why-voters-were-determined-to-get-jugnauths-government-out-243715 |access-date=23 November 2024 |work=The Conversation (website)|The Conversation |date=16 November 2024}}</ref>",
                   "url": "https://theconversation.com/mauritius-elections-landslide-why-voters-were-determined-to-get-jugnauths-government-out-243715",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=defi4>{{cite news |last1=St. Cyr |first1=Jean-Marie |title=Victoire 60-0 : un défi pour la démocratie |url=https://defimedia.info/victoire-60-0-un-defi-pour-la-democratie |access-date=23 November 2024 |work=Le Défi Media Group |date=12 November 2024 |archive-url=https://archive.today/20241114235517/https://defimedia.info/victoire-60-0-un-defi-pour-la-democratie |archive-date=14 November 2024|url-status=live |language=fr}}</ref>",
                   "url": "https://defimedia.info/victoire-60-0-un-defi-pour-la-democratie",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
@@ -712,7 +712,7 @@
                   "text": "<ref name=convo1/> The lopsided result raised concerns about the lack of an opposition presence to hold the new government accountable.<ref name=defi4/> The Linion Moris party believed that extra-parliamentary parties would need to assume a more prominent role in providing checks and balances. The party, however, called on Alliance du Changement to carry out constitutional changes that increase transparency.<ref>{{cite news |title=Élections générales : « C'est le pire des résultats », lance Dev Sunnasy de Linion Moris |url=https://www.lemauricien.com/actualites/politique/elections-generales-cest-le-pire-des-resultats-lance-dev-sunnasy-de-linion-moris/656540/ |access-date=23 November 2024 |work=Le Mauricien |date=13 November 2024 |archive-url=https://archive.today/20241121084748/https://www.lemauricien.com/actualites/politique/elections-generales-cest-le-pire-des-resultats-lance-dev-sunnasy-de-linion-moris/656540/ |archive-date=21 November 2024|url-status=live|language=fr}}</ref>",
                   "url": "https://www.lemauricien.com/actualites/politique/elections-generales-cest-le-pire-des-resultats-lance-dev-sunnasy-de-linion-moris/656540/",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Server disconnected",
                   "type": "news"
                 }
               ]

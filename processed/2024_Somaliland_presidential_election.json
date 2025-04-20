@@ -14,7 +14,7 @@
                 {
                   "text": "<ref>{{Cite web |title=Five incumbents tumbled and one was humbled - The Nordic Africa Institute |url=https://nai.uu.se/stories-and-events/news/2025-02-06-five-incumbents-tumbled-and-one-was-humbled.html |access-date=2025-02-07 |website=nai.uu.se |language=en}}</ref>",
                   "url": "https://nai.uu.se/stories-and-events/news/2025-02-06-five-incumbents-tumbled-and-one-was-humbled.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -37,7 +37,7 @@
                 {
                   "text": "<ref>{{Cite web |date=1 November 2024 |title=Fierce Clashes Erupt Between Somaliland and SSC Forces |url=https://halqabsi.com/2024/11/fierce-clashes-erupt-btw-sl-and-ssc/ |access-date=13 November 2024 |website=Halqabsi News |language=en-US}}</ref>",
                   "url": "https://halqabsi.com/2024/11/fierce-clashes-erupt-btw-sl-and-ssc/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -50,8 +50,8 @@
                 {
                   "text": "<ref>{{Cite web |date=13 November 2024 |title=As breakaway Somaliland votes, its leaders spy international recognition |url=https://www.reuters.com/world/africa/somaliland-votes-with-leaders-seeing-international-recognition-reach-2024-11-13/ |website=Reuters}}</ref>",
                   "url": "https://www.reuters.com/world/africa/somaliland-votes-with-leaders-seeing-international-recognition-reach-2024-11-13/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 }
               ]
@@ -72,29 +72,29 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web |url=http://www.somalilandlaw.com/body_somaliland_constitution.htm#Chapter3 |title=Somaliland Constitution |website=Somaliland Law |access-date=25 June 2021 |archive-date=1 September 2022 |archive-url=https://web.archive.org/web/20220901040707/http://www.somalilandlaw.com/body_somaliland_constitution.htm#Chapter3 |url-status=live }}</ref>",
-                  "url": "http://www.somalilandlaw.com/body_somaliland_constitution.htm#Chapter3",
-                  "status_code": null,
+                  "url": "http://www.somalilandlaw.com/body_somaliland_constitution.htm",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |url=https://www.reuters.com/world/africa/somaliland-says-planned-presidential-poll-not-viable-postpones-next-year-2022-09-24/ |work=Reuters |title=Somaliland postpones presidential election until next year |date=25 September 2022 |access-date=27 September 2022 |archive-date=27 September 2022 |archive-url=https://web.archive.org/web/20220927164850/https://www.reuters.com/world/africa/somaliland-says-planned-presidential-poll-not-viable-postpones-next-year-2022-09-24/ |url-status=live }}</ref>",
                   "url": "https://www.reuters.com/world/africa/somaliland-says-planned-presidential-poll-not-viable-postpones-next-year-2022-09-24/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |url=https://www.voanews.com/a/somaliland-lawmakers-vote-to-extend-president-s-term-by-two-years/6771878.html |title=Somaliland Lawmakers Vote to Extend President's Term by Two Years |website=VOA |date=October 2022 |access-date=12 October 2022 |archive-date=12 October 2022 |archive-url=https://web.archive.org/web/20221012210753/https://www.voanews.com/a/somaliland-lawmakers-vote-to-extend-president-s-term-by-two-years/6771878.html |url-status=live }}</ref>",
                   "url": "https://www.voanews.com/a/somaliland-lawmakers-vote-to-extend-president-s-term-by-two-years/6771878.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Somaliland's House of Elders Approves Law for Combined Presidential and Party Elections |url=https://halqabsi.com/2024/01/somalilands-house-of-elders-approves-law-for-combined-presidential-and-party-elections/ |publisher=Halqabsi News |date=8 January 2024 |access-date=13 November 2024 |archive-date=11 September 2024 |archive-url=https://web.archive.org/web/20240911130910/https://halqabsi.com/2024/01/somalilands-house-of-elders-approves-law-for-combined-presidential-and-party-elections/ |url-status=live |language=en}}</ref>",
                   "url": "https://halqabsi.com/2024/01/somalilands-house-of-elders-approves-law-for-combined-presidential-and-party-elections/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -117,21 +117,21 @@
                 {
                   "text": "<ref>{{cite web |title=Somaliland's ruling party secures re-election Bihi as Presidential candidate |url=https://www.somaliland.com/news/somalilands-ruling-party-secures-re-election-bihi-as-presidential-candidate/ |work=Somaliland.com |date=21 August 2023 |access-date=13 November 2024 |archive-date=6 November 2024 |archive-url=https://web.archive.org/web/20241106123421/https://www.somaliland.com/news/somalilands-ruling-party-secures-re-election-bihi-as-presidential-candidate/ |url-status=live }}</ref>",
                   "url": "https://www.somaliland.com/news/somalilands-ruling-party-secures-re-election-bihi-as-presidential-candidate/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Somalia: Ethiopia & Recognition Top Agenda As Somaliland Presidential Candidates Launch Campaigns |url=https://allafrica.com/stories/202409100274.html |publisher=AllAfrica |date=10 September 2024 |access-date=13 November 2024 |archive-date=12 September 2024 |archive-url=https://web.archive.org/web/20240912053208/https://allafrica.com/stories/202409100274.html |url-status=live }}</ref>",
                   "url": "https://allafrica.com/stories/202409100274.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Faysal Ali Warabe warns Somaliland government about election disruptions |url=https://www.hiiraan.com/news4/2024/Jun/196590/faysal_ali_warabe_warns_somaliland_government_about_election_disruptions.aspx |work=Hiiraan Online |date=6 June 2024 |access-date=13 November 2024 |archive-date=18 November 2024 |archive-url=https://web.archive.org/web/20241118144246/https://www.hiiraan.com/news4/2024/Jun/196590/faysal_ali_warabe_warns_somaliland_government_about_election_disruptions.aspx |url-status=live |language=en}}</ref>",
                   "url": "https://www.hiiraan.com/news4/2024/Jun/196590/faysal_ali_warabe_warns_somaliland_government_about_election_disruptions.aspx",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -144,7 +144,7 @@
                 {
                   "text": "<ref name=\"Faruk\"/> Somaliland's representative to Kenya, Mohamed A. Mohamoud, stated that the entity was optimistic that Donald Trump, who had been elected as US President days prior, would recognize Somaliland as an independent state from Somalia.<ref name=\"Sheikh\"/> The election was also set to decide if a controversial deal with Ethiopia which involved granting the landlocked nation sea access in the form of a naval base at the Port of Berbera, in return for an \"in-depth assessment\" of recognition.<ref name=\"Ali\"/><ref name=\"FP\">{{cite web |title=Somaliland presidential election: 7 things about why polls in Somalia's breakaway region matter |url=https://www.firstpost.com/world/somaliland-presidential-election-7-things-about-why-polls-in-somalias-breakaway-region-matter-13834730.html |work=Firstpost |date=13 November 2024 |access-date=13 November 2024 |language=en}}</ref>",
                   "url": "https://www.firstpost.com/world/somaliland-presidential-election-7-things-about-why-polls-in-somalias-breakaway-region-matter-13834730.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -167,28 +167,28 @@
                 {
                   "text": "<ref name=\"Faruk\">{{cite web |last1=Faruk |first1=Omar |title=Voting underway in Somalia's breakaway region of Somaliland |url=https://apnews.com/article/somaliland-elections-president-politics-tension-16890f7c42336ca07bb1e644f8106192 |work=AP News |date=13 November 2024 |access-date=13 November 2024}}</ref>",
                   "url": "https://apnews.com/article/somaliland-elections-president-politics-tension-16890f7c42336ca07bb1e644f8106192",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"Ali\">{{cite web |title=Somaliland eyes recognition as it goes to polls |url=https://www.aljazeera.com/news/2024/11/13/somaliland-eyes-recognition-as-it-goes-to-polls |publisher=Aljazeera |date=13 November 2024 |access-date=13 November 2024 |archive-date=13 November 2024 |archive-url=https://web.archive.org/web/20241113083845/https://www.aljazeera.com/news/2024/11/13/somaliland-eyes-recognition-as-it-goes-to-polls |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/11/13/somaliland-eyes-recognition-as-it-goes-to-polls",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"FP\"/> Voter turnout was suspected to be more than one million at over two thousand polling stations.<ref name=\"Faruk\"/><ref name=\"Ali\"/> Bihi publicly cast his vote, praying for a democratic \"transfer of power in peace\".<ref name=\"Sheikh\">{{cite web |last1=Sheikh |first1=Abdi |last2=Rao |first2=Sonia |title=As Somaliland votes, its leaders see international recognition in reach |url=https://www.reuters.com/world/africa/somaliland-votes-with-leaders-seeing-international-recognition-reach-2024-11-13/ |work=Reuters |date=13 November 2024 |access-date=13 November 2024}}</ref>",
                   "url": "https://www.reuters.com/world/africa/somaliland-votes-with-leaders-seeing-international-recognition-reach-2024-11-13/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |last1=Hassan |first1=Mohamed Olad |title=Vote counting underway in Somaliland after peaceful election |url=https://www.voanews.com/a/vote-counting-underway-in-somaliland-after-peaceful-election/7863396.html |work=Voice of America |date=13 November 2024 |access-date=14 November 2024 |archive-date=14 November 2024 |archive-url=https://web.archive.org/web/20241114213401/https://www.voanews.com/a/vote-counting-underway-in-somaliland-after-peaceful-election/7863396.html |url-status=live |language=en}}</ref>",
                   "url": "https://www.voanews.com/a/vote-counting-underway-in-somaliland-after-peaceful-election/7863396.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -201,22 +201,22 @@
                 {
                   "text": "<ref>{{cite web |title=International Election Observation Mission – Preliminary Assessment |url=https://www.horndiplomat.com/wp-content/uploads/2024/11/IEOM-SLD-2024-Preliminary-Assessment.pdf |access-date=13 December 2024 |date=2024}}</ref>",
                   "url": "https://www.horndiplomat.com/wp-content/uploads/2024/11/IEOM-SLD-2024-Preliminary-Assessment.pdf",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |last1=Maruf |first1=Harun |title=Opposition leader wins Somaliland presidential contest |url=https://www.voanews.com/a/opposition-leader-wins-somaliland-presidential-contest/7868957.html |work=Voice of America |access-date=13 December 2024 |language=en |date=19 November 2024}}</ref>",
                   "url": "https://www.voanews.com/a/opposition-leader-wins-somaliland-presidential-contest/7868957.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |last1=Cannon |first1=Brendon J. |last2=Abdi |first2=Rashid |title=Somaliland’s Elections: The Role of International Observers |url=https://africanarguments.org/2024/12/somalilands-elections-the-role-of-international-observers/ |website=African Arguments |access-date=13 December 2024 |date=4 December 2024}}</ref>",
                   "url": "https://africanarguments.org/2024/12/somalilands-elections-the-role-of-international-observers/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -238,7 +238,7 @@
                 {
                   "text": "<ref>{{cite web |date=19 November 2024 |title=Somalia: End of era as Muse Bihi loses in Somaliland election |url=https://www.garoweonline.com/en/news/somaliland/somalia-end-of-era-as-muse-bihi-loses-in-somaliland-election |access-date=19 November 2024 |work=Garowe}}</ref>",
                   "url": "https://www.garoweonline.com/en/news/somaliland/somalia-end-of-era-as-muse-bihi-loses-in-somaliland-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -251,7 +251,7 @@
                 {
                   "text": "<ref>{{citation|title=Opposition leader victorious in self-declared Somaliland elections|date=20 November 2024|author=Mohamed Sheikh Nor|url=https://www.voanews.com/a/opposition-leader-victorious-in-self-declared-somaliland-elections-/7870537.html|work=VOA|access-date=24 November 2024|archive-date=21 November 2024|archive-url=https://web.archive.org/web/20241121045358/https://www.voanews.com/a/opposition-leader-victorious-in-self-declared-somaliland-elections-/7870537.html|url-status=live |language=en}}</ref>",
                   "url": "https://www.voanews.com/a/opposition-leader-victorious-in-self-declared-somaliland-elections-/7870537.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": null
                 }
@@ -264,8 +264,8 @@
                 {
                   "text": "<ref>{{citation|title=Opposition leader Abdirahman 'Irro' wins Somaliland election|first=Gisa|last=Tunbridge|date=19 November 2024|url=https://www.theafricareport.com/368993/opposition-leader-abdirahman-irro-wins-somaliland-presidential-election-by-almost-two-thirds/|publisher=The Africa Report|access-date=24 November 2024|archive-date=20 November 2024|archive-url=https://web.archive.org/web/20241120195421/https://www.theafricareport.com/368993/opposition-leader-abdirahman-irro-wins-somaliland-presidential-election-by-almost-two-thirds/|url-status=live |language=en}}</ref>",
                   "url": "https://www.theafricareport.com/368993/opposition-leader-abdirahman-irro-wins-somaliland-presidential-election-by-almost-two-thirds/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": null
                 }
               ]
@@ -287,21 +287,21 @@
                 {
                   "text": "<ref name=\":0\">{{cite web |date=19 November 2024 |title=Somaliland opposition leader wins presidential election |url=https://apnews.com/article/somaliland-presidential-elections-6a2abc5c16162dea0bffc46333f343bc |access-date=19 November 2024 |work=Associated Press |archive-date=19 November 2024 |archive-url=https://web.archive.org/web/20241119085027/https://apnews.com/article/somaliland-presidential-elections-6a2abc5c16162dea0bffc46333f343bc |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/somaliland-presidential-elections-6a2abc5c16162dea0bffc46333f343bc",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web|date=15 November 2024|title=Ethiopia Congratulates Somaliland Over \"Free and Fair Election\"|url=https://borkena.com/2024/11/15/ethiopia-congratulates-somaliland-over-free-and-fair-election/|publisher=Borkena|access-date=22 November 2024|archive-date=15 November 2024|archive-url=https://web.archive.org/web/20241115182047/https://borkena.com/2024/11/15/ethiopia-congratulates-somaliland-over-free-and-fair-election/|url-status=live}}</ref>",
                   "url": "https://borkena.com/2024/11/15/ethiopia-congratulates-somaliland-over-free-and-fair-election/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |last1=Nor |first1=Omar |title=Somalia’s Prime Minister Congratulates Somaliland’s New President |url=https://shabellemedia.com/somalias-prime-minister-congratulates-somalilands-new-president/ |website=Shabelle Media Network |access-date=13 December 2024 |date=19 November 2024}}</ref>",
                   "url": "https://shabellemedia.com/somalias-prime-minister-congratulates-somalilands-new-president/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -315,8 +315,8 @@
                 {
                   "text": "<ref>{{cite web |date=19 November 2024 |title=US congratulates Somaliland president-elect, praised peaceful transfer of power|url=https://x.com/AsstSecStateAF/status/1858961100517073085|publisher=X (social network)|X}}</ref>",
                   "url": "https://x.com/AsstSecStateAF/status/1858961100517073085",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 400,
+                  "reason": "Bad Request",
                   "type": "web"
                 }
               ]

@@ -14,22 +14,22 @@
                 {
                   "text": "<ref name=\"TVP\">{{Cite web |title=Moldova announces presidential elections, EU accession referendum for October |url=https://tvpworld.com/77035891/moldova-announces-presidential-elections-eu-accession-referendum-for-october |access-date=2024-04-17 |website=TVP World}}</ref>",
                   "url": "https://tvpworld.com/77035891/moldova-announces-presidential-elections-eu-accession-referendum-for-october",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Moldovans cast votes to choose president and decide on EU path as Russian interference claims spike |date=20 October 2024 |url=https://apnews.com/article/moldova-elections-referendum-eu-russia-sandu-9411ab04ffb3230a83a4f8751c4e2414 |access-date=2024-10-20 |publisher=Associated Press}}</ref>",
                   "url": "https://apnews.com/article/moldova-elections-referendum-eu-russia-sandu-9411ab04ffb3230a83a4f8751c4e2414",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"lead\">{{Cite web |title=Moldova's Sandu takes lead in election with 92% of vote counted |url=https://www.reuters.com/world/europe/moldova-holds-presidential-runoff-election-amid-claims-russian-meddling-2024-11-03/ |website=Reuters}}</ref>",
                   "url": "https://www.reuters.com/world/europe/moldova-holds-presidential-runoff-election-amid-claims-russian-meddling-2024-11-03/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 }
               ]
@@ -41,21 +41,21 @@
                 {
                   "text": "<ref name=\":3\">{{Cite web |title=Moldovans go to polls to decide whether future lies with Russia or the west |url=https://www.theguardian.com/world/2024/oct/19/moldova-presidential-election-eu-referendum-future-russia-west |access-date=2024-10-21 |website=amp.theguardian.com}}</ref>",
                   "url": "https://www.theguardian.com/world/2024/oct/19/moldova-presidential-election-eu-referendum-future-russia-west",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"bbcrunoff2\">{{Cite news |date=2024-11-03 |title=Moldova's pro-EU leader in tight run-off as Russia accused of meddling |url=https://www.bbc.com/news/articles/cq6lyzj9dddo |access-date=2024-11-03 |work=BBC |language=en-GB}}</ref>",
                   "url": "https://www.bbc.com/news/articles/cq6lyzj9dddo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |last=iuliane |date=2024-10-21 |title=Tight outcome in Moldova's pro-EU public referendum and presidential elections |url=https://www.romania-insider.com/moldova-referendum-presidential-elections-october-2024 |access-date=2024-11-03 |website=Romania Insider |language=en}}</ref>",
                   "url": "https://www.romania-insider.com/moldova-referendum-presidential-elections-october-2024",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -68,23 +68,23 @@
                 {
                   "text": "<ref>{{Cite web |title=Early results show 50% of Moldovans vote \"yes\" at referendum on EU aspirations |url=https://www.reuters.com/world/europe/early-results-show-50-moldovans-vote-yes-referendum-eu-aspirations-2024-10-21/ |website=Reuters}}</ref>",
                   "url": "https://www.reuters.com/world/europe/early-results-show-50-moldovans-vote-yes-referendum-eu-aspirations-2024-10-21/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Moldova, Presidential Election and Constitutional Referendum, 20 October 2024: Statement of Preliminary Findings and Conclusions |url=https://www.osce.org/odihr/elections/moldova/578815 |access-date=28 October 2024 |website=www.osce.org |publisher=OSCE |language=en}}</ref>",
                   "url": "https://www.osce.org/odihr/elections/moldova/578815",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
-                  "text": "<ref name=\":8\">{{Cite web |date=20 October 2024 |title=Moldovans cast votes to choose president and decide on EU path as Russian interference claims spike |url=https://apnews.com/article/moldova-elections-referendum-eu-russia-sandu-9411ab04ffb3230a83a4f8751c4e2414 |access-date=2024-10-20 |publisher=Associated Press}}</ref>",
+                  "text": "<ref name=\":8\">{{Cite news |date=20 October 2024 |title=Moldovans cast votes to choose president and decide on EU path as Russian interference claims spike |url=https://apnews.com/article/moldova-elections-referendum-eu-russia-sandu-9411ab04ffb3230a83a4f8751c4e2414 |access-date=2024-10-20 |work=Associated Press}}</ref>",
                   "url": "https://apnews.com/article/moldova-elections-referendum-eu-russia-sandu-9411ab04ffb3230a83a4f8751c4e2414",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
-                  "type": "web"
+                  "type": "news"
                 }
               ]
             }
@@ -109,14 +109,14 @@
                     {
                       "text": "<ref name=\"TVP\"/> The decision was approved by the Parliament of Moldova on 16 May.<ref>{{Cite web |date=16 May 2024 |title=Moldova to hold referendum on joining EU in October |url=https://kyivindependent.com/moldova-to-hold-referendum-on-joining-eu-in-october/ |website=The Kyiv Independent}}</ref>",
                       "url": "https://kyivindependent.com/moldova-to-hold-referendum-on-joining-eu-in-october/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=16 May 2024 |title=Moldova To Hold Presidential Vote, EU Referendum In October |url=https://www.rferl.org/a/moldova-referendum-sandu-eu/32951121.html |publisher=Radio Free Europe/Radio Liberty}}</ref>",
                       "url": "https://www.rferl.org/a/moldova-referendum-sandu-eu/32951121.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -139,7 +139,7 @@
                     {
                       "text": "<ref>{{Cite web |title=Moldova (Republic of) 1994 (rev. 2016) Constitution |url=https://www.constituteproject.org/constitution/Moldova_2016 |access-date=2024-11-03 |website=constituteproject.org |language=en}}</ref>",
                       "url": "https://www.constituteproject.org/constitution/Moldova_2016",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -161,15 +161,15 @@
                   "references": [
                     {
                       "text": "<ref>{{cite web |url=http://old.cec.md/files/files/Legi/tabel_regulamente/Regulament%20privind%20modul%20de%20%C3%AEntocmire%2C%20prezentare%20si%20verificare%20a%20listelor%20de%20subscriptie.pdf |title= Regulations |date=3 July 2018 |website=old.cec.md |access-date=2020-11-02}}</ref>",
-                      "url": "http://old.cec.md/files/files/Legi/tabel_regulamente/Regulament%20privind%20modul%20de%20%C3%AEntocmire%2C%20prezentare%20si%20verificare%20a%20listelor%20de%20subscriptie.pdf",
-                      "status_code": null,
+                      "url": "https://old.cec.md/files/files/Legi/tabel_regulamente/Regulament%20privind%20modul%20de%20%C3%AEntocmire,%20prezentare%20si%20verificare%20a%20listelor%20de%20subscriptie.pdf",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://diez.md/2024/10/18/tot-ce-trebuie-sa-stii-despre-alegerile-prezidentiale-din-20-octombrie-2024/|title=Tot ce trebuie să știi despre alegerile prezidențiale din 20 octombrie 2024|first=Nicoleta|last=Botnaru|work=#diez|date=18 October 2024|language=ro}}</ref>",
                       "url": "https://diez.md/2024/10/18/tot-ce-trebuie-sa-stii-despre-alegerile-prezidentiale-din-20-octombrie-2024/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
@@ -177,7 +177,7 @@
                       "text": "<ref>{{Cite web|url=http://www.presedinte.md/rom/statutul-si-atributiile|title=Statutul și atribuțiile președintelui Republicii Moldova|website=www.presedinte.md}}</ref>",
                       "url": "http://www.presedinte.md/rom/statutul-si-atributiile",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Cannot connect to host presedinte.md:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]",
                       "type": "web"
                     }
                   ]
@@ -201,7 +201,7 @@
                 {
                   "text": "<ref>{{Cite news |last=Sauer |first=Pjotr |date=2024-10-20 |title=Moldova president condemns 'assault' on democracy by 'foreign forces' as EU vote hangs in balance |url=https://www.theguardian.com/world/2024/oct/21/moldova-election-maia-sandu |access-date=2024-10-23 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>",
                   "url": "https://www.theguardian.com/world/2024/oct/21/moldova-election-maia-sandu",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -214,36 +214,36 @@
                 {
                   "text": "<ref>{{Cite web |date=13 June 2024 |title=US, Britain, Canada accuse Russia of plot to sway Moldova election |url=https://www.reuters.com/world/us-britain-canada-accuse-russia-plot-influence-moldova-election-2024-06-13/ |access-date= |website=Reuters}}</ref>",
                   "url": "https://www.reuters.com/world/us-britain-canada-accuse-russia-plot-influence-moldova-election-2024-06-13/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Exposing Russia's subversive activity and electoral interference targeting Moldova: joint statement by the US, Canada, and the UK |url=https://www.gov.uk/government/news/joint-statement-by-the-governments-of-the-united-states-of-america-canada-and-the-united-kingdom-exposing-russias-subversive-activity-and-electoral |access-date=2024-10-23 |website=GOV.UK |language=en}}</ref>",
                   "url": "https://www.gov.uk/government/news/joint-statement-by-the-governments-of-the-united-states-of-america-canada-and-the-united-kingdom-exposing-russias-subversive-activity-and-electoral",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Joint Statement Exposing Russia's Subversive Activity and Electoral Interference Targeting Moldova |url=https://www.state.gov/joint-statement-exposing-russias-subversive-activity-and-electoral-interference-targeting-moldova/ |access-date=2024-10-23 |website=United States Department of State |language=en}}</ref>",
                   "url": "https://www.state.gov/joint-statement-exposing-russias-subversive-activity-and-electoral-interference-targeting-moldova/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=13 June 2024 |title=Joint Statement by the Governments of the United States of America, Canada, and the United Kingdom Exposing Russia's Subversive Activity and Electoral Interference Targeting Moldova |url=https://www.canada.ca/en/global-affairs/news/2024/06/joint-statement-by-the-governments-of-the-united-states-of-america-canada-and-the-united-kingdom-exposing-russias-subversive-activity-and-electoral.html |access-date=2024-10-23 |website=Government of Canada}}</ref>",
                   "url": "https://www.canada.ca/en/global-affairs/news/2024/06/joint-statement-by-the-governments-of-the-united-states-of-america-canada-and-the-united-kingdom-exposing-russias-subversive-activity-and-electoral.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |title=US sanctions pro-Russia governor of Moldova's Gagauzia region |url=https://www.reuters.com/world/us-sanctions-pro-russia-governor-moldovas-gagauzia-region-2024-06-12/ |work=Reuters}}</ref>",
                   "url": "https://www.reuters.com/world/us-sanctions-pro-russia-governor-moldovas-gagauzia-region-2024-06-12/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 }
               ]
@@ -255,35 +255,35 @@
                 {
                   "text": "<ref>{{Cite web|url=https://kyivindependent.com/moldovan-broadcasters-headquarters-targeted-in-pre-election-vandalism-spree/ |title=Moldovan broadcaster's headquarters targeted in pre-election vandalism spree |website=The Kyiv Independent |date=29 September 2024}}</ref>",
                   "url": "https://kyivindependent.com/moldovan-broadcasters-headquarters-targeted-in-pre-election-vandalism-spree/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://kyivindependent.com/moldova-uncovers-15-million-russian-backed-plot-to-influence-upcoming-elections-with-bribes-and-disinformation/ |title=Moldova uncovers $15 million Russian-backed plot to influence upcoming elections with bribes and disinformation |website=The Kyiv Independent |date=4 October 2024}}</ref>",
                   "url": "https://kyivindependent.com/moldova-uncovers-15-million-russian-backed-plot-to-influence-upcoming-elections-with-bribes-and-disinformation/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://www.themoscowtimes.com/2024/10/03/moldova-uncovers-unprecedented-pro-russia-vote-rigging-a86567 |title=Moldova Uncovers 'Unprecedented' Pro-Russia Vote Rigging |website=The Moscow Times |date=3 October 2024}}</ref>",
                   "url": "https://www.themoscowtimes.com/2024/10/03/moldova-uncovers-unprecedented-pro-russia-vote-rigging-a86567",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://www.themoscowtimes.com/2024/10/14/kremlin-denies-meddling-in-moldovas-elections-a86678 |title=Kremlin Denies Meddling in Moldova's Elections |website=The Moscow Times |date=13 October 2024}}</ref>",
-                  "url": "https://www.themoscowtimes.com/2024/10/14/kremlin-denies-meddling-in-moldovas-elections-a86678",
-                  "status_code": null,
+                  "url": "https://www.themoscowtimes.com/2024/10/14/kremlin-denies-meddling-in-moldovas-upcoming-election-a86678",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |url=https://www.bbc.com/news/articles/c23kdjxxx1jo |title=Russian cash-for-votes flows into Moldova as nation heads to polls |website=BBC |date=19 October 2024}}</ref>",
                   "url": "https://www.bbc.com/news/articles/c23kdjxxx1jo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -296,28 +296,28 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-10-14 |title=EU Sanctions Moldova's Regional Gagauz Leaders Ahead of Key Vote |url=https://www.yahoo.com/news/eu-sanctions-moldova-regional-gagauz-143106329.html |access-date=2024-10-23 |website=Yahoo News |language=en-US}}</ref>",
                   "url": "https://www.yahoo.com/news/eu-sanctions-moldova-regional-gagauz-143106329.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Moldova: President Maia Sandu accuses 'foreign forces' of voter fraud |url=https://news.sky.com/story/moldova-president-maia-sandu-accuses-foreign-forces-of-voter-fraud-13238054 |access-date=2024-10-23 |website=Sky News |language=en}}</ref>",
                   "url": "https://news.sky.com/story/moldova-president-maia-sandu-accuses-foreign-forces-of-voter-fraud-13238054",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-10-16 |title=Statement by the U.S. Embassy in Moldova {{!}} Oct. 16, 2024 |url=https://md.usembassy.gov/press-statement-oct16/ |access-date=2024-10-23 |website=U.S. Embassy in Moldova |language=en-US}}</ref>",
                   "url": "https://md.usembassy.gov/press-statement-oct16/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |url=https://www.themoscowtimes.com/2024/10/16/moldova-says-russia-planning-to-illegally-bus-in-voters-to-moscow-polling-stations-a86716 |title=Moldova Says Russia Planning to Illegally Bus In Voters to Moscow Polling Stations |website=The Moscow Times |date=16 October 2024}}</ref>",
                   "url": "https://www.themoscowtimes.com/2024/10/16/moldova-says-russia-planning-to-illegally-bus-in-voters-to-moscow-polling-stations-a86716",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -330,7 +330,7 @@
                 {
                   "text": "<ref>{{Cite web |url=https://apnews.com/article/moldova-election-eu-referendum-russia-639974a2d3acd8d647e787ede0fcbe24 |title=EU candidate Moldova to hold two pivotal votes as officials denounce Russian 'hybrid attacks' |website=Associated Press |date=19 October 2024}}</ref>",
                   "url": "https://apnews.com/article/moldova-election-eu-referendum-russia-639974a2d3acd8d647e787ede0fcbe24",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -343,7 +343,7 @@
                 {
                   "text": "<ref>{{Cite web |url=https://www.lrt.lt/en/news-in-english/19/2394398/lithuanian-led-cyber-response-team-deployed-in-moldova-during-election |title=Lithuanian-led cyber response team deployed in Moldova during election |website=LRT |date=23 October 2024}}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2394398/lithuanian-led-cyber-response-team-deployed-in-moldova-during-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -351,26 +351,26 @@
             },
             {
               "id": "3.s7",
-              "text": "On 31 October, authorities raided a political party headquarters and accused 12 people of engaging in vote-buying. Forty government employees were also placed under investigation for selling their votes. On 1 November, Prime Minister Dorin Recean reported cases of \"anonymous death threats via phone calls\" being made on citizens nationwide, which he described as an attempt to scare voters. On the day of the runoff vote, the CEC said that it had received reports of organised and illegal transportation of voters to Russia, Belarus, Azerbaijan and Turkey. Stanislav Secrieru, a national security adviser to Sandu, wrote on X: \"We are seeing massive interference by Russia in our electoral process,\" which he said had a \"high potential to distort the outcome\" of the vote.",
+              "text": "On 31 October, authorities raided a political party headquarters and accused 12 people of engaging in vote-buying. Forty government employees were also placed under investigation for selling their votes. On 1 November, Prime Minister of Moldova|Prime Minister Dorin Recean reported cases of \"anonymous death threats via phone calls\" being made on citizens nationwide, which he described as an attempt to scare voters. On the day of the runoff vote, the CEC said that it had received reports of organised and illegal transportation of voters to Russia, Belarus, Azerbaijan and Turkey. Stanislav Secrieru, a national security adviser to Sandu, wrote on X: \"We are seeing massive interference by Russia in our electoral process,\" which he said had a \"high potential to distort the outcome\" of the vote.",
               "references": [
                 {
                   "text": "<ref>{{Cite news |date=2024-11-03 |title=Moldovans vote in tense presidential run-off amid Russian meddling claims |url=https://www.aljazeera.com/news/2024/11/3/moldovans-vote-in-tense-presidential-run-off-amid-russian-meddling-claims |access-date=2024-11-03 |work=Al Jazeera |language=en-GB }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/11/3/moldovans-vote-in-tense-presidential-run-off-amid-russian-meddling-claims",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"bbcrunoff\">{{Cite news |date=2024-11-03 |title=Moldova's pro-EU leader in tight run-off as Russia accused of meddling |url=https://www.bbc.com/news/articles/cq6lyzj9dddo |access-date=2024-11-03 |work=BBC |language=en-GB }}</ref>",
                   "url": "https://www.bbc.com/news/articles/cq6lyzj9dddo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-11-03 |title=Moldovans choose president in decisive runoff overshadowed by fraud and intimidation claims |url=https://apnews.com/article/moldova-presidential-election-russia-corruption-fraud-5886447779a4a818e9f30fdadcb8bbe5 |access-date=2024-11-03 |website=AP News |language=en}}</ref>",
                   "url": "https://apnews.com/article/moldova-presidential-election-russia-corruption-fraud-5886447779a4a818e9f30fdadcb8bbe5",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -383,14 +383,14 @@
                 {
                   "text": "<ref name=\"bbcresult\">{{Cite news |date=2024-11-04 |title=Pro-EU leader claims Moldova victory despite alleged Russian meddling |url=https://www.bbc.com/news/articles/cz7w9dglzzlo |access-date=2024-11-04 |work=BBC |language=en-GB}}</ref>",
                   "url": "https://www.bbc.com/news/articles/cz7w9dglzzlo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\":1\">{{Cite news |last=Rankin |first=Jennifer |date=2024-11-04 |title=Germany accuses Russia of 'massive' effort to stop Moldovans abroad voting |url=https://www.theguardian.com/world/2024/nov/04/moldova-president-maia-sandu-wins-western-praise-for-election-triumph |access-date=2024-11-05 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>",
                   "url": "https://www.theguardian.com/world/2024/nov/04/moldova-president-maia-sandu-wins-western-praise-for-election-triumph",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -403,14 +403,14 @@
                 {
                   "text": "<ref>{{Cite web |title=Russia summons Moldova's ambassador over 'hostile' attitude to Russian election observers |url=https://kyivindependent.com/russia-summons-moldovas-ambassador-over-hostile-attitude-to-russian-election-observers/ |access-date=2024-11-07 |website=The Kyiv Independent |date=7 November 2024 }}</ref>",
                   "url": "https://kyivindependent.com/russia-summons-moldovas-ambassador-over-hostile-attitude-to-russian-election-observers/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Moldova formally protests alleged Russian election meddling |url=https://www.aljazeera.com/news/2024/11/12/moldova-formally-protests-alleged-russian-election-meddling |access-date=2024-11-12 |website=Al Jazeera |date=12 November 2024 }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/11/12/moldova-formally-protests-alleged-russian-election-meddling",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -437,7 +437,7 @@
                     {
                       "text": "<ref name=\"adv\">{{cite news|url=https://adevarul.ro/stiri-externe/republica-moldova/premiera-la-prezidentiale-si-referendumul-din-2395915.html|title=Premieră la prezidențiale și referendumul din Republica Moldova: buletine de vot în șase limbi|first=Alina|last=Cotoros|newspaper=Adevărul|date=20 October 2024|language=ro}}</ref>",
                       "url": "https://adevarul.ro/stiri-externe/republica-moldova/premiera-la-prezidentiale-si-referendumul-din-2395915.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -450,14 +450,14 @@
                     {
                       "text": "<ref name=\"time\">{{cite news|url=https://www.france24.com/en/europe/20241020-moldovans-vote-in-presidential-election-referendum-on-joining-eu |title=Moldovans elect president, vote on EU path as claims of Russian meddling spike |work=France 24 |date=20 October 2024|language=en}}</ref>",
                       "url": "https://www.france24.com/en/europe/20241020-moldovans-vote-in-presidential-election-referendum-on-joining-eu",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://agora.md/2024/10/20/prezidentiale-prezenta-la-vot-a-depasit-pragul-de-validare|title=Prezidențiale: Prezența la vot a depășit pragul de validare|first=Capitolina|last=Turculeț|newspaper=Agora|date=20 October 2024|language=ro}}</ref>",
                       "url": "https://agora.md/2024/10/20/prezidentiale-prezenta-la-vot-a-depasit-pragul-de-validare",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -480,7 +480,7 @@
                     {
                       "text": "<ref name=\"bbcrunoff\" /> Promo-LEX observers detected 109 incidents at polling stations or in their immediate vicinity. These included the presence of electoral advertising material near polling stations, electoral agitation, the unjustified presence of unauthorized persons, violations of the secrecy of the vote, obstruction of access to observers and unjustified interruption of the vote.<ref>{{cite news|url=https://stirileprotv.ro/stiri/international/alegeri-in-r-moldova-peste-100-de-incidente-identificate-promo-lex-zcazuri-de-transportare-organizata-a-alegatorilor.html|title=Alegeri în R. Moldova. Peste 100 de incidente, identificate. Promo-LEX: \"Cazuri de transportare organizată a alegătorilor\"|first=Lorena|last=Mihăilă|publisher=Pro TV|date=3 November 2024|language=ro}}</ref>",
                       "url": "https://stirileprotv.ro/stiri/international/alegeri-in-r-moldova-peste-100-de-incidente-identificate-promo-lex-zcazuri-de-transportare-organizata-a-alegatorilor.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -503,21 +503,21 @@
                     {
                       "text": "<ref name=\":9\">{{Cite web |last=Tanas |first=Alexander |date=September 20, 2024 |title=Sandu launches Moldova re-election bid, referendum campaign on joining EU |url=https://www.reuters.com/world/europe/sandu-launches-moldova-re-election-bid-referendum-campaign-joining-eu-2024-09-20/ |website=Reuters}}</ref>",
                       "url": "https://www.reuters.com/world/europe/sandu-launches-moldova-re-election-bid-referendum-campaign-joining-eu-2024-09-20/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |last=Sauer |first=Pjotr |date=2024-11-03 |title=Moldova votes for president in runoff election as Russia hovers |url=https://www.theguardian.com/world/2024/nov/03/moldova-votes-president-unoff-election-as-russia-hovers |access-date=2024-11-03 |work=The Guardian |language=en-GB |issn=0029-7712}}</ref>",
                       "url": "https://www.theguardian.com/world/2024/nov/03/moldova-votes-president-unoff-election-as-russia-hovers",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Polls close in Moldova's tense presidential runoff – DW – 11/03/2024 |url=https://www.dw.com/en/polls-close-in-moldovas-tense-presidential-runoff/a-70671232 |access-date=2024-11-03 |website=dw.com |language=en}}</ref>",
-                      "url": "https://www.dw.com/en/polls-close-in-moldovas-tense-presidential-runoff/a-70671232",
-                      "status_code": null,
+                      "url": "https://www.dw.com/en/moldova-pro-eu-sandu-wins-presidential-runoff/a-70671232",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -530,8 +530,8 @@
                     {
                       "text": "<ref name=\":0\" /> He expressed his intention to bridge differences with Moldova's separatist Transnistria|Transdniestria region. In response to accusations, Stoianoglo stated that he had no connections to Ilan Shor, the fugitive pro-Russian businessman who admitted to paying voters to cast \"no\" ballots in the 2024 Moldovan European Union membership referendum|EU membership referendum.<ref name=\":10\">{{Cite web |last=Tanas |first=Alexander |date=October 30, 2024 |title=Moldovan presidential challenger Stoianoglo seeks measured movement to Europe, prepared to meet Putin |url=https://www.reuters.com/world/europe/moldovan-presidential-challenger-stoianoglo-seeks-measured-movement-europe-2024-10-29/?utm}}</ref>",
                       "url": "https://www.reuters.com/world/europe/moldovan-presidential-challenger-stoianoglo-seeks-measured-movement-europe-2024-10-29/?utm}}</ref>",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "web"
                     }
                   ]
@@ -555,7 +555,7 @@
                 {
                   "text": "<ref>{{cite news|url=https://epde.org/?news=promo-lex-released-the-second-report-of-the-observation-mission-for-the-election-on-20-october|title=Promo-LEX released the second report of the Observation Mission for the election on 20 October|publisher=European Platform for Democratic Elections|date=25 September 2024}}</ref>",
                   "url": "https://epde.org/?news=promo-lex-released-the-second-report-of-the-observation-mission-for-the-election-on-20-october",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -568,49 +568,49 @@
                 {
                   "text": "<ref>{{Cite web|title=Maia Sandu registered as a candidate for presidency|url=https://www.ipn.md/en/maia-sandu-registered-as-a-candidate-for-presidency-8013_1107227.html|publisher=IPN Press Agency|date=12 September 2024 }}</ref>",
                   "url": "https://www.ipn.md/en/maia-sandu-registered-as-a-candidate-for-presidency-8013_1107227.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|title=CEC registers first candidate for office of President\n|url=https://www.ipn.md/en/cec-registers-first-candidate-for-office-of-president-8013_1106942.html|publisher=IPN Press Agency|date=2 September 2024 }}</ref>",
                   "url": "https://www.ipn.md/en/cec-registers-first-candidate-for-office-of-president-8013_1106942.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|title=Renato Usatyi and Vasile Tarlev officially registered as presidential candidates|url=https://www.ipn.md/en/renato-usatyi-and-vasile-tarlev-officially-registered-as-presidential-candidates-8013_1107404.html|publisher=IPN Press Agency|date=18 September 2024 }}</ref>",
                   "url": "https://www.ipn.md/en/renato-usatyi-and-vasile-tarlev-officially-registered-as-presidential-candidates-8013_1107404.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|title=Renato Usatyi and Vasile Tarlev officially registered as presidential candidates|url=https://www.ipn.md/en/renato-usatyi-and-vasile-tarlev-officially-registered-as-presidential-candidates-8013_1107404.html|publisher=IPN Press Agency|date=18 September 2024}}</ref>",
                   "url": "https://www.ipn.md/en/renato-usatyi-and-vasile-tarlev-officially-registered-as-presidential-candidates-8013_1107404.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"auto4\">{{Cite web|title=The CEC registered two candidates in the presidential elections and one participant in the referendum|url=https://a.cec.md/ro/cec-a-inregistrat-doi-candidati-la-alegerile-prezidentiale-si-2781_111332.html|publisher=Central Electoral Commission of Moldova|language=ro|date=21 September 2024}}</ref>",
                   "url": "https://a.cec.md/ro/cec-a-inregistrat-doi-candidati-la-alegerile-prezidentiale-si-2781_111332.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"auto4\"/>\n|-\n|<br />'''Andrei Năstase'''\n|6 August 1975 ({{age nts|1975|8|6}})<br/>Mîndrești, Telenești District|Telenești\n|<br />([https://andreinastase.md/ website])\n|'''Government of Moldova|Deputy Prime Minister''', '''Ministry of Internal Affairs (Moldova)|Minister of Internal Affairs''' (2019)\n| style=background:{{party color|Independent politician}}|\n|Independent\n|{{yes|Registered}}<ref name=\"auto2\">{{Cite web|title=The CEC registered two candidates in the presidential elections and three participants in the referendum|url=https://a.cec.md/ro/cec-a-inregistrat-doi-candidati-la-alegerile-prezidentiale-si-2781_111358.html|publisher=Central Electoral Commission of Moldova|language=ro|date=23 September 2024}}</ref>",
                   "url": "https://a.cec.md/ro/cec-a-inregistrat-doi-candidati-la-alegerile-prezidentiale-si-2781_111358.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"auto2\"/>\n|-\n|'''Victoria Furtună'''\n|24 February 1981 ({{age nts|1981|2|24}})<br/>Hîncești\n|<br />([https://victoriafurtuna.md/ website])\n|'''Anti-corruption prosecutor'''\n| style=background:{{party color|Independent politician}}|\n|Independent\n|{{yes|Registered}}<ref name=\"auto1\">{{Cite web|title=CEC registered the last candidates nominated for the presidential elections of October 20, 2024|url=https://a.cec.md/ro/cec-a-inregistrat-ultimii-candidati-desemnati-la-alegerile-prezidentiale-2781_111380.html|publisher=Central Electoral Commission of Moldova|language=ro|date=24 September 2024}}</ref>",
                   "url": "https://a.cec.md/ro/cec-a-inregistrat-ultimii-candidati-desemnati-la-alegerile-prezidentiale-2781_111380.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -631,63 +631,63 @@
                     {
                       "text": "<ref>{{cite web |title=COALITION FOR UNITY AND WELFARE (CUB) REFUSES TO SUPPORT OCTAVIAN ȚÎCU AS PRESIDENTIAL CANDIDATE |url=https://www.infotag.md/politics-en/318134/ |website=infotag.md |date=9 August 2024 |access-date=18 October 2024}}</ref>",
                       "url": "https://www.infotag.md/politics-en/318134/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"munteanu\">{{cite news|url=https://www.zdg.md/stiri/candidatul-cub-igor-munteanu-nu-va-putea-candida-la-prezidentiale/|title=Candidatul CUB Igor Munteanu nu va putea candida la prezidențiale. Reacția: instrument de represalii politice contra candidaților incomozi|newspaper=Ziarul de Gardă|date=24 September 2024|language=ro}}</ref>",
                       "url": "https://www.zdg.md/stiri/candidatul-cub-igor-munteanu-nu-va-putea-candida-la-prezidentiale/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\":20\">{{cite news|url=https://www.zdg.md/stiri/douazeci-au-vrut-13-au-reusit-cine-sunt-candidatii-la-functia-de-presedinte-care-au-convins-cec-sa-le-inscrie-grupurile-de-initiativa-care-ii-vor-sustine-in-cursa-electorala/|title=Douăzeci au vrut, 13 au reușit. Cine sunt candidații la funcția de președinte care au convins CEC să le înscrie grupurile de inițiativă care îi vor susține în cursa electorală|newspaper=Ziarul de Gardă|date=4 September 2024|language=ro}}</ref>",
                       "url": "https://www.zdg.md/stiri/douazeci-au-vrut-13-au-reusit-cine-sunt-candidatii-la-functia-de-presedinte-care-au-convins-cec-sa-le-inscrie-grupurile-de-initiativa-care-ii-vor-sustine-in-cursa-electorala/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"munteanu\" />\n* Vasile Bolea (independent), Member of the Moldovan Parliament (2014–present); the CEC rejected his registration as a candidate, arguing that he was backed by the bloc Victory (political bloc)|Victory and the party Revival Party (Moldova)|Revival despite having claimed to have disassociated himself from Revival to participate as an independent candidate. Revival is part of the bloc Victory, led by fugitive Moldovan oligarch Ilan Shor. The CEC did not allow Victory to participate in the election.<ref>{{cite news|url=https://newsmaker.md/ro/vasile-bolea-candidat-independent-la-alegerile-prezidentiale-respins-de-cec/|title=Vasile Bolea, candidat independent la alegerile prezidențiale, respins de CEC|first=Cristina|last=Stratulat|work=NewsMaker|date=29 August 2024|language=ro}}</ref>",
-                      "url": "https://newsmaker.md/ro/vasile-bolea-candidat-independent-la-alegerile-prezidentiale-respins-de-cec/",
-                      "status_code": null,
+                      "url": "https://newsmaker.md/ro/vasile-bolea-candidat-independent-la-alegerile-prezidentiale-respins-de-cec",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://unimedia.info/ro/news/a703c5cb0d215850/ultima-ora-cec-a-respins-cererea-de-inregistrare-a-grupului-de-initiativa-al-psde-pentru-sustinerea-lui-valeriu-plesca-la-prezidentiale.html|title=Ultima oră! CEC a respins cererea de înregistrare a grupului de inițiativă al PSDE pentru susținerea lui Valeriu Pleșca la prezidențiale|website=Unimedia|date=24 August 2024|language=ro}}</ref>",
                       "url": "https://unimedia.info/ro/news/a703c5cb0d215850/ultima-ora-cec-a-respins-cererea-de-inregistrare-a-grupului-de-initiativa-al-psde-pentru-sustinerea-lui-valeriu-plesca-la-prezidentiale.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://unimedia.info/ro/news/b0e43510229768c7/inca-un-candidat-independent-rateaza-prezidentialele-un-fost-membru-pace-care-s-a-vrut-primar-de-briceni-nu-intra-in-cursa-pentru-presedintie.html|title=Încă un candidat independent ratează prezidențialele: Un fost membru PACE, care s-a vrut primar de Briceni, nu intră în cursa pentru Președinție|website=Unimedia|date=2 September 2024|language=ro}}</ref>",
                       "url": "https://unimedia.info/ro/news/b0e43510229768c7/inca-un-candidat-independent-rateaza-prezidentialele-un-fost-membru-pace-care-s-a-vrut-primar-de-briceni-nu-intra-in-cursa-pentru-presedintie.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://newsmaker.md/ro/pentru-ca-nu-cunoaste-limba-romana-grupul-de-initiativa-al-ludmilei-corsun-la-prezidentiale-a-fost-respins-de-cec/|title=Pentru că nu cunoaște limba română, grupul de inițiativă al Ludmilei Corsun la prezidențiale a fost respins de CEC|first=Cristina|last=Stratulat|work=NewsMaker|date=24 August 2024|language=ro}}</ref>",
-                      "url": "https://newsmaker.md/ro/pentru-ca-nu-cunoaste-limba-romana-grupul-de-initiativa-al-ludmilei-corsun-la-prezidentiale-a-fost-respins-de-cec/",
-                      "status_code": null,
+                      "url": "https://newsmaker.md/ro/pentru-ca-nu-cunoaste-limba-romana-grupul-de-initiativa-al-ludmilei-corsun-la-prezidentiale-a-fost-respins-de-cec",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://radiochisinau.md/electorala-2024-cec-a-respins-solicitarile-de-inregistrare-a-doua-grupuri-de-initiativa---200676.html|title=Electorala 2024: CEC a respins solicitările de înregistrare a două grupuri de inițiativă|publisher=Radio Chișinău|date=2 September 2024|language=ro}}</ref>",
                       "url": "https://radiochisinau.md/electorala-2024-cec-a-respins-solicitarile-de-inregistrare-a-doua-grupuri-de-initiativa---200676.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://www.zdg.md/stiri/cec-respinge-repetat-inregistrarea-grupului-de-initiativa-in-sustinerea-lui-avelin-tabarcea-asociat-cu-ilan-sor/|title=CEC respinge repetat înregistrarea grupului de inițiativă în susținerea lui Avelin Tabarcea, asociat cu Ilan Șor|newspaper=Ziarul de Gardă|date=14 September 2024|language=ro}}</ref>",
                       "url": "https://www.zdg.md/stiri/cec-respinge-repetat-inregistrarea-grupului-de-initiativa-in-sustinerea-lui-avelin-tabarcea-asociat-cu-ilan-sor/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -700,14 +700,14 @@
                     {
                       "text": "<ref>{{cite news|url=https://www.zdg.md/stiri/cec-a-stabilit-ordinea-de-inscriere-in-buletinul-de-vot-a-candidatilor-la-alegerile-prezidentiale/|title=CEC a stabilit ordinea de înscriere în buletinul de vot a candidaților la alegerile prezidențiale|newspaper=Ziarul de Gardă|date=25 September 2024|language=ro}}</ref>",
                       "url": "https://www.zdg.md/stiri/cec-a-stabilit-ordinea-de-inscriere-in-buletinul-de-vot-a-candidatilor-la-alegerile-prezidentiale/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://moldova.europalibera.org/a/33128792.html|title=Patru candidați la prezidențiale au fost înregistrați, iar alți opt stau la rând|first=Iurie|last=Rotari|publisher=Radio Europa Liberă Moldova|date=21 September 2024|language=ro}}</ref>",
                       "url": "https://moldova.europalibera.org/a/33128792.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -715,19 +715,33 @@
                 },
                 {
                   "id": "5.2.s3",
-                  "text": "''Ziarul de Gardă'' also listed Vlad Filat and Ștefan Savițchi among the people that intended to run as a candidate in the election who either failed to submit the necessary documents to the CEC or whose applications were rejected. later stating that he had \"parted nicely\" from the ALDE.",
+                  "text": "''Ziarul de Gardă'' also listed Vlad Filat and Ștefan Savițchi among the people that intended to run as a candidate in the election who either failed to submit the necessary documents to the CEC or whose applications were rejected. The PLDM had decided to nominate Filat for the election on 31 May. On the other hand, Savițchi was the vicepresident of the Alliance of Liberals and Democrats for Europe (Moldova)|Alliance of Liberals and Democrats for Europe (ALDE) and announced on 30 July his intention to run as an independent candidate, later stating that he had \"parted nicely\" from the ALDE.",
                   "references": [
                     {
-                      "text": "<ref name=\":20\" /> Savițchi was the vicepresident of the Alliance of Liberals and Democrats for Europe (Moldova)|Alliance of Liberals and Democrats for Europe (ALDE) and announced on 30 July his intention to run as an independent candidate,<ref>{{cite news|url=https://esp.md/ro/sobytiya/2024/08/01/stefan-savitchi-vicepresedintele-alde-va-candida-la-presedintie|title=Ștefan Savițchi, vicepreședintele ALDE, va candida la președinție|first=Serghei|last=Stașevschi|newspaper=Gazeta SP|date=1 August 2024|language=ro}}</ref>",
+                      "text": "<ref name=\":20\" /> Filat, former Moldovan prime minister and then president of the Liberal Democratic Party of Moldova (PLDM), stated that he was unable to run because the government failed to implement a 2023 ruling by the European Court of Human Rights (ECtHR) which determined that the authorities had violated his right to a fair trial in 2016 in relation to a passive corruption and influence peddling case because the court hearings were held behind closed doors.<ref>{{cite news|url=https://moldova.europalibera.org/a/liderul-pldm-vlad-filat-spune-ca-nu-va-putea-candida-la-prezidentiale/33092684.html|title=Liderul PLDM, Vlad Filat, spune că nu va putea candida la prezidențiale|publisher=Radio Europa Liberă Moldova|date=26 August 2024|language=ro}}</ref>",
+                      "url": "https://moldova.europalibera.org/a/liderul-pldm-vlad-filat-spune-ca-nu-va-putea-candida-la-prezidentiale/33092684.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|url=https://stiri.md/article/politica/vlad-filat-va-candida-la-alegerile-prezidentiale-anuntul-pldm/|title=Vlad Filat va candida la alegerile prezidențiale: Anunțul PLDM|newspaper=Știri.md|date=3 June 2024|language=ro}}</ref>",
+                      "url": "https://stiri.md/article/politica/vlad-filat-va-candida-la-alegerile-prezidentiale-anuntul-pldm",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|url=https://esp.md/ro/sobytiya/2024/08/01/stefan-savitchi-vicepresedintele-alde-va-candida-la-presedintie|title=Ștefan Savițchi, vicepreședintele ALDE, va candida la președinție|first=Serghei|last=Stașevschi|newspaper=Gazeta SP|date=1 August 2024|language=ro}}</ref>",
                       "url": "https://esp.md/ro/sobytiya/2024/08/01/stefan-savitchi-vicepresedintele-alde-va-candida-la-presedintie",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://stiri.md/article/politica/stefan-savitchi-va-candida-independent-la-prezidentiale/|title=Ștefan Savițchi va candida independent la prezidențiale|newspaper=Știri.md|date=13 August 2024|language=ro}}</ref>",
-                      "url": "https://stiri.md/article/politica/stefan-savitchi-va-candida-independent-la-prezidentiale/",
-                      "status_code": null,
+                      "url": "https://stiri.md/article/politica/stefan-savitchi-va-candida-independent-la-prezidentiale",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -745,12 +759,12 @@
               "sentences": [
                 {
                   "id": "5.3.s1",
-                  "text": "The following people were subjects of speculation about their potential candidacy within the previous months, but they rejected the speculation and announced they would not run as a candidate:\n* Ion Ceban, Mayor of Chișinău (2019–present)\n* Igor Dodon, President of Moldova (2016–2020)\n* Vlad Filat, Prime Minister of Moldova (2009–2013)\n* Teodor Cârnaț, Member of the Superior Council of Magistrates (2013–2017)",
+                  "text": "The following people were subjects of speculation about their potential candidacy within the previous months, but they rejected the speculation and announced they would not run as a candidate:\n* Ion Ceban, Mayor of Chișinău (2019–present)\n* Igor Dodon, President of Moldova (2016–2020)",
                   "references": [
                     {
                       "text": "<ref>{{Cite web |title=Ion Ceban spune că nu are ambiții prezidențiale și nu a decis încă dacă va candida sau nu la un nou mandat de primar al Chișinăului |url=https://agora.md/2024/05/27/ion-ceban-nu-vrea-la-carma-tarii-nu-sunt-interesat-sa-candidez-la-prezidentiale|access-date=2024-03-06 |website=Agora |language=ro}}</ref>",
                       "url": "https://agora.md/2024/05/27/ion-ceban-nu-vrea-la-carma-tarii-nu-sunt-interesat-sa-candidez-la-prezidentiale",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -758,20 +772,13 @@
                       "text": "<ref>{{Cite web |title=Igor Dodon pleacă din parlament pentru a lupta cu Maia Sandu la alegerile prezidențiale 2024, dacă va scăpa de dosarul Kuliok și Bahamas |url=https://conde.md/igor-dodon-pleaca-din-parlament-pentru-a-lupta-cu-maia-sandu-la-alegerile-prezidentiale-2024-daca-va-scapa-de-dosarul-kuliok-si-bahamas/ |website=CONDE.MD |access-date=2022-02-28 |language=ro |archive-date=2022-02-21 |archive-url=https://web.archive.org/web/20220221231018/https://conde.md/igor-dodon-pleaca-din-parlament-pentru-a-lupta-cu-maia-sandu-la-alegerile-prezidentiale-2024-daca-va-scapa-de-dosarul-kuliok-si-bahamas/ |url-status=dead }}</ref>",
                       "url": "https://conde.md/igor-dodon-pleaca-din-parlament-pentru-a-lupta-cu-maia-sandu-la-alegerile-prezidentiale-2024-daca-va-scapa-de-dosarul-kuliok-si-bahamas/",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Consiliul Republican al PSRM a decis cu vot unanim, în ședința de astăzi, să sprijine candidatul poporului la funcția de președinte – Alexandr Stoianoglo |trans-title=The Republican Council of the PSRM at today's meeting unanimously decided to support the people's candidate for president Alexandru Stoianoglo |url=https://dodon.md/2024/consiliul-republican-al-psrm-a-decis-cu-vot-unanim-in-sedinta-de-astazi-sa-sprijine-candidatul-poporului-la-functia-de-presedinte-alexandr-stoianoglo-7579/ |website=dodon.md |access-date=23 August 2024 |language=ro |date=21 August 2024}}</ref>",
                       "url": "https://dodon.md/2024/consiliul-republican-al-psrm-a-decis-cu-vot-unanim-in-sedinta-de-astazi-sa-sprijine-candidatul-poporului-la-functia-de-presedinte-alexandr-stoianoglo-7579/",
-                      "status_code": null,
-                      "reason": null,
-                      "type": "web"
-                    },
-                    {
-                      "text": "<ref>{{Cite web |title=PLDM accuses government of precluding Filat from running for president|url=https://www.ipn.md/en/pldm-accuses-government-of-precluding-filat-from-running-for-president-7965_1106787.html|publisher=IPN Press Agency|date=26 August 2024}} </ref>",
-                      "url": "https://www.ipn.md/en/pldm-accuses-government-of-precluding-filat-from-running-for-president-7965_1106787.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -803,63 +810,63 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-10-17 |title=Sondaj Watchdog realizat prin telefon: Cine sunt favorițiii în cursa pentru prezidențiale. Scrutinul nu se va încheia din primul tur |url=https://unimedia.info/index.php/ro/news/c76382a120ebb843/sondaj-watchdog-realizat-prin-telefon-cine-sunt-favoritiii-in-cursa-pentru-prezidentiale-scrutinul-nu-se-va-incheia-din-primul-tur.html |access-date=2024-10-17 |website=Unimedia |language=ro}}</ref>",
                       "url": "https://unimedia.info/index.php/ro/news/c76382a120ebb843/sondaj-watchdog-realizat-prin-telefon-cine-sunt-favoritiii-in-cursa-pentru-prezidentiale-scrutinul-nu-se-va-incheia-din-primul-tur.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Și Barometrul Opiniei Publice o anunță câștigătoare pe Maia Sandu la alegerile prezidențiale: Cum vor vota cetățenii la referendumul pentru integrare europeană, care va avea loc duminică |url=https://www.ziarulnational.md/si-barometrul-opiniei-publice-o-anunta-castigatoare-pe-maia-sandu-la-alegerile-prezidentiale-cum-vor-vota-cetatenii-la-referendumul-pentru-integrare-europeana-care-va-avea-loc-duminica/ |website=Ziarul Național |date=2024-10-17 |access-date=2024-10-18 |language=ro}}</ref>",
                       "url": "https://www.ziarulnational.md/si-barometrul-opiniei-publice-o-anunta-castigatoare-pe-maia-sandu-la-alegerile-prezidentiale-cum-vor-vota-cetatenii-la-referendumul-pentru-integrare-europeana-care-va-avea-loc-duminica/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=BOP: Câți alegători ar participa la referendumul de duminică și câți ar vota în favoarea aderării Moldovei la UE |url=https://tv8.md/2024/10/17/bop-cati-alegatori-ar-participa-la-referendumul-de-duminica-si-cati-ar-vota-in-favoarea-aderarii-moldovei-la-ue/267628 |date=2024-10-17 |access-date=2024-10-18 |language=ro}}</ref>",
                       "url": "https://tv8.md/2024/10/17/bop-cati-alegatori-ar-participa-la-referendumul-de-duminica-si-cati-ar-vota-in-favoarea-aderarii-moldovei-la-ue/267628",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Dacă duminica viitoare s-ar organiza alegeri prezidențiale, Maia Sandu ar lua cele mai multe voturi. Ce arată datele unui sondaj realizat de WatchDog – FOTO |url=https://protv.md/politic/daca-duminica-viitoare-s-ar-organiza-alegeri-preziden%C8%9Biale-maia-sandu-ar-lua-cele-mai-multe-voturi-ce-arata-datele-unui-sondaj-realizat-de-watch-dog-foto---2701231.html |access-date=2024-10-07 |publisher=ProTV Chișinău |language=ro}}</ref>",
                       "url": "https://protv.md/politic/daca-duminica-viitoare-s-ar-organiza-alegeri-preziden%C8%9Biale-maia-sandu-ar-lua-cele-mai-multe-voturi-ce-arata-datele-unui-sondaj-realizat-de-watch-dog-foto---2701231.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":2\">{{Cite web |date=23 September 2024 |title=POLL: PRESIDENT MAIA SANDU LEADS AMONG PRESIDENTIAL CANDIDATES, 26.8% OF RESPONDENTS ARE READY TO VOTE FOR HER|url=https://www.infotag.md/politics-en/319057/ |access-date=23 September 2024}}</ref>",
                       "url": "https://www.infotag.md/politics-en/319057/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=6 September 2024 |title=Un nou sondaj privind prezidențialele: Maia Sandu ar obține 24,5%... |url=https://tribuna.md/2024/09/06/un-nou-sondaj-privind-prezidentialele-maia-sandu-ar-obtine-245/ |access-date=7 September 2024 }}{{Dead link|date=November 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>",
                       "url": "https://tribuna.md/2024/09/06/un-nou-sondaj-privind-prezidentialele-maia-sandu-ar-obtine-245/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Agora |url=https://agora.md/2024/09/03/prezidentiale-cu-cine-ar-urma-sa-concureze-maia-sandu-in-al-doilea-tur-sondaj |access-date=2024-09-07 |website=Agora}}</ref>",
                       "url": "https://agora.md/2024/09/03/prezidentiale-cu-cine-ar-urma-sa-concureze-maia-sandu-in-al-doilea-tur-sondaj",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=30 August 2024 |title=Preferințele electorale în cazul alegerilor prezidențiale și parlamentare rezultatele unui sondaj de opinie/ |url=https://watchdog.md/polls/208281/preferintele-electorale-in-cazul-alegerilor-prezidentiale-si-parlamentare-rezultatele-unui-sondaj-de-opinie/}}</ref>",
                       "url": "https://watchdog.md/polls/208281/preferintele-electorale-in-cazul-alegerilor-prezidentiale-si-parlamentare-rezultatele-unui-sondaj-de-opinie/}}</ref>",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-07-25 |title=Sondaj IMAS. Surprizele de la Prezidențiale: Trei candidați luptă crâncen pentru a intra în turul II cu Maia Sandu |url=https://unimedia.info/ro/news/7bbffc06566d7a4e/sondaj-imas-surprizele-de-la-prezidentiale-trei-candidati-lupta-crancen-pentru-a-intra-in-turul-ii-cu-maia-sandu.html |access-date=2024-07-25 |website=Unimedia |language=ro}}</ref>",
                       "url": "https://unimedia.info/ro/news/7bbffc06566d7a4e/sondaj-imas-surprizele-de-la-prezidentiale-trei-candidati-lupta-crancen-pentru-a-intra-in-turul-ii-cu-maia-sandu.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -904,154 +911,154 @@
                         {
                           "text": "<ref>{{Cite web |date=16 July 2024 |title=SONDAJ IRI: 34% AR VOTA CU MAIA SANDU LA ALEGERILE PREZIDENȚIALE; 18% – CU IGOR DODON |url=https://tribuna.md/2024/07/16/iri-34-ar-vota-cu-maia-sandu-la-alegerile-prezidentiale-18-cu-igor-dodon/ }}{{Dead link|date=November 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>",
                           "url": "https://tribuna.md/2024/07/16/iri-34-ar-vota-cu-maia-sandu-la-alegerile-prezidentiale-18-cu-igor-dodon/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\":1\"/>\n|1,022\n| style=\"background:#ffe973\" | 30.4%\n| style=\"background:#DB6E61\" | 14.3%\n|–\n|3.0%\n|–\n|2.5%\n|6.1%\n|–\n|3.9%\n|1.6%\n|6.1%\n|32.1%\n|-\n|2–19 May 2024\n|IMAS<ref name=\":1\"/>\n|1,088\n| style=\"background:#ffe973\" | 35.2%\n| style=\"background:#DB6E61\" | 16.4%\n|–\n|5.9%\n|–\n|5.3%\n|5.7%\n|–\n|4.7%\n|4.1%\n|7.8%\n|14.9%\n|-\n| data-sort-value=\"2024-04-16\" |6–13 Apr 2024\n|CBS-AXA–WatchDog<ref>{{Cite web|url=https://watchdog.md/polls/208121/comunitatea-watchdog-md-si-cbs-research-au-prezentat-rezultatele-unui-sondaj-de-opinie-privind-perceptia-preferintelor-politice-si-impactul-dezinformarii//|title=Studiu-sociologic-1_compressed.pdf|publisher=Comunitatea Watchdog |accessdate=2024-04-16|lang=ro}}</ref>",
-                          "url": "https://watchdog.md/polls/208121/comunitatea-watchdog-md-si-cbs-research-au-prezentat-rezultatele-unui-sondaj-de-opinie-privind-perceptia-preferintelor-politice-si-impactul-dezinformarii//",
-                          "status_code": null,
+                          "url": "https://watchdog.md/polls/208121/comunitatea-watchdog-md-si-cbs-research-au-prezentat-rezultatele-unui-sondaj-de-opinie-privind-perceptia-preferintelor-politice-si-impactul-dezinformarii/",
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://www.ipn.md/ro/maia-sandu-si-igor-dodon-ar-iesi-in-turul-7967_1103603.html|title=Maia Sandu și Igor Dodon ar ieși în turul doi la prezidențiale, Barometrul iData |date=28 March 2024 |publisher=IPN Press Agency|accessdate=2024-03-30|lang=ro}}</ref>",
                           "url": "https://www.ipn.md/ro/maia-sandu-si-igor-dodon-ar-iesi-in-turul-7967_1103603.html",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://www.iri.org/resources/national-survey-of-moldova-jan-feb-2024/|title=National Survey of Moldova | date=Jan–Feb 2024|publisher=International Republican Institute |accessdate=2024-03-30|lang=en}}</ref>",
                           "url": "https://www.iri.org/resources/national-survey-of-moldova-jan-feb-2024/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\":0\">{{Cite web |title=Cine ar putea deveni viitorul președinte al Republicii Moldova – sondaj |url=https://noi.md/md/politica/cine-ar-putea-deveni-viitorul-presedinte-al-republicii-moldova-sondaj |access-date=2024-03-07 |website=noi.md |language=ro}}</ref>",
                           "url": "https://noi.md/md/politica/cine-ar-putea-deveni-viitorul-presedinte-al-republicii-moldova-sondaj",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://noi.md/md/politica/sondaj-cite-de-reale-sint-sansele-maiei-sandu-de-a-cistiga-un-nou-mandat-prezidentia|title=Sondaj: Cîte de reale sînt șansele Maiei Sandu de a cîștiga un nou mandat prezidenția |publisher=noi.md|accessdate=2024-02-11|lang=ro}}</ref>",
                           "url": "https://noi.md/md/politica/sondaj-cite-de-reale-sint-sansele-maiei-sandu-de-a-cistiga-un-nou-mandat-prezidentia",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"imas-dec23\">{{Cite web |title=barometrul socio-politic |url=https://imas.md/pic/archives/42/[imas]%20barometrul%20socio-politic_decembrie%202023.pdf?fbclid=IwAR14nTOcy1ndA2SCV1H8h_ZWbFZHBFtEVwfsLeTfOu2v2jYjpqkyPQ20CrY |access-date=2023-12-29 |language=ro}}</ref>",
-                          "url": "https://imas.md/pic/archives/42/[imas]%20barometrul%20socio-politic_decembrie%202023.pdf?fbclid=IwAR14nTOcy1ndA2SCV1H8h_ZWbFZHBFtEVwfsLeTfOu2v2jYjpqkyPQ20CrY",
-                          "status_code": null,
+                          "url": "https://imas.md/pic/archives/42/%5Bimas%5D%20barometrul%20socio-politic_decembrie%202023.pdf?fbclid=IwAR14nTOcy1ndA2SCV1H8h_ZWbFZHBFtEVwfsLeTfOu2v2jYjpqkyPQ20CrY",
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://unimedia.info/ro/news/9528a31e416be8a0/sandu-si-dodon-favoriti-la-prezidentiale-printre-preferinte-apare-irina-vlah-iar-3-lideri-de-partide-se-inghesuie-pe-locul-3.html|title=Sandu și Dodon, favoriți la prezidențiale: Printre preferințe apare Irina Vlah, iar 3 lideri de partide se înghesuie pe locul 3|website=Unimedia|date=2023-09-28|accessdate=2023-10-06|language=ro}}</ref>",
                           "url": "https://unimedia.info/ro/news/9528a31e416be8a0/sandu-si-dodon-favoriti-la-prezidentiale-printre-preferinte-apare-irina-vlah-iar-3-lideri-de-partide-se-inghesuie-pe-locul-3.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Barometrul Opiniei Publice, septembrie 2023 |url=https://ipp.md/2023-09/barometrul-opiniei-publice-septembrie-2023/ |access-date=2023-09-08 |website=ipp.md |language=ro}}</ref>",
                           "url": "https://ipp.md/2023-09/barometrul-opiniei-publice-septembrie-2023/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2023-07-11 |title=Sondaj IPRE: Sandu, urmată de Dodon și Ceban. Cum ar vota moldovenii, dacă duminica viitoare ar avea loc alegeri prezidențiale |url=https://unimedia.info/ro/news/62aea232f661cbbd/sondaj-ipre-sandu-urmata-de-dodon-si-ceban-cum-ar-vota-moldovenii-daca-duminica-viitoare-ar-avea-loc-alegeri-prezidentiale.html |access-date=2023-07-11 |website=Unimedia |language=ro}}</ref>",
                           "url": "https://unimedia.info/ro/news/62aea232f661cbbd/sondaj-ipre-sandu-urmata-de-dodon-si-ceban-cum-ar-vota-moldovenii-daca-duminica-viitoare-ar-avea-loc-alegeri-prezidentiale.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://tv8.md/2023/27/06/infografic-sondaj-watch-dog-trei-partide-ar-ajunge-in-legislativ-in-cazul-unor-alegeri-parlamentare-preferintele-cetatenilor/233080|title=/INFOGRAFIC/ Sondaj WatchDog: Trei partide ar ajunge în Legislativ în cazul unor alegeri parlamentare. Preferințele cetățenilor |publisher=tv8.md|accessdate=2023-06-27|lang=ro}}</ref>",
                           "url": "https://tv8.md/2023/27/06/infografic-sondaj-watch-dog-trei-partide-ar-ajunge-in-legislativ-in-cazul-unor-alegeri-parlamentare-preferintele-cetatenilor/233080",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"auto\">{{Cite web|url=https://www.hotnews.ro/stiri-esential-26284230-maia-sandu-umar-umar-pro-rusul-igor-dodon-daca-duminica-alegeri-republica-moldova-dodon-castiga-turul-sondaj-imas.htm|title=Maia Sandu, umăr la umăr cu pro-rusul Igor Dodon, dacă duminică ar fi alegeri în Republica Moldova / Dodon ar câștiga turul II – sondaj IMAS|date=2023-05-23|accessdate=2023-06-20|lang=ro}}</ref>",
-                          "url": "https://www.hotnews.ro/stiri-esential-26284230-maia-sandu-umar-umar-pro-rusul-igor-dodon-daca-duminica-alegeri-republica-moldova-dodon-castiga-turul-sondaj-imas.htm",
-                          "status_code": null,
+                          "url": "https://hotnews.ro/maia-sandu-umar-la-umar-cu-pro-rusul-igor-dodon-daca-duminica-ar-fi-alegeri-n-republica-moldova-dodon-ar-cstiga-turul-ii-sondaj-imas-64058",
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://diez.md/2023/05/15/sondaj-in-cazul-unor-alegeri-parlamentare-in-moldova-trei-formatiuni-politice-ar-intra-in-parlament/|title=(sondaj) În cazul unor alegeri parlamentare în Moldova, trei formațiuni politice ar intra în Parlament |author=Petru Beșleaga |publisher=diez.md|accessdate=2023-04-16|lang=ro}}</ref>",
                           "url": "https://diez.md/2023/05/15/sondaj-in-cazul-unor-alegeri-parlamentare-in-moldova-trei-formatiuni-politice-ar-intra-in-parlament/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://tvrmoldova.md/article/f201cf1ea28d384e/pas-ar-avea-cele-mai-multe-mandate-de-deputat-iar-maia-sandu-ar-castiga-detasat-primul-tur-daca-duminica-viitoare-ar-avea-loc-alegeri.html|title=SONDAJ. PAS ar avea cele mai multe mandate de deputat, iar Maia Sandu ar câștiga detașat primul tur, dacă duminica viitoare ar avea loc alegeri|publisher=TVR Moldova|accessdate=2023-04-20|lang=ro}}</ref>",
                           "url": "https://tvrmoldova.md/article/f201cf1ea28d384e/pas-ar-avea-cele-mai-multe-mandate-de-deputat-iar-maia-sandu-ar-castiga-detasat-primul-tur-daca-duminica-viitoare-ar-avea-loc-alegeri.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://tribuna.md/2023/04/03/prezidentiale-maia-sandu-ar-obtine-29-4-din-voturile-cetatenilor-igor-dodon-cu-17-6/|title=PREZIDENȚIALE: MAIA SANDU AR OBȚINE 29.4% DIN VOTURILE CETĂȚENILOR, IGOR DODON CU 17.6%|publisher=tribuna.md|accessdate=2023-04-11|language=ro|archive-date=11 April 2023|archive-url=https://web.archive.org/web/20230411144128/https://tribuna.md/2023/04/03/prezidentiale-maia-sandu-ar-obtine-29-4-din-voturile-cetatenilor-igor-dodon-cu-17-6/|url-status=dead}}</ref>",
                           "url": "https://tribuna.md/2023/04/03/prezidentiale-maia-sandu-ar-obtine-29-4-din-voturile-cetatenilor-igor-dodon-cu-17-6/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://tv8.md/2023/09/03/sondaj-watch-dog-trei-partide-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri/224318|title=Sondaj WatchDog: Trei partide ar accede în Parlament, dacă duminica viitoare ar avea loc alegeri|publisher=tv8.md|accessdate=2023-03-10|lang=ro}}</ref>",
                           "url": "https://tv8.md/2023/09/03/sondaj-watch-dog-trei-partide-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri/224318",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://psnews.ro/sondaj-daca-duminica-viitoare-ar-avea-loc-alegeri-in-parlamentul-r-moldova-ar-accede-trei-formatiuni-749930/|title=SONDAJ Dacă duminica viitoare ar avea loc alegeri, în Parlamentul R. Moldova ar accede trei formațiuni|date=2023-02-23|accessdate=2023-02-23|lang=ro}}</ref>",
                           "url": "https://psnews.ro/sondaj-daca-duminica-viitoare-ar-avea-loc-alegeri-in-parlamentul-r-moldova-ar-accede-trei-formatiuni-749930/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 404,
+                          "reason": "Not Found",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://cdn.g4media.ro/wp-content/uploads/2023/02/DOC-20230203-WA0003..pdf|title=Sondaj Socio-Politic Republica Moldova Ianuarie 2023|publisher=watchdog.md|accessdate=2023-02-09|lang=ro}}</ref>",
                           "url": "https://cdn.g4media.ro/wp-content/uploads/2023/02/DOC-20230203-WA0003..pdf",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://voceabasarabiei.md/sondaj-maia-sandu-ar-acumula-cele-mai-multe-voturi-in-cazul-in-care-duminica-viitoare-ar-avea-loc-alegeri-prezidentiale/|title=SONDAJ: Maia Sandu ar acumula cele mai multe voturi, în cazul în care duminica viitoare ar avea loc alegeri prezidențiale|date=29 December 2022 |publisher=vocebasarabiei.md|accessdate=2023-01-01|language=ro}}</ref>",
                           "url": "https://voceabasarabiei.md/sondaj-maia-sandu-ar-acumula-cele-mai-multe-voturi-in-cazul-in-care-duminica-viitoare-ar-avea-loc-alegeri-prezidentiale/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Ar rămână Maia Sandu preșidentele Republicii Moldova dacă duminica viitoare ar avea loc alegerile prezidențiale. Ce arată datele unui sondaj – FOTO |url=https://protv.md/politic/ar-ramane-maia-sandu-presedintele-republicii-moldova-daca-duminica-viitoare-ar-avea-loc-alegerile-prezidentiale-ce-arata-datele-unui-sondaj-foto---2635075.html |access-date=2023-01-01 |website=www.protv.md |language=ro}}</ref>",
                           "url": "https://protv.md/politic/ar-ramane-maia-sandu-presedintele-republicii-moldova-daca-duminica-viitoare-ar-avea-loc-alegerile-prezidentiale-ce-arata-datele-unui-sondaj-foto---2635075.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://moldova.europalibera.org/a/bop-2022-sandu-continu%C4%83-s%C4%83-se-bucure-de-%C3%AEncrederea-moldovenilor-iar-%C3%AEn-parlament-ar-accede-trei-partide/32156941.html|title=BOP 2022: Sandu continuă să se bucure de încrederea moldovenilor, iar în Parlament ar accede trei partide|publisher=Radio Europa Liberă Moldova|accessdate=2023-01-01|language=ro}}</ref>",
                           "url": "https://moldova.europalibera.org/a/bop-2022-sandu-continu%C4%83-s%C4%83-se-bucure-de-%C3%AEncrederea-moldovenilor-iar-%C3%AEn-parlament-ar-accede-trei-partide/32156941.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://twnews.it/md-news/dodon-nicio-sansa-sa-ajunga-din-nou-presedintele-r-moldova-primii-trei-favoriti-la-sefia-statului|title=Dodon, nicio șansă să ajungă din nou președintele R. Moldova: Primii TREI favoriți la șefia statului|publisher=twnews.it|accessdate=2022-10-29|language=ro}}</ref>",
-                          "url": "https://twnews.it/md-news/dodon-nicio-sansa-sa-ajunga-din-nou-presedintele-r-moldova-primii-trei-favoriti-la-sefia-statului",
-                          "status_code": null,
+                          "url": "https://theworldnews.net/news",
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
@@ -1059,7 +1066,7 @@
                           "text": "<ref>{{Cite web |date=2022-07-20 |title=GALERIE FOTO: Foto: publika.md – SONDAJ IMAS: Moldovenii vor alegeri parlamentare și prezidențiale anticipate. Pentru cine ar vota? |url=https://www.publika.md/sondaj-imas-moldovenii-vor-alegeri-parlamentare-si-prezidentiale-anticipate-pentru-cine-ar-vota_3127627.html |access-date=2022-07-20 |website=Publika.md |language=ro}}</ref>",
                           "url": "https://www.publika.md/sondaj-imas-moldovenii-vor-alegeri-parlamentare-si-prezidentiale-anticipate-pentru-cine-ar-vota_3127627.html",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Cannot connect to host www.publika.md:443 ssl:default [Domain name not found]",
                           "type": "web"
                         }
                       ]
@@ -1135,110 +1142,110 @@
               "sentences": [
                 {
                   "id": "7.1.s1",
-                  "text": "{| class=\"wikitable\"\n|-\n! colspan=\"2\" | Party/''organization''\n! Ideology\n! colspan=\"2\" | First round\n! colspan=\"2\" | Second round\n|-\n| style=\"background-color: {{party color|Party of Action and Solidarity}};\" |\n| Party of Action and Solidarity\n| Liberalism\n| style=\"background-color: {{party color|Party of Action and Solidarity}};\" |\n| Maia Sandu\n| style=\"background-color: {{party color|Party of Action and Solidarity}};\" |\n| Maia Sandu\n|-\n| style=\"background-color: {{party color|Party of Socialists of the Republic of Moldova}};\" |\n| Party of Socialists of the Republic of Moldova\n| Socialism\n| style=\"background-color: {{party color|Party of Socialists of the Republic of Moldova}};\" |\n| Alexandr Stoianoglo\n| style=\"background-color: {{party color|Party of Socialists of the Republic of Moldova}};\" |\n| Alexandr Stoianoglo\n|-\n| style=\"background-color: {{party color|Common Action Party – Civil Congress}};\" |\n| Common Action Party – Civil Congress\n| Socialist democracy\n| style=\"background-color: {{party color|Party of Socialists of the Republic of Moldova}};\" |\n| Alexandr Stoianoglo\n| style=\"background-color: {{party color|Party of Socialists of the Republic of Moldova}};\" |\n| Alexandr Stoianoglo\n|-\n| style=\"background-color: {{party color|Our Party (Moldova)}};\" |\n| Our Party (Moldova)|Our Party\n| Social conservatism\n| style=\"background-color: {{party color|Our Party (Moldova)}};\" |\n| Renato Usatîi\n| colspan=\"2\" |No endorsement\n|-\n| style=\"background-color: #FF7A03;\" |\n| Future of Moldova Party\n| Left-wing nationalism\n| style=\"background-color: #FF7A03;\" |\n| Vasile Tarlev\n| style=\"background-color: #ce3a33;\" |\n| Against Sandu\n|-\n| style=\"background-color: {{Party color|Party of Communists of the Republic of Moldova}};\" |\n| Party of Communists of the Republic of Moldova\n| Communism\n| style=\"background-color: #FF7A03;\" |\n| Vasile Tarlev\n| style=\"background-color: {{party color|Party of Socialists of the Republic of Moldova}};\" |\n| Alexandr Stoianoglo\n|-\n| style=\"background-color: {{Party color|Party of Development and Consolidation of Moldova}};\" |\n| Party of Development and Consolidation of Moldova|Party of Development and Consolidation\n| Christian democracy\n| style=\"background-color: {{Party color|Party of Development and Consolidation of Moldova}};\" |\n| Ion Chicu\n| style=\"background-color: #ce3a33;\" |\n| Against Sandu\n|-\n| style=\"background-color: #0060AF;\" |\n| {{ill|Party of Change|ro|Partidul Schimbării}}{{efn|name=impreuna}}\n| Conservative liberalism\n|-\n| style=\"background-color: #48499B;\" |\n| League of Cities and Communes{{efn|name=impreuna}}\n| Localism (politics)|Localism\n|-\n| style=\"background-color: {{Party color|Victory (political bloc)}};\" |\n|''Victory (political bloc)|Victory''{{efn|Political bloc, not a party, led by Ilan Shor}}\n|Russophilia\n| style=\"background-color: #ce3a33;\" |\n| Against Sandu{{Efn|Allegedly supported Victoria Furtună}}\n| style=\"background-color: #ce3a33;\" |\n| Against Sandu\n|-\n| style=\"background-color: {{Party color|Alliance of Liberals and Democrats for Europe (Moldova)}};\" |\n| Alliance of Liberals and Democrats for Europe (Moldova)|Alliance of Liberals and Democrats for Europe\n| Social liberalism\n| style=\"background-color: {{Party color|Other}};\" |\n| ''No candidate''\n| style=\"background-color: #FFE97F;\" |\n| Against Stoianoglo\n|-\n| style=\"background-color: {{Party color|Liberal Democratic Party of Moldova}};\" |\n|Liberal Democratic Party of Moldova\n|Liberal conservatism\n| style=\"background-color: {{Party color|Other}};\" |\n| ''No candidate''\n| style=\"background-color: #ce3a33;\" |\n| Against Sandu\n|-\n| style=\"background-color: {{party color|Ecologist Green Party (Moldova)}}\" |\n| Ecologist Green Party (Moldova)|Ecologist Green Party\n| Green politics\n| style=\"background-color: {{Party color|Other}};\" |\n| ''No candidate''\n| style=\"background-color: {{party color|Party of Action and Solidarity}};\" |\n| Maia Sandu\n|-\n| style=\"background-color: {{Party color|Liberal Party (Moldova)}}\" |\n| Liberal Party (Moldova)|Liberal Party\n| Conservative liberalism\n| style=\"background-color: {{Party color|Other}};\" |\n| ''No candidate''\n| style=\"background-color: {{party color|Party of Action and Solidarity}};\" |\n| Maia Sandu\n|-\n| style=\"background-color: #513286\" |\n| Coalition for Unity and Prosperity\n| Liberalism\n| style=\"background-color: {{Party color|Other}};\" |\n| ''No candidate''\n| colspan=\"2\" |Participate without endorsement\n|-\n|}",
+                  "text": "{| class=\"wikitable\"\n|-\n! colspan=\"2\" | Party/''organization''\n! Ideology\n! colspan=\"2\" | First round\n! colspan=\"2\" | Second round\n|-\n| style=\"background-color: {{party color|Party of Action and Solidarity}};\" |\n| Party of Action and Solidarity\n| Liberalism\n| style=\"background-color: {{party color|Party of Action and Solidarity}};\" |\n| Maia Sandu\n| style=\"background-color: {{party color|Party of Action and Solidarity}};\" |\n| Maia Sandu\n|-\n| style=\"background-color: {{party color|Party of Socialists of the Republic of Moldova}};\" |\n| Party of Socialists of the Republic of Moldova\n| Socialism\n| style=\"background-color: {{party color|Party of Socialists of the Republic of Moldova}};\" |\n| Alexandr Stoianoglo\n| style=\"background-color: {{party color|Party of Socialists of the Republic of Moldova}};\" |\n| Alexandr Stoianoglo\n|-\n| style=\"background-color: {{party color|Common Action Party – Civil Congress}};\" |\n| Common Action Party – Civil Congress\n| Socialist democracy\n| style=\"background-color: {{party color|Party of Socialists of the Republic of Moldova}};\" |\n| Alexandr Stoianoglo\n| style=\"background-color: {{party color|Party of Socialists of the Republic of Moldova}};\" |\n| Alexandr Stoianoglo\n|-\n| style=\"background-color: {{party color|Our Party (Moldova)}};\" |\n| Our Party (Moldova)|Our Party\n| Social conservatism\n| style=\"background-color: {{party color|Our Party (Moldova)}};\" |\n| Renato Usatîi\n| colspan=\"2\" |No endorsement\n|-\n| style=\"background-color: #FF7A03;\" |\n| Future of Moldova Party\n| Left-wing nationalism\n| style=\"background-color: #FF7A03;\" |\n| Vasile Tarlev\n| style=\"background-color: #ce3a33;\" |\n| Against Sandu\n|-\n| style=\"background-color: {{Party color|Party of Communists of the Republic of Moldova}};\" |\n| Party of Communists of the Republic of Moldova\n| Communism\n| style=\"background-color: #FF7A03;\" |\n| Vasile Tarlev\n| style=\"background-color: {{party color|Party of Socialists of the Republic of Moldova}};\" |\n| Alexandr Stoianoglo\n|-\n| style=\"background-color: {{Party color|Party of Development and Consolidation of Moldova}};\" |\n| Party of Development and Consolidation of Moldova|Party of Development and Consolidation\n| Christian democracy\n| style=\"background-color: {{Party color|Party of Development and Consolidation of Moldova}};\" |\n| Ion Chicu\n| style=\"background-color: #ce3a33;\" |\n| Against Sandu\n|-\n| style=\"background-color: #0060AF;\" |\n| {{ill|Party of Change (Moldova)|lt=Party of Change|ro|Partidul Schimbării}}{{efn|name=impreuna}}\n| Conservative liberalism\n|-\n| style=\"background-color: #48499B;\" |\n| League of Cities and Communes{{efn|name=impreuna}}\n| Localism (politics)|Localism\n|-\n| style=\"background-color: {{Party color|Victory (political bloc)}};\" |\n|''Victory (political bloc)|Victory''{{efn|Political bloc, not a party, led by Ilan Shor}}\n|Russophilia\n| style=\"background-color: #ce3a33;\" |\n| Against Sandu{{Efn|Allegedly supported Victoria Furtună}}\n| style=\"background-color: #ce3a33;\" |\n| Against Sandu\n|-\n| style=\"background-color: {{Party color|Alliance of Liberals and Democrats for Europe (Moldova)}};\" |\n| Alliance of Liberals and Democrats for Europe (Moldova)|Alliance of Liberals and Democrats for Europe\n| Social liberalism\n| style=\"background-color: {{Party color|Other}};\" |\n| ''No candidate''\n| style=\"background-color: #FFE97F;\" |\n| Against Stoianoglo\n|-\n| style=\"background-color: {{Party color|Liberal Democratic Party of Moldova}};\" |\n|Liberal Democratic Party of Moldova\n|Liberal conservatism\n| style=\"background-color: {{Party color|Other}};\" |\n| ''No candidate''\n| style=\"background-color: #ce3a33;\" |\n| Against Sandu\n|-\n| style=\"background-color: {{party color|Ecologist Green Party (Moldova)}}\" |\n| Ecologist Green Party (Moldova)|Ecologist Green Party\n| Green politics\n| style=\"background-color: {{Party color|Other}};\" |\n| ''No candidate''\n| style=\"background-color: {{party color|Party of Action and Solidarity}};\" |\n| Maia Sandu\n|-\n| style=\"background-color: {{Party color|Liberal Party (Moldova)}}\" |\n| Liberal Party (Moldova)|Liberal Party\n| Conservative liberalism\n| style=\"background-color: {{Party color|Other}};\" |\n| ''No candidate''\n| style=\"background-color: {{party color|Party of Action and Solidarity}};\" |\n| Maia Sandu\n|-\n| style=\"background-color: #513286\" |\n| Coalition for Unity and Prosperity\n| Liberalism\n| style=\"background-color: {{Party color|Other}};\" |\n| ''No candidate''\n| colspan=\"2\" |Participate without endorsement\n|-\n|}",
                   "references": [
                     {
                       "text": "<ref>{{Cite web |last=NEWTV |title=New TV – Congresul Civic, în frunte cu Tkaciuk, l-ar putea susține pe Stoianoglo la alegerile prezidențiale |url=https://newtv.md/toate-stirile/congresul-civic-in-frunte-cu-tkaciuk-il-sustine-pe-stoianoglo-la-alegerile-prezidentiale |access-date=2024-10-25 |website=newtv.md |language=ro}}</ref>",
                       "url": "https://newtv.md/toate-stirile/congresul-civic-in-frunte-cu-tkaciuk-il-sustine-pe-stoianoglo-la-alegerile-prezidentiale",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":4\" />\n|-\n| style=\"background-color: #5CE3E9;\" |\n| ''Platform Moldova''{{efn|Political organization, not a party, led by Irina Vlah}}\n| Left-wing populism\n| style=\"background-color: {{party color|Independent politician}};\" |\n| Irina Vlah\n| style=\"background-color: #ce3a33;\" |\n| Against Sandu<ref name=\":5\">{{Cite web |title=Ирина Влах – гражданам: \"Спасите страну! Призываю вас принять активное участие в выборах 3 ноября\" |url=https://noi.md/ru/politika/irina-vlah-grazhdanam-spasite-stranu-prizyvayu-vas-prinyati-aktivnoe-uchastie-v-vyborah-3-noyabrya |access-date=2024-10-28 |website=noi.md |language=ru}}</ref>",
                       "url": "https://noi.md/ru/politika/irina-vlah-grazhdanam-spasite-stranu-prizyvayu-vas-prinyati-aktivnoe-uchastie-v-vyborah-3-noyabrya",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":7\">{{Cite web |title=Vasile Tarlev își cheamă susținătorii să voteze împotriva Maiei Sandu: \"Fiecare om cinstit are o singură alegere\" |url=https://tv8.md/2024/10/26/vasile-tarlev-isi-cheama-sustinatorii-sa-voteze-impotriva-maiei-sandu-fiecare-om-cinstit-are-o-singura-alegere/268345 |access-date=2024-10-26 |website=tv8.md |language=en}}</ref>",
                       "url": "https://tv8.md/2024/10/26/vasile-tarlev-isi-cheama-sustinatorii-sa-voteze-impotriva-maiei-sandu-fiecare-om-cinstit-are-o-singura-alegere/268345",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-10-25 |title=PCRM îl susține pe Alexandr Stoianoglo în turul doi al prezidențialelor: \"Cu Maia Sandu țara va pierde suveranitatea şi identitatea\" |url=https://unimedia.info/ro/news/78e7e22438b72882/pcrm-il-sustine-pe-alexandr-stoianoglo-in-turul-doi-al-prezidentialelor-cu-maia-sandu-tara-va-pierde-suveranitatea-si-identitatea.html |access-date=2024-10-25 |website=UNIMEDIA |language=ro}}</ref>",
                       "url": "https://unimedia.info/ro/news/78e7e22438b72882/pcrm-il-sustine-pe-alexandr-stoianoglo-in-turul-doi-al-prezidentialelor-cu-maia-sandu-tara-va-pierde-suveranitatea-si-identitatea.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":6\" />\n|-\n| style=\"background-color: {{Party color|Dignity and Truth Platform}};\" |\n| Dignity and Truth Platform{{efn|name=impreuna|Member party of the {{ill|Together Bloc|ro|Blocul „Împreună\"}}}}\n| Liberalism\n| rowspan=\"3\" style=\"background-color: #00ADF1;\" |\n| rowspan=\"3\" | Octavian Țîcu\n| rowspan=\"3\" style=\"background-color: #FFE97F;\" |\n| rowspan=\"3\" | Against Stoianoglo<ref name=\"auto5\">{{Cite web |last= |date=2024-10-30 |title=Țîcu și-a îndemnat susținătorii să voteze împotriva lui Stoianoglo. |url=https://stiri.md/article/social/ticu-si-a-indemnat-sustinatorii-sa-voteze-impotriva-lui-stoianoglo |access-date=2024-10-30 |website=stiri.md |language=ro-RO}}</ref>",
                       "url": "https://stiri.md/article/social/ticu-si-a-indemnat-sustinatorii-sa-voteze-impotriva-lui-stoianoglo",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Достоевский |first=Генри |date=2024-10-19 |title=Молдавский оппозиционер Шор призвал выбрать «неСанду» президентом республики |url=https://rtvi.com/news/moldavskij-oppoziczioner-shor-prizval-vybrat-nesandu-prezidentom-respubliki/ |access-date=2024-11-01 |website=Главные новости в России и мире – RTVI |language=ru}}</ref>",
                       "url": "https://rtvi.com/news/moldavskij-oppoziczioner-shor-prizval-vybrat-nesandu-prezidentom-respubliki/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-10-19 |title=Шор назвал своего кандидата |url=https://newsmd.md/blogs/28486-shor-nazval-svoego-kandidata.html |access-date=2024-11-01 |website=Новости в Молдове и мире. Независимый информационный портал |language=ru-RU}}</ref>",
                       "url": "https://newsmd.md/blogs/28486-shor-nazval-svoego-kandidata.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Nistor |first=Mariuța |date=2024-10-12 |title=VIDEO/ Victoria Furtună, candidata (in)dependentă de rețeaua lui Șor |url=https://www.zdg.md/stiri/video-victoria-furtuna-candidata-independenta-de-reteaua-lui-sor/ |access-date=2024-10-31 |website=Ziarul de Gardă |language=ro}}</ref>",
                       "url": "https://www.zdg.md/stiri/video-victoria-furtuna-candidata-independenta-de-reteaua-lui-sor/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-10-31 |title=/VIDEO/ Blocul lui Șor îl va susține pe Stoianoglo la prezidențiale? Răspunsurile lui Bolea și Tauber |url=https://tv8.md/2024/10/31/video-blocul-lui-sor-il-va-sustine-pe-stoianoglo-la-prezidentiale-raspunsurile-lui-bolea-si-tauber/268610 |access-date=2024-10-31 |website=tv8.md |language=en}}</ref>",
                       "url": "https://tv8.md/2024/10/31/video-blocul-lui-sor-il-va-sustine-pe-stoianoglo-la-prezidentiale-raspunsurile-lui-bolea-si-tauber/268610",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last= |date=2024-10-24 |title=Stoianoglo încearcă să ne întoarcă din drumul nostru European. Așteptarea unui \"consens complet\" este o capcană care ar amâna la nesfârșit reformele necesare și progresul. |url=https://alde.md/stoianoglo-incearca-sa-ne-intoarca-din-drumul-nostru-european-asteptarea-unui-consens-complet-este-o-capcana-care-ar-amana-la-nesfarsit-reformele-necesare-si-progresul/ |access-date=2024-10-25 |website=Alianța Liberalilor și Democraților pentru Europa |language=ro-RO}}</ref>",
                       "url": "https://alde.md/stoianoglo-incearca-sa-ne-intoarca-din-drumul-nostru-european-asteptarea-unui-consens-complet-este-o-capcana-care-ar-amana-la-nesfarsit-reformele-necesare-si-progresul/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-10-25 |title=Filat: 40% – Maia Sandu și 60% – Alexandr Stoianoglo este scenariul pe țară în turul II al alegerilor. Diaspora va schimba puțin această diferență zdrobitoare |url=https://unimedia.info/ro/news/92c65cecb34698b2/filat-40-maia-sandu-si-60-alexandr-stoianoglo-este-scenariul-pe-tara-in-turul-ii-al-alegerilor-diaspora-va-schimba-putin-aceasta-diferenta-zdrobitoare.html |access-date=2024-10-25 |website=UNIMEDIA |language=ro}}</ref>",
                       "url": "https://unimedia.info/ro/news/92c65cecb34698b2/filat-40-maia-sandu-si-60-alexandr-stoianoglo-este-scenariul-pe-tara-in-turul-ii-al-alegerilor-diaspora-va-schimba-putin-aceasta-diferenta-zdrobitoare.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Filat, despre turul II al alegerilor: Surprizele pentru PAS abia încep |url=https://stiri.md/article/politica/filat-despre-turul-ii-al-alegerilor-surprizele-pentru-pas-abia-incep |access-date=2024-10-25 |website=stiri.md}}</ref>",
                       "url": "https://stiri.md/article/politica/filat-despre-turul-ii-al-alegerilor-surprizele-pentru-pas-abia-incep",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Conferința de presă al Partidul Verde Ecologist din Moldova privitor la al doilea tur electoral |url=https://www.facebook.com/PartidulVerdeEcologist/posts/pfbid02tXskdQbqsQGK3WiYVN1uphEovgentsxCngrimgB7Vzz78PKZNxdEtLAcAdzGC9NAl |access-date=2024-10-29 |date=2024-10-29 |via=Facebook|lang=ro}}</ref>",
                       "url": "https://www.facebook.com/PartidulVerdeEcologist/posts/pfbid02tXskdQbqsQGK3WiYVN1uphEovgentsxCngrimgB7Vzz78PKZNxdEtLAcAdzGC9NAl",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Astăzi a avut loc ședința Consiliului Republican al Partidului Liberal |url=https://www.facebook.com/liberalparty.md/videos/1070861488093959 |access-date=2024-10-27 |date=2024-10-27 |via=Facebook|lang=ro}}</ref>",
                       "url": "https://www.facebook.com/liberalparty.md/videos/1070861488093959",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Gandrabur |first=Corneliu |date=2024-10-29 |title=CUB îndeamnă cetățenii la un vot rațional în turul II: \"Viitorul președinte trebuie să fie garantul bunăstării și unității naționale\" Telegraph – Agenție de presă |url=https://telegraph.md/cub-indeamna-cetatenii-la-un-vot-rational-in-turul-ii-viitorul-presedinte-trebuie-sa-fie-garantul-bunastarii-si-unitatii-nationale/ |access-date=2024-10-29 |website=Telegraph – Agenție de presă}}</ref>",
                       "url": "https://telegraph.md/cub-indeamna-cetatenii-la-un-vot-rational-in-turul-ii-viitorul-presedinte-trebuie-sa-fie-garantul-bunastarii-si-unitatii-nationale/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1261,29 +1268,29 @@
                     {
                       "text": "<ref name=\":4\">{{Cite web |title=Renato Usatîi, despre cei doi candidați la prezidențiale: \"În grupul de susținători ai domnului Stoianoglo stau ticăloși cum sunt Filat, Platon, Caramalac și alții\". Ce a zis despre Maia Sandu |url=https://www.zdg.md/stiri/renato-usatii-despre-candidatii-la-prezidentiale-in-grupul-de-sustinatori-a-domnului-stoianoglo-stau-ticalosi-cum-sunt-filat-platon-caramalac-si-altii/ |access-date=2024-10-28 |website=zdg.md |language=ro}}</ref>",
                       "url": "https://www.zdg.md/stiri/renato-usatii-despre-candidatii-la-prezidentiale-in-grupul-de-sustinatori-a-domnului-stoianoglo-stau-ticalosi-cum-sunt-filat-platon-caramalac-si-altii/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":5\" />\n|-\n| style=\"background-color: {{party color|Independent politician}};\" |\n| Victoria Furtună\n| 4.45%\n| style=\"background-color: {{party color|Party of Socialists of the Republic of Moldova}};\" |\n| Alexandr Stoianoglo<ref>{{Cite web |date=2024-10-29 |title=Victoria Furtună îndeamnă votanții să-l susțină pe Stoianoglo  |url=https://www.ipn.md/ro/victoria-furtuna-va-indemn-sa-l-votati-pe-stoianoglo-8013_1108542.html |access-date=2024-10-29 |website=IPN |language=ro}}</ref>",
                       "url": "https://www.ipn.md/ro/victoria-furtuna-va-indemn-sa-l-votati-pe-stoianoglo-8013_1108542.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":7\" />\n|-\n| style=\"background-color: {{party color|Party of Development and Consolidation of Moldova}};\" |\n| Ion Chicu\n| 2.06%\n| style=\"background-color: #ce3a33;\" |\n| Against Sandu<ref name=\":6\">{{Cite web |title=Ion Chicu își cheamă susținătorii să voteze împotriva Maiei Sandu: \"Să fim cinstiți cu alegătorii noștri!\" |url=https://tv8.md/2024/10/24/ion-chicu-isi-cheama-sustinatorii-sa-voteze-impotriva-maiei-sandu-sa-fim-cinstiti-cu-alegatorii-nostri/268148 |access-date=2024-10-24 |website=tv8.md |language=en}}</ref>",
                       "url": "https://tv8.md/2024/10/24/ion-chicu-isi-cheama-sustinatorii-sa-voteze-impotriva-maiei-sandu-sa-fim-cinstiti-cu-alegatorii-nostri/268148",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"auto5\"/>\n|-\n| style=\"background-color: {{party color|Independent politician}};\" |\n| Andrei Năstase\n| 0.64%\n| colspan=\"2\" | No endorsement<ref>{{Cite web |title=Pe cine va susţine Andrei Năstase în al doilea tur al alegerilor |url=https://noi.md/md/politica/pe-cine-va-sustine-andrei-nastase-in-al-doilea-tur-al-alegerilor |access-date=2024-10-24 |website=noi.md |language=ru}}</ref>",
                       "url": "https://noi.md/md/politica/pe-cine-va-sustine-andrei-nastase-in-al-doilea-tur-al-alegerilor",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
@@ -1296,7 +1303,7 @@
                     {
                       "text": "<ref>{{Cite web |title=\"Moldova are nevoie de o alternativă reală\": Mesajul lui Ulianovschi, în contextul turului II al alegerilor prezidențiale |url=https://tv8.md/2024/10/28/moldova-are-nevoie-de-o-alternativa-reala-mesajul-lui-ulianovschi-in-contextul-turului-ii-al-alegerilor-prezidentiale/268433 |access-date=2024-10-28 |website=tv8.md |language=en}}</ref>",
                       "url": "https://tv8.md/2024/10/28/moldova-are-nevoie-de-o-alternativa-reala-mesajul-lui-ulianovschi-in-contextul-turului-ii-al-alegerilor-prezidentiale/268433",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1325,36 +1332,36 @@
                     {
                       "text": "<ref name=\"auto3\">{{Cite web |date=2024-10-20 |title=Moldovan president appears set to win 1st round of presidential race, but EU vote could be rejected |url=https://apnews.com/article/moldova-elections-referendum-eu-russia-sandu-9411ab04ffb3230a83a4f8751c4e2414 |access-date=2024-10-21 |website=AP News |language=en}}</ref>",
                       "url": "https://apnews.com/article/moldova-elections-referendum-eu-russia-sandu-9411ab04ffb3230a83a4f8751c4e2414",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Ciesielska |first1=Paulina |title=Gagauzia votes overwhelmingly against EU integration |url=https://www.msn.com/en-ie/news/world/gagauzia-votes-overwhelmingly-against-eu-integration/ar-AA1sF7xS |access-date=21 October 2024 |agency=msn.com |date=21 October 2024}}</ref>",
-                      "url": "https://www.msn.com/en-ie/news/world/gagauzia-votes-overwhelmingly-against-eu-integration/ar-AA1sF7xS",
-                      "status_code": null,
+                      "url": "https://www.msn.com/ko-kr",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |last1=Socor |first1=Vladimir |title=Bessarabia's 'Ethnographic Harlequin' in a Regional Perspective |url=https://jamestown.org/program/bessarabias-ethnographic-harlequin-in-a-regional-perspective/ |website=jamestown.org |access-date=21 October 2024}}</ref>",
                       "url": "https://jamestown.org/program/bessarabias-ethnographic-harlequin-in-a-regional-perspective/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Ciobanu |first1=Cornel |title=DISINFORMATION: The government in Chisinau is undermining Gagauzia's autonomy |url=https://www.veridica.ro/en/fake-news-disinformation-propaganda/disinformation-the-government-in-chisinau-is-undermining-gagauzias-autonomy |access-date=21 October 2024 |agency=veridica.co |date=23 August 2021}}</ref>",
                       "url": "https://www.veridica.ro/en/fake-news-disinformation-propaganda/disinformation-the-government-in-chisinau-is-undermining-gagauzias-autonomy",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Necsutu |first1=Madalin |title=Moldova Leader Slams 'Attack on Democracy' as Presidential Polls Go to Run-Off |url=https://balkaninsight.com/2024/10/21/moldova-leader-slams-attack-on-democracy-as-presidential-polls-go-to-run-off/ |access-date=21 October 2024 |agency=balkaninsight.com |date=21 October 2024}}</ref>",
                       "url": "https://balkaninsight.com/2024/10/21/moldova-leader-slams-attack-on-democracy-as-presidential-polls-go-to-run-off/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -1376,7 +1383,7 @@
                     {
                       "text": "<ref name=\":8\" /> Stoianoglo led the counting within Moldova, particularly among rural areas and in the south of the country and Transnistria, winning 51.2%.<ref name=\"bbcresult\"/> He recorded back-to-back landslide results in Gagauzia and Taraclia, winning more than 90% of the vote in each.<ref name=\"cec_results\"/> However, Sandu led votes in Chișinău and other cities, among the youth and the Moldovan diaspora, where she won 83% of the vote.<ref name=\"apoverseas\"/><ref name=\"bbcresult\"/><ref>{{Cite news |date=2024-11-04 |title=Moldova's pro-EU president claims election win amid Russian meddling claims |url=https://www.aljazeera.com/news/2024/11/3/moldovans-vote-in-tense-presidential-run-off-amid-russian-meddling-claims |access-date=2024-11-04 |work=Al Jazeera |language=en-GB}}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/11/3/moldovans-vote-in-tense-presidential-run-off-amid-russian-meddling-claims",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
@@ -1384,7 +1391,7 @@
                       "text": "<ref name=\"cec_results\">{{cite web |title=Alegeri pentru funcția de Preşedinte al Republicii Moldova, Turul II |url=https://pv.cec.md/cec-presidential-results-tour2.html |website=Comisia Electorală Centrală a Republicii Moldova |access-date=4 November 2024}}</ref>",
                       "url": "https://pv.cec.md/cec-presidential-results-tour2.html",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     }
                   ]
@@ -1412,21 +1419,21 @@
                     {
                       "text": "<ref>{{Cite web |url=https://www.bbc.com/news/articles/c1wnr5qdxe7o |title=Moldova says 'Yes' to pro-EU constitutional changes by tiny margin |website=BBC |date=21 October 2024}}</ref>",
                       "url": "https://www.bbc.com/news/articles/c1wnr5qdxe7o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=McGrath |first=Stephen |url=https://apnews.com/article/moldova-elections-eu-referendum-russia-325cb2c13beb1d76565a6e2aadef971a |title=Moldova narrowly votes to secure path toward EU membership after accusing Russia of interference |website=Associated Press |date=21 October 2024 |access-date=21 October 2024}}</ref>",
                       "url": "https://apnews.com/article/moldova-elections-eu-referendum-russia-325cb2c13beb1d76565a6e2aadef971a",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-10-21 |title=Moldova leader decries vote meddling after slim majority backs joining the E.U. |url=https://www.nbcnews.com/news/world/moldova-leader-decries-vote-meddling-slim-majority-backs-joining-eu-rcna176348 |access-date=2024-10-21 |website=NBC News |language=en}}</ref>",
                       "url": "https://www.nbcnews.com/news/world/moldova-leader-decries-vote-meddling-slim-majority-backs-joining-eu-rcna176348",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1447,7 +1454,7 @@
                         {
                           "text": "<ref>{{cite news|url=https://stirileprotv.ro/stiri/international/sute-de-alegatori-din-moldova-sunt-anchetati-pentru-cumpararea-voturilor-z15-milioane-de-dolari-catre-acesti-oameni.html|title=Sute de alegători din Moldova sunt anchetați pentru că și-ar fi vândut votul Moscovei. Riscă o amendă uriașă|publisher=Pro TV|date=23 October 2024|language=ro}}</ref>",
                           "url": "https://stirileprotv.ro/stiri/international/sute-de-alegatori-din-moldova-sunt-anchetati-pentru-cumpararea-voturilor-z15-milioane-de-dolari-catre-acesti-oameni.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -1459,8 +1466,8 @@
                       "references": [
                         {
                           "text": "<ref>{{cite news|url=https://newsmaker.md/ro/transferuri-de-peste-39-mln-pentru-a-corupe-masiv-electoratul-igp-circa-138-mii-de-persoane-din-moldova-in-contact-cu-psb-bank/|title=Transferuri de până la $39 mln pentru a \"corupe masiv electoratul\". IGP: circa 138 mii de persoane din Moldova – în contact cu PSB Bank|first=Mihaela|last=Conovali|work=NewsMaker|date=24 October 2024|language=ro}}</ref>",
-                          "url": "https://newsmaker.md/ro/transferuri-de-peste-39-mln-pentru-a-corupe-masiv-electoratul-igp-circa-138-mii-de-persoane-din-moldova-in-contact-cu-psb-bank/",
-                          "status_code": null,
+                          "url": "https://newsmaker.md/ro/transferuri-de-peste-39-mln-pentru-a-corupe-masiv-electoratul-igp-circa-138-mii-de-persoane-din-moldova-in-contact-cu-psb-bank",
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -1472,16 +1479,16 @@
                       "references": [
                         {
                           "text": "<ref>{{cite news|url=https://stiri.md/article/social/sondaj-74-7-din-respondenti-cunosc-persoane-care-si-au-vandut-votul/|title=Sondaj: 74,7% din respondenți cunosc persoane care și-au vândut votul|newspaper=Știri.md|date=24 January 2025|language=ro}}</ref>",
-                          "url": "https://stiri.md/article/social/sondaj-74-7-din-respondenti-cunosc-persoane-care-si-au-vandut-votul/",
-                          "status_code": null,
+                          "url": "https://stiri.md/article/social/sondaj-74-7-din-respondenti-cunosc-persoane-care-si-au-vandut-votul",
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news|url=https://anticoruptie.md/ro/stiri/sondaj-moldovenii-nu-au-incredere-in-partide-insa-accepta-beneficii-pentru-vot|title=Sondaj// Moldovenii nu au încredere în partide, însă acceptă beneficii pentru vot|newspaper=Anticoruptie.md|date=27 January 2025|language=ro}}</ref>",
                           "url": "https://anticoruptie.md/ro/stiri/sondaj-moldovenii-nu-au-incredere-in-partide-insa-accepta-beneficii-pentru-vot",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 429,
+                          "reason": "Too Many Requests",
                           "type": "news"
                         }
                       ]
@@ -1503,7 +1510,7 @@
                         {
                           "text": "<ref>{{cite web |title=Moldova, Presidential Election and Constitutional Referendum, 20 October 2024: Statement of Preliminary Findings and Conclusions |url=https://www.osce.org/odihr/elections/moldova/578815 |website=www.osce.org |publisher=OSCE |access-date=28 October 2024 |language=en}}</ref>",
                           "url": "https://www.osce.org/odihr/elections/moldova/578815",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1526,7 +1533,7 @@
                         {
                           "text": "<ref>{{cite news|url=https://stirileprotv.ro/stiri/international/de-ce-nu-au-fost-anulate-alegerile-din-republica-moldova-in-ciuda-fraudelor-masive-explicatiile-oferite-de-maia-sandu.html|title=De ce nu au fost anulate alegerile din Republica Moldova, în ciuda fraudelor masive. Explicațiile oferite de Maia Sandu|first=Paul|last=Tecuceanu|publisher=Pro TV|date=25 October 2024|language=ro}}</ref>",
                           "url": "https://stirileprotv.ro/stiri/international/de-ce-nu-au-fost-anulate-alegerile-din-republica-moldova-in-ciuda-fraudelor-masive-explicatiile-oferite-de-maia-sandu.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -1551,14 +1558,14 @@
                     {
                       "text": "<ref name=\":8\" /> The Party of Socialists alleged that voting was marred by irregularities and the reduction of polling stations available for Moldovans living in Russia. It also called Sandu an \"illegitimate president\".<ref name=\"eu\"/> PRSM leader Igor Dodon also called Sandu \"a president of the diaspora\", citing her strong showing among overseas voters.<ref name=\"apoverseas\">{{Cite web |date=2024-11-04 |title=Moldova's diaspora tipped the scales in a pivotal election. Critics question the vote's validity |url=https://apnews.com/article/moldova-election-president-russia-europe-diaspora-sandu-40b98d140fefd92a2bd06d5db8b5d82f |access-date=2024-11-04 |website=Associated Press |language=en}}</ref>",
                       "url": "https://apnews.com/article/moldova-election-president-russia-europe-diaspora-sandu-40b98d140fefd92a2bd06d5db8b5d82f",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-11-06 |title=President Sandu's opponent concedes, days after losing Moldovan presidential election |url=https://kyivindependent.com/sandus-rival-concedes-defeat-in-moldovas-presidential-election/ |access-date=2024-11-07 |website=The Kyiv Independent |language=en}}</ref>",
                       "url": "https://kyivindependent.com/sandus-rival-concedes-defeat-in-moldovas-presidential-election/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1579,49 +1586,49 @@
                         {
                           "text": "<ref>{{Cite web |date=2024-11-04 |title=Primele rezultate ale alegerilor din Republica Moldova. Maia Sandu conduce cu șapte procente în fața lui Alexandr Stoianoglo |url=https://www.digi24.ro/stiri/externe/rezultate-alegeri-moldova-turul-2-2992523 |access-date=2024-11-04 |website=www.digi24.ro |language=ro}}</ref>",
                           "url": "https://www.digi24.ro/stiri/externe/rezultate-alegeri-moldova-turul-2-2992523",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"bbcresult\" /> \n* {{flag|France}}: President Emmanuel Macron praised the result, saying that democracy had \"triumphed over all interference and all maneuvers\".<ref>{{Cite web |date=2024-11-04 |title=Moldova pro-EU leader Sandu wins re-election despite Russian meddling allegations |url=https://www.france24.com/en/europe/20241104-moldova-sandu |access-date=2024-11-04 |website=France 24 |language=en}}</ref>",
                           "url": "https://www.france24.com/en/europe/20241104-moldova-sandu",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"eu\" />\n* {{flag|United States}}: President Joe Biden congratulated Maia Sandu on her reelection, praising the Moldovan people for supporting her vision of a \"secure, prosperous, and democratic Moldova.\" He noted that Sandu’s victory came just weeks after a 2024 Moldovan European Union membership referendum|constitutional referendum endorsing Accession of Moldova to the European Union|Moldova's membership in the European Union. Biden condemned Russia’s attempts to \"undermine Moldova’s democratic institutions and election processes,\" noting that these efforts had failed. He lauded the Moldovan people for exercising their democratic right to \"choose their own future,\" opting for an alignement with Europe and democracies worldwide.<ref>{{Cite web |last=Chisinau |first=U. S. Embassy |date=2024-11-04 |title=Statement by President Joe Biden on Moldova’s Presidential Elections |url=https://md.usembassy.gov/statement-by-president-joe-biden-on-moldovas-presidential-elections/ |access-date=2025-02-15 |website=U.S. Embassy in Moldova |language=en-US}}</ref>",
                           "url": "https://md.usembassy.gov/statement-by-president-joe-biden-on-moldovas-presidential-elections/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Presse |first=AFP-Agence France |title=Biden Hails Moldova 'Democratic' Vote, Says Russia 'Failed' |url=https://www.barrons.com/news/biden-hails-moldova-democratic-vote-says-russia-failed-e34542a0 |access-date=2025-02-15 |website=barrons |language=en-US}}</ref>",
                           "url": "https://www.barrons.com/news/biden-hails-moldova-democratic-vote-says-russia-failed-e34542a0",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"eu\">{{Cite web |date=2024-11-04 |title=EU hails re-election of pro-EU Maia Sandu in tense Moldova vote |url=https://www.france24.com/en/live-news/20241104-eu-hails-re-election-of-pro-eu-maia-sandu-in-tense-moldova-vote |access-date=2024-11-04 |website=France 24 |language=en}}</ref>",
                           "url": "https://www.france24.com/en/live-news/20241104-eu-hails-re-election-of-pro-eu-maia-sandu-in-tense-moldova-vote",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2024-11-05 |title=Kremlin Calls Moldovan Presidential Election 'Undemocratic' and 'Unfair' |url=https://www.themoscowtimes.com/2024/11/05/kremlin-calls-moldovan-presidential-election-undemocratic-and-unfair-a86906 |access-date=2024-11-05 |website=The Moscow Times |language=en}}</ref>",
                           "url": "https://www.themoscowtimes.com/2024/11/05/kremlin-calls-moldovan-presidential-election-undemocratic-and-unfair-a86906",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{cite news |title=Moldovan diaspora in Moscow showed record turnout for Moldovan election |url=https://www.pravda.com.ua/eng/news/2024/11/4/7482845/ |access-date=3 January 2025 |publisher=Ukrainska Pravda |date=4 November 2024}}</ref>",
                           "url": "https://www.pravda.com.ua/eng/news/2024/11/4/7482845/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }

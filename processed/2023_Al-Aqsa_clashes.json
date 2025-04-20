@@ -1,0 +1,350 @@
+{
+  "title": "2023_Al-Aqsa_clashes",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "A series of violent confrontations occurred between Palestinians and Israeli police at the Al-Aqsa Mosque compound in Jerusalem in April 2023. After the evening Ramadan prayer, Palestinians barricaded themselves inside the mosque, prompted by reports that Jews planned to sacrifice a goat at the site (which is forbidden by Israeli law). In response, Israeli police raided the mosque in riot gear, injuring 50 people and arresting at least 400.",
+              "references": [
+                {
+                  "text": "<ref name=\"bbc1\">{{Cite news |date=2023-04-05 |title=Al-Aqsa mosque: Violence as Israeli police raid Jerusalem holy site |language=en-GB |work=BBC News |url=https://www.bbc.com/news/world-middle-east-65184207 |access-date=2023-04-09 |archive-date=2023-04-11 |archive-url=https://web.archive.org/web/20230411062820/https://www.bbc.com/news/world-middle-east-65184207 |url-status=live }}</ref>",
+                  "url": "https://www.bbc.com/news/world-middle-east-65184207",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last=Busari |first= Biodun|date=April 5, 2023 |title= Israeli police raid, arrest Palestinian worshippers in Al-Aqsa mosque|url=https://www.vanguardngr.com/2023/04/israeli-police-raid-arrest-palestinian-worshippers-in-al-aqsa-mosque/amp/ |work= Vanguard (Nigeria)|Vanguard|location= |access-date=October 26, 2023}}</ref>",
+                  "url": "https://www.vanguardngr.com/2023/04/israeli-police-raid-arrest-palestinian-worshippers-in-al-aqsa-mosque/amp/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The clashes occurred during a period of increased Israeli–Palestinian tensions due to the convergence of the Muslim holy month of Ramadan, the Jewish holiday of Passover, and the Christian Holy Week.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news|url=https://www.bbc.com/news/world-middle-east-65184207|title=Jerusalem: Clashes erupt at al-Aqsa mosque|work=BBC News|first1=David|last1=Gritten|first2=Yaroslav|last2=Lukov|date=April 5, 2023|access-date=5 April 2023|archive-date=5 April 2023|archive-url=https://web.archive.org/web/20230405040258/https://www.bbc.com/news/world-middle-east-65184207|url-status=live}}</ref>",
+                  "url": "https://www.bbc.com/news/world-middle-east-65184207",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "Since the beginning of Ramadan on 22 March, Muslim worshippers had attempted to stay overnight in the Al-Aqsa mosque, a practice usually permitted only in the last 10 days of the holiday (11–21 April). Israel Police had entered the mosque to evict worshippers nightly over Ramadan.",
+              "references": [
+                {
+                  "text": "<ref name=\"AP\">{{cite news |last1=Debre |first1=Isabel |title=Violence erupts at Jerusalem holy site for a 2nd night |url=https://apnews.com/article/israel-palestinians-al-aqsa-fighting-ae1f960552300f6e7c72b3fdad4e3d73 |access-date=23 August 2023 |work=Associated Press |date=2023-04-05 |archive-date=2023-10-08 |archive-url=https://web.archive.org/web/20231008224056/https://apnews.com/article/israel-palestinians-al-aqsa-fighting-ae1f960552300f6e7c72b3fdad4e3d73 |url-status=live }}</ref>",
+                  "url": "https://apnews.com/article/israel-palestinians-al-aqsa-fighting-ae1f960552300f6e7c72b3fdad4e3d73",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "On 3 April, Israel Police detained a Jewish activist with the Temple Mount Administration in an attempt to head off attempts by Jewish groups to contravene the ban on Jewish prayer in the Al-Aqsa Mosque compound and perform a ritual sacrifice for Passover, which would begin the evening of 4 April. The same day, the National Security Minister Ben-Gvir advocated for Jewish groups to go to Temple Mount during Passover, but refrain from ritual sacrifice. According to the status quo, Jews are allowed to visit the Temple Mount site but not pray there.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news|url=https://www.reuters.com/world/middle-east/israel-detains-passover-sacrifice-campaigner-al-aqsa-tensions-simmer-2023-04-03/|title=Israel detains Passover sacrifice campaigner as Al Aqsa tensions simmer|first=Dan|last=Williams|newspaper=Reuters|date=April 3, 2023|via=www.reuters.com|access-date=2023-04-07|archive-date=2023-04-07|archive-url=https://web.archive.org/web/20230407112949/https://www.reuters.com/world/middle-east/israel-detains-passover-sacrifice-campaigner-al-aqsa-tensions-simmer-2023-04-03/|url-status=live}}</ref>",
+                  "url": "https://www.reuters.com/world/middle-east/israel-detains-passover-sacrifice-campaigner-al-aqsa-tensions-simmer-2023-04-03/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.timesofisrael.com/police-minister-jews-must-go-to-temple-mount-on-passover-but-no-animal-sacrifice/|title=Police minister: Jews must go to Temple Mount on Passover — but no animal sacrifice|first=Ash|last=Obel|work=The Times of Israel|date=3 April 2023|access-date=19 May 2023|archive-date=11 June 2023|archive-url=https://web.archive.org/web/20230611220200/https://www.timesofisrael.com/police-minister-jews-must-go-to-temple-mount-on-passover-but-no-animal-sacrifice/|url-status=live}}</ref>",
+                  "url": "https://www.timesofisrael.com/police-minister-jews-must-go-to-temple-mount-on-passover-but-no-animal-sacrifice/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |author=ToI Staff |title=Hundreds of Jews tour tense Temple Mt.; Jordan warns against violations of status quo |url=https://www.timesofisrael.com/jewish-visitors-tour-temple-mount-jordan-warns-against-violations-of-status-quo/ |date=9 April 2023 |access-date=10 April 2023 |work=The Times of Israel |language=en-US |archive-date=10 April 2023 |archive-url=https://web.archive.org/web/20230410060828/https://www.timesofisrael.com/jewish-visitors-tour-temple-mount-jordan-warns-against-violations-of-status-quo/ |url-status=live }}</ref>",
+                  "url": "https://www.timesofisrael.com/jewish-visitors-tour-temple-mount-jordan-warns-against-violations-of-status-quo/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Incident",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The confrontations began on the night of 4 April, when a few hundred Palestinians barricaded themselves in the Al-Aqsa mosque after Ramadan prayers amid concern that Jews might head to the Temple Mount to perform a ritual sacrifice, despite its prohibition. In response, Israeli police raided the mosque in riot gear. According to Palestinians, police threw stun grenades, fired rubber bullets, and beat Palestinians on the floor with batons, injuring at least 50 people and arresting 400. According to the Israeli police, Palestinians threw stones and launched fireworks at police. A video released by Israeli police showed that fireworks were used inside the mosque. One police officer was injured.",
+              "references": [
+                {
+                  "text": "<ref name=\":1\">{{Cite news |date=2023-04-05 |title=Ramadan and Passover raise tensions at Jerusalem holy site |language=en-GB |work=BBC News |url=https://www.bbc.com/news/world-middle-east-65187651 |access-date=2023-04-05 |archive-date=2023-04-05 |archive-url=https://web.archive.org/web/20230405130832/https://www.bbc.com/news/world-middle-east-65187651 |url-status=live }}</ref>",
+                  "url": "https://www.bbc.com/news/world-middle-east-65187651",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":1\"/><ref name=\"bbc1\"/> The events heightened tensions between Israelis and Palestinians and have drawn international attention to the ongoing conflict in the region.<ref name=\":0\">{{Cite web|url=https://www.cnn.com/2023/04/05/middleeast/israel-al-aqsa-mosque-clash-intl-hnk/index.html|title=Israeli police storm al-Aqsa mosque during Ramadan prayers, sparking rocket fire from Gaza|first1=Abeer|last1=Salma|first2=Mohammed|last2=Tawfeeq|first3=Jennifer|last3=Hauser|date=April 5, 2023|website=CNN|access-date=5 April 2023|archive-date=5 April 2023|archive-url=https://web.archive.org/web/20230405060910/https://www.cnn.com/2023/04/05/middleeast/israel-al-aqsa-mosque-clash-intl-hnk/index.html|url-status=live}}</ref>",
+                  "url": "https://edition.cnn.com/2023/04/05/middleeast/israel-al-aqsa-mosque-clash-intl-hnk/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Reactions",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "The ''Times of Israel'' reported a senior Israeli official's assessment that police \"went too far\" in their treatment of the Palestinians, that it lent weight to the al-Aqsa is in danger rallying cry, encouraged Israel’s enemies, and damaged Israel's reputation. The official called for a review of the officers' conduct, as they had been ordered to act with restraint. However, he stated that the police were compelled to enter the mosque after receiving intelligence that numerous Palestinians had stored weapons there with the intention to attack security personnel and Israeli civilians. Another Israeli security official blamed the Jordan-appointed Jerusalem Waqf for not doing enough against Palestinian rioters.\nThe Palestinian Authority and Hamas condemned the Israeli police action, which they described as a crime. Israeli authorities defended their actions as necessary to maintain public order and safety.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://www.timesofisrael.com/liveblog_entry/top-israeli-official-admits-police-overreacted-in-beating-palestinians-inside-al-aqsa/|title=Top Israeli official admits police overreacted in beating Palestinians inside al-Aqsa|work=The Times of Israel|date=9 April 2023|access-date=19 May 2023|archive-date=23 May 2023|archive-url=https://web.archive.org/web/20230523001147/https://www.timesofisrael.com/liveblog_entry/top-israeli-official-admits-police-overreacted-in-beating-palestinians-inside-al-aqsa/|url-status=live}}</ref>",
+                  "url": "https://www.timesofisrael.com/liveblog_entry/top-israeli-official-admits-police-overreacted-in-beating-palestinians-inside-al-aqsa/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.aljazeera.com/news/2023/4/5/israeli-police-attack-worshippers-in-jerusalems-al-aqsa-mosque|title=Israeli forces storm Al-Aqsa, attack worshippers during Ramadan|work=Al Jazeera|date=5 April 2023|access-date=5 April 2023|archive-date=5 April 2023|archive-url=https://web.archive.org/web/20230405025239/https://www.aljazeera.com/news/2023/4/5/israeli-police-attack-worshippers-in-jerusalems-al-aqsa-mosque|url-status=live}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/4/5/israeli-police-attack-worshippers-in-jerusalems-al-aqsa-mosque",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "* {{Flagicon|European Union}} Lead spokesperson for the external affairs of the European Union Peter Stano said that the EU is \"deeply concerned\" by the violence at Al-Aqsa Mosque in Jerusalem and calls on all parties to show restraint at a time of religious holidays.\n* {{Flagicon|Turkey}} Leader of Turkey's Republican People's Party Kemal Kılıçdaroğlu condemned the attack.\n* {{Flagicon|Kuwait}} Emir of Kuwait Nawaf Al-Ahmad Al-Jaber Al-Sabah condemned Israeli aggression against Al-Aqsa Mosque.\n* {{Flagicon|Canada}} Canadian Prime Minister Justin Trudeau expressed concern and called for a de-escalation of violence.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=EU 'deeply concerned' by violence at Jerusalem's Al-Aqsa Mosque |url=https://www.aa.com.tr/en/europe/eu-deeply-concerned-by-violence-at-jerusalems-al-aqsa-mosque/2864338 |access-date=2023-04-05 |website=www.aa.com.tr |archive-date=2023-04-05 |archive-url=https://web.archive.org/web/20230405152659/https://www.aa.com.tr/en/europe/eu-deeply-concerned-by-violence-at-jerusalems-al-aqsa-mosque/2864338 |url-status=live }}</ref>",
+                  "url": "https://www.aa.com.tr/en/europe/eu-deeply-concerned-by-violence-at-jerusalems-al-aqsa-mosque/2864338",
+                  "status_code": null,
+                  "reason": "[Errno 104] Connection reset by peer",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Kılıçdaroğlu'ndan tepki: Mescid-i Aksa'daki saldırıyı şiddetle lanetliyorum |url=https://www.cumhuriyet.com.tr/siyaset/kilicdaroglundan-tepki-mescid-i-aksadaki-saldiriyi-siddetle-lanetliyorum-2068353 |access-date=2023-04-05 |website=www.cumhuriyet.com.tr |language=tr |archive-date=2023-04-05 |archive-url=https://web.archive.org/web/20230405155950/https://www.cumhuriyet.com.tr/siyaset/kilicdaroglundan-tepki-mescid-i-aksadaki-saldiriyi-siddetle-lanetliyorum-2068353 |url-status=live }}</ref>",
+                  "url": "https://www.cumhuriyet.com.tr/siyaset/kilicdaroglundan-tepki-mescid-i-aksadaki-saldiriyi-siddetle-lanetliyorum-2068353",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |last1=Raycraft |first1=Richard |title=Trudeau calls for peace following Israeli raid of mosque |url=https://www.cbc.ca/news/politics/trudeau-peace-israeli-mosque-raid-1.6802474 |website=Canadian Broadcasting Corporation |access-date=7 April 2023 |archive-date=9 April 2023 |archive-url=https://web.archive.org/web/20230409200855/https://www.cbc.ca/news/politics/trudeau-peace-israeli-mosque-raid-1.6802474 |url-status=live }}</ref>",
+                  "url": "https://www.cbc.ca/news/politics/trudeau-peace-israeli-mosque-raid-1.6802474",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "* {{Flagicon|UAE}} In a statement by the United Arab Emirates Ministry of Foreign Affairs and International Cooperation (United Arab Emirates)|Ministry of Foreign Affairs and International Cooperation, \"strongly condemned the storming of Al-Aqsa Mosque by Israeli police ... and emphasized that worshipers should not barricade themselves inside the mosque and places of worship with weapons and explosives.\".\n* {{Flagicon|Oman}} The Foreign_Ministry_(Oman)|Foreign Ministry of Oman issued a statement denouncing and condemning the Israel Defense Forces' storming of the Al Aqsa Mosque.\nFurthermore, the actions of the Israeli Police have been condemned by the Ministry of foreign affairs|ministries of foreign affairs of Qatar, Turkey, Jordan, Saudi Arabia, Bahrain, Iran, Morocco, Algeria, Pakistan, Afghanistan, Bangladesh and Malaysia.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |title=UAE condemns storming of Al-Aqsa Mosque by Israeli police |url=https://www.mofaic.gov.ae/en/mediahub/news/2023/4/5/05-04-2023-uae-aqsa |website=www.mofaic.gov.ae |access-date=7 April 2023 |archive-date=7 April 2023 |archive-url=https://web.archive.org/web/20230407202712/https://www.mofaic.gov.ae/en/mediahub/news/2023/4/5/05-04-2023-uae-aqsa |url-status=live }}</ref>",
+                  "url": "https://www.mofa.gov.ae/en/mediahub/news/2023/4/5/05-04-2023-uae-aqsa",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |title=Oman denounces occupation forces' storming of Al Aqsa Mosque |url=https://fm.gov.om/oman-denounces-occupation-forces-storming-of-al-aqsa-mosque/ |website=Foreign Ministry of Oman |date=5 April 2023 |access-date=7 April 2023 |archive-date=8 April 2023 |archive-url=https://web.archive.org/web/20230408042442/https://fm.gov.om/oman-denounces-occupation-forces-storming-of-al-aqsa-mosque/ |url-status=live }}</ref>",
+                  "url": "https://www.fm.gov.om/oman-denounces-occupation-forces-storming-of-al-aqsa-mosque/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Qatar condemns in the strongest terms the Israeli occupation forces storming of Al-Aqsa Mosque and attacking worshippers |url=https://www.mofa.gov.qa/en/statements/qatar-condemns-in-the-strongest-terms-the-israeli-occupation-forces-storming-of-al-aqsa-mosque-and-attacking-worshippers |access-date=2023-04-08 |website=www.mofa.gov.qa |archive-date=2023-04-08 |archive-url=https://web.archive.org/web/20230408050521/https://www.mofa.gov.qa/en/statements/qatar-condemns-in-the-strongest-terms-the-israeli-occupation-forces-storming-of-al-aqsa-mosque-and-attacking-worshippers |url-status=live }}</ref>",
+                  "url": "https://www.mofa.gov.qa/en/statements/qatar-condemns-in-the-strongest-terms-the-israeli-occupation-forces-storming-of-al-aqsa-mosque-and-attacking-worshippers",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Republic of Türkiye Ministry of Foreign Affairs |date=5 April 2023 |title=Press Release Regarding the Attacks and Provocations On Al-Aqsa Mosque |url=https://www.mfa.gov.tr/no_-91_-mescid-i-aksa-ya-yonelik-saldiri-ve-provokasyonlar-hk.en.mfa |access-date=8 April 2023 |archive-date=8 April 2023 |archive-url=https://web.archive.org/web/20230408050521/https://www.mfa.gov.tr/no_-91_-mescid-i-aksa-ya-yonelik-saldiri-ve-provokasyonlar-hk.en.mfa |url-status=live }}</ref>",
+                  "url": "https://www.mfa.gov.tr/no_-91_-mescid-i-aksa-ya-yonelik-saldiri-ve-provokasyonlar-hk.en.mfa",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=الأردن يحذر من استمرار اعتداءات شرطة الاحتلال الإسرائيلي على المصلين |url=https://mfa.gov.jo/news/34153 |access-date=2023-04-08 |website=mfa.gov.jo |archive-date=2023-04-08 |archive-url=https://web.archive.org/web/20230408050525/https://mfa.gov.jo/news/34153 |url-status=live }}</ref>",
+                  "url": "https://mfa.gov.jo/news/34153",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=توضح وزارة الخارجية أن المملكة العربية السعودية تتابع بقلقٍ بالغ اقتحام قوات الاحتلال الإسرائيلي لباحات المسجد الأقصى الشريف، والاعتداء على المصلين، واعتقالها عددٍ من المواطنين الفلسطينيين |url=https://www.mofa.gov.sa/ar/ministry/statements/Pages/%D8%AA%D9%88%D8%B6%D8%AD-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A3%D9%86-%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A8%D9%82%D9%84%D9%82%D9%8D-%D8%A8%D8%A7%D9%84%D8%BA-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%84%D8%A8%D8%A7%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A.aspx |access-date=2023-04-08 |website=www.mofa.gov.sa |archive-date=2023-04-08 |archive-url=https://web.archive.org/web/20230408050521/https://www.mofa.gov.sa/ar/ministry/statements/Pages/%D8%AA%D9%88%D8%B6%D8%AD-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A3%D9%86-%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A8%D9%82%D9%84%D9%82%D9%8D-%D8%A8%D8%A7%D9%84%D8%BA-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%84%D8%A8%D8%A7%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A.aspx |url-status=live }}</ref>",
+                  "url": "https://www.mofa.gov.sa/ar/ministry/statements/Pages/%D8%AA%D9%88%D8%B6%D8%AD-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A3%D9%86-%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A8%D9%82%D9%84%D9%82%D9%8D-%D8%A8%D8%A7%D9%84%D8%BA-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%84%D8%A8%D8%A7%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D8%A7%D9%84%D8%B4%D8%B1%D9%8A.aspx",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Bahrain condemns Israeli police raiding Al-Aqsa Mosque |url=http://www.mofa.gov.bh/Default.aspx?tabid=7824&language=en-US&ItemId=21732 |access-date=2023-04-08 |website=www.mofa.gov.bh |language=en-US |archive-date=2023-04-08 |archive-url=https://web.archive.org/web/20230408050526/https://www.mofa.gov.bh/Default.aspx?tabid=7824&language=en-US&ItemId=21732 |url-status=live }}</ref>",
+                  "url": "http://www.mofa.gov.bh/Default.aspx?tabid=7824&language=en-US&ItemId=21732",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Tweet of the Foreign Ministry spokesman |url=https://en.mfa.gov.ir/portal/newsview/en.mfa.gov.ir |access-date=2023-04-08 |website=en.mfa.gov.ir |language=en }}{{Dead link|date=October 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>",
+                  "url": "https://en.mfa.gov.ir/portal/newsview/en.mfa.gov.ir",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Statement |url=http://www.diplomatie.ma/en/statement-9 |access-date=2023-04-08 |website=Ministry of Foreign Affairs, African Cooperation and Moroccan Expatriates |language=en |archive-date=2023-04-08 |archive-url=https://web.archive.org/web/20230408063805/https://www.diplomatie.ma/en/statement-9 |url-status=live }}</ref>",
+                  "url": "http://www.diplomatie.ma/en/statement-9",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Algeria condemns storming of Al-Aqsa Mosque by the Israeli occupation authority |url=https://www.mfa.gov.dz/announcements/communique-of-the-presidency-of-the-republic-algeria-condemns-storming-of-al-aqsa-mosque-by-the-israeli-occupation-authority-1 |access-date=8 April 2023 |website=Ministry of Foreign Affairs and National Community Abroad |archive-date=8 April 2023 |archive-url=https://web.archive.org/web/20230408050523/https://www.mfa.gov.dz/announcements/communique-of-the-presidency-of-the-republic-algeria-condemns-storming-of-al-aqsa-mosque-by-the-israeli-occupation-authority-1 |url-status=live }}</ref>",
+                  "url": "https://www.mfa.gov.dz/announcements/communique-of-the-presidency-of-the-republic-algeria-condemns-storming-of-al-aqsa-mosque-by-the-israeli-occupation-authority-1",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Pakistan strongly condemns Israeli raid on Al-Aqsa Mosque – Ministry of Foreign Affairs |date=27 March 2023 |url=https://mofa.gov.pk/pakistan-strongly-condemns-israeli-raid-on-al-aqsa-mosque-2/ |access-date=2023-04-08 |language=en-US |archive-date=2023-04-08 |archive-url=https://web.archive.org/web/20230408050526/https://mofa.gov.pk/pakistan-strongly-condemns-israeli-raid-on-al-aqsa-mosque-2/ |url-status=live }}</ref>",
+                  "url": "https://mofa.gov.pk/pakistan-strongly-condemns-israeli-raid-on-al-aqsa-mosque-2",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=د ااا د بهرنیو چارو وزارت په الاقصی جومات کي په بې دفاع لمونځ کوونکو د اسرائیلي ځواکونو ظالمانه برید په کلکو ټکو غندي. |url=https://mfa.gov.af/%D8%AF-%D8%A7%D8%A7%D8%A7-%D8%AF-%D8%A8%D9%87%D8%B1%D9%86%DB%8C%D9%88-%DA%86%D8%A7%D8%B1%D9%88-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D9%BE%D9%87-%D8%A7%D9%84%D8%A7%D9%82%D8%B5%DB%8C-%D8%AC%D9%88/ |access-date=2023-04-08 |website=mfa.gov.af |archive-date=2023-04-08 |archive-url=https://web.archive.org/web/20230408050522/https://mfa.gov.af/%D8%AF-%D8%A7%D8%A7%D8%A7-%D8%AF-%D8%A8%D9%87%D8%B1%D9%86%DB%8C%D9%88-%DA%86%D8%A7%D8%B1%D9%88-%D9%88%D8%B2%D8%A7%D8%B1%D8%AA-%D9%BE%D9%87-%D8%A7%D9%84%D8%A7%D9%82%D8%B5%DB%8C-%D8%AC%D9%88/ |url-status=live }}</ref>",
+                  "url": "https://mfa.gov.af/10791",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Bangladesh\">{{cite web | title=Ministry of Foreign Affairs | website=Ministry of Foreign Affairs- Bangladesh | date=6 Apr 2023 | url=https://mofa.gov.bd/site/view/press_release/Press-Release | access-date=9 Apr 2023 | archive-date=9 April 2023 | archive-url=https://web.archive.org/web/20230409212908/https://mofa.gov.bd/site/view/press_release/Press-Release | url-status=live }}</ref>",
+                  "url": "https://mofa.gov.bd/site/view/press_release/Press-Release",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Malaysia\">{{cite web | title=MALAYSIA STRONGLY CONDEMNS THE ATTACKS BY ISRAELI OCCUPATION FORCES ON WORSHIPPERS IN THE AL-AQSA MOSQUE | website=Ministry of Foreign Affairs – Malaysia | date=6 Apr 2023 | url=https://www.kln.gov.my/web/guest/-/malaysia-strongly-condemns-the-attacks-by-israeli-occupation-forces-on-worshippers-in-the-al-aqsa-mosque | access-date=9 Apr 2023 | archive-date=9 April 2023 | archive-url=https://web.archive.org/web/20230409212906/https://www.kln.gov.my/web/guest/-/malaysia-strongly-condemns-the-attacks-by-israeli-occupation-forces-on-worshippers-in-the-al-aqsa-mosque | url-status=live }}</ref>",
+                  "url": "https://www.kln.gov.my/web/guest/-/malaysia-strongly-condemns-the-attacks-by-israeli-occupation-forces-on-worshippers-in-the-al-aqsa-mosque",
+                  "status_code": null,
+                  "reason": "Cannot connect to host www.kln.gov.my:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "On 6 April, the IDF stated that 2023 Israel–Lebanon shellings|some rockets were fired from Lebanon. The rockets were reportedly fired by Palestinian factions.",
+              "references": [
+                {
+                  "text": "<ref name=\":2\">{{Cite web |date=6 April 2023 |title=Israel intercepts rocket fire from southern Lebanon |url=https://www.aljazeera.com/news/2023/4/6/israel-intercepts-rocket-fired-from-southern-lebanon-military |access-date=6 April 2023 |website=Al Jazeera Media Network|Al Jazeera |language=en |archive-date=6 April 2023 |archive-url=https://web.archive.org/web/20230406123353/https://www.aljazeera.com/news/2023/4/6/israel-intercepts-rocket-fired-from-southern-lebanon-military |url-status=live }}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/4/6/israel-intercepts-rocket-fired-from-southern-lebanon-military",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"AP\" /><ref name=\":2\" /> There was no immediate comment from Lebanon's army.<ref name=\":2\" /> In a written statement, the United Nations Interim Force in Lebanon (UNIFIL) described the situation as \"extremely serious\" and urged restraint. It said UNIFIL chief Aroldo Lazaro was in contact with authorities on both sides.<ref>{{Cite web |date=2023-04-06 |title=UNIFIL urges restraint after Israel intercepts rockets fired from southern Lebanon |url=https://english.alarabiya.net/News/middle-east/2023/04/06/Sirens-warning-of-possible-incoming-rockets-sound-in-northern-Israel |access-date=2023-04-06 |website=Al Arabiya English |language=en |archive-date=2023-04-06 |archive-url=https://web.archive.org/web/20230406142746/https://english.alarabiya.net/News/middle-east/2023/04/06/Sirens-warning-of-possible-incoming-rockets-sound-in-northern-Israel |url-status=live }}</ref>",
+                  "url": "https://english.alarabiya.net/News/middle-east/2023/04/06/Sirens-warning-of-possible-incoming-rockets-sound-in-northern-Israel",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s2",
+              "text": "On 7 October 2023, Hamas launched 2023 Israel–Hamas war|a major surprise attack on Israel with rocket barrage and an incursion. The commander of the Izz ad-Din al-Qassam Brigades, Mohammed Deif, claimed the attack was conducted in response to \"desecration of the Al-Aqsa Mosque\".",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=חלבי |first=עינב |date=2023-10-07 |title=מוחמד דף על מתקפת הרקטות: ישראל חיללה את אל-אקצא, קורא לערביי ישראל להצטרף |language=he |work=Ynet |url=https://www.ynet.co.il/news/article/byezsprea |access-date=2023-10-07 |archive-date=2023-10-07 |archive-url=https://web.archive.org/web/20231007052336/https://www.ynet.co.il/news/article/byezsprea |url-status=live }}</ref>",
+                  "url": "https://www.ynet.co.il/news/article/byezsprea",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

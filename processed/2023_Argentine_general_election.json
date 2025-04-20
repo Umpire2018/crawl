@@ -1,0 +1,1041 @@
+{
+  "title": "2023_Argentine_general_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "General elections were held in Argentina on 22 October 2023 to elect the President of Argentina|president, Vice President of Argentina|vice president, members of the National Congress of Argentina|National Congress, and the governors of most Provinces of Argentina|provinces. As no presidential candidate won a majority in the first round, a Two-round system|runoff was held on 19 November, in which Javier Milei defeated Sergio Massa to become President of Argentina. Incumbent president Alberto Fernández and incumbent vice president and former president Cristina Fernández de Kirchner, despite both being eligible for a second, consecutive term, did not seek re-election.",
+              "references": [
+                {
+                  "text": "<ref name=\"Phillips\">{{Cite news|last1=Phillips|first1=Tom |last2=Salomon |first2=Josefina |last3=Iglesia |first3=Facundo |date=19 November 2023 |title=Argentina presidential election: far-right libertarian Javier Milei wins after rival concedes |work=The Guardian|url=https://www.theguardian.com/world/2023/nov/20/argentina-presidential-election-far-right-libertarian-javier-milei-wins-after-rival-concedes |url-status=live |access-date=19 November 2023 |archive-url=https://web.archive.org/web/20231119233050/https://www.theguardian.com/world/2023/nov/20/argentina-presidential-election-far-right-libertarian-javier-milei-wins-after-rival-concedes |archive-date=19 November 2023}}</ref>",
+                  "url": "https://www.theguardian.com/world/2023/nov/20/argentina-presidential-election-far-right-libertarian-javier-milei-wins-after-rival-concedes",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"LMM2\">{{cite news|url=https://www.infobae.com/politica/2023/04/21/alberto-fernandez-no-sera-candidato-a-la-reeleccion/|title=El presidente Alberto Fernández bajó su candidatura y no irá por la reelección|trans-title=Alberto Fernández drops out of re-election, and will not be a candidate for president|language=Spanish|last=Struminger|first=Brenda|date=21 April 2023|website=Infobae|accessdate=21 April 2023|archive-date=21 April 2023|archive-url=https://web.archive.org/web/20230421134148/https://www.infobae.com/politica/2023/04/21/alberto-fernandez-no-sera-candidato-a-la-reeleccion/|url-status=live}}</ref>",
+                  "url": "https://www.infobae.com/politica/2023/04/21/alberto-fernandez-no-sera-candidato-a-la-reeleccion/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"CFKP12\">{{cite news|url=https://www.pagina12.com.ar/505329-cristina-kirchner-no-voy-a-ser-candidata-a-nada-mi-nombre-no|title=Cristina Kirchner: \"No voy a ser candidata a nada, mi nombre no va a estar en ninguna boleta\". El fuerte mensaje de la vicepresidente contra el lawfare|trans-title=Cristina Kirchner: \"I will not be a candidate for anything, my name will not be on any ballot\". The strong message of the vice president against lawfare|date=29 April 2023|website=Pagina 12|accessdate=21 August 2023|language=es|archive-date=13 February 2023|archive-url=https://web.archive.org/web/20230213195722/https://www.pagina12.com.ar/505329-cristina-kirchner-no-voy-a-ser-candidata-a-nada-mi-nombre-no|url-status=live}}</ref>",
+                  "url": "https://www.pagina12.com.ar/505329-cristina-kirchner-no-voy-a-ser-candidata-a-nada-mi-nombre-no",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "1.s2",
+              "text": "Advancing to the runoff, Massa of the ruling centre-left Union for the Homeland unexpectedly came in first place, winning 36% of the vote, against Milei of the right-wing La Libertad Avanza|Liberty Advances, who came in second place, with 30% of the vote. Massa's victory in the first round was seen as an Upset (competition)#Politics|upset because of the severe inflation that took place during Massa's tenure as economy minister, as well as Milei's lead in polls up to that point. In the runoff Milei defeated Massa with 56% of the vote, the highest percentage of the vote since Argentina's transition to democracy. Milei received over 14 million votes, which was the highest ever vote total in Argentina's history. In a surprise reversal of the first round, Milei outperformed polls, which had been predicting a much closer race. Massa conceded defeat shortly before the official results were published. Milei was Inauguration of Javier Milei|inaugurated on 10 December.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |date=23 October 2023 |title=Argentina presidential election: Javier Milei and Sergio Massa head for run-off vote |website=BBC |url=https://www.bbc.com/news/world-latin-america-67190494 |url-status=live |accessdate=23 October 2023 |archive-url=https://web.archive.org/web/20231023021115/https://www.bbc.com/news/world-latin-america-67190494 |archive-date=23 October 2023}}</ref>",
+                  "url": "https://www.bbc.com/news/world-latin-america-67190494",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":1\">{{Cite web |date=19 November 2023 |title=Balotaje 2023, en vivo: los resultados y las noticias minuto a minuto de las elecciones |url=https://www.lanacion.com.ar/politica/balotaje-2023-en-argentina-en-vivo-nid18112023/ |access-date=19 November 2023 |website=LA NACION |language=es |archive-date=19 November 2023 |archive-url=https://web.archive.org/web/20231119085250/https://www.lanacion.com.ar/politica/balotaje-2023-en-argentina-en-vivo-nid18112023/ |url-status=live }}</ref>",
+                  "url": "https://www.lanacion.com.ar/politica/balotaje-2023-en-argentina-en-vivo-nid18112023/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Milei Victory\">{{cite news|url=https://www.infobae.com/politica/2023/11/19/sergio-massa-reconocio-la-derrota-y-javier-milei-sera-el-proximo-presidente-de-la-argentina/|title=Contundente triunfo de Javier Milei: será el próximo presidente de la Argentina|language=Spanish|last=Tagliabúe|first=Leonardo|date=19 November 2023|website=Infobae|accessdate=19 November 2023|archive-date=20 November 2023|archive-url=https://web.archive.org/web/20231120001825/https://www.infobae.com/politica/2023/11/19/sergio-massa-reconocio-la-derrota-y-javier-milei-sera-el-proximo-presidente-de-la-argentina/|url-status=live}}</ref>",
+                  "url": "https://www.infobae.com/politica/2023/11/19/sergio-massa-reconocio-la-derrota-y-javier-milei-sera-el-proximo-presidente-de-la-argentina/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|url=https://www.eltribuno.com/salta/nota/2023-12-10-14-9-0-milei-llego-a-casa-rosada-de-la-mano-de-su-hermana-karina-y-acompanado-por-una-multitud|title=Milei llegó a Casa Rosada de la mano de su hermana Karina y acompañado por una multitud|publisher=El Tribuno|date=10 December 2023|accessdate=10 December 2023|archive-date=10 December 2023|archive-url=https://web.archive.org/web/20231210181629/https://www.eltribuno.com/salta/nota/2023-12-10-14-9-0-milei-llego-a-casa-rosada-de-la-mano-de-su-hermana-karina-y-acompanado-por-una-multitud|url-status=live}}</ref>",
+                  "url": "https://www.eltribuno.com/nota/2023-12-10-14-9-0-milei-llego-a-casa-rosada-de-la-mano-de-su-hermana-karina-y-acompanado-por-una-multitud",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web|title=Argentina's opposition wins legislative polls ahead of 2023 election|url=http://www.efe.com/efe/english/portada/argentina-s-opposition-wins-legislative-polls-ahead-of-2023-election/50000260-4675822|access-date=12 February 2022|website=www.efe.com|language=en|archive-date=12 February 2022|archive-url=https://web.archive.org/web/20220212153742/https://www.efe.com/efe/english/portada/argentina-s-opposition-wins-legislative-polls-ahead-of-2023-election/50000260-4675822|url-status=live}}</ref>",
+                  "url": "https://efe.com",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news|url=https://www.cnn.com/2023/12/10/americas/javier-milei-argentina-president-oath-intl/index.html|title=Javier Milei hails 'new era' as right-wing outsider is sworn in as Argentina's new president|first1=Michael|last1=Bodenhorst|first2=Karol|last2=Suarez|publisher=CNN|date=10 December 2023|accessdate=10 December 2023|archive-date=10 December 2023|archive-url=https://web.archive.org/web/20231210170130/https://www.cnn.com/2023/12/10/americas/javier-milei-argentina-president-oath-intl/index.html|url-status=live}}</ref>",
+                  "url": "https://edition.cnn.com/2023/12/10/americas/javier-milei-argentina-president-oath-intl/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "1.s3",
+              "text": "Observers generally saw Milei's win as a sign more of discontent with the ''status quo'' than support for his politics, and his victory was likened to that of Donald Trump's 2016 United States presidential election|2016 victory in the United States and Jair Bolsonaro's 2018 Brazilian presidential election|2018 victory in Brazil. Milei expressed support and admiration for both figures and endorsed Trump in the 2024 United States presidential election.",
+              "references": [
+                {
+                  "text": "<ref>{{cite magazine|last=De Guzman|first=Chad|date=20 November 2023|url=https://time.com/6337474/javier-milei-argentina-president-cloned-dogs-advice/|title=Argentina Just Elected an Eccentric Populist Who Seeks Counsel From His Cloned Dogs|magazine=Time|issn=0040-781X|access-date=28 November 2023|archive-date=27 November 2023|archive-url=https://web.archive.org/web/20231127235008/https://time.com/6337474/javier-milei-argentina-president-cloned-dogs-advice/|url-status=live}}</ref>",
+                  "url": "https://time.com/6337474/javier-milei-argentina-president-cloned-dogs-advice/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "magazine"
+                },
+                {
+                  "text": "<ref>{{cite news|last1=Bayer|first1=Lili|last2=Jones|first2=Sam|last3=Phillips|first3=Tom|last4=Salomón|first4=Josefina|url=https://www.theguardian.com/world/2023/nov/20/trump-bolsonaro-javier-milei-argentina-far-right|title=Trump and Bolsonaro salute Javier Milei as far right rejoice around the world|work=The Guardian|date=20 November 2023|access-date=30 November 2023|archive-date=30 November 2023|archive-url=https://web.archive.org/web/20231130221420/https://www.theguardian.com/world/2023/nov/20/trump-bolsonaro-javier-milei-argentina-far-right|url-status=live}}</ref>",
+                  "url": "https://www.theguardian.com/world/2023/nov/20/trump-bolsonaro-javier-milei-argentina-far-right",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|last1=Carmo|first1=Marcia|last2=Corrêa|first2=Alessandra|url=https://www.bbc.com/mundo/articles/c0v29vlel98o|title=Milei presidente: En qué se parece el político argentino a Trump y Bolsonaro|trans-title=President Milei: How the Argentine politician is similar to Trump and Bolsonaro|work=BBC Mundo|language=es|date=21 November 2023|access-date=30 November 2023|archive-date=27 November 2023|archive-url=https://web.archive.org/web/20231127071511/https://www.bbc.com/mundo/articles/c0v29vlel98o|url-status=live}}</ref>",
+                  "url": "https://www.bbc.com/mundo/articles/c0v29vlel98o",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "{{Main|Presidency of Alberto Fernández}}\nIn the 2019 Argentine general election|2019 general election, the Peronist, left-wing Frente de Todos ticket of Alberto Fernández, former Cabinet Chief, and Cristina Fernández de Kirchner, National Senator and former president, defeated the center-right Juntos por el Cambio ticket of incumbent president Mauricio Macri and conservative Peronist National Senator Miguel Ángel Pichetto, exceeding the threshold to win the presidency in a single round. Macri became the first incumbent president in Argentine history to be defeated for reelection.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|url=https://www.infobae.com/opinion/2019/10/28/perdio-macri/|title=Perdió Macri|last=Tereschuk|first=Nicolás|date=28 October 2019|work=Infobae|language=es|access-date=26 June 2023|archive-date=26 June 2023|archive-url=https://web.archive.org/web/20230626190834/https://www.infobae.com/opinion/2019/10/28/perdio-macri/|url-status=live}}</ref>",
+                  "url": "https://www.infobae.com/opinion/2019/10/28/perdio-macri/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "The first two years of the Fernández presidency were limited by the COVID-19 pandemic in Argentina, during which he imposed strict lockdown measures in an attempt to suppress the spread of the disease, and a 2018–present Argentine monetary crisis|debt crisis. While the economy did recover in 2021–22, inflation rose to 100% (the highest since 1991). His approval ratings have been consistently low throughout his presidency, only on a few occasions has his approval rating been over 50%, with disapproval ratings from 60% to 80%. According to British newspaper ''The Economist'', Fernández is \"a president without a plan\", and his presidency is a \"weak administration\", alluding to his lack of independent decision-making and under the heavy influence of Vice President and former President Cristina Fernández de Kirchner, also the leader of the coalition, whom Fernández himself described as a \"permanent source of consultation.\" The 2021 Argentine legislative election|2021 midterm elections resulted in heavy losses for the Frente de Todos, which lost its majority in both houses of Congress. Observers attributed the loss to widespread anger over high inflation and rising poverty.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|title=Argentina orders exceptional lockdown in bid to contain virus|url=https://www.bloomberg.com/news/articles/2020-03-20/argentina-orders-exceptional-lockdown-in-bid-to-contain-virus|access-date=14 December 2021|newspaper=Bloomberg|date=20 March 2020}}</ref>",
+                  "url": "https://www.bloomberg.com/news/articles/2020-03-20/argentina-orders-exceptional-lockdown-in-bid-to-contain-virus",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://www.ft.com/content/295d9c1c-ca5b-11e9-a1f4-3669401ba76f|title=Debt, default and disorder: Macri nears end with familiar crisis|work=Financial Times|date=29 August 2019|access-date=26 June 2023|archive-date=18 July 2023|archive-url=https://web.archive.org/web/20230718182327/https://www.ft.com/content/295d9c1c-ca5b-11e9-a1f4-3669401ba76f|url-status=live}}</ref>",
+                  "url": "https://www.ft.com/content/295d9c1c-ca5b-11e9-a1f4-3669401ba76f",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://www.batimes.com.ar/news/economy/preliminary-data-shows-argentinas-economy-grew-52-in-2022.phtml|title=Preliminary data shows Argentina's economy grew 5.2% in 2022|work=Buenos Aires Times|date=23 February 2023|access-date=26 June 2023|archive-date=18 July 2023|archive-url=https://web.archive.org/web/20230718153840/https://www.batimes.com.ar/news/economy/preliminary-data-shows-argentinas-economy-grew-52-in-2022.phtml|url-status=live}}</ref>",
+                  "url": "https://www.batimes.com.ar/news/economy/preliminary-data-shows-argentinas-economy-grew-52-in-2022.phtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news |date=7 October 2022 |title=Argentina inflation forecast to top 100% as prices spiral |work=Reuters |url=https://www.reuters.com/markets/argentina-inflation-forecast-top-100-prices-spiral-2022-10-07/ |access-date=25 December 2022 |archive-date=25 December 2022 |archive-url=https://web.archive.org/web/20221225162147/https://www.reuters.com/markets/argentina-inflation-forecast-top-100-prices-spiral-2022-10-07/ |url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/markets/argentina-inflation-forecast-top-100-prices-spiral-2022-10-07/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite web |title=Buenos Aires Times {{!}} Poll: 75% of voters disapprove of President Fernández's government |url=https://www.batimes.com.ar/news/argentina/very-bad-and-somewhat-bad-poll-reveals-negative-image-of-argentinas-politicians.phtml |access-date=25 December 2022 |website=www.batimes.com.ar |date=16 June 2022 |archive-date=25 December 2022 |archive-url=https://web.archive.org/web/20221225162159/https://www.batimes.com.ar/news/argentina/very-bad-and-somewhat-bad-poll-reveals-negative-image-of-argentinas-politicians.phtml |url-status=live }}</ref>",
+                  "url": "https://www.batimes.com.ar/news/argentina/very-bad-and-somewhat-bad-poll-reveals-negative-image-of-argentinas-politicians.phtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |title=Report on presidential approval ratings in Latin America: May/June 2021 – Directorio Legislativo |url=https://directoriolegislativo.org/en/informes/report-on-presidential-approval-ratings-in-latin-america-may-june-2021/ |access-date=25 December 2022 |archive-date=25 December 2022 |archive-url=https://web.archive.org/web/20221225162150/https://directoriolegislativo.org/en/informes/report-on-presidential-approval-ratings-in-latin-america-may-june-2021/ |url-status=live }}</ref>",
+                  "url": "https://directoriolegislativo.org/en/informes/report-on-presidential-approval-ratings-in-latin-america-may-june-2021/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |title=The Economist analyzed the phenomenon of weak presidents, who came to power thanks to the auspices of leaders stronger than themselves. |date=15 November 2020 |url=https://www.infobae.com/economia/2020/11/15/the-economist-analizo-el-fenomeno-de-los-presidentes-debiles-que-llegaron-al-poder-gracias-al-auspicio-de-lideres-mas-fuertes-que-ellos/ |access-date=3 February 2023 |archive-date=3 February 2023 |archive-url=https://web.archive.org/web/20230203210430/https://www.infobae.com/economia/2020/11/15/the-economist-analizo-el-fenomeno-de-los-presidentes-debiles-que-llegaron-al-poder-gracias-al-auspicio-de-lideres-mas-fuertes-que-ellos/ |url-status=live }}</ref>",
+                  "url": "https://www.infobae.com/economia/2020/11/15/the-economist-analizo-el-fenomeno-de-los-presidentes-debiles-que-llegaron-al-poder-gracias-al-auspicio-de-lideres-mas-fuertes-que-ellos/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|title=The strong editorial of The Economist on Alberto Fernández: \"He is a president without plan\"|date=3 December 2020|url=https://www.infobae.com/economia/2020/12/03/el-fuerte-editorial-de-the-economist-sobre-alberto-fernandez-es-un-presidente-sin-plan/|access-date=3 February 2023|archive-date=3 February 2023|archive-url=https://web.archive.org/web/20230203210439/https://www.infobae.com/economia/2020/12/03/el-fuerte-editorial-de-the-economist-sobre-alberto-fernandez-es-un-presidente-sin-plan/|url-status=live}}</ref>",
+                  "url": "https://www.infobae.com/economia/2020/12/03/el-fuerte-editorial-de-the-economist-sobre-alberto-fernandez-es-un-presidente-sin-plan/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|title=Alberto Fernández indicated that he constantly consults Cristina|date=12 January 2020|url=https://www.primeraedicion.com.ar/nota/100216243/alberto-fernandez-indico-que-le-consulta-constantemente-a-cristina/|access-date=3 February 2023|archive-date=3 February 2023|archive-url=https://web.archive.org/web/20230203210430/https://www.primeraedicion.com.ar/nota/100216243/alberto-fernandez-indico-que-le-consulta-constantemente-a-cristina/|url-status=live}}</ref>",
+                  "url": "https://www.primeraedicion.com.ar/nota/100216243/alberto-fernandez-indico-que-le-consulta-constantemente-a-cristina/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{citation|work=Deutsche Welle|title=Argentina president suffers severe setback in midterm elections|date=15 November 2021|url=https://www.dw.com/en/argentina-president-suffers-severe-setback-in-midterm-elections/a-59817866|access-date=15 November 2021|archive-date=29 November 2021|archive-url=https://web.archive.org/web/20211129064332/https://www.dw.com/en/argentina-president-suffers-severe-setback-in-midterm-elections/a-59817866|url-status=live}}</ref>",
+                  "url": "https://www.dw.com/en/argentina-president-suffers-severe-setback-in-midterm-elections/a-59817866",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": null
+                },
+                {
+                  "text": "<ref name=\":6\">{{cite news |date=15 November 2021|title=Argentina President suffers big loss in midterm elections|work=The Hindu|url=https://www.thehindu.com/news/international/argentina-president-suffers-big-loss-in-midterm-elections/article37497535.ece|access-date=15 November 2021|issn=0971-751X|archive-date=15 November 2021|archive-url=https://web.archive.org/web/20211115141907/https://www.thehindu.com/news/international/argentina-president-suffers-big-loss-in-midterm-elections/article37497535.ece|url-status=live}}</ref>",
+                  "url": "https://www.thehindu.com/news/international/argentina-president-suffers-big-loss-in-midterm-elections/article37497535.ece",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|title=Argentina's Peronists set to lose control of Congress|url=https://www.aljazeera.com/news/2021/11/15/argentinas-peronists-looks-set-to-lose-senate-control|work=Al Jazeera|date=15 November 2021|access-date=29 November 2021|archive-date=20 August 2022|archive-url=https://web.archive.org/web/20220820224116/https://www.aljazeera.com/news/2021/11/15/argentinas-peronists-looks-set-to-lose-senate-control|url-status=live}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2021/11/15/argentinas-peronists-looks-set-to-lose-senate-control",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Bronstein |first1=Hugh |last2=Misculin |first2=Nicolás |title=Argentina's Peronists on the ropes after bruising midterm defeat |url=https://www.reuters.com/world/americas/argentines-vote-midterm-trial-by-fire-president-fernandez-2021-11-14/ |work=Reuters |date=15 November 2021 |access-date=16 November 2021 |archive-date=17 November 2021 |archive-url=https://web.archive.org/web/20211117231933/https://www.reuters.com/world/americas/argentines-vote-midterm-trial-by-fire-president-fernandez-2021-11-14/ |url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/world/americas/argentines-vote-midterm-trial-by-fire-president-fernandez-2021-11-14/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "In April 2023, Fernández announced that he had decided not to seek reelection to the presidency in the 2023 general election. Controversial constitutional amendments in Jujuy – a province governed by Gerardo Morales (politician)|Gerardo Morales, who ran as a precandidate for vice president alongside Horacio Rodriguez Larreta– led to 2023 Jujuy protests|protests beginning in June where demonstrators stormed the Legislature of Jujuy|Jujuy legislature.",
+              "references": [
+                {
+                  "text": "<ref name=\"LMM2\"/> Others who refused to run were incumbent vice president Cristina Fernández de Kirchner (who served as president between 2007 and 2015),<ref name=\"CFKP12\"/> and former president Mauricio Macri, who succeeded Fernández de Kirchner and preceded Fernández.<ref>{{cite web|url= https://www.infobae.com/politica/2023/03/26/mauricio-macri-anuncio-que-no-sera-candidato-en-las-proximas-elecciones/|title= Mauricio Macri anunció que no será candidato en las próximas elecciones|language= Spanish|author= |date= 26 March 2023|website= Infobae|accessdate= 21 August 2023|archive-date= 26 March 2023|archive-url= https://web.archive.org/web/20230326142715/https://www.infobae.com/politica/2023/03/26/mauricio-macri-anuncio-que-no-sera-candidato-en-las-proximas-elecciones/|url-status= live}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url= https://www.lanacion.com.ar/politica/jujuy-heridos-y-detenidos-tras-los-violentos-enfrentamientos-entre-la-policia-y-disidentes-de-la-nid18062023/|title= Jujuy: heridos y detenidos tras los violentos enfrentamientos entre la Policía y disidentes de la reforma constitucional|trans-title= Jujuy: injured and detained people after the violent clashes between the police and constitutional amendment dissenters|language= Spanish|date= 18 June 2023|publisher= La Nación|access-date= 22 June 2023|archive-date= 21 June 2023|archive-url= https://web.archive.org/web/20230621223608/https://www.lanacion.com.ar/politica/jujuy-heridos-y-detenidos-tras-los-violentos-enfrentamientos-entre-la-policia-y-disidentes-de-la-nid18062023/|url-status= live}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url= https://www.clarin.com/politica/jujuy-protesta-desalojo-detenidos-medio-rechazo-reforma-constitucional_0_AS4ujW594F.html|title= Jujuy: protesta, desalojo y detenidos en medio del rechazo a la reforma Constitucional|trans-title= Jujuy: Protests, dispersions and detainees amid the rejection to the constitutional amendment|language= Spanish|date= 18 June 2023|publisher= Clarín|access-date= 5 August 2023|archive-date= 23 June 2023|archive-url= https://web.archive.org/web/20230623100920/https://www.clarin.com/politica/jujuy-protesta-desalojo-detenidos-medio-rechazo-reforma-constitucional_0_AS4ujW594F.html|url-status= live}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s4",
+              "text": "The 2023 election was held amid 2018–present Argentine monetary crisis|a severe economic crisis with over 140% inflation and 40% poverty which observers said would negatively affect the ruling party's chance for another term.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |date=22 October 2023 |title=Argentina votes in election rocked by radical candidate |language=en-GB |work=BBC News |url=https://www.bbc.com/news/world-latin-america-67156220 |access-date=22 October 2023 |archive-date=22 October 2023 |archive-url=https://web.archive.org/web/20231022225252/https://www.bbc.com/news/world-latin-america-67156220 |url-status=live }}</ref>",
+                  "url": "https://www.bbc.com/news/world-latin-america-67156220",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Debates",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "{| class=\"wikitable\" style=\"font-size:85%; line-height:15px; text-align:center;\"\n! colspan=\"10\" | 2023 Argentine presidential debates\n|-\n! rowspan=\"3\" | Date\n! rowspan=\"3\" | Time\n! rowspan=\"3\" | Organizers\n! rowspan=\"3\" | Location\n! colspan=\"6\" | {{Colors|black|#90FF90|&nbsp;P&nbsp;}} Present &nbsp; {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} Invitee&nbsp;{{Colors|black|#FFD0D0|&nbsp;N&nbsp;}} Non-invitee&nbsp;\n|-\n! scope=\"col\" style=\"width:5em;\" |Renewal Front|FR–Union for the Homeland|UP\n! scope=\"col\" style=\"width:5em;\" |Libertarian Party (Argentina)|PL–La Libertad Avanza|LLA\n! scope=\"col\" style=\"width:5em;\" |Republican Proposal|PRO–Juntos por el Cambio|JxC\n! scope=\"col\" style=\"width:5em;\" |Justicialist Party|PJ–Hacemos por Nuestro País|HNP\n! scope=\"col\" style=\"width:5em;\" |Socialist Workers' Party (Argentina)|PTS–Workers' Left Front|FIT–U\n! rowspan=\"2\" |Refs\n|-\n! style=\"background:{{party color|Renewal Front}}\" |\n! style=\"background:{{party color|La Libertad Avanza}}\" |\n! style=\"background:{{party color|Juntos por el Cambio}}\" |\n! style=\"background:{{party color|Hacemos por Nuestro País}}\" |\n! style=\"background:{{party color|Workers' Left Front}}\" |\n|-\n| {{nowrap|1 October 2023}}\n| 1 hour and 48 min.\n| rowspan=\"3\" | ''Televisión Pública''\n| Santiago del Estero Forum, Santiago del Estero|Santiago del Estero City\n| rowspan=\"3\" style=\"background:#90FF90\" |'''P'''<br />Sergio Massa\n| rowspan=\"3\" style=\"background:#90FF90\" |'''P'''<br />Javier Milei\n| rowspan=\"2\" style=\"background:#90FF90\" |'''P'''<br />Patricia Bullrich\n| rowspan=\"2\" style=\"background:#90FF90\" |'''P'''<br />Juan Schiaretti\n| rowspan=\"2\" style=\"background:#90FF90\" |'''P'''<br />Myriam Bregman\n|\n|-\n| {{nowrap|8 October 2023}}\n| 1 hour and 41 min.\n| rowspan=\"2\" | Faculty of Law, University of Buenos Aires, Buenos Aires|Buenos Aires City\n|\n|-\n| {{nowrap|12 November 2023}}\n| 1 hour and 58 min.\n| colspan=\"3\" style=\"background:lightgrey;\" | &nbsp;\n|\n|}",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |date=2023 |title=Primer Debate Presidencial 2023 |website=YouTube |url=https://www.youtube.com/watch?v=0xQ4vsDK8Hk |access-date=26 October 2023 |archive-date=26 October 2023 |archive-url=https://web.archive.org/web/20231026155432/https://www.youtube.com/watch?v=0xQ4vsDK8Hk |url-status=live }}</ref>",
+                  "url": "https://www.youtube.com/watch?v=0xQ4vsDK8Hk",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |date=2023 |title=Segundo Debate Presidencial 2023 |website=YouTube |url=https://www.youtube.com/watch?v=0PfphtXa6lQ |access-date=27 October 2023 |archive-date=27 October 2023 |archive-url=https://web.archive.org/web/20231027013039/https://www.youtube.com/watch?v=0PfphtXa6lQ |url-status=live }}</ref>",
+                  "url": "https://www.youtube.com/watch?v=0PfphtXa6lQ",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |date=2023 |title=Tercer Debate Presidencial 2023 |website=YouTube |url=https://www.youtube.com/watch?v=LM65F8N57Mc&t=621s |access-date=14 November 2023 |archive-date=14 November 2023 |archive-url=https://web.archive.org/web/20231114011121/https://www.youtube.com/watch?v=LM65F8N57Mc&t=621s |url-status=live }}</ref>",
+                  "url": "https://www.youtube.com/watch?v=LM65F8N57Mc&t=621s",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "{| class=\"wikitable\" style=\"font-size:85%; line-height:15px; text-align:center;\"\n! colspan=\"10\" | 2023 Argentine vice presidential debates\n|-\n! rowspan=\"3\" | Date\n! rowspan=\"3\" | Time\n! rowspan=\"3\" | Organizer\n! rowspan=\"3\" | Location\n! colspan=\"6\" | {{Colors|black|#90FF90|&nbsp;P&nbsp;}} Present &nbsp; {{Colors|black|#CCFFCC|&nbsp;I&nbsp;}} Invitee&nbsp;{{Colors|black|#FFD0D0|&nbsp;N&nbsp;}} Non-invitee&nbsp;\n|-\n! scope=\"col\" style=\"width:5em;\" |Justicialist Party|PJ–Union for the Homeland|UP\n! scope=\"col\" style=\"width:5em;\" |Democratic Party (Argentina)|PD–La Libertad Avanza|LLA\n! scope=\"col\" style=\"width:5em;\" |Radical Civic Union|UCR–Juntos por el Cambio|JxC\n! scope=\"col\" style=\"width:5em;\" |:es:Frente H.A.C.E.R. por el Progreso Social|HACER–Hacemos por Nuestro País|HNP\n! scope=\"col\" style=\"width:5em;\" |Socialist Workers' Party (Argentina)|PTS–Workers' Left Front|FIT–U\n! rowspan=\"2\" |Refs\n|-\n! style=\"background:{{party color|Renewal Front}}\" |\n! style=\"background:{{party color|La Libertad Avanza}}\" |\n! style=\"background:{{party color|Juntos por el Cambio}}\" |\n! style=\"background:{{party color|Hacemos por Nuestro País}}\" |\n! style=\"background:{{party color|Workers' Left Front}}\" |\n|-\n| {{nowrap|20 September 2023}}\n| 1 hour and 46 min.\n| rowspan=\"2\" | ''Todo Noticias''\n| rowspan=\"2\" | ''Todo Noticias'' headquarters, Buenos Aires City\n| rowspan=\"2\" style=\"background:#90FF90\" |'''P'''<br />Agustín Rossi\n| rowspan=\"2\" style=\"background:#90FF90\" |'''P'''<br />Victoria Villarruel\n| style=\"background:#90FF90\" |'''P'''<br />Luis Petri\n| style=\"background:#90FF90\" |'''P'''<br />Florencio Randazzo\n| style=\"background:#90FF90\" |'''P'''<br />Nicolas del Caño\n|\n|-\n| {{nowrap|8 November 2023}}\n| 1 hour and 17 min.\n| colspan=\"3\" style=\"background:lightgrey;\" | &nbsp;\n|\n|}",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |date=2023 |title=El debate de los candidatos a vicepresidente en \"A dos voces\" (Programa emitido el día 20-09-2023) |website=YouTube |url=https://www.youtube.com/watch?v=NLb9WkfrvUY |access-date=27 October 2023 |archive-date=27 October 2023 |archive-url=https://web.archive.org/web/20231027014821/https://www.youtube.com/watch?v=NLb9WkfrvUY |url-status=live }}</ref>",
+                  "url": "https://www.youtube.com/watch?v=NLb9WkfrvUY",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |date=2023 |title=EL DEBATE DE AGUSTÍN ROSSI Y VICTORIA VILLARRUEL, CANDIDATOS A VICEPRESIDENTE, EN \"A DOS VOCES\" |website=YouTube |url=https://www.youtube.com/watch?v=n3hiGKs0CGw&t=19s |access-date=10 November 2023 |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110020703/https://www.youtube.com/watch?v=n3hiGKs0CGw&t=19s |url-status=live }}</ref>",
+                  "url": "https://www.youtube.com/watch?v=n3hiGKs0CGw&t=19s",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "4.2",
+          "title": "President",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "The election of the president is conducted under the Ballotage in Argentina|ballotage system, a modified version of the two-round system. A candidate can win the presidency in a single round by either winning over 45% of the vote or if they win 40% of the vote while finishing more than 10 percentage points ahead of the second-place candidate. If no candidate meets either threshold, a runoff takes place between the top two candidates. Voting is compulsory for citizens between 18 and 70 years old. Suffrage is also extended to 16- and 17-year-olds, though without compulsory voting. Both in the primaries and in the first and second rounds polls opened at 08:00 and closed at 18:00 (UTC−03:00|UTC −3), with vote results starting to show at around 21:00.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"guide\">{{cite web|url= https://www.theguardian.com/world/2015/oct/23/argentina-elections-2015-a-guide-to-the-parties-polls-and-electoral-system|title= Argentina elections 2015: a guide to the parties, polls and electoral system|author= David Hodari|date= 23 October 2015|work= The Guardian|access-date= 3 November 2015|archive-date= 8 November 2020|archive-url= https://web.archive.org/web/20201108110021/http://www.theguardian.com/world/2015/oct/23/argentina-elections-2015-a-guide-to-the-parties-polls-and-electoral-system|url-status= live}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=IPU>[http://www.ipu.org/parline-e/reports/2011_B.htm Chamber of Deputies: Electoral system] {{webarchive |url=https://web.archive.org/web/20131031040409/http://www.ipu.org/parline-e/reports/2011_B.htm |date=31 October 2013 }} IPU</ref>",
+                      "url": "https://web.archive.org/web/20131031040409/http://www.ipu.org/parline-e/reports/2011_B.htm",
+                      "status_code": 403,
+                      "reason": "Blocked: Archive.org URL",
+                      "type": null
+                    },
+                    {
+                      "text": "<ref>[http://www.electoral.gov.ar/votaralos16.php Voto de los Jóvenes de 16 y 17 años0] {{Webarchive|url=https://web.archive.org/web/20170330013402/http://www.electoral.gov.ar/votaralos16.php |date=30 March 2017 }} Camara Nacional Electoral</ref>",
+                      "url": "https://web.archive.org/web/20170330013402/http://www.electoral.gov.ar/votaralos16.php",
+                      "status_code": 403,
+                      "reason": "Blocked: Archive.org URL",
+                      "type": null
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=13 August 2023 |title=Argentines Start Voting in Primaries Set to Test Political Mood |url=https://www.voanews.com/a/argentines-start-voting-in-primaries-set-to-test-political-mood-/7223101.html |url-status=live |archive-url=https://web.archive.org/web/20230816165343/https://www.voanews.com/a/argentines-start-voting-in-primaries-set-to-test-political-mood-/7223101.html |archive-date=16 August 2023 |access-date=19 November 2023 |website=Voice of America |language=en}}</ref>",
+                      "url": "https://www.voanews.com/a/argentines-start-voting-in-primaries-set-to-test-political-mood-/7223101.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=22 October 2023 |title=Argentines head to the polls amid country's economic crisis |url=https://www.pbs.org/newshour/world/argentines-head-to-the-polls-amid-countrys-economic-crisis |url-status=live |archive-url=https://web.archive.org/web/20231108072036/https://www.pbs.org/newshour/world/argentines-head-to-the-polls-amid-countrys-economic-crisis |archive-date=8 November 2023 |access-date=19 November 2023 |website=PBS NewsHour |language=en-us}}</ref>",
+                      "url": "https://www.pbs.org/newshour/world/argentines-head-to-the-polls-amid-countrys-economic-crisis",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Congress",
+          "content": [
+            {
+              "id": "4.3.1",
+              "title": "Chamber of Deputies",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "4.3.1.s1",
+                      "text": "The 257 members of the Argentine Chamber of Deputies|Chamber of Deputies are elected by proportional representation in 24 multi-member constituencies based on the Provinces of Argentina|provinces (plus the City of Buenos Aires). Seats are allocated using the d'Hondt method with a 3% electoral threshold. In this election, 130 of the 257 seats were up for renewal for a four-year term.",
+                      "references": [
+                        {
+                          "text": "<ref>{{Cite web|title=IPU PARLINE database: ARGENTINA (Cámara de Diputados), Electoral system|url=http://archive.ipu.org/parline-e/reports/2011_B.htm|access-date=14 February 2021|website=archive.ipu.org|archive-date=13 November 2017|archive-url=https://web.archive.org/web/20171113020550/http://archive.ipu.org/parline-e/reports/2011_B.htm|url-status=live}}</ref>",
+                          "url": "http://archive.ipu.org/parline-e/reports/2011_B.htm",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        },
+                        {
+                          "text": "<ref name=ambito>{{cite web|url=https://chequeado.com/hilando-fino/elecciones-2019-que-se-vota-en-cada-provincia/|work=Chequeado|title=Elecciones 2019: qué se vota en cada provincia|date=5 October 2019|access-date=24 October 2022|language=es|archive-date=24 October 2022|archive-url=https://web.archive.org/web/20221024034352/https://chequeado.com/hilando-fino/elecciones-2019-que-se-vota-en-cada-provincia/|url-status=live}}</ref>",
+                          "url": "https://chequeado.com/hilando-fino/elecciones-2019-que-se-vota-en-cada-provincia/",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "4.3.2",
+              "title": "Senate",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "4.3.2.s1",
+                      "text": "The 72 members of the Argentine Senate|Senate are elected in the same 24 constituencies, with three seats in each. The party receiving the most votes in each constituency wins two seats, with the third seat awarded to the second-placed party. The 2023 elections will see one-third of senators renewed, with eight provinces electing three senators for a 6-year term; Buenos Aires Province|Buenos Aires, Formosa Province|Formosa, Jujuy Province|Jujuy, La Rioja Province, Argentina|La Rioja, Misiones Province|Misiones, San Juan Province, Argentina|San Juan, San Luis Province|San Luis, and Santa Cruz Province, Argentina|Santa Cruz.",
+                      "references": [
+                        {
+                          "text": "<ref>{{cite news|url=https://www.memo.com.ar/poder/el-senado-renueva-bancas/|work=Memo|title=Qué provincias renuevan bancas en el Senado durante el 2023|date=8 January 2023|access-date=19 February 2023|language=es|archive-date=20 February 2023|archive-url=https://web.archive.org/web/20230220002605/https://www.memo.com.ar/poder/el-senado-renueva-bancas/|url-status=live}}</ref>",
+                          "url": "https://www.memo.com.ar/poder/el-senado-renueva-bancas/",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "news"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Presidential candidates",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "{{Main article|2023 Argentine primary elections}}\nThe following candidates participated in the Primary elections in Argentina|Open, Simultaneous and Mandatory Primaries (PASO), which were held on 13 August 2023. The primaries determined the candidates of each coalition. Coalitions who received less than 1.5% of the votes will not be able to participate in the general election on 22 October.",
+              "references": [
+                {
+                  "text": "<ref name=candidacies>{{cite news|url=https://www.lanacion.com.ar/politica/formulas-presidenciales-2023-los-12-binomios-que-se-confirmaron-para-las-paso-nid25062023/|work=La Nación|title=Fórmulas presidenciales 2023: los 19 binomios que se confirmaron para las PASO|date=25 June 2023|access-date=25 June 2023|language=es|archive-date=25 June 2023|archive-url=https://web.archive.org/web/20230625040255/https://www.lanacion.com.ar/politica/formulas-presidenciales-2023-los-12-binomios-que-se-confirmaron-para-las-paso-nid25062023/|url-status=live}}</ref>",
+                  "url": "https://www.lanacion.com.ar/politica/formulas-presidenciales-2023-los-12-binomios-que-se-confirmaron-para-las-paso-nid25062023/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Advanced to runoff election",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.2.s1",
+                  "text": "{| class=\"wikitable sortable\" style=\"text-align:center;\"\n!scope=\"col\" colspan=3 | Name<br />{{small|Birth date and place}}\n! class=\"unsortable\" |Prior experience\n!Party\n!Vice President \n!scope=\"col\" colspan=2 | Coalition\n!Ref\n|-\n| style=\"background:lavender;\" data-sort-value=\"Massa, Sergio\" | '''Sergio Massa'''<br />b. 1972 {{smalldiv|(age {{age nts|1972|4|28}})<br />San Martín, Buenos Aires|San Martín, Buenos Aires Province}}\n| \n| style=\"background:{{party color|Renewal Front}};\" |\n|Ministry of Economy (Argentina)|Minister of Economy (2022–2023)<br />{{smalldiv|{{List collapsed|title=See more\n|1=List of presidents of the Argentine Chamber of Deputies|President of the Chamber of Deputies (2019–2022)\n|2=Argentine Chamber of Deputies|National Deputy from Buenos Aires Province (2013–2017; 2019–2022)\n|3=Mayor of Tigre Partido|Tigre (2007–2008; 2009–2013)\n|4=Chief of the Cabinet of Ministers (2008–2009)\n|5=Executive Director of ANSES (2002–2007)\n|6=Buenos Aires Province Chamber of Deputies|Provincial Deputy of Buenos Aires (1999–2002)\n|7=2015 Argentine general election|2015 presidential candidate under the United for a New Alternative coalition}}}}\n| Renewal Front\n|<small>Chief of the Cabinet of Ministers|Cabinet Chief</small><br />'''Agustín Rossi'''<br><small>(Justicialist Party|PJ)</small>\n|style=\"background:{{party color|Union for the Homeland}};\"| \n|  Union for the Homeland<hr />{{List collapsed|title=Member parties\n|1=Justicialist Party\n|2=Renewal Front\n|3=Evita Movement\n|4=Broad Front (Argentina)|Broad Front\n|5=Victory Party (Argentina)|Victory Party\n|6=Kolina\n|7=New Encounter\n|8=FORJA Concertation Party\n|9=Patria Grande Front\n|10=Solidary Party\n|11=Federal Party (1973)|Federal Party\n|12=Intransigent Party\n|13=Communist Party of Argentina|Communist Party\n|14=Popular Unity (Argentina)|Popular Unity\n|15=Party of Culture, Education and Labour\n|16=Revolutionary Communist Party of Argentina|Revolutionary Communist Party\n|17=Party of Labour and Equity}}\n|\n|-\n| style=\"background:lavender;\" data-sort-value=\"Milei, Javier\" | '''Javier Milei'''<br />b. 1970 {{smalldiv|(age {{age nts|1970|10|22}})<br />Buenos Aires}}\n| \n| style=\"background:{{party color|Libertarian Party (Argentina)}};\" |\n|Argentine Chamber of Deputies|National Deputy from the City of Buenos Aires (2021–2023)\n| Libertarian Party (Argentina)|Libertarian Party\n|<small>National Deputy</small><br />'''Victoria Villarruel'''<br><small>(Democratic Party (Argentina)|PD)</small>\n| style=\"background:{{party color|La Libertad Avanza}};\" |\n|  La Libertad Avanza|Liberty Advances<hr />{{List collapsed|title=Member parties\n|1=:es:Partido Libertario (Argentina)|Libertarian Party\n|2=National Democratic Party (Argentina)|National Democratic Party\n|3=Democratic Party (Mendoza)|Democratic Party<br>Integration and Development Movement (Factions)\n|4=Republican Force (Argentina)|Republican Force<br>:es:Partido Renovador Federal|Federal Renewal Party\n|5=Renewal Crusade\n|6=Unite for Freedom and Dignity\n|7=Neighborhood Confederation of Entre Ríos\n|8=Pensioners and Youth Movement}}\n|\n|}",
+                  "references": [
+                    {
+                      "text": "<ref name=\":0\">{{Cite web|date=23 June 2023|title=Sergio Massa será el único candidato a Presidente de Unión por la Patria|url=https://www.clarin.com/politica/sergio-massa-unico-candidato-presidente-union-patria_0_hgS4Hjv2Ay.html|access-date=24 June 2023|work=Clarín (Argentine newspaper)|Clarín|language=es|archive-date=24 June 2023|archive-url=https://web.archive.org/web/20230624010556/https://www.clarin.com/politica/sergio-massa-unico-candidato-presidente-union-patria_0_hgS4Hjv2Ay.html|url-status=live}}</ref>",
+                      "url": "https://www.clarin.com/politica/sergio-massa-unico-candidato-presidente-union-patria_0_hgS4Hjv2Ay.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |author=David Feliba |date=18 April 2022 |title=He raffles off his salary. He could be Argentina's next president. |url=https://www.washingtonpost.com/world/2022/04/18/javier-milei-argentina/ |newspaper=The Washington Post |accessdate=19 April 2022 |archive-date=5 July 2022 |archive-url=https://web.archive.org/web/20220705132657/https://www.washingtonpost.com/world/2022/04/18/javier-milei-argentina/ |url-status=live }}</ref>",
+                      "url": "https://www.washingtonpost.com/world/2022/04/18/javier-milei-argentina/",
+                      "status_code": null,
+                      "reason": "Timeout",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Citation |title=Javier Milei sobre su candidatura a la presidencia en 2023: 'Es una decisión tomada' |date=3 April 2022 |url=https://www.clarin.com/politica/javier-milei-candidatura-presidencia-2023-decision-tomada_3_4hQ6ifJJK.html |language=es |access-date=30 April 2022 |archive-date=30 April 2022 |archive-url=https://web.archive.org/web/20220430181349/https://www.clarin.com/politica/javier-milei-candidatura-presidencia-2023-decision-tomada_3_4hQ6ifJJK.html |url-status=live }}</ref>",
+                      "url": "https://www.clarin.com/politica/javier-milei-candidatura-presidencia-2023-decision-tomada_3_4hQ6ifJJK.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.3",
+          "title": "Defeated in the first round",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.3.s1",
+                  "text": "{| class=\"wikitable sortable\" style=\"text-align:center;\"\n!scope=\"col\" colspan=3 | Name<br />{{small|Birth date and place}}\n! class=\"unsortable\" |Prior experience\n!Party\n!Vice President \n!scope=\"col\" colspan=2 | Coalition\n!Ref\n|-\n| style=\"background:lavender;\" data-sort-value=\"Bullrich, Patricia\" | '''Patricia Bullrich'''<br />b. 1956 {{smalldiv|(age {{age nts|1956|6|11}})<br />Buenos Aires}}\n| \n| style=\"background:{{party color|Republican Proposal}}\" |\n|Ministry of Security (Argentina)|Minister of Security (2015–2019)<br />{{smalldiv|{{List collapsed|title=See more\n|1=Argentine Chamber of Deputies|National Deputy from the Buenos Aires|City of Buenos Aires (1993–1997; 2007–2015)\n|2=Ministry of Labour, Employment and Social Security (Argentina)|Minister of Social Security (October–November 2001)\n|3=Ministry of Labour, Employment and Social Security (Argentina)|Minister of Labour, Employment and Human Resources (2000–2001)}}}}\n|  Republican Proposal\n|<small>Former<br />Argentine Chamber of Deputies|National Deputy</small><br />'''Luis Petri'''<br><small>(Radical Civic Union|UCR)</small>\n|style=\"background:{{party color|Cambiemos}};\"| \n|  Juntos por el Cambio|Together for Change<hr />{{List collapsed|title=Member parties\n|1=Republican Proposal\n|2=Radical Civic Union\n|3=Civic Coalition ARI\n|4=Generation for a National Encounter\n|5=UNIR Constitutional Nationalist Party\n|6=Democratic Progressive Party (Argentina)|Democratic Progressive Party\n|7=Federal Peronism|Federal Republican Encounter}}\n|\n|-\n| style=\"background:lavender;\" data-sort-value=\"Schiaretti, Juan\" | '''Juan Schiaretti'''<br />b. 1949 {{smalldiv|(age {{age nts|1949|6|19}})<br />Córdoba, Argentina|Córdoba, Córdoba Province, Argentina|Córdoba Province}}\n|\n| style=\"background:{{party color|Justicialist Party}};\" |\n|Governor of Córdoba, Argentina|Governor of Córdoba Province (2007–2011; 2015–2023)<br />{{smalldiv|{{List collapsed|title=See more\n|1=Governor of Córdoba, Argentina|Vice Governor of Córdoba Province (2003–2007)\n|2=Federal intervention|Federal Interventor of Santiago del Estero Province (1993–1995)}}}}\n| Justicialist Party\n|<small>Argentine Chamber of Deputies|National Deputy</small><br />'''Florencio Randazzo'''<br><small>(:es:Frente H.A.C.E.R. por el Progreso Social|HACER)</small>\n| style=\"background:#0050A3;\" |\n| Hacemos por Nuestro País|We Do for Our Country<hr />{{List collapsed|title=Member parties\n|1=Socialist Party (Argentina)|Socialist Party\n|2=Christian Democratic Party (Argentina)|Christian Democratic Party\n|3=Autonomist Party}}\n|\n|-\n| style=\"background:lavender;\" data-sort-value=\"Bregman, Myriam\" |'''Myriam Bregman'''<br />b. 1972 {{smalldiv|(age {{age nts|1972|2|25}})<br />Timote, Buenos Aires Province}}\n|\n| style=\"background:#FD2E36;\" |\n|Argentine Chamber of Deputies|National Deputy from Buenos Aires Province (2015–2016) and the Buenos Aires City|City of Buenos Aires (2021–present)<br />{{smalldiv|{{List collapsed|title=See more\n|1=Buenos Aires City Legislature|Legislator of Buenos Aires City (2017–2021)\n|2=2015 Argentine general election|2015 vice presidential candidate under the Workers' Left Front coalition}}}}\n| Socialist Workers' Party (Argentina)|Socialist Workers' Party\n|<small>National Deputy</small><br />'''Nicolás del Caño'''<br><small>(PTS)</small>\n| style=\"background:{{party color|Workers' Left Front}};\"|\n|  Workers' Left Front|Workers' Left Front – Unity<hr />{{List collapsed|title=Member parties\n|1=Workers' Party (Argentina)|Workers' Party\n|2=Socialist Workers' Party (Argentina)|Socialist Workers' Party\n|3=Socialist Left (Argentina)|Socialist Left\n|4=Socialist Workers' Movement (Argentina)|Socialist Workers' Movement}}\n|\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |url=https://www.infobae.com/politica/2023/02/21/patricia-bullrich-hablo-de-su-pre-candidatura-a-presidenta-a-mi-no-me-baja-nadie-aunque-juegue-macri/ |title=Patricia Bullrich habló de su candidatura a Presidenta: \"A mí no me baja nadie, aunque juegue Macri\" |publisher=Infobae |date=21 February 2023 |accessdate=11 March 2023 |archive-date=11 March 2023 |archive-url=https://web.archive.org/web/20230311223953/https://www.infobae.com/politica/2023/02/21/patricia-bullrich-hablo-de-su-pre-candidatura-a-presidenta-a-mi-no-me-baja-nadie-aunque-juegue-macri/ |url-status=live }}</ref>",
+                      "url": "https://www.infobae.com/politica/2023/02/21/patricia-bullrich-hablo-de-su-pre-candidatura-a-presidenta-a-mi-no-me-baja-nadie-aunque-juegue-macri/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news|url=https://www.clarin.com/politica/elecciones-2023-juan-shiaretti-confirmo-precandidato-presidente_0_9ByXy65eEh.html|work=Clarín (Argentine newspaper)|Clarín|title=Elecciones 2023: Juan Schiaretti confirmó que será precandidato a presidente y pidió superar \"la maldita grieta\" para ser \"un país normal\"|date=2 May 2023|access-date=2 May 2023|archive-date=2 May 2023|archive-url=https://web.archive.org/web/20230502185826/https://www.clarin.com/politica/elecciones-2023-juan-shiaretti-confirmo-precandidato-presidente_0_9ByXy65eEh.html|url-status=live}}</ref>",
+                      "url": "https://www.clarin.com/politica/elecciones-2023-juan-shiaretti-confirmo-precandidato-presidente_0_9ByXy65eEh.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|url=https://www.ambito.com/politica/myriam-bregman/anuncio-que-es-una-las-precandidatas-presidenta-del-frente-izquierda-n5642362|work=Ámbito Financiero|title=Myriam Bregman anunció que es una de las precandidatas a presidenta del Frente de Izquierda|date=1 February 2023|access-date=2 February 2023|language=es|archive-date=2 February 2023|archive-url=https://web.archive.org/web/20230202010606/https://www.ambito.com/politica/myriam-bregman/anuncio-que-es-una-las-precandidatas-presidenta-del-frente-izquierda-n5642362|url-status=live}}</ref>",
+                      "url": "https://www.ambito.com/politica/myriam-bregman/anuncio-que-es-una-las-precandidatas-presidenta-del-frente-izquierda-n5642362",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.4",
+          "title": "Defeated in a winning coalition in the primary elections",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.4.s1",
+                  "text": "{| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center;\"\n!scope=\"col\" colspan=3 | Name<br />{{small|Birth date and place}}\n! class=\"unsortable\" |Prior experience\n!Party\n!Vice President \n!scope=\"col\" colspan=2 | Coalition\n!Ref\n|-\n| style=\"background:lavender;\" data-sort-value=\"Grabois, Juan\" |'''Juan Grabois'''<br />b. 1983 {{smalldiv|(age {{age nts|1983|5|23}})<br />San Isidro, Buenos Aires|San Isidro, Buenos Aires Province}}\n|\n| style=\"background:#ED2939;\" |\n|Leader of the Patria Grande Front\n| Patria Grande Front\n|<small>Doctor</small><br />'''Paula Abal Medina'''<br><small>(FPG)</small>\n|style=\"background:{{party color|Union for the Homeland}};\"| \n|  Union for the Homeland<hr />{{List collapsed|title=Member parties\n|1=Justicialist Party\n|2=Renewal Front\n|3=Evita Movement\n|4=Broad Front (Argentina)|Broad Front\n|5=Victory Party (Argentina)|Victory Party\n|6=Kolina\n|7=New Encounter\n|8=FORJA Concertation Party\n|9=Patria Grande Front\n|10=Solidary Party\n|11=Federal Party (1973)|Federal Party\n|12=Intransigent Party\n|13=Communist Party of Argentina|Communist Party\n|14=Popular Unity (Argentina)|Popular Unity\n|15=Party of Culture, Education and Labour\n|16=Revolutionary Communist Party of Argentina|Revolutionary Communist Party\n|17=Party of Labour and Equity}}\n|\n|-\n| style=\"background:lavender;\" data-sort-value=\"Rodriguez Larreta, Horacio\" |'''Horacio Rodríguez Larreta'''<br />b. 1965 {{smalldiv|(age {{age nts|1965|10|29}})<br />Buenos Aires}}\n|\n| style=\"background:{{party color|Republican Proposal}}\" |\n|List of mayors and chiefs of government of Buenos Aires City|Mayor of Buenos Aires (2015–2023)<br />{{smalldiv|{{List collapsed|title=See more\n|1=Chief of the Cabinet of Ministers of Buenos Aires (2007–2015)}}}}\n|  Republican Proposal\n|<small>Governor of Jujuy Province|Governor of Jujuy</small><br />'''Gerardo Morales (politician)|Gerardo Morales'''<br><small>(Radical Civic Union|UCR)</small>\n|style=\"background:{{party color|Cambiemos}};\"| \n|  Juntos por el Cambio|Together for Change<hr />{{List collapsed|title=Member parties\n|1=Republican Proposal\n|2=Radical Civic Union\n|3=Civic Coalition ARI\n|4=Generation for a National Encounter\n|5=UNIR Constitutional Nationalist Party\n|6=Democratic Progressive Party (Argentina)|Democratic Progressive Party\n|7=Federal Peronism|Federal Republican Encounter}}\n|\n|-\n| style=\"background:lavender;\" data-sort-value=\"Solano, Gabriel\" | '''Gabriel Solano'''<br />b. 1974 {{smalldiv|(age {{age nts|1974|6|4}})<br />Buenos Aires}}\n| \n| style=\"background:{{party color|Workers' Party (Argentina)}};\" |\n|Buenos Aires City Legislature|Legislator of Buenos Aires City (2017–2020; 2021–present)<br />{{smalldiv|{{List collapsed|title=See more\n|1=president of the Workers' Party (Argentina)|Workers' Party (2019–present)}}}}\n| Workers' Party (Argentina)|Workers' Party\n|<small>Former Legislator of Buenos Aires City</small><br />'''Vilma Ripoll'''<br><small>(Workers' Socialist Movement (Argentina)|MST)</small>\n| style=\"background:{{party color|Workers' Left Front}};\"|\n|  Workers' Left Front|Workers' Left Front – Unity<hr /><br />{{List collapsed|title=Member parties\n|1=Workers' Party (Argentina)|Workers' Party\n|2=Socialist Workers' Party (Argentina)|Socialist Workers' Party\n|3=Socialist Left (Argentina)|Socialist Left\n|4=Socialist Workers' Movement (Argentina)|Socialist Workers' Movement}}\n|\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://www.cadena3.com/noticia/politica-y-economia/grabois-anuncio-que-se-presentara-a-las-paso-a-pesar-de-la-candidatura-de-massa_361565|title=Grabois anunció que se presentará a las PASO, a pesar de la candidatura de Massa|access-date=23 June 2023|work=cadena3.com|date=23 June 2023|language=es|archive-date=24 June 2023|archive-url=https://web.archive.org/web/20230624005505/https://www.cadena3.com/noticia/politica-y-economia/grabois-anuncio-que-se-presentara-a-las-paso-a-pesar-de-la-candidatura-de-massa_361565|url-status=live}}</ref>",
+                      "url": "https://www.cadena3.com/noticia/politica-y-economia/grabois-anuncio-que-se-presentara-a-las-paso-a-pesar-de-la-candidatura-de-massa_361565",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"LMM\">{{cite web|url= https://www.infobae.com/politica/2023/02/23/rodriguez-larreta-se-lanzo-con-un-video-grabado-en-santa-cruz-y-un-mensaje-anti-grieta-quiero-ser-buen-presidente/|title= Rodríguez Larreta se lanzó con un video grabado en Santa Cruz y un mensaje anti-grieta: \"Quiero ser buen Presidente\"|trans-title= Rodríguez Larreta jumps with a video recorded in Santa Cruz and with a anti-rift message: \"I want to be a good President\"|language= Spanish|author= |date= 23 February 2023|publisher= Infobae|accessdate= 23 February 2023|archive-date= 24 February 2023|archive-url= https://web.archive.org/web/20230224015907/https://www.infobae.com/politica/2023/02/23/rodriguez-larreta-se-lanzo-con-un-video-grabado-en-santa-cruz-y-un-mensaje-anti-grieta-quiero-ser-buen-presidente/|url-status= live}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=fit>{{cite news|url=https://www.lanacion.com.ar/politica/atravesado-por-sus-internas-el-frente-de-izquierda-posiciona-a-sus-candidatos-en-tres-listas-pero-no-nid07022023/|work=La Nación|title=Atravesado por sus internas, el Frente de Izquierda posiciona a sus candidatos en tres listas pero no descarta un acuerdo|last=Pereyra|first=Lucía|date=7 February 2023|access-date=12 February 2023|language=es|archive-date=12 February 2023|archive-url=https://web.archive.org/web/20230212072432/https://www.lanacion.com.ar/politica/atravesado-por-sus-internas-el-frente-de-izquierda-posiciona-a-sus-candidatos-en-tres-listas-pero-no-nid07022023/|url-status=live}}</ref>",
+                      "url": "https://www.lanacion.com.ar/politica/atravesado-por-sus-internas-el-frente-de-izquierda-posiciona-a-sus-candidatos-en-tres-listas-pero-no-nid07022023/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.5",
+          "title": "Defeated in the primary elections",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.5.s1",
+                  "text": "{| class=\"wikitable mw-collapsible mw-collapsed\" style=\"text-align:center;\"\n!scope=\"col\" colspan=3 | Name<br />{{small|Birth date and place}}\n! class=\"unsortable\" |Prior experience\n!Party\n!Vice President \n!scope=\"col\" colspan=2 | Coalition\n!Ref\n|-\n| style=\"background:lavender;\" data-sort-value=\"Moreno, Guillermo\" | '''Guillermo Moreno'''<br />b. 1955 {{smalldiv|(age {{age nts|1955|10|15}})<br />Buenos Aires}}\n| \n| style=\"background:#00aff0;\" |\n|Ministry of Economy (Argentina)|Secretary of Domestic Trade (2006–2013)<br />{{smalldiv|{{List collapsed|title=See more\n|1=Under-Secretary of Production for the City of Buenos Aires (1990–1993)}}}}\n|  :es:Principios y Valores|Principles and Values Party\n| <small>Secretary General of APOPS</small><br />'''Leonardo Fabre'''<br><small>(PyV)</small>\n| style=\"background:#00aff0;;\" rowspan=\"5\" |\n| rowspan=\"5\" | :es:Principios y Valores|Principles and Values<hr />{{List collapsed|title=Member parties\n|1=People's Party\n|2=Principles and Values}}\n|\n|-\n| style=\"background:lavender;\" data-sort-value=\"Arias, Paula\" | '''Paula Arias'''\n| <!-- Do not use placeholder images per WP:IPH -->\n| style=\"background:#0047AB;\" |\n| –\n| Labour Party (Argentina)|Labour Party\n| '''Walter Vera'''<br><small>(PL)</small>\n|\n|-\n| style=\"background:lavender;\" data-sort-value=\"Bartolini, Carina\" | '''Carina Bartolini'''\n| <!-- Do not use placeholder images per WP:IPH -->\n| style=\"background:#318ce7;\" |\n| –\n| Justicialist Party\n| '''Mabel Gómez'''<br><small>(PJ)</small>\n|\n|-\n| style=\"background:lavender;\" data-sort-value=\"Escobar, Jesus\" | '''Jesús Escobar'''<br />b. 1971 {{smalldiv|(age {{age nts|1971|02|10}})<br />El Maitén, Chubut Province}}\n| <!-- Do not use placeholder images per WP:IPH -->\n| style=\"background:{{party color|Freemen of the South Movement}};\" |\n|Legislature of Neuquén|Provincial Legislator of Neuquén (2003–2007; 2011–2019)\n| Freemen of the South Movement|Freemen of the South\n|<small>Former Santiago del Estero|Santiago del Estero City councilwoman</small><br />'''Marianella Lezama Hid'''<br><small>(Freemen of the South)</small>\n| style=\"background:#E50303;\" |\n| Freemen of the South Movement\n|\n|-\n| style=\"background:lavender;\" data-sort-value=\"Ramal, Marcelo\" | '''Marcelo Ramal'''<br />b. 1954 {{smalldiv|(age {{age nts|1954|10|13}})<br />Buenos Aires}}\n| \n| style=\"background:black;\" |\n|Buenos Aires City Legislature|Legislator of Buenos Aires City (2013–2015; 2015–2017)\n| Workers' Party (Argentina)|Workers' Policy\n|<small>Teacher</small><br />'''Patricia Urones'''<br><small>(PO)</small>\n| style=\"background:black;\" |\n| Workers' Party (Argentina)|Workers' Policy\n|\n|-\n| style=\"background:lavender;\" data-sort-value=\"Etchepare, Nazareno\" | '''Nazareno Etchepare'''\n| <!-- Do not use placeholder images per WP:IPH -->\n| style=\"background:#a9ecf1;\" |\n| Lawyer\n| Demos\n| <small>Bachelor</small><br />'''Fernando Lorenzo'''<br><small>(DEMOS)</small>\n| rowspan=\"2\" style=\"background:#6A5ACD;\" |\n| rowspan=\"2\" | Liber.AR<hr />{{List collapsed|title=Member parties\n|1=Unite for Liberty and Dignity\n|2=Liber.AR}}\n|\n|-\n| style=\"background: lavender;\" data-sort-value=\"Vasena, Ramiro\" | '''Ramiro Vasena'''\n| <!-- Do not use placeholder images per WP:IPH -->\n| style=\"background:#4169E1;\" |\n| Political leader\n| Reconquest Group\n| <small>Political leader</small><br />'''Víctor Aníbal Lagonegro'''<br><small>(Reconquest)</small>\n| \n|-\n| style=\"background:lavender;\" data-sort-value=\"Castells, Raul\" | '''Raúl Castells'''<br />b. 1953 {{smalldiv|(age {{age nts|1953|12|12}})<br />Rosario, Santa Fe|Rosario, Santa Fe Province}}\n| \n| style=\"background:#FFE900;\" |\n| Leader of the MIJD\n| rowspan=\"2\" |  Youth and Dignity Left Movement|MIJD\n| <small>Social activist</small><br />'''Adriana Reinoso'''<br><small>(MIJD)</small>\n| rowspan=\"2\" style=\"background:#FFE900;\" |\n| rowspan=\"2\" |  Youth and Dignity Left Movement|MIJD\n| \n|-\n| style=\"background:lavender;\" data-sort-value=\"Ayerbe, Martín\" | '''Martín Ayerbe'''\n| <!-- Do not use placeholder images per WP:IPH -->\n| style=\"background:#191970;\" |\n| President of the Argentine Naval Forum Hipólito Bouchard\n|  United Homeland\n| '''Hugo Rodríguez'''<br><small>(United Homeland)</small>\n| \n|-\n| style=\"background:lavender;\" data-sort-value=\"Biondini, César\" | '''César Biondini'''\n| <!-- Do not use placeholder images per WP:IPH -->\n| style=\"background:#AE8333;\" |\n| Lawyer\n| Patriot Front (Argentina)|Patriot Front\n| <small>Teacher</small><br />'''Mariel Avendaño'''<br><small>(FP)</small>\n| style=\"background:#AE8333;\" |\n| Patriot Front (Argentina)|Patriot Front\n| \n|-\n| style=\"background:lavender;\" data-sort-value=\"Albarracín, Raúl\" | '''Andrés Passamonti'''\n| <!-- Do not use placeholder images per WP:IPH -->\n| style=\"background:#6495ED;\" |\n| Leader of the UCEDE (Buenos Aires)\n|  Union of the Democratic Centre (Argentina)|Union of the Democratic Centre\n| <small>Public accountant</small><br />'''Pamela Fernández'''<br><small>(UCEDE)</small>\n| style=\"background:#6495ED;\" |\n|  Union of the Democratic Centre (Argentina)|Union of the Democratic Centre\n| \n|-\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web|url=https://www.a24.com/politica/guillermo-moreno-lanzo-su-candidatura-presidente-2023-un-curioso-spot-hagamos-argentina-grande-otra-vez-n1059632|title=Guillermo Moreno lanzó su candidatura a presidente para 2023 con un curioso spot: \"Hagamos Argentina grande otra vez\"|website=A24|date=21 November 2022|accessdate=8 April 2023|archive-date=8 February 2023|archive-url=https://web.archive.org/web/20230208075215/https://www.a24.com/politica/guillermo-moreno-lanzo-su-candidatura-presidente-2023-un-curioso-spot-hagamos-argentina-grande-otra-vez-n1059632|url-status=live}}</ref>",
+                      "url": "https://www.a24.com/politica/guillermo-moreno-lanzo-su-candidatura-presidente-2023-un-curioso-spot-hagamos-argentina-grande-otra-vez-n1059632",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=PyV>{{cite news|url=https://ahora.com.ar/politica/elecciones-2023-27-formulas-competiran-la-presidencia-n5346778|work=Ahora|title=Elecciones 2023: 27 fórmulas competirán por la Presidencia|date=4 July 2023|access-date=28 July 2023|language=es|archive-date=12 July 2023|archive-url=https://web.archive.org/web/20230712084042/https://ahora.com.ar/politica/elecciones-2023-27-formulas-competiran-la-presidencia-n5346778|url-status=live}}</ref>",
+                      "url": "https://ahora.com.ar/politica/elecciones-2023-27-formulas-competiran-la-presidencia-n5346778",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=PyV/>\n|-\n| style=\"background:lavender;\" data-sort-value=\"Martínez, Elidoro\" | '''Eliodoro Martínez'''\n| <!-- Do not use placeholder images per WP:IPH -->\n| style=\"background:#3E5298;\" |\n| Leader of the Buenos Aires City|CABA wing of the Action for the Republic\n| Action for the Republic (Argentina)|Action for the Republic\n| '''Vicente Souto'''<br><small>(APLR)</small>\n|<ref name=PyV/>\n|-\n| style=\"background:lavender;\" data-sort-value=\"Oliver, Jorge\" | '''Jorge Oliver'''\n| <!-- Do not use placeholder images per WP:IPH -->\n| style=\"background:#00aff0;\" |\n|Journalist and political analist\n| Three Flags group\n| '''Ezequiel San Martín'''<br><small>(Three Flags)</small>\n|<ref name=PyV/>\n|-\n| style=\"background:lavender;\" data-sort-value=\"Castañeira, Manuela\" | '''Manuela Castañeira'''<br />b. 1984 {{smalldiv|(age {{age nts|1984|11|22}})<br />Paraná, Entre Ríos|Paraná, Entre Ríos Province}}\n| \n| style=\"background:#E50303;\" |\n|Sociologist\n| New Movement for Socialism|New MAS\n|<small>Teacher</small><br />'''Lucas Ruiz'''<br><small>(New MAS)</small>\n| style=\"background:#E50303;\" |\n| New Movement for Socialism|New MAS\n|<ref>{{cite news|url=https://www.pagina12.com.ar/542391-manuela-castaneira-empuja-una-paso-en-la-izquierda-algunos-d|work=Página 12|title=Manuela Castañeira empuja una PASO en la izquierda: \"Algunos deberían darse un baño de humildad\"|date=20 April 2023|access-date=25 June 2023|language=es|archive-date=13 May 2023|archive-url=https://web.archive.org/web/20230513232634/https://www.pagina12.com.ar/542391-manuela-castaneira-empuja-una-paso-en-la-izquierda-algunos-d|url-status=live}}</ref>",
+                      "url": "https://www.pagina12.com.ar/542391-manuela-castaneira-empuja-una-paso-en-la-izquierda-algunos-d",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|url=https://libresdelsur.org.ar/noticias/jesus-la-candidata-a-vice-tambien-sera-del-interior/|website=libresdelsur.org.ar|title=Libres del Sur presento su fórmula presidencial|date=7 June 2023|access-date=25 June 2023|language=es|archive-date=25 June 2023|archive-url=https://web.archive.org/web/20230625062222/https://libresdelsur.org.ar/noticias/jesus-la-candidata-a-vice-tambien-sera-del-interior/|url-status=live}}</ref>",
+                      "url": "https://libresdelsur.org.ar/noticias/jesus-la-candidata-a-vice-tambien-sera-del-interior/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|url=https://infonews.com/marcelo-ramal-politica-obrera-izquierda-elecciones-precandidato-presidente.html|website=infonews.com|title=Marcelo Ramal también será precandidato para las presidenciales|date=27 May 2023|access-date=25 June 2023|language=es|archive-date=18 July 2023|archive-url=https://web.archive.org/web/20230718153759/https://infonews.com/marcelo-ramal-politica-obrera-izquierda-elecciones-precandidato-presidente.html|url-status=live}}</ref>",
+                      "url": "https://infonews.com/marcelo-ramal-politica-obrera-izquierda-elecciones-precandidato-presidente.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=liberar>{{Cite web|url=https://www.clarin.com/politica/frente-libertario-va-paso-javier-milei-lider-tuitero-cacerolazos-anti-k-julio-barbaro_0_aquEbYJPgd.html|title=El frente \"libertario\" que va a las PASO, pero sin Javier Milei: un líder tuitero de los cacerolazos anti-K contra Julio Bárbaro|work=Clarín (Argentine newspaper)|Clarín|date=24 June 2023|accessdate=26 June 2023|last=Blanco|first=Pablo Javier|language=es|archive-date=26 June 2023|archive-url=https://web.archive.org/web/20230626075146/https://www.clarin.com/politica/frente-libertario-va-paso-javier-milei-lider-tuitero-cacerolazos-anti-k-julio-barbaro_0_aquEbYJPgd.html|url-status=live}}</ref>",
+                      "url": "https://www.clarin.com/politica/frente-libertario-va-paso-javier-milei-lider-tuitero-cacerolazos-anti-k-julio-barbaro_0_aquEbYJPgd.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"Realpolitik\">{{Cite web|url=https://realpolitik.com.ar/nota/53210/ramiro-vasena-sera-precandidato-a-presidente-por-liberar/|title=Ramiro Vasena será precandidato a presidente por LiberAr|work=Realpolitik|date=28 June 2023|accessdate=5 July 2023|language=es|archive-date=1 July 2023|archive-url=https://web.archive.org/web/20230701185743/https://realpolitik.com.ar/nota/53210/ramiro-vasena-sera-precandidato-a-presidente-por-liberar/|url-status=live}}</ref>",
+                      "url": "https://realpolitik.com.ar/nota/53210/ramiro-vasena-sera-precandidato-a-presidente-por-liberar/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=candidacies/>\n|-\n| style=\"background:lavender;\" data-sort-value=\"Cuneo, Santiago\" | '''{{ill|Santiago Cúneo|es}}'''<br />b. 1970 {{smalldiv|(age {{age nts|1970|9|5}})<br />Buenos Aires}}\n| \n| style=\"background:#FFE900;\" |\n| Journalist and businessman\n| <small>Falklands War veteran</small><br />'''Gustavo Barranco'''<br><small>(MIJD)</small>\n| <ref name=candidacies/>\n|-\n| style=\"background:lavender;\" data-sort-value=\"Giardinelli, Mempo\" | '''Mempo Giardinelli'''<br />b. 1947 {{smalldiv|(age {{age nts|1947|8|2}})<br />Resistencia, Chaco|Resistencia, Chaco Province}}\n| \n| style=\"background:#CD0D40;\" |\n| Writer, journalist and professor\n| Peace, Democracy and Sovereignty\n| <small>Teacher</small><br />'''Bárbara Solemou'''<br><small>(PDyS)</small>\n| style=\"background:#CD0D40;\" rowspan=\"3\" | \n| rowspan=\"3\" | Youth Project<hr />{{List collapsed|title=Member parties\n|1=Humanist Party (Argentina)|Humanist Party\n|2=Youth Project Party\n|3=National Liberation Movement\n|4=Popular Consensus\n|5=United for the South\n|6=The Argentine Manifesto}}\n| <ref name=candidacies/>\n|-\n| style=\"background:lavender;\" data-sort-value=\"Ibáñez, Reina\" | '''Reina Ibáñez'''\n| <!-- Do not use placeholder images per WP:IPH -->\n| style=\"background:#CD0D40;\" |\n| Sex worker\n| TODEX\n| '''Gonzalo Ibarra'''<br><small>(TODEX)</small>\n| <ref>{{cite web|access-date=29 April 2023|language=es-AR|title=Las mujeres trans que se postularon para presidentes en Argentina y Venezuela|url=https://infonews.com/las-mujeres-trans-precandidatas-a-presidentas-en-argentina-y-venezuela-tamara-adrian-reina-ibanez.html|website=infonews.com|archive-date=3 May 2023|archive-url=https://web.archive.org/web/20230503105337/https://infonews.com/las-mujeres-trans-precandidatas-a-presidentas-en-argentina-y-venezuela-tamara-adrian-reina-ibanez.html|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://infonews.com/las-mujeres-trans-precandidatas-a-presidentas-en-argentina-y-venezuela-tamara-adrian-reina-ibanez.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|access-date=7 July 2023|date=10 April 2023|language=es-AR|title=Martín Ayerbe: \"No podemos abandonar nuestra religión del trabajo, que se llama Justicialismo\"|url=https://radiografica.org.ar/2023/04/10/martin-ayerbe-no-podemos-abandonar-nuestra-religion-del-trabajo-que-se-llama-justicialismo/|website=Radio Gráfica|archive-date=8 July 2023|archive-url=https://web.archive.org/web/20230708143422/https://radiografica.org.ar/2023/04/10/martin-ayerbe-no-podemos-abandonar-nuestra-religion-del-trabajo-que-se-llama-justicialismo/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://radiografica.org.ar/2023/04/10/martin-ayerbe-no-podemos-abandonar-nuestra-religion-del-trabajo-que-se-llama-justicialismo/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=candidacies/>\n|-\n| style=\"background:lavender;\" data-sort-value=\"Albarracín, Raúl\" | '''Raúl Albarracín'''\n| <!-- Do not use placeholder images per WP:IPH -->\n| style=\"background:#228B22;\" |\n| Legislature of Córdoba|Provincial Legislator of Córdoba (2007–2011)\n| Neighbourhood Action Movement\n| <small>Lawyer</small><br />'''Sergio Pastore'''<br><small>(MAV)</small>\n| style=\"background:#228B22;\" |\n| Neighbourhood Action Movement\n| <ref name=\"MAV\">{{Cite web|url=https://movimientodeaccionvecinal.com/?gclid=CjwKCAjw44mlBhAQEiwAqP3eVnyWZ-y1lY8Sbj6pgykSW3W5j8yYDopkqRo7potQ_fYWCJzK4zm55xoCYVwQAvD_BwE|title=Movimiento de Acción Vecinal Lista 57|accessdate=5 July 2023|work=movimientodeaccionvecinal.com|language=es|archive-date=20 November 2023|archive-url=https://web.archive.org/web/20231120001826/https://movimientodeaccionvecinal.com/|url-status=live}}</ref>",
+                      "url": "https://movimientodeaccionvecinal.com/?gclid=CjwKCAjw44mlBhAQEiwAqP3eVnyWZ-y1lY8Sbj6pgykSW3W5j8yYDopkqRo7potQ_fYWCJzK4zm55xoCYVwQAvD_BwE",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|date=30 June 2023|title=Tras 34 años, la UCeDe vuelve a presentar candidato a presidente|url=https://www.perfil.com/noticias/politica/tras-34-anos-la-ucede-vuelve-a-presentar-candidato-a-presidente.phtml|access-date=4 August 2023|work=Perfil|language=es|archive-date=5 August 2023|archive-url=https://web.archive.org/web/20230805195307/https://www.perfil.com/noticias/politica/tras-34-anos-la-ucede-vuelve-a-presentar-candidato-a-presidente.phtml|url-status=live}}</ref>",
+                      "url": "https://www.perfil.com/noticias/politica/tras-34-anos-la-ucede-vuelve-a-presentar-candidato-a-presidente.phtml",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Opinion polls",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "6.2",
+          "title": "Presidential election",
+          "content": [
+            {
+              "id": "6.2.1",
+              "title": "First round",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            },
+            {
+              "id": "6.2.2",
+              "title": "Second round",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Results",
+      "content": [
+        {
+          "id": "7.1",
+          "title": "Primary elections",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "7.2",
+          "title": "President",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.2.s1",
+                  "text": "|electorate=35854122\n|electorate2=35405398\n|source=\n}}",
+                  "references": [
+                    {
+                      "text": "<ref name=\"resultados\">{{cite web|title=Consulta de Escrutinios Definitivos|url=https://www.padron.gob.ar/publica/|website=www.padron.gob.ar|access-date=30 October 2023|archive-date=23 September 2023|archive-url=https://web.archive.org/web/20230923185111/https://www.padron.gob.ar/publica/|url-status=live}}</ref>",
+                      "url": "https://www.padron.gob.ar/publica/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"CNE\">{{cite web |title=Actas de escrutinio definitivo - GENERALES 2023 |url=https://www.electoral.gob.ar/nuevo/paginas/btn/actas_esc_generales2023.php |website=Cámara Nacional Electoral |access-date=23 November 2023 |archive-date=23 November 2023 |archive-url=https://web.archive.org/web/20231123213958/https://www.electoral.gob.ar/nuevo/paginas/btn/actas_esc_generales2023.php |url-status=live }}</ref>",
+                      "url": "https://www.electoral.gob.ar/nuevo/paginas/btn/actas_esc_generales2023.php",
+                      "status_code": null,
+                      "reason": "Timeout",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |title=Actas de escrutinio definitivo - SEGUNDA VUELTA 2023 |url=https://www.electoral.gob.ar/nuevo/paginas/btn/actas_esc_segvta2023.php |website=Cámara Nacional Electoral |access-date=1 December 2023 |archive-date=5 December 2023 |archive-url=https://web.archive.org/web/20231205150944/https://www.electoral.gob.ar/nuevo/paginas/btn/actas_esc_segvta2023.php |url-status=live }}</ref>",
+                      "url": "https://www.electoral.gob.ar/nuevo/paginas/btn/actas_esc_segvta2023.php",
+                      "status_code": null,
+                      "reason": "Timeout",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "7.2.2",
+              "title": "Results by province, first round",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            },
+            {
+              "id": "7.2.3",
+              "title": "Results by province, second round",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.3",
+          "title": "Chamber of Deputies",
+          "content": [
+            {
+              "sentences": []
+            },
+            {
+              "id": "7.3.2",
+              "title": "Results by province",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.4",
+          "title": "Senate",
+          "content": [
+            {
+              "sentences": []
+            },
+            {
+              "id": "7.4.2",
+              "title": "Results by province",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.5",
+          "title": "Mercosur Parliament",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Reactions",
+      "content": [
+        {
+          "id": "8.1",
+          "title": "Domestic",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.1.s1",
+                  "text": "Milei defeated Massa in the runoff what was described as a historic election in Argentina. His prospective foreign minister Diana Mondino also announced Argentina would pause their accession to BRICS. Massa conceded and announced his retirement from politics after the runoff election results showed that he had lost by roughly 11 percentage points.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":1\" /> Milei in his victory speech vowed to begin \"the reconstruction of Argentina\" and end the country's economic decline.<ref>{{Cite news |last1=Misculin |first1=Nicolás |last2=Elliott |first2=Lucinda |last3=Bianchi |first3=Walter |last4=Elliott |first4=Lucinda |date=20 November 2023 |title=Argentine libertarian Milei pledges new political era after election win |language=en |work=Reuters |url=https://www.reuters.com/world/americas/argentina-readies-vote-likely-presidential-election-thriller-2023-11-19/ |access-date=20 November 2023 |archive-date=19 November 2023 |archive-url=https://web.archive.org/web/20231119230955/https://www.reuters.com/world/americas/argentina-readies-vote-likely-presidential-election-thriller-2023-11-19/ |url-status=live }}</ref>",
+                      "url": "https://www.reuters.com/world/americas/argentina-readies-vote-likely-presidential-election-thriller-2023-11-19/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=20 November 2023 |title=China reaffirms support for new nations joining BRICS as Argentina signals rejection |language=en |work=Reuters |url=https://www.reuters.com/world/china-reaffirms-support-new-nations-joining-brics-argentina-signals-rejection-2023-11-20/ |access-date=20 November 2023 |archive-date=20 November 2023 |archive-url=https://web.archive.org/web/20231120125634/https://www.reuters.com/world/china-reaffirms-support-new-nations-joining-brics-argentina-signals-rejection-2023-11-20/ |url-status=live }}</ref>",
+                      "url": "https://www.reuters.com/world/china-reaffirms-support-new-nations-joining-brics-argentina-signals-rejection-2023-11-20/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Sugarman |first=Jacob |date=20 November 2023 |title=Sergio Massa concedes, announces retirement from politics |url=https://buenosairesherald.com/politics/sergio-massa-concedes-defeat-announces-retirement-from-politics |access-date=20 November 2023 |website=Buenos Aires Herald |language=en-US |archive-date=20 November 2023 |archive-url=https://web.archive.org/web/20231120091015/https://buenosairesherald.com/politics/sergio-massa-concedes-defeat-announces-retirement-from-politics |url-status=live }}</ref>",
+                      "url": "https://buenosairesherald.com/politics/sergio-massa-concedes-defeat-announces-retirement-from-politics",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.1.s2",
+                  "text": "Incumbent and retiring president Alberto Fernández congratulated Milei: \"I am a man of democracy, and I value nothing more than the popular verdict. I trust that tomorrow we can start working with Javier Milei to guarantee an orderly transition.\" Former president Mauricio Macri, who had endorsed Milei in the runoff, said: \"I congratulate Javier Milei for bravely representing the will to advance and prosper that lives in the hearts of Argentines. He knew how to listen to the voice of young people and the fatigue of millions of neglected and impoverished people.\"<ref name=\":2\" />",
+                  "references": [
+                    {
+                      "text": "<ref name=\":2\">{{Cite news |date=20 November 2023 |title=Global leaders react to Milei's Argentina victory |language=en |work=Reuters |url=https://www.reuters.com/world/americas/latin-american-leaders-react-argentina-election-result-2023-11-20/ |access-date=20 November 2023 |archive-date=20 November 2023 |archive-url=https://web.archive.org/web/20231120074604/https://www.reuters.com/world/americas/latin-american-leaders-react-argentina-election-result-2023-11-20/ |url-status=live }}</ref>",
+                      "url": "https://www.reuters.com/world/americas/latin-american-leaders-react-argentina-election-result-2023-11-20/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "International",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.2.s1",
+                  "text": "{{Flag|Bolivia}}: Bolivian president Luis Arce wished success to Javier Milei and said that he would work hard to keep \"firm relations\" with Argentina. On the other hand, former president Evo Morales said that he would never wish success to \"[Milei's] fascism, far-right and neoliberalism, who supports the Zionist genocide and American imperialism|Yankee imperialism.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=Presidente de Bolivia desea \"éxitos\" a Milei y dice que trabajará por relaciones \"firmes\" |url=https://www.swissinfo.ch/spa/argentina-transici%C3%B3n_presidente-de-bolivia-desea--%C3%A9xitos--a-milei-y-dice-que-trabajar%C3%A1-por-relaciones--firmes-/48993046 |access-date=25 November 2023 |agency=SwissInfo |date=20 November 2023 |language=es |archive-date=25 November 2023 |archive-url=https://web.archive.org/web/20231125110708/https://www.swissinfo.ch/spa/argentina-transici%C3%B3n_presidente-de-bolivia-desea--%C3%A9xitos--a-milei-y-dice-que-trabajar%C3%A1-por-relaciones--firmes-/48993046 |url-status=live }}</ref>",
+                      "url": "https://www.swissinfo.ch/spa/presidente-de-bolivia-desea-%C3%A9xitos-a-milei-y-dice-que-trabajar%C3%A1-por-relaciones-firmes/48993046",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Evo Morales, sobre la victoria de Milei: \"Nunca le vamos a desear éxito al al fascismo, ultraderechismo y neoliberalismo\" |url=https://www.lanacion.com.ar/politica/evo-morales-sobre-la-victoria-de-milei-nunca-le-vamos-a-desear-exito-al-al-fascismo-ultraderechismo-nid21112023/ |access-date=25 November 2023 |work=La Nación |date=21 November 2023 |language=es |archive-date=25 November 2023 |archive-url=https://web.archive.org/web/20231125110709/https://www.lanacion.com.ar/politica/evo-morales-sobre-la-victoria-de-milei-nunca-le-vamos-a-desear-exito-al-al-fascismo-ultraderechismo-nid21112023/ |url-status=live }}</ref>",
+                      "url": "https://www.lanacion.com.ar/politica/evo-morales-sobre-la-victoria-de-milei-nunca-le-vamos-a-desear-exito-al-al-fascismo-ultraderechismo-nid21112023/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.2.s2",
+                  "text": "{{Flag|China}}: Chinese president Xi Jinping congratulated Milei saying: \"I am ready to work with President-elect Milei to continue the China-Argentina friendship, help the development and revitalisation of our respective countries through win-win cooperation, and promote steady and far-reaching development of China-Argentina relations.\" Milei thanked Xi for his congratulations, replying \"I thank President Xi Jinping for the congratulations and good wishes. I send him my most sincere wishes for the Chinese people's wellbeing.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=2023-11-23 |title=Argentina's Milei thanks Chinese president, in softening of tone |language=en |work=Reuters |url=https://www.reuters.com/world/argentinas-milei-thanks-chinese-president-softening-tone-2023-11-23/ |access-date=2023-11-23 |archive-date=23 November 2023 |archive-url=https://web.archive.org/web/20231123123816/https://www.reuters.com/world/argentinas-milei-thanks-chinese-president-softening-tone-2023-11-23/ |url-status=live }}</ref>",
+                      "url": "https://www.reuters.com/world/argentinas-milei-thanks-chinese-president-softening-tone-2023-11-23/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.2.s3",
+                  "text": "{{Flag|European Union}}: Charles Michel, the president of the European Council, congratulated Milei saying: \"Congratulations to Argentina's new president-elect Javier Milei for his victory. The people of Argentina have spoken in free and democratic elections.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |title=European Union, Indian PM congratulate Javier Milei on Argentina election win |url=https://www.batimes.com.ar/news/argentina/european-union-congratulates-javier-milei-on-argentina-election-win.phtml |publisher=Buenos Aires Times |access-date=23 November 2023 |date=20 November 2023 |archive-date=23 November 2023 |archive-url=https://web.archive.org/web/20231123072857/https://www.batimes.com.ar/news/argentina/european-union-congratulates-javier-milei-on-argentina-election-win.phtml |url-status=live }}</ref>",
+                      "url": "https://www.batimes.com.ar/news/argentina/european-union-congratulates-javier-milei-on-argentina-election-win.phtml",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.2.s4",
+                  "text": "{{Flag|India}}: Indian prime minister Narendra Modi congratulated Milei saying: \"Congratulations for the victory in the Presidential elections. Look forward to working closely with you to diversify and expand India-Argentina strategic partnership.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |title=Prime Minister congratulates Javier Milei for winning Argentina's presidential election |url=https://www.narendramodi.in/prime-minister-narendra-modi-congratulates-javier-milei-for-winning-argentinas-presidential-election-576148 |access-date=23 November 2023 |date=20 November 2023 |archive-date=23 November 2023 |archive-url=https://web.archive.org/web/20231123072851/https://www.narendramodi.in/prime-minister-narendra-modi-congratulates-javier-milei-for-winning-argentinas-presidential-election-576148 |url-status=live }}</ref>",
+                      "url": "https://www.narendramodi.in/prime-minister-narendra-modi-congratulates-javier-milei-for-winning-argentinas-presidential-election-576148",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.2.s5",
+                  "text": "{{Flag|Mexico}}: Mexican president Andrés Manuel López Obrador called Argentina's election of Milei an \"own goal\".",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=2023-11-21 |title=Mexico president calls Argentina's election of Milei an \"own goal\" |language=en |work=Reuters |url=https://www.reuters.com/world/americas/mexico-president-calls-argentinas-election-milei-an-own-goal-2023-11-21/ |access-date=2023-11-21 |archive-date=21 November 2023 |archive-url=https://web.archive.org/web/20231121212229/https://www.reuters.com/world/americas/mexico-president-calls-argentinas-election-milei-an-own-goal-2023-11-21/ |url-status=live }}</ref>",
+                      "url": "https://www.reuters.com/world/americas/mexico-president-calls-argentinas-election-milei-an-own-goal-2023-11-21/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.2.s6",
+                  "text": "{{Flag|Russia}}: Russian president Vladimir Putin congratulated Milei, despite the latter support for Ukraine in the Russo-Ukrainian War. Putin's press secretary Dmitry Peskov said: \"We noted a number of statements that Mr. Milei made during the election campaign, but we will focus on and judge him mainly by the statements that he makes after the inauguration\" while remaining supportive of the \"development of bilateral relations with Argentina.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last=Lightd |first=Felix |date=20 November 2023 |title=Kremlin notes Argentina President-elect Milei's comments on Russia, but hopes for good ties |newspaper=Reuters |url=https://www.reuters.com/world/americas/kremlin-notes-argentina-president-elect-mileis-comments-russia-hopes-good-ties-2023-11-20/ |url-status=live |archive-url=https://web.archive.org/web/20231122013606/https://www.reuters.com/world/americas/kremlin-notes-argentina-president-elect-mileis-comments-russia-hopes-good-ties-2023-11-20/ |archive-date=22 November 2023 |access-date=21 November 2023 |editor-last1=Osborn |editor-first1=Andrew |editor-last2=Oatis |editor-first2=Jonathan}}</ref>",
+                      "url": "https://www.reuters.com/world/americas/kremlin-notes-argentina-president-elect-mileis-comments-russia-hopes-good-ties-2023-11-20/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.2.s7",
+                  "text": "{{Flag|Ukraine}}: Ukrainian president Volodymyr Zelenskyy congratulated Milei on his victory and thanked him for his clear stance of support for Ukraine. Zelenskyy further stated that he looked forward to working together with Milei to strengthen Ukrainian-Argentinian cooperation and restore international order based on international law. Zelenskyy and Milei held a phone call where they discussed cultivating relations and Ukraine's war against Russia.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=2023-11-20 |title=Zelenskyy congratulates Milei on winning presidential election in Argentina, thanks him for supporting Ukraine |language=en |work=The New Voice of Ukraine |url=https://english.nv.ua/nation/zelenskyy-congratulates-javier-milei-on-victory-in-argentina-s-presidential-election-50369728.html |access-date=2023-11-22}}</ref>",
+                      "url": "https://english.nv.ua/nation/zelenskyy-congratulates-javier-milei-on-victory-in-argentina-s-presidential-election-50369728.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=2023-11-22 |title=ZZelenskyy speaks with Argentinian President-elect Milei |language=en |work=The New Voice of Ukraine |url=https://english.nv.ua/nation/zelenskyy-speaks-with-argentinian-president-elect-milei-50370510.html |access-date=2023-11-22}}</ref>",
+                      "url": "https://english.nv.ua/nation/zelenskyy-speaks-with-argentinian-president-elect-milei-50370510.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.2.s8",
+                  "text": "{{Flag|United States}}: U.S president Joe Biden congratulated Milei and held a phone call with him, where Biden said that Argentina can count with US support. Milei told Biden that he would align with the US and Israel, while repeatedly saying that he would cool relations with China. Antony Blinken, the United States Secretary of State, congratulated Milei saying: \"The United States congratulates Argentine President-elect Javier Milei on his victory in today's election, and we applaud the robust democratic process through which the Argentine public has spoken. The strong turnout and peaceful conduct of the vote are a testament to Argentina's electoral and democratic institutions. We look forward to working with President-elect Milei and his government on shared priorities that benefit the people of both countries, including protecting human rights and democracy, addressing climate change, and investing in the middle class.\" Jake Sullivan, the National Security Advisor, congratulated Milei saying: \"I congratulate Javier Milei on his election as president of Argentina and to the people of Argentina for holding free and fair elections. We look forward to building on our strong bilateral relationship based on our shared commitment to human rights, democratic values, and transparency.\"<ref name=\":2\" /> Former president Donald Trump congratulated Milei saying: \"Congratulations to Javier Milei on a great race for president of Argentina. The whole world was watching! I am very proud of you. You will turn your country around and truly Make Argentina Great Again!\"<ref name=\":2\" />",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=Joe Biden tells Argentina's new leader Javier Milei to count on support |url=https://www.batimes.com.ar/news/argentina/biden-tells-argentinas-new-leader-milei-to-count-on-support.phtml |access-date=24 November 2023 |work=Buenos Aires Times |date=24 November 2023 |archive-date=24 November 2023 |archive-url=https://web.archive.org/web/20231124093528/https://www.batimes.com.ar/news/argentina/biden-tells-argentinas-new-leader-milei-to-count-on-support.phtml |url-status=live }}</ref>",
+                      "url": "https://www.batimes.com.ar/news/argentina/biden-tells-argentinas-new-leader-milei-to-count-on-support.phtml",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Election Results in Argentina |url=https://www.state.gov/election-results-in-argentina/ |access-date=20 November 2023 |website=United States Department of State |language=en |archive-date=20 November 2023 |archive-url=https://web.archive.org/web/20231120035240/https://www.state.gov/election-results-in-argentina/ |url-status=live }}</ref>",
+                      "url": "https://www.state.gov/election-results-in-argentina/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.2.s9",
+                  "text": "{{Flag|Venezuela}}: Venezuelan president Nicolás Maduro, reacting to the election results, declared that \"the neo-Nazi extreme right won in Argentina, we call for reflection on the emergence of extreme right centers that seek to impose themselves to recolonize Latin America and impose extremist models\".",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=2023-11-22 |title=Nicolás Maduro arremete contra Javier Milei: \"En Argentina ganó la extrema derecha neonazi, que pretende recolonizar América Latina\" |url=https://www.elmundo.es/internacional/2023/11/21/655bfd44e9cf4ad96a8b45ae.html |access-date=2023-11-22 |website=El Mundo (Spain)|El Mundo |language=es |archive-date=22 November 2023 |archive-url=https://web.archive.org/web/20231122113606/https://www.elmundo.es/internacional/2023/11/21/655bfd44e9cf4ad96a8b45ae.html |url-status=live }}</ref>",
+                      "url": "https://www.elmundo.es/internacional/2023/11/21/655bfd44e9cf4ad96a8b45ae.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

@@ -9,33 +9,33 @@
           "sentences": [
             {
               "id": "1.s1",
-              "text": "A constitutional referendum was held and approved in Gabon on 16 November 2024. The vote was on a new Constitution of Gabon|constitution; it proposed, among other things, a 7-year presidential term, renewable once consecutively. The referendum may lead to the return to a civilian regime which the Committee for the Transition and Restoration of Institutions|military junta promised after the 2023 Gabonese coup d'état|coup d'état in 2023.",
+              "text": "A constitutional referendum was held and approved in Gabon on 16 November 2024. The vote was on a new Constitution of Gabon|constitution; it proposed, among other things, a 7-year presidential term, renewable once consecutively. The referendum led to the return to a civilian regime which the Committee for the Transition and Restoration of Institutions|military junta promised after the 2023 Gabonese coup d'état|coup d'état in 2023.",
               "references": [
                 {
                   "text": "<ref>{{Cite web |date=2024-10-18 |title=Journal de l'Afrique - Nouvelle constitution au Gabon, le référendum fixé au 16 novembre |url=https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20241018-nouvelle-constitution-au-gabon-le-r%C3%A9f%C3%A9rendum-fix%C3%A9-au-16-novembre-prochain |access-date=2024-10-22 |website=France 24 |language=fr}}</ref>",
                   "url": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20241018-nouvelle-constitution-au-gabon-le-r%C3%A9f%C3%A9rendum-fix%C3%A9-au-16-novembre-prochain",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Au Gabon, Brice Clotaire Oligui Nguema fixe le référendum au 16 novembre - Jeune Afrique.com |url=https://www.jeuneafrique.com/1622146/politique/au-gabon-brice-clotaire-oligui-nguema-fixe-le-referendum-au-16-novembre/ |access-date=2024-10-22 |website=JeuneAfrique.com |language=fr-FR}}</ref>",
                   "url": "https://www.jeuneafrique.com/1622146/politique/au-gabon-brice-clotaire-oligui-nguema-fixe-le-referendum-au-16-novembre/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news | url=https://allafrica.com/stories/202410240031.html | title=Gabon to Vote on Constitution That Would Let Military Leader Run for President | newspaper=Voice of America | date=24 October 2024 | last1=Kindzeka | first1=Moki Edwin }}</ref>",
                   "url": "https://allafrica.com/stories/202410240031.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-10-20 |title=Gabon to hold referendum on new constitution in November |url=https://www.rfi.fr/en/africa/20241020-gabon-to-hold-referendum-on-new-constitution-in-november |access-date=2024-10-22 |website=RFI |language=en}}</ref>",
                   "url": "https://www.rfi.fr/en/africa/20241020-gabon-to-hold-referendum-on-new-constitution-in-november",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -58,21 +58,21 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-04-03 |title=Gabon takes historic step towards democratic renewal |url=https://www.africanews.com/2024/04/03/gabon-takes-historic-step-towards-democratic-renewal/ |access-date=2024-10-22 |website=Africanews |language=en}}</ref>",
                   "url": "https://www.africanews.com/2024/04/03/gabon-takes-historic-step-towards-democratic-renewal/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-09-01 |title=Gabon's transitional president handed draft version of future constitution |url=https://www.africanews.com/2024/09/01/gabons-transitional-president-handed-draft-version-of-future-constitution/ |access-date=2024-10-22 |website=Africanews |language=en}}</ref>",
                   "url": "https://www.africanews.com/2024/09/01/gabons-transitional-president-handed-draft-version-of-future-constitution/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-09-17 |title=Consultations underway on Gabon's future constitution |url=https://www.africanews.com/2024/09/17/consultations-underway-on-gabons-future-constitution/ |access-date=2024-10-22 |website=Africanews |language=en}}</ref>",
                   "url": "https://www.africanews.com/2024/09/17/consultations-underway-on-gabons-future-constitution/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -85,7 +85,7 @@
                 {
                   "text": "<ref>{{Cite web |date=22 October 2024 |title=Oligui Nguema sees basic law referendum as springboard for presidential poll |url=https://www.africaintelligence.com/central-africa/2024/10/22/oligui-nguema-sees-basic-law-referendum-as-springboard-for-presidential-poll,110329383-bre |website=Africa Intelligence}}</ref>",
                   "url": "https://www.africaintelligence.com/central-africa/2024/10/22/oligui-nguema-sees-basic-law-referendum-as-springboard-for-presidential-poll,110329383-bre",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -103,54 +103,54 @@
           "sentences": [
             {
               "id": "3.s1",
-              "text": "The new constitution contains 173 articles. It includes a presidential system, abolishing the office of Prime Minister of Gabon|prime minister, with the President of Gabon limited to two consecutive seven-year terms, elected via the two-round system. The method of election and term of the president is Entrenched clause|entrenched. The role of the prime minister would be replaced by a new \"Vice President of the Government\" appointed by the President (thus meaning there would be two vice presidents in total, with the other known as the Vice President of the Republic). The Languages of Gabon|working language of Gabon will continue to be French language|French, but it will not be considered the state's \"official language\". Conscription|Mandatory military service would be allowed under law. The national holiday of August 17 is complemented by a \"liberation day\" on August 30 in honor of the 2023 coup d'état.",
+              "text": "The new constitution contains 173 articles. It includes a presidential system, abolishing the office of Prime Minister of Gabon|prime minister, with the President of Gabon limited to two consecutive seven-year terms, elected via the two-round system. The method of election and term of the president is Entrenched clause|entrenched. The role of the prime minister would be replaced by a new \"Vice President of the Government\" appointed by the President (thus meaning there would be two vice presidents in total, with the other known as the Vice President of the Republic). The Languages of Gabon|working language of Gabon will continue to be French language|French, but it will not be considered the state's \"official language\". Conscription|Mandatory military service would be allowed under law. The national holiday of 17 August is complemented by a \"liberation day\" on 30 August in honor of the 2023 coup d'état.",
               "references": [
                 {
                   "text": "<ref name=\"aj\">{{Cite web |date=2024-11-16 |title=Gabon votes in referendum on new constitution after military coup last year |url=https://www.aljazeera.com/news/2024/11/16/gabon-votes-in-referendum-on-new-constitution-after-military-coup-last-year |access-date=2024-11-16 |website=Al Jazeera |language=en}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/11/16/gabon-votes-in-referendum-on-new-constitution-after-military-coup-last-year",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-10-20 |title=Gabon to hold referendum on new constitution in November |url=https://www.rfi.fr/en/africa/20241020-gabon-to-hold-referendum-on-new-constitution-in-november |access-date=2024-10-30 |website=RFI |language=en}}</ref>",
                   "url": "https://www.rfi.fr/en/africa/20241020-gabon-to-hold-referendum-on-new-constitution-in-november",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-10-24 |title=Gabon to Vote on New Constitution Okaying Military Ruler in Polls |url=https://allafrica.com/view/group/main/main/id/00090775.html |access-date=2024-10-30 |website=allAfrica.com |language=en}}</ref>",
                   "url": "https://allafrica.com/view/group/main/main/id/00090775.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Wabwireh |first=Dominic |date=22 October 2024 |title=Key details on Gabon's new constitution and upcoming referendum |url=https://www.africanews.com/2024/10/22/key-details-on-gabons-new-constitution-and-upcoming-referendum/ |access-date=2024-10-30 |website=AfricaNews |language=en}}</ref>",
                   "url": "https://www.africanews.com/2024/10/22/key-details-on-gabons-new-constitution-and-upcoming-referendum/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":0\">{{Cite web |date=16 November 2024 |title=Afrique: Les Gabonais votent pour adopter ou rejeter le projet de Constitution |url=https://www.rfi.fr/fr/afrique/20241116-les-gabonais-votent-pour-adopter-ou-rejeter-le-projet-de-constitution |access-date=2024-11-16 |website=RFI |language=fr}}</ref>",
                   "url": "https://www.rfi.fr/fr/afrique/20241116-les-gabonais-votent-pour-adopter-ou-rejeter-le-projet-de-constitution",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":0\" /> The new constitution would also define Heterosexual marriage|marriage as a union between a man and a woman via an entrenched clause, thus permanently banning same-sex marriage.<ref>{{Cite web |date=2024-10-24 |title=The President of Gabon Oligui Nguema wants to stay in power - Robert Lansing Institute |url=https://lansinginstitute.org/2024/10/24/the-president-of-gabon-oligui-nguema-wants-to-stay-in-power/ |access-date=2024-10-30 |language=en-US}}</ref>",
                   "url": "https://lansinginstitute.org/2024/10/24/the-president-of-gabon-oligui-nguema-wants-to-stay-in-power/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-11-16 |title=Afrique Les Gabonais votent pour adopter ou rejeter le projet de Constitution |url=https://www.rfi.fr/fr/afrique/20241116-les-gabonais-votent-pour-adopter-ou-rejeter-le-projet-de-constitution |access-date=2024-11-16 |website=Radio France International |language=fr-FR}}</ref>",
                   "url": "https://www.rfi.fr/fr/afrique/20241116-les-gabonais-votent-pour-adopter-ou-rejeter-le-projet-de-constitution",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -162,15 +162,15 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web |date=2024-10-25 |title=Gabon : pourquoi le projet de nouvelle Constitution fait débat |url=https://www.lepoint.fr/afrique/gabon-pourquoi-le-projet-de-nouvelle-constitution-fait-debat-25-10-2024-2573658_3826.php#11 |access-date=2024-10-30 |website=Le Point |language=fr}}</ref>",
-                  "url": "https://www.lepoint.fr/afrique/gabon-pourquoi-le-projet-de-nouvelle-constitution-fait-debat-25-10-2024-2573658_3826.php#11",
-                  "status_code": null,
+                  "url": "https://www.lepoint.fr/afrique/gabon-pourquoi-le-projet-de-nouvelle-constitution-fait-debat-25-10-2024-2573658_3826.php",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |date=2024-10-25 |title=Au Gabon, le général Brice Oligui Nguema se taille une Constitution sur mesure |url=https://www.lemonde.fr/afrique/article/2024/10/25/au-gabon-le-general-brice-oligui-nguema-se-taille-une-constitution-sur-mesure_6359629_3212.html |access-date=2024-10-30 |language=fr}}</ref>",
                   "url": "https://www.lemonde.fr/afrique/article/2024/10/25/au-gabon-le-general-brice-oligui-nguema-se-taille-une-constitution-sur-mesure_6359629_3212.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -188,19 +188,19 @@
           "sentences": [
             {
               "id": "4.s1",
-              "text": "The provisional government is authorizing international observers to observe the referendum, something that was not permitted for the 2023 Gabonese general election. Ballot papers used in the referendum were color-coded, with green ballots meaning \"yes\" and red ones meaning \"no\". Around 2,835 polling stations were utilised for the procedure, which ran from 07:00 to 18:00.",
+              "text": "The provisional government authorized international observers to observe the referendum, something that was not permitted for the 2023 Gabonese general election. Ballot papers used in the referendum were color-coded, with green ballots meaning \"yes\" and red ones meaning \"no\". Around 2,835 polling stations were utilised for the procedure, which ran from 07:00 to 18:00.",
               "references": [
                 {
                   "text": "<ref>{{Cite web |date=2024-10-27 |title=Gabon: la campagne électorale pour le référendum constitutionnel débutera le 7 novembre |url=https://www.rfi.fr/fr/afrique/20241027-gabon-la-campagne-%C3%A9lectorale-pour-le-r%C3%A9f%C3%A9rendum-constitutionnel-d%C3%A9butera-le-7-novembre |access-date=2024-10-30 |website=RFI |language=fr}}</ref>",
                   "url": "https://www.rfi.fr/fr/afrique/20241027-gabon-la-campagne-%C3%A9lectorale-pour-le-r%C3%A9f%C3%A9rendum-constitutionnel-d%C3%A9butera-le-7-novembre",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"aj\"/> A night-time curfew was declared for safety reasons.<ref>{{Cite web |date=2024-11-17 |title=Early reports say a majority of voters in Gabon cast ballots to end military rule |url=https://www.voanews.com/a/early-reports-say-a-majority-of-voters-in-gabon-cast-ballots-to-end-military-rule/7866697.html |access-date=2024-11-17 |website=VOA |language=en}}</ref>",
                   "url": "https://www.voanews.com/a/early-reports-say-a-majority-of-voters-in-gabon-cast-ballots-to-end-military-rule/7866697.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -218,26 +218,26 @@
           "sentences": [
             {
               "id": "5.s1",
-              "text": "On 17 November, Interior Minister Hermann Immongault said that the referendum had passed with over 91% support after an estimated 53% turnout but that the final results would be announced later by the Constitutional Court of Gabon|Constitutional Court. On 29 November, the Constitutional Court validated the results of the referendum, definitively adopting the constitution. On December 19, the new constitution was promulgated by the president.",
+              "text": "On 17 November, Interior Minister Hermann Immongault said that the referendum had passed with over 91% support after an estimated 53% turnout but that the final results would be announced later by the Constitutional Court of Gabon|Constitutional Court. On 29 November, the Constitutional Court validated the results of the referendum, definitively adopting the constitution. On 19 December, the new constitution was promulgated by the president.",
               "references": [
                 {
                   "text": "<ref>{{Cite web |date=2024-11-18 |title=Référendum 2024 au Gabon : La nouvelle constitution approuvée avec 91,80 % du Oui |url=https://fr.infosgabon.com/referendum-2024-au-gabon-la-nouvelle-constitution-approuvee-avec-9180-du-oui/ |access-date=2024-11-18 |website=INFOS GABON |language=fr-FR}}</ref>",
                   "url": "https://fr.infosgabon.com/referendum-2024-au-gabon-la-nouvelle-constitution-approuvee-avec-9180-du-oui/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-11-29 |title=Gabon: la Cour constitutionnelle valide le \"oui\" au référendum|url=https://www.voaafrique.com/a/gabon-la-cour-constitutionnelle-valide-le-oui-au-r%C3%A9f%C3%A9rendum/7881446.html |access-date=2024-11-29 |website=Voa Afrique |language=fr-FR}}</ref>",
                   "url": "https://www.voaafrique.com/a/gabon-la-cour-constitutionnelle-valide-le-oui-au-r%C3%A9f%C3%A9rendum/7881446.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-12-19 |title=Gabon: la nouvelle Constitution promulguée par le président de la transition|url=https://www.rfi.fr/fr/en-bref/20241219-gabon-la-nouvelle-constitution-promulgu%C3%A9e-par-le-pr%C3%A9sident-de-la-transition |access-date=2024-12-19 |website=rif.fr |language=fr-FR}}</ref>",
                   "url": "https://www.rfi.fr/fr/en-bref/20241219-gabon-la-nouvelle-constitution-promulgu%C3%A9e-par-le-pr%C3%A9sident-de-la-transition",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -260,14 +260,14 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-11-18 |title=Le Président de la Commission de l'Union Africaine félicite le Gabon pour l'organisation du Référendum sur la nouvelle Constitution |url=https://au.int/fr/pressreleases/20241118/felicite-le-gabon-pour-lorganisation-du-referendum-sur-la-nouvelle |access-date=2024-11-22 |website=African Union |language=fr}}</ref>",
                   "url": "https://au.int/fr/pressreleases/20241118/felicite-le-gabon-pour-lorganisation-du-referendum-sur-la-nouvelle",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-11-18 |title=Le Référendum Constitutionnel au Gabon : une adoption massive de la nouvelle Constitution |url=https://www.gouvernement.ga/3582-actualites/4-actualite-nationale/3666-dialogue-social/3999-le-referendum-constitutionnel-au-gabon-une-adoption-massive-de-la-nouvelle-constitution/ |access-date=2024-11-22 |website=gouvernement.ga|language=fr}}</ref>",
                   "url": "https://www.gouvernement.ga/3582-actualites/4-actualite-nationale/3666-dialogue-social/3999-le-referendum-constitutionnel-au-gabon-une-adoption-massive-de-la-nouvelle-constitution/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

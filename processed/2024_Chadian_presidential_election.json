@@ -14,49 +14,49 @@
                 {
                   "text": "<ref name=\"africanews\">{{Cite web |title=Chad's election agency sets dates for presidential polls |url=https://www.africanews.com/2024/02/28/chads-election-agency-sets-dates-for-presidential-polls// |access-date=28 February 2024 |website=Africanews |date=28 February 2024 |language=en |archive-date=28 February 2024 |archive-url=https://web.archive.org/web/20240228102102/https://www.africanews.com/2024/02/28/chads-election-agency-sets-dates-for-presidential-polls/ |url-status=live }}</ref>",
                   "url": "https://www.africanews.com/2024/02/28/chads-election-agency-sets-dates-for-presidential-polls//",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Chad To Hold Presidential Vote On May 6 To End Junta Rule |url=https://www.barrons.com/news/chad-to-hold-presidential-vote-on-may-6-to-end-junta-rule-170f356f |access-date=2024-02-29 |website=www.barrons.com |language=en-US |archive-date=29 February 2024 |archive-url=https://web.archive.org/web/20240229221442/https://www.barrons.com/news/chad-to-hold-presidential-vote-on-may-6-to-end-junta-rule-170f356f |url-status=live }}</ref>",
                   "url": "https://www.barrons.com/news/chad-to-hold-presidential-vote-on-may-6-to-end-junta-rule-170f356f",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web|url=https://www.dw.com/en/chads-president-delays-elections-and-expands-his-powers/a-63431209|title=Chad's president delays elections and expands his powers|website=Deutsche Welle|date=13 October 2022|access-date=15 October 2022|archive-date=15 October 2022|archive-url=https://web.archive.org/web/20221015165941/https://www.dw.com/en/chads-president-delays-elections-and-expands-his-powers/a-63431209|url-status=live}}</ref>",
-                  "url": "https://www.dw.com/en/chads-president-delays-elections-and-expands-his-powers/a-63431209",
-                  "status_code": null,
+                  "url": "https://www.dw.com/en/new-chad-pm-saleh-kebzabo-tells-dw-that-dialogue-is-crucial/a-63431209",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2023-12-15 |title=Chad Leaders Urge Civilians to Participate in Sunday's Constitutional Referendum |url=https://www.voanews.com/a/chad-leaders-urge-civilians-to-participate-in-sunday-s-constitutional-referendum/7399622.html |access-date=2023-12-17 |website=Voice of America |language=en |archive-date=18 December 2023 |archive-url=https://web.archive.org/web/20231218031706/https://www.voanews.com/a/chad-leaders-urge-civilians-to-participate-in-sunday-s-constitutional-referendum/7399622.html |url-status=live }}</ref>",
                   "url": "https://www.voanews.com/a/chad-leaders-urge-civilians-to-participate-in-sunday-s-constitutional-referendum/7399622.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web|date=20 April 2021|title=Chad's Idriss Deby, a longstanding French ally in the troubled Sahel|url=https://www.france24.com/en/africa/20210420-chad-s-idriss-deby-a-longstanding-french-ally-in-the-troubled-sahel|access-date=20 April 2021|website=France 24|language=en|archive-date=20 April 2021|archive-url=https://web.archive.org/web/20210420120158/https://www.france24.com/en/africa/20210420-chad-s-idriss-deby-a-longstanding-french-ally-in-the-troubled-sahel|url-status=live}}</ref>",
                   "url": "https://www.france24.com/en/africa/20210420-chad-s-idriss-deby-a-longstanding-french-ally-in-the-troubled-sahel",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"conv-20210915\">{{cite web |last=Henningsen |first=Troels Burchall |date=15 September 2021 |title=Chad has a new roadmap: why it may lead to more of the same, and not democracy |url=https://theconversation.com/chad-has-a-new-roadmap-why-it-may-lead-to-more-of-the-same-and-not-democracy-167229 |access-date=2022-01-23 |work=The Conversation (website)|The Conversation |archive-date=27 January 2022 |archive-url=https://web.archive.org/web/20220127023206/https://theconversation.com/chad-has-a-new-roadmap-why-it-may-lead-to-more-of-the-same-and-not-democracy-167229 |url-status=live }}</ref>",
                   "url": "https://theconversation.com/chad-has-a-new-roadmap-why-it-may-lead-to-more-of-the-same-and-not-democracy-167229",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"eco\">{{Cite news |date=2023-11-23 |title=Will Chad be the next Western ally in Africa to fail? |url=https://www.economist.com/middle-east-and-africa/2023/11/23/will-chad-be-the-next-western-ally-in-africa-to-fall |access-date=2024-03-15 |newspaper=The Economist |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315151940/https://www.economist.com/middle-east-and-africa/2023/11/23/will-chad-be-the-next-western-ally-in-africa-to-fall |url-status=live }}</ref>",
                   "url": "https://www.economist.com/middle-east-and-africa/2023/11/23/will-chad-be-the-next-western-ally-in-africa-to-fall",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -79,28 +79,28 @@
                 {
                   "text": "<ref>{{Cite web |title=Chad announces several deaths after foiled intelligence office attack |url=https://www.aljazeera.com/news/2024/2/28/chad-announces-several-deaths-after-foiled-intelligence-office-attack |access-date=28 February 2024 |website=Al Jazeera |language=en |archive-date=8 March 2024 |archive-url=https://web.archive.org/web/20240308061925/https://www.aljazeera.com/news/2024/2/28/chad-announces-several-deaths-after-foiled-intelligence-office-attack |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/2/28/chad-announces-several-deaths-after-foiled-intelligence-office-attack",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":0\">{{Cite web |title=Chadian opposition leader dies in gun exchange, state prosecutor says |url=https://www.aljazeera.com/news/2024/2/29/chadian-opposition-leader-dies-in-gun-exchange-state-prosecutor-says |access-date=2024-03-03 |website=Al Jazeera |language=en |archive-date=3 March 2024 |archive-url=https://web.archive.org/web/20240303135521/https://www.aljazeera.com/news/2024/2/29/chadian-opposition-leader-dies-in-gun-exchange-state-prosecutor-says |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/2/29/chadian-opposition-leader-dies-in-gun-exchange-state-prosecutor-says",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |date=29 February 2024 |title=Yaya Dillo: Chad opposition leader killed in shootout |url=https://www.bbc.com/news/world-africa-68435145 |access-date=29 February 2024 |website=BBC |language=en |archive-date=16 March 2024 |archive-url=https://web.archive.org/web/20240316061454/https://www.bbc.com/news/world-africa-68435145 |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/world-africa-68435145",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last=Larcher |first=Laurent |date=11 March 2021 |title=Au Tchad, la campagne présidentielle se durcit |trans-title= |url=https://www.la-croix.com/Monde/Au-Tchad-campagne-presidentielle-durcit-2021-03-11-1201144969 |access-date=3 March 2024 |work=La Croix (newspaper)|La Croix |language=fr |archive-date=9 March 2024 |archive-url=https://web.archive.org/web/20240309034857/https://www.la-croix.com/Monde/Au-Tchad-campagne-presidentielle-durcit-2021-03-11-1201144969 |url-status=live }}</ref>",
                   "url": "https://www.la-croix.com/Monde/Au-Tchad-campagne-presidentielle-durcit-2021-03-11-1201144969",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -113,7 +113,7 @@
                 {
                   "text": "<ref>{{cite news |date=12 April 2024 |title=Ndjamena: le premier dépositaire du nom «Tchad uni» porte plainte contre la coalition de Mahamat Idriss Deby Itno |trans-title=N'djamena: the first custodian of the name \"United Chad\" files a complaint against the coalition of Mahamat Idriss Deby Itno |url=https://www.rfi.fr/fr/afrique/20240412-tchad-premier-d%C3%A9positaire-nom-parti-tchad-uni-porte-plainte-contre-coalition-de-mahamat-idriss-deby-itno |access-date=12 April 2024 |work=Radio France International |language=fr |archive-date=12 April 2024 |archive-url=https://web.archive.org/web/20240412083804/https://www.rfi.fr/fr/afrique/20240412-tchad-premier-d%C3%A9positaire-nom-parti-tchad-uni-porte-plainte-contre-coalition-de-mahamat-idriss-deby-itno |url-status=live }}</ref>",
                   "url": "https://www.rfi.fr/fr/afrique/20240412-tchad-premier-d%C3%A9positaire-nom-parti-tchad-uni-porte-plainte-contre-coalition-de-mahamat-idriss-deby-itno",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -152,14 +152,14 @@
                     {
                       "text": "<ref name=\"eco\"/> On 13 January 2024, he was announced as the nominee of the Patriotic Salvation Movement by party secretary Mahamat Zene Bada.<ref>{{cite news |title=Opposition condemns designation of Chad's military ruler as presidential candidate |url=https://www.standardmedia.co.ke/africa/article/2001489044/opposition-condemns-designation-of-chads-military-ruler-as-presidential-candidate |access-date=19 January 2024 |work=Voice of America |agency=The Standard (Kenya)|The Standard |date=16 January 2024 |archive-date=22 February 2024 |archive-url=https://web.archive.org/web/20240222132339/https://www.standardmedia.co.ke/africa/article/2001489044/opposition-condemns-designation-of-chads-military-ruler-as-presidential-candidate |url-status=live }}</ref>",
                       "url": "https://www.standardmedia.co.ke/africa/article/2001489044/opposition-condemns-designation-of-chads-military-ruler-as-presidential-candidate",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Chad's transitional leader Déby confirms candidacy for May 6 presidential vote |url=https://www.france24.com/en/africa/20240302-chad-s-transitional-leader-d%C3%A9by-announces-candidature-for-may-6-presidential-vote |access-date=2 March 2024 |work=France 24 |date=2 March 2024 |archive-date=2 March 2024 |archive-url=https://web.archive.org/web/20240302115232/https://www.france24.com/en/africa/20240302-chad-s-transitional-leader-d%C3%A9by-announces-candidature-for-may-6-presidential-vote |url-status=live }}</ref>",
                       "url": "https://www.france24.com/en/africa/20240302-chad-s-transitional-leader-d%C3%A9by-announces-candidature-for-may-6-presidential-vote",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -180,28 +180,28 @@
                         {
                           "text": "<ref>{{cite news |date=15 January 2024 |title=Chad's transitional leader General Mahamat Idriss Déby Itno candidate for 2024 elections |url=https://northafricapost.com/74448-74448.html |access-date=20 January 2024 |work=North Africa Post |archive-date=23 February 2024 |archive-url=https://web.archive.org/web/20240223043122/https://northafricapost.com/74448-74448.html |url-status=live }}</ref>",
                           "url": "https://northafricapost.com/74448-74448.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite web |last= |date=25 March 2024 |title=Chad: Mahamat Deby, Success Masra among 10 cleared candidates for presidential election |url=https://www.africanews.com/2024/03/25/chad-mahamat-deby-opposition-figure-success-masra-cleared-for-may-6-presidential-election/ |access-date=2024-03-25 |website=Africanews |language=en |archive-date=25 March 2024 |archive-url=https://web.archive.org/web/20240325152742/https://www.africanews.com/2024/03/25/chad-mahamat-deby-opposition-figure-success-masra-cleared-for-may-6-presidential-election/ |url-status=live }}</ref>",
                           "url": "https://www.africanews.com/2024/03/25/chad-mahamat-deby-opposition-figure-success-masra-cleared-for-may-6-presidential-election/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=11 March 2024 |title=Success Masra declares candidacy for Chad's presidency |url=https://www.africanews.com/2024/03/11/success-masra-declares-candidacy-for-chads-presidency/ |access-date=11 March 2024 |website=Africanews |language=en |archive-date=11 March 2024 |archive-url=https://web.archive.org/web/20240311114214/https://www.africanews.com/2024/03/11/success-masra-declares-candidacy-for-chads-presidency/ |url-status=live }}</ref>",
                           "url": "https://www.africanews.com/2024/03/11/success-masra-declares-candidacy-for-chads-presidency/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"eco\" /> It was the first time in Chad's history that a president and a prime minister faced each other in a presidential election.<ref>{{Cite web |title=Chad main opposition figures barred as leaders cleared for election |url=https://www.aljazeera.com/news/2024/3/24/chad-main-opposition-figures-barred-as-leaders-cleared-for-election |access-date=2024-03-25 |website=Al Jazeera |language=en |archive-date=25 March 2024 |archive-url=https://web.archive.org/web/20240325093633/https://www.aljazeera.com/news/2024/3/24/chad-main-opposition-figures-barred-as-leaders-cleared-for-election |url-status=live }}</ref>",
                           "url": "https://www.aljazeera.com/news/2024/3/24/chad-main-opposition-figures-barred-as-leaders-cleared-for-election",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -224,7 +224,7 @@
                         {
                           "text": "<ref>{{cite news |date=25 March 2024 |title=Chad: Mahamat Deby, Success Masra among 10 cleared candidates for presidential election |url=https://www.africanews.com/2024/03/25/chad-mahamat-deby-opposition-figure-success-masra-cleared-for-may-6-presidential-election/ |access-date=25 March 2024 |work=Africanews |language=en |archive-date=25 March 2024 |archive-url=https://web.archive.org/web/20240325125205/https://www.africanews.com/2024/03/25/chad-mahamat-deby-opposition-figure-success-masra-cleared-for-may-6-presidential-election/ |url-status=live }}</ref>",
                           "url": "https://www.africanews.com/2024/03/25/chad-mahamat-deby-opposition-figure-success-masra-cleared-for-may-6-presidential-election/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -237,14 +237,14 @@
                         {
                           "text": "<ref>{{cite news |date=3 May 2024 |title=Chad's interim president the favourite as the country goes to the polls |url=https://www.africanews.com/2024/05/03/chads-interim-president-the-favourite-as-the-country-goes-to-the-polls/ |access-date=3 May 2024 |work=Africanews |language=en |archive-date=3 May 2024 |archive-url=https://web.archive.org/web/20240503162724/https://www.africanews.com/2024/05/03/chads-interim-president-the-favourite-as-the-country-goes-to-the-polls/ |url-status=live }}</ref>",
                           "url": "https://www.africanews.com/2024/05/03/chads-interim-president-the-favourite-as-the-country-goes-to-the-polls/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref name=\"candidates\">{{cite news |date=6 May 2024 |title=What's at stake in Chad's presidential election? |url=https://www.aljazeera.com/news/2024/5/6/president-vs-prime-minister-whats-at-stake-in-chad-presidential-election |access-date=6 May 2024 |work=Al Jazeera |language=en |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510214338/https://www.aljazeera.com/news/2024/5/6/president-vs-prime-minister-whats-at-stake-in-chad-presidential-election |url-status=live }}</ref>",
                           "url": "https://www.aljazeera.com/news/2024/5/6/president-vs-prime-minister-whats-at-stake-in-chad-presidential-election",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -287,14 +287,14 @@
                     {
                       "text": "<ref name=\":1\">{{Cite web |date=2024-03-24 |title=Chad court bars key Déby opponents from May 6 presidential vote |url=https://www.france24.com/en/africa/20240324-chad-court-bars-key-d%C3%A9by-opponents-from-may-6-presidential-vote |access-date=2024-03-25 |website=France 24 |language=en |archive-date=24 March 2024 |archive-url=https://web.archive.org/web/20240324155330/https://www.france24.com/en/africa/20240324-chad-court-bars-key-d%C3%A9by-opponents-from-may-6-presidential-vote |url-status=live }}</ref>",
                       "url": "https://www.france24.com/en/africa/20240324-chad-court-bars-key-d%C3%A9by-opponents-from-may-6-presidential-vote",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=6 May 2024 |title=Chad presidential vote set to end military rule |url=https://www.bbc.com/news/articles/cz5d0y8xd0yo |access-date=6 May 2024 |website=BBC |language=en |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506041038/https://www.bbc.com/news/articles/cz5d0y8xd0yo |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/articles/cz5d0y8xd0yo",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -319,7 +319,7 @@
                 {
                   "text": "<ref name=\":2\">{{Cite web |last=CEDPE |title=Un sondage suscite l'enthousiasme pendant la campagne électorale au Tchad |url=https://www.centrerecherche.com/Un-sondage-suscite-l-enthousiasme-pendant-la-campagne-electorale-au-Tchad_a859.html |access-date=2024-05-04 |website=centrerecherche.com |language=fr |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510214209/https://www.centrerecherche.com/Un-sondage-suscite-l-enthousiasme-pendant-la-campagne-electorale-au-Tchad_a859.html |url-status=live }}</ref>",
                   "url": "https://www.centrerecherche.com/Un-sondage-suscite-l-enthousiasme-pendant-la-campagne-electorale-au-Tchad_a859.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -342,7 +342,7 @@
                 {
                   "text": "<ref>{{cite news|date=16 March 2024|title=Afrique Tchad: fin du dépôt des candidatures pour l'élection présidentielle|url=https://www.rfi.fr/fr/afrique/20240315-tchad-fin-du-d%C3%A9p%C3%B4t-des-candidatures-pour-l-%C3%A9lection-pr%C3%A9sidentielle|language=fr|work=Radio France International|RFI|access-date=16 March 2024|archive-date=15 March 2024|archive-url=https://web.archive.org/web/20240315233914/https://www.rfi.fr/fr/afrique/20240315-tchad-fin-du-d%C3%A9p%C3%B4t-des-candidatures-pour-l-%C3%A9lection-pr%C3%A9sidentielle|url-status=live}}</ref>",
                   "url": "https://www.rfi.fr/fr/afrique/20240315-tchad-fin-du-d%C3%A9p%C3%B4t-des-candidatures-pour-l-%C3%A9lection-pr%C3%A9sidentielle",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -355,21 +355,21 @@
                 {
                   "text": "<ref>{{cite news|last=|first=|date=17 March 2024|title=Tchad: la coalition «Nous le Peuple» demande le report de la présidentielle|trans-title=Chad: the \"We the People\" coalition calls for the presidential election to be postponed|url=https://www.rfi.fr/fr/afrique/20240317-tchad-la-coalition-nous-le-peuple-demande-le-report-de-la-pr%C3%A9sidentielle|language=fr|work=Radio France International|RFI|access-date=17 March 2024|archive-date=17 March 2024|archive-url=https://web.archive.org/web/20240317113138/https://www.rfi.fr/fr/afrique/20240317-tchad-la-coalition-nous-le-peuple-demande-le-report-de-la-pr%C3%A9sidentielle|url-status=live}}</ref>",
                   "url": "https://www.rfi.fr/fr/afrique/20240317-tchad-la-coalition-nous-le-peuple-demande-le-report-de-la-pr%C3%A9sidentielle",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news|date=23 March 2024|title=Au Tchad, l'une des principales plateformes de l'opposition appelle au boycott de la présidentielle|url=https://www.jeuneafrique.com/1551182/politique/au-tchad-lune-des-principales-plateformes-de-lopposition-appelle-au-boycott-de-la-presidentielle/|language=fr|work=Jeune Afrique|access-date=23 March 2024|archive-date=23 March 2024|archive-url=https://web.archive.org/web/20240323212423/https://www.jeuneafrique.com/1551182/politique/au-tchad-lune-des-principales-plateformes-de-lopposition-appelle-au-boycott-de-la-presidentielle/|url-status=live}}</ref>",
                   "url": "https://www.jeuneafrique.com/1551182/politique/au-tchad-lune-des-principales-plateformes-de-lopposition-appelle-au-boycott-de-la-presidentielle/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news|date=13 April 2024|title=Afrique Présidentielle au Tchad: les évêques appellent au bon déroulement de la campagne électorale|url=https://www.rfi.fr/fr/afrique/20240413-pr%C3%A9sidentielle-au-tchad-les-%C3%A9v%C3%AAques-appellent-au-bon-d%C3%A9roulement-de-la-campagne-%C3%A9lectorale|work=Radio France International|access-date=14 April 2024|archive-date=14 April 2024|archive-url=https://web.archive.org/web/20240414031020/https://www.rfi.fr/fr/afrique/20240413-pr%C3%A9sidentielle-au-tchad-les-%C3%A9v%C3%AAques-appellent-au-bon-d%C3%A9roulement-de-la-campagne-%C3%A9lectorale|url-status=live}}</ref>",
                   "url": "https://www.rfi.fr/fr/afrique/20240413-pr%C3%A9sidentielle-au-tchad-les-%C3%A9v%C3%AAques-appellent-au-bon-d%C3%A9roulement-de-la-campagne-%C3%A9lectorale",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -382,7 +382,7 @@
                 {
                   "text": "<ref>{{cite news |date=5 May 2024 |title=Chadians vigilant ahead of presidential elections on Monday |url=https://www.africanews.com/2024/05/04/chadians-vigilant-ahead-of-presidential-elections-on-monday/ |work=Africanews |access-date=5 May 2024 |archive-date=4 May 2024 |archive-url=https://web.archive.org/web/20240504234400/https://www.africanews.com/2024/05/04/chadians-vigilant-ahead-of-presidential-elections-on-monday// |url-status=live }}</ref>",
                   "url": "https://www.africanews.com/2024/05/04/chadians-vigilant-ahead-of-presidential-elections-on-monday/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -395,7 +395,7 @@
                 {
                   "text": "<ref>{{cite news |date=5 May 2024 |title=Chad goes to polls to vote for a new president |url=https://www.africanews.com/2024/05/05/chad-goes-to-polls-to-vote-for-a-new-president/ |work=Africanews |access-date=5 May 2024 |archive-date=5 May 2024 |archive-url=https://web.archive.org/web/20240505133426/https://www.africanews.com/2024/05/05/chad-goes-to-polls-to-vote-for-a-new-president/ |url-status=live }}</ref>",
                   "url": "https://www.africanews.com/2024/05/05/chad-goes-to-polls-to-vote-for-a-new-president/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -418,21 +418,21 @@
                 {
                   "text": "<ref name=\":3\">{{Cite web |date=2024-05-06 |title=Chad holds a presidential election after years of military rule |url=https://apnews.com/article/chad-election-vote-polls-b91ba8fab794d7f256d1544d17a7493b |access-date=2024-05-08 |website=AP News |language=en |archive-date=7 May 2024 |archive-url=https://web.archive.org/web/20240507002354/https://apnews.com/article/chad-election-vote-polls-b91ba8fab794d7f256d1544d17a7493b |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/chad-election-vote-polls-b91ba8fab794d7f256d1544d17a7493b",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |date=6 May 2024 |title=Chad votes for president after three years of military rule |url=https://www.france24.com/en/africa/20240506-chad-votes-for-president-after-three-years-of-military-rule |work=France 24 |access-date=6 May 2024 |archive-date=6 May 2024 |archive-url=https://web.archive.org/web/20240506082251/https://www.france24.com/en/africa/20240506-chad-votes-for-president-after-three-years-of-military-rule |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/africa/20240506-chad-votes-for-president-after-three-years-of-military-rule",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=6 May 2024 |title=Chad holds a presidential election after years of military rule |url=https://apnews.com/article/chad-election-vote-polls-b91ba8fab794d7f256d1544d17a7493b |work=Associated Press |access-date=7 May 2024 |archive-date=7 May 2024 |archive-url=https://web.archive.org/web/20240507002354/https://apnews.com/article/chad-election-vote-polls-b91ba8fab794d7f256d1544d17a7493b |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/chad-election-vote-polls-b91ba8fab794d7f256d1544d17a7493b",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -445,14 +445,14 @@
                 {
                   "text": "<ref name=\"voa\">{{Cite web |date=2024-05-09 |title=Chad opposition, civil society groups complain of vote rigging and threats |url=https://www.voanews.com/a/chad-opposition-civil-society-groups-complain-of-vote-rigging-and-threats-/7604300.html |access-date=2024-05-09 |website=VOA |language=en |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509185755/https://www.voanews.com/a/chad-opposition-civil-society-groups-complain-of-vote-rigging-and-threats-/7604300.html |url-status=live }}</ref>",
                   "url": "https://www.voanews.com/a/chad-opposition-civil-society-groups-complain-of-vote-rigging-and-threats-/7604300.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-05-10 |title=Chad's interim leader Déby wins presidential vote, main rival Masra disputes results |url=https://www.france24.com/en/africa/20240509-chad-interim-leader-d%C3%A9by-wins-presidential-vote-says-election-body |access-date=2024-05-10 |website=France 24 |language=en |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510071039/https://www.france24.com/en/africa/20240509-chad-interim-leader-d%C3%A9by-wins-presidential-vote-says-election-body |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/africa/20240509-chad-interim-leader-d%C3%A9by-wins-presidential-vote-says-election-body",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -475,42 +475,42 @@
                 {
                   "text": "<ref>{{Cite web |title=Mahamat Déby wins Chad presidential election |url=https://www.bbc.com/news/articles/cz96ezdljl9o |access-date=2024-05-09 |website=BBC |language=en-GB |archive-date=9 May 2024 |archive-url=https://web.archive.org/web/20240509234019/https://www.bbc.com/news/articles/cz96ezdljl9o |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/articles/cz96ezdljl9o",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Chad Junta Chief Deby Wins Presidential Vote |url=https://www.barrons.com/news/chad-election-results-to-be-announced-ahead-of-schedule-de01d106 |access-date=2024-05-10 |website=Barron's |language=en-US |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510094602/https://www.barrons.com/news/chad-election-results-to-be-announced-ahead-of-schedule-de01d106 |url-status=live }}</ref>",
                   "url": "https://www.barrons.com/news/chad-election-results-to-be-announced-ahead-of-schedule-de01d106",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Tchad: Pahimi Padacké félicite Mahamat Idriss Deby pour sa victoire à la présidentielle |url=https://www.alwihdainfo.com/Tchad-Pahimi-Padacke-felicite-Mahamat-Idriss-Deby-pour-sa-victoire-a-la-presidentielle_a132205.html |access-date=2024-05-10 |website=Alwihda Info |language=fr |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510100415/https://www.alwihdainfo.com/Tchad-Pahimi-Padacke-felicite-Mahamat-Idriss-Deby-pour-sa-victoire-a-la-presidentielle_a132205.html |url-status=live }}</ref>",
                   "url": "https://www.alwihdainfo.com/Tchad-Pahimi-Padacke-felicite-Mahamat-Idriss-Deby-pour-sa-victoire-a-la-presidentielle_a132205.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Chad's military ruler declared winner of presidential election as opposition disputes result |url=https://www.africanews.com/2024/05/10/chads-military-ruler-declared-winner-of-presidential-election-as-opposition-disputes-resul/ |access-date=2024-05-10 |website=Africanews |date=10 May 2024 |language=en-GB |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510100127/https://www.africanews.com/2024/05/10/chads-military-ruler-declared-winner-of-presidential-election-as-opposition-disputes-resul/ |url-status=live }}</ref>",
                   "url": "https://www.africanews.com/2024/05/10/chads-military-ruler-declared-winner-of-presidential-election-as-opposition-disputes-resul/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Chad: Supporters of Mahamat Deby take to the streets in celebration of electoral win |url=https://www.africanews.com/2024/05/10/chad-supporters-of-mahamat-deby-take-to-the-streets-in-celebration-of-electoral-win/ |access-date=2024-05-10 |website=Africanews |date=10 May 2024 |language=en-GB |archive-date=10 May 2024 |archive-url=https://web.archive.org/web/20240510100122/https://www.africanews.com/2024/05/10/chad-supporters-of-mahamat-deby-take-to-the-streets-in-celebration-of-electoral-win/ |url-status=live }}</ref>",
                   "url": "https://www.africanews.com/2024/05/10/chad-supporters-of-mahamat-deby-take-to-the-streets-in-celebration-of-electoral-win/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Chad confirms Mahamat Idriss Déby as president |url=https://www.africanews.com/2024/05/17/chad-confirms-mahamat-idriss-deby-as-president/ |access-date=2024-05-17 |website=Africanews |date=17 May 2024 |language=en-GB}}</ref>",
                   "url": "https://www.africanews.com/2024/05/17/chad-confirms-mahamat-idriss-deby-as-president/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -523,14 +523,14 @@
                 {
                   "text": "<ref>{{Cite web |title=Chad election runner-up Succes Masra files bid to annul presidential poll result |url=https://www.france24.com/en/africa/20240513-chad-election-runner-up-succes-masra-files-bid-to-annul-presidential-poll-result |access-date=2024-05-13 |website=France 24 |date=13 May 2024 |language=en-GB |archive-date=13 May 2024 |archive-url=https://web.archive.org/web/20240513143130/https://www.france24.com/en/africa/20240513-chad-election-runner-up-succes-masra-files-bid-to-annul-presidential-poll-result |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/africa/20240513-chad-election-runner-up-succes-masra-files-bid-to-annul-presidential-poll-result",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Chad junta chief Mahamat Idriss Déby officially declared winner of presidential election |url=https://www.france24.com/en/live-news/20240516-%F0%9F%94%B4-chad-junta-chief-mahamat-idriss-d%C3%A9by-officially-declared-winner-of-presidential-election |access-date=2024-05-13 |website=France 24 |date=16 May 2024 |language=en-GB }}</ref>",
                   "url": "https://www.france24.com/en/live-news/20240516-%F0%9F%94%B4-chad-junta-chief-mahamat-idriss-d%C3%A9by-officially-declared-winner-of-presidential-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -553,14 +553,14 @@
                 {
                   "text": "<ref>{{Cite web |title=Chad’s PM Succes Masra submits resignation after junta chief presidential election |url=https://www.france24.com/en/africa/20240522-chad-s-pm-succes-masra-submits-resignation-after-junta-chief-presidential-election |access-date=2024-05-22 |website=France 24 |language=en-GB}}</ref>",
                   "url": "https://www.france24.com/en/africa/20240522-chad-s-pm-succes-masra-submits-resignation-after-junta-chief-presidential-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Chad swears in president after disputed election, ending years of military rule |url=https://apnews.com/article/election-chad-dispute-terrorism-inauguration-8ecde546c90ea4e74a6fc43b8dbfebb6 |access-date=23 May 2024 |website=Associated Press |date=23 May 2024 |language=en}}</ref>",
                   "url": "https://apnews.com/article/election-chad-dispute-terrorism-inauguration-8ecde546c90ea4e74a6fc43b8dbfebb6",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

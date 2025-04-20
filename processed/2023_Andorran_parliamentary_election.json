@@ -1,0 +1,800 @@
+{
+  "title": "2023_Andorran_parliamentary_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "Parliamentary elections were held in Andorra on 2 April 2023. The ruling liberal-conservative coalition of the Democrats for Andorra (DA) and Committed Citizens (CC) led by Prime Minister Xavier Espot Zamora|Xavier Espot won an absolute majority of seats, the fourth consecutive election victory for the DA. A new party, Concord (political party)|Concord, emerged in second place, taking the opposition leadership previously held by the Social Democratic Party (Andorra)|Social Democratic Party, which fell to third place by losing four seats.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Modalitats de vot|url=https://www.eleccions.ad/modalitat_vot |access-date=2023-02-25|website=eleccions.ad |language=ca-AD}}</ref>",
+                  "url": "https://www.eleccions.ad/modalitat_vot",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "Three parties eventually formed a governing coalition after the 2019 Andorran parliamentary election, composed of the Democrats, the Liberal Party and Committed Citizens with Xavier Espot Zamora|Xavier Espot as prime minister.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Xavier Espot jura el càrrec de cap de Govern |url=https://www.govern.ad/cap-de-govern/item/10360-xavier-espot-jura-el-carrec-de-cap-de-govern |access-date=2022-12-25 |website=www.govern.ad |language=ca-es}}</ref>",
+                  "url": "https://www.govern.ad/ca/govern/el-cap-del-govern",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "On 14 June 2022, the minister of social affairs Judith Pallarés i Cortés|Judit Pallarés left the Liberal Party. However, the party assured that this internal crisis would not jeopardize the stability of the coalition. Prime Minister Espot ordinarily dissolved the General Council (Andorra)|Consell General by decree on 6 February 2023. Campaigning started on 19 March at 3:00 pm. 1 April was the day of election silence and 2 April was the day of the election.<ref name=\"Elections on 2 April\" />",
+              "references": [
+                {
+                  "text": "<ref name=ruptura /> Prime Minister Espot announced, the following day, that he had no intention of advancing the parliamentary elections.<ref>{{Cite news |title=Espot no avançarà les eleccions per la crisi de liberals\n|url=https://www.diariandorra.ad/noticies/nacional/2022/06/15/espot_no_avancara_les_eleccions_per_crisi_liberals_202409_1125.htmldate=2022-12-25 |work=Diari d'Andorra|language=ca|date=15 June 2022}}</ref>",
+                  "url": "https://www.diariandorra.ad/noticies/nacional/2022/06/15/espot_no_avancara_les_eleccions_per_crisi_liberals_202409_1125.htmldate=2022-12-25",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "Twenty-eight general councillors (Catalan language|Catalan: ''consellers generals'') are elected, based on Closed list|closed party lists:\n* Fourteen general councillors representing the seven Parishes of Andorra|parishes (two councillors per parish) are General ticket|elected from the list with most votes in each parish.\n* Fourteen general councillors are elected from national lists using the largest remainder method of proportional representation.",
+              "references": [
+                {
+                  "text": "<ref>Art. 42.2, Law 28/2007.</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                },
+                {
+                  "text": "<ref>[http://www.ipu.org/parline-e/reports/2005_B.htm Electoral system] IPU</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                },
+                {
+                  "text": "<ref>Art. 57, Law 28/2007.</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                },
+                {
+                  "text": "<ref>Art. 58, Law 28/2007. The electoral threshold is the natural quota, one fourteenth of the valid votes (~7.14%).</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "The parish lists and the national list are independent of one another: the same person cannot appear on both the national list and on a parish list, and voters cast two separate ballots. There is no requirement to vote for the same party for both lists.",
+              "references": [
+                {
+                  "text": "<ref>Arts. 19, 51 & 52, Law 28/2007.</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": "3.s3",
+              "text": "The Constitution of Andorra|1993 Constitution limits the number of full terms served by a prime minister to two.",
+              "references": [
+                {
+                  "text": "<ref name=\"vila\">{{cite news|url=https://www.vilaweb.cat/noticies/andorra-eleccions/|title=Andorra es prepara per a unes eleccions crucials amb dues grans coalicions|first=Alexandre|last=Solano|date=13 February 2023|work=VilaWeb}}</ref>",
+                  "url": "https://www.vilaweb.cat/noticies/andorra-eleccions/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Parties and alliances",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "The deadline for submitting candidacies ended on 13 February, so a total of six candidacies were defined, one less than in the 2019 parliamentary elections.",
+              "references": [
+                {
+                  "text": "<ref name=\"dia\">{{Cite web|url=https://www.aldia.cat/andorra/noticia-sis-candidatures-nacionals-concorreran-les-eleccions-dandorra-dabril-20230213185613.html|title=Sis candidatures nacionals concorreran a les eleccions d'Andorra del 2 d'abril|date=13 February 2023|work=aldia.cat}}</ref>",
+                  "url": "https://www.aldia.cat/andorra/noticia-sis-candidatures-nacionals-concorreran-les-eleccions-dandorra-dabril-20230213185613.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"radio\">{{Cite web|date=2023-02-13 |title=Definides les llistes per a les eleccions generals d'Andorra|url=https://www.radioseu.cat/noticies/definides-les-llistes-per-a-les-eleccions-generals-dandorra|website=Ràdio Seu|language=ca}}</ref>",
+                  "url": "https://www.radioseu.cat/noticies/definides-les-llistes-per-a-les-eleccions-generals-dandorra",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "Three new political parties were presented: \n*'''Concord''': was constituted on 24 November 2022 and elected Cerni Escaldé as the national candidate.\n*'''Andorra Forward''': was formalized in November 2021 by Carine Montaner, a deputy who left the Third Way party in March that year but kept her seat.\n*'''Action for Andorra''': was founded by the minister of social affairs, Judith Pallarés and formalized as a party in October 2022. On 14 June of that year, Pallarés and four other deputies left the Liberals of Andorra party, alleging loss of comfort with the new more conservative postulates represented by the new party leader Josep Maria Cabanes.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news|date=25 November 2022 |title=Concòrdia escull Cerni Escalé per encapçalar la candidatura nacional|url=https://www.elperiodic.ad/noticia/96026/concordia-escull-cerni-escale-per-encapcalar-la-candidatura-nacional|work=El Periòdic d'Andorra|language=ca}}</ref>",
+                  "url": "https://elperiodic.ad/politica/concordia-escull-cerni-escale-per-encapcalar-la-candidatura-nacional/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=9 March 2021 |title=Carine Montaner deixa Terceravia, es queda al Consell com a no adscrita i planteja un nou partit\n|url=https://www.altaveu.com/actualitat/politica/carine-montaner-deixa-terceravia-es-queda-consell-com-no-adscrita-planteja-nou-partit_27369_102.html|work=Altaveu|first=Toni|last=Solanelles|language=ca}}</ref>",
+                  "url": "https://www.altaveu.com/actualitat/politica/carine-montaner-deixa-terceravia-es-queda-consell-com-no-adscrita-planteja-nou-partit_27369_102.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=19 November 2021 |title=Formalitzat el partit Andorra Endavant de Carine Montaner|url=https://www.diariandorra.ad/noticies/nacional/2021/11/19/carine_montaner_formalitza_partit_andorra_endavant_190578_1125.html|work=Diari d'Andorra|language=ca}}</ref>",
+                  "url": "https://www.diariandorra.ad/nacional/211119/carine-montaner-formalitza-partit-andorra-endavant_94223.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=27 October 2022 |title=Acció, un nou partit a Andorra sorgit de la ruptura interna dels Liberals|url=https://www.vilaweb.cat/noticies/accio-partit-andorra-liberals/|work=VilaWeb|language=ca}}</ref>",
+                  "url": "https://www.vilaweb.cat/noticies/accio-partit-andorra-liberals/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"ruptura\">{{Cite news|date=14 June 2022|title=Liberals es trenca però es garanteix l'estabilitat del Govern de coalició|url=https://www.bondia.ad/societat/liberals-es-trenca-pero-es-garanteix-lestabilitat-del-govern-de-coalicio|work=Bondia (newspaper)|Bondia|first=Meritxell|last=Prat|language=ca}}</ref>",
+                  "url": "https://www.bondia.ad/societat/liberals-es-trenca-pero-es-garanteix-lestabilitat-del-govern-de-coalicio",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "The extraordinary congress of the Democrats for Andorra (DA) held on 15 November 2022 elected Xavier Espot to stand for re-election as prime minister.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news|date=16 November 2022|title=Xavier Espot optarà de nou a ser cap de Govern i afirma: \"DA ha de seguir sent el referent en moments de dubte\"|url=https://www.andorradifusio.ad/noticies/xavier-espot-optara-nou-govern-da-seguir|work=Ràdio i Televisió d'Andorra|language=ca}}</ref>",
+                  "url": "https://www.andorradifusio.ad/noticies/xavier-espot-optara-nou-govern-da-seguir",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s4",
+              "text": "On 1 February 2023, the Social Democratic Party (Andorra)|Social Democratic Party (PS) and the Social Democracy and Progress (SDP) presented their coalition \"social-democratic alliance\" to run together in the elections, since \"the moment calls for it\". They confirmed that the PS leader, Pere López i Agràs|Pere López, would be the leader of the candidacy.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=El PS i SDP s'uneixen \"perquè el moment ho demana\" |url=https://www.diariandorra.ad/noticies/nacional/2023/01/26/el_s_uneixen_perque_moment_demana_214693_1125.html |access-date=2023-02-01 |website=Diari d'Andorra |date=26 January 2023 |language=ca}}</ref>",
+                  "url": "https://www.diariandorra.ad/nacional/230126/el-s-uneixen-perque-moment-demana_122975.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s5",
+              "text": "Political coalition Third Way (Andorra)|Third Way and Lauredian Union (UL), who had two seats on the General Council, announced on 12 February 2023, that they would not run in the elections \"based on the coherence and integrity of our political positions\".",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news|date=2023-02-12 |title=Terceravia no es presenta a les eleccions|url=https://www.diariandorra.ad/noticies/nacional/2023/02/12/terceravia_no_presenta_les_eleccions_215671_1125.html|website=Diari d'Andorra|language=ca}}</ref>",
+                  "url": "https://www.diariandorra.ad/nacional/230212/terceravia-no-presenta-les-eleccions_125813.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s6",
+              "text": "Liberals of Andorra presented its candidacies on 12 February 2023 with its leader Josep Maria Cabanes as candidate for prime minister.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news|date=2023-02-12 |title=TLiberals presenta les candidatures amb el desig de ser l'onada blava|url=https://www.altaveu.com/actualitat/eleccions-generals-2023/liberals-presenta-candidatures-desig-ser-onada-blava_45881_102.html|website=Altaveu|first=Bru|last=Noya|language=ca}}</ref>",
+                  "url": "https://www.altaveu.com/actualitat/eleccions-generals-2023/liberals-presenta-candidatures-desig-ser-onada-blava_45881_102.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "National constituency",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "The candidacies presented in the national constituency, in which 14 councilors are elected by proportional representation, are:\n{| class=\"wikitable\"\n! colspan=\"2\" rowspan=\"2\" |List\n! colspan=\"2\" rowspan=\"2\" |Parties\n! rowspan=\"2\" |Ideology\n! rowspan=\"2\" |List leader\n! colspan=\"3\" |2019 Andorran parliamentary election|2019 result\n|-\n!'''PR votes'''\n!Const. votes\n!Seats\n|-\n| rowspan=\"2\" bgcolor=\"{{party color|Democrats for Andorra}}\" |\n| rowspan=\"2\" |Democrats for Andorra|DA+Committed Citizens|CC\n| bgcolor=\"{{party color|Democrats for Andorra}}\" |\n|Democrats for Andorra\n| Liberal conservatism<br>Euroscepticism\n| rowspan=\"2\" |Xavier Espot Zamora\n| style=\"text-align:center\" | 35.13%\n| style=\"text-align:center\" | 34.86%\n| {{Composition bar|11|28|{{party color|Democrats for Andorra}}}}\n|-\n| bgcolor=\"{{party color|Committed Citizens}}\" |\n|Committed Citizens\n| Social liberalism<br>Localism (politics)|Localism<br>Euroscepticism\n| style=\"text-align:center\" | ''DNP''\n| style=\"text-align:center\" | 6.68%\n| {{Composition bar|2|28|{{party color|Committed Citizens}}}}\n|-\n| rowspan=\"2\" bgcolor=\"{{party color|Social Democratic Party (Andorra)}}\" |\n| rowspan=\"2\" |Social Democratic Party (Andorra)|PS+Social Democracy and Progress|SDP\n| bgcolor=\"{{party color|Social Democratic Party (Andorra)}}\" |\n|Social Democratic Party (Andorra)|Social Democratic Party\n| Social democracy<br>Pro-Europeanism\n| rowspan=\"2\" |Pere López i Agràs\n| style=\"text-align:center\" | 30.62%\n|\n| {{Composition bar|7|28|{{party color|Social Democratic Party (Andorra)}}}}\n|-\n| bgcolor=\"{{party color|Social Democracy and Progress}}\" |\n|Social Democracy and Progress\n| Social democracy<br>Pro-Europeanism\n| style=\"text-align:center\" | 5.87%\n|\n| {{Composition bar|0|28|{{party color|Social Democracy and Progress}}}}\n|-\n| bgcolor=\"{{party color|Liberal Party of Andorra}}\" |\n| colspan=\"3\" |Liberals of Andorra\n|Conservative liberalism<br>Pro-Europeanism\n|Josep Maria Cabanes\n| style=\"text-align:center\" |12.48%\n| style=\"text-align:center\" |38.05%\n|{{Composition bar|4|28|{{party color|Liberal Party of Andorra}}}}\n|-\n| bgcolor=\"{{party color|Concord (political party)}}\" |\n| colspan=\"3\" |Concord (political party)|Concord\n|Progressivism<br>Environmentalism\n|Cerni Escalé|Cerni Escalé Cabré\n| colspan=\"3\" style=\"text-align:center\" | ''New''\n|-\n| bgcolor=\"{{party colour|Andorra Forward}}\" |\n| colspan=\"3\" |Andorra Forward\n| Right-wing populism<br>Euroscepticism\n|Carine Montaner Raynaud\n| colspan=\"3\" style=\"text-align:center\" | ''New''\n|-\n| bgcolor=\"{{party colour|Action for Andorra}}\" |\n| colspan=\"3\" |Action for Andorra\n| Social liberalism<br>Progressivism<br>Pro-Europeanism\n|Judith Pallarés i Cortés\n| colspan=\"3\" style=\"text-align:center\" | ''New''\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=2023-02-12 |title=Llistes electorals |url=https://www.diariandorra.ad/noticies/nacional/2023/02/11/llistes_confirmades_215555_1125.html |access-date=2023-03-03 |website=DiariAndorra |language=ca}}</ref>",
+                      "url": "https://www.diariandorra.ad/nacional/230212/llistes-confirmades_125469.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Andorra |url=https://europeelects.eu/andorra/ |access-date=1 April 2023 |website=Europe Elects}}</ref>",
+                      "url": "https://europeelects.eu/andorra/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|title=Demòcrates obté 11 consellers i és la força més votada en les eleccions generals|url=https://www.govern.ad/noticies/item/10239-democrates-obte-11-consellers-i-es-la-forca-mes-votada-en-les-eleccions-generals|date=2019-04-07 |website=Government of Andorra|language=ca}}</ref>",
+                      "url": "https://www.govern.ad/ca/actualitat",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Parish constituencies",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.3.s1",
+                  "text": "{| class=wikitable\n|-\n! rowspan=2 colspan=2|Candidacy !! scope=\"row\" colspan=7| Candidates\n|-\n! Canillo !! Encamp !! Ordino !! la Massana !! Andorra la Vella !! St. Julià de Lòria !! les Escaldes\n|-\n| bgcolor=\"{{party color|Committed Citizens}}\" |\n|Committed Citizens\n!\n!\n!\n|rowspan=2| Carles Naudi<br />David Montané\n!\n!\n!\n|-\n| bgcolor=\"{{party color|Democrats for Andorra}}\" |\n| Democrats for Andorra\n| Guillem Casal<br />Jordi Jordana\n| Jordi Torres<br />Maria Martisella\n|rowspan=2| Berna Coma<br />Alexandra Codina\n|rowspan=2| Conxita Marsol Riart|Conxita Marsol<br />Alain Cabanes\n|rowspan=2| Helena Mas<br />Eva París\n| Trini Marín<br />Marc Magallón{{efn|In coalition with Action for Andorra}}\n|-\n| bgcolor=\"{{party color|Liberal Party of Andorra}}\" |\n |Liberals of Andorra\n!\n!\n!\n!\n|-\n| bgcolor=\"{{party colour|Action for Andorra}}\" |\n| Action for Andorra\n!\n!\n!\n|  Josep Fusté<br />Rebeca Roger\n!\n!\n| Trini Marín<br />Marc Magallón{{efn|In coalition with Democrats for Andorra|DA}}\n|-\n| bgcolor=\"{{party color|Social Democratic Party (Andorra)}}\" |\n|Social Democratic Party (Andorra)|PS+Social Democracy and Progress|SDP\n!\n| Marta Pujol<br />Susagna Venable{{efn|In coalition with Agrupament Encampadà}}\n| Joan Miquel Armengol<br />Pere Mas\n| Miquel Moliné<br />Francesc Lizama\n| Joaquim Miró<br />Marian Sanchiz\n| Gerard Alís<br />Josep Roig\n| David Pérez<br />Elisabet Zoppetti\n|-\n| bgcolor=\"#13717E\" |\n| Concord (political party)|Concord\n!\n!\n!\n!\n| Martí Alay<br />Miquel Clua\n| Pol Bartolomé<br />Maria Àngela Aché\n| Ramon Tena<br />Lara de Miguel\n|-\n| bgcolor=\"{{party colour|Andorra Forward}}\" |\n| Andorra Forward\n!\n!\n| Jordina Bringué<br />Eva Font\n!\n| Elisa Muxella<br />Dídac Tomàs\n| Bianca Martínez<br />Marc Ferreiro\n!\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web|url=https://www.eleccions.ad/candidatures|title=Candidatures|work=Government of Andorra. General Elections of 2023}}</ref>",
+                      "url": "https://www.eleccions.ad/candidatures",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Campaign",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "Prime Minister Xavier Espot dissolved the Consell General by decree on 6 February 2023, marking the start of campaigning on 19 March at 3:00 pm, 1 April as the day of election silence and 2 April as the election day.",
+              "references": [
+                {
+                  "text": "<ref name=\"Elections on 2 April\">{{Cite web|url=https://www.govern.ad/cap-de-govern/item/15307-les-eleccions-generals-se-celebraran-el-2-d-abril|title=Les Eleccions Generals se celebraran el 2 d'abril|date=6 February 2023|work=Government of Andorra}}</ref>",
+                  "url": "https://www.govern.ad/ca/govern/el-cap-del-govern",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s2",
+              "text": "Between 17 and 18 February, a delegation from the OSCE's Office for Democratic Institutions and Human Rights visited the country to assess the electoral process, issuing a report in which they expressed confidence in the Andorran electoral process and the election administration, so that an election observation was not necessary on 2 April.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://www.diariandorra.ad/noticies/nacional/2023/03/14/l_osce_avalua_positivament_les_eleccions_217346_1125.html|title=L'OSCE avalua positivament el procés electoral|date=14 March 2023|work=Diari d'Andorra}}</ref>",
+                  "url": "https://www.diariandorra.ad/nacional/230314/l-osce-avalua-positivament-les-eleccions_121255.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s3",
+              "text": "Two days before the beginning of the electoral campaign, Democrats for Andorra presented their electoral program, an act that was criticized by PS+SDP as irregular.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://www.andorradifusio.ad/noticies/programa-electoral-presentat-democrates-abans-arrenqui-campanya|title=SEl programa electoral presentat per Demòcrates abans que arrenqui la campanya genera malestar a PS Progressistes SDP +|date=17 March 2023|work=Ràdio i Televisió d'Andorra}}</ref>",
+                  "url": "https://www.andorradifusio.ad/noticies/programa-electoral-presentat-democrates-abans-arrenqui-campanya",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s4",
+              "text": "The campaign began on 19 March with the traditional pasting of electoral posters. The Liberals of Andorra were the only party that did not start it in Andorra la Vella; they started in Sant Julià de Lòria instead.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://www.diariandorra.ad/noticies/nacional/2023/03/19/comenca_campanya_electoral_217657_1125.html|title=Comença la campanya electoral|date=19 March 2023|work=Diari d'Andorra}}</ref>",
+                  "url": "https://www.diariandorra.ad/nacional/230319/comenca-campanya-electoral_122173.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s5",
+              "text": "The real estate boom, the association agreement with the European Union and the loss of purchasing power due to inflation were the key issues of the campaign.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://www.ara.cat/internacional/europa/andorra-urnes-europa-l-habitatge-protagonistes_1_4666789.html|title=Andorra va a les urnes amb Europa i l'habitatge com a protagonistes|date=1 April 2023|work=Ara (newspaper)|Ara}}</ref>",
+                  "url": "https://www.ara.cat/internacional/europa/andorra-urnes-europa-l-habitatge-protagonistes_1_4666789.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s6",
+              "text": "On 29 March, anonymous pamphlets were disseminated, both on paper and digitally, accusing Espot and his family of benefiting from the Andorran government's intervention in Banca Privada d'Andorra in 2015, a bank accused by the United States Department of the Treasury of money laundering. The pamphlets also accused Democrats for Andorra of wanting to destroy the natural heritage with real estate speculation, denounced Attorney General Alfonso Alberca and his position on abortion, among others. Espot, the following day, released a video in which he denied these accusations, announced that from 3 April he would take legal actions for slander and defended the \"honorability\" of the country.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://www.altaveu.com/actualitat/eleccions-generals-2023/espot-valora-emprendre-accions-contra-pamflet-anonim-enrareix-tram-final-campanya_47177_102.html|title=Espot emprendrà accions per difamacions a partir del 3 d'abril|date=30 March 2023|work=Altaveu}}</ref>",
+                  "url": "https://www.altaveu.com/actualitat/eleccions-generals-2023/espot-valora-emprendre-accions-contra-pamflet-anonim-enrareix-tram-final-campanya_47177_102.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://cadenaser.com/nacional/2023/03/31/xavier-espot-anuncia-accions-legals-pels-atacs-difamatoris-durant-la-campanya-radio-ser-principat-d-andorra/|title=Xavier Espot anuncia accions legals pels atacs difamatoris durant la campanya|date=31 March 2023|work=Cadena SER|last=Fuentes Pérez|first=Marisol}}</ref>",
+                  "url": "https://cadenaser.com/nacional/2023/03/31/xavier-espot-anuncia-accions-legals-pels-atacs-difamatoris-durant-la-campanya-radio-ser-principat-d-andorra/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s7",
+              "text": "The debates between the national candidates took place on 20 March, organized by the Andorran Business Confederation (CEA); on 21 March, organized by Spanish Cadena SER and between Xavier Espot and opposition leader Pere López; and on 30 March, organized by Ràdio i Televisió d'Andorra.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news|url=https://www.diariandorra.ad/noticies/nacional/2023/03/15/la_cea_organitza_debat_amb_els_candidats_cap_govern_217397_1125.html|title=La CEA organitza un debat amb els candidats a cap de Govern|date=15 March 2023|work=Diari d'Andorra}}</ref>",
+                  "url": "https://www.diariandorra.ad/nacional/230315/la-cea-organitza-debat-amb-els-candidats-cap-govern_121407.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|url=https://cadenaser.com/nacional/2023/03/20/la-ser-repeteix-el-cara-a-cara-entre-espot-i-lopez-radio-ser-principat-d-andorra/|title=La SER repeteix el cara a cara entre Espot i López|date=20 March 2023|work=Cadena SER}}</ref>",
+                  "url": "https://cadenaser.com/nacional/2023/03/20/la-ser-repeteix-el-cara-a-cara-entre-espot-i-lopez-radio-ser-principat-d-andorra/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|url=https://www.diariandorra.ad/noticies/nacional/2023/03/03/el_debat_candidats_cap_govern_sera_marc_216779_1125.html|title=El debat a candidats de cap de Govern serà el 30 de març|date=3 March 2023|work=Diari d'Andorra}}</ref>",
+                  "url": "https://www.diariandorra.ad/nacional/230303/el-debat-candidats-cap-govern-sera-marc_119555.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.andorradifusio.ad/programes/eleccions-generals-2023/debats-entrevistes/debat-nacional-caps-llista|title=Debat nacional amb els caps de llista|date=30 March 2023|work=Ràdio i Televisió d'Andorra}}</ref>",
+                  "url": "https://www.andorradifusio.ad/programes/eleccions-generals-2023/debats-entrevistes/debat-nacional-caps-llista",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Party slogans",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.2.s1",
+                  "text": "{| class=\"wikitable\" style=\"text-align:left;\"\n|-\n! style=\"text-align:left;\" colspan=\"2\"| Party or alliance\n! Original slogan\n! English translation\n! {{abbr|Ref.|References}}\n|-\n| width=\"1\" bgcolor=\"{{party color|Democrats for Andorra}}\"|\n| Democrats for Andorra|DA+Committed Citizens|CC\n| ''Confiança''\n| Trust\n| \n|-\n| width=\"1\" bgcolor=\"{{party color|Liberal Party of Andorra}}\" |\n| Liberals of Andorra|L'A\n| ''#Cabanes2023<br>Primer, Andorra''\n| #Cabanes2023<br>First, Andorra\n| \n|-\n| width=\"1\" bgcolor=\"{{party colour|Action for Andorra}}\" |\n| Action for Andorra|Acció\n| ''La clau de futur.<br>Passa a l'ACCIÓ. Vota'ns!''\n| The key to the future.<br>Go to ACTION. Vote for us!\n| \n|-\n| width=\"1\" bgcolor=\"{{party color|Social Democratic Party (Andorra)}}\"|\n| Social Democratic Party (Andorra)|PS+Social Democracy and Progress|SDP\n| ''El canvi de la majoria''\n| The change of the majority\n| \n|-\n| width=\"1\" bgcolor=\"{{party color|Concord (political party)}}\"|\n| Concord (political party)|Concord\n| ''Batega x Andorra''\n| Beat for Andorra\n| \n|-\n| width=\"1\" bgcolor=\"{{party colour|Andorra Forward}}\"|\n| Andorra Forward\n| ''El coratge del canvi''\n| The courage of change\n| \n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |url=http://democrates2023.com/wp-content/uploads/2023/03/ProgramaWeb-3.pdf |title=Election programme of DA+CC+ACO+UP |language=ca |website=democrates2023.com |publisher=Democrats for Andorra}}</ref>",
+                      "url": "http://democrates2023.com/wp-content/uploads/2023/03/ProgramaWeb-3.pdf",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url=https://cabanes2023.com |title=Cabanes 2023 |language=ca |website=cabanes2023.com |publisher=Liberals of Andorra}}</ref>",
+                      "url": "https://cabanes2023.com",
+                      "status_code": null,
+                      "reason": "Cannot connect to host cabanes2023.com:443 ssl:default [Domain name not found]",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url=https://somaccio.org/wp-content/uploads/2023/03/Llibret-digital.pdf |title=Election programme of ACCIÓ |language=ca |website=somaccio.org |publisher=Democrats for Andorra}}</ref>",
+                      "url": "https://somaccio.org/wp-content/uploads/2023/03/Llibret-digital.pdf",
+                      "status_code": 202,
+                      "reason": "Accepted",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url=https://www.psa.ad/eg2023-1/programa2023.pdf |title=Election programme of PS+SDP |language=ca |website=psa.ad |publisher=Social Democratic Party (Andorra)}}</ref>",
+                      "url": "https://www.psa.ad/eg2023-1/programa2023.pdf",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url=https://concordia.ad/wp-content/uploads/2023/03/Programa-Electoral-A5-DIGITAL-WEB.pdf |title=Election programme of Concòrdia |language=ca |website=concordia.ad |publisher=Democrats for Andorra}}</ref>",
+                      "url": "https://concordia.ad/wp-content/uploads/2023/03/Programa-Electoral-A5-DIGITAL-WEB.pdf",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url=https://www.andorraendavant.info/programa-electoral/ |title=Election programme of Andorra Endavant |language=ca |website=andorraendavant.info |publisher=Andorra Forward|Andorra Endavant}}</ref>",
+                      "url": "https://www.grupandorraendavant.info",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Opinion polls",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Conduct",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "The eight electoral colleges were installed in the headquarters of the parishes, one for each parish added to the own polling station in the village of El Pas de la Casa. Election day began at 9:00 am without any incident and 29,958 people were called to vote, 9,010 of whom had already done so with a judicial vote (early voting that is done at the headquarters of the Andorran judiciary). Polls closed at 7:00 pm.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|url=https://www.altaveu.com/actualitat/eleccions-generals-2023/eleccions-en-marxa_47258_102.html|title=Eleccions en marxa|date=2 April 2023|work=Altaveu|archive-url=https://web.archive.org/web/20230406123224/https://www.altaveu.com/actualitat/eleccions-generals-2023/eleccions-en-marxa_47258_102.html |archive-date=6 April 2023|url-status=live|language=ca}}</ref>",
+                  "url": "https://www.altaveu.com/actualitat/eleccions-generals-2023/eleccions-en-marxa_47258_102.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Results",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "8.s1",
+              "text": "On the evening of 2 April, the Andorran government announced the results: the ruling coalition of Democrats for Andorra (DA) and Committed Citizens (CC) won the elections with 16 seats, gaining 3 more seats and the absolute majority of Consell General's seats. It was followed by the new Concord party, which won 5 seats. The third place was won by the progressive coalition formed by the Social Democratic Party (Andorra)|Social Democratic Party (PS) and Social Democracy and Progress (SDP), which lost 4 seats, remaining with 3. In last positions, the new parties Andorra Forward, which won 3 seats, and Action for Andorra (Acció), which won one. At a press conference, Xavier Espot, accompanied by the Minister of Finance and acting government spokesman Cesar Marquina, proclaimed these results. Liberals of Andorra was left without parliamentary representation, losing the 4 seats it had.",
+              "references": [
+                {
+                  "text": "<ref name=\"govern\">{{Cite web|url=https://www.govern.ad/cap-de-govern/item/15503-les-eleccions-generals-donen-16-consellers-a-democrates-cc-aco-up-3-a-concordia-3-al-partit-socialdemocrata-progressistes-sdp-3-a-andorra-endavant-i-1-a-accio|title=Les Eleccions Generals donen 16 consellers a Demòcrates + CC + ACO + UP, 3 a Concòrdia, 3 al Partit Socialdemòcrata Progressistes SDP+, 3 a Andorra Endavant i 1 a Acció|date=2 April 2023|work=Government of Andorra}}</ref>",
+                  "url": "https://www.govern.ad/ca/govern/el-cap-del-govern",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news|url=https://www.altaveu.com/actualitat/eleccions-generals-2023/urnes-converteixen-onada-blava-liberal-en-mar-plana_47278_102.html|title=Les urnes converteixen l'onada blava liberal en mar plana|first=Bru|last=Noya|date=2 April 2023|work=Altaveu}}</ref>",
+                  "url": "https://www.altaveu.com/actualitat/eleccions-generals-2023/urnes-converteixen-onada-blava-liberal-en-mar-plana_47278_102.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "8.s2",
+              "text": "The turnout was 66.95%, 1.3% less than that recorded in the 2019 elections, despite being higher than in previous years. Early voting rose to 30%, the highest figure ever recorded.<ref name=vanguardia />\n{{Election results|firstround=PR|secondround=Constituency|image= {{Parliament diagram|background=#F8F9FA\n|p1 = Concord (political party) |n1 = 5 |p2= Social Democratic Party (Andorra) |n2= 3 |p3= Committed Citizens |n3= 2 |p4= Action for Andorra |n4= 1 |p5= Democrats for Andorra |n5=14 |p6= Andorra Forward |n6= 3 }}\n|alliance1=Government alliance|aspan1=4|acolor1={{party color|Democrats for Andorra}}\n|party1=Democrats for Andorra\n|votes1=6262\n|vspan1=2\n|votes1_2=7835\n|v2span1=4\n|seats1=4\n|seats1_2=10\n|totseats1=14\n|sc1=+3",
+              "references": [
+                {
+                  "text": "<ref name=govern /><ref name=\"vanguardia\">{{cite news|url=https://www.lavanguardia.com/internacional/20230402/8873065/democrates-xavier-espot-ganan-mayoria-elecciones-andorra.html|title=Los Demòcrates de Xavier Espot gobernarán en solitario Andorra con mayoría absoluta|first=Javier|last=Ricou|date=2 April 2023|work=La Vanguardia}}</ref>",
+                  "url": "https://www.lavanguardia.com/internacional/20230402/8873065/democrates-xavier-espot-ganan-mayoria-elecciones-andorra.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "By parish",
+          "content": [
+            {
+              "id": "8.2.1",
+              "title": "Summary",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            },
+            {
+              "id": "8.2.2",
+              "title": "[[Andorra la Vella]]",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            },
+            {
+              "id": "8.2.3",
+              "title": "[[Canillo]]",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            },
+            {
+              "id": "8.2.4",
+              "title": "[[Escaldes–Engordany]]",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            },
+            {
+              "id": "8.2.5",
+              "title": "[[Encamp]]",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            },
+            {
+              "id": "8.2.6",
+              "title": "[[La Massana]]",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            },
+            {
+              "id": "8.2.7",
+              "title": "[[Ordino]]",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            },
+            {
+              "id": "8.2.8",
+              "title": "[[Sant Julià de Lòria]]",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Reactions",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "9.s1",
+              "text": "After winning the elections, Prime Minister Xavier Espot assured the citizens that \"we will not fail you and during these 4 years; I will work tirelessly to be worthy of this trust and to bring Andorra to a good place\". He also congratulated the two new political forces that obtained a good result, Concord and Andorra Forward, to whom he offered to work together to \"work for the benefit of the citizens\".",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|url=https://www.diariandorra.ad/noticies/nacional/2023/04/03/espot_celebra_victoria_assegura_que_no_fallarem_218661_1125.html|title=Espot celebra la majoria i assegura que \"no us fallarem\"|date=3 April 2023|work=Diari d'Andorra}}</ref>",
+                  "url": "https://www.diariandorra.ad/nacional/230403/espot-celebra-victoria-assegura-que-no-fallarem_125249.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "9.s2",
+              "text": "The leader of Concord, Cerni Escalé, announced that they would carry out a \"constructive opposition, but courageous and close to the citizens\", and expressed his satisfaction with the result obtained, a better result than the polls predicted.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|url=https://www.diariandorra.ad/noticies/nacional/2023/04/03/concordia_anuncia_una_oposicio_constructiva_pero_valenta_218677_1125.html|title=Concòrdia anuncia una oposició \"constructiva, però valenta\"|first=Joan Ramon|last=Baiges|date=3 April 2023|work=Diari d'Andorra}}</ref>",
+                  "url": "https://www.diariandorra.ad/nacional/230403/concordia-anuncia-una-oposicio-constructiva-pero-valenta_125305.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "9.s3",
+              "text": "The leader of the PS–SDP coalition, Pere López, acknowledged the poor results and announced that it is necessary to open a process of reflection within the formation and that, at that time, he did not intend to make a decision on his leadership at the head of the PS. On 5 April, López announced that he was stepping down from his seat and the party presidency at the party congress on 20 May.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|url=https://www.altaveu.com/actualitat/eleccions-generals-2023/socialdemocracia-en-crisi_47285_102.html|title=La socialdemocràcia en crisi|first=Ester|last=Pons|date=2 April 2023|work=Altaveu}}</ref>",
+                  "url": "https://www.altaveu.com/actualitat/eleccions-generals-2023/socialdemocracia-en-crisi_47285_102.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|url= https://www.diariandorra.ad/noticies/nacional/2023/04/05/pere_lopez_renuncia_esco_218847_1125.html|title=Pere López renuncia a l'escó|first=Lídia|last=Raventós|date=5 April 2023|work=Diari d'Andorra}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "9.s4",
+              "text": "Carine Montaner, the Andorra Forward candidate, was positive about the result that brought the party to fourth place, and stated that the party will now dedicate itself to \"doing the work of counterpower, which is fundamental to fighting corruption and the cronyism that has predominated these past legislatures\". Montaner also stated that the numbers did not \"add up\", insinuating her suspicion that there was electoral fraud, which was criticized by Xavier Espot.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|url= https://www.diariandorra.ad/noticies/nacional/2023/04/03/montaner_diu_que_combatra_amiguisme_218678_1125.html|title=Montaner diu que combatrà l'amiguisme\n|first=Lucía|last=Quesada|date=3 April 2023|work=Diari d'Andorra}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|url= https://www.diariandorra.ad/noticies/nacional/2023/04/04/montaner_posa_dubte_els_resultats_afirma_que_no_quadren_els_numeros_218770_1125.html|title=Montaner posa en dubte els resultats i afirma que no li \"quadren els números\"|first=Lucía|last=Quesada|date=4 April 2023|work=Diari d'Andorra}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|url= https://www.andorradifusio.ad/noticies/espot-suggereix-carine-montaner-calli-no|title=Espot suggereix a Carine Montaner 'que calli' si no té proves de frau en el procés electoral|date=4 April 2023|work=Ràdio i Televisió d'Andorra}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "9.s5",
+              "text": "Judith Pallarés, national candidate for Action for Andorra, admitted that she was \"a bit sad\" about the result obtained and, despite wanting to make a positive reading, expressed the need to reflect internally.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|url= https://www.diariandorra.ad/noticies/nacional/2023/04/03/el_partit_menys_votat_tindra_representant_consell_general_218682_1125.html|title=El partit menys votat tindrà un representant al Consell General|first=Víctor|last=González|date=3 April 2023|work=Diari d'Andorra}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "9.s6",
+              "text": "Xavier Espot was sworn in for another term as prime minister on 17 May 2023.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2023-05-15 |title=Xavier Espot Zamora ha pres possessió del càrrec de cap de Govern i ha anunciat la configuració de l'Executiu |url=https://www.govern.ad/cap-de-govern/item/15640-xavier-espot-zamora-ha-pres-possessio-del-carrec-de-cap-de-govern-i-ha-anunciat-la-configuracio-de-l-executiu |access-date=2023-05-24 |website=www.govern.ad |language=ca-es}}</ref>",
+                  "url": "https://www.govern.ad/ca/govern/el-cap-del-govern",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-05-17 |title=El nou equip de la novena legislatura del Govern pren possessió del càrrec |url=https://www.govern.ad/cap-de-govern/item/15647-el-nou-equip-de-la-novena-legislatura-del-govern-pren-possessio-del-carrec |access-date=2023-05-24 |website=www.govern.ad |language=ca-es}}</ref>",
+                  "url": "https://www.govern.ad/ca/govern/el-cap-del-govern",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Notes",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "External links",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

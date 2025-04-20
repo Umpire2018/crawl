@@ -1,0 +1,76 @@
+{
+  "title": "2025_Venezuelan_parliamentary_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "Parliamentary elections are due to be held in Venezuela on 25 May 2025 to elect the 277 deputies of the National Assembly of Venezuela|National Assembly. The elections are set to take place during the ongoing Crisis in Venezuela|political crisis within the country, and are not expected to be free or fair.",
+              "references": [
+                {
+                  "text": "<ref name=\"election\">{{Cite news |date=February 19, 2025 |title=Venezuela Postpones Legislative Vote Panned By Opposition |url=https://www.barrons.com/news/venezuela-postpones-legislative-vote-panned-by-opposition-ac44bfc8 |access-date=February 20, 2025 |publisher=Barron's |language=en}}</ref>",
+                  "url": "https://www.barrons.com/news/venezuela-postpones-legislative-vote-panned-by-opposition-ac44bfc8",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Martinez |first=Juan |date=27 August 2024 |title=Power Play: Maduro Plans 2025 Joint Elections, Warns Opposition |url=https://www.riotimesonline.com/power-play-maduro-plans-2025-joint-elections-warns-opposition/ |access-date=8 December 2024 |work=The Rio Times |language=de}}</ref>",
+                  "url": "https://www.riotimesonline.com/power-play-maduro-plans-2025-joint-elections-warns-opposition/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The 277 members of the National Assemnbly are elected using a parallel voting system, with 144 seats elected by closed list proportional representation (with seats allocated using the d'Hondt method) and 133 seats elected by first-past-the-post voting in 87 constituencies.",
+              "references": [
+                {
+                  "text": "<ref name=\"efecto\">{{cite news |date=3 July 2020 |title=CNE divulga cronograma electoral y número de diputados por estado |url=https://efectococuyo.com/politica/cne-divulga-cronograma-electoral-y-numero-de-diputados-por-estados/ |language=es |agency=Efecto Cocuyo}}</ref>",
+                  "url": "https://efectococuyo.com/politica/cne-divulga-cronograma-electoral-y-numero-de-diputados-por-estados/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Reactions",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

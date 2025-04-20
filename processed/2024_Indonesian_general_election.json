@@ -14,28 +14,28 @@
                 {
                   "text": "<ref>{{Cite news |last=Dewi |first=Retia Kartika |date=11 July 2022 |title=Jadwal Lengkap dan Tahapan Pemilu 2024 |work=Kompas |url=https://www.kompas.com/tren/read/2022/07/11/170000065/jadwal-lengkap-dan-tahapan-pemilu-2024?page=all |access-date=19 February 2023 |archive-date=19 February 2023 |archive-url=https://web.archive.org/web/20230219113301/https://www.kompas.com/tren/read/2022/07/11/170000065/jadwal-lengkap-dan-tahapan-pemilu-2024?page=all |url-status=live }}</ref>",
                   "url": "https://www.kompas.com/tren/read/2022/07/11/170000065/jadwal-lengkap-dan-tahapan-pemilu-2024?page=all",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |author=Kiswondari |title=KPU Targetkan Sirekap Digunakan pada Pemilu 2024 |url=https://nasional.sindonews.com/read/232832/12/kpu-targetkan-sirekap-digunakan-pada-pemilu-2024-1605427912 |access-date=3 January 2021 |work=sindonews.com |date=15 November 2020 |language=id |archive-date=17 January 2024 |archive-url=https://web.archive.org/web/20240117142731/https://nasional.sindonews.com/read/232832/12/kpu-targetkan-sirekap-digunakan-pada-pemilu-2024-1605427912 |url-status=live }}</ref>",
                   "url": "https://nasional.sindonews.com/read/232832/12/kpu-targetkan-sirekap-digunakan-pada-pemilu-2024-1605427912",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Indonesia Decides: 2024 Elections |url=https://www.thejakartapost.com/election-2024 |access-date=2023-06-14 |website=The Jakarta Post |language=en |archive-date=3 June 2023 |archive-url=https://web.archive.org/web/20230603045413/https://www.thejakartapost.com/election-2024 |url-status=live }}</ref>",
                   "url": "https://www.thejakartapost.com/election-2024",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Wamad |first=Sudirman |title=Jokowi soal 3 Periode: Saya Taat Konstitusi dan Kehendak Rakyat |url=https://news.detik.com/pemilu/d-6258860/jokowi-soal-3-periode-saya-taat-konstitusi-dan-kehendak-rakyat |access-date=2023-06-14 |website=detiknews |language=id-ID |archive-date=18 September 2023 |archive-url=https://web.archive.org/web/20230918051026/https://news.detik.com/pemilu/d-6258860/jokowi-soal-3-periode-saya-taat-konstitusi-dan-kehendak-rakyat |url-status=live }}</ref>",
                   "url": "https://news.detik.com/pemilu/d-6258860/jokowi-soal-3-periode-saya-taat-konstitusi-dan-kehendak-rakyat",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -58,21 +58,21 @@
                 {
                   "text": "<ref name=\"alj\">{{Cite news |title=Indonesia election 2024: All you need to know |url=https://www.aljazeera.com/news/2024/2/9/indonesian-elections-2024-all-you-need-to-know |date=2024-02-09 |work=Al Jazeera English|Al Jazeera |access-date=21 March 2024 |archive-date=26 February 2024 |archive-url=https://web.archive.org/web/20240226162838/https://www.aljazeera.com/news/2024/2/9/indonesian-elections-2024-all-you-need-to-know |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/2/9/indonesian-elections-2024-all-you-need-to-know",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Ingat! Surat Suara Pemilu 2024 untuk Warga DKI Jakarta Hanya 4, Ini Alasannya |url=https://www.kompas.tv/nasional/484849/ingat-surat-suara-pemilu-2024-untuk-warga-dki-jakarta-hanya-4-ini-alasannya |access-date=7 April 2024 |work=KOMPAS.tv |date=13 February 2024 |language=id |archive-date=7 April 2024 |archive-url=https://web.archive.org/web/20240407160553/https://www.kompas.tv/nasional/484849/ingat-surat-suara-pemilu-2024-untuk-warga-dki-jakarta-hanya-4-ini-alasannya |url-status=live }}</ref>",
                   "url": "https://www.kompas.tv/nasional/484849/ingat-surat-suara-pemilu-2024-untuk-warga-dki-jakarta-hanya-4-ini-alasannya",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Wibawana |first1=Widhia Arum |title=Pemilu 2024 di Luar Negeri Nyoblos Surat Suara Apa Saja? Ini Aturannya |url=https://news.detik.com/pemilu/d-7159881/pemilu-2024-di-luar-negeri-nyoblos-surat-suara-apa-saja-ini-aturannya |access-date=13 April 2024 |work=detiknews |date=25 January 2024 |language=id-ID |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317040544/https://news.detik.com/pemilu/d-7159881/pemilu-2024-di-luar-negeri-nyoblos-surat-suara-apa-saja-ini-aturannya |url-status=live }}</ref>",
                   "url": "https://news.detik.com/pemilu/d-7159881/pemilu-2024-di-luar-negeri-nyoblos-surat-suara-apa-saja-ini-aturannya",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -93,7 +93,7 @@
                     {
                       "text": "<ref>{{cite news |title=Apa yang perlu Anda ketahui tentang UU Pemilu |url=https://www.bbc.com/indonesia/indonesia-40678216 |access-date=4 January 2021 |work=BBC News Indonesia |date=21 July 2017 |language=id |archive-date=27 March 2019 |archive-url=https://web.archive.org/web/20190327185604/https://www.bbc.com/indonesia/indonesia-40678216 |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/indonesia/indonesia-40678216",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -119,8 +119,8 @@
                     {
                       "text": "<ref>{{cite act|type=Judgement|index=90/PUU-XXI|year=2023|legislature=Constitutional Court of Indonesia|title=Putusan MK Nomor 90/PUU-XXI/2023|trans-title=|url=https://www.mkri.id/public/content/persidangan/putusan/putusan_mkri_9332_1697427438.pdf|language=id|archive-url=https://web.archive.org/web/20240316104703/https://www.mkri.id/public/content/persidangan/putusan/putusan_mkri_9332_1697427438.pdf|archive-date=16 March 2024}} {{Webarchive|url=https://web.archive.org/web/20240316104703/https://www.mkri.id/public/content/persidangan/putusan/putusan_mkri_9332_1697427438.pdf |date=16 March 2024 }}</ref>",
                       "url": "https://www.mkri.id/public/content/persidangan/putusan/putusan_mkri_9332_1697427438.pdf",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "act"
                     }
                   ]
@@ -142,7 +142,7 @@
                     {
                       "text": "<ref>{{Cite news |title=Even with a 30% quota in place, Indonesian women face an uphill battle running for office |url=https://theconversation.com/even-with-a-30-quota-in-place-indonesian-women-face-an-uphill-battle-running-for-office-222387 |last=Irham |first=Mast |date=2024-02-08 |access-date=2024-03-21 |work=The Conversation (website)|The Conversation |archive-date=21 March 2024 |archive-url=https://web.archive.org/web/20240321002618/https://theconversation.com/even-with-a-30-quota-in-place-indonesian-women-face-an-uphill-battle-running-for-office-222387 |url-status=live }}</ref>",
                       "url": "https://theconversation.com/even-with-a-30-quota-in-place-indonesian-women-face-an-uphill-battle-running-for-office-222387",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -156,7 +156,7 @@
                       "text": "<ref name=\":0\">{{cite act|type=Government Regulation in Lieu of Law|index=1|date=2022|legislature=President of Indonesia|title=PERATURAN PEMERINTAH PENGGANTI UNDANG-UNDANG REPUBLIK INDONESIA NOMOR 1 TAHUN 2022 TENTANG PERUBAHAN ATAS UNDANG-UNDANG NOMOR 7 TAHUN 2017 TENTANG PEMILIHAN UMUM|trans-title=|url=https://jdih.setkab.go.id/PUUdoc/176864/Perpu_Nomor_1_tahun_2022.pdf|language=id}} {{Webarchive|url=https://web.archive.org/web/20230325065220/https://jdih.setkab.go.id/PUUdoc/176864/Perpu_Nomor_1_tahun_2022.pdf |date=25 March 2023 }}</ref>",
                       "url": "https://jdih.setkab.go.id/PUUdoc/176864/Perpu_Nomor_1_tahun_2022.pdf",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Cannot connect to host jdih.setkab.go.id:443 ssl:default [Domain name not found]",
                       "type": "act"
                     }
                   ]
@@ -168,7 +168,7 @@
                     {
                       "text": "<ref>{{Cite web |last=Rizqo |first=Kanavino Ahmad |title=Jokowi Terbitkan Perppu Pemilu terkait 4 Daerah Otonomi Baru di Papua |url=https://news.detik.com/pemilu/d-6458346/jokowi-terbitkan-perppu-pemilu-terkait-4-daerah-otonomi-baru-di-papua |access-date=2022-12-13 |website=detiknews |language=id-ID |archive-date=13 December 2022 |archive-url=https://web.archive.org/web/20221213040118/https://news.detik.com/pemilu/d-6458346/jokowi-terbitkan-perppu-pemilu-terkait-4-daerah-otonomi-baru-di-papua |url-status=live }}</ref>",
                       "url": "https://news.detik.com/pemilu/d-6458346/jokowi-terbitkan-perppu-pemilu-terkait-4-daerah-otonomi-baru-di-papua",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -181,21 +181,21 @@
                     {
                       "text": "<ref>{{Cite web |last=Firmansyah |first=Muhammad Julnis |date=2022-08-31 |editor-last=Wibowo |editor-first=Eko Ari |title=Mendagri Usul Pemilu 2024 Tak Digelar Dulu di IKN, Ini Alasannya |url=https://nasional.tempo.co/read/1628948/mendagri-usul-pemilu-2024-tak-digelar-dulu-di-ikn-ini-alasannya |access-date=2022-11-18 |website=Tempo |language=id |archive-date=18 November 2022 |archive-url=https://web.archive.org/web/20221118092936/https://nasional.tempo.co/read/1628948/mendagri-usul-pemilu-2024-tak-digelar-dulu-di-ikn-ini-alasannya |url-status=live }}</ref>",
                       "url": "https://nasional.tempo.co/read/1628948/mendagri-usul-pemilu-2024-tak-digelar-dulu-di-ikn-ini-alasannya",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Mantalean |first=Vitorio |date=2022-08-31 |editor-last=Prabowo |editor-first=Dani |title=IKN Tak Gelar Pemilu 2024, Mendagri Usul Badan Otorita Diawasi DPR RI |url=https://nasional.kompas.com/read/2022/08/31/19454831/ikn-tak-gelar-pemilu-2024-mendagri-usul-badan-otorita-diawasi-dpr-ri |access-date=2022-11-18 |website=KOMPAS.com |language=id |archive-date=18 November 2022 |archive-url=https://web.archive.org/web/20221118092938/https://nasional.kompas.com/read/2022/08/31/19454831/ikn-tak-gelar-pemilu-2024-mendagri-usul-badan-otorita-diawasi-dpr-ri |url-status=live }}</ref>",
                       "url": "https://nasional.kompas.com/read/2022/08/31/19454831/ikn-tak-gelar-pemilu-2024-mendagri-usul-badan-otorita-diawasi-dpr-ri",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Pakar: IKN Nusantara Tak Bisa Gelar Pemilu 2024 |url=https://www.cnnindonesia.com/nasional/20220707170836-32-818649/pakar-ikn-nusantara-tak-bisa-gelar-pemilu-2024 |access-date=2022-11-18 |website=nasional |language=id-ID |archive-date=18 November 2022 |archive-url=https://web.archive.org/web/20221118092937/https://www.cnnindonesia.com/nasional/20220707170836-32-818649/pakar-ikn-nusantara-tak-bisa-gelar-pemilu-2024 |url-status=live }}</ref>",
-                      "url": "https://www.cnnindonesia.com/nasional/20220707170836-32-818649/pakar-ikn-nusantara-tak-bisa-gelar-pemilu-2024",
-                      "status_code": null,
+                      "url": "https://www.cnnindonesia.com/nasional/20220707170836-617-818649/pakar-ikn-nusantara-tak-bisa-gelar-pemilu-2024",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -219,36 +219,36 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web |last=deAcostaNoya |first=Rachel Wilson, Rosa |date=2024-02-11 |title=How Indonesia's future is in the hands of the young, in 5 charts |url=https://www.cnn.com/2024/02/11/asia/indonesia-election-young-voters-dg/index.html |access-date=2024-04-18 |website=CNN |language=en |archive-date=2 April 2024 |archive-url=https://web.archive.org/web/20240402135943/https://www.cnn.com/2024/02/11/asia/indonesia-election-young-voters-dg/index.html |url-status=live }}</ref>",
-                  "url": "https://www.cnn.com/2024/02/11/asia/indonesia-election-young-voters-dg/index.html",
-                  "status_code": null,
+                  "url": "https://edition.cnn.com/2024/02/11/asia/indonesia-election-young-voters-dg/index.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |last1=Asy'ari |first1=Hakim |last2=Syarifah |first2=Nur |date=24 October 2022 |title=Peraturan Komisi Pemilihan Umum Nomor 7 Tahun 2022 tentang Penyusunan Daftar Pemilih dalam Penyelenggaraan Pemilihan Umum dan Sistem Informasi Data Pemilih |trans-title=General Election Commission Regulations Number 7 of 2022 about Preparation of Voter List In The Organization of Elections General and Voter Data Information System |location=Jakarta |publisher=General Elections Commission |page=4−11 |url=https://jdih.kpu.go.id/data/data_pkpu/2022pkpu007.pdf |access-date=18 November 2023 |archive-date=6 January 2024 |archive-url=https://web.archive.org/web/20240106090829/https://jdih.kpu.go.id/data/data_pkpu/2022pkpu007.pdf |url-status=live }}</ref>",
                   "url": "https://jdih.kpu.go.id/data/data_pkpu/2022pkpu007.pdf",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2022-08-26 |title=Indonesia |url=https://www.girlsnotbrides.org/learning-resources/child-marriage-atlas/regions-and-countries/indonesia/ |access-date=2024-03-03 |website=Girls Not Brides |language=en |archive-date=25 July 2023 |archive-url=https://web.archive.org/web/20230725175332/https://www.girlsnotbrides.org/learning-resources/child-marriage-atlas/regions-and-countries/indonesia/ |url-status=live }}</ref>",
                   "url": "https://www.girlsnotbrides.org/learning-resources/child-marriage-atlas/regions-and-countries/indonesia/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |last=Melani |first=Agustina |date=12 February 2023 |title=Pemilu 2024, Apa Saja Syarat Pemilih? Simak di Sini |language=id |work=liputan6.com |url=https://www.liputan6.com/pemilu/read/5205002/pemilu-2024-apa-saja-syarat-pemilih-simak-di-sini |access-date=18 April 2023 |archive-date=18 April 2023 |archive-url=https://web.archive.org/web/20230418094856/https://www.liputan6.com/pemilu/read/5205002/pemilu-2024-apa-saja-syarat-pemilih-simak-di-sini |url-status=live }}</ref>",
                   "url": "https://www.liputan6.com/pemilu/read/5205002/pemilu-2024-apa-saja-syarat-pemilih-simak-di-sini",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Setiawati |first1=Susi |title=Gen Z-Milenial Wajib Bangga! Anda Jadi Penentu Next Presiden |url=https://www.cnbcindonesia.com/research/20231204154618-128-494398/gen-z-milenial-wajib-bangga-anda-jadi-penentu-next-presiden |access-date=21 February 2024 |work=CNBC Indonesia |date=5 December 2023 |language=id-ID |archive-date=21 February 2024 |archive-url=https://web.archive.org/web/20240221093746/https://www.cnbcindonesia.com/research/20231204154618-128-494398/gen-z-milenial-wajib-bangga-anda-jadi-penentu-next-presiden |url-status=live }}</ref>",
                   "url": "https://www.cnbcindonesia.com/research/20231204154618-128-494398/gen-z-milenial-wajib-bangga-anda-jadi-penentu-next-presiden",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -261,14 +261,14 @@
                 {
                   "text": "<ref>{{cite news |last=Simanjuntak |first=Surya Dua Artha |date=18 April 2023 |title=KPU: Daftar Pemilih Sementara Pemilu 2024 Capai 205 Juta |language=id |work=Bisnis.com |editor-last=Suwiknyo |editor-first=Edi |url=https://kabar24.bisnis.com/read/20230418/15/1648070/kpu-daftar-pemilih-sementara-pemilu-2024-capai-205-juta |access-date=18 April 2023 |archive-date=18 April 2023 |archive-url=https://web.archive.org/web/20230418045841/https://kabar24.bisnis.com/read/20230418/15/1648070/kpu-daftar-pemilih-sementara-pemilu-2024-capai-205-juta |url-status=live }}</ref>",
                   "url": "https://kabar24.bisnis.com/read/20230418/15/1648070/kpu-daftar-pemilih-sementara-pemilu-2024-capai-205-juta",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Jumlah Daftar Pemilih Tetap Pemilu 2024 di Seluruh Provinsi |url=https://www.cnnindonesia.com/nasional/20230702203518-617-968610/jumlah-daftar-pemilih-tetap-pemilu-2024-di-seluruh-provinsi |access-date=4 July 2023 |work=CNN Indonesia |date=3 July 2023 |language=id-ID |archive-date=15 February 2024 |archive-url=https://web.archive.org/web/20240215145736/https://www.cnnindonesia.com/nasional/20230702203518-617-968610/jumlah-daftar-pemilih-tetap-pemilu-2024-di-seluruh-provinsi |url-status=live }}</ref>",
                   "url": "https://www.cnnindonesia.com/nasional/20230702203518-617-968610/jumlah-daftar-pemilih-tetap-pemilu-2024-di-seluruh-provinsi",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -281,15 +281,15 @@
                 {
                   "text": "<ref>{{cite news |last1=Basyari |first1=Iqbal |title=Surat Suara Dikirim, Bawaslu Diminta Awasi Pemilu di Luar Negeri |url=https://www.kompas.id/baca/polhuk/2024/01/02/surat-suara-untuk-pemilih-luar-negeri-mulai-dikirim-bawaslu-diminta-perketat-pengawasan |access-date=13 February 2024 |work=Kompas |date=3 January 2024 |language=id |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213060928/https://www.kompas.id/baca/polhuk/2024/01/02/surat-suara-untuk-pemilih-luar-negeri-mulai-dikirim-bawaslu-diminta-perketat-pengawasan |url-status=live }}</ref>",
                   "url": "https://www.kompas.id/baca/polhuk/2024/01/02/surat-suara-untuk-pemilih-luar-negeri-mulai-dikirim-bawaslu-diminta-perketat-pengawasan",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=KPU Larang \"Exit Poll\" Luar Negeri Diumumkan Sebelum Pemilu WIB Selesai |url=https://nasional.kompas.com/read/2024/02/12/10145131/kpu-larang-exit-poll-luar-negeri-diumumkan-sebelum-pemilu-wib-selesai |access-date=13 February 2024 |work=KOMPAS.com |date=12 February 2024 |language=id |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213091438/https://nasional.kompas.com/read/2024/02/12/10145131/kpu-larang-exit-poll-luar-negeri-diumumkan-sebelum-pemilu-wib-selesai |url-status=live }}</ref>",
                   "url": "https://nasional.kompas.com/read/2024/02/12/10145131/kpu-larang-exit-poll-luar-negeri-diumumkan-sebelum-pemilu-wib-selesai",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -301,7 +301,7 @@
                 {
                   "text": "<ref>{{cite news |last1=Aisyah |first1=Novia |title=Jadwal Buka-Tutup TPS Pemilu 2024 & Dokumen-Tata Cara Coblos, Cek di Sini! |url=https://www.detik.com/edu/detikpedia/d-7190648/jadwal-buka-tutup-tps-pemilu-2024-dokumen-tata-cara-coblos-cek-di-sini |access-date=13 February 2024 |work=detikedu |date=13 February 2024 |language=id-ID |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213091437/https://www.detik.com/edu/detikpedia/d-7190648/jadwal-buka-tutup-tps-pemilu-2024-dokumen-tata-cara-coblos-cek-di-sini |url-status=live }}</ref>",
                   "url": "https://www.detik.com/edu/detikpedia/d-7190648/jadwal-buka-tutup-tps-pemilu-2024-dokumen-tata-cara-coblos-cek-di-sini",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -324,28 +324,28 @@
                 {
                   "text": "<ref>{{cite news |last=Mantalean |first=Vitorio |date=18 August 2022 |title=Syarat Partai Politik Ikuti Pemilu 2024 |language=id |work=KOMPAS.com |editor-last=Saptohutomo |editor-first=Aryo Putranto |url=https://nasional.kompas.com/read/2022/08/18/16554641/syarat-partai-politik-ikuti-pemilu-2024 |access-date=14 July 2023 |archive-date=14 July 2023 |archive-url=https://web.archive.org/web/20230714170736/https://nasional.kompas.com/read/2022/08/18/16554641/syarat-partai-politik-ikuti-pemilu-2024 |url-status=live }}</ref>",
                   "url": "https://nasional.kompas.com/read/2022/08/18/16554641/syarat-partai-politik-ikuti-pemilu-2024",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Savitri |first1=Putu Indah |date=12 April 2022 |title=Ketua KPU: 75 parpol berhak mendaftar jadi peserta Pemilu 2024 |language=id |work=Antara News |editor-last=Soebanto |editor-first=Herry |url=https://www.antaranews.com/berita/2817669/ketua-kpu-75-parpol-berhak-mendaftar-jadi-peserta-pemilu-2024 |access-date=25 April 2023 |df=dmy-all |archive-date=25 April 2023 |archive-url=https://web.archive.org/web/20230425144958/https://www.antaranews.com/berita/2817669/ketua-kpu-75-parpol-berhak-mendaftar-jadi-peserta-pemilu-2024 |url-status=live }}</ref>",
                   "url": "https://www.antaranews.com/berita/2817669/ketua-kpu-75-parpol-berhak-mendaftar-jadi-peserta-pemilu-2024",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Deretan 75 Parpol yang Berhak Daftar Pemilu 2024 |url=https://www.cnnindonesia.com/nasional/20220424135247-617-788950/deretan-75-parpol-yang-berhak-daftar-pemilu-2024 |access-date=25 April 2023 |work=CNN Indonesia |date=24 April 2022 |language=id |df=dmy-all |archive-date=15 February 2024 |archive-url=https://web.archive.org/web/20240215145747/https://www.cnnindonesia.com/nasional/20220424135247-617-788950/deretan-75-parpol-yang-berhak-daftar-pemilu-2024 |url-status=live }}</ref>",
                   "url": "https://www.cnnindonesia.com/nasional/20220424135247-617-788950/deretan-75-parpol-yang-berhak-daftar-pemilu-2024",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"daftarparpolkpu\">{{cite news |last1=Mantalaen |first1=Vitorio |title=40 Parpol Daftar Pemilu 2024, 24 Lanjut Verifikasi |url=https://news.detik.com/pemilu/d-6235230/40-parpol-daftar-pemilu-2024-24-lanjut-verifikasi |access-date=15 December 2022 |work=detiknews |date=15 August 2022 |language=id |df=dmy-all |archive-date=15 December 2022 |archive-url=https://web.archive.org/web/20221215005255/https://news.detik.com/pemilu/d-6235230/40-parpol-daftar-pemilu-2024-24-lanjut-verifikasi |url-status=live }}</ref>",
                   "url": "https://news.detik.com/pemilu/d-6235230/40-parpol-daftar-pemilu-2024-24-lanjut-verifikasi",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -358,28 +358,28 @@
                 {
                   "text": "<ref>{{cite news |last=Mantalean |first=Vitorio |date=14 December 2022 |title=Resmi, 17 Parpol Lolos Jadi Peserta Pemilu 2024, Ini Daftarnya... |work=Kompas |editor-last=Asril |editor-first=Sabrina |url=https://www.kompas.com/nasional/read/2022/12/14/18155871/resmi-17-parpol-lolos-jadi-peserta-pemilu-2024-ini-daftarnya |url-status=live |access-date=15 December 2022 |archive-url=https://web.archive.org/web/20221215065846/https://www.kompas.com/nasional/read/2022/12/14/18155871/resmi-17-parpol-lolos-jadi-peserta-pemilu-2024-ini-daftarnya |archive-date=15 December 2022 |df=dmy-all}}</ref>",
                   "url": "https://www.kompas.com/nasional/read/2022/12/14/18155871/resmi-17-parpol-lolos-jadi-peserta-pemilu-2024-ini-daftarnya",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Ihsan |first1=Nabil |last2=Meilani A |first2=Tri |last3=Haryati |first3=Sri |date=21 December 2022 |title=Bawaslu instructs KPU to repeat verification process for Ummah Party |work=Antara News |editor-last=Haryati |editor-first=Sri |url=https://en.antaranews.com/news/266690/bawaslu-instructs-kpu-to-repeat-verification-process-for-ummah-party |access-date=21 December 2022 |df=dmy-all |archive-date=21 December 2022 |archive-url=https://web.archive.org/web/20221221053613/https://en.antaranews.com/news/266690/bawaslu-instructs-kpu-to-repeat-verification-process-for-ummah-party |url-status=live }}</ref>",
                   "url": "https://en.antaranews.com/news/266690/bawaslu-instructs-kpu-to-repeat-verification-process-for-ummah-party",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Tandiah |first1=Kenzu |last2=Meilani A |first2=Tri |date=30 December 2022 |title=Ummah Party passes KPU re-verification to contest 2024 elections |work=Antara News |editor-last=Haryati |editor-first=Sri |url=https://en.antaranews.com/news/268011/ummah-party-passes-kpu-re-verification-to-contest-2024-elections |access-date=30 December 2022 |df=dmy-all |archive-date=30 December 2022 |archive-url=https://web.archive.org/web/20221230122109/https://en.antaranews.com/news/268011/ummah-party-passes-kpu-re-verification-to-contest-2024-elections |url-status=live }}</ref>",
                   "url": "https://en.antaranews.com/news/268011/ummah-party-passes-kpu-re-verification-to-contest-2024-elections",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news|author=Silvia Ng|title=Lolos Peserta Pemilu 2024, Partai Ummat Pegang Nomor Urut 24|url=https://news.detik.com/pemilu/d-6489861/lolos-peserta-pemilu-2024-partai-ummat-pegang-nomor-urut-24|date=30 December 2022|work=detiknews|language=Indonesian|access-date=30 December 2022|archive-date=31 December 2022|archive-url=https://web.archive.org/web/20221231074924/https://news.detik.com/pemilu/d-6489861/lolos-peserta-pemilu-2024-partai-ummat-pegang-nomor-urut-24|url-status=live}}</ref>",
                   "url": "https://news.detik.com/pemilu/d-6489861/lolos-peserta-pemilu-2024-partai-ummat-pegang-nomor-urut-24",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -392,29 +392,29 @@
                 {
                   "text": "<ref>{{cite news |last=Wiryono |first=Singgih |date=1 April 2023 |title=KPU Nyatakan Prima Lolos Verifikasi Administrasi Peserta Pemilu 2024 |language=id |work=KOMPAS.com |editor-last=Santosa |editor-first=Bagus |url=https://nasional.kompas.com/read/2023/04/01/16343521/kpu-nyatakan-prima-lolos-verifikasi-administrasi-peserta-pemilu-2024 |access-date=5 April 2023 |archive-date=4 April 2023 |archive-url=https://web.archive.org/web/20230404154809/https://nasional.kompas.com/read/2023/04/01/16343521/kpu-nyatakan-prima-lolos-verifikasi-administrasi-peserta-pemilu-2024 |url-status=live }}</ref>",
                   "url": "https://nasional.kompas.com/read/2023/04/01/16343521/kpu-nyatakan-prima-lolos-verifikasi-administrasi-peserta-pemilu-2024",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last=Ameliya |first=Tri Meilani |date=19 April 2023 |title=KPU nyatakan Prima tak penuhi syarat untuk ikuti verfak perbaikan |language=id |work=Antara |editor-last=Noor |editor-first=Chandra Hamdani |url=https://www.antaranews.com/berita/3496803/kpu-nyatakan-prima-tak-penuhi-syarat-untuk-ikuti-verfak-perbaikan |access-date=21 April 2023 |archive-date=21 April 2023 |archive-url=https://web.archive.org/web/20230421123452/https://www.antaranews.com/berita/3496803/kpu-nyatakan-prima-tak-penuhi-syarat-untuk-ikuti-verfak-perbaikan |url-status=live }}</ref>",
                   "url": "https://www.antaranews.com/berita/3496803/kpu-nyatakan-prima-tak-penuhi-syarat-untuk-ikuti-verfak-perbaikan",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |title=Dilema Anggota DPRD dari Parpol Tak Lolos Verifikasi |url=https://www.mkri.id/index.php?page=web.Berita&id=19480&menu=2 |publisher=Constitutional Court of Indonesia |access-date=18 February 2024 |language=id |date=31 August 2023}}</ref>",
                   "url": "https://www.mkri.id/index.php?page=web.Berita&id=19480&menu=2",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |title=Tidak Lolos Pemilu 2024, Partai Berkarya Buka Kemungkinan Melebur Jadi Ormas |url=https://www.metrojambi.com/politik/13558433/Tidak-Lolos-Pemilu-2024-Partai-Berkarya-Buka-Kemungkinan-Melebur-Jadi-Ormas |access-date=18 February 2024 |work=Metro Jambi |date=14 March 2023 |language=id |archive-date=18 February 2024 |archive-url=https://web.archive.org/web/20240218100204/https://www.metrojambi.com/politik/13558433/Tidak-Lolos-Pemilu-2024-Partai-Berkarya-Buka-Kemungkinan-Melebur-Jadi-Ormas |url-status=live }}</ref>",
                   "url": "https://www.metrojambi.com/politik/13558433/Tidak-Lolos-Pemilu-2024-Partai-Berkarya-Buka-Kemungkinan-Melebur-Jadi-Ormas",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -425,16 +425,16 @@
               "references": [
                 {
                   "text": "<ref>{{cite news|title=Ada 16 Parpol Nasional Peserta Pemilu 2019, Tahu Apa Saja? |url=https://kumparan.com/@kumparannews/ada-16-parpol-nasional-peserta-pemilu-2019-tahu-apa-saja |access-date=4 December 2018 |work=Kumparan |date=13 April 2018 |language=id |archive-url=https://web.archive.org/web/20181204151559/https://kumparan.com/@kumparannews/ada-16-parpol-nasional-peserta-pemilu-2019-tahu-apa-saja |archive-date=4 December 2018 |url-status=live |df=dmy-all }}</ref>",
-                  "url": "https://kumparan.com/@kumparannews/ada-16-parpol-nasional-peserta-pemilu-2019-tahu-apa-saja",
-                  "status_code": null,
+                  "url": "https://kumparan.com/kumparannews/ada-16-parpol-nasional-peserta-pemilu-2019-tahu-apa-saja",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Arjanto |first1=Dwi |title=Deretan 6 Partai Politik Lokal Aceh yang Lolos Pemilu 2024 dan Asal-usulnya |url=https://nasional.tempo.co/read/1674923/deretan-6-partai-politik-lokal-aceh-yang-lolos-pemilu-2024-dan-asal-usulnya |access-date=5 April 2023 |work=Tempo |date=2 January 2023 |language=id |archive-date=5 April 2023 |archive-url=https://web.archive.org/web/20230405102910/https://nasional.tempo.co/read/1674923/deretan-6-partai-politik-lokal-aceh-yang-lolos-pemilu-2024-dan-asal-usulnya |url-status=live }}</ref>",
                   "url": "https://nasional.tempo.co/read/1674923/deretan-6-partai-politik-lokal-aceh-yang-lolos-pemilu-2024-dan-asal-usulnya",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -463,7 +463,7 @@
                     {
                       "text": "<ref>{{cite news |last1=Wibawana |first1=Widhia Arum |title=Syarat Calon Presiden 2024 Sesuai UU, Ini Isi Lengkapnya |url=https://news.detik.com/pemilu/d-6550219/syarat-calon-presiden-2024-sesuai-uu-ini-isi-lengkapnya |access-date=20 October 2023 |work=detiknews |date=3 February 2023 |language=id-ID |archive-date=30 October 2023 |archive-url=https://web.archive.org/web/20231030060643/https://news.detik.com/pemilu/d-6550219/syarat-calon-presiden-2024-sesuai-uu-ini-isi-lengkapnya |url-status=live }}</ref>",
                       "url": "https://news.detik.com/pemilu/d-6550219/syarat-calon-presiden-2024-sesuai-uu-ini-isi-lengkapnya",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -476,14 +476,14 @@
                     {
                       "text": "<ref>{{cite news |title=Pilpres 2024: Anies-Muhaimin dan Ganjar-Mahfud MD daftar capres-cawapres ke KPU |url=https://www.bbc.com/indonesia/articles/c51wxy5qwv5o |access-date=20 October 2023 |work=BBC News Indonesia |date=19 October 2023 |language=id |archive-date=31 October 2023 |archive-url=https://web.archive.org/web/20231031195308/https://www.bbc.com/indonesia/articles/c51wxy5qwv5o |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/indonesia/articles/c51wxy5qwv5o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last=Rahman |first=Faisal |date=25 October 2023 |title=Sah! Prabowo-Gibran Daftar Capres-Cawapres Pilpres 2024 |language=id-ID |work=CNBC Indonesia |url=https://www.cnbcindonesia.com/news/20231025152437-7-483617/sah-prabowo-gibran-daftar-capres-cawapres-pilpres-2024 |access-date=28 October 2023 |archive-date=28 October 2023 |archive-url=https://web.archive.org/web/20231028143634/https://www.cnbcindonesia.com/news/20231025152437-7-483617/sah-prabowo-gibran-daftar-capres-cawapres-pilpres-2024 |url-status=live }}</ref>",
                       "url": "https://www.cnbcindonesia.com/news/20231025152437-7-483617/sah-prabowo-gibran-daftar-capres-cawapres-pilpres-2024",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -513,15 +513,15 @@
                         {
                           "text": "<ref>{{Cite web |last=Azmi |first=Faiq |date=1 September 2023 |title=PKB soal Koalisi dengan Gerindra: Namanya Bukan KKIR, Otomatis Cabut |url=https://news.detik.com/pemilu/d-6908525/pkb-soal-koalisi-dengan-gerindra-namanya-bukan-kkir-otomatis-cabut |access-date=2023-09-02 |website=detiknews |language=id-ID |archive-date=2 September 2023 |archive-url=https://web.archive.org/web/20230902005933/https://news.detik.com/pemilu/d-6908525/pkb-soal-koalisi-dengan-gerindra-namanya-bukan-kkir-otomatis-cabut |url-status=live }}</ref>",
                           "url": "https://news.detik.com/pemilu/d-6908525/pkb-soal-koalisi-dengan-gerindra-namanya-bukan-kkir-otomatis-cabut",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Mantalean |first=Vitorio |date=2023-10-19 |editor-last=Gonsaga |editor-first=Aloysius |title=Anies-Muhaimin Resmi Daftar Bakal Capres-Cawapres ke KPU RI |url=https://nasional.kompas.com/read/2023/10/19/10402301/anies-muhaimin-resmi-daftar-bakal-capres-cawapres-ke-kpu-ri |access-date=2023-10-25 |website=KOMPAS.com |language=id |archive-date=20 October 2023 |archive-url=https://web.archive.org/web/20231020090838/https://nasional.kompas.com/read/2023/10/19/10402301/anies-muhaimin-resmi-daftar-bakal-capres-cawapres-ke-kpu-ri |url-status=live }}</ref>",
                           "url": "https://nasional.kompas.com/read/2023/10/19/10402301/anies-muhaimin-resmi-daftar-bakal-capres-cawapres-ke-kpu-ri",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         }
                       ]
@@ -533,14 +533,14 @@
                         {
                           "text": "<ref>{{Cite web |last=Dirgantara |first=Adhyasta |date=2023-09-01 |editor-last=Setuningsih |editor-first=Novianti |title=Demokrat Resmi Cabut Dukungan untuk Anies Baswedan |url=https://nasional.kompas.com/read/2023/09/01/19014181/demokrat-resmi-cabut-dukungan-untuk-anies-baswedan |access-date=2023-09-01 |website=KOMPAS.com |language=id |archive-date=1 September 2023 |archive-url=https://web.archive.org/web/20230901133425/https://nasional.kompas.com/read/2023/09/01/19014181/demokrat-resmi-cabut-dukungan-untuk-anies-baswedan |url-status=live }}</ref>",
                           "url": "https://nasional.kompas.com/read/2023/09/01/19014181/demokrat-resmi-cabut-dukungan-untuk-anies-baswedan",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Demokrat Pastikan Dukung Duet Prabowo-Gibran di Pilpres 2024 |url=https://www.cnnindonesia.com/nasional/20231023160333-617-1014881/demokrat-pastikan-dukung-duet-prabowo-gibran-di-pilpres-2024 |access-date=2023-10-25 |website=C. N. N. Indonesia |language=id-ID |archive-date=15 February 2024 |archive-url=https://web.archive.org/web/20240215145751/https://www.cnnindonesia.com/nasional/20231023160333-617-1014881/demokrat-pastikan-dukung-duet-prabowo-gibran-di-pilpres-2024 |url-status=live }}</ref>",
                           "url": "https://www.cnnindonesia.com/nasional/20231023160333-617-1014881/demokrat-pastikan-dukung-duet-prabowo-gibran-di-pilpres-2024",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -553,15 +553,15 @@
                         {
                           "text": "<ref>{{cite news |last=Dirgantara |first=Adhyasta |date=22 August 2023 |title=PSI Resmi Batal Dukung Ganjar Capres, Akan Serap Ulang Aspirasi Rakyat |language=id |work=KOMPAS.com |editor-last=Setuningsih |editor-first=Novianti |url=https://nasional.kompas.com/read/2023/08/22/22061061/psi-resmi-batal-dukung-ganjar-capres-akan-serap-ulang-aspirasi-rakyat |access-date=2 September 2023 |archive-date=2 September 2023 |archive-url=https://web.archive.org/web/20230902091321/https://nasional.kompas.com/read/2023/08/22/22061061/psi-resmi-batal-dukung-ganjar-capres-akan-serap-ulang-aspirasi-rakyat |url-status=live }}</ref>",
                           "url": "https://nasional.kompas.com/read/2023/08/22/22061061/psi-resmi-batal-dukung-ganjar-capres-akan-serap-ulang-aspirasi-rakyat",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Guritno |first=Tatang |date=2023-10-24 |editor-last=Prabowo |editor-first=Dani |title=PSI Resmi Dukung Prabowo-Gibran di Pilpres 2024 |url=https://nasional.kompas.com/read/2023/10/24/19491851/psi-resmi-dukung-prabowo-gibran-di-pilpres-2024 |access-date=2023-10-25 |website=KOMPAS.com |language=id |archive-date=2 November 2023 |archive-url=https://web.archive.org/web/20231102101816/https://nasional.kompas.com/read/2023/10/24/19491851/psi-resmi-dukung-prabowo-gibran-di-pilpres-2024 |url-status=live }}</ref>",
                           "url": "https://nasional.kompas.com/read/2023/10/24/19491851/psi-resmi-dukung-prabowo-gibran-di-pilpres-2024",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         }
                       ]
@@ -583,42 +583,42 @@
                         {
                           "text": "<ref>{{cite news |title=Indonesian court rules on presidential candidate eligibility |url=https://www.aljazeera.com/news/2023/10/16/indonesian-court-rules-on-presidential-candidate-eligibility |access-date=20 October 2023 |work=Al Jazeera |date=16 October 2023 |language=en |archive-date=20 October 2023 |archive-url=https://web.archive.org/web/20231020113330/https://www.aljazeera.com/news/2023/10/16/indonesian-court-rules-on-presidential-candidate-eligibility |url-status=live }}</ref>",
                           "url": "https://www.aljazeera.com/news/2023/10/16/indonesian-court-rules-on-presidential-candidate-eligibility",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |author=Janti |first=Nur |date=16 October 2023 |title=BREAKING: Constitutional Court opens door for Jokowi's son to run in presidential poll |url=https://www.thejakartapost.com/indonesia/2023/10/16/breaking-constitutional-court-opens-door-for-jokowis-son-to-run-in-presidential-poll.html |access-date=22 October 2023 |newspaper=The Jakarta Post |archive-date=16 October 2023 |archive-url=https://web.archive.org/web/20231016101230/https://www.thejakartapost.com/indonesia/2023/10/16/breaking-constitutional-court-opens-door-for-jokowis-son-to-run-in-presidential-poll.html |url-status=live }}</ref>",
                           "url": "https://www.thejakartapost.com/indonesia/2023/10/16/breaking-constitutional-court-opens-door-for-jokowis-son-to-run-in-presidential-poll.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Tarigan |first1=Edna |last2=Karmini |first2=Niniek |date=16 October 2023 |title=Indonesia's top court rules against lowering presidential candidates' age limit, but adds exception |url=https://apnews.com/article/indonesia-constitutional-court-minimum-age-presidential-candidate-6a610ea14a4c6f4070c0bf68078f5a72 |access-date=22 October 2023 |work=Associated Press |publisher= |archive-date=23 October 2023 |archive-url=https://web.archive.org/web/20231023175023/https://apnews.com/article/indonesia-constitutional-court-minimum-age-presidential-candidate-6a610ea14a4c6f4070c0bf68078f5a72 |url-status=live }}</ref>",
                           "url": "https://apnews.com/article/indonesia-constitutional-court-minimum-age-presidential-candidate-6a610ea14a4c6f4070c0bf68078f5a72",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Top judge demoted in Indonesia after ruling favouring president's son |url=https://www.aljazeera.com/news/2023/11/8/top-judge-demoted-in-indonesia-after-ruling-favouring-presidents-son |access-date=2023-12-12 |website=Al Jazeera |language=en |archive-date=13 December 2023 |archive-url=https://web.archive.org/web/20231213225427/https://www.aljazeera.com/news/2023/11/8/top-judge-demoted-in-indonesia-after-ruling-favouring-presidents-son |url-status=live }}</ref>",
                           "url": "https://www.aljazeera.com/news/2023/11/8/top-judge-demoted-in-indonesia-after-ruling-favouring-presidents-son",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last1=Suhenda |first1=Dio |last2=Janti |first2=Nur |date=February 5, 2024 |title=KPU found guilty of ethics breach in handling of Gibran VP bid |url=https://www.thejakartapost.com/indonesia/2024/02/05/kpu-found-guilty-of-ethics-breach-in-handling-of-gibran-vp-bid.html |access-date=2024-02-12 |website=The Jakarta Post |language=en |archive-date=5 February 2024 |archive-url=https://web.archive.org/web/20240205161437/https://www.thejakartapost.com/indonesia/2024/02/05/kpu-found-guilty-of-ethics-breach-in-handling-of-gibran-vp-bid.html |url-status=live }}</ref>",
                           "url": "https://www.thejakartapost.com/indonesia/2024/02/05/kpu-found-guilty-of-ethics-breach-in-handling-of-gibran-vp-bid.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=February 15, 2024 |title=Court Dismisses Lawsuit against Jokowi over Political Dynasty, Nepotism |url=https://en.tempo.co/read/1833785/court-dismisses-lawsuit-against-jokowi-over-political-dynasty-nepotism |access-date=2024-02-15 |website=Tempo |language=en |archive-date=15 February 2024 |archive-url=https://web.archive.org/web/20240215144822/https://en.tempo.co/read/1833785/court-dismisses-lawsuit-against-jokowi-over-political-dynasty-nepotism |url-status=live }}</ref>",
                           "url": "https://en.tempo.co/read/1833785/court-dismisses-lawsuit-against-jokowi-over-political-dynasty-nepotism",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -652,14 +652,14 @@
                     {
                       "text": "<ref>{{cite news|last=Siregar|first=Kiki|date=2024-02-05|title=Indonesia Elections 2024: High stakes as presidential candidates face off in last TV debate|language=en|work=CNA|url=https://www.channelnewsasia.com/asia/indonesia-presidential-elections-anies-baswedan-prabowo-subianto-ganjar-pranowo-4098501|access-date=2024-02-05|archive-date=5 February 2024|archive-url=https://web.archive.org/web/20240205153310/https://www.channelnewsasia.com/asia/indonesia-presidential-elections-anies-baswedan-prabowo-subianto-ganjar-pranowo-4098501|url-status=live}}</ref>",
                       "url": "https://www.channelnewsasia.com/asia/indonesia-presidential-elections-anies-baswedan-prabowo-subianto-ganjar-pranowo-4098501",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|date=22 January 2024|title=Dent in public hype over Indonesia VP candidate Gibran after 'rude' gesture against opponent in live debate|language=en|work=CNA|url=https://www.channelnewsasia.com/asia/indonesia-election-gibran-rakabuming-rakavice-presidential-debate-viral-social-media-4064746|access-date=5 February 2024|archive-date=5 February 2024|archive-url=https://web.archive.org/web/20240205153311/https://www.channelnewsasia.com/asia/indonesia-election-gibran-rakabuming-rakavice-presidential-debate-viral-social-media-4064746|url-status=live}}</ref>",
                       "url": "https://www.channelnewsasia.com/asia/indonesia-election-gibran-rakabuming-rakavice-presidential-debate-viral-social-media-4064746",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -682,14 +682,14 @@
                     {
                       "text": "<ref name=\"suharto\"/><ref name=\"rfi\">{{cite news|date=14 February 2024|title=Indonesia votes for president with ex-general Subianto the favourite|language=en|work=RFI|url=https://www.rfi.fr/en/international-news/20240213-indonesia-to-vote-with-ex-general-subianto-the-favourite|access-date=14 February 2024|archive-date=14 February 2024|archive-url=https://web.archive.org/web/20240214043126/https://www.rfi.fr/en/international-news/20240213-indonesia-to-vote-with-ex-general-subianto-the-favourite|url-status=live}}</ref>",
                       "url": "https://www.rfi.fr/en/international-news/20240213-indonesia-to-vote-with-ex-general-subianto-the-favourite",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"gemoy\">{{cite news|date=15 February 2024|title=Ex-general Prabowo Subianto poised for sweeping presidential win in Indonesia|language=en|work=France 24|url=https://www.france24.com/en/asia-pacific/20240215-ex-general-prabowo-poised-for-sweeping-presidential-win-in-indonesia|access-date=15 February 2024|archive-date=15 February 2024|archive-url=https://web.archive.org/web/20240215043241/https://www.france24.com/en/asia-pacific/20240215-ex-general-prabowo-poised-for-sweeping-presidential-win-in-indonesia|url-status=live}}</ref>",
                       "url": "https://www.france24.com/en/asia-pacific/20240215-ex-general-prabowo-poised-for-sweeping-presidential-win-in-indonesia",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -702,7 +702,7 @@
                     {
                       "text": "<ref name=\"suharto\">{{cite news|date=11 February 2024|title=AI 'resurrects' long dead dictator in murky new era of deepfake electioneering|language=en|work=CNN|url=https://edition.cnn.com/2024/02/12/asia/suharto-deepfake-ai-scam-indonesia-election-hnk-intl/index.html|access-date=12 February 2024|archive-date=12 February 2024|archive-url=https://web.archive.org/web/20240212085731/https://edition.cnn.com/2024/02/12/asia/suharto-deepfake-ai-scam-indonesia-election-hnk-intl/index.html|url-status=live}}</ref>",
                       "url": "https://edition.cnn.com/2024/02/12/asia/suharto-deepfake-ai-scam-indonesia-election-hnk-intl/index.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -715,7 +715,7 @@
                     {
                       "text": "<ref>{{cite news|date=12 February 2024|title=Fake Suharto video fuels debate on AI use in Indonesian election campaign|language=en|work=Benar News|url=https://www.benarnews.org/english/news/indonesian/suharto-deepfake-used-in-election-campaign-01122024135217.html|access-date=12 February 2024|archive-date=12 February 2024|archive-url=https://web.archive.org/web/20240212124751/https://www.benarnews.org/english/news/indonesian/suharto-deepfake-used-in-election-campaign-01122024135217.html|url-status=live}}</ref>",
                       "url": "https://www.benarnews.org/english/news/indonesian/suharto-deepfake-used-in-election-campaign-01122024135217.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -738,8 +738,8 @@
                     {
                       "text": "<ref>{{Cite web |title=Indonesia Documentary Claims Widodo Improperly Backed Election Favourite |url=https://www.barrons.com/news/indonesia-documentary-claims-widodo-improperly-backed-election-favourite-5ddc0df9 |access-date=2024-02-13 |website=Barron's |language=en |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213152004/https://www.barrons.com/news/indonesia-documentary-claims-widodo-improperly-backed-election-favourite-5ddc0df9 |url-status=live }}</ref>",
                       "url": "https://www.barrons.com/news/indonesia-documentary-claims-widodo-improperly-backed-election-favourite-5ddc0df9",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -767,42 +767,42 @@
                     {
                       "text": "<ref>{{cite web |title=Dapil dan Jumlah Kursi Anggota DPR dan DPRD dalam Pemilu Tahun 2024 |url=https://www.kpu.go.id/berita/baca/11395/dapil-dan-jumlah-kursi-anggota-dpr-dan-dprd-dalam-pemilu-tahun-2024 |publisher=General Elections Commission |access-date=18 April 2023 |language=id |date=9 February 2023 |archive-date=18 April 2023 |archive-url=https://web.archive.org/web/20230418100701/https://www.kpu.go.id/berita/baca/11395/dapil-dan-jumlah-kursi-anggota-dpr-dan-dprd-dalam-pemilu-tahun-2024 |url-status=live }}</ref>",
                       "url": "https://www.kpu.go.id/berita/baca/11395/dapil-dan-jumlah-kursi-anggota-dpr-dan-dprd-dalam-pemilu-tahun-2024",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"antaradprdpd\">{{cite news |last=Lingga |first=Rivan Awal |date=3 November 2023 |editor-last=Ninditya |editor-first=Fransiska |title=KPU tetapkan 9.917 DCT anggota DPR RI di Pemilu 2024 |url=https://www.antaranews.com/berita/3806142/kpu-tetapkan-9917-dct-anggota-dpr-ri-di-pemilu-2024 |access-date=13 February 2024 |work=Antara News |language=id |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213100605/https://www.antaranews.com/berita/3806142/kpu-tetapkan-9917-dct-anggota-dpr-ri-di-pemilu-2024 |url-status=live }}</ref>",
                       "url": "https://www.antaranews.com/berita/3806142/kpu-tetapkan-9917-dct-anggota-dpr-ri-di-pemilu-2024",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Muliawati |first1=Anggi |title=Ada Pemekaran 4 Provinsi Papua, Kursi DPD di Pemilu 2024 Tambah 16 |url=https://news.detik.com/pemilu/d-6486302/ada-pemekaran-4-provinsi-papua-kursi-dpd-di-pemilu-2024-tambah-16 |access-date=18 April 2023 |work=detiknews |date=28 December 2022 |language=id-ID |archive-date=18 April 2023 |archive-url=https://web.archive.org/web/20230418093653/https://news.detik.com/pemilu/d-6486302/ada-pemekaran-4-provinsi-papua-kursi-dpd-di-pemilu-2024-tambah-16 |url-status=live }}</ref>",
                       "url": "https://news.detik.com/pemilu/d-6486302/ada-pemekaran-4-provinsi-papua-kursi-dpd-di-pemilu-2024-tambah-16",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"antaradprdpd\"/>\n|-\n|Provincial<br />''Provinsi''\n|Regional House of Representatives|Provincial Regional House of Representatives<br />''Dewan Perwakilan Rakyat Daerah Provinsi'' (DPRD I)\n|2,372\n|{{up}}165\n|32,880<ref>{{cite web |title=Daftar Caleg DPRD Provinsi di Seluruh Indonesia |url=https://goodkind.id/pemilu/Provinsi?page=1 |website=goodkind.id |access-date=13 February 2024 |language=id |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213100608/https://goodkind.id/pemilu/Provinsi?page=1 |url-status=live }}</ref>",
                       "url": "https://goodkind.id/pemilu/Provinsi?page=1",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=Kursi DPRD Se-Indonesia Bertambah Jadi 17.510 |url=https://news.republika.co.id/berita/rlpc1v436/kursi-dprd-seindonesia-bertambah-jadi-17510 |access-date=15 April 2024 |work=Republika |date=21 November 2022 |language=id}}</ref>",
                       "url": "https://news.republika.co.id/berita/rlpc1v436/kursi-dprd-seindonesia-bertambah-jadi-17510",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |title=Daftar Caleg DPRD Kabupaten/Kota di Seluruh Indonesia |url=https://goodkind.id/pemilu/Kabupaten?page=1 |website=goodkind.id |access-date=13 February 2024 |language=id |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213100609/https://goodkind.id/pemilu/Kabupaten?page=1 |url-status=live }}</ref>",
                       "url": "https://goodkind.id/pemilu/Kabupaten?page=1",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -825,14 +825,14 @@
                     {
                       "text": "<ref>{{cite news |last1=Wahyuni |first1=Willa |title=Minat Menjadi Caleg 2024? Begini Syaratnya Menurut Undang-Undang |url=https://www.hukumonline.com/berita/a/minat-menjadi-caleg-2024-begini-syaratnya-menurut-undang-undang-lt634fc4a422828/ |access-date=18 April 2023 |work=hukumonline.com |date=19 October 2022 |language=id |archive-date=18 April 2023 |archive-url=https://web.archive.org/web/20230418093703/https://www.hukumonline.com/berita/a/minat-menjadi-caleg-2024-begini-syaratnya-menurut-undang-undang-lt634fc4a422828/ |url-status=live }}</ref>",
                       "url": "https://www.hukumonline.com/berita/a/minat-menjadi-caleg-2024-begini-syaratnya-menurut-undang-undang-lt634fc4a422828/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last=Saubani |first=Andri |date=7 May 2023 |title=Jumlah Anggota Dewan Perempuan Terancam Berkurang Akibat Peraturan Baru KPU |language=id |work=Republika |url=https://news.republika.co.id/berita/ruaj56409/jumlah-anggota-dewan-perempuan-terancam-berkurang-akibat-peraturan-baru-kpu |access-date=23 May 2023 |archive-date=18 May 2023 |archive-url=https://web.archive.org/web/20230518011734/https://news.republika.co.id/berita/ruaj56409/jumlah-anggota-dewan-perempuan-terancam-berkurang-akibat-peraturan-baru-kpu |url-status=live }}</ref>",
                       "url": "https://news.republika.co.id/berita/ruaj56409/jumlah-anggota-dewan-perempuan-terancam-berkurang-akibat-peraturan-baru-kpu",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -846,20 +846,20 @@
                       "text": "<ref>{{cite news |last=Nurrahman |first=Aldiansyah |date=20 May 2023 |title=Sebanyak 10.341 Orang Daftar Bakal Caleg DPR 2024 |language=id |work=validnews.id |editor-last=Zagoto |editor-first=Nofanolo |url=https://validnews.id/nasional/sebanyak-10341-orang-daftar-bakal-caleg-dpr-2024 |access-date=11 July 2023 |archive-date=22 May 2023 |archive-url=https://web.archive.org/web/20230522152604/https://www.validnews.id/nasional/sebanyak-10341-orang-daftar-bakal-caleg-dpr-2024 |url-status=live }}</ref>",
                       "url": "https://validnews.id/nasional/sebanyak-10341-orang-daftar-bakal-caleg-dpr-2024",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last=Mulyanto |first=Randy |date=13 February 2024 |title='Fix it from within': More Chinese Indonesians chase seats in parliament |language=en |work=Al Jazeera |url=https://www.aljazeera.com/news/2024/2/13/fix-it-from-within-more-chinese-indonesians-chase-seats-in-parliament |access-date=13 February 2024 |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213010406/https://www.aljazeera.com/news/2024/2/13/fix-it-from-within-more-chinese-indonesians-chase-seats-in-parliament |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/2/13/fix-it-from-within-more-chinese-indonesians-chase-seats-in-parliament",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Nababan |first1=Willy Medi Christian |title=Jumlah Kandidat DPD di Pemilu 2024 Dipastikan Turun Lagi |url=https://www.kompas.id/baca/polhuk/2023/04/24/jumlah-kandidat-dpd-ri-kian-menurun |access-date=14 July 2023 |work=Kompas |date=24 April 2023 |language=id |archive-date=14 July 2023 |archive-url=https://web.archive.org/web/20230714044642/https://www.kompas.id/baca/polhuk/2023/04/24/jumlah-kandidat-dpd-ri-kian-menurun |url-status=live }}</ref>",
                       "url": "https://www.kompas.id/baca/polhuk/2023/04/24/jumlah-kandidat-dpd-ri-kian-menurun",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -908,21 +908,21 @@
                 {
                   "text": "<ref>{{cite news |title=Anggaran Pemilu Serentak 2024 Sebesar Rp 25 Triliun, Paling Besar KPU |url=https://www.liputan6.com/bisnis/read/5197525/anggaran-pemilu-serentak-2024-sebesar-rp-25-triliun-paling-besar-kpu |access-date=11 July 2023 |work=liputan6.com |date=3 February 2023 |language=id |archive-date=11 July 2023 |archive-url=https://web.archive.org/web/20230711041831/https://www.liputan6.com/bisnis/read/5197525/anggaran-pemilu-serentak-2024-sebesar-rp-25-triliun-paling-besar-kpu |url-status=live }}</ref>",
                   "url": "https://www.liputan6.com/bisnis/read/5197525/anggaran-pemilu-serentak-2024-sebesar-rp-25-triliun-paling-besar-kpu",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Melihat Anggaran Pemilu 2024 yang Sentuh Rp71 T, Untuk Apa Saja? |url=https://www.cnnindonesia.com/ekonomi/20240212140908-532-1061479/melihat-anggaran-pemilu-2024-yang-sentuh-rp71-t-untuk-apa-saja |access-date=13 February 2024 |work=CNN Indonesia |date=12 February 2024 |language=id-ID |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213060928/https://www.cnnindonesia.com/ekonomi/20240212140908-532-1061479/melihat-anggaran-pemilu-2024-yang-sentuh-rp71-t-untuk-apa-saja |url-status=live }}</ref>",
                   "url": "https://www.cnnindonesia.com/ekonomi/20240212140908-532-1061479/melihat-anggaran-pemilu-2024-yang-sentuh-rp71-t-untuk-apa-saja",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last=Raharjo |first=Agus |date=18 September 2023 |title=Biaya Pilpres 2024 Putaran Kedua Rp 17 Triliun |url=https://news.republika.co.id/berita/s15spz436/biaya-pilpres-2024-putaran-kedua-rp-17-triliun |access-date=13 February 2024 |work=Republika |language=id |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213110814/https://news.republika.co.id/berita/s15spz436/biaya-pilpres-2024-putaran-kedua-rp-17-triliun |url-status=live }}</ref>",
                   "url": "https://news.republika.co.id/berita/s15spz436/biaya-pilpres-2024-putaran-kedua-rp-17-triliun",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -935,49 +935,49 @@
                 {
                   "text": "<ref>{{cite news |last=Faisal |first=Ahmad Dani |date=21 September 2023 |title=Jumlah Surat Suara yang Dicetak KPU RI pada Pemilu 2024 0 : Foto Okezone Infografis |url=https://infografis.okezone.com/detail/781010/jumlah-surat-suara-yang-dicetak-kpu-ri-pada-pemilu-2024 |access-date=13 February 2024 |work=Okezone.com |language=id-ID |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213060929/https://infografis.okezone.com/detail/781010/jumlah-surat-suara-yang-dicetak-kpu-ri-pada-pemilu-2024 |url-status=live }}</ref>",
                   "url": "https://infografis.okezone.com/detail/781010/jumlah-surat-suara-yang-dicetak-kpu-ri-pada-pemilu-2024",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last=Satryo |first=Ahmad |date=27 February 2023 |title=Ketua KPU RI: Anggaran Cetak Surat Suara Pemilu dengan Sistem Terbuka Rp 803 Miliar |language=id |work=rmol.id |editor-last=Tranggana |editor-first=Angga Ulung |url=https://politik.rmol.id/read/2023/02/27/564979/ketua-kpu-ri-anggaran-cetak-surat-suara-pemilu-dengan-sistem-terbuka-rp-803-miliar |access-date=11 July 2023 |archive-date=11 July 2023 |archive-url=https://web.archive.org/web/20230711072109/https://politik.rmol.id/read/2023/02/27/564979/ketua-kpu-ri-anggaran-cetak-surat-suara-pemilu-dengan-sistem-terbuka-rp-803-miliar |url-status=live }}</ref>",
                   "url": "https://politik.rmol.id/read/2023/02/27/564979/ketua-kpu-ri-anggaran-cetak-surat-suara-pemilu-dengan-sistem-terbuka-rp-803-miliar",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Rahim |first1=Annisa Aulia |title=KPU: Surat Suara Mulai Dicetak 10 November |url=https://news.detik.com/pemilu/d-7010611/kpu-surat-suara-mulai-dicetak-10-november |access-date=13 February 2024 |work=detiknews |date=30 October 2023 |language=id-ID |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213055524/https://news.detik.com/pemilu/d-7010611/kpu-surat-suara-mulai-dicetak-10-november |url-status=live }}</ref>",
                   "url": "https://news.detik.com/pemilu/d-7010611/kpu-surat-suara-mulai-dicetak-10-november",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=KPU Targetkan Hari Ini Logistik Sampai ke TPS |url=https://www.kompas.id/baca/polhuk/2024/02/12/kpu-targetkan-hari-ini-logistik-sampai-ke-tps |access-date=13 February 2024 |work=Kompas |date=12 February 2024 |language=id |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213055525/https://www.kompas.id/baca/polhuk/2024/02/12/kpu-targetkan-hari-ini-logistik-sampai-ke-tps |url-status=live }}</ref>",
                   "url": "https://www.kompas.id/baca/polhuk/2024/02/12/kpu-targetkan-hari-ini-logistik-sampai-ke-tps",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last=Teresia |first=Ananda |date=13 February 2024 |title=On eve of Indonesia vote, defence minister ahead despite protests |url=https://www.reuters.com/world/asia-pacific/indonesia-final-stretch-ahead-worlds-biggest-single-day-election-2024-02-13/ |access-date=13 February 2024 |work=Reuters}}</ref>",
                   "url": "https://www.reuters.com/world/asia-pacific/indonesia-final-stretch-ahead-worlds-biggest-single-day-election-2024-02-13/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Pemilu 2024, KPU Rancang 1 TPS Maksimal 300 Pemilih |url=https://nasional.kompas.com/read/2022/10/03/13554881/pemilu-2024-kpu-rancang-1-tps-maksimal-300-pemilih |access-date=18 February 2024 |work=KOMPAS.com |date=3 October 2022 |language=id |archive-date=18 February 2024 |archive-url=https://web.archive.org/web/20240218113143/https://nasional.kompas.com/read/2022/10/03/13554881/pemilu-2024-kpu-rancang-1-tps-maksimal-300-pemilih |url-status=live }}</ref>",
                   "url": "https://nasional.kompas.com/read/2022/10/03/13554881/pemilu-2024-kpu-rancang-1-tps-maksimal-300-pemilih",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Wibawana |first1=Widhia Arum |title=Berapa Jumlah Bilik Suara Per TPS di Pemilu 2024? Simak Infonya |url=https://news.detik.com/pemilu/d-7170015/berapa-jumlah-bilik-suara-per-tps-di-pemilu-2024-simak-infonya |access-date=18 February 2024 |work=detiknews |date=31 January 2024 |language=id-ID |archive-date=18 February 2024 |archive-url=https://web.archive.org/web/20240218120148/https://news.detik.com/pemilu/d-7170015/berapa-jumlah-bilik-suara-per-tps-di-pemilu-2024-simak-infonya |url-status=live }}</ref>",
                   "url": "https://news.detik.com/pemilu/d-7170015/berapa-jumlah-bilik-suara-per-tps-di-pemilu-2024-simak-infonya",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -990,43 +990,43 @@
                 {
                   "text": "<ref>{{cite news |last=Singgih |first=Viriya |date=12 February 2024 |title=Pemilu 2024: Bagaimana melindungi kesehatan petugas KPPS agar pemilu 2024 tak jadi 'kuburan massal' lagi |url=https://www.bbc.com/indonesia/articles/cl4xdpklj31o |access-date=13 February 2024 |work=BBC News Indonesia |language=id |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213055041/https://www.bbc.com/indonesia/articles/cl4xdpklj31o |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/indonesia/articles/cl4xdpklj31o",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last=Ibnu |first=Farhan |date=6 December 2023 |editor-last=Irawan |editor-first=Iwan Bagus |title=Ini Tugas Anggota KPPS 1 sampai 7 dalam Pemilu |url=https://www.rri.co.id/pemilu/472132/ini-tugas-anggota-kpps-1-sampai-7-dalam-pemilu |access-date=13 February 2024 |work=Radio Republik Indonesia |language=id}}</ref>",
                   "url": "https://www.rri.co.id/pemilu/472132/ini-tugas-anggota-kpps-1-sampai-7-dalam-pemilu",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last=Ibnu |first=Farhan |date=31 January 2024 |editor-last=Irawan |editor-first=Iwan Bagus |title=Rincian Gaji KPPS 2024 Terbaru dan Tugasnya |url=https://www.rri.co.id/pemilu/539044/rincian-gaji-kpps-2024-terbaru-dan-tugasnya |access-date=13 February 2024 |work=Radio Republik Indonesia |language=id}}</ref>",
                   "url": "https://www.rri.co.id/pemilu/539044/rincian-gaji-kpps-2024-terbaru-dan-tugasnya",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Wibawana |first1=Widhia Arum |title=Tata Cara dan Jadwal Rekapitulasi Hasil Penghitungan Suara |url=https://news.detik.com/pemilu/d-7190254/tata-cara-dan-jadwal-rekapitulasi-hasil-penghitungan-suara |access-date=13 February 2024 |work=detiknews |date=13 February 2024 |language=id-ID |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213091721/https://news.detik.com/pemilu/d-7190254/tata-cara-dan-jadwal-rekapitulasi-hasil-penghitungan-suara |url-status=live }}</ref>",
                   "url": "https://news.detik.com/pemilu/d-7190254/tata-cara-dan-jadwal-rekapitulasi-hasil-penghitungan-suara",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Nababan |first1=Willy Medi Christian |title=Sedikitnya Bakal Ada 4,8 Juta Saksi dari Timses di Seluruh TPS |url=https://www.kompas.id/baca/polhuk/2024/02/12/sedikitnya-bakal-ada-48-juta-saksi-dari-timses-di-tps |access-date=13 February 2024 |work=Kompas |date=12 February 2024 |language=id |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213094042/https://www.kompas.id/baca/polhuk/2024/02/12/sedikitnya-bakal-ada-48-juta-saksi-dari-timses-di-tps |url-status=live }}</ref>",
                   "url": "https://www.kompas.id/baca/polhuk/2024/02/12/sedikitnya-bakal-ada-48-juta-saksi-dari-timses-di-tps",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-03-19 |title=Nearly 5,000 Police Officers will Secure Vote Count until Election Results Announced |url=https://en.tempo.co/read/1846824/nearly-5000-police-officers-will-secure-vote-count-until-election-results-announced |access-date=2024-03-19 |website=Tempo |language=en |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319144900/https://en.tempo.co/read/1846824/nearly-5000-police-officers-will-secure-vote-count-until-election-results-announced |url-status=live }}</ref>",
                   "url": "https://en.tempo.co/read/1846824/nearly-5000-police-officers-will-secure-vote-count-until-election-results-announced",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
                   "type": "web"
                 }
               ]
@@ -1046,35 +1046,35 @@
                     {
                       "text": "<ref>{{cite news |last=Suwandi |first=Dhias |date=13 February 2024 |editor-last=Hartik |editor-first=Andi |title=Massa Bakar Kotak dan Surat Suara Pemilu 2024 di Paniai |url=https://regional.kompas.com/read/2024/02/13/100029578/massa-bakar-kotak-dan-surat-suara-pemilu-2024-di-paniai |access-date=13 February 2024 |work=KOMPAS.com |language=id |archive-date=13 February 2024 |archive-url=https://web.archive.org/web/20240213035117/https://regional.kompas.com/read/2024/02/13/100029578/massa-bakar-kotak-dan-surat-suara-pemilu-2024-di-paniai |url-status=live }}</ref>",
                       "url": "https://regional.kompas.com/read/2024/02/13/100029578/massa-bakar-kotak-dan-surat-suara-pemilu-2024-di-paniai",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Nashr |first=Jamal Abdun |date=2024-02-12 |title=Terendam Banjir, 108 TPS di Demak Diusulkan Pemungutan Susulan |url=https://nasional.tempo.co/read/1832573/terendam-banjir-108-tps-di-demak-diusulkan-pemungutan-susulan |access-date=2024-02-14 |website=Tempo |language=id |archive-date=14 February 2024 |archive-url=https://web.archive.org/web/20240214103641/https://nasional.tempo.co/read/1832573/terendam-banjir-108-tps-di-demak-diusulkan-pemungutan-susulan |url-status=live }}</ref>",
                       "url": "https://nasional.tempo.co/read/1832573/terendam-banjir-108-tps-di-demak-diusulkan-pemungutan-susulan",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"rfi\"/> Voting was also postponed in some polling stations in South Tangerang due to flooding.<ref>{{cite news |last=Iqbal |first=Muhammad |date=14 February 2024 |editor-last=Dewi |editor-first=Clara Maria Tjandra |title=Banjir Rendam TPS di Kompleks Maharta Tangsel, Pencoblosan di Beberapa Lokasi Ditunda |url=https://en.tempo.co/read/1833395/election-day-polling-places-in-south-tangerang-moved-due-to-flooding |access-date=14 February 2024 |work=Tempo |language=en |archive-date=14 February 2024 |archive-url=https://web.archive.org/web/20240214083649/https://en.tempo.co/read/1833395/election-day-polling-places-in-south-tangerang-moved-due-to-flooding |url-status=live }}</ref>",
                       "url": "https://en.tempo.co/read/1833395/election-day-polling-places-in-south-tangerang-moved-due-to-flooding",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Saputra |first=Dany |date=2024-02-14 |title=TPS dan Logistik Terdampak Banjir Warnai Pemilu 2024 |url=https://kabar24.bisnis.com/read/20240214/15/1740970/tps-dan-logistik-terdampak-banjir-warnai-pemilu-2024 |access-date=2024-02-14 |website=kabar24.bisnis.com |language=en |archive-date=14 February 2024 |archive-url=https://web.archive.org/web/20240214121721/https://kabar24.bisnis.com/read/20240214/15/1740970/tps-dan-logistik-terdampak-banjir-warnai-pemilu-2024 |url-status=live }}</ref>",
                       "url": "https://kabar24.bisnis.com/read/20240214/15/1740970/tps-dan-logistik-terdampak-banjir-warnai-pemilu-2024",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"bawasluissues\"/> In Western New Guinea, polls were not held in 1,297 polling stations in Central Papua, Highland Papua and Papua Provinces due to problems related to logistics and social tensions revolving around the local noken system, in which a designated representative casts votes on behalf of a group.<ref>{{Cite web |date=2024-02-15 |title=Police: 1,297 Polling Stations in Papua Yet to Conduct Voting |url=https://en.tempo.co/read/1833753/police-1297-polling-stations-in-papua-yet-to-conduct-voting |access-date=2024-02-15 |website=Tempo |language=en |archive-date=15 February 2024 |archive-url=https://web.archive.org/web/20240215144824/https://en.tempo.co/read/1833753/police-1297-polling-stations-in-papua-yet-to-conduct-voting |url-status=live }}</ref>",
                       "url": "https://en.tempo.co/read/1833753/police-1297-polling-stations-in-papua-yet-to-conduct-voting",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1087,35 +1087,35 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-02-15 |title=Polling Stations in West Java's Cimahi to Hold Follow-Up Election Over Empty Ballot Box |url=https://en.tempo.co/read/1833568/polling-stations-in-west-javas-cimahi-to-hold-follow-up-election-over-empty-ballot-box |access-date=2024-02-15 |website=Tempo |language=en |archive-date=15 February 2024 |archive-url=https://web.archive.org/web/20240215145141/https://en.tempo.co/read/1833568/polling-stations-in-west-javas-cimahi-to-hold-follow-up-election-over-empty-ballot-box |url-status=live }}</ref>",
                       "url": "https://en.tempo.co/read/1833568/polling-stations-in-west-javas-cimahi-to-hold-follow-up-election-over-empty-ballot-box",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-02-15 |title=Bawaslu Confirms Rigged Ballot Papers in Bogor |url=https://en.tempo.co/read/1833531/bawaslu-confirms-rigged-ballot-papers-in-bogor |access-date=2024-02-15 |website=Tempo |language=en |archive-date=14 February 2024 |archive-url=https://web.archive.org/web/20240214172002/https://en.tempo.co/read/1833531/bawaslu-confirms-rigged-ballot-papers-in-bogor |url-status=live }}</ref>",
                       "url": "https://en.tempo.co/read/1833531/bawaslu-confirms-rigged-ballot-papers-in-bogor",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-02-15 |title=Bawaslu Recommends a Re-vote in Kuala Lumpur |url=https://en.tempo.co/read/1833674/bawaslu-recommends-a-re-vote-in-kuala-lumpur |access-date=2024-02-15 |website=Tempo |language=en |archive-date=15 February 2024 |archive-url=https://web.archive.org/web/20240215145137/https://en.tempo.co/read/1833674/bawaslu-recommends-a-re-vote-in-kuala-lumpur |url-status=live }}</ref>",
                       "url": "https://en.tempo.co/read/1833674/bawaslu-recommends-a-re-vote-in-kuala-lumpur",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-02-27 |title=Bawaslu Investigates Allegations of Buying Ballots in Malaysia |url=https://en.tempo.co/read/1838205/bawaslu-investigates-allegations-of-buying-ballots-in-malaysia |access-date=2024-02-27 |website=Tempo |language=en |archive-date=27 February 2024 |archive-url=https://web.archive.org/web/20240227103205/https://en.tempo.co/read/1838205/bawaslu-investigates-allegations-of-buying-ballots-in-malaysia |url-status=live }}</ref>",
                       "url": "https://en.tempo.co/read/1838205/bawaslu-investigates-allegations-of-buying-ballots-in-malaysia",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-02-14 |title=Bawaslu records 1,200 violations during elections |url=https://en.antaranews.com/news/305982/bawaslu-records-1200-violations-during-elections?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right |access-date=2024-02-17 |website=Antara |language=en |archive-date=17 February 2024 |archive-url=https://web.archive.org/web/20240217053927/https://en.antaranews.com/news/305982/bawaslu-records-1200-violations-during-elections?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right |url-status=live }}</ref>",
                       "url": "https://en.antaranews.com/news/305982/bawaslu-records-1200-violations-during-elections?utm_source=antaranews&utm_medium=desktop&utm_campaign=popular_right",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1128,14 +1128,14 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-02-19 |title=Indonesia Election: 57 Poll Workers Died as of February 17, Health Ministry Says |url=https://en.tempo.co/read/1834978/indonesia-election-57-poll-workers-died-as-of-february-17-health-ministry-says |access-date=2024-02-19 |website=Tempo |language=en |archive-date=19 February 2024 |archive-url=https://web.archive.org/web/20240219130529/https://en.tempo.co/read/1834978/indonesia-election-57-poll-workers-died-as-of-february-17-health-ministry-says |url-status=live }}</ref>",
                       "url": "https://en.tempo.co/read/1834978/indonesia-election-57-poll-workers-died-as-of-february-17-health-ministry-says",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"bawasluissues\">{{Cite web |date=2024-02-15 |title=Bawaslu Finds 19 Election Issues on Voting, Vote Counting Process |url=https://en.tempo.co/read/1833903/bawaslu-finds-19-election-issues-on-voting-vote-counting-process?tracking_page_direct |access-date=2024-02-15 |website=Tempo |language=en |archive-date=15 February 2024 |archive-url=https://web.archive.org/web/20240215144825/https://en.tempo.co/read/1833903/bawaslu-finds-19-election-issues-on-voting-vote-counting-process?tracking_page_direct |url-status=live }}</ref>",
                       "url": "https://en.tempo.co/read/1833903/bawaslu-finds-19-election-issues-on-voting-vote-counting-process?tracking_page_direct",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1148,22 +1148,22 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-02-15 |title=Bawaslu Welcomes Anyone to Audit Sirekap Amid Mounting Pressure |url=https://en.tempo.co/read/1834374/bawaslu-welcomes-anyone-to-audit-sirekap-amid-mounting-pressure |access-date=2024-02-15 |website=Tempo |language=en |archive-date=17 February 2024 |archive-url=https://web.archive.org/web/20240217195145/https://en.tempo.co/read/1834374/bawaslu-welcomes-anyone-to-audit-sirekap-amid-mounting-pressure |url-status=live }}</ref>",
                       "url": "https://en.tempo.co/read/1834374/bawaslu-welcomes-anyone-to-audit-sirekap-amid-mounting-pressure",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=PDIP Resmi Tolak Sirekap dan Penundaan Rekapitulasi Kecamatan |url=https://www.cnnindonesia.com/nasional/20240221095059-617-1065316/pdip-resmi-tolak-sirekap-dan-penundaan-rekapitulasi-kecamatan |access-date=21 February 2024 |work=CNN Indonesia |date=21 February 2024 |language=id-ID |archive-date=21 February 2024 |archive-url=https://web.archive.org/web/20240221040715/https://www.cnnindonesia.com/nasional/20240221095059-617-1065316/pdip-resmi-tolak-sirekap-dan-penundaan-rekapitulasi-kecamatan |url-status=live }}</ref>",
                       "url": "https://www.cnnindonesia.com/nasional/20240221095059-617-1065316/pdip-resmi-tolak-sirekap-dan-penundaan-rekapitulasi-kecamatan",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Andryanto |first1=S. Dian |title=Ragam Alasan KPU Tunda Rekapitulasi Suara Pemilu 2024 |url=https://pemilu.tempo.co/read/1835291/ragam-alasan-kpu-tunda-rekapitulasi-suara-pemilu-2024 |access-date=21 February 2024 |work=Tempo |date=19 February 2024 |language=id |archive-date=21 February 2024 |archive-url=https://web.archive.org/web/20240221100057/https://pemilu.tempo.co/read/1835291/ragam-alasan-kpu-tunda-rekapitulasi-suara-pemilu-2024 |url-status=live }}</ref>",
                       "url": "https://pemilu.tempo.co/read/1835291/ragam-alasan-kpu-tunda-rekapitulasi-suara-pemilu-2024",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -1200,7 +1200,7 @@
                     {
                       "text": "<ref>{{cite news |title=Petahana Anggota DPR 2024-2029 |url=https://www.kompas.id/baca/kompas_multimedia/petahana-anggota-dpr-2024-2029 |access-date=3 October 2024 |work=Kompas |date=2 October 2024 |language=id}}</ref>",
                       "url": "https://www.kompas.id/baca/kompas_multimedia/petahana-anggota-dpr-2024-2029",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1256,8 +1256,8 @@
                     {
                       "text": "<ref>{{cite web |title=MK: Pimpinan DPRD Berdasar Perolehan Kursi Terbanyak Tidak Bertentangan dengan Konstitusi |url=https://www.mkri.id/index.php?page=web.Berita&id=10349&menu=2|publisher=Constitutional Court of Indonesia |access-date=2 May 2024 |language=id |date=5 November 2014}}</ref>",
                       "url": "https://www.mkri.id/index.php?page=web.Berita&id=10349&menu=2",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -1277,189 +1277,189 @@
                         {
                           "text": "<ref>{{cite news |title= DAFTAR 81 Nama Caleg Terpilih di DPRA Aceh Periode 2024-2029, Hasil Rekapitulasi Suara Pemilu 2024|url=https://pontianak.tribunnews.com/2024/03/14/daftar-81-nama-caleg-terpilih-di-dpra-aceh-periode-2024-2029-hasil-rekapitulasi-suara-pemilu-2024|website=tribunnews.com |archive-date=2024-03-16|archive-url=https://web.archive.org/web/20240316083348/https://pontianak.tribunnews.com/2024/03/14/daftar-81-nama-caleg-terpilih-di-dpra-aceh-periode-2024-2029-hasil-rekapitulasi-suara-pemilu-2024|url-status=live|language=id}}</ref>",
                           "url": "https://pontianak.tribunnews.com/2024/03/14/daftar-81-nama-caleg-terpilih-di-dpra-aceh-periode-2024-2029-hasil-rekapitulasi-suara-pemilu-2024",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title= Daftar 100 Anggota DPRD Sumut Terpilih Hasil Rekapitulasi KPU Provinsi|url=https://www.detik.com/sumut/berita/d-7242610/daftar-100-anggota-dprd-sumut-terpilih-hasil-rekapitulasi-kpu-provinsi|website=detik.com |archive-date=2024-03-15|archive-url=https://web.archive.org/web/20240315122741/https://www.detik.com/sumut/berita/d-7242610/daftar-100-anggota-dprd-sumut-terpilih-hasil-rekapitulasi-kpu-provinsi|url-status=live|language=id  }}</ref>",
                           "url": "https://www.detik.com/sumut/berita/d-7242610/daftar-100-anggota-dprd-sumut-terpilih-hasil-rekapitulasi-kpu-provinsi",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Yenti|first1= Juni Fitra|title= Daftar 65 Nama Anggota DPRD Sumbar Terpilih 2024-2029 Hasil Rekapitulasi KPU Provinsi|url=https://sumbarkita.id/daftar-65-nama-anggota-dprd-sumbar-terpilih-2024-2029-hasil-rekapitulasi-kpu-provinsi/|website=sumbarkita.id |archive-date=2024-03-16|archive-url=https://web.archive.org/web/20240316034246/https://sumbarkita.id/daftar-65-nama-anggota-dprd-sumbar-terpilih-2024-2029-hasil-rekapitulasi-kpu-provinsi/|url-status=live|language=id}}</ref>",
                           "url": "https://sumbarkita.id/daftar-65-nama-anggota-dprd-sumbar-terpilih-2024-2029-hasil-rekapitulasi-kpu-provinsi/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title= \nPleno KPU Riau, ini Daftar Anggota DPRD Riau Hasil Pileg 2024|url=https://riauterkini.com/index.php?com=isi&id_news=15115215427|website=riauterkini.com |archive-date=2024-03-15|archive-url=https://web.archive.org/web/20240315120408/https://riauterkini.com/index.php?com=isi&id_news=15115215427|url-status=live|language=id }}</ref>",
                           "url": "https://riauterkini.com/index.php?com=isi&id_news=15115215427",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Hakim |first1=Anil |title= Ini Daftar 55 Anggota DPRD Provinsi Jambi Terpilih Periode 2024-2029 dan Jumlah Perolehan Suara, Empat Orang Diantaranya Anak Kepala Daerah|url=https://www.metrojambi.com/politik/134440988/ini-daftar-55-anggota-dprd-provinsi-jambi-terpilih-periode-2024-2029-dan-jumlah-perolehan-suara-empat-orang-anak-kepala-daerah|website=metrojambi.com |archive-date=2024-03-15|archive-url=https://web.archive.org/web/20240315114212/https://www.metrojambi.com/politik/134440988/ini-daftar-55-anggota-dprd-provinsi-jambi-terpilih-periode-2024-2029-dan-jumlah-perolehan-suara-empat-orang-anak-kepala-daerah|url-status=live|language=id}}</ref>",
                           "url": "https://www.metrojambi.com/politik/134440988/ini-daftar-55-anggota-dprd-provinsi-jambi-terpilih-periode-2024-2029-dan-jumlah-perolehan-suara-empat-orang-anak-kepala-daerah",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Putra |first1=Roki Eka |title= Pleno KPU, Ini 45 Anggota DPRD Provinsi Bengkulu bakal Terpilih|url=https://www.rri.co.id/pemilu/587018/pleno-kpu-ini-45-anggota-dprd-provinsi-bengkulu-bakal-terpilih|website=rri.co.id |archive-date=2024-03-15|archive-url=https://web.archive.org/web/20240315114651/https://www.rri.co.id/pemilu/587018/pleno-kpu-ini-45-anggota-dprd-provinsi-bengkulu-bakal-terpilih|url-status=live|language=id}}</ref>",
                           "url": "https://www.rri.co.id/pemilu/587018/pleno-kpu-ini-45-anggota-dprd-provinsi-bengkulu-bakal-terpilih",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Romadon|title= Ini Daftar 75 Caleg DPRD Provinsi Sumsel Terpilih, Dari Anak Bupati Hingga Putri Eks Gubernur Sumsel|url=https://sumselupdate.com/ini-daftar-75-caleg-dprd-provinsi-sumsel-terpilih-dari-anak-bupati-hingga-putri-eks-gubernur-sumsel/|website=sumselupdate.com |archive-date=2024-03-16|archive-url=https://web.archive.org/web/20240316033505/https://sumselupdate.com/ini-daftar-75-caleg-dprd-provinsi-sumsel-terpilih-dari-anak-bupati-hingga-putri-eks-gubernur-sumsel/|url-status=live|language=id}}</ref>",
                           "url": "https://sumselupdate.com/ini-daftar-75-caleg-dprd-provinsi-sumsel-terpilih-dari-anak-bupati-hingga-putri-eks-gubernur-sumsel/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Hamapu |first1=Alumudin |title= Daftar 45 Caleg DPRD Provinsi Kepri Terpilih Hasil Rekapitulasi KPU|url=https://www.detik.com/sumut/berita/d-7233761/daftar-45-caleg-dprd-provinsi-kepri-terpilih-hasil-rekapitulasi-kpu|website=detik.com |archive-date=2024-03-15|archive-url=https://web.archive.org/web/20240315115100/https://www.detik.com/sumut/berita/d-7233761/daftar-45-caleg-dprd-provinsi-kepri-terpilih-hasil-rekapitulasi-kpu|url-status=live|language=id}}</ref>",
                           "url": "https://www.detik.com/sumut/berita/d-7233761/daftar-45-caleg-dprd-provinsi-kepri-terpilih-hasil-rekapitulasi-kpu",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title= PDI-P Masih Dominasi Kursi DPRD Bangka Belitung|url=https://regional.kompas.com/read/2024/03/19/140221978/pdi-p-masih-dominasi-kursi-dprd-bangka-belitung?page=1|website=kompas.com |archive-date=2024-03-20|archive-url=https://web.archive.org/web/20240320111933/https://regional.kompas.com/read/2024/03/19/140221978/pdi-p-masih-dominasi-kursi-dprd-bangka-belitung?page=3|url-status=live|language=id}}</ref>",
                           "url": "https://regional.kompas.com/read/2024/03/19/140221978/pdi-p-masih-dominasi-kursi-dprd-bangka-belitung?page=1",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Saputra |first1=Tommy |title=Gerindra Menang di Pileg DPRD Lampung, Raih 16 Kursi |url=https://www.detik.com/sumbagsel/berita/d-7233945/gerindra-menang-di-pileg-dprd-lampung-raih-16-kursi |access-date=2024-03-15 |website=detik.com |date=9 March 2024 |language=id |archive-date=10 March 2024 |archive-url=https://web.archive.org/web/20240310125208/https://www.detik.com/sumbagsel/berita/d-7233945/gerindra-menang-di-pileg-dprd-lampung-raih-16-kursi |url-status=live }}</ref>",
                           "url": "https://www.detik.com/sumbagsel/berita/d-7233945/gerindra-menang-di-pileg-dprd-lampung-raih-16-kursi",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news|date=15 March 2024|title=CATAT! 100 Caleg Terpilih DPRD Provinsi Banten Periode 2024-2029|language=id|work=bantenraya.com|url=https://www.bantenraya.com/daerah/12712158333/catat-100-caleg-terpilih-dprd-provinsi-banten-periode-2024-2029|access-date=2024-03-15|archive-date=2024-03-15|archive-url=https://web.archive.org/web/20240315113239/https://www.bantenraya.com/daerah/12712158333/catat-100-caleg-terpilih-dprd-provinsi-banten-periode-2024-2029|url-status=live}}</ref>",
                           "url": "https://www.bantenraya.com/daerah/12712158333/catat-100-caleg-terpilih-dprd-provinsi-banten-periode-2024-2029",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title= Geser PDIP, PKS Raih Kursi Terbanyak di DPRD DKI Periode 2024-2029|url=https://www.metrotvnews.com/read/NleCpp1Q-geser-pdip-pks-raih-kursi-terbanyak-di-dprd-dki-periode-2024-2029|website=metrotvnews.com |archive-date=2024-03-16|archive-url=https://web.archive.org/web/20240316135207/https://www.metrotvnews.com/read/NleCpp1Q-geser-pdip-pks-raih-kursi-terbanyak-di-dprd-dki-periode-2024-2029|url-status=live|language=id}}</ref>",
                           "url": "https://www.metrotvnews.com/read/NleCpp1Q-geser-pdip-pks-raih-kursi-terbanyak-di-dprd-dki-periode-2024-2029",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title=Menakar Pilgub Jabar, Ini Skenario Prediksi IPRC |url=https://www.rri.co.id/pilkada-2024/688253/menakar-pilgub-jabar-ini-skenario-prediksi-iprc |access-date=17 May 2024 |work=Radio Republik Indonesia |date=13 May 2024 |language=id}}</ref>",
                           "url": "https://www.rri.co.id/pilkada-2024/688253/menakar-pilgub-jabar-ini-skenario-prediksi-iprc",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title= Gedung DPRD Jateng Dikuasai PDIP, 33 Kader Duduk, Berikut 120 Nama Anggota Dewan Terpilih 2024|url=https://medan.tribunnews.com/2024/03/16/gedung-dprd-jateng-dikuasai-pdip-33-kader-duduk-berikut-120-nama-anggota-dewan-terpilih-2024|website=tribunnews.com |archive-date=2024-03-17|archive-url=https://web.archive.org/web/20240317050327/https://medan.tribunnews.com/2024/03/16/gedung-dprd-jateng-dikuasai-pdip-33-kader-duduk-berikut-120-nama-anggota-dewan-terpilih-2024|url-status=live|language=id}}</ref>",
                           "url": "https://medan.tribunnews.com/2024/03/16/gedung-dprd-jateng-dikuasai-pdip-33-kader-duduk-berikut-120-nama-anggota-dewan-terpilih-2024",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title= PDIP Kuasai Kursi DPRD DIY, Gerindra 8, PKS 7, & PSI 1 Kursi|url=https://tirto.id/pdip-kuasai-kursi-dprd-diy-gerindra-8-pks-7-psi-1-kursi-gWNl|website=tirto.id |archive-date=2024-03-16|archive-url=https://web.archive.org/web/20240316135821/https://tirto.id/pdip-kuasai-kursi-dprd-diy-gerindra-8-pks-7-psi-1-kursi-gWNl|url-status=live|language=id}}</ref>",
                           "url": "https://tirto.id/pdip-kuasai-kursi-dprd-diy-gerindra-8-pks-7-psi-1-kursi-gWNl",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title= \nRekapitulasi KPU Final, Berikut 120 Calon Anggota DPRD Jatim Terpilih 2024 - 2029|url=https://kominfo.jatimprov.go.id/berita/rekapitulasi-kpu-final-berikut-120-calon-anggota-dprd-jatim-terpilih-2024-2029|website=kominfo.jatimprov.go.id |archive-date=2024-03-15|archive-url=https://web.archive.org/web/20240315121654/https://kominfo.jatimprov.go.id/berita/rekapitulasi-kpu-final-berikut-120-calon-anggota-dprd-jatim-terpilih-2024-2029|url-status=live|language=id}}</ref>",
                           "url": "https://kominfo.jatimprov.go.id/berita/rekapitulasi-kpu-final-berikut-120-calon-anggota-dprd-jatim-terpilih-2024-2029",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Samudero |first1=Rizki Setyo |title=Ini Daftar 55 Anggota DPRD Bali 2024-2029, PDIP Masih Mendominasi |url=https://www.detik.com/bali/berita/d-7234612/ini-daftar-55-anggota-dprd-bali-2024-2029-pdip-masih-mendominasi |access-date=2024-03-15 |website=detik.com |date=10 March 2024 |language=id |archive-date=10 March 2024 |archive-url=https://web.archive.org/web/20240310111025/https://www.detik.com/bali/berita/d-7234612/ini-daftar-55-anggota-dprd-bali-2024-2029-pdip-masih-mendominasi |url-status=live }}</ref>",
                           "url": "https://www.detik.com/bali/berita/d-7234612/ini-daftar-55-anggota-dprd-bali-2024-2029-pdip-masih-mendominasi",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Akbar |first1=Helmy |title=65 Caleg Terpilih DPRD NTB 2024-2029 |url=https://www.detik.com/bali/nusra/d-7238646/65-caleg-terpilih-dprd-ntb-2024-2029 |access-date=2024-03-15 |website=detik.com |date=13 March 2024 |language=id |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315104656/https://www.detik.com/bali/nusra/d-7238646/65-caleg-terpilih-dprd-ntb-2024-2029 |url-status=live }}</ref>",
                           "url": "https://www.detik.com/bali/nusra/d-7238646/65-caleg-terpilih-dprd-ntb-2024-2029",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Nedabang |first1=Alfons |title=65 Anggota DPRD NTT Hasil Pemilu 2024, PDIP Golkar Gerindra 9 Kursi, 26 Wajah Baru dan 15 Srikandi |url=https://kupang.tribunnews.com/2024/03/12/65-anggota-dprd-ntt-hasil-pemilu-2024-pdip-golkar-gerindra-9-kursi-26-wajah-baru-dan-15-srikandi |access-date=2024-03-15 |website=kupang.tribunnews.com |date=12 March 2024 |language=id |archive-date=12 March 2024 |archive-url=https://web.archive.org/web/20240312171120/https://kupang.tribunnews.com/2024/03/12/65-anggota-dprd-ntt-hasil-pemilu-2024-pdip-golkar-gerindra-9-kursi-26-wajah-baru-dan-15-srikandi |url-status=live }}</ref>",
                           "url": "https://kupang.tribunnews.com/2024/03/12/65-anggota-dprd-ntt-hasil-pemilu-2024-pdip-golkar-gerindra-9-kursi-26-wajah-baru-dan-15-srikandi",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title= Daftar 65 Calon Anggota DPRD Provinsi Kalimantan Barat Terpilih 2024-2029|url=https://pontianak.tribunnews.com/2024/03/14/daftar-65-calon-anggota-dprd-provinsi-kalimantan-barat-terpilih-2024-2029|website=detik.com |archive-date=2024-03-15|archive-url=https://web.archive.org/web/20240315140918/https://pontianak.tribunnews.com/2024/03/14/daftar-65-calon-anggota-dprd-provinsi-kalimantan-barat-terpilih-2024-2029|url-status=live|language=id }}</ref>",
                           "url": "https://pontianak.tribunnews.com/2024/03/14/daftar-65-calon-anggota-dprd-provinsi-kalimantan-barat-terpilih-2024-2029",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Haryanto |title= \n29 Wajah Baru Duduki Kursi DPRD Kalteng, Berikut Daftar Nama Lengkap Caleg Terpilih Hasil Pileg 2024|url=https://kalteng.tribunnews.com/2024/03/08/29-wajah-baru-duduki-kursi-dprd-kalteng-berikut-daftar-nama-lengkap-caleg-terpilih-hasil-pileg-2024|website=kalteng.tribunnews.com |archive-date=2024-03-16|archive-url=https://web.archive.org/web/20240316032921/https://kalteng.tribunnews.com/2024/03/08/29-wajah-baru-duduki-kursi-dprd-kalteng-berikut-daftar-nama-lengkap-caleg-terpilih-hasil-pileg-2024|url-status=live|language=id }}</ref>",
                           "url": "https://kalteng.tribunnews.com/2024/03/08/29-wajah-baru-duduki-kursi-dprd-kalteng-berikut-daftar-nama-lengkap-caleg-terpilih-hasil-pileg-2024",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Madrosid |title=DAFTAR Nama 55 Caleg Terpilih DPRD Kalsel Periode 2024-2029, Hasil Rapat Pleno Propinsi Pemilu 2024 |url=https://pontianak.tribunnews.com/2024/03/09/daftar-nama-55-caleg-terpilih-dprd-kalsel-periode-2024-2029-hasil-rapat-pleno-propinsi-pemilu-2024 |access-date=2024-03-15 |website=pontianak.tribunnews.com |date=9 March 2024 |language=id |archive-date=9 March 2024 |archive-url=https://web.archive.org/web/20240309071742/https://pontianak.tribunnews.com/2024/03/09/daftar-nama-55-caleg-terpilih-dprd-kalsel-periode-2024-2029-hasil-rapat-pleno-propinsi-pemilu-2024/ |url-status=live }}</ref>",
                           "url": "https://pontianak.tribunnews.com/2024/03/09/daftar-nama-55-caleg-terpilih-dprd-kalsel-periode-2024-2029-hasil-rapat-pleno-propinsi-pemilu-2024",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title=Peraih Kursi DPRD Kaltim Periode 2024-2029|url=https://beritakaltim.co/2024/03/11/peraih-kursi-dprd-kaltim-periode-2024-2029/|access-date=2024-03-16 |website=beritakaltim.co |language=id |archive-date=16 March 2024 |archive-url=https://web.archive.org/web/20240316140848/https://beritakaltim.co/2024/03/11/peraih-kursi-dprd-kaltim-periode-2024-2029/|url-status=live }}</ref>",
                           "url": "https://beritakaltim.co/2024/03/11/peraih-kursi-dprd-kaltim-periode-2024-2029/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title=Peta Hasil Pemilu Kaltara|url=https://korankaltara.com/peta-hasil-pemilu-kaltara|website=korankaltara.com |language=id |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317051054/https://korankaltara.com/peta-hasil-pemilu-kaltara}}</ref>",
                           "url": "https://korankaltara.com/peta-hasil-pemilu-kaltara",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Alim |first1=Sahrul |title= Daftar 85 Caleg DPRD Sulawesi Selatan Terpilih, NasDem 'Panen' 17 Kursi |url=https://www.detik.com/sulsel/berita/d-7237936/daftar-85-caleg-dprd-sulawesi-selatan-2024-terpilih-NasDem-panen-17-kursi |access-date=2024-03-15 |website=detik.com|archive-date=2024-03-17|archive-url=https://web.archive.org/web/20240317014317/https://www.detik.com/sulsel/berita/d-7237936/daftar-85-caleg-dprd-sulawesi-selatan-2024-terpilih-NasDem-panen-17-kursi|url-status=live|language=id}}</ref>",
-                          "url": "https://www.detik.com/sulsel/berita/d-7237936/daftar-85-caleg-dprd-sulawesi-selatan-2024-terpilih-NasDem-panen-17-kursi",
-                          "status_code": null,
+                          "url": "https://www.detik.com/sulsel/berita/d-7237936/daftar-85-caleg-dprd-sulawesi-selatan-2024-terpilih-nasdem-panen-17-kursi",
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Syah |first1=Adrian |title=Ini Daftar Nama dan Perolehan Suara 45 Anggota DPRD Sulbar Terpilih Periode 2024-2029 |url=https://sulbaronline.com/2024/03/ini-daftar-dan-perolehan-suara-45-anggota-dprd-sulbar-terpilih-periode-2024-2029/ |access-date=2024-03-15 |website=sulbaronline.com |date=12 March 2024 |language=id |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315075735/https://sulbaronline.com/2024/03/ini-daftar-dan-perolehan-suara-45-anggota-dprd-sulbar-terpilih-periode-2024-2029/ |url-status=live }}</ref>",
                           "url": "https://sulbaronline.com/2024/03/ini-daftar-dan-perolehan-suara-45-anggota-dprd-sulbar-terpilih-periode-2024-2029/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 404,
+                          "reason": "Not Found",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Admin HS |title=45 Anggota DPRD Provinsi Terpilih 2024-2029, NasDem Rebut Ketua DPRD |url=https://haluansultra.id/2024/03/13/45-anggota-dprd-provinsi-terpilih-2024-2029-NasDem-rebut-ketua-dprd/ |access-date=2024-03-15 |website=haluansultra.id |date=13 March 2024 |language=id |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315104649/https://haluansultra.id/2024/03/13/45-anggota-dprd-provinsi-terpilih-2024-2029-NasDem-rebut-ketua-dprd/ |url-status=live }}</ref>",
                           "url": "https://haluansultra.id/2024/03/13/45-anggota-dprd-provinsi-terpilih-2024-2029-NasDem-rebut-ketua-dprd/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
@@ -1467,76 +1467,76 @@
                           "text": "<ref>{{cite news |last1=Towengke|first1=Simson |title=Hasil Pleno KPU, Berikut 55 Caleg DPRD Sulteng Dipastikan Lolos|url=https://www.posoline.com/hasil-pleno-kpu-berikut-55-caleg-dprd-sulteng-dipastikan-lolos/|website=posoonline.com |date=14 March 2024 |language=id |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317051514/https://www.posoline.com/hasil-pleno-kpu-berikut-55-caleg-dprd-sulteng-dipastikan-lolos/|url-status=live }}</ref>",
                           "url": "https://www.posoline.com/hasil-pleno-kpu-berikut-55-caleg-dprd-sulteng-dipastikan-lolos/",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Timeout",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Satia |title=Daftar 45 Nama Anggota DPRD Gorontalo Periode 2024-2029, Banyak Pendatang Baru, Golkar 9 Kursi\n|url=https://medan.tribunnews.com/2024/03/12/daftar-45-nama-anggota-dprd-gorontalo-periode-2024-2029-banyak-pendatang-baru-golkar-9-kursi?page=4|website=tribunnews.com |date=12 March 2024 |language=id |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317053332/https://medan.tribunnews.com/2024/03/12/daftar-45-nama-anggota-dprd-gorontalo-periode-2024-2029-banyak-pendatang-baru-golkar-9-kursi|url-status=live}}</ref>",
                           "url": "https://medan.tribunnews.com/2024/03/12/daftar-45-nama-anggota-dprd-gorontalo-periode-2024-2029-banyak-pendatang-baru-golkar-9-kursi?page=4",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Licin |first1=Arham |title=Pleno KPU Berakhir, Berikut Daftar Anggota DPRD Provinsi Sulawesi Utara Periode 2024-2029 |url=https://journaltelegraf.pikiran-rakyat.com/politik-parlemen/pr-3677824477/pleno-kpu-berakhir-berikut-daftar-anggota-dprd-provinsi-sulawesi-utara-periode-2024-2029?page=all |access-date=2024-03-15 |website=journaltelegraf.pikiran-rakyat.com |date=11 March 2024 |language=id |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315075732/https://journaltelegraf.pikiran-rakyat.com/politik-parlemen/pr-3677824477/pleno-kpu-berakhir-berikut-daftar-anggota-dprd-provinsi-sulawesi-utara-periode-2024-2029?page=all |url-status=live }}</ref>",
                           "url": "https://journaltelegraf.pikiran-rakyat.com/politik-parlemen/pr-3677824477/pleno-kpu-berakhir-berikut-daftar-anggota-dprd-provinsi-sulawesi-utara-periode-2024-2029?page=all",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Sardi |first1=Sansul |title= Daftar Lengkap 45 Anggota DPRD Maluku Utara Periode 2024-2029 Terpilih, Golkar Dominan|url=https://ternate.tribunnews.com/2024/03/12/daftar-lengkap-45-anggota-dprd-maluku-utara-periode-2024-2029-terpilih-golkar-dominan|access-date=2024-03-15 |website=ternate.tribunnews.com |archive-date=2024-03-17|archive-url=https://web.archive.org/web/20240317014328/https://ternate.tribunnews.com/2024/03/12/daftar-lengkap-45-anggota-dprd-maluku-utara-periode-2024-2029-terpilih-golkar-dominan|url-status=live|language=id}}</ref>",
                           "url": "https://ternate.tribunnews.com/2024/03/12/daftar-lengkap-45-anggota-dprd-maluku-utara-periode-2024-2029-terpilih-golkar-dominan",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title= KPU Tetapkan 45 Nama Caleg DPRD Provinsi Maluku Terpilih\n|url=https://ambon.tribunnews.com/2024/03/19/kpu-tetapkan-45-nama-caleg-dprd-provinsi-maluku-terpilih|website=tribunnews.com |archive-date=2024-03-19|archive-url=https://web.archive.org/web/20240319043838/https://ambon.tribunnews.com/2024/03/19/kpu-tetapkan-45-nama-caleg-dprd-provinsi-maluku-terpilih|url-status=live|language=id}}</ref>",
                           "url": "https://ambon.tribunnews.com/2024/03/19/kpu-tetapkan-45-nama-caleg-dprd-provinsi-maluku-terpilih",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Weking |first1=Fransiskus Salu |title= KPU Papua Barat umumkan 35 calon anggota DPRD provinsi terpilih|url=https://papuabarat.antaranews.com/berita/41046/kpu-papua-barat-umumkan-35-calon-anggota-dprd-provinsi-terpilih|website=papuabarat.antaranews.com |archive-date=2024-03-15|archive-url=https://web.archive.org/web/20240315115801/https://papuabarat.antaranews.com/berita/41046/kpu-papua-barat-umumkan-35-calon-anggota-dprd-provinsi-terpilih|url-status=live|language=id}}</ref>",
                           "url": "https://papuabarat.antaranews.com/berita/41046/kpu-papua-barat-umumkan-35-calon-anggota-dprd-provinsi-terpilih",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite web |url=https://jdih.kpu.go.id/data/data_kepkpu/2024kpt360_L5.33Papua.pdf |title=Keputusan KPU Provinsi Papua Nomor 78 Tahun 2024 tentang Penetapan Hasil Pemilihan Umum Anggota Dewan Perwakilan Rakyat Papua Tahun 2024 |publisher=KPU RI |language=id |access-date=5 April 2024 |archive-date=27 March 2024 |archive-url=https://web.archive.org/web/20240327110410/https://jdih.kpu.go.id/data/data_kepkpu/2024kpt360_L5.33Papua.pdf |url-status=live }}</ref>",
                           "url": "https://jdih.kpu.go.id/data/data_kepkpu/2024kpt360_L5.33Papua.pdf",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{cite web |url=https://jdih.kpu.go.id/data/data_kepkpu/2024kpt360_L5.36Pateng.pdf |title=Keputusan KPU Provinsi Papua Tengah Nomor 37 Tahun 2024 tentang Penetapan Hasil Pemilihan Umum Anggota Dewan Perwakilan Rakyat Papua Tengah Tahun 2024 |publisher=KPU RI |language=id |access-date=5 April 2024 |archive-date=26 March 2024 |archive-url=https://web.archive.org/web/20240326084430/https://jdih.kpu.go.id/data/data_kepkpu/2024kpt360_L5.36Pateng.pdf |url-status=live }}</ref>",
                           "url": "https://jdih.kpu.go.id/data/data_kepkpu/2024kpt360_L5.36Pateng.pdf",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{cite web |url=https://jdih.kpu.go.id/data/data_kepkpu/2024kpt360_L5.37PapuaPegunungan.pdf |title=Keputusan KPU Provinsi Papua Pegunungan Nomor 6 Tahun 2024 tentang Penetapan Hasil Pemilihan Umum Anggota Dewan Perwakilan Rakyat Daerah Provinsi Papua Pegunungan Tahun 2024 |publisher=KPU RI |language=id |access-date=5 April 2024 |archive-date=25 March 2024 |archive-url=https://web.archive.org/web/20240325132551/https://jdih.kpu.go.id/data/data_kepkpu/2024kpt360_L5.37PapuaPegunungan.pdf |url-status=live }}</ref>",
                           "url": "https://jdih.kpu.go.id/data/data_kepkpu/2024kpt360_L5.37PapuaPegunungan.pdf",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{cite news |title= KPU Tetapkan 35 Legislator DPR PBD Periode 2024-2029, Ini Daftar Lengkapnya|url=https://koreri.com/2024/03/17/kpu-tetapkan-35-legislator-dpr-pbd-periode-2024-2029-ini-daftar-lengkapnya/|website=koreri.com |archive-date=2024-03-18|archive-url=https://web.archive.org/web/20240318094701/https://koreri.com/2024/03/17/kpu-tetapkan-35-legislator-dpr-pbd-periode-2024-2029-ini-daftar-lengkapnya/|url-status=live|language=id}}</ref>",
                           "url": "https://koreri.com/2024/03/17/kpu-tetapkan-35-legislator-dpr-pbd-periode-2024-2029-ini-daftar-lengkapnya/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title=11 Parpol tempati DPR Papsel, PDIP diprediksi pegang palu|url=https://jubi.id/pemilu/2024/11-parpol-tempati-dpr-papsel-pdip-diprediksi-pegang-palu/|access-date=2024-03-17 |website=jubi.id |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317055531/https://jubi.id/pemilu/2024/11-parpol-tempati-dpr-papsel-pdip-diprediksi-pegang-palu/|url-status=live|language=id }}</ref>",
                           "url": "https://jubi.id/pemilu/2024/11-parpol-tempati-dpr-papsel-pdip-diprediksi-pegang-palu/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }

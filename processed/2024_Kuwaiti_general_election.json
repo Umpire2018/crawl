@@ -14,21 +14,21 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-02-28 |title=Kuwait to hold snap parliamentary elections on April 4 |url=https://www.thenationalnews.com/gulf-news/2024/02/28/kuwait-to-hold-snap-parliamentary-elections-on-april-4/ |access-date=2024-03-15 |website=The National |language=en}}</ref>",
                   "url": "https://www.thenationalnews.com/gulf-news/2024/02/28/kuwait-to-hold-snap-parliamentary-elections-on-april-4/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-02-27 |title=Kuwait to hold polls April 4 |url=https://kuwaittimes.com/article/11541/kuwait/politics/kuwait-to-hold-polls-april-4/ |access-date=2024-03-15 |website=kuwaittimes |language=en}}</ref>",
                   "url": "https://kuwaittimes.com/article/11541/kuwait/politics/kuwait-to-hold-polls-april-4/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Kuwait to hold parliamentary elections on April 4, latest round of voting in years of turmoil |url=https://apnews.com/article/kuwait-national-assembly-election-277264f1fc0ac0c6e2a4f8a441651c7d |access-date=2024-03-15 |website=Associated Press |date=3 March 2024 |language=en}}</ref>",
                   "url": "https://apnews.com/article/kuwait-national-assembly-election-277264f1fc0ac0c6e2a4f8a441651c7d",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -58,7 +58,7 @@
                 {
                   "text": "<ref>{{Cite web |title=Kuwait polls: Opposition makes gains, gov't resignation accepted |url=https://www.aljazeera.com/news/2020/12/6/kuwait-opposition-makes-strong-gains-in-parliamentary-elections |access-date=2023-05-24 |website=Al Jazeera|language=en}}</ref>",
                   "url": "https://www.aljazeera.com/news/2020/12/6/kuwait-opposition-makes-strong-gains-in-parliamentary-elections",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -78,8 +78,8 @@
                   "references": [
                     {
                       "text": "<ref>{{cite web | url=https://www.alqabas.com/article/237118-مجلس-الأمة-أقر-الدوائر-الخمس-ب60-صوتا-مق | title=مجلس الأمة: أقر 'الدوائر الخمس' ب60 صوتا مقابل اثنين }}</ref>",
-                      "url": "https://www.alqabas.com/article/237118-مجلس-الأمة-أقر-الدوائر-الخمس-ب60-صوتا-مق",
-                      "status_code": null,
+                      "url": "https://www.alqabas.com/article/237118-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D8%A9-%D8%A3%D9%82%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%AE%D9%85%D8%B3-%D8%A860-%D8%B5%D9%88%D8%AA%D8%A7-%D9%85%D9%82/",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -92,7 +92,7 @@
                     {
                       "text": "<ref>{{cite web | url=https://www.kuna.net.kw/ArticleDetails.aspx?id=3141855&language=ar | title=كونا : 834733 ناخبا وناخبة يحق لهم التصويت بانتخابات مجلس الأمة (أمة 2024) – برلمان – 13/03/2024 }}</ref>",
                       "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3141855&language=ar",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -116,8 +116,8 @@
               "references": [
                 {
                   "text": "<ref>{{cite web | url=https://alqabas.com/article/355417-قانون-حرمان-المسيء-في-سطور | title=قانون «حرمان المسيء» في سطور }}</ref>",
-                  "url": "https://alqabas.com/article/355417-قانون-حرمان-المسيء-في-سطور",
-                  "status_code": null,
+                  "url": "https://alqabas.com/article/355417-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%AD%D8%B1%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%A1-%D9%81%D9%8A-%D8%B3%D8%B7%D9%88%D8%B1/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -130,7 +130,7 @@
                 {
                   "text": "<ref>{{cite web | url=https://www.aljarida.com/article/56510/amp | title=255 مرشحاً يخوضون انتخابات «أمة 24» | date=13 March 2024 }}</ref>",
                   "url": "https://www.aljarida.com/article/56510/amp",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -160,8 +160,8 @@
                     {
                       "text": "<ref>{{cite web | url=https://kuwaitnews.com/78546/#:~:text=أعلن%20محمد%20جوهر%20حيات%20ترشحه,تهدد%20المواطن%20في%20مصالحه%20وأمواله | title=محمد جوهر حيات يترشح لانتخابات مجلس الأمة 2024 عن الدائرة الأولى | date=3 March 2024 }}</ref>",
                       "url": "https://kuwaitnews.com/78546/#:~:text=أعلن%20محمد%20جوهر%20حيات%20ترشحه,تهدد%20المواطن%20في%20مصالحه%20وأمواله",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 202,
+                      "reason": "Accepted",
                       "type": "web"
                     }
                   ]
@@ -192,7 +192,7 @@
                     {
                       "text": "<ref>{{cite web | url=https://www.alraimedia.com/ampArticle/1678231 | title=محمد المطر مرشحاً لـ«حدس» في الدائرة الأولى | date=28 February 2024 }}</ref>",
                       "url": "https://www.alraimedia.com/ampArticle/1678231",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -205,8 +205,8 @@
                     {
                       "text": "<ref>{{cite web | url=https://kuwaitnews.com/78572/ | title=د. بدر الداهوم يعلن ترشحه لانتخابات مجلس الأمة 2024 عن الدائرة الخامسة | date=4 March 2024 }}</ref>",
                       "url": "https://kuwaitnews.com/78572/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 202,
+                      "reason": "Accepted",
                       "type": "web"
                     }
                   ]
@@ -228,8 +228,8 @@
                     {
                       "text": "<ref>{{cite web | url=https://www.alaraby.co.uk/politics/إغلاق-باب-الترشح-للبرلمان-الكويتي?utm_medium=edgs.co&utm_source=alaraby.co.uk | title=إغلاق باب الترشح للبرلمان الكويتي }}</ref>",
                       "url": "https://www.alaraby.co.uk/politics/إغلاق-باب-الترشح-للبرلمان-الكويتي?utm_medium=edgs.co&utm_source=alaraby.co.uk",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -253,7 +253,7 @@
                 {
                   "text": "<ref>{{cite web | url=https://english.aawsat.com/gulf/4948381-kuwait-holds-parliamentary-elections-emir-urges-voters-make-%E2%80%98sound%E2%80%99-choice | title=Kuwait Holds Parliamentary Elections as Emir Urges Voters to Make 'Sound' Choice |work=Asharq al-Awsat |date=4 April 2024 }}</ref>",
                   "url": "https://english.aawsat.com/gulf/4948381-kuwait-holds-parliamentary-elections-emir-urges-voters-make-%E2%80%98sound%E2%80%99-choice",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -276,7 +276,7 @@
                 {
                   "text": "<ref name=\"ajresult\">{{cite web | url=https://www.aljazeera.com/news/2024/4/5/few-changes-after-kuwait-holds-first-parliamentary-election-under-new-emir | title=Few changes after Kuwait holds first parliamentary election under new emir |work=Al Jazeera |date=5 April 2024 }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/4/5/few-changes-after-kuwait-holds-first-parliamentary-election-under-new-emir",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -308,21 +308,21 @@
                 {
                   "text": "<ref>{{cite web | url=https://www.kuna.net.kw/ArticleDetails.aspx?id=3144324&Language=en | title=Kuwait Amir thanks organizers of Nat'l Assembly elections |work=KUNA |date=5 April 2024 }}</ref>",
                   "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3144324&Language=en",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web | url=https://www.kuna.net.kw/ArticleDetails.aspx?id=3144363&Language=en | title=Kuwait Prime Minister congratulates new Members of Parliament |work=KUNA |date=5 April 2024 }}</ref>",
                   "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3144363&Language=en",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web | url=https://www.kuna.net.kw/ArticleDetails.aspx?id=3144361&Language=en | title=Kuwait Amir congratulates new Members of Parliament |work=KUNA |date=5 April 2024 }}</ref>",
                   "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3144361&Language=en",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -335,7 +335,7 @@
                 {
                   "text": "<ref>{{cite web | url=https://www.kuna.net.kw/ArticleDetails.aspx?id=3144408&Language=en | title=Arab Parliament Speaker congratulates Kuwait leadership on parliamentary election success |work=KUNA |date=5 April 2024 }}</ref>",
                   "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3144408&Language=en",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -348,8 +348,8 @@
                 {
                   "text": "<ref>{{cite web |url=https://www.reuters.com/world/middle-east/kuwaits-emir-dissolves-parliament-suspends-some-constitution-articles-2024-05-10/ |title=Kuwait's Emir dissolves parliament, suspends some constitution articles |publisher=Reuters |date=10 May 2024 }}</ref>",
                   "url": "https://www.reuters.com/world/middle-east/kuwaits-emir-dissolves-parliament-suspends-some-constitution-articles-2024-05-10/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 }
               ]

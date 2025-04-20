@@ -14,14 +14,14 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-04-20 |title=Mauritanian Presidential Election Set For June 29 |url=https://www.barrons.com/news/mauritanian-presidential-election-set-for-june-29-13acef47 |access-date=2024-04-21 |website=www.barrons.com |language=en-US}}</ref>",
                   "url": "https://www.barrons.com/news/mauritanian-presidential-election-set-for-june-29-13acef47",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-04-21 |title=Mauritanie: l'élection présidentielle fixée au 29 juin |url=https://afrique.le360.ma/politique/mauritanie-lelection-presidentielle-fixee-au-29-juin_A7EENTJ2QZB3TG7UVVBGWJ2AGI/ |access-date=2024-04-21 |website=Le 360 Afrique |language=fr}}</ref>",
                   "url": "https://afrique.le360.ma/politique/mauritanie-lelection-presidentielle-fixee-au-29-juin_A7EENTJ2QZB3TG7UVVBGWJ2AGI/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -45,7 +45,7 @@
                   "text": "<ref name=Constitution>{{Cite web |title=دستور الجمهورية الإسلامية الموريتانية |trans-title=Constitution of the Islamic Republic of Mauritania |url=https://parlement.mr/wp-content/uploads/2022/06/Constitution-de-la-RIM-ar_8.pdf |access-date=2024-05-16 |website=Parliament of Mauritania |language=ar |url-status=dead |archive-url=https://web.archive.org/web/20221117072420/https://parlement.mr/wp-content/uploads/2022/06/Constitution-de-la-RIM-ar_8.pdf |archive-date=2022-11-17}}</ref>",
                   "url": "https://parlement.mr/wp-content/uploads/2022/06/Constitution-de-la-RIM-ar_8.pdf",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Cannot connect to host parlement.mr:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'parlement.mr'. (_ssl.c:1010)\")]",
                   "type": "web"
                 }
               ]
@@ -57,14 +57,14 @@
                 {
                   "text": "<ref name=\"f24\">{{cite news |date=2024-04-25 |url=https://www.france24.com/en/africa/20240425-mauritania-president-announces-second-term-bid-for-june-election |title=Mauritania president announces second term bid for June election |language=en |access-date=2024-04-25 |publisher=France 24}}</ref>",
                   "url": "https://www.france24.com/en/africa/20240425-mauritania-president-announces-second-term-bid-for-june-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Mauritania heads to polls as incumbent Ghazouani expected to secure second term |url=https://www.france24.com/en/africa/20240629-mauritania-heads-to-polls-as-incumbent-ghazouani-expected-to-secure-second-term |access-date=29 June 2024 |website=France 24 |date=29 June 2024 |language=en}}</ref>",
                   "url": "https://www.france24.com/en/africa/20240629-mauritania-heads-to-polls-as-incumbent-ghazouani-expected-to-secure-second-term",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -92,41 +92,41 @@
                       "text": "<ref>{{cite news |date=2024-04-24 |url=https://alakhbar.info/?q=node/53765 |title=غزوني يوجه رسالة للشعب يعلن من خلالها الترشح لمأمورية ثانية |trans-title=Ghazouani sends a message to the people to announce his candidacy for a second term |language=ar |access-date=2024-04-26 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/53765",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-04-26 |url=https://alakhbar.info/?q=node/53797 |title=ولد الغزواني يسلم ملف ترشحه للرئاسيات للمجلس الدستوري |trans-title=Ould Ghazouani deposits his candidacy for the presidential election with the Constitutional Council |language=ar |access-date=2024-06-14 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/53797",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-01-14 |url=https://alakhbar.info/?q=node/51990 |title=محمد الامين المرتجي الوافي يعلن الترشح لرئاسيات 2024 |trans-title=Mohamed Lemine El Mourteji El Wavi declares his candidacy for the presidential election |language=ar |access-date=2024-06-14 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/51990",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-05-03 |url=https://alakhbar.info/?q=node/53917 |title=ولد الوافي يودع ملف ترشحه للرئاسيات لدى المجلس الدستوري |trans-title=Ould El Wafi deposits his candidacy for the presidential election with the Constitutional Council |language=ar |access-date=2024-05-04 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/53917",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-05-02 |url=https://alakhbar.info/?q=node/53889 |title=\"تواصل\" يرشح رئيسه ويدعو مرشحي المعارضة للتنسيق ضد التزوير |trans-title=Tewassoul nominates its president and calls on opposition candidates to coordinate against fraud |language=ar |access-date=2024-05-02 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/53889",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-05-08 |url=https://saharamedias.net/224204/ |title=رئيس حزب تواصل يودع ملف ترشحه للرئاسيات لدى المجلس الدستوري |trans-title=The president of Tewassoul deposits his candidacy for the presidential election with the Constitutional Council |language=ar |access-date=2024-06-14 |publisher=SaharaMedias}}</ref>",
                       "url": "https://saharamedias.net/224204/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
@@ -134,13 +134,13 @@
                       "text": "<ref>{{cite news |date=2024-05-13 |url=https://alakhbar.info/?q=node/54072 |title=سوماري يودع ملف ترشحه لرئاسيات 2024 |trans-title=Soumaré deposits his candidacy for the 2024 presidential election |language=ar |access-date=2024-05-14 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/54072",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-01-20 |url=http://lecalame.info/?q=node/15451 |title=AJD/MR : Ba Mamadou Bocar, nouveau président |trans-title=AJD/MR: Ba Mamadou Bocar, new president |language=fr |access-date=2024-06-21 |publisher=Le Calame}}</ref>",
-                      "url": "http://lecalame.info/?q=node/15451",
-                      "status_code": null,
+                      "url": "https://lecalame.info/?q=node/15451",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
@@ -148,35 +148,35 @@
                       "text": "<ref>{{cite news |date=2024-05-14 |url=https://alakhbar.info/?q=node/54098 |title=بامامادو بوكار يودع ملف ترشحه للمجلس الدستوري |trans-title=Ba Mamadou Bocar deposits his candidacy's file for the Constitutional Council |language=ar |access-date=2024-05-16 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/54098",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-03-02 |url=https://alakhbar.info/?q=node/52902 |title=النائب العيد محمدن يعلن ترشحه للرئاسيات المقبلة |trans-title=Deputy El Id Ould Mohameden announces his candidacy for the upcoming presidential elections |language=ar |access-date=2024-03-16 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/52902",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-05-15 |url=https://alakhbar.info/?q=node/54115 |title=العيد محمدن سادس مرشح يودع ملف ترشحه لدى المجلس الدستوري |trans-title=El Id Mohameden is the sixth candidate to file his candidacy with the Constitutional Council |language=ar |access-date=2024-05-16 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/54115",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-04-24 |url=https://alakhbar.info/?q=node/53770 |title=بيرام يترشح لرئاسيات 2024 ويصف نفسه \"بمرشح القطيعة\" |trans-title=Biram runs for the 2024 presidential election and describes himself as the \"candidate of rupture\" |language=ar |access-date=2024-04-26 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/53770",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-05-16 |url=https://alakhbar.info/?q=node/54126 |title=بيرام الداه اعبيد يودع ملف ترشحه ويدعو لمواجهة التزوير |trans-title=Biram Dah Abeid deposits his candidacy file and calls to face fraud |language=ar |access-date=2024-05-16 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/54126",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     }
                   ]
@@ -199,35 +199,35 @@
                       "text": "<ref>{{cite news |date=2024-04-20 |url=https://alakhbar.info/?q=node/53692 |title=جبهة التغيير تعلن ترشيح عزيز لرئاسيات يونيو 2024 |trans-title=The Front of Change announces Aziz's candidacy for the June 2024 presidential election |language=ar |access-date=2024-04-26 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/53692",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-04-22 |url=https://www.alarabiya.net/north-africa/2024/04/22/من-سجين-الى-مرشح-رئاسي-هل-يعيد-ولد-عبد-العزيز-ما-حدث-بالسنغال |title=من سجين إلى مرشح رئاسي.. هل يعيد ولد عبد العزيز ما حدث بالسنغال؟ |trans-title=From a prisoner to a presidential candidate... will Ould Abdel Aziz repeat what happened in Senegal? |language=ar |access-date=2024-04-26 |publisher=Al Arabiya}}</ref>",
                       "url": "https://www.alarabiya.net/north-africa/2024/04/22/من-سجين-الى-مرشح-رئاسي-هل-يعيد-ولد-عبد-العزيز-ما-حدث-بالسنغال",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-05-15 |url=https://alakhbar.info/?q=node/54120 |title=القضاء يأذن لعزيز بالخروج من السجن لإيداع ملف ترشحه |trans-title=The judiciary authorizes Aziz to leave prison to file his candidacy |language=ar |access-date=2024-05-16 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/54120",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-05-16 |url=https://alakhbar.info/?q=node/54115 |title=ولد محمد خونه: الرئيس السابق سلم ملفه والمجلس الدستوري تعرض لانقلاب |trans-title=Ould Mohamed Khouna: The former president handed over his file and the Constitutional Council suffered a coup |language=ar |access-date=2024-05-16 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/54115",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-05-16 |url=https://alakhbar.info/?q=node/54141 |title=المجلس الدستوري ينهي اجتماعه وتوقع إعلان لائحة المترشحين الجمعة |trans-title=The Constitutional Council ends its meeting and signs the announcement of the list of candidates on Friday |language=ar |access-date=2024-05-17 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/54141",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     }
                   ]
@@ -248,15 +248,15 @@
                   "references": [
                     {
                       "text": "<ref>{{cite news |date=2024-04-29 |url=https://madar.mr/mauritanie/القيادي-المعارض-أحمد-ولد-صمب-يعلن-ترشح/ |title=القيادي المعارض أحمد ولد صمب يعلن ترشحه للرئاسيات المقبلة |trans-title=Opposition leader Ahmed Ould Samba announces his candidacy for the upcoming presidentials |language=ar |access-date=2024-05-02 |publisher=Madar}}</ref>",
-                      "url": "https://madar.mr/mauritanie/القيادي-المعارض-أحمد-ولد-صمب-يعلن-ترشح/",
-                      "status_code": null,
+                      "url": "https://madar.mr/mauritanie/%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D8%B6-%D8%A3%D8%AD%D9%85%D8%AF-%D9%88%D9%84%D8%AF-%D8%B5%D9%85%D8%A8-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%B1%D8%B4%D8%AD/",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-05-01 |url=https://cridem.org/C_Info.php?article=774474 |title=Ahmed Samba Abdallahi annonce sa démission du parti APP |trans-title=Ahmed Samba Abdallahi announces his resignation from the APP party |language=fr |access-date=2024-05-02 |publisher=CRIDEM}}</ref>",
                       "url": "https://cridem.org/C_Info.php?article=774474",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
@@ -264,20 +264,20 @@
                       "text": "<ref>{{cite news |date=2024-03-10 |url=https://alakhbar.info/?q=node/53043 |title=الدكتور محمد الشيخ يعلن ترشحه لرئاسيات 2024 (فيديو) |trans-title=Dr. Mohamed Cheikh announces his candidacy for the 2024 presidential election (video) |language=ar |access-date=2024-03-16 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/53043",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-04-16 |url=https://madar.mr/mauritanie/موريتانيا-الناشط-السياسي-أحمد-ولد-هار/ |title=موريتانيا: الناشط السياسي أحمد ولد هارون ولد الشيخ سيديا يعلن ترشحه للانتخابات الرئاسية |trans-title=Mauritania: Political activist Ahmed Ould Haroun Ould Cheikh Sidiya announces his candidacy for the presidential election |language=ar |access-date=2024-05-02 |publisher=Madar}}</ref>",
-                      "url": "https://madar.mr/mauritanie/موريتانيا-الناشط-السياسي-أحمد-ولد-هار/",
-                      "status_code": null,
+                      "url": "https://madar.mr/mauritanie/%D9%85%D9%88%D8%B1%D9%8A%D8%AA%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D9%86%D8%A7%D8%B4%D8%B7-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A-%D8%A3%D8%AD%D9%85%D8%AF-%D9%88%D9%84%D8%AF-%D9%87%D8%A7%D8%B1/",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-02-22 |url=https://cridem.org/C_Info.php?article=772658 |title=Hamidine Moctar KANE officialise sa candidature aux élections présidentielles de juin 2024 |trans-title=Hamidine Moctar KANE formalizes his candidacy for the presidential elections of June 2024 |language=fr |access-date=2024-04-26 |publisher=CRIDEM}}</ref>",
                       "url": "https://cridem.org/C_Info.php?article=772658",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -301,14 +301,14 @@
                       "text": "<ref>{{cite news |date=2024-04-19 |url=https://alakhbar.info/?q=node/53682 |title=ولد محمدو يترشح للرئاسة ويقدم قراءته لمسار حكامة البلاد |trans-title=Ould Mohamedou runs for president and presents his reading of the country's governance path |language=ar |access-date=2024-04-26 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/53682",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2024-05-12 |url=https://alakhbar.info/?q=node/54058 |title=مُرشح للرئاسيات: هناك تعليمات صارمة بمنعي من الترشح للرئاسة |trans-title=Presidential candidate: There are strict instructions to prevent me from running for president |language=ar |access-date=2024-05-14 |publisher=Al Akhbar}}</ref>",
                       "url": "https://alakhbar.info/?q=node/54058",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     }
                   ]
@@ -333,84 +333,84 @@
                   "text": "<ref>{{cite news |date=2024-04-18 |url=https://www.alakhbar.info/?q=node/53664 |title=ولد بوعماتو: غزواني وحده القادر على تحقيق الإصلاحات الناجحة |trans-title=Ould Bouamatou: Only Ghazouani can realise successful reforms |language=ar |access-date=2024-05-05 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/53664",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2024-05-03 |url=https://www.alakhbar.info/?q=node/53914 |title=ولد داداه يعلن مساندة غزواني ويدعو للتعبئة لفوزه |trans-title=Ould Daddah announces his endorsement of Ghazouani and calls for mobilisation for his victory |language=ar |access-date=2024-05-05 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/53914",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2024-05-24 |url=https://www.alakhbar.info/?q=node/54263 |title=ولد منصور: نريد إعادة الجدية للسياسة ودعمنا لغزواني مختلف (فيديو) |trans-title=Ould Mansour: We want to bring politics back serious and our support for a different Ghazouani (video) |language=ar |access-date=2024-06-03 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/54263",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2024-04-27 |url=https://www.alakhbar.info/?q=node/53804 |title=لهذه الأسباب وعلى بصيرة: قررت دعم ولد الغزواني لمأمورية ثانية |trans-title=For these reasons and insight: I decided to support Ould Ghazouani for a second mandate |language=ar |access-date=2024-05-05 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/53804",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2024-04-26 |url=https://www.alakhbar.info/?q=node/53795 |title=أحزاب الأغلبية تعلن دعمها لغزواني وجاهزيتها للحملة |trans-title=The parties of the majority announce their support for Ghazouani and their readiness for the campaign |language=ar |access-date=2024-05-05 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/53795",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2023-12-31 |url=https://www.alakhbar.info/?q=node/51751 |title=حزب الإصلاح يرشح غزواني 2024 ويجري تغييرات في هيئاته |trans-title=El Islah nominates Ghazouani for 2024 and makes changes in its bodies |language=ar |access-date=2024-05-05 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/51751",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2024-01-07 |url=https://www.alakhbar.info/?q=node/51870 |title=المجلس الوطني لـ\"حاتم\" يدعو للتعبة لترشيح غزواني لمأمورية ثانية |trans-title=HATEM's National Council calls for tiredness to nominate Ghazouani for a second mandate |language=ar |access-date=2024-05-05 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/51870",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2024-06-14 |url=https://www.alakhbar.info/?q=node/54551 |title=المجلس حزب التحالف الشعبي يقرر دعم غزواني في انتخابات الرئاسة |trans-title=People's Progressive Alliance decides to support Ghazouani in presidential election |language=ar |access-date=2024-06-14 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/54551",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2024-04-27 |url=https://www.alakhbar.info/?q=node/53820 |title=جبهة \"جمع\": تدعو للالتفاف حول ولد الغزواني وضمان فوزه |trans-title=FCJ: Calls for rallying around Ould Ghazouani to ensure his victory |language=ar |access-date=2024-05-05 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/53820",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2024-05-22 |url=https://www.alakhbar.info/?q=node/54228 |title=رابطة البرلمانيين السابقين تدعو لانتخاب غزواني \"لحماية المكتسبات\" |trans-title=League of Former Members of Parliament calls for the election of Ghazouani to 'protect gains' |language=ar |access-date=2024-06-03 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/54228",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2024-05-01 |url=https://www.alakhbar.info/?q=node/53873 |title=\"تحالف العيش المشترك\" يقرر دعم المرشح بيرام |trans-title=The Coalition Living Together decides to support the candidate Biram |language=ar |access-date=2024-05-05 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/53873",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2024-05-07 |url=https://www.alakhbar.info/?q=node/53976 |title=حزب \"القوى التقدمية للتغيير\" يدعم المرشح بيرام اعبيدي |trans-title=The Progressive Forces of Change party backs the candidate Biram Abeid |language=ar |access-date=2024-05-09 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/53976",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 }
               ]
@@ -423,21 +423,21 @@
                   "text": "<ref>{{cite news |date=2024-04-27 |url=https://www.alakhbar.info/?q=node/53822 |title=اتحاد قوى التقدم يقرر دعم المرشح العيد محمدن |trans-title=The Union of Forces for Progress decides to support the candidate El Id Ould Mohameden |language=ar |access-date=2024-05-05 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/53822",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2024-05-29 |url=https://www.alakhbar.info/?q=node/54319 |title=حزب التكتل يقرر دعم المترشح العيد ولد محمدن |trans-title=RFD decides to support the candidate El Id Ould Mohameden |language=ar |access-date=2024-06-03 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/54319",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2024-05-29 |url=https://www.alakhbar.info/?q=node/54324 |title=أحمد ولد داداه يُقرر \"طرد\" بعض قيادات حزبه |trans-title=Ahmed Ould Dadah decides to 'expel' some of his party's leaders |language=ar |access-date=2024-06-03 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/54324",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 }
               ]
@@ -450,7 +450,7 @@
                   "text": "<ref>{{cite news |date=2024-05-26 |url=https://www.alakhbar.info/?q=node/54281 |title=حزب \"حركة التحرير\" يُعلن دعم المرشح الرئاسي أوتوما سوماري |trans-title=MED announces its support for the presidential candidate Outoma Soumaré |language=ar |access-date=2024-06-03 |publisher=Al Akhbar}}</ref>",
                   "url": "https://www.alakhbar.info/?q=node/54281",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 }
               ]
@@ -472,21 +472,21 @@
                 {
                   "text": "<ref>{{cite news |date=27 June 2024 |url=https://apnews.com/article/mauritania-election-sahel-slavery-migration-305e303f3e65a9eb0161682c12b62368 |title=Mauritania goes to the polls with a regional security crisis and economic concerns among the issues |language=en |access-date=27 June 2024 |publisher=Associated Press}}</ref>",
                   "url": "https://apnews.com/article/mauritania-election-sahel-slavery-migration-305e303f3e65a9eb0161682c12b62368",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=28 June 2024 |url=https://www.aljazeera.com/news/2024/6/28/whats-at-stake-in-mauritanias-presidential-election |title=What's at stake in Mauritania's presidential election? |language=en |access-date=28 June 2024 |publisher=Al Jazeera}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/6/28/whats-at-stake-in-mauritanias-presidential-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=30 June 2024 |url=https://apnews.com/article/mauritania-vote-sahel-jihadism-gas-829815a5a67dbcec5db74a9ec4200d42 |title=Mauritania's President Mohamed Ould Ghazouani on track for reelection, provisional results show |language=en |access-date=30 June 2024 |publisher=Associated Press}}</ref>",
                   "url": "https://apnews.com/article/mauritania-vote-sahel-jihadism-gas-829815a5a67dbcec5db74a9ec4200d42",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -516,7 +516,7 @@
                     {
                       "text": "<ref name=MYCENI>{{cite web |url=https://res-myceni.org |title=My CENI Résultats 2024 |language=ar,fr |website=res-myceni.org |publisher=National Independent Election Commission |access-date=2024-06-30}}</ref>",
                       "url": "https://res-myceni.org",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -559,14 +559,14 @@
                 {
                   "text": "<ref>{{cite news |date=30 June 2024 |url=https://www.aljazeera.com/news/2024/6/29/mauritanians-vote-in-presidential-election-with-incumbent-expected-to-win |title=Mauritania's President Ghazouani leads in presidential election |language=en |access-date=1 July 2024 |publisher=Al Jazeera}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/6/29/mauritanians-vote-in-presidential-election-with-incumbent-expected-to-win",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=2 July 2024 |url=https://www.africanews.com/2024/07/02/mauritanias-president-ghazouani-re-elected/ |title=Mauritania's President Ghazouani re-elected |language=en |access-date=2 July 2024 |publisher=Africanews}}</ref>",
                   "url": "https://www.africanews.com/2024/07/02/mauritanias-president-ghazouani-re-elected/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -579,14 +579,14 @@
                 {
                   "text": "<ref>{{cite news |date=3 July 2024 |url=https://apnews.com/article/mauritania-election-ghazouani-abeid-protest-7165f12ca95573c91dfaf917ebbbe4dd |title=Clashes between police and protesters disputing Mauritania's presidential election result kill 3d |language=en |access-date=3 July 2024 |publisher=Associated Press}}</ref>",
                   "url": "https://apnews.com/article/mauritania-election-ghazouani-abeid-protest-7165f12ca95573c91dfaf917ebbbe4dd",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=5 July 2024 |url=https://www.jeuneafrique.com/1585057/politique/en-mauritanie-la-reelection-de-mohamed-ould-cheikh-el-ghazouani-confirmee-par-le-conseil-constitutionnel/ |title=En Mauritanie, la réélection de Mohamed Ould Cheikh El Ghazouani confirmée par le Conseil constitutionnel |language=fr |access-date=6 July 2024 |publisher=Jeune Afrique}}</ref>",
                   "url": "https://www.jeuneafrique.com/1585057/politique/en-mauritanie-la-reelection-de-mohamed-ould-cheikh-el-ghazouani-confirmee-par-le-conseil-constitutionnel/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }

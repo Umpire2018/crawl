@@ -1,0 +1,140 @@
+{
+  "title": "2023_Afghanistan_cold_snap",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "A cold snap began in Afghanistan on January 10, 2023. Temperatures reached as low as {{convert|-33|°C|°F}} and snowfall was as high as {{convert|30|cm}} in more mountainous regions. The cold snap killed at least 160 people, making it the Deadliest weather events of 2023|deadliest weather event of 2023 until Cyclone Freddy. Additionally, nearly 80,000 livestock were killed.",
+              "references": [
+                {
+                  "text": "<ref name=\":1\">{{Cite web |date=28 January 2023 |title=Afghanistan cold snap kills over 160, Taliban officials say – DW – 01/28/2023 |url=https://www.dw.com/en/afghanistan-cold-snap-kills-over-160-taliban-officials-say/a-64546879 |access-date=2023-01-30 |website=Deutsche Welle|DW |language=en}}</ref>",
+                  "url": "https://www.dw.com/en/afghanistan-cold-snap-kills-over-160-taliban-officials-say/a-64546879",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Impact",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "Temperatures fell to a low of {{convert|-33|°C|°F}}, with up to {{convert|30|cm}} of snow in the higher mountain altitudes, directly or indirectly killing at least 162 people in various provinces of Afghanistan|provinces. Over 77,000 livestock died due to the weather. Over 50 houses were damaged across the country.",
+              "references": [
+                {
+                  "text": "<ref name=\"AJ\">{{Cite news|title=Dozens of people killed as cold wave sweeps Afghanistan|url=https://www.aljazeera.com/news/2023/1/18/dozens-of-people-killed-as-cold-wave-sweeps-afghanistan|date=18 January 2023|work=Al Jazeera Media Network|Al Jazeera}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/1/18/dozens-of-people-killed-as-cold-wave-sweeps-afghanistan",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=17 January 2023 |title=Afghanistan: Adverse weather forecast across southern and south-central regions Jan. 18 |url=https://crisis24.garda.com/alerts/2023/01/afghanistan-adverse-weather-forecast-across-southern-and-south-central-regions-jan-18 |website=Crisis24}}</ref>",
+                  "url": "https://crisis24.garda.com/risk-alerts",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":1\" /> At least 140 people using gas for heating were hospitalized for carbon monoxide poisoning in Herat Province.<ref>{{Cite web|title=Afghanistan - Cold wave (DG ECHO, UN, AMD, media) (ECHO Daily Flash of 20 January 2023)|url=https://reliefweb.int/report/afghanistan/afghanistan-cold-wave-dg-echo-un-amd-media-echo-daily-flash-20-january-2023|work=ReliefWeb|date=20 January 2023}}</ref>",
+                  "url": "https://reliefweb.int/report/afghanistan/afghanistan-cold-wave-dg-echo-un-amd-media-echo-daily-flash-20-january-2023",
+                  "status_code": 202,
+                  "reason": "Accepted",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=18 January 2023 |title='The Coldest In Recent Years': At Least 70 Killed By Cold Snap In Afghanistan |work=Radio Free Europe |url=https://www.rferl.org/a/killed-by-afghan-cold-snap/32228999.html}}</ref>",
+                  "url": "https://www.rferl.org/a/killed-by-afghan-cold-snap/32228999.html}}</ref>",
+                  "status_code": 400,
+                  "reason": "Bad Request",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":0\">{{Cite web |last=Popalzai |first=Ehsan |last2=Magramo |first2=Kathleen |date=2023-01-20 |title=At least 78 people die as winter temperatures plunge in Afghanistan, Taliban says |url=https://www.cnn.com/2023/01/19/asia/afghanistan-winter-deaths-intl-hnk/index.html |access-date=2023-01-24 |website=CNN |language=en}}</ref>",
+                  "url": "https://edition.cnn.com/2023/01/19/asia/afghanistan-winter-deaths-intl-hnk/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"ThePrint\">{{Cite web|title=Cold wave kills over 100 in Afghanistan|url=https://theprint.in/world/cold-wave-kills-over-100-in-afghanistan/1330797/|work=ThePrint|date=23 January 2023}}</ref>",
+                  "url": "https://theprint.in/world/cold-wave-kills-over-100-in-afghanistan/1330797/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Relief",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "Humanitarian relief efforts provided aid that included heating and relief funds. Supreme leader Hibatullah Akhundzada stated that the restrictions would not be repealed.<ref name=\"BBC\" />",
+              "references": [
+                {
+                  "text": "<ref name=\":0\" /> Foreign relief efforts were complicated by a ban on women providing humanitarian aid. These restrictions were relaxed for health-related aid on January 17, so non-governmental organizations such as the International Rescue Committee, Save the Children, and Care International resumed operations.<ref name=\"AJ\" /><ref>{{Cite web |date=17 January 2023 |title=NGOs resume some Afghan operations with women workers |url=https://www.aljazeera.com/news/2023/1/17/ngos-resume-some-operations-with-women-in-afghanistan |access-date=2023-01-24 |website=Al Jazeera Media Network|Al Jazeera |language=en}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/1/17/ngos-resume-some-operations-with-women-in-afghanistan",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "Military helicopters were used to provide relief for citizens cut off by snow, but they were unable to access Afghanistan's mountainous regions.",
+              "references": [
+                {
+                  "text": "<ref name=\"BBC\">{{Cite web |last=Doucet |first=Lyse |date=24 January 2023 |title=Afghanistan: Freezing weather kills at least 124 people |url=https://www.bbc.co.uk/news/world-asia-64386145 |work=BBC |place=Kabul}}</ref>",
+                  "url": "https://www.bbc.co.uk/news/world-asia-64386145",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

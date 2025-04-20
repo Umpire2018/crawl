@@ -1,0 +1,327 @@
+{
+  "title": "2023_Johannesburg_building_fire",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "On 31 August 2023 at around 01:30 South African Standard Time|SAST, a fire engulfed an squatting|illegally occupied government-owned building in Johannesburg, South Africa; 77 people were killed and 88 others were injured. It was one of the deadliest fires in South African history.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Cocks |first=Tim |last2=Plessis |first2=Carien du |date=2023-09-01 |title=Sniffer dogs search for clues in ashes of deadly South African fire |language=en |work=Reuters |url=https://www.reuters.com/world/africa/sniffer-dogs-search-clues-ashes-deadly-south-african-fire-2023-09-01/ |access-date=2023-09-03 |archive-date=3 September 2023 |archive-url=https://web.archive.org/web/20230903080650/https://www.reuters.com/world/africa/sniffer-dogs-search-clues-ashes-deadly-south-african-fire-2023-09-01/ |url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/world/africa/sniffer-dogs-search-clues-ashes-deadly-south-african-fire-2023-09-01/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Seeletsa |first=Molefe |date=2023-09-01 |title='Most survivors broke their limbs,' says Phaahla as death toll increases in Joburg fire |url=https://www.citizen.co.za/news/death-toll-increases-in-johannesburg-fire-phaahla/ |access-date=2023-09-02 |website=The Citizen |language=en |archive-date=1 September 2023 |archive-url=https://web.archive.org/web/20230901212619/https://www.citizen.co.za/news/death-toll-increases-in-johannesburg-fire-phaahla/ |url-status=live }}</ref>",
+                  "url": "https://www.citizen.co.za/news/death-toll-increases-in-johannesburg-fire-phaahla/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://www.news24.com/news24/southafrica/news/joburg-fire-families-of-unidentifiable-victims-urged-to-come-forward-with-dna-samples-20230904|title=Joburg fire: Families of unidentifiable victims urged to come forward with DNA samples|first=Nicole|last=McCain|publisher=News24|date=4 September 2023|access-date=4 September 2023|archive-date=15 September 2023|archive-url=https://web.archive.org/web/20230915034101/https://www.news24.com/news24/southafrica/news/joburg-fire-families-of-unidentifiable-victims-urged-to-come-forward-with-dna-samples-20230904|url-status=live}}</ref>",
+                  "url": "https://www.news24.com/news24/southafrica/news/joburg-fire-families-of-unidentifiable-victims-urged-to-come-forward-with-dna-samples-20230904",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=31 August 2023 |title=At least 74 are dead, many of them homeless, as fire rips through a rundown building in South Africa |last1=Imray |first1=Gerald |last2=Magome |first2=Mogomotsi |url=https://apnews.com/article/fire-johannesburg-south-africa-dead-a365fc66541584e61ec5cd3e7b375e67 |access-date=31 August 2023 |publisher=Associated Press |language=en |archive-date=1 September 2023 |archive-url=https://web.archive.org/web/20230901085018/https://apnews.com/article/fire-johannesburg-south-africa-dead-a365fc66541584e61ec5cd3e7b375e67 |url-status=live }}</ref>",
+                  "url": "https://apnews.com/article/fire-johannesburg-south-africa-dead-a365fc66541584e61ec5cd3e7b375e67",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "The building",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The building, 80 Albert Street, was built in 1954 as the head office of Johannesburg's Non-European Affairs Department, serving as a Pass Office for enforcing pass laws controlling the movement of black people into Johannesburg under the apartheid system. From 1994, the building housed a women's shelter later called the Usindiso Women's Shelter. In 2019, a clinic housed in the building was relocated by the member of the Mayoral Committee (MMC) for Health and Social Development, Mpho Phalatse, as the building was occupied by squatters and found to be unsafe.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |last=Ball |first=James |date=11 November 2016 |title=80 Albert Street—The nerve centre for controlling black people's lives during the early stages of apartheid |url=https://www.theheritageportal.co.za/article/80-albert-street-nerve-centre-controlling-black-peoples-lives-during-early-stages-apartheid |url-status=live |archive-url=https://web.archive.org/web/20230831122644/https://www.theheritageportal.co.za/article/80-albert-street-nerve-centre-controlling-black-peoples-lives-during-early-stages-apartheid |archive-date=31 August 2023 |access-date=31 August 2023 |publisher=The Heritage Portal}}</ref>",
+                  "url": "https://www.theheritageportal.co.za/article/80-albert-street-nerve-centre-controlling-black-peoples-lives-during-early-stages-apartheid",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |date=2 August 2007 |title=Pass Office now place of shelter |url=https://brandsouthafrica.com/108230/usindiso-shelter/ |url-status=live |archive-url=https://web.archive.org/web/20230831173621/https://brandsouthafrica.com/108230/usindiso-shelter/ |archive-date=31 August 2023 |access-date=31 August 2023 |publisher=Brand South Africa}}</ref>",
+                  "url": "https://brandsouthafrica.com/108230/development/usindiso-shelter/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |date=2019 |title=City of Joburg shuts down a clinic due to a compromised building infrastructure |url=https://www.joburg.org.za/media_/Newsroom/Pages/2019%20Newsroom%20Articles/Mayoral%20Newsletter%20January/City-of-Joburg-shuts-down-a-clinic-due-to-a-compromised-building-infrastructure.aspx |url-status=live |archive-url=https://web.archive.org/web/20230831172225/https://www.joburg.org.za/media_/Newsroom/Pages/2019%20Newsroom%20Articles/Mayoral%20Newsletter%20January/City-of-Joburg-shuts-down-a-clinic-due-to-a-compromised-building-infrastructure.aspx |archive-date=31 August 2023 |access-date=31 August 2023 |publisher=City of Johannesburg}}</ref>",
+                  "url": "https://www.joburg.org.za/media_/Newsroom/Pages/2019%20Newsroom%20Articles/Mayoral%20Newsletter%20January/City-of-Joburg-shuts-down-a-clinic-due-to-a-compromised-building-infrastructure.aspx",
+                  "status_code": null,
+                  "reason": "Cannot connect to host www.joburg.org.za:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |last=Dube |first=Lungile |date=29 January 2019 |title=MMC temporarily shuts down Albert Street Clinic |url=https://alexnews.co.za/125173/mmc-temporarily-shuts-down-health-hazard-clinic |url-status=live |archive-url=https://web.archive.org/web/20230831172727/https://alexnews.co.za/125173/mmc-temporarily-shuts-down-health-hazard-clinic/ |archive-date=31 August 2023 |access-date=31 August 2023 |publisher=Alex News}}</ref>",
+                  "url": "https://alexnews.co.za/125173/mmc-temporarily-shuts-down-health-hazard-clinic",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "The building is marked with a Commemorative plaque|heritage plaque narrating its history.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |title=Pass Office 80 Albert Street |url=https://www.theheritageportal.co.za/plaque/pass-office-80-albert-street |url-status=live |archive-url=https://web.archive.org/web/20230901183842/https://www.theheritageportal.co.za/plaque/pass-office-80-albert-street |archive-date=1 September 2023 |access-date=2 September 2023 |publisher=The Heritage Portal}}</ref>",
+                  "url": "https://www.theheritageportal.co.za/plaque/pass-office-80-albert-street",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Fire",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The fire broke out in the early hours of the morning on 31 August 2023, in the Johannesburg CBD|Central Business District, at a five-storey abandoned building on the corner of Delvers and Albert Streets that is owned by the City of Johannesburg Metropolitan Municipality|city government and was taken over by gangs. The cause of the fire is not currently known. It spread through the building, trapping many people due to flimsy partitions and gates between makeshift rooms constructed by residents.",
+              "references": [
+                {
+                  "text": "<ref name=\"N\" /> It was being illegally occupied by as many as 400<ref name=\"Guardian Fire\" /> impoverished people—many of them immigration to South Africa|foreign nationals, economic migrants, and asylum seekers—all of whom were being charged rent by the gangs.<ref name=\"N\">{{Cite news |date=1 September 2023 |last=Bartlett |first=Kate |title=With Johannesburg's building fire, the misery of gang-hijacked towers comes into focus |url=https://www.npr.org/2023/09/01/1197205894/johannesburg-building-fire-hijacked-gangs-south-africa |access-date=1 September 2023 |publisher=NPR |language=en |archive-date=1 September 2023 |archive-url=https://web.archive.org/web/20230901235442/https://www.npr.org/2023/09/01/1197205894/johannesburg-building-fire-hijacked-gangs-south-africa |url-status=live }}</ref>",
+                  "url": "https://www.npr.org/2023/09/01/1197205894/johannesburg-building-fire-hijacked-gangs-south-africa",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Guardian Fire\">{{cite news |last1=Allison |first1=Simon |title=Johannesburg fire: survivors describe jumping from windows, as death toll rises to 74 |url=https://www.theguardian.com/world/2023/aug/31/johannesburg-fire-survivors-describe-jumping-from-windows-as-death-toll-rises-to-74 |access-date=31 August 2023 |work=The Guardian |date=31 August 2023 |archive-date=31 August 2023 |archive-url=https://web.archive.org/web/20230831191537/https://www.theguardian.com/world/2023/aug/31/johannesburg-fire-survivors-describe-jumping-from-windows-as-death-toll-rises-to-74 |url-status=live }}</ref>",
+                  "url": "https://www.theguardian.com/world/2023/aug/31/johannesburg-fire-survivors-describe-jumping-from-windows-as-death-toll-rises-to-74",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Imray |first1=Gerald |last2=Magome |first2=Mogomotsi |title=A building fire in Johannesburg kills at least 73 people, many of them homeless, authorities say |url=https://apnews.com/article/fire-johannesburg-south-africa-dead-a365fc66541584e61ec5cd3e7b375e67 |publisher=Associated Press |date=31 August 2023 |language=en |access-date=31 August 2023 |archive-date=31 August 2023 |archive-url=https://web.archive.org/web/20230831153323/https://apnews.com/article/fire-johannesburg-south-africa-dead-a365fc66541584e61ec5cd3e7b375e67 |url-status=live }}</ref>",
+                  "url": "https://apnews.com/article/fire-johannesburg-south-africa-dead-a365fc66541584e61ec5cd3e7b375e67",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Joburg inner city building fire claims at least 73 lives |url=https://centralnews.co.za/joburg-inner-city-building-fire-claims-at-least-73-lives/ |work=Central News South Africa |date=31 August 2023 |language=en-ZA |access-date=31 August 2023 |archive-date=31 August 2023 |archive-url=https://web.archive.org/web/20230831155115/https://centralnews.co.za/joburg-inner-city-building-fire-claims-at-least-73-lives/ |url-status=live }}</ref>",
+                  "url": "https://centralnews.co.za/joburg-inner-city-building-fire-claims-at-least-73-lives/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "Many residents jumped from the windows of the building to escape, some of whom did not survive the jump.",
+              "references": [
+                {
+                  "text": "<ref name=\"refused-relocation\" /> Firefighters found bodies piled up where they had died at a locked gate on the ground floor while trying to exit the burning building.<ref>{{cite news|url=https://www.news24.com/news24/southafrica/news/joburg-fire-dying-in-agony-in-a-city-owned-deathtrap-20230901|title=Deathtrap: Albert Street residents died trying to escape a building City officials 'condemned'|first1=Alex|last1=Patrick|first2=Azarrah|last2=Karrim|first3=Kyle|last3=Cowan|publisher=News24|date=1 September 2023|access-date=1 September 2023|archive-date=1 September 2023|archive-url=https://web.archive.org/web/20230901083840/https://www.news24.com/news24/southafrica/news/joburg-fire-dying-in-agony-in-a-city-owned-deathtrap-20230901|url-status=live}}</ref>",
+                  "url": "https://www.news24.com/news24/southafrica/news/joburg-fire-dying-in-agony-in-a-city-owned-deathtrap-20230901",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "The fire brought attention to the hundreds of hijacked buildings in the Johannesburg CBD, typically overcrowded and unregulated and inhabited by impoverished and marginalised people including a large number of undocumented migrants to South Africa's economic hub of Johannesburg.",
+              "references": [
+                {
+                  "text": "<ref name=\"fire-ramaphosa\">{{cite news|url=https://www.bbc.com/news/world-africa-66667934|title=Johannesburg fire 'wake-up call', President Ramaphosa says|publisher=BBC News|last=Granville|first=Samantha|date=31 August 2023|access-date=1 September 2023|archive-date=31 August 2023|archive-url=https://web.archive.org/web/20230831210821/https://www.bbc.com/news/world-africa-66667934|url-status=live}}</ref>",
+                  "url": "https://www.bbc.com/news/world-africa-66667934",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "Some residents who survived the fire refused to board buses for relocation to emergency accommodation in community halls after the fire, fearing the relocation would be used by officials as an excuse for deportation, and being unwilling to leave behind the remains of their possessions in the burnt building.",
+              "references": [
+                {
+                  "text": "<ref name=\"refused-relocation\">{{cite news|url=https://www.news24.com/news24/southafrica/news/we-dont-know-how-to-help-them-residents-of-burnt-building-refuse-help-for-fear-of-deportation-20230901|title='We don't know how to help them': Residents of burnt building refuse help for fear of deportation|publisher=News24|first1=Cebelihle|last1=Bhengu|first2=Belinda|last2=Pheto|first3=Alfonso|last3=Nqunjana|date=1 September 2023|access-date=1 September 2023|archive-date=1 September 2023|archive-url=https://web.archive.org/web/20230901081611/https://www.news24.com//news24/southafrica/news/we-dont-know-how-to-help-them-residents-of-burnt-building-refuse-help-for-fear-of-deportation-20230901|url-status=live}}</ref>",
+                  "url": "https://www.news24.com/news24/southafrica/news/we-dont-know-how-to-help-them-residents-of-burnt-building-refuse-help-for-fear-of-deportation-20230901",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "In January 2024, a 29-year-old man was arrested after he confessed to starting the fire. The man said he started the fire in order to get rid of another murder victim's body on the orders of a Tanzanian drug dealer who also lived in the building. He is currently facing 76 counts of murder and 120 counts of attempted murder.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|url=https://apnews.com/article/south-africa-deadly-fire-inquiry-1586af852facb5d355ec8feb67d6c60e|title=South African police arrest man who says he started a fire that left 76 dead to hide another killing|last=Imray|first=Gerald|work=Associated Press|date=January 23, 2024}}</ref>",
+                  "url": "https://apnews.com/article/south-africa-deadly-fire-inquiry-1586af852facb5d355ec8feb67d6c60e",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|url=https://www.bbc.com/news/world-africa-68074917|title=Man held for murder over South Africa building fire|last=De Simone|first=Daniel|work=BBC News|date=January 23, 2024}}</ref>",
+                  "url": "https://www.bbc.com/news/world-africa-68074917",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Response",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "President of South Africa|President Cyril Ramaphosa visited the site of the tragedy on 31 August, calling it a \"wake-up call\". While government officials blamed the crisis on NGOs, who prevented the previous attempts to evict occupiers from similar properties, NGOs and inner city property owners argued that it was the duty of the City of Johannesburg to maintain buildings, provide services and enforce safety regulations. South Africa's courts have consistently ruled that evictions cannot proceed unless alternative housing is provided under the provisions of the 1998 Prevention of Illegal Eviction from and Unlawful Occupation of Land Act, 1998|Prevention of Illegal Eviction Act. Following the fire, the City attempted to disconnect illegal electricity connections from similar hijacked buildings in the city, but was met with strong resistance from residents.",
+              "references": [
+                {
+                  "text": "<ref name=fire-ramaphosa/> Gauteng Premier Panyaza Lesufi announced an inquiry into the fire.<ref name=fire-lesufi>{{cite news|url=https://www.enca.com/top-stories/joburg-fire-committee-inquiry-be-set|title=Joburg Fire: Committee of Inquiry to be set up|date=1 September 2023|publisher=eNCA|access-date=1 September 2023|archive-date=1 September 2023|archive-url=https://web.archive.org/web/20230901235225/https://www.enca.com/news/joburg-fire-committee-inquiry-be-set|url-status=live}}</ref>",
+                  "url": "https://www.enca.com/news/joburg-fire-committee-inquiry-be-set",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=groundup-ngos>{{cite web|url=https://www.groundup.org.za/article/ngos-respond-to-being-blamed-for-johannesburg-fire/|publisher=GroundUp|title=NGOs respond to being blamed for Johannesburg fire|date=31 August 2023|first=Masego|last=Mafata|access-date=1 September 2023|archive-date=1 September 2023|archive-url=https://web.archive.org/web/20230901060559/https://www.groundup.org.za/article/ngos-respond-to-being-blamed-for-johannesburg-fire/|url-status=live}}</ref>",
+                  "url": "https://groundup.org.za/article/ngos-respond-to-being-blamed-for-johannesburg-fire/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=seri-statement>{{cite web|url=https://seri-sa.org/index.php/latest-news/1315-press-statement-city-of-johannesburgs-wake-up-call-fire-at-usindiso-shelter-for-women-and-children-31-august-2023|title=City of Johannesburg's wake up call: fire at Usindiso Shelter for Women and Children|publisher=SERI|date=31 August 2023|access-date=1 September 2023|archive-date=1 September 2023|archive-url=https://web.archive.org/web/20230901235732/https://seri-sa.org/index.php/latest-news/1315-press-statement-city-of-johannesburgs-wake-up-call-fire-at-usindiso-shelter-for-women-and-children-31-august-2023|url-status=live}}</ref>",
+                  "url": "https://seri-sa.org/index.php/latest-news/1315-press-statement-city-of-johannesburgs-wake-up-call-fire-at-usindiso-shelter-for-women-and-children-31-august-2023",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news|url=https://www.dailymaverick.co.za/article/2023-08-31-city-of-johannesburg-points-finger-at-ngos-and-foreign-nationals-after-deadly-fire/|title=City of Johannesburg points finger at NGOs and foreign nationals after deadly fire|work=Daily Maverick|first=Nonkululeko|last=Njilo|date=31 August 2023|access-date=1 September 2023|archive-date=1 September 2023|archive-url=https://web.archive.org/web/20230901094217/https://www.dailymaverick.co.za/article/2023-08-31-city-of-johannesburg-points-finger-at-ngos-and-foreign-nationals-after-deadly-fire/|url-status=live}}</ref>",
+                  "url": "https://www.dailymaverick.co.za/article/2023-08-31-city-of-johannesburg-points-finger-at-ngos-and-foreign-nationals-after-deadly-fire/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last=Haffajee |first=Ferial |date=31 August 2023 |title=City of Joburg shuttered task team that should have cleaned up building in which 73 died |work=Daily Maverick |url=https://www.dailymaverick.co.za/article/2023-08-31-city-shuttered-team-meant-to-clean-up-blaze-building/ |url-status=live |access-date=1 September 2023 |archive-url=https://web.archive.org/web/20230901010711/https://www.dailymaverick.co.za/article/2023-08-31-city-shuttered-team-meant-to-clean-up-blaze-building/ |archive-date=1 September 2023}}</ref>",
+                  "url": "https://www.dailymaverick.co.za/article/2023-08-31-city-shuttered-team-meant-to-clean-up-blaze-building/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Guardian-Grief\">{{cite news |last1=Allison |first1=Simon |title=Grief and anger after Johannesburg blaze that killed at least 74 |url=https://www.theguardian.com/world/2023/sep/01/grief-and-anger-in-wake-of-deadly-johannesburg-blaze |access-date=2 September 2023 |work=The Guardian |date=1 September 2023 |archive-date=2 September 2023 |archive-url=https://web.archive.org/web/20230902013616/https://www.theguardian.com/world/2023/sep/01/grief-and-anger-in-wake-of-deadly-johannesburg-blaze |url-status=live }}</ref>",
+                  "url": "https://www.theguardian.com/world/2023/sep/01/grief-and-anger-in-wake-of-deadly-johannesburg-blaze",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Granville |first1=Samantha |title=Johannesburg fire: Hijacks and death traps in a crumbling South African city centre |url=https://www.bbc.com/news/world-africa-66695688 |access-date=3 September 2023 |agency=BBC News |date=2 September 2023 |archive-date=3 September 2023 |archive-url=https://web.archive.org/web/20230903001613/https://www.bbc.com/news/world-africa-66695688 |url-status=live }}</ref>",
+                  "url": "https://www.bbc.com/news/world-africa-66695688",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://www.iol.co.za/the-star/news/residents-of-jacked-buildings-in-show-of-power-10b9cdf1-ad1f-4c2c-989c-d13fe9d553e7|title=Residents of jacked buildings in show of power|publisher=IOL|date=14 September 2023|access-date=15 September 2023|archive-date=16 September 2023|archive-url=https://web.archive.org/web/20230916140443/https://www.iol.co.za/the-star/news/residents-of-jacked-buildings-in-show-of-power-10b9cdf1-ad1f-4c2c-989c-d13fe9d553e7|url-status=live}}</ref>",
+                  "url": "https://www.iol.co.za/the-star/news/residents-of-jacked-buildings-in-show-of-power-10b9cdf1-ad1f-4c2c-989c-d13fe9d553e7",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Further reading",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "External links",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

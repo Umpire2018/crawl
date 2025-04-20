@@ -14,7 +14,7 @@
                 {
                   "text": "<ref>{{Cite web |date=2023-11-16 |title=Présidentielle à Madagascar: les premières estimations confirment la faible participation |url=https://www.rfi.fr/fr/afrique/20231116-pr%C3%A9sidentielle-%C3%A0-madagascar-les-premi%C3%A8res-estimations-confirment-la-faible-participation |access-date=2024-04-01 |website=RFI |language=fr}}</ref>",
                   "url": "https://www.rfi.fr/fr/afrique/20231116-pr%C3%A9sidentielle-%C3%A0-madagascar-les-premi%C3%A8res-estimations-confirment-la-faible-participation",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -37,14 +37,14 @@
                 {
                   "text": "<ref name=\":0\">{{cite web|date=March 13, 2024|title=Tatitry ny Filankevitry ny minisitry 13 Martsa 2024|url=https://www.presidence.gov.mg/actualites/conseil-des-ministres/2107-tatitry-ny-filan-kevitry-ny-minisitra-alarobia-faha-13-marsa-2024-lapam-panjakana-iavoloha.html|website=Fiadidiana ny Repoblikan'ny Madagasikara}}</ref>",
                   "url": "https://www.presidence.gov.mg/actualites/conseil-des-ministres/2107-tatitry-ny-filan-kevitry-ny-minisitra-alarobia-faha-13-marsa-2024-lapam-panjakana-iavoloha.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web|url=https://www.electionguide.org/elections/id/4356/|title=Madagascar|website=IFES Election Guide}}</ref>",
                   "url": "https://www.electionguide.org/elections/id/4356/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -57,7 +57,7 @@
                 {
                   "text": "<ref>{{Cite web |date=29 May 2024 |title=Madagascar holds key parliamentary election |url=https://www.africanews.com/2024/05/29/madagascar-holds-key-parliamentary-election/ |access-date=30 May 2024 |website=Africanews |language=en}}</ref>",
                   "url": "https://www.africanews.com/2024/05/29/madagascar-holds-key-parliamentary-election/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -80,7 +80,7 @@
                 {
                   "text": "<ref>{{Cite news |date=2024-05-29 |title=A Madagascar, l'opposition dénonce des élections législatives contrôlées par le pouvoir |url=https://www.lemonde.fr/afrique/article/2024/05/29/a-madagascar-l-opposition-denonce-des-elections-legislatives-controlees-par-le-pouvoir_6236102_3212.html |access-date=2024-05-30 |work=Le Monde.fr |language=fr}}</ref>",
                   "url": "https://www.lemonde.fr/afrique/article/2024/05/29/a-madagascar-l-opposition-denonce-des-elections-legislatives-controlees-par-le-pouvoir_6236102_3212.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -104,34 +104,34 @@
                   "text": "<ref name=\"anadolu\">{{Cite web |date=29 May 2024 |title=Madagascar votes in legislative elections |url=https://www.aa.com.tr/en/africa/madagascar-votes-in-legislative-elections/3234448 |access-date=30 May 2024 |website=Anadolu Ajansi |language=en}}</ref>",
                   "url": "https://www.aa.com.tr/en/africa/madagascar-votes-in-legislative-elections/3234448",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "[Errno 104] Connection reset by peer",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Madagascar holds parliamentary elections amidst high stakes, international monitoring |url=https://menafn.com/1108274872/Madagascar-holds-parliamentary-elections-amidst-high-stakes-international-monitoring |access-date=2024-05-30 |website=menafn.com |language=en}}</ref>",
                   "url": "https://menafn.com/1108274872/Madagascar-holds-parliamentary-elections-amidst-high-stakes-international-monitoring",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Madagascar: Increased security, protests likely nationwide through early June amid release of parliamentary election results /update 1 |url=https://crisis24.garda.com/alerts/2024/05/madagascar-increased-security-protests-likely-nationwide-through-early-june-amid-release-of-parliamentary-election-results-update-1 |access-date=2024-05-30 |website=Crisis24 |language=en}}</ref>",
-                  "url": "https://crisis24.garda.com/alerts/2024/05/madagascar-increased-security-protests-likely-nationwide-through-early-june-amid-release-of-parliamentary-election-results-update-1",
-                  "status_code": null,
+                  "url": "https://crisis24.garda.com/risk-alerts",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Législatives à Madagascar: l'Observatoire Safidy évoque un «scrutin entaché d'incidents inquiétants» |url=https://www.rfi.fr/fr/afrique/20240601-l%C3%A9gislatives-%C3%A0-madagascar-l-observatoire-safidy-%C3%A9voque-un-scrutin-entach%C3%A9-d-incidents-inqui%C3%A9tants |access-date=2024-06-02 |website=RFI |date=June 2024 |language=fr}}</ref>",
                   "url": "https://www.rfi.fr/fr/afrique/20240601-l%C3%A9gislatives-%C3%A0-madagascar-l-observatoire-safidy-%C3%A9voque-un-scrutin-entach%C3%A9-d-incidents-inqui%C3%A9tants",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Afrique Législatives à Madagascar: la publication des résultats provisoires reportée à mardi |url=https://www.rfi.fr/fr/afrique/20240609-l%C3%A9gislatives-%C3%A0-madagascar-la-publication-des-r%C3%A9sultats-provisoires-report%C3%A9e-%C3%A0-mardi |access-date=2024-06-09 |website=RFI |date=2024-06-09 |language=fr}}</ref>",
                   "url": "https://www.rfi.fr/fr/afrique/20240609-l%C3%A9gislatives-%C3%A0-madagascar-la-publication-des-r%C3%A9sultats-provisoires-report%C3%A9e-%C3%A0-mardi",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -154,7 +154,7 @@
                 {
                   "text": "<ref name=\"africaresults\">{{Cite web |title=Madagascar ruling party loses parliament majority |url=https://www.africanews.com/2024/06/12/madagascar-ruling-party-loses-parliament-majority/ |access-date=13 June 2024 |website=Africanews |date=12 June 2024 |language=en}}</ref>",
                   "url": "https://www.africanews.com/2024/06/12/madagascar-ruling-party-loses-parliament-majority/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -162,7 +162,7 @@
                   "text": "<ref>{{Cite web |title=Madagascar's ruling party loses parliamentary majority |url=https://www.aa.com.tr/en/politics/madagascars-ruling-party-loses-parliamentary-majority/3248407 |access-date=13 June 2024 |website=Anadolu Ajansi |language=en}}</ref>",
                   "url": "https://www.aa.com.tr/en/politics/madagascars-ruling-party-loses-parliamentary-majority/3248407",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "[Errno 104] Connection reset by peer",
                   "type": "web"
                 }
               ]
@@ -174,21 +174,21 @@
                 {
                   "text": "<ref>{{Cite web |title=Résultats provisoires des élections législatives du 29 Mai 2024 |url=https://www.ceni-madagascar.mg/wp-content/uploads/2024/06/Resultat-provisoire-legislatives-2024-1.pdf |website=Independent National Electoral Commission}}</ref>",
                   "url": "https://www.ceni-madagascar.mg/wp-content/uploads/2024/06/Resultat-provisoire-legislatives-2024-1.pdf",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Délibération n°056/CENI/D/2024:Liste officielle des candidatures pour les élections législatives 2024 |url=https://www.ceni-madagascar.mg/deliberation-n056-ceni-d-2024liste-officielle-des-candidatures-pour-les-elections-legislatives-2024/# |website=Independent National Electoral Commission}}</ref>",
-                  "url": "https://www.ceni-madagascar.mg/deliberation-n056-ceni-d-2024liste-officielle-des-candidatures-pour-les-elections-legislatives-2024/#",
-                  "status_code": null,
+                  "url": "https://www.ceni-madagascar.mg/deliberation-n056-ceni-d-2024liste-officielle-des-candidatures-pour-les-elections-legislatives-2024/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Arrêt n°31-HCC/AR du 27 juin 2024 portant proclamation des résultats officiels des élections législatives du 29 mai 2024 |url=http://www.hcc.gov.mg/?p=9194 |website=High Constitutional Court}}</ref>",
                   "url": "http://www.hcc.gov.mg/?p=9194",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

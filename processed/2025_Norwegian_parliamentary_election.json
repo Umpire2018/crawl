@@ -1,0 +1,185 @@
+{
+  "title": "2025_Norwegian_parliamentary_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "</ref>",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | url = https://www.regjeringen.no/no/aktuelt/valgdagen-blir-8.-september-2025/id3037352/ | title = Valgdagen blir 8. september 2025 | website = Government of Norway. | date = 3 May 2024 | access-date = 18 June 2024 | language = nb}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "On 30 January 2025, the Centre Party (Norway)|Centre Party left the governing coalition over disagreements with the Labour Party (Norway)|Labour Party on energy policy relating to the European Union, resulting in the first one-party government in 25 years. Eight cabinet ministers from the Centre Party were replaced, including Centre Party leader and minister of finance Trygve Slagsvold Vedum, who was succeeded by former Prime Minister Jens Stoltenberg.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |last=Johannessen Litland |first=Karoline |date=30 January 2025 |title=Avviser at han er svekket som statsminister: – Her står jeg! Jeg er ikke vekk! |url=https://www.nrk.no/norge/avviser-at-han-er-svekket-som-statsminister_-_-her-star-jeg_-jeg-er-ikke-vekk_-1.17239250 |trans-title=Denies being weakened as Prime Minister: \"Here I am!\" I am not gone!\" |work=NRK News |language=no |location=Oslo |publisher=NRK |access-date=30 January 2025}}</ref>",
+                  "url": "https://www.nrk.no/norge/avviser-at-han-er-svekket-som-statsminister_-_-her-star-jeg_-jeg-er-ikke-vekk_-1.17239250",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite web | url = https://www.nrk.no/norge/store-presenterer-ny-regjering-tirsdag-1.17248386 | title = Nye statsråder: Stenseng inn i regjering – Skjæran får toppjobb på Stortinget | publisher = NRK | date = 4 February 2025 | access-date = 4 February 2025 | language = nb | first = Kristian | last = Skårdalsmo | first2 = Mats | last2 = Rønning | first3 = Line | last3 = Tomter | first4 = Geir Bjarte | last4 = Hjetland | first5 = Julie | last5 = Grasmo}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Brekke |first1=Anja |last2=Haugen |first2=Bjørn |last3=Friis Edland |first3=Gyrid |last4=Rydning |first4=Emilie |last5=Røsvik |first5=Eirik |last6=Fjellanger |first6=Runa |last7=Bjarne Johnsen |first7=Alf |date=4 February 2025 |title=Stoltenberg: –⁠ Jeg hadde andre planer for livet mitt |url=https://www.vg.no/nyheter/i/0VqWPG/vedum-til-stoltenberg-oensker-deg-lykke-til-i-ny-rolle |work=Verdens Gang |location=Oslo |publisher=Schibsted |access-date=4 February 2025}}</ref>",
+                  "url": "https://www.vg.no/nyheter/i/0VqWPG/vedum-til-stoltenberg-oensker-deg-lykke-til-i-ny-rolle",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Parties",
+      "content": [
+        {
+          "id": "3.1",
+          "title": "Parliamentary parties",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.1.s1",
+                  "text": "{| class=\"wikitable\"\n|-\n! rowspan=2 colspan=3 width=225px | Name\n! rowspan=2 | Ideology\n! rowspan=2 | Position\n! rowspan=2 | Leader\n! colspan=2 | 2021 Norwegian parliamentary election|2021 result\n|-\n! Votes (%)\n! Storting|Seats\n|-\n! style=\"background:{{party color|Labour Party (Norway)}}; width:2px;\"|\n| align=center | '''Ap'''\n| Labour Party (Norway)|Labour Party<br /><small>{{lang|no|Arbeiderpartiet}}</small>\n| Social democracy\n| Centre-left politics|Centre-left\n| Jonas Gahr Støre\n| align=center | 26.3%\n| {{Composition bar|48|169|{{party color|Labour Party (Norway)}}}}\n|-\n! style=\"background:{{party color|Conservative Party of Norway (2020)}}; width:2px;\"|\n| align=center | '''H'''\n| Conservative Party (Norway)|Conservative Party<br /><small>{{lang|no|Høyre}}</small>\n| {{Nowrap|Liberal conservatism}}\n| Centre-right politics|Centre-right\n| Erna Solberg\n| align=center | 20.4%\n| {{Composition bar|36|169|{{party color|Conservative Party of Norway (2020)}}}}\n|-\n! style=\"background:{{party color|Centre Party (Norway)}}; width:2px;\"|\n| align=center | '''Sp'''\n| Centre Party (Norway)|Centre Party<br /><small>{{lang|no|Senterpartiet}}</small>\n| Nordic agrarian parties|Agrarianism\n| Centrism|Centre\n| Trygve Slagsvold Vedum\n| align=center | 13.5%\n| {{Composition bar|28|169|{{party color|Centre Party (Norway)}}}}\n|-\n! style=\"background:{{party color|Progress Party (Norway)}}; width:2px;\"|\n| align=center | '''FrP'''\n| Progress Party (Norway)|Progress Party<br /><small>{{lang|no|Fremskrittspartiet}}</small>\n| {{Nowrap|National conservatism}}\n| Right-wing politics|Right-wing to {{nowrap|Far-right politics|far-right}}\n| Sylvi Listhaug\n| align=center | 11.6%\n| {{Composition bar|21|169|{{party color|Progress Party (Norway)}}}}\n|-\n! style=\"background:{{party color|Socialist Left Party (Norway)}}; width:2px;\"|\n| align=center | '''SV'''\n| Socialist Left Party (Norway)|Socialist Left Party<br /><small>{{lang|no|Sosialistisk Venstreparti}}</small>\n| {{Nowrap|Democratic socialism}}\n| Left-wing politics|Left-wing\n| Kirsti Bergstø\n| align=center | 7.6%\n| {{Composition bar|13|169|{{party color|Socialist Left Party (Norway)}}}}\n|-\n! style=\"background:{{party color|Red Party (Norway)}}; width:2px;\" |\n| align=center | '''R'''\n| Red Party (Norway)|Red Party<br /><small>{{lang|no|Rødt}}</small>\n| Marxism\n| Left-wing politics|Left-wing to Far-left politics|far-left\n| Marie Sneve Martinussen\n| align=center | 4.7%\n| {{Composition bar|8|169|{{party color|Red Party (Norway)}}}}\n|-\n! style=\"background:{{party color|Liberal Party (Norway)}}; width:2px;\"|\n| align=center | '''V'''\n| Liberal Party (Norway)|Liberal Party<br /><small>{{lang|no|Venstre}}</small>\n| Social liberalism\n| Centrism|Centre\n| Guri Melby\n| align=center | 4.6%\n| {{Composition bar|8|169|{{party color|Liberal Party (Norway)}}}}\n|-\n! style=\"background:{{party color|Green Party (Norway)}}; width:2px;\"|\n| align=center | '''MDG'''\n| Green Party (Norway)|Green Party<br /><small>{{lang|no|Miljøpartiet De Grønne}}</small>\n| Green politics\n| Centre-left politics|Centre-left\n| Arild Hermstad\n| align=center | 3.9%\n| {{Composition bar|3|169|{{party color|Green Party (Norway)}}}}\n|-\n! style=\"background:{{party color|Christian Democratic Party (Norway)}}; width:2px;\"|\n| align=center | '''KrF'''\n| Christian Democratic Party (Norway)|Christian Democratic Party<br /><small>{{lang|no|Kristelig Folkeparti}}</small>\n| Christian democracy\n| {{Nowrap|Centrism|Centre to Centre-right politics|centre-right}}\n| Dag Inge Ulstein\n| align=center | 3.8%\n| {{Composition bar|3|169|{{party color|Christian Democratic Party (Norway)}}}}\n|-\n! style=\"background:{{party color|Patient Focus (Norway)}}; width:2px;\"|\n| align=center | '''PF'''\n| Patient Focus (Norway)|Patient Focus<br /><small>{{lang|no|Pasientfokus}}</small>\n| Single-issue politics<br />(health politics)\n| {{NA}}\n| Irene Ojala\n| align=center | 0.2%\n| {{Composition bar|1|169|{{party color|Patient Focus (Norway)}}}}\n|}",
+                  "references": [
+                    {
+                      "text": "<ref name=\"partiesEU\">{{cite web|url=http://www.parties-and-elections.eu/norway.html|title=Norway|last=Nordsieck|first=Wolfram|date=2021|website=Parties and Elections in Europe|access-date=16 September 2021}}</ref>",
+                      "url": "http://www.parties-and-elections.eu/norway.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Campaign",
+      "content": [
+        {
+          "id": "4.1",
+          "title": "Slogans",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.1.s1",
+                  "text": "{| class=\"wikitable\" style=\"font-size:97%; text-align:left\"\n! colspan=\"2\" style=\"text-align:left;\" | Party\n! Original slogan\n! English translation\n|-\n| style=\"background:{{party color|Labour Party (Norway)}}\"|\n| Labour Party (Norway)|Labour Party\n|\n|\n|-\n| style=\"background:{{party color|Conservative Party (Norway)}}\"|\n| Conservative Party (Norway)|Conservative Party\n|\n|\n|-\n| style=\"background:{{party color|Progress Party (Norway)}}\" |\n| Progress Party (Norway)|Progress Party\n|\n|\n|-\n| style=\"background:{{party color|Socialist Left Party (Norway)}}\" |\n| Socialist Left Party (Norway)|Socialist Left Party\n|\n|\n|-\n| style=\"background:{{party color|Christian Democratic Party (Norway)}}\" |\n|Christian Democratic Party (Norway)|Christian Democratic Party\n|«Bygge på verdier – skape verdier»\n|\n|-\n| style=\"background:{{party color|Centre Party (Norway)}}\" |\n| Centre Party (Norway)|Centre Party\n|\n|\n|-\n| style=\"background:{{party color|Liberal Party (Norway)}}\" |\n|Liberal Party (Norway)|Liberal party\n|\n|\n|-\n| colspan=\"4\" | Sources: \n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite AV media |url=https://www.youtube.com/watch?v=mMVp6wgUpg0 |title=Bygge på verdier - Skape verdier |date=2025-02-03 |language=no}}</ref>",
+                      "url": "https://www.youtube.com/watch?v=mMVp6wgUpg0",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "AV"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Debates",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "{| class=\"wikitable\" style=\"font-size:85%; line-height:15px; text-align:center;\"\n! colspan=\"13\" | 2025 Norwegian general election debates\n|-\n! rowspan=\"3\" | Date\n! rowspan=\"3\" | Time\n! rowspan=\"3\" | Organisers\n! colspan=\"10\" | {{Colors|black|#90FF90|&nbsp;P&nbsp;}} Present &nbsp; {{Colors|black|#D0F0C0|&nbsp;S&nbsp;}} Surrogate &nbsp;{{Colors|black|#FFD0D0|&nbsp;N&nbsp;}} Non-invitee&nbsp;\n|-\n! scope=\"col\" style=\"width:5em;\" |Labour Party (Norway)|Ap\n! scope=\"col\" style=\"width:5em;\" |Conservative Party (Norway)|H\n! scope=\"col\" style=\"width:5em;\" |Progress Party (Norway)|FrP\n! scope=\"col\" style=\"width:5em;\" |Christian Democratic Party (Norway)|KrF\n! scope=\"col\" style=\"width:5em;\" |Centre Party (Norway)|Sp\n! scope=\"col\" style=\"width:5em;\" |Liberal Party (Norway)|V\n! scope=\"col\" style=\"width:5em;\" |Socialist Left Party (Norway)|SV\n! scope=\"col\" style=\"width:5em;\" |Red Party (Norway)|R\n! scope=\"col\" style=\"width:5em;\" |Green Party (Norway)|MDG\n! rowspan=\"2\" |Refs\n|-\n! style=\"background:{{party color|Labour Party (Norway)}}\" |\n! style=\"background:{{party color|Conservative Party of Norway (2020)}}\" |\n! style=\"background:{{party color|Progress Party (Norway)}}\" |\n! style=\"background:{{party color|Christian Democratic Party (Norway)}}\" |\n! style=\"background:{{party color|Centre Party (Norway)}}\" |\n! style=\"background:{{party color|Liberal Party (Norway)}}\" |\n! style=\"background:{{party color|Socialist Left Party (Norway)}}\" |\n! style=\"background:{{party color|Red Party (Norway)}}\" |\n! style=\"background:{{party color|Green Party (Norway)}}\" |\n|-\n| {{nowrap|18 December 2024}}\n| 14:40\n| NRK\n| style=\"background:#90FF90\" |'''P'''<br />Jonas Gahr Støre\n| style=\"background:#FFD0D0\" |'''N'''<br />Erna Solberg\n| style=\"background:#90FF90\" |'''P'''<br />Sylvi Listhaug\n| style=\"background:#FFD0D0\" |'''N'''<br />Dag Inge Ulstein|Dag-Inge Ulstein\n| style=\"background:#FFD0D0\" |'''N'''<br />Trygve Slagsvold Vedum\n| style=\"background:#FFD0D0\" |'''N'''<br />Guri Melby\n| style=\"background:#FFD0D0\" |'''N'''<br />Kirsti Bergstø\n| style=\"background:#FFD0D0\" |'''N'''<br />Marie Sneve Martinussen\n| style=\"background:#FFD0D0\" |'''N'''<br />Arild Hermstad\n|\n|-\n| {{nowrap|14 January 2025}}\n| 21:15\n| NRK\n| style=\"background:#90FF90\" |'''P'''<br />Jonas Gahr Støre\n| style=\"background:#FFD0D0\" |'''N'''<br />Erna Solberg\n| style=\"background:#90FF90\" |'''P'''<br />Sylvi Listhaug\n| style=\"background:#FFD0D0\" |'''N'''<br />Dag Inge Ulstein|Dag-Inge Ulstein\n| style=\"background:#FFD0D0\" |'''N'''<br />Trygve Slagsvold Vedum\n| style=\"background:#FFD0D0\" |'''N'''<br />Guri Melby\n| style=\"background:#FFD0D0\" |'''N'''<br />Kirsti Bergstø\n| style=\"background:#FFD0D0\" |'''N'''<br />Marie Sneve Martinussen\n| style=\"background:#FFD0D0\" |'''N'''<br />Arild Hermstad\n|\n|-\n| {{nowrap|30 January 2025}}\n| 21:15\n| NRK\n| style=\"background:#90FF90\" |'''P'''<br />Jonas Gahr Støre\n| style=\"background:#90FF90\" |'''P'''<br />Erna Solberg\n| style=\"background:#90FF90\" |'''P'''<br />Sylvi Listhaug\n| style=\"background:#90FF90\" |'''P'''<br />Dag Inge Ulstein|Dag-Inge Ulstein\n| style=\"background:#90FF90\" |'''P'''<br />Trygve Slagsvold Vedum\n| style=\"background:#D0F0C0\" |'''S'''<br />Sveinung Rotevatn\n| style=\"background:#90FF90\" |'''P'''<br />Kirsti Bergstø\n| style=\"background:#90FF90\" |'''P'''<br />Marie Sneve Martinussen\n| style=\"background:#D0F0C0\" |'''S'''<br />{{ill|Ingrid Liland|no}}\n|\n|-\n| {{nowrap|6 February 2025}}\n| 21:15\n| NRK\n| style=\"background:#90FF90\" |'''P'''<br />Jonas Gahr Støre\n| style=\"background:#90FF90\" |'''P'''<br />Erna Solberg\n| style=\"background:#90FF90\" |'''P'''<br />Sylvi Listhaug\n| style=\"background:#FFD0D0\" |'''N'''<br />Dag Inge Ulstein|Dag-Inge Ulstein\n| style=\"background:#FFD0D0\" |'''N'''<br />Trygve Slagsvold Vedum\n| style=\"background:#FFD0D0\" |'''N'''<br />Guri Melby\n| style=\"background:#FFD0D0\" |'''N'''<br />Kirsti Bergstø\n| style=\"background:#D0F0C0\" |'''S'''<br />Sofie Marhaug\n| style=\"background:#FFD0D0\" |'''N'''<br />Arild Hermstad\n|\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web  |date=18 December 2024 |title=Statsministerduell |url=https://tv.nrk.no/serie/dagsrevyen/sesong/202412/episode/NNFA19121824 |website=NRK TV |location=Oslo |series=Dagsrevyen |publisher=NRK |access-date=19 December 2024}}</ref>",
+                      "url": "https://tv.nrk.no/serie/dagsrevyen/sesong/202412/episode/NNFA19121824",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web  |date=14 January 2025 |title=Statsministerduell |url=https://tv.nrk.no/serie/debatten/sesong/202501/episode/NNFA51011425 |website=NRK TV |location=Oslo |series={{ill|Debatten|no}} |publisher=NRK |access-date=14 January 2025}}</ref>",
+                      "url": "https://tv.nrk.no/serie/debatten/sesong/202501/episode/NNFA51011425",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web  |date=30 January 2025 |title=Sp-exit |url=https://tv.nrk.no/se?v=NNFA51013025 |website=NRK TV |location=Oslo |series={{ill|Debatten|no}} |publisher=NRK |access-date=31 January 2025}}</ref>",
+                      "url": "https://tv.nrk.no/serie/debatten/sesong/202501/episode/NNFA51013025",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web  |date=6 February 2025 |title=Får du billigere strøm med norgespris? |url=https://tv.nrk.no/se?v=NNFA51020625 |website=NRK TV |location=Oslo |series={{ill|Debatten|no}} |publisher=NRK |access-date=9 February 2025}}</ref>",
+                      "url": "https://tv.nrk.no/serie/debatten/sesong/202502/episode/NNFA51020625",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Opinion polls",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1463 @@
+{
+  "title": "2023_United_States_banking_crisis",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "In response to the bank failures, the three major U.S. federal bank regulators announced in a joint communiqué that extraordinary measures would be taken to ensure that all deposits at Silicon Valley Bank and Signature Bank would be honored. The Federal Reserve established a Bank Term Funding Program (BTFP) to offer loans of up to one year to eligible depository institutions pledging qualifying assets as Collateral (finance)|collateral.",
+              "references": [
+                {
+                  "text": "<ref name=\":1\">{{cite news |date=March 12, 2023 |title=Joint Statement by Treasury, Federal Reserve, and FDIC |work=Federal Reserve |agency= |url=https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm |url-status=live |access-date=March 12, 2023 |archive-url=https://web.archive.org/web/20230312222042/https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm |archive-date=March 12, 2023}}</ref>",
+                  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":11\">{{Cite news |date=March 12, 2023 |title=Federal Reserve Board announces it will make available additional funding to eligible depository institutions to help assure banks have the ability to meet the needs of all their depositors |work=Federal Reserve |url=https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312a.htm |access-date=March 12, 2023 |archive-date=March 12, 2023 |archive-url=https://web.archive.org/web/20230312230737/https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312a.htm |url-status=live }} {{PD-inline}}</ref>",
+                  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312a.htm",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":12\">{{Cite news |last1=Stein |first1=Jeff |last2=Lynch |first2=David J. |last3=Romm |first3=Tony |last4=Pager |first4=Tyler |date=March 12, 2023 |title=U.S. says 'all' deposits at failed bank will be available Monday |newspaper=The Washington Post |url=https://www.washingtonpost.com/us-policy/2023/03/12/silicon-valley-bank-deposits/ |access-date=March 12, 2023 |archive-date=March 12, 2023 |archive-url=https://web.archive.org/web/20230312203203/https://www.washingtonpost.com/us-policy/2023/03/12/silicon-valley-bank-deposits/ |url-status=live }}</ref>",
+                  "url": "https://www.washingtonpost.com/us-policy/2023/03/12/silicon-valley-bank-deposits/",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "1.s2",
+              "text": "To prevent the situation from Financial contagion|affecting more banks, global Regulatory agency|industry regulators, including the Federal Reserve, the Bank of Canada, Bank of England, Bank of Japan, European Central Bank, and Swiss National Bank intervened to provide extraordinary liquidity.",
+              "references": [
+                {
+                  "text": "<ref name=cnn20230319>{{cite news |last1=Thompson |first1=Mark |title=Global banking crisis: What just happened? |url=https://www.cnn.com/2023/03/17/business/global-banking-crisis-explained/index.html |access-date=20 March 2023 |work=CNN |date=17 March 2023 |archive-url=https://web.archive.org/web/20230406012653/https://www.cnn.com/2023/03/17/business/global-banking-crisis-explained/index.html |archive-date=April 6, 2023 }}</ref>",
+                  "url": "https://edition.cnn.com/2023/03/17/business/global-banking-crisis-explained/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=lat20230320>{{cite news |last1=Choe |first1=Stan |last2=McDonald |first2=Joe |title=Stocks rise on Wall Street after bank deal, regulator moves |url=https://www.latimes.com/business/story/2023-03-20/banking-crisis-credit-suisse-takeover-global-stocks |access-date=March 20, 2023 |work=Los Angeles Times |date=March 20, 2023 |archive-url=https://web.archive.org/web/20230411223657/https://www.latimes.com/business/story/2023-03-20/banking-crisis-credit-suisse-takeover-global-stocks |archive-date=April 11, 2023}}</ref>",
+                  "url": "https://www.latimes.com/business/story/2023-03-20/banking-crisis-credit-suisse-takeover-global-stocks",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=bloomberg20230319>{{cite news |last1=Henderson |first1=Richard |last2=Lee |first2=Isabelle |last3=Greifeld |first3=Katherine |title=Investors Say Banking Crisis Far From Over Even After UBS's Credit Suisse Deal |url=https://www.bloomberg.com/news/articles/2023-03-20/yardeni-brown-brothers-say-banking-crisis-still-far-from-over |access-date=March 20, 2023 |work=Bloomberg News|Bloomberg |date=March 20, 2023 |language=en}}</ref>",
+                  "url": "https://www.bloomberg.com/news/articles/2023-03-20/yardeni-brown-brothers-say-banking-crisis-still-far-from-over",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "1.s3",
+              "text": "By March 16, large interbank Flow of funds|flows of funds were occurring to shore up bank balance sheets and some analysts were talking of a possibly broader U.S. banking crisis. The Federal Reserve discount window liquidity facility had experienced approximately $150 billion in borrowing from various banks by March 16.",
+              "references": [
+                {
+                  "text": "<ref name=wsj20230316>{{cite news |title=The Banking Crisis: A Timeline of Silicon Valley Bank's Collapse and Other Key Events : The latest on the fallout that followed and regulators' response |url=https://www.wsj.com/articles/bank-collapse-crisis-timeline-724f6458 |last=Choi |first=Candace |work=The Wall Street Journal |date=16 March 2023 |access-date=March 17, 2023 |archive-date=March 16, 2023 |archive-url=https://web.archive.org/web/20230316233933/https://www.wsj.com/articles/bank-collapse-crisis-timeline-724f6458 |url-status=live }}</ref>",
+                  "url": "https://www.wsj.com/articles/bank-collapse-crisis-timeline-724f6458",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=cnbc20230316>{{cite news |last1=Cox |first1=Jeff |date=16 March 2023 |title=Banks take advantage of Fed crisis lending programs |language=en |work=CNBC |url=https://www.cnbc.com/2023/03/16/banks-take-advantage-of-fed-crisis-lending-programs-.html |url-status=live |access-date=17 March 2023 |archive-url=https://web.archive.org/web/20230317005528/https://www.cnbc.com/2023/03/16/banks-take-advantage-of-fed-crisis-lending-programs-.html |archive-date=March 17, 2023}}</ref>",
+                  "url": "https://www.cnbc.com/2023/03/16/banks-take-advantage-of-fed-crisis-lending-programs-.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "1.s4",
+              "text": "Soon after the bank run at SVB, depositors quickly began withdrawing cash from San Francisco-based First Republic Bank (FRB), which focused on private banking to wealthy clientele. Like SVB, FRB had substantial uninsured deposits exceeding $250,000; such deposits constituted 68% of the bank's total at year-end 2022, declining to 27% by the end of March, as $100 billion in uninsured deposits were withdrawn. Despite a $30 billion capital infusion from a group of major banks in March, FRB continued to destabilize and its stock price plummeted as the FDIC prepared to take it into receivership and find a buyer on April 29. On May 1, the Federal Deposit Insurance Corporation|FDIC announced that First Republic had been closed and sold to JPMorgan Chase.",
+              "references": [
+                {
+                  "text": "<ref name=\":6\">{{cite news |last1=Isidore |first1=Chris |title=What's next for troubled First Republic Bank |url=https://www.cnn.com/2023/04/29/business/first-republic-whats-next/index.html |access-date=30 April 2023 |work=CNN |date=29 April 2023 |language=en}}</ref>",
+                  "url": "https://edition.cnn.com/2023/04/29/business/first-republic-whats-next/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":17\">{{cite news |last1=Son |first1=Hugh |title=Big banks including JPMorgan Chase, Bank of America asked for final bids on First Republic |url=https://www.cnbc.com/2023/04/29/first-republic-frc-jpmorgan-chase-bank-of-america-asked-for-bids.html |access-date=30 April 2023 |work=CNBC |date=29 April 2023 |language=en}}</ref>",
+                  "url": "https://www.cnbc.com/2023/04/29/first-republic-frc-jpmorgan-chase-bank-of-america-asked-for-bids.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"NYTimesSeized\">{{cite news |last1=Farrell |first1=Maureen |last2=Smialek |first2=Jeanna |last3=Hirsch |first3=Lauren |title=First Republic Bank Is Seized by Regulators and Sold to JPMorgan Chase |url=https://www.nytimes.com/2023/05/01/business/first-republic-bank-jpmorgan.html |access-date=1 May 2023 |work=The New York Times |date=1 May 2023}}</ref>",
+                  "url": "https://www.nytimes.com/2023/05/01/business/first-republic-bank-jpmorgan.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"FDICPressRelease\">{{cite web |title=JPMorgan Chase Bank, National Association, Columbus, Ohio Assumes All the Deposits of First Republic Bank, San Francisco, California |url=https://www.fdic.gov/news/press-releases/2023/pr23034.html |website=Federal Deposit Insurance Corporation|FDIC |access-date=1 May 2023 |date=1 May 2023}}</ref>",
+                  "url": "https://www.fdic.gov/news/press-releases/2023/pr23034.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "{{Further|Cryptocurrency bubble#2020–2022 cryptocurrency bubble|}}\n began inverting in July 2022, causing short-term Treasury rates to exceed long-term rates|300px]]\n\n\n{{legend-line|#3C669A solid 3px|Bank deposits percent change Y/Y}}\n{{legend-line|#9B433D solid 3px|Bank deposits in billions of U.S. Dollars}}\n]]\nIn the lead-up period, many banks within the United States had invested their reserves in United States Treasury security|U.S. Treasury securities, which had been paying Zero interest-rate policy|low interest rates for several years. As the Federal Reserve began raising interest rates in 2022 in response to the 2021–2023 inflation surge|2021–2022 inflation surge, bond prices declined, decreasing the market value of Bank reserves|bank capital reserves, causing some banks to incur unrealized losses; to maintain liquidity, Silicon Valley Bank sold its bonds to realize  steep losses. the 2020–2022 cryptocurrency bubble cryptocurrency bubble#2020–2022 cryptocurrency bubble|popped in late 2022. In this environment, three such banks failed or were shut down by regulatory authority|regulators: The first bank to fail, cryptocurrency-focused Silvergate Bank, announced it would wind down on March 8, 2023, due to losses suffered in its loan portfolio. Two days later, upon announcement of an attempt to raise capital, a bank run occurred at Silicon Valley Bank, causing it to Collapse of Silicon Valley Bank|collapse and be seized by regulators that day. The collapses of First Republic Bank, Silicon Valley Bank and Signature Bank were the second-, third- and fourth-List of largest U.S. bank failures|largest bank failures in the history of the United States, respectively, smaller only than the collapse of Washington Mutual during the 2007–2008 financial crisis.{{Failed verification|date=May 2023}}",
+              "references": [
+                {
+                  "text": "<ref name=wsj20230316 /> Also, several banks gained market exposure to cryptocurrency and cryptocurrency-related firms prior to and during the COVID-19 pandemic;<ref>{{Cite news |last=DiCamilio |first=Nate |date=March 1, 2023 |title=How much exposure do global banks have to crypto? |work=Quartz (magazine)|Quartz |url=https://qz.com/new-report-reveals-global-bank-crypto-exposure-1850173608 |access-date=March 12, 2023 |archive-date=March 7, 2023 |archive-url=https://web.archive.org/web/20230307213825/https://qz.com/new-report-reveals-global-bank-crypto-exposure-1850173608 |url-status=live }}</ref>",
+                  "url": "https://qz.com/new-report-reveals-global-bank-crypto-exposure-1850173608",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Julian |last2=Gerrit |first1=Mark |first2=De Vynck |date=17 December 2022 |title='Crypto winter' has come. And it's looking more like an ice age. |newspaper=The Washington Post |url=https://www.washingtonpost.com/business/2022/12/18/crypto-winter-ftx-collapse-bitcoin-prices/ |url-status=live |url-access=subscription |access-date=18 December 2022 |archive-url=https://web.archive.org/web/20221229181753/https://www.washingtonpost.com/business/2022/12/18/crypto-winter-ftx-collapse-bitcoin-prices/ |archive-date=December 29, 2022}}</ref>",
+                  "url": "https://www.washingtonpost.com/business/2022/12/18/crypto-winter-ftx-collapse-bitcoin-prices/",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=mktwatch20230312>{{Cite news |last=Yue |first=Francis |date=March 12, 2023 |title=Crypto-friendly Signature Bank shut down by regulators, after collapses of Silicon Valley Bank, Silvergate |work=MarketWatch |url=https://www.marketwatch.com/story/crypto-friendly-signature-bank-shut-down-by-regulators-after-collapses-of-silicon-valley-bank-silvergate-6a7f67ec |access-date=March 12, 2023 |archive-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313004230/https://www.marketwatch.com/story/crypto-friendly-signature-bank-shut-down-by-regulators-after-collapses-of-silicon-valley-bank-silvergate-6a7f67ec |url-status=live }}</ref>",
+                  "url": "https://www.marketwatch.com/story/crypto-friendly-signature-bank-shut-down-by-regulators-after-collapses-of-silicon-valley-bank-silvergate-6a7f67ec",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=wsj20230308>{{Cite news |last=Ensign |first=Rachel Louise |date=March 8, 2022 |title=Crypto Bank Silvergate to Shut Down, Repay Deposits |work=The Wall Street Journal |url=https://www.wsj.com/articles/crypto-bank-silvergate-to-shut-down-repay-deposits-4bc2a469?mod=article_inline |access-date=13 March 2023 |archive-date=12 March 2023 |archive-url=https://web.archive.org/web/20230312062201/https://www.wsj.com/articles/crypto-bank-silvergate-to-shut-down-repay-deposits-4bc2a469?mod=article_inline |url-status=live }}</ref>",
+                  "url": "https://www.wsj.com/articles/crypto-bank-silvergate-to-shut-down-repay-deposits-4bc2a469?mod=article_inline",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=mktwatch20230312/> Signature Bank, a bank that frequently did business with cryptocurrency firms, was closed by regulators two days later on March 12, with regulators citing systemic risks.<ref name=mktwatch20230312/><ref name=\":10\" /><ref name=\":2\">{{Cite news |last1=Ensign |first1=Rachel Louise |last2=Benoit |first2=David |date=March 12, 2023 |title=Signature Bank Is Shut by Regulators After SVB Failure |work=The Wall Street Journal |url=https://www.wsj.com/articles/signature-bank-is-shut-by-regulators-after-svb-failure-a5f9e0f7 |access-date=March 12, 2023 |archive-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313004239/https://www.wsj.com/articles/signature-bank-is-shut-by-regulators-after-svb-failure-a5f9e0f7 |url-status=live }}</ref>",
+                  "url": "https://www.wsj.com/articles/signature-bank-is-shut-by-regulators-after-svb-failure-a5f9e0f7",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Ensign |first1=Rachel Louise |last2=Eisen |first2=Ben |title=First Republic Bank Is Seized, Sold to JPMorgan in Second-Largest U.S. Bank Failure |url=https://www.wsj.com/articles/first-republic-bank-is-seized-sold-to-jpmorgan-in-second-largest-u-s-bank-failure-5cec723 |access-date=1 May 2023 |work=The Wall Street Journal |date=1 May 2023}}</ref>",
+                  "url": "https://www.wsj.com/articles/first-republic-bank-is-seized-sold-to-jpmorgan-in-second-largest-u-s-bank-failure-5cec723",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "In 2019, the Federal Reserve's \"Tailoring rules\" changed, increasing minimum asset threshold from $50 billion to $100 billion and reduced the number of required stress testing scenarios, allowing banks with under $100 billion to have reduced liquidity standards. Signature Bank and First Republic Bank were under the $100 billion total assets for the Federal Reserve's tailoring rules, allowing the banks to have reduced regulation for liquidity. Some have questioned if First Republic Bank would have had a bank run if there were similar regulation to EU countries in the United States.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Polk |first=Davis |date=November 21, 2019 |title=The Final Tailoring Rules for U.S. Banking Organizations |url=https://www.davispolk.com/sites/default/files/2019-11-21_final_tailoring_rules_for_u.s._banking_organizations.pdf |url-status=live |website=davispolk |archive-url=https://web.archive.org/web/20230429232928/https://www.davispolk.com/sites/default/files/2019-11-21_final_tailoring_rules_for_u.s._banking_organizations.pdf |archive-date=April 29, 2023}}</ref>",
+                  "url": "https://www.davispolk.com/sites/default/files/2019-11-21_final_tailoring_rules_for_u.s._banking_organizations.pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2019 |title=Tailoring Rule visual |url=https://www.federalreserve.gov/aboutthefed/boardmeetings/files/tailoring-rule-visual-20191010.pdf |url-status=live |access-date= |website=Federal Reserve |archive-url=https://web.archive.org/web/20230719202328/https://www.federalreserve.gov/aboutthefed/boardmeetings/files/tailoring-rule-visual-20191010.pdf |archive-date=July 19, 2023 }}</ref>",
+                  "url": "https://www.federalreserve.gov/aboutthefed/boardmeetings/files/tailoring-rule-visual-20191010.pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"10K\">{{Cite web|url=https://ir.firstrepublic.com/static-files/89a1df66-7e28-4491-86aa-a331900db222|title=First Republic Bank 2022 Form 10-K Annual Report|publisher=First Republic}}</ref>",
+                  "url": "https://ir.firstrepublic.com/static-files/89a1df66-7e28-4491-86aa-a331900db222",
+                  "status_code": null,
+                  "reason": "Cannot connect to host ir.firstrepublic.com:443 ssl:default [Domain name not found]",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Signature Bank 2021 Annual Report |url=https://www.annualreports.com/HostedData/AnnualReports/PDF/NASDAQ_SBNY_2021.pdf |website=Annual Reports}}</ref>",
+                  "url": "https://www.annualreports.com/HostedData/AnnualReports/PDF/NASDAQ_SBNY_2021.pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Coppula |first=Frances |date=2023 |title=Can First Republic Bank recover |url=https://coppolacomment.substack.com/p/can-first-republic-bank-recover |url-status=dead |archive-url=https://web.archive.org/web/20230425202725/https://coppolacomment.substack.com/p/can-first-republic-bank-recover |archive-date=25 April 2023 |website=substack}}</ref>",
+                  "url": "https://coppolacomment.substack.com/p/can-first-republic-bank-recover",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Liquidation of Silvergate Bank",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "3.2",
+          "title": "Background",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "Silvergate Bank was a California-based bank that began operations in 1988 as a savings and loan association. In the 2010s, the bank began to provide banking services to players within the cryptocurrency market. The bank sought regulatory approval in the summer of 2014 to do business with cryptocurrency firms. The bank expanded the assets on its balance sheet significantly—doubling its assets in its 2017 fiscal year to $1.9 billion—by servicing cryptocurrency exchanges and other companies who were involved in the cryptocurrency business that could not secure financing from larger, more conservative banks. Despite its rapid growth, the company maintained a small physical footprint; {{As of|2018|alt=in 2018}}, the bank had only three branches, all located in Southern California. By the fourth quarter of 2022, 90% of the bank's deposits had become cryptocurrency-related, with over $1 billion in deposits being tied to Sam Bankman-Fried.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":3\">{{Cite news |first1=Kate |last1=Rooney |last2=Cheng |first2=Evelyn |date=May 31, 2018 |title=Meet the small community lender that's become the go-to banker of the cryptocurrency world |work=CNBC |url=https://www.cnbc.com/2018/05/31/meet-silvergates-alan-lane-whos-bankrolling-cryptocurrency-exchanges.html |url-status=live |access-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230309161353/https://www.cnbc.com/2018/05/31/meet-silvergates-alan-lane-whos-bankrolling-cryptocurrency-exchanges.html |archive-date=March 9, 2023}}</ref>",
+                      "url": "https://www.cnbc.com/2018/05/31/meet-silvergates-alan-lane-whos-bankrolling-cryptocurrency-exchanges.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":4\">{{Cite news |last=Benoit |first=David |date=January 5, 2023 |title=Silvergate Raced to Cover $8.1 Billion in Withdrawals During Crypto Meltdown |work=The Wall Street Journal |url=https://www.wsj.com/articles/silvergate-raced-to-cover-8-1-billion-in-withdrawals-during-crypto-meltdown-11672895207 |access-date=March 13, 2023 |archive-date=March 12, 2023 |archive-url=https://web.archive.org/web/20230312164928/https://www.wsj.com/articles/silvergate-raced-to-cover-8-1-billion-in-withdrawals-during-crypto-meltdown-11672895207 |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/articles/silvergate-raced-to-cover-8-1-billion-in-withdrawals-during-crypto-meltdown-11672895207",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.3",
+          "title": "Events",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.3.s1",
+                  "text": "Silvergate was hit with a bank run in the wake of the bankruptcy of FTX; deposits from cryptocurrency-related firms dropped by 68% at the bank, with the bank facing requests from its clients to withdraw upwards of $8 billion in deposits. The bank, in a public statement, said that it was solvent at the end of Q4 2022, with an asset sheet containing assets of $4.6 billion in cash and $5.6 billion in liquid debt securities, with $3.8 billion in deposit obligations. Silvergate wrote in a regulatory filing on March 1 that the bank risked losing its status as a well-capitalized bank and that the bank faced risks relating to its ability to continue operating.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":4\" /> As Silvergate did not have enough cash-on-hand to satisfy the deposit withdrawals, the bank began to sell its assets at a steep loss; the company realized a loss of $718 million on withdrawal-related asset sales in the fourth fiscal quarter of 2022 alone.<ref name=\":4\" /><ref name=\":5\" /><ref>{{Cite news |last=Forelle |first=Charles |date=January 5, 2023 |title=When 'Held to Maturity' Isn't—and Why That Matters to Silvergate |work=The Wall Street Journal |url=https://www.wsj.com/livecoverage/stock-market-news-today-01-05-2023/card/when-held-to-maturity-isn-t-and-why-that-matters-to-silvergate-M3iuQ83zpMGeZLYKQnRv |access-date=March 13, 2023 |archive-date=January 5, 2023 |archive-url=https://web.archive.org/web/20230105163648/https://www.wsj.com/livecoverage/stock-market-news-today-01-05-2023/card/when-held-to-maturity-isn-t-and-why-that-matters-to-silvergate-M3iuQ83zpMGeZLYKQnRv |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/livecoverage/stock-market-news-today-01-05-2023/card/when-held-to-maturity-isn-t-and-why-that-matters-to-silvergate-M3iuQ83zpMGeZLYKQnRv",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":4\" /> Silvergate faced tight financial constraints in the coming months, selling assets at a loss and borrowing $3.6 billion from the Federal Home Loan Banks|Federal Home Loan Bank of San Francisco to maintain its liquidity.<ref>{{Cite news |last=Wallerstein |first=Eric |date=January 21, 2023 |title=Crypto Banks Borrow Billions From Home-Loan Banks to Plug Shortfalls |work=The Wall Street Journal |url=https://www.wsj.com/articles/crypto-banks-borrow-billions-from-home-loan-banks-to-plug-shortfalls-11674263424?mod=Searchresults_pos11&page=1 |access-date=March 13, 2023 |archive-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313145211/https://www.wsj.com/articles/crypto-banks-borrow-billions-from-home-loan-banks-to-plug-shortfalls-11674263424?mod=Searchresults_pos11&page=1 |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/articles/crypto-banks-borrow-billions-from-home-loan-banks-to-plug-shortfalls-11674263424?mod=Searchresults_pos11&page=1",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=wsj20230308/><ref>{{Cite news |last=Grant |first=Charley |date=March 1, 2023 |title=Silvergate Stock Drops After Filing Raises Questions About Its Ability to Stay in Business |work=The Wall Street Journal |url=https://www.wsj.com/livecoverage/stock-market-news-today-03-01-2023/card/crypto-bank-silvergate-s-stock-sells-off-sharply-on-late-annual-report-7dItaBqGHOFI6hQjod9b |access-date=March 13, 2023 |archive-date=March 9, 2023 |archive-url=https://web.archive.org/web/20230309000116/https://www.wsj.com/livecoverage/stock-market-news-today-03-01-2023/card/crypto-bank-silvergate-s-stock-sells-off-sharply-on-late-annual-report-7dItaBqGHOFI6hQjod9b |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/livecoverage/stock-market-news-today-03-01-2023/card/crypto-bank-silvergate-s-stock-sells-off-sharply-on-late-annual-report-7dItaBqGHOFI6hQjod9b",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.3.s2",
+                  "text": "Facing continued losses from sales of securities at mark-to-market price, Silvergate released a public notice on March 8, 2023, saying that it would undergo voluntary liquidation and would return all deposited funds to their respective owners.",
+                  "references": [
+                    {
+                      "text": "<ref name=wsj20230308/><ref name=\":2\" /><ref name=\":5\">{{Cite news |last=Demos |first=Telis |date=March 9, 2023 |title=Silvergate's Story Is About Fundamentals, Not Just Crypto |work=The Wall Street Journal |url=https://www.wsj.com/articles/silvergates-story-is-about-fundamentals-not-just-crypto-30f08fc6 |access-date=March 13, 2023 |archive-date=March 12, 2023 |archive-url=https://web.archive.org/web/20230312043609/https://www.wsj.com/articles/silvergates-story-is-about-fundamentals-not-just-crypto-30f08fc6 |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/articles/silvergates-story-is-about-fundamentals-not-just-crypto-30f08fc6",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Collapse of Silicon Valley Bank",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "4.2",
+          "title": "Background",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "Silicon Valley Bank (SVB) was a commercial bank founded in 1983 and headquartered in Santa Clara, California. Until its collapse, SVB was the 16th largest bank in the United States and was heavily skewed toward serving companies and individuals from the technology industry. Nearly half of U.S. venture capital-backed healthcare and technology companies were financed by SVB. Companies such as Airbnb, Cisco, Fitbit, Pinterest, and Block, Inc. have been clients of the bank. In addition to financing venture-backed companies, SVB was well known as a source of private banking, personal credit lines, and mortgages to tech entrepreneurs. According to the Federal Deposit Insurance Corporation|FDIC, it had $209 billion in assets at the end of 2022.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"Russell-2023\">{{Cite news |last1=Russell |first1=Karl |last2=Zhang |first2=Christine |date=March 11, 2023 |title=The Second-Biggest Bank Failure |work=The New York Times |url=https://www.nytimes.com/interactive/2023/03/10/business/bank-failures-silicon-valley-collapse.html |url-status=live |url-access=limited |access-date=March 11, 2023 |archive-url=https://web.archive.org/web/20230311091407/https://www.nytimes.com/interactive/2023/03/10/business/bank-failures-silicon-valley-collapse.html |archive-date=March 11, 2023 |issn=0362-4331}}</ref>",
+                      "url": "https://www.nytimes.com/interactive/2023/business/bank-failures-svb-first-republic-signature.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"blaw-pollard\">{{cite news |last=Pollard |first=Amelia |date=March 10, 2023 |title=Silicon Valley Bank Collapses in Biggest Failure Since 2008 |work=Bloomberg Law |url=https://news.bloomberglaw.com/crypto/silicon-valley-bank-collapses-enters-fdic-receivership |url-status=live |archive-url=https://web.archive.org/web/20230310190224/https://news.bloomberglaw.com/crypto/silicon-valley-bank-collapses-enters-fdic-receivership |archive-date=March 10, 2023}}</ref>",
+                      "url": "https://news.bloomberglaw.com/crypto/silicon-valley-bank-collapses-enters-fdic-receivership",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"APNewsInfo\">{{Cite news |last=Sweet |first=Ken |date=March 10, 2023 |title=Silicon Valley Bank is seized by US after historic failure |agency=Associated Press |url=https://apnews.com/article/svb-fed-bonds-rates-banks-inflation-a24b28b3caeede91c76cd120aa9b7966 |url-status=live |access-date=March 10, 2023 |archive-url=https://web.archive.org/web/20230310180917/https://apnews.com/article/svb-fed-bonds-rates-banks-inflation-a24b28b3caeede91c76cd120aa9b7966 |archive-date=March 10, 2023}}</ref>",
+                      "url": "https://apnews.com/article/svb-fed-bonds-rates-banks-inflation-a24b28b3caeede91c76cd120aa9b7966",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Maruf-2023\">{{Cite news |last1=Maruf |first1=Ramishah |last2=Morrow |first2=Allison |date=March 11, 2023 |title=How does a bank collapse in 48 hours? A timeline of the SVB fall |work=CNN Business |url=https://www.cnn.com/2023/03/11/business/svb-bank-collapse-explainer-timeline/ |url-status=live |access-date=March 11, 2023 |archive-url=https://web.archive.org/web/20230311144018/https://www.cnn.com/2023/03/11/business/svb-bank-collapse-explainer-timeline/ |archive-date=March 11, 2023}}</ref>",
+                      "url": "https://edition.cnn.com/2023/03/11/business/svb-bank-collapse-explainer-timeline/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Wile |first=Rob |date=March 10, 2023 |title=Silicon Valley Bank shutdown: How it happened and what comes next |work=NBC News |url=https://www.nbcnews.com/business/business-news/silicon-valley-bank-collapse-news-updates-rcna74384 |url-status=live |access-date=March 10, 2023 |archive-url=https://web.archive.org/web/20230310202626/https://www.nbcnews.com/business/business-news/silicon-valley-bank-collapse-news-updates-rcna74384 |archive-date=March 10, 2023}}</ref>",
+                      "url": "https://www.nbcnews.com/business/business-news/silicon-valley-bank-collapse-news-updates-rcna74384",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Gittelsohn |first1=John |last2=Murphy |first2=Margi |last3=Miller |first3=Hannah |date=March 10, 2023 |title=SVB Rocks California as Founders Join Napa Vintners in Fear |work=Bloomberg News |url=https://www.bloomberg.com/news/articles/2023-03-10/svb-rocks-california-as-rich-founders-join-napa-vintners-in-fear |url-status=live |url-access=subscription |access-date=March 11, 2023 |archive-url=https://web.archive.org/web/20230311010029/https://www.bloomberg.com/news/articles/2023-03-10/svb-rocks-california-as-rich-founders-join-napa-vintners-in-fear |archive-date=March 11, 2023}}</ref>",
+                      "url": "https://www.bloomberg.com/news/articles/2023-03-10/svb-rocks-california-as-rich-founders-join-napa-vintners-in-fear",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Maruf |first1=Ramishah |date=March 11, 2023 |title=Takeaways from America's second-largest bank failure |work=CNN Business |url=https://edition.cnn.com/2023/03/11/business/svb-collapse-roundup-takeaways/index.html |access-date=March 14, 2023 |archive-date=March 14, 2023 |archive-url=https://web.archive.org/web/20230314070546/https://edition.cnn.com/2023/03/11/business/svb-collapse-roundup-takeaways/index.html |url-status=live }}</ref>",
+                      "url": "https://edition.cnn.com/2023/03/11/business/svb-collapse-roundup-takeaways/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.2.s2",
+                  "text": "Silicon Valley Bank recorded an increase of its deposit holdings during the COVID-19 pandemic, when the tech sector experienced impact of the COVID-19 pandemic on science and technology|a period of growth. In 2021, it purchased long-term United States Treasury security|Treasury bonds to capitalize on the increased deposits. However, the current market value of these bonds decreased as the Federal Reserve raised interest rates to curb the 2021–2023 inflation surge. Higher interest rates also raised borrowing costs throughout the economy and some Silicon Valley Bank clients started pulling money out to meet their liquidity needs.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=March 10, 2023 |title=Why did Silicon Valley Bank fail? |language=en-GB |work=The Guardian |agency=Reuters |url=https://www.theguardian.com/us-news/2023/mar/10/silicon-valley-bank-collapse-explainer |url-status=live |access-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313025226/https://www.theguardian.com/us-news/2023/mar/10/silicon-valley-bank-collapse-explainer |archive-date=March 13, 2023 |issn=0261-3077}}</ref>",
+                      "url": "https://www.theguardian.com/us-news/2023/mar/10/silicon-valley-bank-collapse-explainer",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"DFPI order\">{{cite web |last=Hewlett |first=Clothilde V. |date=March 10, 2023 |title=In re Silicon Valley Bank: Order taking possession of property and business |url=https://dfpi.ca.gov/wp-content/uploads/sites/337/2023/03/DFPI-Orders-Silicon-Valley-Bank-03102023.pdf |url-status=live |archive-url=https://web.archive.org/web/20230310222622/https://dfpi.ca.gov/wp-content/uploads/sites/337/2023/03/DFPI-Orders-Silicon-Valley-Bank-03102023.pdf |archive-date=March 10, 2023 |access-date=March 10, 2023 |publisher=California Department of Financial Protection and Innovation }}</ref>",
+                      "url": "https://dfpi.ca.gov/wp-content/uploads/sites/337/2023/03/DFPI-Orders-Silicon-Valley-Bank-03102023.pdf",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Events",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.3.s1",
+                  "text": "On March 10, 2023, as a result of the bank run, the California Department of Financial Protection and Innovation (DFPI) seized SVB and placed it under the receivership of the FDIC. The FDIC established a deposit insurance national bank, the Deposit Insurance National Bank of Santa Clara, to service insured deposits and announced that it would start paying dividends for uninsured deposits the following week; the dividends were funded by proceeds from the sale of SVB assets. Some 89 percent of the bank's US$172{{nbsp}}billion in deposit liabilities exceeded the maximum insured by the FDIC. Two days after the failure, the FDIC received exceptional authority from the Treasury and announced jointly with other agencies that all depositors would have full access to their funds the next morning. An initial auction of Silicon Valley Bank assets on the same day attracted a single bid, The FDIC rejected this offer and planned to hold a second auction to attract bids from major banks, now that the bank's systemic risk designation allowed the FDIC to insure all deposits. The bank was later reopened as a newly organized bridge bank, Silicon Valley Bridge Bank, National bank (United States)|N.A.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"reuters_fwj\">{{Cite news |last1=French |first1=David |last2=Wang |first2=Echo |last3=John |first3=Alun |date=March 10, 2023 |title=Silicon Valley Bank is largest failure since financial crisis, billions stranded |agency=Reuters |url=https://www.reuters.com/business/finance/global-markets-banks-wrapup-1-2023-03-10/ |url-status=live |url-access=registration |access-date=March 10, 2023 |archive-url=https://web.archive.org/web/20230311105258/https://www.reuters.com/business/finance/global-markets-banks-wrapup-1-2023-03-10/ |archive-date=March 11, 2023}}</ref>",
+                      "url": "https://www.reuters.com/business/finance/global-markets-banks-wrapup-1-2023-03-10/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"FDIC_public_notice\">{{cite press release |location=Washington |publisher=Federal Deposit Insurance Corporation |title=FDIC Creates a Deposit Insurance National Bank of Santa Clara to Protect Insured Depositors of Silicon Valley Bank, Santa Clara, California |url=https://www.fdic.gov/news/press-releases/2023/pr23016.html |date=March 10, 2023 |archive-date=March 10, 2023 |archive-url=https://web.archive.org/web/20230310164633/https://www.fdic.gov/news/press-releases/2023/pr23016.html |url-status=live}}</ref>",
+                      "url": "https://www.fdic.gov/news/press-releases/2023/pr23016.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "press"
+                    },
+                    {
+                      "text": "<ref name=\"Allyn\">{{Cite news |last=Allyn |first=Bobby |date=March 12, 2023 |title=The U.S. takes emergency measures to protect all deposits at Silicon Valley Bank |work=NPR |url=https://www.npr.org/2023/03/12/1162975615/the-u-s-takes-emergency-measures-to-protect-all-deposits-at-silicon-valley-bank |access-date=March 12, 2023 |archive-date=March 12, 2023 |archive-url=https://web.archive.org/web/20230312230152/https://www.npr.org/2023/03/12/1162975615/the-u-s-takes-emergency-measures-to-protect-all-deposits-at-silicon-valley-bank |url-status=live }}</ref>",
+                      "url": "https://www.npr.org/2023/03/12/1162975615/the-u-s-takes-emergency-measures-to-protect-all-deposits-at-silicon-valley-bank",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"treasury pr 12mar\">{{Cite press release |url=https://home.treasury.gov/news/press-releases/jy1337 |date=March 12, 2023 |title=Joint Statement by the Department of the Treasury, Federal Reserve, and FDIC |location=Washington |publisher=US Department of the Treasury |access-date=March 13, 2023 |archive-date=March 12, 2023 |archive-url=https://web.archive.org/web/20230312222324/https://home.treasury.gov/news/press-releases/jy1337 |url-status=live}}</ref>",
+                      "url": "https://home.treasury.gov/news/press-releases/jy1337",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "press"
+                    },
+                    {
+                      "text": "<ref name=\"SFBT Gardner\" /> after PNC Financial Services and RBC Bank backed away from making offers.<ref>{{cite news |last1=Davies |first1=Megan |last2=Sen |first2=Anirban |last3=French |first3=David |last4=Schroeder |first4=Peter |last5=Nguyen |first5=Lananh |date=March 13, 2023 |title=Exclusive: PNC, RBC interest in SVB cools as regulators seek bids |agency=Reuters |location= |url=https://www.reuters.com/business/finance/pnc-rbc-interest-svb-cools-regulators-seek-rescue-bids-sources-2023-03-12/ |url-status=live |url-access=registration |accessdate=March 15, 2023 |archive-url=https://web.archive.org/web/20230314191005/https://www.reuters.com/business/finance/pnc-rbc-interest-svb-cools-regulators-seek-rescue-bids-sources-2023-03-12/ |archive-date=March 14, 2023}}</ref>",
+                      "url": "https://www.reuters.com/business/finance/pnc-rbc-interest-svb-cools-regulators-seek-rescue-bids-sources-2023-03-12/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Rappeport |first1=Alan |author-link=Alan Rappeport |last2=Hirsch |first2=Lauren |last3=Smialek |first3=Jeanna |last4=Tankersley |first4=Jim |date=March 14, 2023 |title=How Washington Decided to Rescue Silicon Valley Bank |work=The New York Times |url=https://www.nytimes.com/2023/03/14/us/politics/inside-silicon-valley-bank-rescue.html |url-status=live |url-access=limited |accessdate=March 15, 2023 |archive-url=https://web.archive.org/web/20230314233227/https://www.nytimes.com/2023/03/14/us/politics/inside-silicon-valley-bank-rescue.html/ |archive-date=March 14, 2023}}</ref>",
+                      "url": "https://www.nytimes.com/2023/03/14/us/politics/inside-silicon-valley-bank-rescue.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"SFBT Gardner\">{{cite news |last=Gardner |first=Jim |date=March 13, 2023 |title=FDIC plans to hold a second auction for Silicon Valley Bank, U.S. senators told |work=San Francisco Business Times |publisher= |location= |url=https://www.bizjournals.com/sanjose/news/2023/03/13/fdic-second-auction-silicon-valley-bank.html |url-status=live |accessdate=March 13, 2023 |archive-url=https://web.archive.org/web/20230314152912/https://www.bizjournals.com/sanjose/news/2023/03/13/fdic-second-auction-silicon-valley-bank.html |archive-date=March 14, 2023}}</ref>",
+                      "url": "https://www.bizjournals.com/sanjose/news/2023/03/13/fdic-second-auction-silicon-valley-bank.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite press release |title=FDIC Acts to Protect All Depositors of the former Silicon Valley Bank, Santa Clara, California |publisher=Federal Deposit Insurance Corporation |location=Washington, D.C. |date=March 13, 2023 |accessdate=March 13, 2023 |url=https://www.fdic.gov/news/press-releases/2023/pr23019.html |archive-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313101120/https://www.fdic.gov/news/press-releases/2023/pr23019.html |url-status=live }}</ref>",
+                      "url": "https://www.fdic.gov/news/press-releases/2023/pr23019.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "press"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.3.s2",
+                  "text": "On March 26, 2023, the FDIC announced that First Citizens BancShares would acquire the commercial banking business of SVB. As part of the deal, First Citizens brought around $56.5{{nbsp}}billion in deposits and $72{{nbsp}}billion of SVB's loans discounted by $16.5{{nbsp}}billion, while around $90{{nbsp}}billion of SVB's securities continue to remain in receivership. The FDIC received about $500{{nbsp}}million-worth of Stock appreciation rights|equity appreciation rights linked to First Citizens' shares. SVB's 17{{nbsp}}branches reopened under the First Citizens brand the next day, with all SVB depositors becoming depositors of First Citizens. SVB Private was initially going to be auctioned separately but First Citizens later acquired the business as well. The UK arm of SVB was acquired by HSBC, which announced it would rename the business to HSBC Innovation Banking.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"acq-nyt\">{{cite news |last=Hirsch |first=Lauren |date=March 27, 2023 |title=First Citizens to Acquire Silicon Valley Bank |newspaper=The New York Times |url=https://www.nytimes.com/2023/03/27/business/silicon-valley-bank-first-citizens.html |url-status=live |url-access=limited |access-date=March 27, 2023 |archive-url=https://web.archive.org/web/20230327053212/https://www.nytimes.com/2023/03/27/business/silicon-valley-bank-first-citizens.html |archive-date=March 27, 2023}}</ref>",
+                      "url": "https://www.nytimes.com/2023/03/27/business/silicon-valley-bank-first-citizens.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"acq-axios\">{{cite web |last=Primack |first=Dan |date=March 27, 2023 |title=First Citizens agrees to buy Silicon Valley Bank |url=https://www.axios.com/2023/03/27/first-citizens-silicon-valley-bank-sold-fdic |website=Axios (website)|Axios |access-date=March 27, 2023 |archive-date=March 27, 2023 |archive-url=https://web.archive.org/web/20230327055527/https://www.axios.com/2023/03/27/first-citizens-silicon-valley-bank-sold-fdic |url-status=live }}</ref>",
+                      "url": "https://www.axios.com/2023/03/27/first-citizens-silicon-valley-bank-sold-fdic",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last=Ackerman |first=Andres |date=March 27, 2023 |title=First Citizens Acquires Much of Failed Silicon Valley Bank |newspaper=The Wall Street Journal |url=https://www.wsj.com/articles/first-citizens-acquires-much-of-failed-silicon-valley-bank-5a4545f |access-date=March 27, 2023 |archive-date=March 27, 2023 |archive-url=https://web.archive.org/web/20230327054716/https://www.wsj.com/articles/first-citizens-acquires-much-of-failed-silicon-valley-bank-5a4545f |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/articles/first-citizens-acquires-much-of-failed-silicon-valley-bank-5a4545f",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Gandel |first1=Stephen |last2=Fontanella-Khan |first2=James |last3=Gara |first3=Antoine |last4=Wiggins |first4=Kaye |date=March 27, 2023 |title=First Citizens to buy failed Silicon Valley Bank |newspaper=Financial Times |url=https://www.ft.com/content/70968033-1dbf-4e31-86a9-6271106be1fc |access-date=March 27, 2023 |archive-date=March 27, 2023 |archive-url=https://web.archive.org/web/20230327053834/https://www.ft.com/content/70968033-1dbf-4e31-86a9-6271106be1fc |url-status=live }}</ref>",
+                      "url": "https://www.ft.com/content/70968033-1dbf-4e31-86a9-6271106be1fc",
+                      "status_code": 406,
+                      "reason": "Not Acceptable",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Britton |first1=Diana |title=SVB Private Goes to First Citizens, but How Much of It Is Left? |url=https://www.wealthmanagement.com/industry/svb-private-goes-first-citizens-how-much-it-left |website=Wealth Management |publisher=Informa |access-date=28 March 2023 |language=en |date=27 March 2023 |archive-date=March 28, 2023 |archive-url=https://web.archive.org/web/20230328214326/https://www.wealthmanagement.com/industry/svb-private-goes-first-citizens-how-much-it-left |url-status=live }}</ref>",
+                      "url": "https://www.wealthmanagement.com/wealth-management-industry-trends/svb-private-goes-to-first-citizens-but-how-much-of-it-is-left-",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |title=HSBC buys Silicon Valley Bank UK |url=https://www.hsbc.com/news-and-views/news/hsbc-news-archive/hsbc-buys-silicon-valley-bank-uk |website=HSBC |access-date=15 August 2023 |date=14 March 2023 |archive-date=August 15, 2023 |archive-url=https://web.archive.org/web/20230815094209/https://www.hsbc.com/news-and-views/news/hsbc-news-archive/hsbc-buys-silicon-valley-bank-uk |url-status=live}}</ref>",
+                      "url": "https://www.hsbc.com/news-and-views/news/hsbc-news-archive/hsbc-buys-silicon-valley-bank-uk",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |title=HSBC to rename British arm of Silicon Valley Bank next month, Sky News reports |url=https://www.reuters.com/business/finance/hsbc-rename-british-arm-silicon-valley-bank-next-month-sky-news-2023-05-29/ |website=Reuters |access-date=15 August 2023 |date=29 May 2023 |archive-date=August 15, 2023 |archive-url=https://web.archive.org/web/20230815094206/https://www.reuters.com/business/finance/hsbc-rename-british-arm-silicon-valley-bank-next-month-sky-news-2023-05-29/ |url-status=live}}</ref>",
+                      "url": "https://www.reuters.com/business/finance/hsbc-rename-british-arm-silicon-valley-bank-next-month-sky-news-2023-05-29/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Collapse of Signature Bank",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "5.2",
+          "title": "Background",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.2.s1",
+                  "text": "stock price (2006–2023)]]\nSignature Bank was a New York City-based bank founded in 2001. The bank began as a subsidiary of Bank Hapoalim that took on clients with assets of around $250,000, lending to small businesses based in New York City and in the New York metropolitan area|surrounding metropolitan area. The bank provided financing within the multifamily residential rental housing market in the New York metropolitan area beginning in 2007, though it began to reduce its exposure to the market during the 2010s. By 2019, just over four-tenths of the value of the bank's loans were made to multifamily homeowners in the New York metropolitan area, comprising $15.8 billion of the bank's then-$38.9 billion in net loans.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":10\">{{Cite news |last=Lang |first=Hannah |last2=Anand |first2=Nupur |date=March 12, 2023 |title=Signature Bank becomes next casualty of banking turmoil after SVB |agency=Reuters |url=https://www.reuters.com/business/finance/new-york-state-regulators-close-signature-bank-2023-03-12/ |url-status=live |url-access=registration |access-date=March 12, 2023 |archive-url=https://web.archive.org/web/20230312233129/https://www.reuters.com/business/finance/new-york-state-regulators-close-signature-bank-2023-03-12/ |archive-date=March 12, 2023}}</ref>",
+                      "url": "https://www.reuters.com/business/finance/new-york-state-regulators-close-signature-bank-2023-03-12/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Pristin |first=Terry |date=2001-05-01 |title=Metro Business Briefing; BANK FOR SMALL BUSINESSES |language=en-US |work=The New York Times |url=https://www.nytimes.com/2001/05/01/nyregion/metro-business-briefing-bank-for-small-businesses.html |url-status=live |url-access=limited |access-date=2023-07-22 |archive-url=https://web.archive.org/web/20150922100340/https://www.nytimes.com/2001/05/01/nyregion/metro-business-briefing-bank-for-small-businesses.html |archive-date=22 September 2015 |issn=0362-4331}}</ref>",
+                      "url": "https://www.nytimes.com/2001/05/01/nyregion/metro-business-briefing-bank-for-small-businesses.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Friedman |first1=Nicole |last2=Parker |first2=Will |date=May 1, 2020 |title=Rent Is Due Today, but Many Tenants Can't—or Won't—Pay |work=The Wall Street Journal |url=https://www.wsj.com/articles/rent-is-due-today-but-many-tenants-cantor-wontpay-11588330801?mod=Searchresults_pos8&page=3 |access-date=March 13, 2023 |archive-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313051535/https://www.wsj.com/articles/rent-is-due-today-but-many-tenants-cantor-wontpay-11588330801?mod=Searchresults_pos8&page=3 |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/articles/rent-is-due-today-but-many-tenants-cantor-wontpay-11588330801?mod=Searchresults_pos8&page=3",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"AB121011\">{{Cite news |last=Davis |first=Paul |date=October 11, 2012 |title=Joseph DePaolo's Signature Bank Is Hard to Copy |work=American Banker |id={{ProQuest|1095581934}}}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":7\">{{Cite news |last=Putzier |first=Konrad |date=June 18, 2019 |title=Community Bank Stocks Hit by New York Rent Reform |work=The Wall Street Journal |url=https://www.wsj.com/articles/community-bank-stocks-hit-by-new-york-rent-reform-11560855601?mod=Searchresults_pos9&page=3 |access-date=March 13, 2023 |archive-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313145207/https://www.wsj.com/articles/community-bank-stocks-hit-by-new-york-rent-reform-11560855601?mod=Searchresults_pos9&page=3 |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/articles/community-bank-stocks-hit-by-new-york-rent-reform-11560855601?mod=Searchresults_pos9&page=3",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":7\" /><ref name=\":8\">{{Cite web |date= |title=Signature Bank Annual Balance Sheet |url=https://www.wsj.com/market-data/quotes/SBNY/financials/annual/balance-sheet |url-status=live |archive-url=https://web.archive.org/web/20230313051537/https://www.wsj.com/market-data/quotes/SBNY/financials/annual/balance-sheet |archive-date=March 13, 2023 |access-date=March 13, 2023 |website=The Wall Street Journal|WSJ Markets}}</ref>",
+                      "url": "https://www.wsj.com/market-data/quotes/SBNY/financials/annual/balance-sheet",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.2.s2",
+                  "text": "Beginning in 2018, Signature Bank began to court customers in the cryptocurrency industry, securing hires that were experienced in the area with the goal of moving away from its dependence on real estate lending. The quantity of deposits held at the bank expanded significantly, with deposits increasing from about $36.3 billion at the end of the 2018 fiscal year to $104 billion by August 2022; that month, over one-quarter of the bank's deposits held were those of cryptocurrency companies.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":9\">{{Cite news |last1=Benoit |first1=David |last2=Ensign |first2=Rachel Louise |date=August 15, 2022 |title=Crypto Is Taking a Few Small Banks on a Wild Ride |work=The Wall Street Journal |url=https://www.wsj.com/articles/crypto-is-taking-a-few-small-banks-on-a-wild-ride-11660432576 |access-date=March 13, 2023 |archive-date=February 3, 2023 |archive-url=https://web.archive.org/web/20230203131028/https://www.wsj.com/articles/crypto-is-taking-a-few-small-banks-on-a-wild-ride-11660432576 |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/articles/crypto-is-taking-a-few-small-banks-on-a-wild-ride-11660432576",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":8\" /><ref name=\":9\" /> Its cryptocurrency-sector clients included large cryptocurrency exchange operators, such as Celsius Network and Binance.<ref name=\":2\" /><ref name=\":9\" /> By early 2023, Signature Bank had become the second largest provider of banking services to the cryptocurrency industry—second only to Silvergate Bank.<ref>{{Cite news |last=Li |first=Yun |date=March 12, 2023 |title=Regulators close crypto-focused Signature Bank, citing systemic risk |work=CNBC |url=https://www.cnbc.com/2023/03/12/regulators-close-new-yorks-signature-bank-citing-systemic-risk.html |access-date=March 13, 2023 |archive-date=March 12, 2023 |archive-url=https://web.archive.org/web/20230312223307/https://www.cnbc.com/2023/03/12/regulators-close-new-yorks-signature-bank-citing-systemic-risk.html |url-status=live }}</ref>",
+                      "url": "https://www.cnbc.com/2023/03/12/regulators-close-new-yorks-signature-bank-citing-systemic-risk.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.2.s3",
+                  "text": "In addition to providing traditional banking services to cryptocurrency clients, Signature Bank opened a proprietary payment network for use among its cryptocurrency clients. The payment network, Signet, had opened in 2019 for approved clients, and allowed the real-time gross settlement of fund transfers through the blockchain without third parties or transaction fees. By the conclusion of 2020, Signature Bank had 740 clients using Signet. The network continued to expand during the following years; both Coinbase and the TrueUSD dollar-pegged stablecoin had become integrated with Signet in 2022 and 2021, respectively.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"AB210423\">{{Cite news |last=Adams |first=John |date=April 23, 2021 |title=Signature Bank raises its bet on cryptocurrency |work=American Banker |id={{ProQuest|2516512682}}}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Adams |first=John |date=December 26, 2018 |title=Can blockchain jolt energy payments? What about real estate? |work=American Banker |id={{ProQuest|2160050934}}}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Kharif |first=Olga |date=March 12, 2023 |title=Signature Bank Closure Deals Another Blow to Crypto Industry |work=Bloomberg News |url=https://www.bloomberg.com/news/articles/2023-03-12/signature-bank-closure-deals-another-blow-to-crypto-industry?leadSource=uverify%20wall |access-date=March 13, 2023 |archive-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313145240/https://www.bloomberg.com/news/articles/2023-03-12/signature-bank-closure-deals-another-blow-to-crypto-industry?leadSource=uverify%20wall |url-status=live }}</ref>",
+                      "url": "https://www.bloomberg.com/news/articles/2023-03-12/signature-bank-closure-deals-another-blow-to-crypto-industry?leadSource=uverify%20wall",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.3",
+          "title": "Events",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.3.s1",
+                  "text": "As cryptocurrency prices dropped significantly in 2022, particularly so after Bankruptcy of FTX|the collapse of cryptocurrency exchange FTX, depositors in Signature Bank began to withdraw deposits in the tune of billions of dollars; by the end of 2022, deposits in the bank totaled around $88.6 billion, down from $106.1 billion in deposits held at the beginning of the year—a time when over one-quarter of deposits were held by digital asset-related entities.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":2\" /><ref name=\":8\" /> Towards the end of 2022, Signature Bank cut business ties with cryptocurrency exchange Binance, seeking to reduce the bank's exposure to risk associated with the cryptocurrency market.<ref name=\":2\" /> According to Signature Bank board member Barney Frank, Signature Bank was hit with a multi-billion dollar bank run on Friday, March 10, with depositors expressing concern about cryptocurrency-related risks affecting the bank.<ref name=\":2\" /> Investor confidence in the bank was also badly shaken, and the bank's stock declined by 23% on that Friday—the day on which Silicon Valley bank collapsed—marking the then-largest single-day decline of the Signature Bank's value in its 22-year history.<ref>{{Cite news |last=Miao |first=Hannah |date=March 10, 2023 |title=Signature Bank Stock Logs Worst Day Ever After Silicon Valley Bank, Silvergate Collapse |work=The Wall Street Journal |url=https://www.wsj.com/livecoverage/stock-market-news-today-03-10-2023/card/signature-bank-stock-heads-for-worst-day-ever-after-silicon-valley-bank-silvergate-collapse-cA8UTz5WTof1Cr0jMmzi |access-date=March 13, 2023 |archive-date=March 11, 2023 |archive-url=https://web.archive.org/web/20230311215500/https://www.wsj.com/livecoverage/stock-market-news-today-03-10-2023/card/signature-bank-stock-heads-for-worst-day-ever-after-silicon-valley-bank-silvergate-collapse-cA8UTz5WTof1Cr0jMmzi |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/livecoverage/stock-market-news-today-03-10-2023/card/signature-bank-stock-heads-for-worst-day-ever-after-silicon-valley-bank-silvergate-collapse-cA8UTz5WTof1Cr0jMmzi",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.3.s2",
+                  "text": "On March 12, 2023, two days after the collapse of Silicon Valley Bank, Signature Bank was closed by regulators from the New York State Department of Financial Services in what is the third-biggest banking collapse in U.S. history. The bank was placed under receivership by the FDIC, which immediately established Signature Bridge Bank, National bank (United States)|N.A. to operate its marketed assets to bidders.",
+                  "references": [
+                    {
+                      "text": "<ref name=mktwatch20230312/><ref name=\":2\" /> The bank proved unable to close a sale or otherwise bolster its finances before markets opened on Monday morning in order to protect its assets after customers began withdrawing their deposits in favor of bigger institutions,<ref name=\":2\" /> and shareholders of the bank lost all invested funds.<ref>{{Cite news |last=Eisen |first=Ben |date=March 12, 2023 |title=Signature Bank Shareholders Wiped Out |work=The Wall Street Journal |url=https://www.wsj.com/livecoverage/stock-market-news-today-03-13-2023/card/signature-bank-shareholders-wiped-out-8ygqP4HdxwTvDwp7A0Wa |access-date=March 13, 2023 |archive-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313035002/https://www.wsj.com/livecoverage/stock-market-news-today-03-13-2023/card/signature-bank-shareholders-wiped-out-8ygqP4HdxwTvDwp7A0Wa |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/livecoverage/stock-market-news-today-03-13-2023/card/signature-bank-shareholders-wiped-out-8ygqP4HdxwTvDwp7A0Wa",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"fdic\">{{cite press release |date=March 12, 2023 |title=FDIC Establishes Signature Bridge Bank, N.A., as Successor to Signature Bank, New York, NY |url=https://www.fdic.gov/news/press-releases/2023/pr23018.html |access-date=March 13, 2023 |archive-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313064238/https://www.fdic.gov/news/press-releases/2023/pr23018.html |url-status=live |publisher=Federal Deposit Insurance Corporation}}</ref>",
+                      "url": "https://www.fdic.gov/news/press-releases/2023/pr23018.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "press"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.3.s3",
+                  "text": "Signature Bank had been under multiple federal investigations, ongoing at the time of the bank's collapse, regarding the rigor of its anti-money laundering measures. The U.S. Department of Justice had opened a criminal probe into whether the firm was performing due diligence when opening up new accounts and whether it was doing enough to detect and report potential criminal activity by its clients. The U.S. Securities and Exchange Commission had opened a separate, related civil probe.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last1=Schoenberg |first1=Tom |last2=Benny-Morrison |first2=Ava |last3=Weinstein |first3=Austin |date=March 14, 2023 |title=Signature Bank Faced Criminal Probe Ahead of Firm's Collapse |work=Bloomberg News |url=https://www.bloomberg.com/news/articles/2023-03-15/signature-bank-faced-criminal-probe-ahead-of-firm-s-collapse |access-date=March 15, 2023 |archive-date=March 15, 2023 |archive-url=https://web.archive.org/web/20230315021658/https://www.bloomberg.com/news/articles/2023-03-15/signature-bank-faced-criminal-probe-ahead-of-firm-s-collapse |url-status=live }}</ref>",
+                      "url": "https://www.bloomberg.com/news/articles/2023-03-15/signature-bank-faced-criminal-probe-ahead-of-firm-s-collapse",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last=Ghosh |first=Kanjyik |date=March 14, 2023 |title=Signature Bank faced criminal probe ahead of its collapse – Bloomberg News |agency=Reuters |publisher= |editor-last=Aich |editor-first=Rashmi |url=https://www.reuters.com/markets/us/signature-bank-faced-criminal-probe-ahead-its-collapse-bloomberg-news-2023-03-15/ |url-status=live |url-access=registration |access-date=March 15, 2023 |archive-url=https://web.archive.org/web/20230315045314/https://www.reuters.com/markets/us/signature-bank-faced-criminal-probe-ahead-its-collapse-bloomberg-news-2023-03-15/ |archive-date=March 15, 2023}}</ref>",
+                      "url": "https://www.reuters.com/markets/us/signature-bank-faced-criminal-probe-ahead-its-collapse-bloomberg-news-2023-03-15/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "5.3.s4",
+                  "text": "On March 19, the New York Community Bank (NYCB) agreed to purchase around $38.4 billion in Signature's assets for $2.7 billion. Due to the deal, 40 Signature branches were rebranded to Flagstar Bank, one of NYCB's subsidiaries.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=New York Community Bank to buy failed Signature Bank |url=https://www.nbcnews.com/news/amp/rcna75681 |access-date=20 March 2023 |work=NBC News |date=19 March 2023 |language=en |archive-date=March 20, 2023 |archive-url=https://web.archive.org/web/20230320035257/https://www.nbcnews.com/news/amp/rcna75681 |url-status=live }}</ref>",
+                      "url": "https://www.nbcnews.com/news/amp/rcna75681",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Collapse of First Republic Bank",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "6.2",
+          "title": "Background",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.2.s1",
+                  "text": "{{Expand section|with=a summary with a level of detail about the general operations and history equivalent to the other banks |small=no|date=May 2023}}\nFirst Republic Bank (FRB) was based in San Francisco as a commercial bank and provider of wealth management services. It catered to high-net-worth individuals and operated 93 offices in 11 states, primarily in New York, California, Massachusetts, and Florida.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"10K\"/> It was the 14th largest U.S. bank at the end of 2022.<ref>{{cite web |last1=Schulze |first1=Elizabeth |title=Federal regulators race to seize and sell First Republic Bank |url=https://abcnews.go.com/Business/federal-regulators-race-seize-sell-republic-bank/story?id=98962248 |website=ABC News (United States)|ABC News |access-date=29 April 2023 |archive-url=https://web.archive.org/web/20230429215858/https://abcnews.go.com/Business/federal-regulators-race-seize-sell-republic-bank/story?id=98962248 |archive-date=29 April 2023 |language=en |date=29 April 2023}}</ref>",
+                      "url": "https://abcnews.go.com/Business/federal-regulators-race-seize-sell-republic-bank/story?id=98962248",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.3",
+          "title": "Events",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.3.s1",
+                  "text": "Intense scrutiny and pressure were applied to other U.S. banks, including FRB. On March 13, its shares fell by 62%. Eleven of the largest U.S. banks participated in the rescue effort, under the direction of Jamie Dimon.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":13\">{{cite news |last1=Son |first1=Hugh |date=March 13, 2023 |title=Why regulators seized Signature Bank in third-biggest bank failure in U.S. history |language=en |work=CNBC |url=https://www.cnbc.com/2023/03/13/signature-bank-third-biggest-bank-failure-in-us-history.html |url-status=live |access-date=March 14, 2023 |archive-url=https://web.archive.org/web/20230313173504/https://www.cnbc.com/2023/03/13/signature-bank-third-biggest-bank-failure-in-us-history.html |archive-date=March 13, 2023}}</ref>",
+                      "url": "https://www.cnbc.com/2023/03/13/signature-bank-third-biggest-bank-failure-in-us-history.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"ft_regional_banks\" /> As the bank faced significant liquidity issues, on March 16, it received a $30 billion lifeline in the form of deposits from a number of major U.S. banks, on top of a $70 billion financing facility provided by JPMorgan Chase|JPMorgan Chase & Co.<ref>{{cite news |last1=Schroeder |first1=Pete |last2=Prentice |first2=Chris |last3=Anand |first3=Nupur |date=March 16, 2023 |title=Major US banks inject $30 billion to rescue First Republic Bank |language=en |agency=Reuters |url=https://www.reuters.com/business/finance/credit-suisse-borrow-up-54-bln-it-seeks-calm-investor-fears-2023-03-16/ |url-status=live |access-date=March 17, 2023 |archive-url=https://web.archive.org/web/20230316145329/https://www.reuters.com/business/finance/credit-suisse-borrow-up-54-bln-it-seeks-calm-investor-fears-2023-03-16/ |archive-date=March 16, 2023}}</ref>",
+                      "url": "https://www.reuters.com/business/finance/credit-suisse-borrow-up-54-bln-it-seeks-calm-investor-fears-2023-03-16/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Copeland |first1=Rob |last2=Hirsch |first2=Lauren |last3=Rappeport |first3=Alan |last4=Farrell |first4=Maureen |date=March 16, 2023 |title=Wall Street's Biggest Banks Rescue Teetering First Republic |language=en-US |work=The New York Times |url=https://www.nytimes.com/2023/03/16/business/first-republic-bank-sale.html |url-status=live |url-access=registration |access-date=March 17, 2023 |archive-url=https://web.archive.org/web/20230317021322/https://www.nytimes.com/2023/03/16/business/first-republic-bank-sale.html |archive-date=March 17, 2023 |issn=0362-4331}}</ref>",
+                      "url": "https://www.nytimes.com/2023/03/16/business/first-republic-bank-sale.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=hill20230316>{{cite news |title=What you need to know about this week's banking crisis |url=https://thehill.com/business/3904015-what-you-need-to-know-about-this-weeks-banking-crisis/ |last1=Burns |first1=Tobias |last2=Lane |first2=Sylvan |work=The Hill (newspaper)|The Hill |date=16 March 2023 |access-date=17 March 2023 |archive-date=March 16, 2023 |archive-url=https://web.archive.org/web/20230316211113/https://thehill.com/business/3904015-what-you-need-to-know-about-this-weeks-banking-crisis/ |url-status=live }}</ref>",
+                      "url": "https://thehill.com/business/3904015-what-you-need-to-know-about-this-weeks-banking-crisis/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Hirsch |first1=Lauren |last2=Farrell |first2=Maureen |last3=Smialek |first3=Jeanna |date=29 April 2023 |title=Regulators Prepare to Seize and Sell First Republic |work=The New York Times |url=https://www.nytimes.com/2023/04/29/business/first-republic-seizure-fdic.html |url-status=live |url-access=limited |access-date=29 April 2023 |archive-url=https://web.archive.org/web/20230429202715/https://www.nytimes.com/2023/04/29/business/first-republic-seizure-fdic.html |archive-date=29 April 2023}}</ref>",
+                      "url": "https://www.nytimes.com/2023/04/29/business/first-republic-seizure-fdic.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.3.s2",
+                  "text": "On March 19, S&P Global downgraded the credit rating of First Republic Bank further into junk by three notches saying that the private-sector rescue effort \"may not solve the substantial business, liquidity, funding, and profitability challenges that we believe the bank is now likely facing.\" In its quarterly report in April, the bank said that deposits had plunged by more than $100 billion. The announcement caused the bank's share price to fall by more than 20%.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=March 19, 2023 |title=S&P cuts First Republic deeper into junk, says $30 billion infusion may not solve problems |url=https://www.cnbc.com/2023/03/19/sp-cuts-first-republic-deeper-into-junk-says-30-billion-infusion-may-not-solve-problems.html |url-status=live |archive-url=https://web.archive.org/web/20230320003638/https://www.cnbc.com/2023/03/19/sp-cuts-first-republic-deeper-into-junk-says-30-billion-infusion-may-not-solve-problems.html |archive-date=March 20, 2023 |access-date=2023-03-20 |website=CNBC |language=en |via=}}</ref>",
+                      "url": "https://www.cnbc.com/2023/03/19/sp-cuts-first-republic-deeper-into-junk-says-30-billion-infusion-may-not-solve-problems.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Yasmin |first1=Mehnaz |last2=Anand |first2=Nupur |date=25 April 2023 |title=First Republic Bank deposits tumble more than $100 billion as it explores options |url=https://www.reuters.com/business/finance/first-republic-bank-deposits-falls-41-shares-slide-2023-04-24/ |url-access=registration |url-status=live |archive-url=https://web.archive.org/web/20230425203233/https://www.reuters.com/business/finance/first-republic-bank-deposits-falls-41-shares-slide-2023-04-24/ |archive-date=April 25, 2023 |access-date=25 April 2023 |website=Reuters |language=en}}</ref>",
+                      "url": "https://www.reuters.com/business/finance/first-republic-bank-deposits-falls-41-shares-slide-2023-04-24/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.3.s3",
+                  "text": "On April 28, the bank announced plans to begin selling its bonds and securities at a loss to raise equity and also begin laying off people. Multiple advisor teams began to leave the bank as well. On that day, it was announced that the FDIC was considering seizing the bank, causing its stock price to plunge another 43% to $3.50. After falling another 42% in after hours trading, the FDIC confirmed its imminent takeover of the bank. In 2023, the cumulative decrease in stock price was 97%. The next day, the FDIC approached various banks, including JPMorgan Chase, PNC Financial Services|PNC and Bank of America, saying they had until April 30 to place bids for First Republic Bank.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":0\">{{cite web |last1=Pound |first1=Jesse |title=First Republic most likely headed for FDIC receivership, sources say; shares drop 40% |url=https://www.cnbc.com/2023/04/28/first-republics-stock-poised-to-rise-for-second-day-as-regional-bank-searches-for-rescue-deal.html |website=CNBC |access-date=April 28, 2023 |language=en |date=April 28, 2023 |archive-date=April 28, 2023 |archive-url=https://web.archive.org/web/20230428131020/https://www.cnbc.com/2023/04/28/first-republics-stock-poised-to-rise-for-second-day-as-regional-bank-searches-for-rescue-deal.html |url-status=live }}</ref>",
+                      "url": "https://www.cnbc.com/2023/04/28/first-republics-stock-poised-to-rise-for-second-day-as-regional-bank-searches-for-rescue-deal.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Welsch |first1=Andrew |title=Pressure on First Republic Mounts as Advisors Jump Ship |url=https://www.barrons.com/articles/first-republic-advisor-exodus-stock-a182ef2c |website=Barron's (newspaper)|Barrons |access-date=April 28, 2023 |date=April 28, 2023 |archive-date=April 28, 2023 |archive-url=https://web.archive.org/web/20230428222151/https://www.barrons.com/articles/first-republic-advisor-exodus-stock-a182ef2c |url-status=live }}</ref>",
+                      "url": "https://www.barrons.com/articles/first-republic-advisor-exodus-stock-a182ef2c",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":0\" /><ref>{{cite news |last1=Sorkin |first1=Andrew Ross |last2=Mattu |first2=Ravi |last3=Warner |first3=Bernhard |last4=Kessler |first4=Sarah |last5=Merced |first5=Michael J. de la |last6=Hirsch |first6=Lauren |last7=Livni |first7=Ephrat |date=April 28, 2023 |title=First Republic's Troubles Reignite Fears of a Banking Crisis |work=The New York Times |url=https://www.nytimes.com/2023/04/28/business/dealbook/first-republic-deal.html |url-status=live |url-access=limited |access-date=April 28, 2023 |archive-url=https://web.archive.org/web/20230428122145/https://www.nytimes.com/2023/04/28/business/dealbook/first-republic-deal.html |archive-date=April 28, 2023}}</ref>",
+                      "url": "https://www.nytimes.com/2023/04/28/business/dealbook/first-republic-deal.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web |title=First Republic Bank Stock Quote (U.S.: NYSE) |url=https://www.marketwatch.com/investing/stock/frc |website=MarketWatch |access-date=April 28, 2023 |language=en |archive-date=April 27, 2023 |archive-url=https://web.archive.org/web/20230427235639/https://www.marketwatch.com/investing/stock/frc |url-status=live }}</ref>",
+                      "url": "https://www.marketwatch.com/investing/stock/frc",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Sabes |first1=Adam |last2=Dumas |first2=Brecj |title=First Republic Bank to be taken over by FDIC: Report |url=https://www.foxbusiness.com/financials/first-republic-bank-taken-over-fdic-report |website=Fox Business |access-date=April 28, 2023 |archive-url=https://web.archive.org/web/20230428224624/https://www.foxbusiness.com/financials/first-republic-bank-taken-over-fdic-report |archive-date=28 April 2023 |date=April 28, 2023}}</ref>",
+                      "url": "https://www.foxbusiness.com/financials/first-republic-bank-taken-over-fdic-report",
+                      "status_code": null,
+                      "reason": "Timeout",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Ackerman |first1=Andrew |last2=Benoit |first2=David |last3=Ensign |first3=Rachel Louise |title=JPMorgan, PNC Bidding for First Republic as Part of FDIC Takeover |url=https://www.wsj.com/articles/jpmorgan-pnc-bid-to-buy-first-republic-as-part-of-fdic-takeover-aeb936a0 |website=The Wall Street Journal |date=April 29, 2023 |access-date=29 April 2023 |archive-date=April 29, 2023 |archive-url=https://web.archive.org/web/20230429080930/https://www.wsj.com/articles/jpmorgan-pnc-bid-to-buy-first-republic-as-part-of-fdic-takeover-aeb936a0 |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/articles/jpmorgan-pnc-bid-to-buy-first-republic-as-part-of-fdic-takeover-aeb936a0",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":16\">{{cite web |last1=Hollerith |first1=David |title=FDIC approaches big banks about buying First Republic |url=https://finance.yahoo.com/news/fdic-approaches-big-banks-about-buying-first-republic-115617688.html |website=Yahoo! Finance |access-date=29 April 2023 |date=29 April 2023 |archive-date=April 29, 2023 |archive-url=https://web.archive.org/web/20230429215859/https://finance.yahoo.com/jpm-bank-of-america-consider-first-republic-bids-as-fdic-sets-sunday-noon-deadline-183757831.html |url-status=live }}</ref>",
+                      "url": "https://finance.yahoo.com/news/fdic-approaches-big-banks-about-buying-first-republic-115617688.html",
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.3.s4",
+                  "text": "On the morning of May 1, the California Department of Financial Protection and Innovation announced that FRB had been closed, and its assets were sold to JPMorgan for $10.6 billion.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |last1=Murdoch |first1=Scott |last2=Nishant |first2=Niket |last3=Prentice |first3=Chris |date=1 May 2023 |title=JPMorgan lands as winner in U.S. regulator auction of First Republic |language=en |agency=Reuters |url=https://www.reuters.com/business/finance/california-financial-regulator-takes-possession-first-republic-bank-2023-05-01/ |url-status=live |url-access=registration |access-date=1 May 2023 |archive-url=https://web.archive.org/web/20230622000335/https://www.reuters.com/business/finance/california-financial-regulator-takes-possession-first-republic-bank-2023-05-01/ |archive-date=22 June 2023}}</ref>",
+                      "url": "https://www.reuters.com/business/finance/california-financial-regulator-takes-possession-first-republic-bank-2023-05-01/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "7.2",
+          "title": "Bank Term Funding Program",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.2.s1",
+                  "text": "In response to the bank failures of March, the government took extraordinary measures to mitigate fallout across the banking sector. The program was designed to provide liquidity to financial institutions following the collapse of Silicon Valley Bank and other bank failures, and to reduce the risks associated with current unrealized losses in the U.S. banking system that totaled over $600 billion at the time of the program's launch. Funded through the Deposit Insurance Fund, the program offered loans of up to one year to eligible borrowers who pledged as Collateral (finance)|collateral certain types of Security (finance)|securities including United States Treasury security|U.S. Treasuries, agency debt, and mortgage-backed securities. The collateral was valued at Par value|par instead of Market value|open-market value, so a bank could borrow on asset values that have not been impaired by a History of Federal Open Market Committee actions#Historical actions|series of interest rate hikes since 2022. The Federal Reserve also eased conditions at its discount window. The United States Department of the Treasury|Department of the Treasury said it would make available up to $25{{nbsp}}billion from its Exchange Stabilization Fund as a backstop for the program. In January 2024, the Federal Reserve raised the interest rate on new BTFP loans, stating loans outstanding in the program as of January 17 were $161.5 billion. The program ceased offering new loans on March 11, 2024.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":2\" /> On March 12, Federal Reserve created the Bank Term Funding Program (BTFP), an emergency lending program providing loans of up to one year in length to banks, savings associations, credit unions, and other eligible depository institutions.<ref name=\":11\" /><ref name=\":12\" /><ref>{{Cite web |last=Eisen |first=Ben |date=March 12, 2023 |title=Meet the BTFP, the Fed's 2023 Crisis Facility |url=https://www.wsj.com/livecoverage/stock-market-news-today-03-13-2023/card/meet-the-btfp-the-fed-s-2023-crisis-facility-Bn7TsQpropbMiW1Z3kdp |access-date=March 12, 2023 |work=The Wall Street Journal |archive-date=March 12, 2023 |archive-url=https://web.archive.org/web/20230312233802/https://www.wsj.com/livecoverage/stock-market-news-today-03-13-2023/card/meet-the-btfp-the-fed-s-2023-crisis-facility-Bn7TsQpropbMiW1Z3kdp |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/livecoverage/stock-market-news-today-03-13-2023/card/meet-the-btfp-the-fed-s-2023-crisis-facility-Bn7TsQpropbMiW1Z3kdp",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Cox |first=Jeff |date=March 12, 2023 |title=U.S. government steps in and says people with funds deposited at SVB will be able to access their money |url=https://www.cnbc.com/2023/03/12/regulators-unveil-plan-to-stem-damage-from-svb-collapse.html |access-date=March 12, 2023 |work=CNBC |archive-date=March 12, 2023 |archive-url=https://web.archive.org/web/20230312222220/https://www.cnbc.com/2023/03/12/regulators-unveil-plan-to-stem-damage-from-svb-collapse.html |url-status=live }}</ref>",
+                      "url": "https://www.cnbc.com/2023/03/12/regulators-unveil-plan-to-stem-damage-from-svb-collapse.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Smialek |first1=Jeanna |last2=Rappeport |first2=Alan |date=March 12, 2023 |title=Regulators Race to Contain Silicon Valley Bank Fallout and Close Signature Bank |work=The New York Times |url=https://www.nytimes.com/2023/03/12/business/janet-yellen-silicon-valley-bank.html |url-status=live |url-access=limited |accessdate=March 12, 2023 |archive-url=https://web.archive.org/web/20230313005302/https://www.nytimes.com/2023/03/12/business/janet-yellen-silicon-valley-bank.html |archive-date=March 13, 2023}}</ref>",
+                      "url": "https://www.nytimes.com/2023/03/12/business/janet-yellen-silicon-valley-bank.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Smith |first1=Colby |last2=Politi |first2=James |last3=Fontanella-Khan |first3=James |last4=Masters |first4=Brooke |date=March 12, 2023 |title=Federal Reserve announces emergency lending facility to shore up US banks |newspaper=Financial Times |url=https://www.ft.com/content/8e0be2f4-0b41-4768-b586-49180980ba90 |access-date=March 13, 2023 |archive-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313032224/https://www.ft.com/content/8e0be2f4-0b41-4768-b586-49180980ba90 |url-status=live }}</ref>",
+                      "url": "https://www.ft.com/content/8e0be2f4-0b41-4768-b586-49180980ba90",
+                      "status_code": 406,
+                      "reason": "Not Acceptable",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last=Burns |first=Dan |date=March 12, 2023 |title=Factbox: Key elements of Fed's new US bank funding program |agency=Reuters |url=https://www.reuters.com/markets/us/key-elements-feds-new-us-bank-funding-program-2023-03-13/ |url-status=live |url-access=registration |access-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313083838/https://www.reuters.com/markets/us/key-elements-feds-new-us-bank-funding-program-2023-03-13/ |archive-date=March 13, 2023}}</ref>",
+                      "url": "https://www.reuters.com/markets/us/key-elements-feds-new-us-bank-funding-program-2023-03-13/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Schroder|first1=Pete |date=25 January 2024 |title=Fed to allow emergency bank lending program to expire on March 11 |website=Reuters|url=https://www.reuters.com/markets/us/fed-allow-emergency-bank-lending-program-expire-march-11-2024-01-25/|access-date=30 January 2024}}</ref>",
+                      "url": "https://www.reuters.com/markets/us/fed-allow-emergency-bank-lending-program-expire-march-11-2024-01-25/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Wallerstein |first1=Eric |title=The Fed's Emergency Bank-Funding Program Is Starting to Wind Down |url=https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-11-2024/card/the-fed-s-emergency-bank-funding-program-is-starting-to-wind-down-SC8JgeaQeZMBaun356YR |access-date=18 March 2024 |work=The Wall Street Journal |date=11 March 2024 |archive-url=https://archive.today/20240312133100/https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-11-2024/card/the-fed-s-emergency-bank-funding-program-is-starting-to-wind-down-SC8JgeaQeZMBaun356YR |archive-date=12 Mar 2024}}</ref>",
+                      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-11-2024/card/the-fed-s-emergency-bank-funding-program-is-starting-to-wind-down-SC8JgeaQeZMBaun356YR",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.3",
+          "title": "Government discussion of other funding",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.3.s1",
+                  "text": "In addition to working with their counterparts at the FDIC and U.S. Treasury to provide liquidity to banks through the BTFP, by March 2023, the Federal Reserve had begun to internally discuss implementing stricter Reserve requirement|capital reserve and liquidity requirements for banks with between $100 billion and $250 billion in assets on their balance sheets. A review of regulations affecting regional banks had been ongoing since 2022, as Federal Reserve vice chairman Michael Barr (U.S. official)|Michael Barr and other officials in the Biden Administration had become increasingly concerned about the risk posed to the financial system by the rapidly increasing size of regional banks.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":14\">{{Cite news |last=Ackerman |first=Andrew |date=March 14, 2023 |title=Fed to Consider Tougher Rules for Midsize Banks After SVB, Signature Failures |work=The Wall Street Journal |url=https://www.wsj.com/articles/fed-to-consider-tougher-rules-for-midsize-banks-after-svb-signature-failures-4453fe5d |access-date=March 14, 2023 |archive-date=March 14, 2023 |archive-url=https://web.archive.org/web/20230314234552/https://www.wsj.com/articles/fed-to-consider-tougher-rules-for-midsize-banks-after-svb-signature-failures-4453fe5d |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/articles/fed-to-consider-tougher-rules-for-midsize-banks-after-svb-signature-failures-4453fe5d",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":14\" /><ref>{{Cite news |last=Ackerman |first=Andrew |date=September 7, 2022 |title=Fed's Top Banking Regulator Signals Tougher Merger Reviews, 'Living Wills' |work=The Wall Street Journal |url=https://www.wsj.com/articles/feds-top-banking-regulator-calls-for-safer-fairer-financial-system-11662573609?mod=article_inline |access-date=March 14, 2023 |archive-date=March 14, 2023 |archive-url=https://web.archive.org/web/20230314234814/https://www.wsj.com/articles/feds-top-banking-regulator-calls-for-safer-fairer-financial-system-11662573609?mod=article_inline |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/articles/feds-top-banking-regulator-calls-for-safer-fairer-financial-system-11662573609?mod=article_inline",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.4",
+          "title": "U.S. investigations",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.4.s1",
+                  "text": "The collapse of Silicon Valley Bank itself also spurred federal investigations from the U.S. Securities and Exchange Commission as well as the United States Department of Justice. Within the scope of both probes is the sales of stock made by senior officers of Silicon Valley Bank shortly before the bank failed, while the SEC's investigation also includes a review of past financial-related and other risk-related disclosures made by Silicon Valley Bank to evaluate their accuracy and completeness.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last=Michaels |first=Dave |date=March 14, 2023 |title=Justice Department, SEC Investigating Silicon Valley Bank's Collapse |work=The Wall Street Journal |url=https://www.wsj.com/articles/justice-department-sec-investigating-silicon-valley-banks-collapse-c192c2b2 |access-date=March 14, 2023 |archive-date=March 14, 2023 |archive-url=https://web.archive.org/web/20230314232808/https://www.wsj.com/articles/justice-department-sec-investigating-silicon-valley-banks-collapse-c192c2b2 |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/articles/justice-department-sec-investigating-silicon-valley-banks-collapse-c192c2b2",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.4.s2",
+                  "text": "Internal investigations at the FDIC and Federal Reserve noted that deregulation, not subjecting medium-sized banks to high scrutiny, reduced enforcement of remaining regulations, and government staffing shortages weakened oversight and allowed mismanagement of banks to cause their collapse.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |last1=Horsley |first1=Scott |last2=Gura |first2=David |title=A new report assesses last month's bank failures and includes lessons for the future |url=https://www.npr.org/2023/04/28/1172836560/a-new-report-assesses-last-months-bank-failures-and-includes-lessons-for-the-fut |website=NPR |access-date=1 July 2023 |date=28 April 2023}}</ref>",
+                      "url": "https://www.npr.org/2023/04/28/1172836560/a-new-report-assesses-last-months-bank-failures-and-includes-lessons-for-the-fut",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.5",
+          "title": "Economic impact",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.5.s1",
+                  "text": "As depositors began to move money ''en masse'' from smaller banks to larger banks,\n stock price]]\n <br>  stock price]]\n (CVBF) <br> Stock Price]]\n (PPBI) stock price]]\n (HOPE) Stock Price]]\n (VLY) Stock Price]]\n price]]\nFollowing SVB and Signature's collapses, Western Alliance Bancorporation share price fell 47% and PacWest Bancorp was down 21% recovering after their trading was halted. Moody's downgraded its outlook on the U.S. banking system to negative, citing what it described as \"rapid deterioration\" of the sector's financial footing. It also downgraded the credit ratings of several regional banks, including Western Alliance, First Republic, Intrust Bank, Comerica, UMB Financial Corporation, and Zions Bancorporation. Large declines in regional bank stocks continued after First Republic's failure.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":2\" /><ref name=\":13\" /> on Monday, March 13, shares of regional banks fell.<ref name=\"ft_regional_banks\">{{cite news |last1=Hughes |first1=Jennifer |last2=Fontanella-Khan |first2=James |last3=Aliaj |first3=Ortenca |last4=Masters |first4=Brooke |date=March 13, 2023 |title=First Republic and other US regional banks tumble on fears of deposit flight |work=Financial Times |url=https://www.ft.com/content/7b3214e9-aa2e-4d3a-8724-fe71bb8dd006 |url-status=live |access-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313161457/https://www.ft.com/content/7b3214e9-aa2e-4d3a-8724-fe71bb8dd006 |archive-date=March 13, 2023}}</ref>",
+                      "url": "https://www.ft.com/content/7b3214e9-aa2e-4d3a-8724-fe71bb8dd006",
+                      "status_code": 406,
+                      "reason": "Not Acceptable",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last=Neukam |first=Stephen |date=March 13, 2023 |title=Shares in these five regional banks tumbled Monday despite Biden's assurances |url=https://thehill.com/business/3898453-shares-in-these-five-regional-banks-tumbled-monday-despite-bidens-assurances/ |work=The Hill (newspaper)|The Hill |access-date=March 20, 2023 |archive-date=March 16, 2023 |archive-url=https://web.archive.org/web/20230316151714/https://thehill.com/business/3898453-shares-in-these-five-regional-banks-tumbled-monday-despite-bidens-assurances/ |url-status=live }}</ref>",
+                      "url": "https://thehill.com/business/3898453-shares-in-these-five-regional-banks-tumbled-monday-despite-bidens-assurances/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Singh |first1=Medha |last2=Bautzer |first2=Tatiana |date=March 13, 2023 |title=First Republic dives as fresh financing fails to soothe deposit outflow fears |url=https://www.reuters.com/business/finance/first-republic-slumps-additional-financing-fails-soothe-deposit-outflow-fears-2023-03-13/ |url-access=registration |url-status=live |archive-url=https://web.archive.org/web/20230313145427/https://www.reuters.com/business/finance/first-republic-slumps-additional-financing-fails-soothe-deposit-outflow-fears-2023-03-13/ |archive-date=March 13, 2023 |access-date=March 13, 2023 |website=Reuters}}</ref>",
+                      "url": "https://www.reuters.com/business/finance/first-republic-slumps-additional-financing-fails-soothe-deposit-outflow-fears-2023-03-13/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Price |first1=Chris |date=March 14, 2023 |title=Entire US banking system downgraded after Silicon Valley Bank chaos |url=https://www.telegraph.co.uk/business/2023/03/14/silicon-valley-bank-news-latest-ftse-100-markets-live-jeremy/ |url-status=live |archive-url=https://web.archive.org/web/20230314225451/https://www.telegraph.co.uk/business/2023/03/14/silicon-valley-bank-news-latest-ftse-100-markets-live-jeremy/ |archive-date=March 14, 2023 |access-date=March 14, 2023 |website=The Daily Telegraph |publisher=}}</ref>",
+                      "url": "https://www.telegraph.co.uk/business/2023/03/14/silicon-valley-bank-news-latest-ftse-100-markets-live-jeremy/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Holtzclaw |first1=Barry |title=High Interest Rates, Crypto Deposits Increase Banks' Risks, Says Moody's |url=https://www.sanjoseinside.com/business/high-interest-rates-crypto-deposits-increase-banks-risks-says-moodys/ |access-date=March 15, 2023 |work=Metro Silicon Valley|San Jose Inside |date=March 14, 2023 |archive-date=March 15, 2023 |archive-url=https://web.archive.org/web/20230315002228/https://www.sanjoseinside.com/business/high-interest-rates-crypto-deposits-increase-banks-risks-says-moodys/ |url-status=live }}</ref>",
+                      "url": "https://www.sanjoseinside.com/business/high-interest-rates-crypto-deposits-increase-banks-risks-says-moodys/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Pound |first1=Jesse |title=PacWest falls 30% as regional banks stocks slide to new lows |url=https://www.cnbc.com/2023/05/02/pacwest-falls-30percent-as-regional-banks-stocks-slide-to-new-lows.html |access-date=2 May 2023 |work=CNBC |date=2 May 2023 |language=en}}</ref>",
+                      "url": "https://www.cnbc.com/2023/05/02/pacwest-falls-30percent-as-regional-banks-stocks-slide-to-new-lows.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.5.s2",
+                  "text": "U.S. President Joe Biden made a statement about the first three bank failures on March 13, and asserted that government intervention was not a bailout and that the banking system was stable.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |last1=Chappell |first1=Bill |date=March 13, 2023 |title=Watch: Biden reassures bank customers and says the failed firms' leaders are fired |work=NPR |url=https://www.npr.org/2023/03/13/1163046482/watch-live-biden-discusses-the-silicon-valley-banks-meltdown-and-the-u-s-economy |url-status=live |access-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313171145/https://www.npr.org/2023/03/13/1163046482/watch-live-biden-discusses-the-silicon-valley-banks-meltdown-and-the-u-s-economy |archive-date=March 13, 2023}}</ref>",
+                      "url": "https://www.npr.org/2023/03/13/1163046482/watch-live-biden-discusses-the-silicon-valley-banks-meltdown-and-the-u-s-economy",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Baker |first1=Peter |date=March 13, 2023 |title=Biden assures Americans: 'Our banking system is safe'. |work=The New York Times |url=https://www.nytimes.com/live/2023/03/13/business/silicon-valley-bank#biden-assures-americans-our-banking-system-is-safe |url-status=live |url-access=limited |access-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313144757/https://www.nytimes.com/live/2023/03/13/business/silicon-valley-bank#biden-assures-americans-our-banking-system-is-safe |archive-date=March 13, 2023}}</ref>",
+                      "url": "https://www.nytimes.com/live/2023/03/13/business/silicon-valley-bank#biden-assures-americans-our-banking-system-is-safe",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.5.s3",
+                  "text": "The initial bank failures led to speculation on March 13 that the Federal Reserve could pause or halt rate hikes. Beginning on March 13, traders began modifying their strategies in the expectation that fewer hikes than previously expected would occur. Some financial experts suggested that the BTFP, combined with a recent practice of finding buyers who would cover all deposits, may have effectively removed the FDIC's $250,000 deposit insurance limit. However, Treasury Secretary Janet Yellen clarified that any guarantee beyond that limit would need the approval of the Biden administration and Federal regulators.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |last1=Timiraos |first1=Nick |date=March 13, 2023 |title=Banking Crisis Calls Fed Interest-Rate Path Into Question |work=The Wall Street Journal |url=https://www.wsj.com/articles/fed-interest-rates-inflation-svb-collapse-3495de76 |access-date=March 13, 2023 |archive-date=March 13, 2023 |archive-url=https://web.archive.org/web/20230313202145/https://www.wsj.com/articles/fed-interest-rates-inflation-svb-collapse-3495de76 |url-status=live }}</ref>",
+                      "url": "https://www.wsj.com/articles/fed-interest-rates-inflation-svb-collapse-3495de76",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Reynolds |first1=Garfield |last2=Gledhill |first2=Alice |date=March 14, 2023 |title=The Great Hiking Cycle Is Seen as Done as Yields Drop Below Cash |language=en |work=Bloomberg News|Bloomberg |url=https://www.bloomberg.com/news/articles/2023-03-14/the-great-hiking-cycle-is-seen-as-done-as-yields-drop-below-cash?sref=CIpmV6x8 |url-status=live |access-date=March 14, 2023 |archive-url=https://web.archive.org/web/20230315181445/https://www.bloomberg.com/news/articles/2023-03-14/the-great-hiking-cycle-is-seen-as-done-as-yields-drop-below-cash?sref=CIpmV6x8 |archive-date=March 15, 2023}}</ref>",
+                      "url": "https://www.bloomberg.com/news/articles/2023-03-14/the-great-hiking-cycle-is-seen-as-done-as-yields-drop-below-cash?sref=CIpmV6x8",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last=Medici |first=Andy |date=March 14, 2023 |title=Deposit insurance cap may be a 'dead letter' as feds intervene in Silicon Valley Bank, Signature Bank |work=Silicon Valley Business Journal |publisher= |location= |url=https://www.bizjournals.com/sanjose/news/2023/03/13/fdic-deposits-silicon-valley-bank-signature-biden.html |url-status=live |accessdate=March 14, 2023 |archive-url=https://web.archive.org/web/20230313223535/https://www.bizjournals.com/sanjose/news/2023/03/13/fdic-deposits-silicon-valley-bank-signature-biden.html |archive-date=March 13, 2023}}</ref>",
+                      "url": "https://www.bizjournals.com/sanjose/news/2023/03/13/fdic-deposits-silicon-valley-bank-signature-biden.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last=Rappeport |first=Alan |author-link=Alan Rappeport |date=March 16, 2023 |title=Yellen Defends Efforts to Stabilize Banking System |work=The New York Times |location= |url=https://www.nytimes.com/2023/03/16/business/janet-yellen-stabilize-banking-system.html |url-status=live |url-access=limited |accessdate=March 17, 2023 |archive-url=https://web.archive.org/web/20230317021643/https://www.nytimes.com/2023/03/16/business/janet-yellen-stabilize-banking-system.html |archive-date=March 17, 2023 |authorlink=}}</ref>",
+                      "url": "https://www.nytimes.com/2023/03/16/business/janet-yellen-stabilize-banking-system.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.5.s4",
+                  "text": "The initial three bank failures and resulting pressures on other U.S. regional banks were expected to reduce available financing in the commercial real estate market and further slow commercial property development. The Federal Reserve's discount window liquidity facility saw around $150 billion in borrowing from various banks by March 16, Since the majority of First Republic's long term assets were in municipal bonds, it was unable to make full use of the BTFP as those assets did not qualify as an eligible collateral.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |last=Fahey |first=Ashley |date=March 16, 2023 |title=Silicon Valley Bank fallout spells additional trouble for commercial real estate industry |work=Silicon Valley Business Journal |publisher= |location= |url=https://www.bizjournals.com/sanjose/news/2023/03/16/silicon-valley-bank-commercial-real-estate.html |url-status=live |accessdate=March 16, 2023 |archive-url=https://web.archive.org/web/20230316135358/https://www.bizjournals.com/sanjose/news/2023/03/16/silicon-valley-bank-commercial-real-estate.html |archive-date=March 16, 2023}}</ref>",
+                      "url": "https://www.bizjournals.com/sanjose/news/2023/03/16/silicon-valley-bank-commercial-real-estate.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=cnbc20230316/> more than 12 times the $12 billion that the BTFP provided.<ref name=\"scaggs20230317\">{{Cite news |last=Scaggs |first=Alexandra |date=2023-03-17 |title=Banking goes back to the 1920s |work=Financial Times |url=https://www.ft.com/content/598759cb-0777-4f12-840e-a873b1310f23 |access-date=2023-03-18 |archive-date=March 17, 2023 |archive-url=https://web.archive.org/web/20230317102456/https://www.ft.com/content/598759cb-0777-4f12-840e-a873b1310f23 |url-status=live }}</ref>",
+                      "url": "https://www.ft.com/content/598759cb-0777-4f12-840e-a873b1310f23",
+                      "status_code": 406,
+                      "reason": "Not Acceptable",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Dayen |first1=David |authorlink1=David Dayen|title=Pre-Farewell to First Republic |url=https://prospect.org/economy/2023-04-28-pre-farewell-first-republic/ |access-date=3 May 2023 |work=The American Prospect |date=28 April 2023 |language=en-us}}</ref>",
+                      "url": "https://prospect.org/economy/2023-04-28-pre-farewell-first-republic/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.5.s5",
+                  "text": "On March 17, President Joe Biden stated that the banking crisis had calmed down, while ''The New York Times'' said that the March banking crisis was hanging over the economy and had rekindled fear of recession as business borrowing would become more difficult as many regional and community banks would have to reduce lending.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"reuters20230317\">{{cite news |last1=Mason |first1=Jeff |last2=Singh |first2=Kanishka |date=18 March 2023 |title=Biden says banking crisis has calmed down |language=en |agency=Reuters |url=https://www.reuters.com/markets/us/biden-says-banking-crisis-has-calmed-down-2023-03-17/ |url-status=live |url-access=registration |access-date=18 March 2023 |archive-url=https://web.archive.org/web/20230318162715/https://www.reuters.com/markets/us/biden-says-banking-crisis-has-calmed-down-2023-03-17/ |archive-date=18 March 2023}}</ref>",
+                      "url": "https://www.reuters.com/markets/us/biden-says-banking-crisis-has-calmed-down-2023-03-17/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"nyt20230317\">{{cite news |last1=Casselman |first1=Ben |date=17 March 2023 |title=Banking Crisis Hangs Over Economy, Rekindling Recession Fear |work=The New York Times |url=https://www.nytimes.com/2023/03/17/business/economy/economy-banks-recession.html |url-status=live |url-access=limited |access-date=March 18, 2023 |archive-url=https://web.archive.org/web/20230318155214/https://www.nytimes.com/2023/03/17/business/economy/economy-banks-recession.html |archive-date=18 March 2023}}</ref>",
+                      "url": "https://www.nytimes.com/2023/03/17/business/economy/economy-banks-recession.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=nyt20230318>{{cite news |last1=Nocera |first1=Joe |last2=de la Merced |first2=Michael J. |date=March 18, 2023 |title=Two Big Ideas for Preventing Another Banking Crisis |work=The New York Times |url=https://www.nytimes.com/2023/03/18/business/dealbook/banking-crisis-svb.html |url-access=subscription |access-date=March 19, 2023 |archive-date=March 19, 2023 |archive-url=https://web.archive.org/web/20230319025739/https://www.nytimes.com/2023/03/18/business/dealbook/banking-crisis-svb.html |url-status=live }}</ref>",
+                      "url": "https://www.nytimes.com/2023/03/18/business/dealbook/banking-crisis-svb.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.5.s6",
+                  "text": "Late on Sunday, the Federal Reserve and several other central banks announced significant USD liquidity measures in order to calm market turmoil. In a \"coordinated action to enhance the provision of liquidity through the standing U.S. dollar swap line arrangements\", the U.S. Federal Reserve, the Bank of Canada, Bank of Japan, European Central Bank, and Swiss National Bank joined to organize daily U.S. dollar swap operations. These swaps had previously been set up to occur on a weekly cadence.<ref name=reuters20230319/>",
+                  "references": [
+                    {
+                      "text": "<ref name=\":15\">{{Cite news |last=Smith |first=Corby |date=2023-03-19 |title=Central banks announce dollar liquidity measures to ease banking crisis |work=Financial Times |url=https://www.ft.com/content/12cde8bc-ddac-48ef-8563-ff4007fa7e9f |url-access=subscription |access-date=2023-03-20 |archive-date=March 19, 2023 |archive-url=https://web.archive.org/web/20230319220750/https://www.ft.com/content/12cde8bc-ddac-48ef-8563-ff4007fa7e9f |url-status=live }}</ref>",
+                      "url": "https://www.ft.com/content/12cde8bc-ddac-48ef-8563-ff4007fa7e9f",
+                      "status_code": 406,
+                      "reason": "Not Acceptable",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.5.s7",
+                  "text": "The share price of PacWest had fallen sharply on 3 May after the bank announced that it was 'considering strategic options including a sale'. On 4 May share trading was suspended as the sell-off marked a further 42% loss with other US regional banks, including First Horizon Bank|First Horizon, Metropolitan Bank and Western Alliance Bancorporation|Western Alliance, also being affected.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |last1=Rushe |first1=Dominic |last2=Kollewe |first2=Julia |last3=Beckett |first3=Lois |title=Trading halted in shares of two more US lenders as fears of banking crisis mount |url=https://www.theguardian.com/business/2023/may/04/shares-in-california-lender-pacwest-plummet-amid-fears-of-new-us-banking-crisis |access-date=May 4, 2023 |work=The Guardian |date=May 4, 2023}}</ref>",
+                      "url": "https://www.theguardian.com/business/2023/may/04/shares-in-california-lender-pacwest-plummet-amid-fears-of-new-us-banking-crisis",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Heeb |first1=Gina |title=Regional-Bank Shares Dive as Investors Fret About Contagion |url=https://www.wsj.com/articles/regional-bank-shares-dive-as-investors-fret-about-contagion-7717c91a |access-date=May 4, 2023 |work=The Wall Street Journal |date=May 4, 2023}}</ref>",
+                      "url": "https://www.wsj.com/articles/regional-bank-shares-dive-as-investors-fret-about-contagion-7717c91a",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.5.s8",
+                  "text": "In May 2023, FDIC proposed imposing higher fees on an estimated 113 of the largest banks to cover the costs of bailing out uninsured depositors.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |last1=Buchwald |first1=Elisabeth |title=Big banks could face billions more in FDIC fees after bank collapses |url=https://www.cnn.com/2023/05/11/business/fdic-bank-fees/index.html |website=CNN |access-date=May 11, 2023 |language=en |date=May 11, 2023}}</ref>",
+                      "url": "https://edition.cnn.com/2023/05/11/business/fdic-bank-fees/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.6",
+          "title": "International impact",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.6.s1",
+                  "text": "By 19 March, concerns about the banking sector internationally had increased. That day, Swiss bank UBS Group AG bought its smaller competitor Credit Suisse in an Acquisition of Credit Suisse by UBS|emergency arrangement brokered by the Swiss government. One month before the events in the United States, Credit Suisse had announced its largest annual loss since the 2008 financial crisis, as clients continued withdrawing their cash at a rapid pace;  $147 billion had been withdrawn in the fourth quarter of 2022. It also disclosed it had found \"material weaknesses\" in its financial reporting. Its largest investor, Saudi National Bank, announced on March 15 that it would not provide more support to Credit Suisse. Its share price plunged 25% on the news and UBS stepped in to buy the bank. Axel Lehmann, former chairman of the bank, later sought to blame the American bank failures for triggering Credit Suisse's demise, though other analysts disputed that characterization. The bank had experienced many years of multi-billion dollar losses, scandals, executive turnover and weak business strategy.",
+                  "references": [
+                    {
+                      "text": "<ref name=cnn20230319/><ref name=lat20230320/><ref name=bloomberg20230319/><ref name=fintimes20230319/><ref name=thestreet20230319>{{Cite web |last=Baccardax |first=Martin |date=March 19, 2023 |title=Fed Leads Global Liquidity Boost With US Dollar Swap Lines As Bank Crisis Deepens |url=https://www.thestreet.com/markets/fed-leads-global-liquidity-boost-with-swaps-as-bank-crisis-deepens |access-date=March 20, 2023 |website=TheStreet |archive-date=March 20, 2023 |archive-url=https://web.archive.org/web/20230320160939/https://www.thestreet.com/markets/fed-leads-global-liquidity-boost-with-swaps-as-bank-crisis-deepens |url-status=live }}</ref>",
+                      "url": "https://www.thestreet.com/markets/fed-leads-global-liquidity-boost-with-swaps-as-bank-crisis-deepens",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Makortoff |first1=Kalyeena |title=Credit Suisse axes top bosses' bonuses after biggest loss since financial crisis |url=https://www.theguardian.com/business/2023/feb/09/credit-suisse-bonuses-loss-jobs-restructuring |work=The Guardian |date=February 9, 2023 |access-date=April 11, 2023 |archive-date=April 11, 2023 |archive-url=https://web.archive.org/web/20230411153100/https://www.theguardian.com/business/2023/feb/09/credit-suisse-bonuses-loss-jobs-restructuring |url-status=live }}{{pb}}{{cite news |last1=Daga |first1=Anshuman |title=What happened at Credit Suisse and how did it reach crisis point? |url=https://www.reuters.com/business/finance/credit-suisse-how-did-it-get-crisis-point-2023-03-16/ |publisher=Reuters |date=March 18, 2023 |access-date=April 11, 2023 |archive-date=March 18, 2023 |archive-url=https://web.archive.org/web/20230318131542/https://www.reuters.com/business/finance/credit-suisse-how-did-it-get-crisis-point-2023-03-16/ |url-status=live }}{{pb}}{{cite news|title=UBS Agrees to Buy Rival Credit Suisse|url=https://www.nytimes.com/2023/03/19/business/ubs-credit-suisse.html|work=The New York Times|date=March 19, 2023|author=Michael J. de la Merced|author2=Maureen Farrell|author3=Andrew Ross Sorkin|access-date=April 11, 2023|archive-date=April 11, 2023|archive-url=https://web.archive.org/web/20230411192440/https://www.nytimes.com/2023/03/19/business/ubs-credit-suisse.html|url-status=live}}{{pb}}{{cite news |last1=Smith |first1=Elliot |title=The Swiss claim the U.S. banking crisis ultimately toppled Credit Suisse. But are they right? |url=https://www.cnbc.com/2023/03/24/swiss-claim-the-us-banking-crisis-ultimately-toppled-credit-suisse.html |publisher=CNBC |date=March 24, 2023 |access-date=April 11, 2023 |archive-date=April 11, 2023 |archive-url=https://web.archive.org/web/20230411203956/https://www.cnbc.com/2023/03/24/swiss-claim-the-us-banking-crisis-ultimately-toppled-credit-suisse.html |url-status=live }}</ref>",
+                      "url": "https://www.theguardian.com/business/2023/feb/09/credit-suisse-bonuses-loss-jobs-restructuring",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.6.s2",
+                  "text": "Late on Sunday the Federal Reserve and several other central banks announced significant USD liquidity measures in order to calm market turmoil. In a \"coordinated action to enhance the provision of liquidity through the standing U.S. dollar swap line arrangements\", the U.S. Federal Reserve, the Bank of Canada, Bank of Japan, European Central Bank (ECB) and Swiss National Bank joined to organize daily U.S. dollar swap operations. These swaps had previously been set up to occur on a weekly cadence.",
+                  "references": [
+                    {
+                      "text": "<ref name=fintimes20230319>{{Cite news |last=Smith |first=Corby |date=19 March 2023 |title=Central banks announce dollar liquidity measures to ease banking crisis |work=Financial Times |url=https://www.ft.com/content/12cde8bc-ddac-48ef-8563-ff4007fa7e9f |url-access=subscription |access-date=20 March 2023 |archive-date=March 19, 2023 |archive-url=https://web.archive.org/web/20230319220750/https://www.ft.com/content/12cde8bc-ddac-48ef-8563-ff4007fa7e9f |url-status=live }}</ref>",
+                      "url": "https://www.ft.com/content/12cde8bc-ddac-48ef-8563-ff4007fa7e9f",
+                      "status_code": 406,
+                      "reason": "Not Acceptable",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"reuters20230319\">{{cite news |last=Burns |first=Dan |date=19 March 2023 |title=Fed, other central banks set joint liquidity operation |agency=Reuters |editor-last=Craft |editor-first=Diane |url=https://www.reuters.com/business/finance/fed-other-central-banks-set-joint-liquidity-operation-2023-03-19/ |url-status=live |access-date=20 March 2023 |archive-url=https://web.archive.org/web/20230320160938/https://www.reuters.com/business/finance/fed-other-central-banks-set-joint-liquidity-operation-2023-03-19/ |archive-date=March 20, 2023}}</ref>",
+                      "url": "https://www.reuters.com/business/finance/fed-other-central-banks-set-joint-liquidity-operation-2023-03-19/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.6.s3",
+                  "text": "On 21 March, ''The Business Times (Singapore)|The Business Times'' reported that Asian central banks were \"unlikely to be greatly influenced by the banking crisis in the United States and Europe\", but Reserve Bank of Australia|Australia's central bank governors met and publicly indicated a potential pause in recent rate hikes. ''ABC News'' reported that the challenge for central banks is determining if the \"banking turmoil close to crashing the real economy, or is inflation still the greater threat.\" In Japan the three main lenders, Mitsubishi UFJ Financial Group, Sumitomo Mitsui Financial Group and Mizuho Financial Group, lost share value between 10% and 12% due to the market turmoil and their exposure to the bond market. Japan's Bank of Japan|central bank held a crisis meeting in mid-March while the Topix banks index fell 17%. The fall was led by fears over the SVB collapse and the risks in Japan's regional banking sector, partly because of exposure to US interest rate hikes.",
+                  "references": [
+                    {
+                      "text": "<ref name=biztimes20230321>{{cite news |last1=Oh |first1=Tessa |title=Asian central banks face little impact from US, Europe banking crisis |url=https://www.businesstimes.com.sg/companies-markets/banking-finance/asian-central-banks-face-little-impact-us-europe-banking-crisis |access-date=3 May 2023 |work=The Business Times (Singapore)|The Business Times |date=23 March 2023 |archive-url=https://web.archive.org/web/20230322135753/https://www.businesstimes.com.sg/companies-markets/banking-finance/asian-central-banks-face-little-impact-us-europe-banking-crisis |archive-date=22 March 2023}}</ref>",
+                      "url": "https://www.businesstimes.com.sg/companies-markets/banking-finance/asian-central-banks-face-little-impact-us-europe-banking-crisis",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=abcnews20230321>{{cite news |last1=Taylor |first1=David |title='The market is playing hunt and destroy' with the banking sector. Who's next? |url=https://www.abc.net.au/news/2023-03-21/banking-crisis-not-over-despite-credit-suisse-takeover/102125102 |access-date=22 March 2023 |work=ABC News (Australia)|ABC News |date=21 March 2023 |archive-url=https://web.archive.org/web/20230406172737/https://www.abc.net.au/news/2023-03-21/banking-crisis-not-over-despite-credit-suisse-takeover/102125102 |archive-date=April 6, 2023 |language=en-AU}}</ref>",
+                      "url": "https://www.abc.net.au/news/2023-03-21/banking-crisis-not-over-despite-credit-suisse-takeover/102125102",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Wong |first1=Echo |last2=Kawase |first2=Kenji |title=Investors punish Asian lenders with big portfolios of interest rate-sensitive bonds |url=https://asia.nikkei.com/Spotlight/Market-Spotlight/SVB-collapse-hits-Japanese-banks-harder-than-Chinese-ones |website=asia.nikkei.com |publisher=Nikkei Inc. |access-date=24 March 2023 |archive-date=April 6, 2023 |archive-url=https://web.archive.org/web/20230406001206/https://asia.nikkei.com/Spotlight/Market-Spotlight/SVB-collapse-hits-Japanese-banks-harder-than-Chinese-ones |url-status=live }}</ref>",
+                      "url": "https://asia.nikkei.com/Spotlight/Market-Spotlight/SVB-collapse-hits-Japanese-banks-harder-than-Chinese-ones",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Inagaki |first1=Kana |last2=Lewis |first2=Leo |title=Japanese banks take post-SVB hit over bond fears |url=https://www.ft.com/content/1d9d93ef-4551-42fd-a89d-4afbb67e162d |website=Financial Times |access-date=30 March 2023 |date=26 March 2023 |archive-date=March 30, 2023 |archive-url=https://web.archive.org/web/20230330154523/https://www.ft.com/content/1d9d93ef-4551-42fd-a89d-4afbb67e162d |url-status=live }}</ref>",
+                      "url": "https://www.ft.com/content/1d9d93ef-4551-42fd-a89d-4afbb67e162d",
+                      "status_code": 406,
+                      "reason": "Not Acceptable",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.6.s4",
+                  "text": "The cost to insure against default on Deutsche Bank debt rose substantially on Friday, 24 March, with the 5-year credit default swap|CDS for the bank's debt rising 70%. The ECB and other European central banks raised interest rates the same day. The European STOXX 600 index fell around 4% with shares in Deutsche Bank down more than 14% at one point, closing the day at a loss of around 8%. The UK's banking index also fell around 3% led by falls of around 6% for both Barclays and Standard Chartered and a 4% drop for NatWest. Shares in other European banks also fell, among them Commerzbank, Austria's Raiffeisen Bank International|Raiffeisen Bank and the French Société Générale. According to the European Commission's Paolo Gentiloni, finance ministers in the Euro zone called on the commission to close loopholes in Crisis Management and Deposit Insurance (CMDI) provision, starting in the second quarter of 2023.\n \nList of banks in China|Chinese banks experienced little negative effect. According to ''Bloomberg News'', almost all of the 166 top performers during the market turmoil were in China. The banking crisis in the U.S. and Europe highlighted the relative stability of the Banking in China|Chinese banking system. While China's recovery from the pandemic remains fragile, inflation there is muted, and the People's Bank of China had adjusted interest rates at a slower pace than Western central banks.",
+                  "references": [
+                    {
+                      "text": "<ref name=street20230324>{{cite news |last=Baccardax |first=Martin |date=24 March 2023 |title=Deutsche Bank Tumbles, Default Protection Costs Spike as U.S. Bank Crisis Spreads to Europe |work=TheStreet |url=https://www.thestreet.com/investing/stocks/deutsche-bank-tumbles-default-protection-spikes-as-crisis-spreads |access-date=25 March 2023 |archive-date=March 31, 2023 |archive-url=https://web.archive.org/web/20230331105627/https://www.thestreet.com/investing/stocks/deutsche-bank-tumbles-default-protection-spikes-as-crisis-spreads |url-status=live }}</ref>",
+                      "url": "https://www.thestreet.com/investing/stocks/deutsche-bank-tumbles-default-protection-spikes-as-crisis-spreads",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Sherman |first1=Natalie |last2=Jack |first2=Simon |title=Deutsche Bank share slide reignites worries among investors |work=BBC News |date=March 24, 2023 |url=https://www.bbc.co.uk/news/business-65064378 |access-date=24 March 2023 |archive-date=April 4, 2023 |archive-url=https://web.archive.org/web/20230404104122/https://www.bbc.co.uk/news/business-65064378 |url-status=live }}</ref>",
+                      "url": "https://www.bbc.co.uk/news/business-65064378",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Morpurgo |first1=Giulia |last2=Benitez |first2=Laura |title=Hedge Funds Seen Targeting Deutsche Bank in 'Irrational' Slide |url=https://www.bloomberg.com/news/articles/2023-03-24/hedge-funds-seen-targeting-deutsche-bank-in-irrational-slide?srnd=premium&sref=CIpmV6x8 |access-date=24 March 2023 |work=Bloomberg.com |date=24 March 2023 |language=en }}</ref>",
+                      "url": "https://www.bloomberg.com/news/articles/2023-03-24/hedge-funds-seen-targeting-deutsche-bank-in-irrational-slide?srnd=premium&sref=CIpmV6x8",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Shankar |first1=Sruthi |title=European stocks fall as Deutsche Bank leads rout in banks |url=https://www.reuters.com/markets/europe/financial-stocks-drag-european-markets-lower-2023-03-24/ |website=www.reuters.com |date=March 24, 2023 |agency=Reuters |access-date=24 March 2023 |archive-date=March 31, 2023 |archive-url=https://web.archive.org/web/20230331133233/https://www.reuters.com/markets/europe/financial-stocks-drag-european-markets-lower-2023-03-24/?utm_source=Sailthru&utm_medium=Newsletter&utm_campaign=Daily-Briefing&utm_term=032423 |url-status=live }}</ref>",
+                      "url": "https://www.reuters.com/markets/europe/financial-stocks-drag-european-markets-lower-2023-03-24/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Isaac |first1=Anna |last2=Sweney |first2=Mark |title=Deutsche Bank leads sell-off in European bank shares |url=https://www.theguardian.com/business/2023/mar/24/european-bank-shares-fall-as-market-jitters-return-deutsche-bank-ubs-ftse-100 |newspaper=The Guardian |date=March 24, 2023 |publisher=Guardian News and Media Ltd. |access-date=24 March 2023 |archive-date=April 5, 2023 |archive-url=https://web.archive.org/web/20230405091454/https://www.theguardian.com/business/2023/mar/24/european-bank-shares-fall-as-market-jitters-return-deutsche-bank-ubs-ftse-100 |url-status=live }}</ref>",
+                      "url": "https://www.theguardian.com/business/2023/mar/24/european-bank-shares-fall-as-market-jitters-return-deutsche-bank-ubs-ftse-100",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=O'Brien |first1=Fergal |last2=Munoz Montijano |first2=Macarena |title=Deutsche Bank Slumps in Resurgence of European Bank Worries |url=https://www.bloomberg.com/news/articles/2023-03-24/europe-s-banks-erase-weekly-gains-as-us-probe-adds-to-concerns?srnd=premium&sref=CIpmV6x8 |access-date=24 March 2023 |work=Bloomberg.com |date=24 March 2023 |language=en }}</ref>",
+                      "url": "https://www.bloomberg.com/news/articles/2023-03-24/europe-s-banks-erase-weekly-gains-as-us-probe-adds-to-concerns?srnd=premium&sref=CIpmV6x8",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Smith-Meyer |first1=Bjarke |title=EU economic chief: Bank crisis management rules coming in Q2 |url=https://www.politico.eu/article/bank-crisis-management-rules-coming-in-second-quarter-gentiloni/ |website=Politico |date=March 23, 2023 |access-date=26 March 2023 |archive-date=April 6, 2023 |archive-url=https://web.archive.org/web/20230406103252/https://www.politico.eu/article/bank-crisis-management-rules-coming-in-second-quarter-gentiloni/ |url-status=live }}</ref>",
+                      "url": "https://www.politico.eu/article/bank-crisis-management-rules-coming-in-second-quarter-gentiloni/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |last1=Horta e Costa |first1=Sofia |title=This Week in China: Chinese Bank Stocks Are World's Best as US, Europe Crack |url=https://www.bloomberg.com/news/articles/2023-03-17/chinese-bank-stocks-are-world-s-best-as-us-europe-crack |website=Bloomberg |access-date=21 March 2023 |language=en |date=17 March 2023 |archive-date=April 4, 2023 |archive-url=https://web.archive.org/web/20230404200356/https://www.bloomberg.com/news/articles/2023-03-17/chinese-bank-stocks-are-world-s-best-as-us-europe-crack |url-status=live }}</ref>",
+                      "url": "https://www.bloomberg.com/news/articles/2023-03-17/chinese-bank-stocks-are-world-s-best-as-us-europe-crack",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.6.s5",
+                  "text": "The turbulence in the financial system caused India's Reserve Bank of India|central bank to put any further hikes in interest rate on hold on 6 April, with governor Shaktikanta Das saying \"it's a pause not a pivot\". A 25 basis point increase had been widely expected. Central banks in Australia, Canada and Indonesia also paused any further increases.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |last1=Bhat |first1=Swati |last2=Ganguly |first2=Sudipto |title=India pauses rate hikes in surprise decision, but door open for more |url=https://www.reuters.com/world/india/india-holds-key-rate-surprise-decision-keeps-door-open-more-hikes-2023-04-06/ |website=Reuters |access-date=7 April 2023 |language=en |date=6 April 2023 |archive-date=April 7, 2023 |archive-url=https://web.archive.org/web/20230407201922/https://www.reuters.com/world/india/india-holds-key-rate-surprise-decision-keeps-door-open-more-hikes-2023-04-06/ |url-status=live }}</ref>",
+                      "url": "https://www.reuters.com/world/india/india-holds-key-rate-surprise-decision-keeps-door-open-more-hikes-2023-04-06/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.6.s6",
+                  "text": "While rising interest rates give banks greater returns on customer's loans, the tighter financial conditions meant the sector saw a downturn in equity funding, with the S&P 500 bank index (SPXBK) in April down 14% year to date on expectation of lower quarterly earnings for some US banks. Effects on the secondary market were also expected. On 11 April the International Monetary Fund downgraded its forecast for GDP growth globally in 2023 from 2.9% to 2.8%, saying \"Uncertainty is high and the balance of risks has shifted firmly to the downside so long as the financial sector remains unsettled\". The forecast marked a slowdown from 3.4% in 2022, but predicted growth could rise modestly to 3.0% in 2024. The IMF had been cutting its forecast since spring 2022.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |last1=Azhar |first1=Saeed |last2=Yasmin |first2=Mehnaz |title=Wall Street bank earnings under pressure after crisis |url=https://www.reuters.com/business/finance/wall-street-bank-earnings-under-pressure-after-crisis-2023-04-10/ |website=Reuters |access-date=10 April 2023 |language=en |date=10 April 2023 |archive-date=April 10, 2023 |archive-url=https://web.archive.org/web/20230410124313/https://www.reuters.com/business/finance/wall-street-bank-earnings-under-pressure-after-crisis-2023-04-10/ |url-status=live }}</ref>",
+                      "url": "https://www.reuters.com/business/finance/wall-street-bank-earnings-under-pressure-after-crisis-2023-04-10/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Burroughes |first=Tom |date=2023-03-21 |title=In Tough Times, Private Market Secondaries Can Shine |url=https://www.wealthbriefing.com/html/article.php?id=197371 |access-date=2023-09-22 |website=Wealth Briefing}}</ref>",
+                      "url": "https://www.wealthbriefing.com/html/article.php?id=197371",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Lawder |first1=David |title=IMF warns deeper financial turmoil would slam global growth |url=https://www.reuters.com/business/finance/imf-warns-deeper-financial-turmoil-would-slam-global-growth-2023-04-11/ |website=Reuters |date=April 11, 2023 |access-date=11 April 2023 |archive-date=April 11, 2023 |archive-url=https://web.archive.org/web/20230411160938/https://www.reuters.com/business/finance/imf-warns-deeper-financial-turmoil-would-slam-global-growth-2023-04-11/ |url-status=live }}</ref>",
+                      "url": "https://www.reuters.com/business/finance/imf-warns-deeper-financial-turmoil-would-slam-global-growth-2023-04-11/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Toh |first1=Michelle |title='Edge of a global recession': IMF slashes world economic forecast again |url=https://www.cnn.com/2022/07/26/economy/global-recession-imf-report-intl-hnk/index.html |access-date=13 April 2023 |work=CNN |date=26 July 2022 |language=en |archive-date=April 13, 2023 |archive-url=https://web.archive.org/web/20230413223441/https://www.cnn.com/2022/07/26/economy/global-recession-imf-report-intl-hnk/index.html |url-status=live }}</ref>",
+                      "url": "https://edition.cnn.com/2022/07/26/economy/global-recession-imf-report-intl-hnk/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Wiseman |first1=Paul |title=Citing Russia's war, IMF cuts global growth forecast to 3.6% |url=https://apnews.com/article/russia-ukraine-covid-business-health-economy-61cd7153fdc2a94bf79de4c59b13d896 |access-date=13 April 2023 |agency=Associated Press |date=19 April 2022 |language=en |archive-date=April 13, 2023 |archive-url=https://web.archive.org/web/20230413223436/https://apnews.com/article/russia-ukraine-covid-business-health-economy-61cd7153fdc2a94bf79de4c59b13d896 |url-status=live }}</ref>",
+                      "url": "https://apnews.com/article/russia-ukraine-covid-business-health-economy-61cd7153fdc2a94bf79de4c59b13d896",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

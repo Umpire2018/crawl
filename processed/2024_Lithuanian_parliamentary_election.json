@@ -14,21 +14,21 @@
                 {
                   "text": "<ref>{{Cite web |title=The forthcoming elections |url=https://www.vrk.lt/en/numatomi |archive-url=https://web.archive.org/web/20240229231713/https://www.vrk.lt/en/numatomi |archive-date=29 February 2024 |access-date=29 February 2024 |website=www.vrk.lt}}</ref>",
                   "url": "https://www.vrk.lt/en/numatomi",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=28 November 2023 |title=Lithuania starts registering voters abroad for next year's elections |url=https://www.lrt.lt/en/news-in-english/19/2136462/lithuania-starts-registering-voters-abroad-for-next-year-s-elections |access-date=29 February 2024 |website=lrt.lt |publisher=Lithuanian National Radio and Television|LRT |language=en |archive-date=2 October 2024 |archive-url=https://web.archive.org/web/20241002221635/https://www.lrt.lt/en/news-in-english/19/2136462/lithuania-starts-registering-voters-abroad-for-next-year-s-elections |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2136462/lithuania-starts-registering-voters-abroad-for-next-year-s-elections",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=23 July 2024 |title=Lithuania's general elections: 19 parties, 18 unaffiliated politicians register to run |url=https://www.lrt.lt/en/news-in-english/19/2324948/lithuania-s-general-elections-19-parties-18-unaffiliated-politicians-register-to-run |access-date=27 July 2024 |website=lrt.lt |language=en |archive-date=17 September 2024 |archive-url=https://web.archive.org/web/20240917035103/https://www.lrt.lt/en/news-in-english/19/2324948/lithuania-s-general-elections-19-parties-18-unaffiliated-politicians-register-to-run |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2324948/lithuania-s-general-elections-19-parties-18-unaffiliated-politicians-register-to-run",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -41,7 +41,7 @@
                 {
                   "text": "<ref>{{cite news |title=Lithuanian Social Democratic leader hails 'historic' election victory |url=https://www.lrt.lt/en/news-in-english/19/2399206/lithuanian-social-democratic-leader-hails-historic-election-victory |access-date=28 October 2024 |work=lrt.lt |date=28 October 2024 |language=en |archive-date=11 November 2024 |archive-url=https://web.archive.org/web/20241111173825/https://www.lrt.lt/en/news-in-english/19/2399206/lithuanian-social-democratic-leader-hails-historic-election-victory |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2399206/lithuanian-social-democratic-leader-hails-historic-election-victory",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -54,7 +54,7 @@
                 {
                   "text": "<ref>{{cite news |title=Lithuanian Social Democratic leader's refusal to lead government raises trust issues |url=https://www.lrt.lt/en/news-in-english/19/2401999/lithuanian-social-democratic-leader-s-refusal-to-lead-government-raises-trust-issues |work=lrt.lt |date=31 October 2024 |language=en |access-date=10 November 2024 |archive-date=10 November 2024 |archive-url=https://web.archive.org/web/20241110161531/https://www.lrt.lt/en/news-in-english/19/2401999/lithuanian-social-democratic-leader-s-refusal-to-lead-government-raises-trust-issues |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2401999/lithuanian-social-democratic-leader-s-refusal-to-lead-government-raises-trust-issues",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -67,14 +67,14 @@
                 {
                   "text": "<ref>{{cite news |last1=Samoškaitė |first1=Eglė |last2=Platūkytė |first2=Domantė |title=Lithuania's social democrats reach coalition deal 'in principle' |url=https://www.lrt.lt/en/news-in-english/19/2408758/lithuania-s-social-democrats-reach-coalition-deal-in-principle |work=lrt.lt |date=8 November 2024 |language=en}}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2408758/lithuania-s-social-democrats-reach-coalition-deal-in-principle",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=openletter /><ref>{{cite news |title=Tarptautinė kritika dėl R.Žemaitaičio stiprėja: pasisakė ir Izraelis |url=https://www.15min.lt/naujiena/aktualu/lietuva/tarptautine-kritika-del-r-zemaitaicio-stipreja-pasisake-ir-izraelis-56-2339826 |work=15min.lt |date=2024-11-09 |language=lt |access-date=10 November 2024 |archive-date=12 November 2024 |archive-url=https://web.archive.org/web/20241112221551/https://www.15min.lt/naujiena/aktualu/lietuva/tarptautine-kritika-del-r-zemaitaicio-stipreja-pasisake-ir-izraelis-56-2339826 |url-status=live }}</ref>",
                   "url": "https://www.15min.lt/naujiena/aktualu/lietuva/tarptautine-kritika-del-r-zemaitaicio-stipreja-pasisake-ir-izraelis-56-2339826",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -97,8 +97,8 @@
                 {
                   "text": "<ref>{{Cite web |date=2020 |title=Lietuvos Respublikos Prezidentas |url=https://www.lrp.lt/data/public/uploads/2020/12/2020-12-07-nr.-1k-459.pdf |access-date=1 August 2024 |website=www.lrp.lt |archive-date=12 January 2021 |archive-url=https://web.archive.org/web/20210112022643/https://www.lrp.lt/data/public/uploads/2020/12/2020-12-07-nr.-1k-459.pdf |url-status=live }}</ref>",
                   "url": "https://www.lrp.lt/data/public/uploads/2020/12/2020-12-07-nr.-1k-459.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
@@ -117,7 +117,7 @@
                 {
                   "text": "<ref>{{cite web |title=Seimo narys Bukauskas palieka Darbo partiją, rinkimuose dalyvaus savarankiškai |url=https://www.lrt.lt/naujienos/lietuvoje/2/2324495/seimo-narys-bukauskas-palieka-darbo-partija-rinkimuose-dalyvaus-savarankiskai |website=LRT |language=lt |date=22 July 2024 |quote=Per kelis mėnesius iš DP pasitraukė buvęs jos pirmininkas pastaraisiais metais Seimo narys Andrius Mazuronis, parlamentarai Viktoras Fiodorovas, Ieva Kačinskaitė-Urbonienė, Valdemaras Valkiūnas. Dėl to subyrėjo „darbiečių\" frakcija parlamente.  Po šių pokyčių Darbo partijos steigėjas ir ilgametis jos vadovas, buvęs europarlamentaras V. Uspaskichas, pastaruosius dvejus metus aktyviai nedalyvavęs organizacijos veikloje, liepos pradžioje atkūrė narystę partijoje ir tapo laikinuoju jos pirmininku. |access-date=1 August 2024 |archive-date=1 August 2024 |archive-url=https://web.archive.org/web/20240801112810/https://www.lrt.lt/naujienos/lietuvoje/2/2324495/seimo-narys-bukauskas-palieka-darbo-partija-rinkimuose-dalyvaus-savarankiskai |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2324495/seimo-narys-bukauskas-palieka-darbo-partija-rinkimuose-dalyvaus-savarankiskai",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -138,7 +138,7 @@
                     {
                       "text": "<ref name=\"LRT system 24\">{{citation |url=https://www.lrt.lt/en/news-in-english/19/2354261/lithuania-s-seimas-elections-15-party-lists-and-1-740-candidates-register-to-run|title=Lithuania's Seimas elections: 15 party lists and 1,740 candidates register to run|publisher=LRT|date=6 September 2024}}</ref>",
                       "url": "https://www.lrt.lt/en/news-in-english/19/2354261/lithuania-s-seimas-elections-15-party-lists-and-1-740-candidates-register-to-run",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": null
                     }
@@ -161,22 +161,22 @@
                     {
                       "text": "<ref>{{Cite web | url=https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/ee8f7da0c16d11ec9f0095b4d96fd400?positionInSearchResults=7&searchModelUUID=02db2542-79e2-4646-8ada-0cd5423d1fb5 | title=XIV-1030 Lietuvos Respublikos Konstitucijos 56 straipsnio pakeitimo įstatymas | access-date=28 April 2022 | archive-date=28 April 2022 | archive-url=https://web.archive.org/web/20220428185854/https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/ee8f7da0c16d11ec9f0095b4d96fd400?positionInSearchResults=7&searchModelUUID=02db2542-79e2-4646-8ada-0cd5423d1fb5 | url-status=live }}</ref>",
                       "url": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/ee8f7da0c16d11ec9f0095b4d96fd400?positionInSearchResults=7&searchModelUUID=02db2542-79e2-4646-8ada-0cd5423d1fb5",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"SeimasLaw\" /> In addition, a person who has been removed from office through impeachment may be elected after 10 year period after impeachment.<ref>{{Cite web | url=https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/bd1c7e80c16d11ec9f0095b4d96fd400?positionInSearchResults=9&searchModelUUID=02db2542-79e2-4646-8ada-0cd5423d1fb5 | title=XIV-1029 Lietuvos Respublikos Konstitucijos 74 straipsnio pakeitimo įstatymas | access-date=28 April 2022 | archive-date=28 April 2022 | archive-url=https://web.archive.org/web/20220428185846/https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/bd1c7e80c16d11ec9f0095b4d96fd400?positionInSearchResults=9&searchModelUUID=02db2542-79e2-4646-8ada-0cd5423d1fb5 | url-status=live }}</ref>",
                       "url": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/bd1c7e80c16d11ec9f0095b4d96fd400?positionInSearchResults=9&searchModelUUID=02db2542-79e2-4646-8ada-0cd5423d1fb5",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |url=http://www.delfi.lt/news/daily/lithuania/konstitucinis-teismas-r-paksui-vilties-nesuteike.d?id=64323400 |language=Lithuanian |title=Konstitucinis Teismas R. Paksui vilties nesuteikė |trans-title=The constitutional court did not give R. Paksas hope |date=20 March 2014 |website=Delfi.lt |access-date=31 July 2015 |archive-date=18 March 2022 |archive-url=https://web.archive.org/web/20220318023937/https://www.delfi.lt/news/daily/lithuania/konstitucinis-teismas-r-paksui-vilties-nesuteike.d?id=64323400 |url-status=live }}</ref>",
                       "url": "http://www.delfi.lt/news/daily/lithuania/konstitucinis-teismas-r-paksui-vilties-nesuteike.d?id=64323400",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -188,15 +188,15 @@
                     {
                       "text": "<ref>{{cite web | url=https://e-seimas.lrs.lt/portal/legalAct/lt/TAP/aad3d3909a2111ec9e62f960e3ee1cb6?jfwid=-ggcghcmh | title=Rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinio įstatymo projektas + Rin }}</ref>",
                       "url": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAP/aad3d3909a2111ec9e62f960e3ee1cb6?jfwid=-ggcghcmh",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://www.delfi.lt/news/daily/politics/pries-pat-rinkimus-sujudimas-del-vienmandaciu-konservatoriu-pusen-skrieja-rimtas-kaltinimas-120050672 | title=Prieš pat rinkimus – sujudimas dėl vienmandačių: Konservatorių pusėn skrieja rimtas kaltinimas | access-date=19 November 2024 | archive-date=24 September 2024 | archive-url=https://web.archive.org/web/20240924160059/https://www.delfi.lt/news/daily/politics/pries-pat-rinkimus-sujudimas-del-vienmandaciu-konservatoriu-pusen-skrieja-rimtas-kaltinimas-120050672 | url-status=live }}</ref>",
                       "url": "https://www.delfi.lt/news/daily/politics/pries-pat-rinkimus-sujudimas-del-vienmandaciu-konservatoriu-pusen-skrieja-rimtas-kaltinimas-120050672",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -227,15 +227,15 @@
                     {
                       "text": "<ref>{{Cite web |date=30 November 2023 |title=VIENMANDAČIŲ RINKIMŲ APYGARDŲ RIBŲ POKYČIAI |url=https://www.vrk.lt/documents/10180/786874/Apra%C5%A1as/147306ff-5578-484b-b86d-6c7ebf67b783 |access-date=1 August 2024 |website=www.vrk.lt |archive-date=2 December 2023 |archive-url=https://web.archive.org/web/20231202163707/https://www.vrk.lt/documents/10180/786874/Apra%C5%A1as/147306ff-5578-484b-b86d-6c7ebf67b783 |url-status=live }}</ref>",
                       "url": "https://www.vrk.lt/documents/10180/786874/Apra%C5%A1as/147306ff-5578-484b-b86d-6c7ebf67b783",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=2024 M. SEIMO RINKIMŲ VIENMANDATĖS RINKIMŲ APYGARDOS |url=https://www.vrk.lt/documents/10180/786874/Apygard%C5%B3%20%C5%BEem%C4%97lapis+%28LT%29/0d5a2f3b-722a-4d93-ad31-39b37aeef594?t=1701452562550 |website=www.vrk.lt |access-date=2 December 2023 |archive-date=2 December 2023 |archive-url=https://web.archive.org/web/20231202163709/https://www.vrk.lt/documents/10180/786874/Apygard%C5%B3%20%C5%BEem%C4%97lapis%20%28LT%29/0d5a2f3b-722a-4d93-ad31-39b37aeef594?t=1701452562550 |url-status=live }}</ref>",
                       "url": "https://www.vrk.lt/documents/10180/786874/Apygard%C5%B3%20%C5%BEem%C4%97lapis+%28LT%29/0d5a2f3b-722a-4d93-ad31-39b37aeef594?t=1701452562550",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -247,7 +247,7 @@
                     {
                       "text": "<ref>{{cite web|url=https://kurierwilenski.lt/2023/12/06/zmiany-granic-okregow-wyborczych-dotkna-polska-mniejszosc-narodowa/|title=Zmiany granic okręgów wyborczych dotkną polską mniejszość narodową|date=6 December 2023|access-date=8 August 2024|author=Anna Pieszko|lang=pl|work=Kurier Wileński|archive-date=8 August 2024|archive-url=https://web.archive.org/web/20240808080401/https://kurierwilenski.lt/2023/12/06/zmiany-granic-okregow-wyborczych-dotkna-polska-mniejszosc-narodowa/|url-status=live}}</ref>",
                       "url": "https://kurierwilenski.lt/2023/12/06/zmiany-granic-okregow-wyborczych-dotkna-polska-mniejszosc-narodowa/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -273,7 +273,7 @@
                   "text": "<ref name=\"SeimasLaw\">{{cite web |url=http://www3.lrs.lt/pls/inter3/dokpaieska.showdoc_l?p_id=483680 |title=Law on Elections to the Seimas |date=14 May 2015 |publisher=Seimas of the Republic of Lithuania |access-date=31 July 2015 |archive-date=7 April 2022 |archive-url=https://web.archive.org/web/20220407012050/https://www3.lrs.lt/pls/inter3/dokpaieska.showdoc_l?p_id=483680 |url-status=live }}</ref>",
                   "url": "http://www3.lrs.lt/pls/inter3/dokpaieska.showdoc_l?p_id=483680",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 }
               ]
@@ -285,8 +285,8 @@
                 {
                   "text": "<ref name=\"x798\">{{cite web | title=Seimo rinkimai 2024. LSDP triumfuoja, antri – TS-LKD, treti – \"Nemuno Aušra\" | website=Delfi | date=14 October 2024 | url=https://www.delfi.lt/news/daily/politics/seimo-rinkimai-2024-lsdp-triumfuoja-antri-ts-lkd-treti-nemuno-ausra-120056945 | language=lt | access-date=14 October 2024 | quote=Šiuose rinkimuose pirmą kartą norint laimėti vienmandatę nebebūtina surinkti daugiau nei pusę rinkėjų balsų. 2022 m. įsigaliojusiame Rinkimų kodekse atsirado nuostata, kad išrinktu laikomas daugiausia rinkėjų balsų gavęs kandidatas, kuris surenka ne mažiau kaip vieną penktadalį rinkėjų balsų. | archive-date=12 November 2024 | archive-url=https://web.archive.org/web/20241112225224/https://www.delfi.lt/news/daily/politics/seimo-rinkimai-2024-lsdp-triumfuoja-antri-ts-lkd-treti-nemuno-ausra-120056945 | url-status=live }}</ref>",
                   "url": "https://www.delfi.lt/news/daily/politics/seimo-rinkimai-2024-lsdp-triumfuoja-antri-ts-lkd-treti-nemuno-ausra-120056945",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -298,7 +298,7 @@
                 {
                   "text": "<ref>{{cite web |url=https://apnews.com/article/lithuania-election-parliament-economy-migrants-751fee38ec78603147eef126699be1c4 |title=Lithuania votes in a weekend general election with many looking for change despite good economy |date=10 October 2024 |work=Associated Press |access-date=10 October 2024}}</ref>",
                   "url": "https://apnews.com/article/lithuania-election-parliament-economy-migrants-751fee38ec78603147eef126699be1c4",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -325,8 +325,8 @@
                     {
                       "text": "<ref>{{cite news|title=Prezidentas oficialiai paskelbė Seimo rinkimų datą|url=https://www.vz.lt/verslo-aplinka/2024/04/09/prezidentas-oficialiai-paskelbe-seimo-rinkimu-data|access-date=9 April 2024|publisher=Verslo žinios|date=12 September 2024|language=lt|trans-title=The President announced the election date|archive-date=6 November 2024|archive-url=https://web.archive.org/web/20241106123417/https://www.vz.lt/verslo-aplinka/2024/04/09/prezidentas-oficialiai-paskelbe-seimo-rinkimu-data|url-status=live}}</ref>",
                       "url": "https://www.vz.lt/verslo-aplinka/2024/04/09/prezidentas-oficialiai-paskelbe-seimo-rinkimu-data",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -348,36 +348,36 @@
                     {
                       "text": "<ref>{{cite web |title=Dalyvauti Seimo rinkimuose VRK registravo 19 partijų |url=https://www.vrk.lt/naujienos/-/content/10180/1/dalyvauti-seimo-rinkimuose-vrk-registravo-19-partiju |website=Central Election Commission |language=lt |date=23 July 2024}}</ref>",
                       "url": "https://www.vrk.lt/naujienos/-/content/10180/1/dalyvauti-seimo-rinkimuose-vrk-registravo-19-partiju",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=2024-07-22 prarado dalyvio statusą \"KARTU SU VYČIU\" POLITINĖ PARTIJA (PR) |url=https://www.vrk.lt/politines-kampanijos-dalyviai-2024-sei?srcUrl=/politKamp/1726/dalyviai/savarankiskasIzdininkas_pkdId-18935.html |website=Central Election Commission |language=lt |date=22 July 2024}}</ref>",
                       "url": "https://www.vrk.lt/politines-kampanijos-dalyviai-2024-sei?srcUrl=/politKamp/1726/dalyviai/savarankiskasIzdininkas_pkdId-18935.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=2024-08-02 prarado dalyvio statusą SĄJŪDIS UŽ MIŠKUS – JAUNOJI LIETUVA (PR) |url=https://www.vrk.lt/politines-kampanijos-dalyviai-2024-sei?srcUrl=/politKamp/1726/dalyviai/savarankiskasIzdininkas_pkdId-19217.html |website=Central Election Commission |language=lt |date=2 August 2024}}</ref>",
                       "url": "https://www.vrk.lt/politines-kampanijos-dalyviai-2024-sei?srcUrl=/politKamp/1726/dalyviai/savarankiskasIzdininkas_pkdId-19217.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=2024-08-09 prarado dalyvio statusą KRIKŠČIONIŲ SĄJUNGA (PR) |url=https://www.vrk.lt/politines-kampanijos-dalyviai-2024-sei?srcUrl=/politKamp/1726/dalyviai/savarankiskasIzdininkas_pkdId-18935.html|website=Central Election Commission |language=lt |date=9 August 2024}}</ref>",
                       "url": "https://www.vrk.lt/politines-kampanijos-dalyviai-2024-sei?srcUrl=/politKamp/1726/dalyviai/savarankiskasIzdininkas_pkdId-18935.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Kandidatai |url=https://www.vrk.lt/kandidatai-kandidatu-sarasai-2024-sei?srcUrl=/rinkimai/1544/rnk1870/kandidatai/SeiKandidataiPilnasSarasas.html |website=Central Election Commission |language=lt |date=12 September 2024}}</ref>",
                       "url": "https://www.vrk.lt/kandidatai-kandidatu-sarasai-2024-sei?srcUrl=/rinkimai/1544/rnk1870/kandidatai/SeiKandidataiPilnasSarasas.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -389,8 +389,8 @@
                     {
                       "text": "<ref>{{cite news |last=Vingilis |first=Vakaris |title=Partijos ir koalicija ištraukė Seimo rinkimų numerius |work=Bernardinai.lt |date=19 August 2024 |url=https://www.bernardinai.lt/partijos-ir-koalicija-istrauke-seimo-rinkimu-numerius/ |language=lt |access-date=25 October 2024 |archive-date=21 August 2024 |archive-url=https://web.archive.org/web/20240821155723/https://www.bernardinai.lt/partijos-ir-koalicija-istrauke-seimo-rinkimu-numerius/ |url-status=live }}</ref>",
                       "url": "https://www.bernardinai.lt/partijos-ir-koalicija-istrauke-seimo-rinkimu-numerius/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -402,105 +402,105 @@
                     {
                       "text": "<ref name=\"orlauskas\">{{cite web |title=Seimo rinkimams partijos buriasi į jungtinius sąrašus: ar pavyks neiššvaistyti balsų? |url=https://www.lrt.lt/naujienos/lietuvoje/2/2336501/seimo-rinkimams-partijos-buriasi-i-jungtinius-sarasus-ar-pavyks-neissvaistyti-balsu |website=lrt.lt |publisher=Lithuanian National Radio and Television|LRT |language=Lithuanian |date=9 August 2024 |access-date=11 August 2024 |archive-date=10 September 2024 |archive-url=https://web.archive.org/web/20240910153144/https://www.lrt.lt/naujienos/lietuvoje/2/2336501/seimo-rinkimams-partijos-buriasi-i-jungtinius-sarasus-ar-pavyks-neissvaistyti-balsu |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2336501/seimo-rinkimams-partijos-buriasi-i-jungtinius-sarasus-ar-pavyks-neissvaistyti-balsu",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Nacionalinio susivienijimo sąrašą į Seimą ves Sinica |url=https://www.lrt.lt/naujienos/lietuvoje/2/2333484/nacionalinio-susivienijimo-sarasa-i-seima-ves-sinica |website=LRT |language=lt |date=5 August 2024}}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2333484/nacionalinio-susivienijimo-sarasa-i-seima-ves-sinica",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Socdemų sąraše į Seimą – patyrę politikai, olimpinė čempionė ir Sinkevičiaus pavardė |url=https://www.lrt.lt/naujienos/lietuvoje/2/2297841/socdemu-sarase-i-seima-patyre-politikai-olimpine-cempione-ir-sinkeviciaus-pavarde |website=lrt.lt |publisher=Lithuanian National Radio and Television|LRT |language=Lithuanian |date=15 June 2024}}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2297841/socdemu-sarase-i-seima-patyre-politikai-olimpine-cempione-ir-sinkeviciaus-pavarde",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Žaliųjų kandidatų į Seimą sąraše – lyčių balansas, moterų lyderystė ir kompetencija |url=https://lzp.lt/zaliuju-kandidatu-i-seima-sarase-lyciu-balansas-moteru-lyderyste-ir-kompetencija/ |website=lzp.lt |publisher=Lithuanian Green Party |language=lt |date=9 August 2024 |access-date=9 August 2024 |archive-date=6 November 2024 |archive-url=https://web.archive.org/web/20241106123419/https://lzp.lt/zaliuju-kandidatu-i-seima-sarase-lyciu-balansas-moteru-lyderyste-ir-kompetencija/ |url-status=live }}</ref>",
                       "url": "https://lzp.lt/zaliuju-kandidatu-i-seima-sarase-lyciu-balansas-moteru-lyderyste-ir-kompetencija/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=20 July 2024 |title=Buvęs kandidatas į prezidentus Vaitkus ves Lietuvos liaudies partiją į Seimą |url=https://www.lrt.lt/naujienos/lietuvoje/2/2323319/buves-kandidatas-i-prezidentus-vaitkus-ves-lietuvos-liaudies-partija-i-seima |access-date=20 July 2024 |website=lrt.lt |publisher=Lithuanian National Radio and Television|LRT |language=lt |archive-date=28 August 2024 |archive-url=https://web.archive.org/web/20240828190921/https://www.lrt.lt/naujienos/lietuvoje/2/2323319/buves-kandidatas-i-prezidentus-vaitkus-ves-lietuvos-liaudies-partija-i-seima |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2323319/buves-kandidatas-i-prezidentus-vaitkus-ves-lietuvos-liaudies-partija-i-seima",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Lietuvos regionų partijos kandidatų sąrašas: priekyje – Pinskus, gale – Pinskuvienė |url=https://www.lrt.lt/naujienos/lietuvoje/2/2332008/lietuvos-regionu-partijos-kandidatu-sarasas-priekyje-pinskus-gale-pinskuviene |website=LRT |language=lt |date=2 August 2024 |access-date=2 August 2024 |archive-date=7 August 2024 |archive-url=https://web.archive.org/web/20240807100108/https://www.lrt.lt/naujienos/lietuvoje/2/2332008/lietuvos-regionu-partijos-kandidatu-sarasas-priekyje-pinskus-gale-pinskuviene |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2332008/lietuvos-regionu-partijos-kandidatu-sarasas-priekyje-pinskus-gale-pinskuviene",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"karbauskis\">{{cite web |title=Karbauskis: \"valstiečiai\" buria jungtinį kandidatų sąrašą Seimo rinkimams |url=https://www.lrt.lt/naujienos/lietuvoje/2/2326911/karbauskis-valstieciai-buria-jungtini-kandidatu-sarasa-seimo-rinkimams |website=lrt.lt |publisher=Lithuanian National Radio and Television|LRT |language=lt |date=26 July 2024 |access-date=28 July 2024 |archive-date=5 August 2024 |archive-url=https://web.archive.org/web/20240805190554/https://www.lrt.lt/naujienos/lietuvoje/2/2326911/karbauskis-valstieciai-buria-jungtini-kandidatu-sarasa-seimo-rinkimams |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2326911/karbauskis-valstieciai-buria-jungtini-kandidatu-sarasa-seimo-rinkimams",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"karbauskis\"/>||Agrarianism<br />Social conservatism<br />Left-wing populism|| style=\"text-align:center\" | {{Composition bar|32|141|{{party color|Lithuanian Farmers and Greens Union}}}}|| style=\"text-align:center\" | {{Composition bar|17|137|{{party color|Lithuanian Farmers and Greens Union}}}}\n|-\n| rowspan=3 style=\"text-align:center\" |9{{efn-la|Number nine drawn by the Labour Party was selected; Numbers seven and fifteen, drawn by the LKDP and ŽP respectively, were discarded.}}||bgcolor={{party color|Labour Party (Lithuania)}}| ||rowspan=3|Coalition of Peace<br />{{small|''Taikos koalicija''}}||Labour Party (Lithuania)|Labour Party|| style=\"text-align:center\" |'''DP'''||Viktor Uspaskich||rowspan=3|Viktor Uspaskich<ref>{{cite web |title=Uspaskichas ves koalicinį sąrašą Seimo rinkimuose, jame – darbiečiai, dar dvi partijos |url=https://www.lrt.lt/naujienos/lietuvoje/2/2321070/uspaskichas-ves-koalicini-sarasa-seimo-rinkimuose-jame-darbieciai-dar-dvi-partijos |website=lrt.lt |publisher=Lithuanian National Radio and Television|LRT |language=Lithuanian |date=17 July 2024}}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2321070/uspaskichas-ves-koalicini-sarasa-seimo-rinkimuose-jame-darbieciai-dar-dvi-partijos",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=\"Laisvė ir teisingumas\" nusprendė nesijungti į buriamas koalicijas, sąrašą ves Zuokas |url=https://www.lrt.lt/naujienos/lietuvoje/2/2313242/laisve-ir-teisingumas-nusprende-nesijungti-i-buriamas-koalicijas-sarasa-ves-zuokas |website=lrt.lt |publisher=Lithuanian National Radio and Television|LRT |language=Lithuanian |date=8 July 2024}}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2313242/laisve-ir-teisingumas-nusprende-nesijungti-i-buriamas-koalicijas-sarasa-ves-zuokas",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Demokratų Vardan Lietuvos kandidatų sąraše – buvęs VST vadovas Pocius |url=https://www.lrt.lt/naujienos/lietuvoje/2/2313167/demokratu-vardan-lietuvos-kandidatu-sarase-buves-vst-vadovas-pocius |website=lrt.lt |publisher=Lithuanian National Radio and Television|LRT |language=Lithuanian |date=8 July 2024 |access-date=18 July 2024 |archive-date=20 July 2024 |archive-url=https://web.archive.org/web/20240720175300/https://www.lrt.lt/naujienos/lietuvoje/2/2313167/demokratu-vardan-lietuvos-kandidatu-sarase-buves-vst-vadovas-pocius |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2313167/demokratu-vardan-lietuvos-kandidatu-sarase-buves-vst-vadovas-pocius",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Partiją \"Nemuno aušra\" į Seimą ves Žemaitaitis ir Širinskienė |url=https://www.lrt.lt/naujienos/lietuvoje/2/2327945/partija-nemuno-ausra-i-seima-ves-zemaitaitis-ir-sirinskiene |website=lrt.lt |publisher=Lithuanian National Radio and Television|LRT |language=Lithuanian |date=28 July 2024 |access-date=2 August 2024 |archive-date=9 August 2024 |archive-url=https://web.archive.org/web/20240809075939/https://www.lrt.lt/naujienos/lietuvoje/2/2327945/partija-nemuno-ausra-i-seima-ves-zemaitaitis-ir-sirinskiene |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2327945/partija-nemuno-ausra-i-seima-ves-zemaitaitis-ir-sirinskiene",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Intriga baigėsi – Šimonytė ves konservatorių sąrašą į Seimo rinkimus |url=https://www.lrt.lt/naujienos/lietuvoje/2/2322319/intriga-baigesi-simonyte-ves-konservatoriu-sarasa-i-seimo-rinkimus |website=lrt.lt |publisher=Lithuanian National Radio and Television|LRT |language=Lithuanian |date=18 July 2024 |access-date=18 July 2024 |archive-date=22 July 2024 |archive-url=https://web.archive.org/web/20240722131736/https://www.lrt.lt/naujienos/lietuvoje/2/2322319/intriga-baigesi-simonyte-ves-konservatoriu-sarasa-i-seimo-rinkimus |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2322319/intriga-baigesi-simonyte-ves-konservatoriu-sarasa-i-seimo-rinkimus",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Po Liberalo sąjūdžio reitingavimo – netikėta lyderystė: viršūnėje – Aleknos pavardė |url=https://www.lrt.lt/naujienos/lietuvoje/2/2311429/po-liberalo-sajudzio-reitingavimo-netiketa-lyderyste-virsuneje-aleknos-pavarde |website=lrt.lt |publisher=Lithuanian National Radio and Television|LRT |language=Lithuanian |date=4 July 2024}}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2311429/po-liberalo-sajudzio-reitingavimo-netiketa-lyderyste-virsuneje-aleknos-pavarde",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Laisvės partiją į Seimą ves Armonaitė, daugiausia reitingo balsų gavo Raskevičius |url=https://www.lrt.lt/naujienos/lietuvoje/2/2327265/laisves-partija-i-seima-ves-armonaite-daugiausia-reitingo-balsu-gavo-raskevicius |website=lrt.lt |publisher=Lithuanian National Radio and Television|LRT |language=Lithuanian |date=26 July 2024 |access-date=2 August 2024 |archive-date=6 August 2024 |archive-url=https://web.archive.org/web/20240806052210/https://www.lrt.lt/naujienos/lietuvoje/2/2327265/laisves-partija-i-seima-ves-armonaite-daugiausia-reitingo-balsu-gavo-raskevicius |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2327265/laisves-partija-i-seima-ves-armonaite-daugiausia-reitingo-balsu-gavo-raskevicius",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=LLRA-KŠS sąrašą į Seimą ves europarlamentaras Tomaszewskis |url=https://www.lrt.lt/naujienos/lietuvoje/2/2336318/llra-kss-sarasa-i-seima-ves-europarlamentaras-tomaszewskis |website=LRT |language=lt |date=9 August 2024}}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2336318/llra-kss-sarasa-i-seima-ves-europarlamentaras-tomaszewskis",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -523,14 +523,14 @@
                     {
                       "text": "<ref name=\"cecdebates\">{{cite web |title=Informacija apie daugiamandatės rinkimų apygardos kandidatų sąrašų atstovų agitacines laidas |publisher=Central Electoral Commission |url=https://www.vrk.lt/daugiamandates-laidu-informacija-2024-seimo |access-date=28 October 2024 |language=lt}}</ref>",
                       "url": "https://www.vrk.lt/daugiamandates-laidu-informacija-2024-seimo",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"lrtdebates\">{{cite news |title=Seimo rinkimai su LRT – laukia 93 debatų ir specialių laidų transliacijos |url=https://www.lrt.lt/naujienos/tavo-lrt/15/2345291/seimo-rinkimai-su-lrt-laukia-93-debatu-ir-specialiu-laidu-transliacijos |access-date=28 October 2024 |work=lrt.lt |date=23 August 2024 |language=lt |archive-date=30 September 2024 |archive-url=https://web.archive.org/web/20240930113709/https://www.lrt.lt/naujienos/tavo-lrt/15/2345291/seimo-rinkimai-su-lrt-laukia-93-debatu-ir-specialiu-laidu-transliacijos |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/tavo-lrt/15/2345291/seimo-rinkimai-su-lrt-laukia-93-debatu-ir-specialiu-laidu-transliacijos",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -543,8 +543,8 @@
                     {
                       "text": "<ref>{{cite web |title=Informacija apie vienmandačių rinkimų apygardų kandidatų agitacines laidas |url=https://www.vrk.lt/vienmandaciu-laidu-informacija-2024-seimo |publisher=Central Electoral Commission |access-date=28 October 2024 |language=lt}}</ref>",
                       "url": "https://www.vrk.lt/vienmandaciu-laidu-informacija-2024-seimo",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -568,7 +568,7 @@
                 {
                   "text": "<ref>{{cite news |title=Iš politikos traukiasi ir Seimo rinkimuose nebedalyvaus 9 dabartiniai parlamentarai |work=Lithuanian National Radio and Television|LRT |date=3 September 2024 |url=https://www.lrt.lt/mediateka/irasas/2000357811/is-politikos-traukiasi-ir-seimo-rinkimuose-nebedalyvaus-9-dabartiniai-parlamentarai |language=lt |access-date=13 October 2024}}</ref>",
                   "url": "https://www.lrt.lt/mediateka/irasas/2000357811/is-politikos-traukiasi-ir-seimo-rinkimuose-nebedalyvaus-9-dabartiniai-parlamentarai",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -600,7 +600,7 @@
                 {
                   "text": "<ref name=\"JI\">{{cite news |last=Jačauskas |first=Ignas |title=Oficialu: patvirtinti pirmojo Seimo rinkimų turo rezultatai, vienoje apygardoje lemtingi galėjo būti sugadinti biuleteniai |work=15min.lt |agency=BNS |date=20 October 2024 |url=https://www.15min.lt/naujiena/aktualu/lietuva/vrk-patvirtino-seimo-rinkimu-rezultatus-vienmandatese-apygardose-56-2328054 |language=lt |access-date=20 October 2024}}</ref>",
                   "url": "https://www.15min.lt/naujiena/aktualu/lietuva/vrk-patvirtino-seimo-rinkimu-rezultatus-vienmandatese-apygardose-56-2328054",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -621,14 +621,14 @@
                     {
                       "text": "<ref>{{Cite web |title=Over 7% cast ballot in early voting in Lithuania's parliament election |url=https://www.lrt.lt/en/news-in-english/19/2383602/over-7-cast-ballot-in-early-voting-in-lithuania-s-parliament-election |work=LRT |date=11 October 2024 }}</ref>",
                       "url": "https://www.lrt.lt/en/news-in-english/19/2383602/over-7-cast-ballot-in-early-voting-in-lithuania-s-parliament-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Social Democrats win round 1 of Lithuania's election and aim to oust the conservative leader |url=https://apnews.com/article/lithuania-election-government-coalition-070bb3f161f48aca712ec338984ac326 |access-date=14 October 2024 |website=Associated Press|date=14 October 2024 }}</ref>",
                       "url": "https://apnews.com/article/lithuania-election-government-coalition-070bb3f161f48aca712ec338984ac326",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -648,8 +648,8 @@
                     {
                       "text": "<ref>{{Cite web |title=Elections to the Seimas of the Republic of Lithuania, 13 October 2024 |url=https://www.vrk.lt/en/2024-seimo/rezultatai?srcUrl=/rinkimai/1544/1/aktyvumas/en/aktyvumas.html |date=13 October 2024 }}</ref>",
                       "url": "https://www.vrk.lt/en/2024-seimo/rezultatai?srcUrl=/rinkimai/1544/1/aktyvumas/en/aktyvumas.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
@@ -690,22 +690,22 @@
                       "references": [
                         {
                           "text": "<ref name=\"kurvilija\">{{cite web |title=Dramos atomazga: Blinkevičiūtė premjere nebus, socdemai teikia Palucką |url=https://lrt.lt/naujienos/lietuvoje/2/2401095/dramos-atomazga-blinkeviciute-premjere-nebus-socdemai-teikia-palucka |website=LRT |language=lt |date=30 October 2024 |access-date=30 October 2024 |archive-date=5 November 2024 |archive-url=https://web.archive.org/web/20241105104450/https://www.lrt.lt/naujienos/lietuvoje/2/2401095/dramos-atomazga-blinkeviciute-premjere-nebus-socdemai-teikia-palucka |url-status=live }}</ref>",
-                          "url": "https://lrt.lt/naujienos/lietuvoje/2/2401095/dramos-atomazga-blinkeviciute-premjere-nebus-socdemai-teikia-palucka",
-                          "status_code": null,
+                          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2401095/dramos-atomazga-blinkeviciute-premjere-nebus-socdemai-teikia-palucka",
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"gabrielover\"/><br>'''Radvilė Morkūnaitė-Mikulėnienė'''<br>'''Gintarė Skaistė'''<br>'''Agnė Bilotaitė'''<br>'''Matas Maldeikis'''<br>'''Liudas Mažylis'''<br>'''Audronius Ažubalis'''<br>'''Jurgis Razma'''<br>'''Arūnas Valinskas (born 1989)|Arūnas Valinskas'''<br>'''Vytautas Kernagis (1976)|Vytautas Kernagis'''<br>'''{{ill|Kazys Starkevičius|lt}}'''<br>'''Raimondas Kuodis'''<br>'''{{ill|Valdas Rakutis|lt}}'''<br>'''Giedrė Balčytytė'''<br>'''Aistė Gedvilienė'''<br>'''Emanuelis Zingeris'''<br>'''Arvydas Pocius'''<br>'''Vytautas Juozapaitis'''  \n| valign=top | '''Agnė Širinskienė'''<br>'''Vytautas Jucius'''<br>'''Robert Puchovič'''<br>'''Artūras Skardžius'''<br>'''Aidas Gedvilas'''<br>'''Lina Šukytė-Korsakė'''<br>'''Kęstutis Bilius'''<br>'''Saulius Bucevičius'''<br>'''Mantas Poškus'''<br>'''Martynas Gedvilas'''<br>'''Petras Dargis'''<br>'''Raimondas Šukys'''<br>'''Dainius Varnas'''<br>'''Dainoras Bradauskas'''\n|-\n|'''Union of Democrats \"For Lithuania\"|DSVL'''\n|'''Liberals' Movement (Lithuania)|Liberals' Movement'''\n|'''Lithuanian Farmers and Greens Union|LVŽS'''\n|-\n| bgcolor=\"{{party color|Union of Democrats \"For Lithuania\"}}\" |\n| bgcolor=\"{{party color|Liberals' Movement (Lithuania)}}\" |\n| bgcolor=\"{{party color|Lithuanian Farmers and Greens Union}}\" |\n|- \n| valign=top | '''Saulius Skvernelis'''<br>'''Lukas Savickas'''<br>'''Jekaterina Rojaka'''<br><del>Virginijus Sinkevičius</del><ref>{{cite web |title=Seimo nario mandato atsisakęs Sinkevičius: Žemaitaitis koaliciją paverčia lengvu taikiniu |url=https://lrt.lt/naujienos/lietuvoje/2/2410602/seimo-nario-mandato-atsisakes-sinkevicius-zemaitaitis-koalicija-pavercia-lengvu-taikiniu |website=LRT |language=lt |date=11 November 2024}}</ref>",
-                          "url": "https://lrt.lt/naujienos/lietuvoje/2/2410602/seimo-nario-mandato-atsisakes-sinkevicius-zemaitaitis-koalicija-pavercia-lengvu-taikiniu",
-                          "status_code": null,
+                          "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2410602/seimo-nario-mandato-atsisakes-sinkevicius-zemaitaitis-koalicija-pavercia-lengvu-taikiniu",
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{cite web |title=\"Valstiečiai\" žada nebūti \"trečio brolio\" vietoje, gavo 8 mandatus |url=https://www.lrt.lt/naujienos/lietuvoje/2/2398561/valstieciai-zada-nebuti-trecio-brolio-vietoje-gavo-8-mandatus |website=LRT |language=lt |date=27 October 2024}}</ref>",
                           "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2398561/valstieciai-zada-nebuti-trecio-brolio-vietoje-gavo-8-mandatus",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -745,28 +745,28 @@
                     {
                       "text": "<ref>{{cite news | title=Socialdemokratai ir S.Skvernelis telkiasi į koaliciją, bet dėl trečiojo brolio lieka intriga | work=15min.lt | date=14 October 2024 | url=https://www.15min.lt/naujiena/aktualu/lietuva/socialdemokratai-laimejo-rinkimus-prasideda-koalicijos-deliones-56-2323416 | language=lt | access-date=14 October 2024}}</ref>",
                       "url": "https://www.15min.lt/naujiena/aktualu/lietuva/socialdemokratai-laimejo-rinkimus-prasideda-koalicijos-deliones-56-2323416",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last=Platūkytė |first=Domantė |title=Karbauskis Blinkevičiūtę jau vadina būsima premjere, abu sako – sukirsta rankomis |work=LRT |date=15 October 2024 |url=https://www.lrt.lt/naujienos/lietuvoje/2/2386958/karbauskis-blinkeviciute-jau-vadina-busima-premjere-abu-sako-sukirsta-rankomis |language=lt |access-date=19 October 2024 |archive-date=12 November 2024 |archive-url=https://web.archive.org/web/20241112012530/https://www.lrt.lt/naujienos/lietuvoje/2/2386958/karbauskis-blinkeviciute-jau-vadina-busima-premjere-abu-sako-sukirsta-rankomis |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2386958/karbauskis-blinkeviciute-jau-vadina-busima-premjere-abu-sako-sukirsta-rankomis",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news | title=Blinkevičiūtė: nei iki rinkimų, nei šiandien nevedame derybų su \"Nemuno aušra\" | work=LNK | url=https://lnk.lt/straipsniai/Politika/sinkevicius-atsake-ar-sieks-uzsienio-ministro-posto/280981 | access-date=28 October 2024}}</ref>",
                       "url": "https://lnk.lt/straipsniai/Politika/sinkevicius-atsake-ar-sieks-uzsienio-ministro-posto/280981",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Lithuanians vote in the final round of parliamentary election |work=Associated Press |date=27 October 2024 |url=https://apnews.com/article/lithuania-parliamentary-election-new-government-92531b8be1c945c8f2029d4179de5ba3 |language=en |access-date=27 October 2024}}</ref>",
                       "url": "https://apnews.com/article/lithuania-parliamentary-election-new-government-92531b8be1c945c8f2029d4179de5ba3",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -779,70 +779,70 @@
                     {
                       "text": "<ref>{{cite news |title=Social Democrats invite two parties to form Lithuania's ruling coalition |url=https://www.lrt.lt/en/news-in-english/19/2408142/social-democrats-invite-two-parties-to-form-lithuania-s-ruling-coalition |work=lrt.lt |date=7 November 2024 |language=en |access-date=7 November 2024 |archive-date=13 November 2024 |archive-url=https://web.archive.org/web/20241113030143/https://www.lrt.lt/en/news-in-english/19/2408142/social-democrats-invite-two-parties-to-form-lithuania-s-ruling-coalition |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/en/news-in-english/19/2408142/social-democrats-invite-two-parties-to-form-lithuania-s-ruling-coalition",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=openletter>{{cite news |title=Lithuanian civil society calls to exclude 'anti-Semitic' party from ruling coalition |url=https://www.lrt.lt/en/news-in-english/19/2409216/lithuanian-civil-society-calls-to-exclude-anti-semitic-party-from-ruling-coalition |work=lrt.lt |date=8 November 2024 |language=en |access-date=9 November 2024 |archive-date=15 November 2024 |archive-url=https://web.archive.org/web/20241115122605/https://www.lrt.lt/en/news-in-english/19/2409216/lithuanian-civil-society-calls-to-exclude-anti-semitic-party-from-ruling-coalition |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/en/news-in-english/19/2409216/lithuanian-civil-society-calls-to-exclude-anti-semitic-party-from-ruling-coalition",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |title=Atviras Lietuvos pilietinių organizacijų kreipimasis į Lietuvos socialdemokratų partiją |url=https://manoteises.lt/wp-content/uploads/2024/11/Atviras-Lietuvos-pilietiniu-organizaciju-kreipimasis.pdf |website=manoteises.lt |language=lt |date=2024-11-08 |access-date=9 November 2024 |archive-date=14 November 2024 |archive-url=https://web.archive.org/web/20241114143421/https://manoteises.lt/wp-content/uploads/2024/11/Atviras-Lietuvos-pilietiniu-organizaciju-kreipimasis.pdf |url-status=live }}</ref>",
                       "url": "https://manoteises.lt/wp-content/uploads/2024/11/Atviras-Lietuvos-pilietiniu-organizaciju-kreipimasis.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Chair Cardin Statement Decrying Lithuania's Governing Coalition with the Nemunas Party |url=https://www.foreign.senate.gov/press/dem/release/chair-cardin-statement-decrying-lithuanias-governing-coalition-with-the-nemunas-party |website=United States Senate Committee on Foreign Relations |language=en |date=8 November 2024 |access-date=9 November 2024 |archive-date=14 November 2024 |archive-url=https://web.archive.org/web/20241114143428/https://www.foreign.senate.gov/press/dem/release/chair-cardin-statement-decrying-lithuanias-governing-coalition-with-the-nemunas-party |url-status=live }}</ref>",
                       "url": "https://www.foreign.senate.gov/press/dem/release/chair-cardin-statement-decrying-lithuanias-governing-coalition-with-the-nemunas-party",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Šemelis |first1=Augustinas |title=JAV Senatas smerkia Lietuvos koalicijos dėlionę |url=https://www.lrt.lt/naujienos/pasaulyje/6/2409359/jav-senatas-smerkia-lietuvos-koalicijos-delione |work=lrt.lt |date=9 November 2024 |language=lt |access-date=9 November 2024 |archive-date=9 November 2024 |archive-url=https://web.archive.org/web/20241109185744/https://www.lrt.lt/naujienos/pasaulyje/6/2409359/jav-senatas-smerkia-lietuvos-koalicijos-delione |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/pasaulyje/6/2409359/jav-senatas-smerkia-lietuvos-koalicijos-delione",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Higgins |first1=Andrew |title=Party Whose Leader Is Known for Antisemitism to Join Lithuanian Government |url=https://www.nytimes.com/2024/11/08/world/europe/lithuania-coalition-antisemitism.html |work=New York Times |date=8 November 2024 |access-date=15 November 2024 |archive-date=8 November 2024 |archive-url=https://archive.today/20241108220609/https://www.nytimes.com/2024/11/08/world/europe/lithuania-coalition-antisemitism.html |url-status=bot: unknown }}</ref>",
                       "url": "https://www.nytimes.com/2024/11/08/world/europe/lithuania-coalition-antisemitism.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=\"New York Times\" apie Lietuvą: partija, žinoma dėl lyderio antisemitizmo, bus valdžioje |url=https://www.lrt.lt/naujienos/lietuvoje/2/2409268/new-york-times-apie-lietuva-partija-zinoma-del-lyderio-antisemitizmo-bus-valdzioje |work=lrt.lt |date=8 November 2024 |language=lt}}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2409268/new-york-times-apie-lietuva-partija-zinoma-del-lyderio-antisemitizmo-bus-valdzioje",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Bundestago narys sako, kad LSDP draugystė su Žemaitaičiu kenksminga: esame susirūpinę |url=https://www.lrt.lt/naujienos/lietuvoje/2/2409674/bundestago-narys-sako-kad-lsdp-draugyste-su-zemaitaiciu-kenksminga-esame-susirupine |work=lrt.lt |date=9 November 2024 |language=lt |access-date=10 November 2024 |archive-date=14 November 2024 |archive-url=https://web.archive.org/web/20241114143420/https://www.lrt.lt/naujienos/lietuvoje/2/2409674/bundestago-narys-sako-kad-lsdp-draugyste-su-zemaitaiciu-kenksminga-esame-susirupine |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2409674/bundestago-narys-sako-kad-lsdp-draugyste-su-zemaitaiciu-kenksminga-esame-susirupine",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Lenkijos Senato vicepirmininkas nerimauja dėl \"antisemitinės Vyriausybės\" |url=https://www.lrt.lt/naujienos/pasaulyje/6/2409443/lenkijos-senato-vicemarsalka-nerimauja-del-antisemitines-vyriausybes |work=Lithuanian National Radio and Television|LRT.lt |date=9 November 2024 |language=lt |access-date=10 November 2024 |archive-date=14 November 2024 |archive-url=https://web.archive.org/web/20241114143444/https://www.lrt.lt/naujienos/pasaulyje/6/2409443/lenkijos-senato-vicemarsalka-nerimauja-del-antisemitines-vyriausybes |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/pasaulyje/6/2409443/lenkijos-senato-vicemarsalka-nerimauja-del-antisemitines-vyriausybes",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Izraelio ambasada: antisemitai neturėtų priklausyti jokiai svarbiai politinei jėgai |url=https://www.lrt.lt/naujienos/lietuvoje/2/2409712/izraelio-ambasada-antisemitai-neturetu-priklausyti-jokiai-svarbiai-politinei-jegai |work=lrt.lt |date=9 November 2024 |language=lt |access-date=10 November 2024 |archive-date=14 November 2024 |archive-url=https://web.archive.org/web/20241114143452/https://www.lrt.lt/naujienos/lietuvoje/2/2409712/izraelio-ambasada-antisemitai-neturetu-priklausyti-jokiai-svarbiai-politinei-jegai |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2409712/izraelio-ambasada-antisemitai-neturetu-priklausyti-jokiai-svarbiai-politinei-jegai",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -855,35 +855,35 @@
                     {
                       "text": "<ref>{{cite news |last1=Šilobritas |first1=Žygimantas |title=Žemaitaitis: užsienio politikų reakcijas sukurstė politiniai oponentai |url=https://www.lrt.lt/naujienos/lietuvoje/2/2409604/zemaitaitis-uzsienio-politiku-reakcijas-sukurste-politiniai-oponentai |work=lrt.lt |date=9 November 2024 |language=lt |access-date=10 November 2024 |archive-date=10 November 2024 |archive-url=https://web.archive.org/web/20241110180953/https://www.lrt.lt/naujienos/lietuvoje/2/2409604/zemaitaitis-uzsienio-politiku-reakcijas-sukurste-politiniai-oponentai |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2409604/zemaitaitis-uzsienio-politiku-reakcijas-sukurste-politiniai-oponentai",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Samoškaitė |first1=Eglė |title=Paluckas mano, kad tarptautinė kritika dėl Žemaitaičio – oponentų ryšių pasekmė |url=https://www.lrt.lt/naujienos/lietuvoje/2/2409534/paluckas-mano-kad-tarptautine-kritika-del-zemaitaicio-oponentu-rysiu-pasekme |work=lrt.lt |date=9 November 2024 |language=lt |access-date=10 November 2024 |archive-date=10 November 2024 |archive-url=https://web.archive.org/web/20241110153256/https://www.lrt.lt/naujienos/lietuvoje/2/2409534/paluckas-mano-kad-tarptautine-kritika-del-zemaitaicio-oponentu-rysiu-pasekme |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2409534/paluckas-mano-kad-tarptautine-kritika-del-zemaitaicio-oponentu-rysiu-pasekme",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Pikelytė |first1=Martyna |title=Paluckas: ministrų kabinete Žemaitaičio nebus |url=https://www.lrt.lt/naujienos/lietuvoje/2/2409575/paluckas-ministru-kabinete-zemaitaicio-nebus |work=lrt.lt |date=9 November 2024 |language=lt |access-date=10 November 2024 |archive-date=11 November 2024 |archive-url=https://web.archive.org/web/20241111031202/https://www.lrt.lt/naujienos/lietuvoje/2/2409575/paluckas-ministru-kabinete-zemaitaicio-nebus |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2409575/paluckas-ministru-kabinete-zemaitaicio-nebus",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Skėrytė |first1=Jūratė |title=Lithuanian president nominates Paluckas for prime minister |url=https://www.lrt.lt/en/news-in-english/19/2417518/lithuanian-president-nominates-paluckas-for-prime-minister |work=lrt.lt |date=19 November 2024 |language=en |access-date=21 November 2024 |archive-date=20 November 2024 |archive-url=https://web.archive.org/web/20241120023703/https://www.lrt.lt/en/news-in-english/19/2417518/lithuanian-president-nominates-paluckas-for-prime-minister |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/en/news-in-english/19/2417518/lithuanian-president-nominates-paluckas-for-prime-minister",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Skėrytė |first1=Jūratė |title=Gintautas Paluckas confirmed as Lithuania’s prime minister |url=https://www.lrt.lt/en/news-in-english/19/2419533/gintautas-paluckas-confirmed-as-lithuania-s-prime-minister |work=lrt.lt |date=21 November 2024 |language=en |access-date=8 February 2025 }}</ref>",
                       "url": "https://www.lrt.lt/en/news-in-english/19/2419533/gintautas-paluckas-confirmed-as-lithuania-s-prime-minister",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -906,14 +906,14 @@
                     {
                       "text": "<ref name=\"gabrielover\">{{cite web |last1=Samoškaitė |first1=Eglė |title=Landsbergis traukiasi iš konservatorių pirmininko pareigų ir nedirbs Seime |url=https://www.lrt.lt/naujienos/lietuvoje/2/2399005/landsbergis-traukiasi-is-konservatoriu-pirmininko-pareigu-ir-nedirbs-seime |website=LRT |language=lt |date=28 October 2024}}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2399005/landsbergis-traukiasi-is-konservatoriu-pirmininko-pareigu-ir-nedirbs-seime",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Perminas |first1=Paulius |title=Morkūnaitė-Mikulėnienė named interim chair of TS-LKD after Landsbergis' resignation |url=https://www.lrt.lt/en/news-in-english/19/2399681/morkunaite-mikuleniene-named-interim-chair-of-ts-lkd-after-landsbergis-resignation |work=lrt.lt |date=28 October 2024 |language=en |access-date=28 October 2024 |archive-date=12 November 2024 |archive-url=https://web.archive.org/web/20241112210018/https://www.lrt.lt/en/news-in-english/19/2399681/morkunaite-mikuleniene-named-interim-chair-of-ts-lkd-after-landsbergis-resignation |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/en/news-in-english/19/2399681/morkunaite-mikuleniene-named-interim-chair-of-ts-lkd-after-landsbergis-resignation",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -926,7 +926,7 @@
                     {
                       "text": "<ref>{{cite web | url=https://m.kauno.diena.lt/naujienos/lietuva/politika/lietuva-paraudonavo-1197805 | title=Lietuva paraudonavo: Vajus \"Visi prieš vieną\" suveikė |work=KaunoDiena.lt | date=29 October 2024 }}</ref>",
                       "url": "https://m.kauno.diena.lt/naujienos/lietuva/politika/lietuva-paraudonavo-1197805",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -939,14 +939,14 @@
                     {
                       "text": "<ref>{{cite web | url=https://www.alfa.lt/aktualijos/politika/po-nesekmingu-rinkimu-is-laisves-partijos-vadoves-posto-traukiasi-a-armonaite/-40327190/ | title=Po nesėkmingų rinkimų iš Laisvės partijos vadovės posto traukiasi A. Armonaitė – After unsuccessful elections, A. Armonaitė is stepping down from the position of leader of the Freedom Party | work= alfa.lt | language=lt | date= 3 November 2024 | access-date= 3 November 2024}}</ref>",
                       "url": "https://www.alfa.lt/aktualijos/politika/po-nesekmingu-rinkimu-is-laisves-partijos-vadoves-posto-traukiasi-a-armonaite/-40327190/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://www.lrt.lt/naujienos/lietuvoje/2/2407194/pinskus-traukiasi-is-lietuvos-regionu-partijos-pirmininko-pareigu | title=Pinskus traukiasi iš Lietuvos regionų partijos pirmininko pareigų | date=6 November 2024 }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2407194/pinskus-traukiasi-is-lietuvos-regionu-partijos-pirmininko-pareigu",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -959,7 +959,7 @@
                     {
                       "text": "<ref>{{cite news |title=Seimas nustatė pirmalaikių Jonavos mero rinkimų datą – kitąmet kovo 16-ąją |work=LRT |date=15 October 2024 |url=https://www.lrt.lt/naujienos/lietuvoje/2/2386568/seimas-nustate-pirmalaikiu-jonavos-mero-rinkimu-data-kitamet-kovo-16-aja |language=lt |access-date=18 October 2024}}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2386568/seimas-nustate-pirmalaikiu-jonavos-mero-rinkimu-data-kitamet-kovo-16-aja",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }

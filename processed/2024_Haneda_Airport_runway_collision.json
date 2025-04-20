@@ -14,43 +14,43 @@
                 {
                   "text": "<ref name=\"avherald\">{{Cite web |last=Hradecky |first=Simon |date=2024-01-02 |title=Accident: JAL A359 at Tokyo on Jan 2nd 2024, collided with Coast Guard DH8C on runway and burst into flames |url=https://avherald.com/h?article=5132b9fe&opt=0 |access-date=2024-01-02 |website=The Aviation Herald |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102171503/http://avherald.com/h?article=5132b9fe&opt=0 |url-status=live}}</ref>",
                   "url": "https://avherald.com/h?article=5132b9fe&opt=0",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |date=2 January 2024 |title=Japan Airlines plane collides with Coast Guard aircraft registration JA722A; in flames on Haneda airport runway |work=Vanguard |url=https://www.vanguardngr.com/2024/01/breaking-japan-airlines-plane-collides-with-coast-guard-aircraft-in-flames/ |access-date=2 January 2024 |archive-date=20 January 2024 |archive-url=https://web.archive.org/web/20240120021234/https://www.vanguardngr.com/2024/01/breaking-japan-airlines-plane-collides-with-coast-guard-aircraft-in-flames/ |url-status=live}}</ref>",
                   "url": "https://www.vanguardngr.com/2024/01/breaking-japan-airlines-plane-collides-with-coast-guard-aircraft-in-flames/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"BBC live reporting\">{{cite news |date=2 January 2024 |title=All 379 people escape burning Japan Airlines plane on Tokyo runway |url=https://www.bbc.com/news/live/world-asia-67862184 |url-status=live |archive-url=https://web.archive.org/web/20240102094436/https://www.bbc.com/news/live/world-asia-67862184 |archive-date=2 January 2024 |access-date=2 January 2024 |work=BBC News}}</ref>",
                   "url": "https://www.bbc.com/news/live/world-asia-67862184",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=2024-01-03 |title=Japan Airlines: Coastguard plane not cleared for take-off, transcripts show |url=https://www.bbc.com/news/world-asia-67874607 |access-date=2024-04-25 |language=en-GB |archive-date=25 April 2024 |archive-url=https://web.archive.org/web/20240425135519/https://www.bbc.com/news/world-asia-67874607 |url-status=live}}</ref>",
                   "url": "https://www.bbc.com/news/world-asia-67874607",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\":0\" /><ref>{{cite web |title=JAL plane on fire at Haneda Airport after colliding with Japan Coast Guard plane |url=https://www3.nhk.or.jp/nhkworld/en/news/20240102_303/ |website=NHK WORLD |language=en |access-date=2 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103154820/https://www3.nhk.or.jp/nhkworld/en/news/20240102_303/ |url-status=live}}</ref>",
                   "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240102_303/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"ueno\">{{cite web |last1=Rich |first1=Motoko |last2=Ueno |first2=Hisako |last3=Soto |first3=Kaly |last4=Bubola |first4=Emma |name-list-style=and |date=2 January 2024 |title=Plane Explodes in Flames While Landing at Airport in Tokyo |url=https://www.nytimes.com/2024/01/02/world/asia/tokyo-haneda-plane-fire.html |url-status=live |archive-url=https://web.archive.org/web/20240102191422/https://www.nytimes.com/2024/01/02/world/asia/tokyo-haneda-plane-fire.html |archive-date=2 January 2024 |access-date=2 January 2024 |website=The New York Times}}</ref>",
                   "url": "https://www.nytimes.com/2024/01/02/world/asia/tokyo-haneda-plane-fire.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -62,22 +62,22 @@
                 {
                   "text": "<ref>{{Cite news |title=Precious Lives (Expanded Version) |url=https://flightsafety.org/precious-lives-expanded-version/ |access-date=2 January 2024 |website=Flight Safety Foundation |language=en-US |archive-date=3 October 2023 |archive-url=https://web.archive.org/web/20231003035940/https://flightsafety.org/precious-lives-expanded-version/ |url-status=live}}</ref>",
                   "url": "https://flightsafety.org/precious-lives-expanded-version/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"JAL_press_release_2023-01-03\"/><ref>{{Cite web |title=First Airbus A350 Hull-Loss After Haneda Runway Incursion |url=https://aviationweek.com/air-transport/safety-ops-regulation/first-airbus-a350-hull-loss-after-haneda-runway-incursion |access-date=2 January 2024 |website=Aviation Week Network |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102200615/https://aviationweek.com/air-transport/safety-ops-regulation/first-airbus-a350-hull-loss-after-haneda-runway-incursion |url-status=live}}</ref>",
                   "url": "https://aviationweek.com/air-transport/safety-ops-regulation/first-airbus-a350-hull-loss-after-haneda-runway-incursion",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |last=Lee |first=Danny |date=2 January 2024 |title=Japan Airlines Evacuates All 379 Passengers After Plane Fire |url=https://www.bloomberg.com/news/articles/2024-01-02/japan-airlines-plane-on-fire-on-runway-at-tokyo-s-haneda-airport |url-status=live |archive-url=https://web.archive.org/web/20240102095919/https://www.bloomberg.com/news/articles/2024-01-02/japan-airlines-plane-on-fire-on-runway-at-tokyo-s-haneda-airport |archive-date=2 January 2024 |access-date=2 January 2024 |work=Bloomberg.com |language=en}}</ref>",
                   "url": "https://www.bloomberg.com/news/articles/2024-01-02/japan-airlines-plane-on-fire-on-runway-at-tokyo-s-haneda-airport",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -99,22 +99,22 @@
                 {
                   "text": "<ref group=Note name=Note01/> operating as Flight 516, manufacturer serial number 538, and aircraft registration|registered as JA13XJ. The aircraft was just over two years old at the time of the collision, first flying on 20 September 2021 and delivered to JAL on 10 November.<ref>{{Cite web |last=Kaminski-Morrow |first=David |date=2 January 2024 |title=Tokyo Haneda operating in mixed mode at time of JAL A350 landing collision |url=https://www.flightglobal.com/safety/tokyo-haneda-operating-in-mixed-mode-at-time-of-jal-a350-landing-collision/156341.article |access-date=2 January 2024 |website=FlightGlobal |language=en |quote=The jet lost at Haneda (JA13XJ) was barely two years old, having been delivered to Japan Airlines in November 2021. |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102204559/https://www.flightglobal.com/safety/tokyo-haneda-operating-in-mixed-mode-at-time-of-jal-a350-landing-collision/156341.article |url-status=live}}</ref>",
                   "url": "https://www.flightglobal.com/safety/tokyo-haneda-operating-in-mixed-mode-at-time-of-jal-a350-landing-collision/156341.article",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"FR24Blog_2024-01-03\">{{cite news |url=https://www.flightradar24.com/blog/jl516-tokyo-accident/ |title=Japan Airlines Airbus A350 collides with aircraft on landing in Tokyo |last=Lomas |first=Chris |date=3 January 2024 |orig-date=2 January 2024 |website=Flightradar24 Blog |access-date=3 January 2024 |url-status=live |archive-url=https://web.archive.org/web/20240102124935/https://www.flightradar24.com/blog/jl516-tokyo-accident/ |archive-date=2 January 2024}}</ref>",
-                  "url": "https://www.flightradar24.com/blog/jl516-tokyo-accident/",
-                  "status_code": null,
+                  "url": "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/jl516-tokyo-accident/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Runway incursion Accident Airbus A350-941 JA13XJ |url=https://aviation-safety.net/wikibase/349536 |access-date=2024-05-17 |website=aviation-safety.net |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508195123/http://aviation-safety.net/wikibase/349536 |url-status=live}}</ref>",
                   "url": "https://aviation-safety.net/wikibase/349536",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -126,29 +126,29 @@
                 {
                   "text": "<ref>{{Cite web |title=Civil Database DHC-8 Construction nr 656 |url=https://www.scramble.nl/database/civil/details/DHC8_843 |access-date=3 January 2024 |website=scramble.nl |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103021309/https://www.scramble.nl/database/civil/details/DHC8_843 |url-status=live}}</ref>",
                   "url": "https://www.scramble.nl/database/civil/details/DHC8_843",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"Kaiho News No.49\">{{cite web |script-title=ja:かいほニュース No.49 |trans-title=Kaiho News No.49 |url=https://www.kaiho.mlit.go.jp/info/kaihonews/h24_0501/h24_0501.pdf |publisher=Japan Coast Guard |language=ja |date=1 May 2012 |access-date=2 January 2024 |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102154751/https://www.kaiho.mlit.go.jp/info/kaihonews/h24_0501/h24_0501.pdf |url-status=live}}</ref>",
                   "url": "https://www.kaiho.mlit.go.jp/info/kaihonews/h24_0501/h24_0501.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"FR24Blog_2024-01-03\" /><ref>{{Cite web |last=Wise |first=Jeff |date=2024-01-02 |title=Everyone Could Have Died in the Tokyo Airport Crash. Here's Why They Didn't. |url=https://nymag.com/intelligencer/2024/01/japan-airlines-crash-at-haneda-couldve-been-much-worse.html |access-date=2024-01-05 |website=Intelligencer |language=en |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103160218/https://nymag.com/intelligencer/2024/01/japan-airlines-crash-at-haneda-couldve-been-much-worse.html |url-status=live}}</ref>",
                   "url": "https://nymag.com/intelligencer/2024/01/japan-airlines-crash-at-haneda-couldve-been-much-worse.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Runway incursion Accident de Havilland Canada DHC-8-315Q MPA JA722A |url=https://aviation-safety.net/wikibase/349537 |access-date=2024-05-17 |website=aviation-safety.net |archive-date=8 May 2024 |archive-url=https://web.archive.org/web/20240508195136/http://aviation-safety.net/wikibase/349537 |url-status=live}}</ref>",
                   "url": "https://aviation-safety.net/wikibase/349537",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -177,14 +177,14 @@
                     {
                       "text": "<ref name=\"cnn\">{{cite news |date=2 January 2024 |title=Japan Airlines jet bursts into flames after collision with earthquake relief plane at Tokyo Haneda airport |publisher=CNN |url=https://edition.cnn.com/2024/01/02/asia/japan-airlines-plane-fire-airport-intl-hnk/index.html |url-status=live |access-date=2 January 2024 |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102095358/https://edition.cnn.com/2024/01/02/asia/japan-airlines-plane-fire-airport-intl-hnk/index.html}}</ref>",
                       "url": "https://edition.cnn.com/2024/01/02/asia/japan-airlines-plane-fire-airport-intl-hnk/index.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"bbc2\">{{cite news |last1=Ng |first1=Kelly |last2=Fraser |first2=Simon |date=2 January 2024 |title=Japan Airlines plane in flames on the runway at Tokyo's Haneda Airport |url=https://www.bbc.com/news/world-67862011 |url-status=live |archive-url=https://web.archive.org/web/20240102092755/https://www.bbc.com/news/world-67862011 |archive-date=2 January 2024 |access-date=2 January 2024 |work=BBC News}}</ref>",
                       "url": "https://www.bbc.com/news/world-67862011",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -197,49 +197,49 @@
                     {
                       "text": "<ref name=\"kyodofcd\" /><ref>{{cite news |date=4 January 2024 |title=Japan Coast Guard pilot says he increased engine power just before collision |language=en |work=NHK |url=https://www3.nhk.or.jp/nhkworld/en/news/20240104_35/ |access-date=4 January 2024 |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104190438/https://www3.nhk.or.jp/nhkworld/en/news/20240104_35/ |url-status=live}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240104_35/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"ap2\"/> He survived with serious injuries, while the five remaining crew members were confirmed dead by the Tokyo Fire Department.<ref name=\"NU22\">{{cite news |date=2 January 2024 |title=Alle 379 inzittenden van brandend vliegtuig in Tokio geëvacueerd, toestel botste op ander vliegtuig |trans-title=All 379 occupants of burning plane in Tokyo evacuated, plane collided with another plane |language=nl |work=NU.nl |url=https://www.nu.nl/buitenland/6296395/alle-379-inzittenden-van-brandend-vliegtuig-in-tokio-geevacueerd-toestel-botste-op-ander-vliegtuig.html |url-status=live |access-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102102837/https://www.nu.nl/buitenland/6296395/alle-379-inzittenden-van-brandend-vliegtuig-in-tokio-geevacueerd-toestel-botste-op-ander-vliegtuig.html |archive-date=2 January 2024}}</ref>",
-                      "url": "https://www.nu.nl/buitenland/6296395/alle-379-inzittenden-van-brandend-vliegtuig-in-tokio-geevacueerd-toestel-botste-op-ander-vliegtuig.html",
-                      "status_code": null,
+                      "url": "https://myprivacy.dpgmedia.nl/consent?siteKey=ucf98legs1caotgh&callbackUrl=https://www.nu.nl/privacy-gate/accept?redirectUri%3D%252Fbuitenland%252F6296395%252Falle-379-inzittenden-van-brandend-vliegtuig-in-tokio-geevacueerd-toestel-botste-op-ander-vliegtuig.html",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2 January 2024 |title=【速報】羽田空港で日本航空機と接触した海上保安庁の航空機から 1人が脱出 5人安否不明 |language=ja |trans-title=[Breaking News] One person escapes from a Japan Coast Guard aircraft that came into contact with a Japanese aircraft at Haneda Airport; safety of five people unknown. |work=FNN prime online |url=https://www.fnn.jp/articles/-/637784 |url-status=live |access-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102204235/https://www.fnn.jp/articles/-/637784 |archive-date=2 January 2024}}</ref>",
                       "url": "https://www.fnn.jp/articles/-/637784",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |date=2 January 2024 |title=【速報】海保の航空機の乗員6人のうち2人死亡 機長は重体 衝突とみられる日本航空新千歳発羽田行き516便も羽田空港で炎上 乗客は全員避難との情報 |language=ja |trans-title=[Breaking news] Two of the six crew members of the Japan Coast Guard plane are dead, the captain is in critical condition, Japan Airlines Flight 516 from New Chitose to Haneda, which is thought to have been involved in a collision, also burst into flames at Haneda Airport. All passengers were evacuated. |work=Yahoo Japan |url=https://news.yahoo.co.jp/articles/fef2fa3b39ef044e83ae85ecdb59305ed8e00084 |access-date=2 January 2024 |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102110540/https://news.yahoo.co.jp/articles/fef2fa3b39ef044e83ae85ecdb59305ed8e00084 |url-status=live}}</ref>",
                       "url": "https://news.yahoo.co.jp/articles/fef2fa3b39ef044e83ae85ecdb59305ed8e00084",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2 January 2024 |title=Live: Japan Airlines plane on fire at Tokyo's Haneda airport |url=https://www.channelnewsasia.com/asia/japan-airlines-fire-tokyo-haneda-airport-4020876 |access-date=2 January 2024 |website=CNA |language=en |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102102332/https://www.channelnewsasia.com/asia/japan-airlines-fire-tokyo-haneda-airport-4020876 |url-status=live}}</ref>",
                       "url": "https://www.channelnewsasia.com/asia/japan-airlines-fire-tokyo-haneda-airport-4020876",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"sky news five crew dead\">{{cite news |title=Japan plane fire latest: Five crew of small plane killed after jet crash that caused runway inferno |url=https://news.sky.com/story/japan-plane-fire-latest-hundreds-were-on-board-plane-footage-shows-explosion-as-it-taxies-on-runway-13040808#7001138 |publisher=Sky News |date=2 January 2024 |language=en |access-date=2 January 2024 |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102111146/https://news.sky.com/story/japan-plane-fire-latest-hundreds-were-on-board-plane-footage-shows-explosion-as-it-taxies-on-runway-13040808#7001138 |url-status=live}}</ref>",
-                      "url": "https://news.sky.com/story/japan-plane-fire-latest-hundreds-were-on-board-plane-footage-shows-explosion-as-it-taxies-on-runway-13040808#7001138",
-                      "status_code": null,
+                      "url": "https://news.sky.com/story/japan-plane-fire-latest-hundreds-were-on-board-plane-footage-shows-explosion-as-it-taxies-on-runway-13040808",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"meters\">{{cite news |date=3 January 2024 |title=Japan investigators probe conflicting reports on fiery Tokyo crash |language=en |publisher=France 24 |url=https://www.france24.com/en/live-news/20240103-japan-airlines-says-jet-cleared-to-land-before-collision |access-date=3 January 2024 |archive-url=https://archive.today/20240103093836/https://www.france24.com/en/live-news/20240103-japan-airlines-says-jet-cleared-to-land-before-collision |archive-date=3 January 2024}}</ref>",
                       "url": "https://www.france24.com/en/live-news/20240103-japan-airlines-says-jet-cleared-to-land-before-collision",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -262,85 +262,85 @@
                     {
                       "text": "<ref name=\"flightradar24 JL516\">{{cite web |title=Japan Airlines flight JL516 |url=https://www.flightradar24.com/data/flights/jl516#3376ab31 |url-status=live |archive-url=https://web.archive.org/web/20240102094334/https://www.flightradar24.com/data/flights/jl516#3376ab31 |archive-date=2 January 2024 |access-date=2 January 2024 |website=Flightradar24}}</ref>",
                       "url": "https://www.flightradar24.com/data/flights/jl516#3376ab31",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 451,
+                      "reason": "Unavailable For Legal Reasons",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |date=2 January 2024 |title=A Japan Airlines aircraft on fire at Tokyo's Haneda Airport |url=https://www3.nhk.or.jp/nhkworld/en/news/backstories/2941/ |url-status=live |archive-url=https://web.archive.org/web/20240102102734/https://www3.nhk.or.jp/nhkworld/en/news/backstories/2941/ |archive-date=2 January 2024 |access-date=2 January 2024 |work=NHK World}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/2941/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"cnn\"/> for about {{cvt|1|km}} before coming to a stop<ref name=\"nhk18\">{{Cite news |date=3 January 2024 |title=Evacuation of burning plane completed 18 minutes after touching down, JAL says |url=https://www3.nhk.or.jp/nhkworld/en/news/20240103_28/ |url-status=live |archive-url=https://web.archive.org/web/20240103144206/https://www3.nhk.or.jp/nhkworld/en/news/20240103_28/ |archive-date=3 January 2024 |access-date=3 January 2024 |work=NHK}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240103_28/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"kyodo\">{{Cite news |title=JAL jet collides with coast guard plane at Tokyo airport, 5 dead |url=https://english.kyodonews.net/news/2024/01/0b3984aaa764-urgent-japan-airlines-aircraft-catches-fire-at-haneda-airport-jal.html |archive-url=https://archive.today/20240103034503/https://english.kyodonews.net/news/2024/01/0b3984aaa764-urgent-japan-airlines-aircraft-catches-fire-at-haneda-airport-jal.html |archive-date=3 January 2024 |access-date=3 January 2024 |work=Kyodo News}}</ref>",
                       "url": "https://english.kyodonews.net/news/2024/01/0b3984aaa764-urgent-japan-airlines-aircraft-catches-fire-at-haneda-airport-jal.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Pilots: Passenger jet uncontrollable after collision with coast guard plane |url=https://www3.nhk.or.jp/nhkworld/en/news/20240111_04/ |access-date=11 January 2024 |website=NHK |language=en |archive-date=11 January 2024 |archive-url=https://web.archive.org/web/20240111133532/https://www3.nhk.or.jp/nhkworld/en/news/20240111_04/ |url-status=live}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240111_04/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Hundreds of passengers escape after jet collides with small plane on its way to Japan quake zone |url=https://news.sky.com/story/plane-in-flames-on-runway-of-tokyo-airport-13040799 |access-date=2 January 2024 |publisher=Sky News |language=en |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102101804/https://news.sky.com/story/plane-in-flames-on-runway-of-tokyo-airport-13040799 |url-status=live}}</ref>",
                       "url": "https://news.sky.com/story/plane-in-flames-on-runway-of-tokyo-airport-13040799",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Japan Airlines plane fire: Five dead on coastguard plane after collision with jet on Haneda Airport runway |url=https://www.bbc.co.uk/news/live/world-asia-67862184 |access-date=2 January 2024 |work=BBC News |date=2 January 2024 |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102095005/https://www.bbc.co.uk/news/live/world-asia-67862184 |url-status=live}}</ref>",
                       "url": "https://www.bbc.co.uk/news/live/world-asia-67862184",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"cnn\"/> According to the Tokyo Fire Department, the fire was largely extinguished shortly after midnight,<ref>{{cite news |date=3 January 2024 |title=日本航空 機体炎上\"全員脱出\" 海保機の5人死亡 乗客14人けが |trans-title=\"Japan Airlines plane catches fire, everyone evacuates,\" 5 people on Japan Coast Guard plane killed, 14 passengers injured. |language=ja |work=NHK |url=https://www3.nhk.or.jp/news/html/20240102/k10014307191000.html#anchor-03 |access-date=3 January 2024 |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102105829/https://www3.nhk.or.jp/news/html/20240102/k10014307191000.html#anchor-03 |url-status=live}}</ref>",
-                      "url": "https://www3.nhk.or.jp/news/html/20240102/k10014307191000.html#anchor-03",
-                      "status_code": null,
+                      "url": "https://www3.nhk.or.jp/news/html/20240102/k10014307191000.html",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"ap2\">{{Cite news |last1=Yamaguchi |first1=Mari |last2=Klug |first2=Foster |date=3 January 2024 |title=Planes collide and catch fire at Japan's busy Haneda airport, killing 5. Hundreds evacuated safely |url=https://apnews.com/article/plane-fire-japan-793607548e45a80b8ccc8721fb3c5016 |url-status=live |archive-url=https://archive.today/20240102203812/https://apnews.com/article/plane-fire-japan-793607548e45a80b8ccc8721fb3c5016 |archive-date=2 January 2024 |work=Associated Press}}</ref>",
                       "url": "https://apnews.com/article/plane-fire-japan-793607548e45a80b8ccc8721fb3c5016",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Davis |first1=Corey |title=5 killed after Japan Airlines plane collides with coast guard aircraft, bursts into flames: VIDEO |url=https://abc7ny.com/japan-airlines-fire-haneda-airport-airplane/14258485/ |work=ABC7NY |date=2 January 2024 |publisher=ABC |access-date=2 January 2024 |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102100847/https://abc7ny.com/japan-airlines-fire-haneda-airport-airplane/14258485/ |url-status=live}}</ref>",
                       "url": "https://abc7ny.com/japan-airlines-fire-haneda-airport-airplane/14258485/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |author=Lomas |first=Chris |date=2 January 2024 |title=Japan Airlines Airbus A350 collides with aircraft on landing in Tokyo |url=https://www.flightradar24.com/blog/jl516-tokyo-accident/ |url-status=live |archive-url=https://web.archive.org/web/20240102124935/https://www.flightradar24.com/blog/jl516-tokyo-accident/ |archive-date=2 January 2024 |access-date=2 January 2024 |website=Flightradar24}}</ref>",
-                      "url": "https://www.flightradar24.com/blog/jl516-tokyo-accident/",
-                      "status_code": null,
+                      "url": "https://www.flightradar24.com/blog/flight-tracking-news/major-incident/jl516-tokyo-accident/",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |date=1 February 2023 |title=Fire on JAL plane in Haneda collision spread from around left engine |work=NHK |url=https://www3.nhk.or.jp/nhkworld/en/news/20240202_05/}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240202_05/}}</ref>",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -352,21 +352,21 @@
                     {
                       "text": "<ref>{{cite news |title=Japan jet crash: Airline pilots unaware of cabin fire until crew told them |url=https://www.bbc.com/news/world-asia-67879308 |date=4 January 2024 |publisher=BBC |access-date=4 January 2024 |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104100959/https://www.bbc.com/news/world-asia-67879308 |url-status=live}}</ref>",
                       "url": "https://www.bbc.com/news/world-asia-67879308",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |date=4 January 2024 |title=Crew's quick decisions behind safe escape from burning JAL plane |url=https://english.kyodonews.net/news/2024/01/0fd6205ee3ae-crews-quick-decisions-behind-safe-escape-from-burning-jal-plane.html |url-status=live |archive-url=https://web.archive.org/web/20240105010523/https://english.kyodonews.net/news/2024/01/0fd6205ee3ae-crews-quick-decisions-behind-safe-escape-from-burning-jal-plane.html |archive-date=5 January 2024 |agency=Kyodo News}}</ref>",
                       "url": "https://english.kyodonews.net/news/2024/01/0fd6205ee3ae-crews-quick-decisions-behind-safe-escape-from-burning-jal-plane.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"kyodofcd\">{{Cite web |date=4 January 2024 |title=JAL pilots did not see coast guard plane when touching down |url=https://english.kyodonews.net/news/2024/01/84c5d91cfe38-jal-pilots-did-not-see-coast-guard-plane-when-touching-down.html |url-status=live |archive-url=https://web.archive.org/web/20240104103533/https://english.kyodonews.net/news/2024/01/84c5d91cfe38-jal-pilots-did-not-see-coast-guard-plane-when-touching-down.html |archive-date=4 January 2024 |agency=Kyodo News}}</ref>",
                       "url": "https://english.kyodonews.net/news/2024/01/84c5d91cfe38-jal-pilots-did-not-see-coast-guard-plane-when-touching-down.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -374,56 +374,56 @@
                       "text": "<ref name=\"avherald\"/><ref name=\"bbc3\"/> JAL said the plane's in-flight announcement system had failed, leading the crew to give instructions through megaphones or by shouting.<ref name=\"JAL_press_release_2023-01-03\">{{cite press release |author=<!--Not stated--> |title=Regarding the Collision Accident between Japan Airlines Flight 516 and a Japan Coast Guard Aircraft |url=https://press.jal.co.jp/en/items/uploads/03JAN2023_Press%20Memo_JL516r1.pdf |publisher=Japan Airlines |date=3 January 2024 |access-date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103100112/https://press.jal.co.jp/en/items/uploads/03JAN2023_Press%20Memo_JL516r1.pdf |url-status=live}}</ref>",
                       "url": "https://press.jal.co.jp/en/items/uploads/03JAN2023_Press%20Memo_JL516r1.pdf",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "press"
                     },
                     {
                       "text": "<ref>{{cite news |date=15 January 2024 |title=Passengers' mutual aid in deadly JAL crash made for \"miracle\" escape |publisher=Kyodo News |url=https://english.kyodonews.net/news/2024/01/a822d7c64171-feature-passengers-mutual-aid-in-deadly-jal-crash-made-for-miracle-escape.html |access-date=15 January 2024 |archive-date=15 January 2024 |archive-url=https://web.archive.org/web/20240115043729/https://english.kyodonews.net/news/2024/01/a822d7c64171-feature-passengers-mutual-aid-in-deadly-jal-crash-made-for-miracle-escape.html |url-status=live}}</ref>",
                       "url": "https://english.kyodonews.net/news/2024/01/a822d7c64171-feature-passengers-mutual-aid-in-deadly-jal-crash-made-for-miracle-escape.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"f24\">{{cite news |date=2 January 2024 |title=Japan Airlines plane on fire on runway at Tokyo's Haneda airport: TV images |publisher=France 24 |url=https://www.france24.com/en/live-news/20240102-japan-airlines-plane-on-fire-on-runway-at-tokyo-s-haneda-airport-tv-images |url-status=live |access-date=2 January 2024 |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102204643/https://www.france24.com/en/live-news/20240102-japan-airlines-plane-on-fire-on-runway-at-tokyo-s-haneda-airport-tv-images}}</ref>",
                       "url": "https://www.france24.com/en/live-news/20240102-japan-airlines-plane-on-fire-on-runway-at-tokyo-s-haneda-airport-tv-images",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\":0\">{{Cite web |date=2024-01-03 |title=JAL機炎上のもうひとつの懸念「預けられていた動物はいたのか」広報は「2件のお預かりがありました」 |trans-title=Another concern about the JAL plane fire: \"Were there any animals left behind?\" A spokesperson said, \"There were 2 animals left behind.\" |url=https://news.yahoo.co.jp/articles/c4ebb45c496cbb1d98f547ce5693f55ce7854f6e |access-date=2024-01-03 |publisher=Yahoo! News |language=ja |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103234620/https://news.yahoo.co.jp/articles/c4ebb45c496cbb1d98f547ce5693f55ce7854f6e |url-status=live}}</ref>",
                       "url": "https://news.yahoo.co.jp/articles/c4ebb45c496cbb1d98f547ce5693f55ce7854f6e",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://press.jal.co.jp/en/items/uploads/02Feb2024_Press%20Memo_JL516.pdf |title=Regarding the Collision Accident between Japan Airlines Flight 516 and a Japan Coast Guard Aircraft (Final Report) |date=2024-02-02}}</ref>",
                       "url": "https://press.jal.co.jp/en/items/uploads/02Feb2024_Press%20Memo_JL516.pdf",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"NHK6\">{{Cite web |date=2024-06-28 |title=羽田空港衝突事故 消防医療検証 休暇中で職員など十分集まらず |trans-title=Haneda Airport collision: Not enough fire and medical staff gathered due to the holiday |url=https://www3.nhk.or.jp/news/html/20240628/k10014495861000.html |access-date=2024-06-28 |website=NHK |language=ja |archive-date=28 June 2024 |archive-url=https://web.archive.org/web/20240628141507/http://www3.nhk.or.jp/news/html/20240628/k10014495861000.html |url-status=live}}</ref>",
                       "url": "https://www3.nhk.or.jp/news/html/20240628/k10014495861000.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |last1=Leussink |first1=Daniel |last2=Sugiyama |first2=Satoshi |date=3 January 2023 |title=Five dead after JAL airliner crashes into quake aid plane at Tokyo airport |work=Reuters |url=https://www.reuters.com/world/asia-pacific/fire-breaks-out-plane-runway-japans-tokyo-haneda-airport-nhk-2024-01-02/ |archive-url=https://archive.today/20240102203955/https://www.reuters.com/world/asia-pacific/fire-breaks-out-plane-runway-japans-tokyo-haneda-airport-nhk-2024-01-02/ |archive-date=2 January 2024}}</ref>",
                       "url": "https://www.reuters.com/world/asia-pacific/fire-breaks-out-plane-runway-japans-tokyo-haneda-airport-nhk-2024-01-02/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"fnn020125\">{{Cite news |date=2 January 2025 |title=奇跡の脱出は衝突18分後ではなく11分後に完了していた…羽田・日航機と海保機衝突事故から1年　間一髪の脱出劇明らかに |url=https://www3.nhk.or.jp/nhkworld/en/news/20240103_28/ |url-status=live |archive-url=https://web.archive.org/web/20250102105402/https://news.yahoo.co.jp/articles/85be5bb41bf0648544fc757a34c1441a25fd603d |archive-date=2 January 2025 |access-date=2 January 2025 |work=Fuji News Network}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240103_28/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "news"
                     }
                   ]
@@ -435,7 +435,7 @@
                     {
                       "text": "<ref name=\"bbc3\">{{Cite news |last=Baker |first=Graeme |date=3 January 2023 |title=Japan jet crash: Passengers describe chaos inside flight 516 |work=BBC News |url=https://www.bbc.com/news/world-asia-67865132 |archive-url=https://archive.today/20240103073650/https://www.bbc.com/news/world-asia-67865132 |archive-date=3 January 2024}}</ref>",
                       "url": "https://www.bbc.com/news/world-asia-67865132",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -467,92 +467,92 @@
                     {
                       "text": "<ref name=\"reuters_clearing_wreckage\"/><ref>{{Cite news |date=2 January 2024 |title=Five dead after Japan Airlines jet collides with coast guard plane at Haneda Airport |language=en |work=The Japan Times |url=https://www.japantimes.co.jp/news/2024/01/02/japan/haneda-airport-fire/ |access-date=2 January 2024 |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102092145/https://www.japantimes.co.jp/news/2024/01/02/japan/haneda-airport-fire/ |url-status=live}}</ref>",
                       "url": "https://www.japantimes.co.jp/news/2024/01/02/japan/haneda-airport-fire/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"NHK20240102RB\">{{Cite web |last= |date=2 January 2024 |title= |script-title=ja:【中継・速報】日本航空の機体炎上\"全員脱出\"海保機は不明も |trans-title=[Relay / Breaking news] Two of the six crew members of the Japan Coast Guard plane are dead, the captain is in critical condition, Japan Airlines Flight 516 from New Chitose to Haneda, which is thought to have been involved in a collision, also burst into flames at Haneda Airport. All passengers were evacuated. |url=https://www3.nhk.or.jp/news/html/20240102/k10014307191000.html |url-status=live |archive-url=https://web.archive.org/web/20240102105829/https://www3.nhk.or.jp/news/html/20240102/k10014307191000.html |archive-date=2 January 2024 |access-date=2 January 2024 |website=NHK News |publisher=Japan Broadcasting Corporation}}</ref>",
                       "url": "https://www3.nhk.or.jp/news/html/20240102/k10014307191000.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |date=2 January 2024 |title=Passengers escape blaze on Japan Airlines plane after collision at Tokyo's Haneda airport |language=en |work=The Straits Times |url=https://www.straitstimes.com/asia/east-asia/aircraft-on-fire-at-tokyo-haneda-airport-reports |access-date=2 January 2024 |issn=0585-3923 |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102204557/https://www.straitstimes.com/asia/east-asia/aircraft-on-fire-at-tokyo-haneda-airport-reports |url-status=live}}</ref>",
                       "url": "https://www.straitstimes.com/asia/east-asia/aircraft-on-fire-at-tokyo-haneda-airport-reports",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"f24-2\">{{cite news |date=2 January 2024 |title=Five dead, hundreds evacuated after Japanese airliner collides with coast guard aircraft on runway |url=https://www.france24.com/en/asia-pacific/20240102-japanese-airliner-burns-after-apparent-collision-with-coast-guard-aircraft-at-tokyo-s-haneda-airport |url-status=live |archive-url=https://web.archive.org/web/20240102204647/https://www.france24.com/en/asia-pacific/20240102-japanese-airliner-burns-after-apparent-collision-with-coast-guard-aircraft-at-tokyo-s-haneda-airport |archive-date=2 January 2024 |access-date=2 January 2024 |work=France 24}}</ref>",
                       "url": "https://www.france24.com/en/asia-pacific/20240102-japanese-airliner-burns-after-apparent-collision-with-coast-guard-aircraft-at-tokyo-s-haneda-airport",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"kyodo\"/> At around 21:30 JST (12:30 UTC), Haneda Airport's remaining three runways were reopened according to the Ministry of Land, Infrastructure, Transport and Tourism (MLIT).<ref>{{Cite web |date=2 January 2024 |title=羽田空港 事故のあったC滑走路を除き閉鎖解除 国交省 |trans-title=Haneda Airport closure lifted except for Runway C where the accident occurred Ministry of Land, Infrastructure, Transport and Tourism |url=https://www3.nhk.or.jp/news/html/20240102/k10014307381000.html |access-date=2 January 2024 |website=NHK News |language=ja |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102130214/https://www3.nhk.or.jp/news/html/20240102/k10014307381000.html |url-status=live}}</ref>",
                       "url": "https://www3.nhk.or.jp/news/html/20240102/k10014307381000.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"reopen2\">{{cite web |date=7 January 2024 |title=Haneda runway closed by crash to reopen on Monday |url=https://www3.nhk.or.jp/nhkworld/en/news/20240107_22/ |access-date=7 January 2024 |website=NHK |archive-date=7 January 2024 |archive-url=https://web.archive.org/web/20240107112119/https://www3.nhk.or.jp/nhkworld/en/news/20240107_22/ |url-status=live}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240107_22/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"reopen\">{{cite web |date=5 January 2024 |title=Haneda's Runway C likely to reopen on Monday after accident |url=https://www3.nhk.or.jp/nhkworld/en/news/20240105_39/ |access-date=5 January 2024 |website=NHK |archive-date=5 January 2024 |archive-url=https://web.archive.org/web/20240105222539/https://www3.nhk.or.jp/nhkworld/en/news/20240105_39/ |url-status=live}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240105_39/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=4 January 2024 |title=北海道・東北新幹線「はやて546号」1/4も運転へ - 臨時特急列車も |script-title= |trans-title=Special Operation of ''Hayate'' No.546 on the Hokkaido/Tohoku Shinkansen and Additional Express Service on 4 January |url=https://news.mynavi.jp/article/20240104-2856970/ |url-status=live |archive-url=https://web.archive.org/web/20240104123237/https://news.mynavi.jp/article/20240104-2856970/ |archive-date=4 January 2024 |access-date=8 January 2024 |website=MyNavi Corporation}}</ref>",
                       "url": "https://news.mynavi.jp/article/20240104-2856970/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":2\">{{Cite web |date=3 January 2024 |title=Uターンラッシュがピーク 羽田空港事故の影響も 200便以上欠航 |trans-title=U-Turn Rush Peaks: More than 200 Flights Canceled due to Haneda Airport accident |url=https://www3.nhk.or.jp/news/html/20240103/k10014307731000.html |url-status=live |archive-url=https://web.archive.org/web/20240105072603/https://www3.nhk.or.jp/news/html/20240103/k10014307731000.html |archive-date=5 January 2024 |access-date=8 January 2024 |website=NHK News}}</ref>",
                       "url": "https://www3.nhk.or.jp/news/html/20240103/k10014307731000.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":2\" />\n\nWorkers began clearing the wreckage of the Coast Guard aircraft on the afternoon of 4 January, followed by that of JAL 516 on the morning of 5 January.<ref>{{cite web |date=5 January 2024 |title=Work starts to remove JAL passenger jet debris from Haneda airport runway |url=https://www3.nhk.or.jp/nhkworld/en/news/20240105_16/ |access-date=5 January 2024 |website=NHK |archive-date=6 January 2024 |archive-url=https://web.archive.org/web/20240106073420/https://www3.nhk.or.jp/nhkworld/en/news/20240105_16/ |url-status=live}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240105_16/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |date=7 January 2024 |title=Last runway to reopen at Tokyo's Haneda with JAL wreckage cleared |url=https://english.kyodonews.net/news/2024/01/f28f7d14053f-last-runway-set-to-reopen-at-tokyos-haneda-with-jal-wreckage-cleared.html |access-date=7 January 2024 |agency=Kyodo News |archive-date=7 January 2024 |archive-url=https://web.archive.org/web/20240107101938/https://english.kyodonews.net/news/2024/01/f28f7d14053f-last-runway-set-to-reopen-at-tokyos-haneda-with-jal-wreckage-cleared.html |url-status=live}}</ref>",
                       "url": "https://english.kyodonews.net/news/2024/01/f28f7d14053f-last-runway-set-to-reopen-at-tokyos-haneda-with-jal-wreckage-cleared.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"reopened\">{{cite web |date=8 January 2024 |title=Flights resume on repaired Tokyo runway a week after fatal collision |url=https://apnews.com/article/japan-haneda-plane-fire-collision-runway-f0d673c8a35f383feec21cae327476cb |access-date=8 January 2024 |work=Associated Press News |archive-date=8 January 2024 |archive-url=https://web.archive.org/web/20240108050323/https://apnews.com/article/japan-haneda-plane-fire-collision-runway-f0d673c8a35f383feec21cae327476cb |url-status=live}}</ref>",
                       "url": "https://apnews.com/article/japan-haneda-plane-fire-collision-runway-f0d673c8a35f383feec21cae327476cb",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"reopen2\"/> Lighting damaged by the accident was also expected to be repaired by February 2024. The MLIT also warned of additional aircraft flying over Chiba Prefecture at low altitudes after the collision rendered low-altitude routes over central Tokyo unusable.<ref>{{cite web |date=5 January 2024 |title=Haneda's accident-hit runway expected to reopen Monday |url=https://www3.nhk.or.jp/nhkworld/en/news/20240106_02/ |access-date=6 January 2024 |website=NHK |archive-date=5 January 2024 |archive-url=https://web.archive.org/web/20240105222631/https://www3.nhk.or.jp/nhkworld/en/news/20240106_02/ |url-status=live}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240106_02/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     }
                   ]
@@ -564,22 +564,22 @@
                     {
                       "text": "<ref>{{cite web |date=12 January 2024 |title=Japan Coast Guard suspends Haneda Air Station personnel from operating aircraft |url=https://www3.nhk.or.jp/nhkworld/en/news/20240112_04/ |access-date=12 January 2024 |website=NHK |archive-date=12 January 2024 |archive-url=https://web.archive.org/web/20240112142434/https://www3.nhk.or.jp/nhkworld/en/news/20240112_04/ |url-status=live}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240112_04/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |date=27 March 2024 |title=羽田航空機衝突、海保羽田航空基地が事故機と同型機の飛行をあす再開 |trans-title=Japan Coast Guard's Haneda Air Base to resume flights of aircraft of the same crashed model at Haneda Airport tomorrow |url=https://www.yomiuri.co.jp/national/20240327-OYT1T50119/ |access-date=27 June 2024 |website=Yomiuri Shimbun |language=ja}}</ref>",
                       "url": "https://www.yomiuri.co.jp/national/20240327-OYT1T50119/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |date=28 March 2024 |title=羽田基地、飛行機の運用再開 衝突事故で停止―海保 |trans-title=Haneda Air Base resumes aircraft operations after collision accident - Japan Coast Guard |url=https://www.jiji.com/jc/article?k=2024032800752&g=soc |access-date=27 June 2024 |website=Jiji Press |language=ja}}</ref>",
                       "url": "https://www.jiji.com/jc/article?k=2024032800752&g=soc",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     }
                   ]
@@ -601,8 +601,8 @@
                     {
                       "text": "<ref name=\"NHK20240102RB\"/> The Japan Transport Safety Board announced that a formal investigation would begin on 3 January.<ref name=\"NHK20240102\">{{Cite web |last= |date=2024-01-03 |title=羽田空港事故 管制官 \"日航機に進入許可 海保機は手前まで\" |trans-title=The Haneda Airport Accident - The air traffic controller says \"I gave permission for landing to the JAL aircraft, while permitting the JCG's plane to approach in front of the runway.\" |url=https://www3.nhk.or.jp/news/html/20240103/k10014307511000.html |url-status=live |archive-url=https://web.archive.org/web/20240102213100/https://www3.nhk.or.jp/news/html/20240103/k10014307511000.html |archive-date=2 January 2024 |access-date=2024-01-02 |website=NHK news |publisher=Japan Broadcasting Corporation}}</ref>",
                       "url": "https://www3.nhk.or.jp/news/html/20240103/k10014307511000.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     }
                   ]
@@ -614,22 +614,22 @@
                     {
                       "text": "<ref>{{cite web |date=5 January 2024 |title=Air traffic controller to constantly monitor screen at Haneda |url=https://www3.nhk.or.jp/nhkworld/en/news/20240106_04/ |access-date=6 January 2024 |website=NHK |archive-date=5 January 2024 |archive-url=https://web.archive.org/web/20240105222649/https://www3.nhk.or.jp/nhkworld/en/news/20240106_04/ |url-status=live}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240106_04/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |date=9 January 2024 |title=Japan's airport control towers stop using 'No.1' instruction for plane takeoffs |url=https://www3.nhk.or.jp/nhkworld/en/news/20240109_04/ |access-date=9 January 2024 |website=NHK |archive-date=9 January 2024 |archive-url=https://web.archive.org/web/20240109044533/https://www3.nhk.or.jp/nhkworld/en/news/20240109_04/ |url-status=live}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240109_04/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |date=9 January 2024 |title=Japan's transport ministry announces safety measures following airport collision |url=https://www3.nhk.or.jp/nhkworld/en/news/20240109_25/ |access-date=9 January 2024 |website=NHK |archive-date=9 January 2024 |archive-url=https://web.archive.org/web/20240109135816/https://www3.nhk.or.jp/nhkworld/en/news/20240109_25/ |url-status=live}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240109_25/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     }
                   ]
@@ -651,7 +651,7 @@
                     {
                       "text": "<ref>{{cite web |date=10 January 2024 |title=JAL to preserve part of burned aircraft from Tokyo airport collision |url=https://english.kyodonews.net/news/2024/01/632b5719bf07-jal-to-preserve-part-of-burned-aircraft-from-tokyo-airport-collision.html |access-date=10 January 2024 |agency=Kyodo News |archive-date=10 January 2024 |archive-url=https://web.archive.org/web/20240110144025/https://english.kyodonews.net/news/2024/01/632b5719bf07-jal-to-preserve-part-of-burned-aircraft-from-tokyo-airport-collision.html |url-status=live}}</ref>",
                       "url": "https://english.kyodonews.net/news/2024/01/632b5719bf07-jal-to-preserve-part-of-burned-aircraft-from-tokyo-airport-collision.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -676,21 +676,21 @@
                 {
                   "text": "<ref>{{Cite news |date=2 January 2024 |title=Japan Airlines plane fire: Five dead on coastguard plane after crash with jet on Haneda airport runway |url=https://www.bbc.co.uk/news/live/world-asia-67862184 |url-status=live |archive-url=https://web.archive.org/web/20240102095005/https://www.bbc.co.uk/news/live/world-asia-67862184 |archive-date=2 January 2024 |access-date=2 January 2024 |work=BBC News}}</ref>",
                   "url": "https://www.bbc.co.uk/news/live/world-asia-67862184",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-01-03 |title=Collision at Haneda airport in Tokyo, the airliner was authorized to land |url=https://www.agenzianova.com/en/news/collision-at-haneda-airport-in-tokyo-the-airliner-was-authorized-to-land/ |url-status=live |archive-url=https://web.archive.org/web/20240103090449/https://www.agenzianova.com/en/news/collision-at-haneda-airport-in-tokyo-the-airliner-was-authorized-to-land/ |archive-date=3 January 2024 |access-date=2024-01-04 |website=Agenzia Nova}}</ref>",
                   "url": "https://www.agenzianova.com/en/news/collision-at-haneda-airport-in-tokyo-the-airliner-was-authorized-to-land/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |date=2024-01-02 |title=海保５人死亡「痛恨の極み」、日航「着陸許可が出ていたと認識」…小池都知事「災害が災害を呼んでしまうことは残念」 |trans-title=Five people killed in the Japan Coast Guard: \"Extremely saddened\"; Japan Airlines \"recognizes landing permission had been given\"...Tokyo Governor Koike: \"It's unfortunate that a disaster leads to another disaster\" |url=https://www.yomiuri.co.jp/national/20240102-OYT1T50212/ |archive-url=https://web.archive.org/web/20240102150245/https://www.yomiuri.co.jp/national/20240102-OYT1T50212/ |archive-date=2024-01-02 |access-date=2024-01-04 |work=Yomiuri Shimbun |language=ja}}</ref>",
                   "url": "https://www.yomiuri.co.jp/national/20240102-OYT1T50212/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -716,14 +716,14 @@
                 {
                   "text": "<ref>{{Cite news |date=2 January 2024 |title=Japan Airlines plane fire: Five dead on coastguard plane after collision with jet on Haneda Airport runway |url=https://www.bbc.co.uk/news/live/world-asia-67862184 |url-status=live |archive-url=https://web.archive.org/web/20240102153131/https://www.bbc.com/news/live/world-asia-67862184 |archive-date=2 January 2024 |access-date=2 January 2024 |work=BBC News |quote=Airbus, the maker of the A350 passenger plane which caught fire after colliding with the coastguard aircraft, has released a statement saying it is in contact with the operator Japan Airlines. The statement adds that Airbus will \"communicate further details when available\".}}</ref>",
                   "url": "https://www.bbc.co.uk/news/live/world-asia-67862184",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite press release |title=Airbus statement on Flight JAL516 |url=https://www.airbus.com/en/newsroom/press-releases/2024-01-airbus-statement-on-flight-jal516 |url-status=live |archive-url=https://web.archive.org/web/20240102152812/https://www.airbus.com/en/newsroom/press-releases/2024-01-airbus-statement-on-flight-jal516 |archive-date=2 January 2024 |access-date=2024-01-02 |publisher=Airbus |date=2024-01-02}}</ref>",
                   "url": "https://www.airbus.com/en/newsroom/press-releases/2024-01-airbus-statement-on-flight-jal516",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "press"
                 }
@@ -737,14 +737,14 @@
                   "text": "<ref>{{Cite web |date=2 January 2024 |title=Collision Accident Involving Japan Airlines Flight JAL516 and Japan Coast Guard Aircraft |url=https://www.jal.co.jp/jp/en/info/2024/other/240102-2/ |access-date=2 Jan 2024 |website=Japan Airlines |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102220904/https://www.jal.co.jp/jp/en/info/2024/other/240102-2/ |url-status=live}}</ref>",
                   "url": "https://www.jal.co.jp/jp/en/info/2024/other/240102-2/",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-01-03 |title=Special measures for air tickets following the collision between Japan Airlines Flight JL516 and a Japan Coast Guard aircraft |url=https://www.jal.co.jp/jp/en/info/2024/other/240102-3/ |url-status=live |archive-url=https://web.archive.org/web/20240103144204/https://www.jal.co.jp/jp/en/info/2024/other/240102-3/ |archive-date=3 January 2024 |access-date=2024-01-03 |website=Japan Airlines}}</ref>",
                   "url": "https://www.jal.co.jp/jp/en/info/2024/other/240102-3/",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 }
               ]
@@ -756,7 +756,7 @@
                 {
                   "text": "<ref>{{Cite web |url=https://jfas-sky.jp/2024%E5%B9%B41%E6%9C%882%E6%97%A5%E3%81%AB%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E3%81%A7%E7%99%BA%E7%94%9F%E3%81%97%E3%81%9F%E8%88%AA%E7%A9%BA%E6%A9%9F%E4%BA%8B%E6%95%85/ |title=Urgent Statement for the Accident at Tokyo International Airport on Jan 2nd 2024 |date=3 January 2024 |publisher=Japan Federation of Civil Aviation Workers' Union for Air Safety |access-date=6 January 2024 |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104140528/https://jfas-sky.jp/2024%E5%B9%B41%E6%9C%882%E6%97%A5%E3%81%AB%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E3%81%A7%E7%99%BA%E7%94%9F%E3%81%97%E3%81%9F%E8%88%AA%E7%A9%BA%E6%A9%9F%E4%BA%8B%E6%95%85/ |url-status=live}}</ref>",
                   "url": "https://jfas-sky.jp/2024%E5%B9%B41%E6%9C%882%E6%97%A5%E3%81%AB%E6%9D%B1%E4%BA%AC%E5%9B%BD%E9%9A%9B%E7%A9%BA%E6%B8%AF%E3%81%A7%E7%99%BA%E7%94%9F%E3%81%97%E3%81%9F%E8%88%AA%E7%A9%BA%E6%A9%9F%E4%BA%8B%E6%95%85/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -769,15 +769,15 @@
                 {
                   "text": "<ref>{{cite web |date=17 January 2024 |title=JAL to work to dispel public concerns over aviation safety |url=https://www3.nhk.or.jp/nhkworld/en/news/20240117_32/ |access-date=17 January 2024 |agency=NHK |archive-date=17 January 2024 |archive-url=https://web.archive.org/web/20240117131751/https://www3.nhk.or.jp/nhkworld/en/news/20240117_32/ |url-status=live}}</ref>",
                   "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240117_32/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |date=17 January 2024 |title=Japan's coast guard chief offers apology for Haneda Airport collision |work=NHK WORLD |url=https://www3.nhk.or.jp/nhkworld/en/news/20240117_24/ |access-date=17 January 2024 |agency=NHK |archive-date=17 January 2024 |archive-url=https://web.archive.org/web/20240117131752/https://www3.nhk.or.jp/nhkworld/en/news/20240117_24/ |url-status=live}}</ref>",
                   "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240117_24/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 }
               ]
@@ -799,7 +799,7 @@
                 {
                   "text": "<ref>{{Cite web |date=3 January 2024 |title=Japan begins probing cause of JAL jet collision at Tokyo airport |url=https://english.kyodonews.net/news/2024/01/5afa283f5a85-japan-begins-probing-cause-of-jal-jet-collision-at-tokyo-airport.html |archive-url=https://archive.today/20240103034446/https://english.kyodonews.net/news/2024/01/5afa283f5a85-japan-begins-probing-cause-of-jal-jet-collision-at-tokyo-airport.html |archive-date=3 January 2024 |access-date=3 January 2024 |agency=Kyodo News}}</ref>",
                   "url": "https://english.kyodonews.net/news/2024/01/5afa283f5a85-japan-begins-probing-cause-of-jal-jet-collision-at-tokyo-airport.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -813,15 +813,15 @@
                 {
                   "text": "<ref>{{Cite web |title=事故調査支援へ専門家チーム＝日航機炎上で派遣―エアバス |trans-title=Airbus sent experts to support the investigation of the JAL aircraft combustion accident. |url=https://sp.m.jiji.com/article/show/3133784 |url-status=live |archive-url=https://web.archive.org/web/20240102223553/https://sp.m.jiji.com/article/show/3133784 |archive-date=2 January 2024 |access-date=2024-01-02 |website=Jiji Press |language=ja}}</ref>",
                   "url": "https://sp.m.jiji.com/article/show/3133784",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=3 January 2024 |title=Airbus, French government to send teams to help probe Haneda airport collision |url=https://www3.nhk.or.jp/nhkworld/en/news/20240103_04/ |archive-url=https://archive.today/20240103093032/https://www3.nhk.or.jp/nhkworld/en/news/20240103_04/ |archive-date=3 January 2024 |access-date=3 January 2024 |website=NHK |language=en-gb}}</ref>",
                   "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240103_04/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
@@ -834,14 +834,14 @@
                 {
                   "text": "<ref>{{Cite news |url=https://www.theguardian.com/world/2024/jan/03/japan-plane-crash-jet-haneda-airport-clear-to-land-japan-airlines |title=Japan jet crash: passenger plane was cleared to land, say officials |first=Justin |last=McCurry |date=3 January 2024 |newspaper=The Guardian |access-date=3 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103120936/https://www.theguardian.com/world/2024/jan/03/japan-plane-crash-jet-haneda-airport-clear-to-land-japan-airlines |url-status=live}}</ref>",
                   "url": "https://www.theguardian.com/world/2024/jan/03/japan-plane-crash-jet-haneda-airport-clear-to-land-japan-airlines",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |title=Canadian safety watchdog pitching in on probe into fatal Japan Airlines crash |url=https://www.ctvnews.ca/canada/canadian-safety-watchdog-pitching-in-on-probe-into-fatal-japan-airlines-crash-1.6712047 |website=CTV News |access-date=5 January 2024 |language=en |date=4 January 2024 |archive-date=5 January 2024 |archive-url=https://web.archive.org/web/20240105222608/https://www.ctvnews.ca/canada/canadian-safety-watchdog-pitching-in-on-probe-into-fatal-japan-airlines-crash-1.6712047 |url-status=live}}</ref>",
-                  "url": "https://www.ctvnews.ca/canada/canadian-safety-watchdog-pitching-in-on-probe-into-fatal-japan-airlines-crash-1.6712047",
-                  "status_code": null,
+                  "url": "https://www.ctvnews.ca/canada/article/canadian-safety-watchdog-pitching-in-on-probe-into-fatal-japan-airlines-crash/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -855,8 +855,8 @@
                 {
                   "text": "<ref>{{Cite news |date=2024-01-04 |title=US to provide assistance to Japan on airplane recorders in fatal collision |url=https://www.reuters.com/world/asia-pacific/us-provide-assistance-japan-airplane-recorders-fatal-collision-2024-01-04/ |access-date=2024-01-07 |work=Reuters}}</ref>",
                   "url": "https://www.reuters.com/world/asia-pacific/us-provide-assistance-japan-airplane-recorders-fatal-collision-2024-01-04/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 }
               ]
@@ -868,50 +868,50 @@
                 {
                   "text": "<ref>{{Cite web |date=4 January 2024 |title=Full text: Air traffic control communications right before Tokyo Haneda collision |url=https://www3.nhk.or.jp/nhkworld/en/news/backstories/2948/ |url-status= |archive-url=https://web.archive.org/web/20240104064946/https://www3.nhk.or.jp/nhkworld/en/news/backstories/2948/ |archive-date=4 January 2024 |access-date=4 January 2024 |website=NHK World}}</ref>",
                   "url": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/2948/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"transcript\">{{Cite web |last1=Klug |first1=Foster |last2=Yamaguchi |first2=Mari |date=2024-01-03 |title=Investigators focus on air traffic communication after a fatal Tokyo runway crash |url=https://apnews.com/article/japan-planes-collision-a350-fire-investigation-tokyo-f2f0950ed7acd0e978bb26c739132629 |access-date=2024-01-03 |work=Associated Press News |language=en |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103144155/https://apnews.com/article/japan-planes-collision-a350-fire-investigation-tokyo-f2f0950ed7acd0e978bb26c739132629 |url-status=live}}</ref>",
                   "url": "https://apnews.com/article/japan-planes-collision-a350-fire-investigation-tokyo-f2f0950ed7acd0e978bb26c739132629",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last1=Maruyama |first1=Mayumi |last2=Rebane |first2=Teele |last3=Hardingham-Gill |first3=Tamara |last4=Jozuka |first4=Emiko |date=2024-01-02 |title=Japan Airlines jet bursts into flames after collision with earthquake relief plane at Tokyo Haneda airport |url=https://www.cnn.com/2024/01/02/asia/japan-airlines-plane-fire-airport-intl-hnk/index.html |access-date=2024-01-02 |publisher=CNN |language=en |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102152206/https://www.cnn.com/2024/01/02/asia/japan-airlines-plane-fire-airport-intl-hnk/index.html |url-status=live}}</ref>",
-                  "url": "https://www.cnn.com/2024/01/02/asia/japan-airlines-plane-fire-airport-intl-hnk/index.html",
-                  "status_code": null,
+                  "url": "https://edition.cnn.com/2024/01/02/asia/japan-airlines-plane-fire-airport-intl-hnk/index.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"NHK20240102\" /> NHK, however, citing a source within the Coast Guard, reported that the pilot of the Coast Guard plane claimed to have received clearance to take off.<ref name=\"meters\" /> Air traffic controllers later told MLIT officials that they had not noticed the Coast Guard plane moving onto the runway, adding that they were preoccupied with assisting other aircraft.<ref>{{Cite web |date=2024-01-04 |title=Haneda air traffic controllers 'unaware of JCG plane movement before collision' |url=https://www3.nhk.or.jp/nhkworld/en/news/20240105_07/ |access-date=2024-01-05 |website=NHK |language=en |archive-date=5 January 2024 |archive-url=https://web.archive.org/web/20240105095844/https://www3.nhk.or.jp/nhkworld/en/news/20240105_07/ |url-status=live}}</ref>",
                   "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240105_07/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-01-06 |title=Coast guard pilot unlikely heard JAL-tower comms before crash |url=https://english.kyodonews.net/news/2024/01/3095c29e2df7-coast-guard-pilot-unlikely-heard-jal-tower-comms-before-crash.html |access-date=2024-01-07 |agency=Kyodo News |language=en |archive-date=7 January 2024 |archive-url=https://web.archive.org/web/20240107143721/https://english.kyodonews.net/news/2024/01/3095c29e2df7-coast-guard-pilot-unlikely-heard-jal-tower-comms-before-crash.html |url-status=live}}</ref>",
                   "url": "https://english.kyodonews.net/news/2024/01/3095c29e2df7-coast-guard-pilot-unlikely-heard-jal-tower-comms-before-crash.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-01-11 |title=Japan runway incursion measures not shared suitably with coast guard |url=https://english.kyodonews.net/news/2024/01/afc485d5a59b-japan-runway-incursion-measures-not-shared-suitably-with-coast-guard.html |access-date=2024-01-11 |agency=Kyodo News |language=en |archive-date=11 January 2024 |archive-url=https://web.archive.org/web/20240111092010/https://english.kyodonews.net/news/2024/01/afc485d5a59b-japan-runway-incursion-measures-not-shared-suitably-with-coast-guard.html |url-status=live}}</ref>",
                   "url": "https://english.kyodonews.net/news/2024/01/afc485d5a59b-japan-runway-incursion-measures-not-shared-suitably-with-coast-guard.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"ap2\" /><ref>{{Cite news |last1=Davis |first1=River |last2=Tsuneoka |first2=Chieko |last3=Inada |first3=Miho |date=2024-01-27 |title=Tokyo Plane Crash Investigators Zone In on Human Error and a Missed Warning |url=https://www.wsj.com/world/asia/tokyo-plane-crash-investigators-zone-in-on-human-error-and-a-missed-warning-2fd1dc78 |access-date=2024-02-16 |work=The Wall Street Journal |archive-date=29 January 2024 |archive-url=https://web.archive.org/web/20240129112523/https://www.wsj.com/world/asia/tokyo-plane-crash-investigators-zone-in-on-human-error-and-a-missed-warning-2fd1dc78 |url-status=live}}</ref>",
                   "url": "https://www.wsj.com/world/asia/tokyo-plane-crash-investigators-zone-in-on-human-error-and-a-missed-warning-2fd1dc78",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -923,22 +923,22 @@
                 {
                   "text": "<ref name=\"avherald\" /><ref name=\"reuters_clearing_wreckage\">{{cite web |url=https://www.reuters.com/world/asia-pacific/japans-haneda-airport-begin-clearing-jal-plane-wreckage-media-2024-01-05/ |title=Crews begin clearing plane wreckage from Japan runway collision |last1=Swift |first1=Rocky |last2=Kaneko |first2=Kaori |last3=Leussink |first3=Daniel |date=5 January 2024 |work=Reuters |access-date=6 January 2024}}</ref>",
                   "url": "https://www.reuters.com/world/asia-pacific/japans-haneda-airport-begin-clearing-jal-plane-wreckage-media-2024-01-05/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Controllers interviewed in Haneda Airport collision, data recovered |url=https://www3.nhk.or.jp/nhkworld/en/news/20240107_03/ |access-date=2024-01-07 |website=NHK WORLD |language=en |archive-date=7 January 2024 |archive-url=https://web.archive.org/web/20240107095548/https://www3.nhk.or.jp/nhkworld/en/news/20240107_03/ |url-status=live}}</ref>",
                   "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240107_03/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Japanese safety officials analyzing recorders from aircraft in Haneda collision |url=https://www3.nhk.or.jp/nhkworld/en/news/20240124_01/ |access-date=2024-01-24 |website=NHK WORLD |language=en}}</ref>",
                   "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240124_01/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 }
               ]
@@ -950,14 +950,14 @@
                 {
                   "text": "<ref>{{cite web |date=24 June 2024 |title=羽田空港航空機衝突事故対策検討委員会 中間取りまとめ |trans-title=Interim report of the Haneda Airport Aircraft Crash Countermeasures Review Committee |url=https://www.mlit.go.jp/koku/content/001750483.pdf |url-status=live |archive-url=https://web.archive.org/web/20240624234358/https://www.mlit.go.jp/koku/content/001750483.pdf |archive-date=2024-06-24 |access-date=2024-06-28 |language=ja}}</ref>",
                   "url": "https://www.mlit.go.jp/koku/content/001750483.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"NHK6\"/><ref name=\"Yomiuri6\">{{Cite web |date=2024-06-28 |title=羽田衝突事故時、負傷者乗せた救急車３０分出発できず…緊急車両を誘導するチーム新設など体制強化へ |trans-title=Ambulances carrying injured passengers were unable to leave for 30 minutes after Haneda crash...New team to guide emergency vehicles and other measures to strengthen system |url=https://www.yomiuri.co.jp/national/20240628-OYT1T50165/ |access-date=2024-06-28 |website=Yomiuri Shimbun |language=ja |archive-date=28 June 2024 |archive-url=https://web.archive.org/web/20240628150802/https://www.yomiuri.co.jp/national/20240628-OYT1T50165/ |url-status=live}}</ref>",
                   "url": "https://www.yomiuri.co.jp/national/20240628-OYT1T50165/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -970,21 +970,21 @@
                 {
                   "text": "<ref>{{Cite web |url=https://www3.nhk.or.jp/nhkworld/en/news/20241225_11/ |title=Captain of plane in Haneda collision says he mistook controller instructions |date=25 December 2024 |publisher=NHK World-Japan |access-date=25 December 2024 |archive-url=https://web.archive.org/web/20241225184755/https://www3.nhk.or.jp/nhkworld/en/news/20241225_11/ |archive-date=25 December 2024}}</ref>",
                   "url": "https://www3.nhk.or.jp/nhkworld/en/news/20241225_11/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |url=https://www.asahi.com/ajw/articles/15565047 |title=JAL crew saved everyone aboard in Jan. 2 crash despite chaos |date=25 December 2024 |access-date=25 December 2024 |last=Nagano |first=Yusuke |work=The Asahi Shimbun}}</ref>",
                   "url": "https://www.asahi.com/ajw/articles/15565047",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"yearly report\">{{cite web |author=運輸安全委員会（航空部会）(Japan Transport Safety Board (Aviation Division)) |date=2024-12-25 |title=海上保安庁所属ボンバルディア式ＤＨＣ－８－３１５型ＪＡ７２２Ａ及び日本航空株式会社所属エアバス式Ａ３５０－９４１型ＪＡ１３ＸＪの航空事故調査について（経過報告） |trans-title=\"Progress report on the investigation into the aviation accident involving the Japan Coast Guard's Bombardier DHC-8-315 JA722A and Japan Airlines' Airbus A350-941 JA13XJ\" |url=https://jtsb.mlit.go.jp/aircraft/rep-acci/keika20241225-JA722A_JA13XJ.pdf |access-date=2024-12-26 |language=ja}}</ref>",
                   "url": "https://jtsb.mlit.go.jp/aircraft/rep-acci/keika20241225-JA722A_JA13XJ.pdf",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

@@ -14,49 +14,49 @@
                 {
                   "text": "<ref>{{Cite web |title=Russian presidential election set for March 15–17, 2024 |url=https://meduza.io/en/news/2023/12/08/russian-presidential-election-set-for-march-15-17-2024 |access-date=12 December 2023 |website=Meduza |language=en |archive-date=12 December 2023 |archive-url=https://web.archive.org/web/20231212192107/https://meduza.io/en/news/2023/12/08/russian-presidential-election-set-for-march-15-17-2024 |url-status=live }}</ref>",
                   "url": "https://meduza.io/en/news/2023/12/08/russian-presidential-election-set-for-march-15-17-2024",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=7 December 2023 |title=Совет Федерации назначил выборы президента РФ на 17 марта |url=https://www.interfax.ru/russia/935081 |access-date=7 December 2023 |website=Interfax |language=ru |archive-date=7 December 2023 |archive-url=https://web.archive.org/web/20231207124504/https://www.interfax.ru/russia/935081 |url-status=live }}</ref>",
                   "url": "https://www.interfax.ru/russia/935081",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web | url=https://www.themoscowtimes.com/2024/02/29/in-photos-residents-of-remote-areas-start-voting-in-russias-presidential-election-a84275 | title=In Photos: Residents of Remote Areas Start Voting in Russia's Presidential Election | date=29 February 2024 | access-date=4 March 2024 | archive-date=4 March 2024 | archive-url=https://web.archive.org/web/20240304225507/https://www.themoscowtimes.com/2024/02/29/in-photos-residents-of-remote-areas-start-voting-in-russias-presidential-election-a84275 | url-status=live }}</ref>",
                   "url": "https://www.themoscowtimes.com/2024/02/29/in-photos-residents-of-remote-areas-start-voting-in-russias-presidential-election-a84275",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"ajvictory\"/> gaining a fifth term in what was widely viewed as a foregone conclusion.<ref>{{Cite web |last=Headley |first=James |date=18 March 2024 |title=Putin landslide surprises nobody – but what comes next? |url=https://www.msn.com/ |access-date=18 March 2024 |website=MSN |archive-date=31 January 2019 |archive-url=https://web.archive.org/web/20190131090906/https://www.msn.com/ |url-status=live }}</ref>",
-                  "url": "https://www.msn.com/",
-                  "status_code": null,
+                  "url": "https://www.msn.com/ko-kr",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |last=Kastouéva-Jean |first=Tatiana |date=16 March 2024 |title='Russia's presidential election is about Putin convincing himself and others that he has mastered all the workings of the system' |url=https://www.lemonde.fr/en/opinion/article/2024/03/16/russia-s-presidential-election-is-about-putin-convincing-himself-and-others-that-he-has-mastered-all-the-workings-of-the-system_6623892_23.html |access-date=18 March 2024 |work=Le Monde.fr |language=en |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318005048/https://www.lemonde.fr/en/opinion/article/2024/03/16/russia-s-presidential-election-is-about-putin-convincing-himself-and-others-that-he-has-mastered-all-the-workings-of-the-system_6623892_23.html |url-status=live }}</ref>",
                   "url": "https://www.lemonde.fr/en/opinion/article/2024/03/16/russia-s-presidential-election-is-about-putin-convincing-himself-and-others-that-he-has-mastered-all-the-workings-of-the-system_6623892_23.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web|url=http://www.consultant.ru/document/cons_doc_LAW_40445/041abf1209079a3f6e2d0e19bca00375bfed931e/|title=Федеральный закон от 10.01.2003 N 19-ФЗ (ред. от 05.12.2017) \"О выборах Президента Российской Федерации\" Статья 82. Вступление в должность Президента Российской Федерации|access-date=7 September 2018|archive-date=10 December 2022|archive-url=https://web.archive.org/web/20221210180751/http://www.consultant.ru/document/cons_doc_LAW_40445/041abf1209079a3f6e2d0e19bca00375bfed931e/|url-status=live}}</ref>",
-                  "url": "http://www.consultant.ru/document/cons_doc_LAW_40445/041abf1209079a3f6e2d0e19bca00375bfed931e/",
-                  "status_code": null,
+                  "url": "https://www.consultant.ru/document/cons_doc_LAW_40445/041abf1209079a3f6e2d0e19bca00375bfed931e/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"1tv.ru\">{{Citation |title=Документы в ЦИК представили шесть самовыдвиженцев и девять кандидатов от партий. Новости. Первый канал |url=https://www.1tv.ru/news/2023-12-28/467950-dokumenty_v_tsik_predstavili_shest_samovydvizhentsev_i_devyat_kandidatov_ot_partiy |access-date=29 December 2023 |language=ru |archive-date=28 December 2023 |archive-url=https://web.archive.org/web/20231228183642/https://www.1tv.ru/news/2023-12-28/467950-dokumenty_v_tsik_predstavili_shest_samovydvizhentsev_i_devyat_kandidatov_ot_partiy |url-status=live }}</ref>",
                   "url": "https://www.1tv.ru/news/2023-12-28/467950-dokumenty_v_tsik_predstavili_shest_samovydvizhentsev_i_devyat_kandidatov_ot_partiy",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": null
                 }
@@ -68,30 +68,30 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web |title=Экс-депутат Госдумы с антивоенными взглядами планирует стать кандидатом в президенты России |url=https://vk.com/wall-134162128_697395 |access-date=27 November 2023 |website=RTVI|via=VK |archive-date=23 March 2024 |archive-url=https://web.archive.org/web/20240323221752/https://vk.com/wall-134162128_697395 |url-status=live }}</ref>",
-                  "url": "https://vk.com/wall-134162128_697395",
-                  "status_code": null,
+                  "url": "https://m.vk.com/wall-134162128_697395",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=13 January 2023 |title=Выборы не за горами |url=https://www.kommersant.ru/doc/5761328 |access-date=13 January 2023 |website=Kommersant |language=ru |archive-date=5 December 2023 |archive-url=https://web.archive.org/web/20231205023124/https://www.kommersant.ru/doc/5761328 |url-status=live }}</ref>",
                   "url": "https://www.kommersant.ru/doc/5761328",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=23 January 2023 |title=Песков: в Кремле пока не готовятся к выборам президента |url=https://www.kommersant.ru/doc/5783651 |access-date=23 January 2023 |website=Kommersant |language=ru |archive-date=23 January 2023 |archive-url=https://web.archive.org/web/20230123104921/https://www.kommersant.ru/doc/5783651 |url-status=live }}</ref>",
                   "url": "https://www.kommersant.ru/doc/5783651",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |date=8 December 2023 |title=Russia's Putin says he will run for president again in 2024 – TASS |language=en |work=Reuters |url=https://www.reuters.com/world/europe/putin-says-he-will-run-president-2024-tass-2023-12-08/ |access-date=8 December 2023 |archive-date=8 December 2023 |archive-url=https://web.archive.org/web/20231208113853/https://www.reuters.com/world/europe/putin-says-he-will-run-president-2024-tass-2023-12-08/ |url-status=live }}</ref>",
                   "url": "https://www.reuters.com/world/europe/putin-says-he-will-run-president-2024-tass-2023-12-08/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 }
               ]
@@ -103,71 +103,71 @@
                 {
                   "text": "<ref>{{cite news |title=Alexei Navalny, Russia's most vociferous Putin critic |url=https://www.bbc.co.uk/news/world-europe-16057045 |access-date=9 March 2024 |work=BBC News |date=16 February 2024 |archive-date=14 August 2012 |archive-url=https://web.archive.org/web/20120814100405/http://www.bbc.co.uk/news/world-europe-16057045 |url-status=live }}</ref>",
                   "url": "https://www.bbc.co.uk/news/world-europe-16057045",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Who was Alexei Navalny and what did he say of Russia, Putin and death? |url=https://www.reuters.com/world/europe/who-was-alexei-navalny-what-did-he-say-russia-putin-death-2024-02-16/ |access-date=9 March 2024 |work=Reuters |date=17 February 2024}}</ref>",
                   "url": "https://www.reuters.com/world/europe/who-was-alexei-navalny-what-did-he-say-russia-putin-death-2024-02-16/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"New York Times\">{{cite news |last1=MacFarquhar |first1=Neil |last2=Nechepurenko |first2=Ivan |title=Aleksei Navalny, Viable Putin Rival, Is Barred From a Presidential Run |url=https://www.nytimes.com/2017/02/08/world/europe/russia-aleksei-navalny-putin.html |access-date=3 February 2021 |work=New York Times |date=8 February 2017 |archive-date=13 June 2017 |archive-url=https://web.archive.org/web/20170613101849/https://www.nytimes.com/2017/02/08/world/europe/russia-aleksei-navalny-putin.html |url-status=live }}</ref>",
                   "url": "https://www.nytimes.com/2017/02/08/world/europe/russia-aleksei-navalny-putin.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"Gomozova\">{{Cite news |last1=Gomozova |first1=Tatiana |last2=Osborn |first2=Andrew |last3=Osborn |first3=Andrew |date=5 August 2023 |title=Putin critic Alexei Navalny has 19 years added to jail term, West condemns Russia |language=en |work=Reuters |url=https://www.reuters.com/world/europe/putin-foe-navalny-expects-be-jailed-many-more-years-2023-08-04/ |access-date=15 August 2023 |archive-date=25 August 2023 |archive-url=https://web.archive.org/web/20230825004505/https://www.reuters.com/world/europe/putin-foe-navalny-expects-be-jailed-many-more-years-2023-08-04/ |url-status=live }}</ref>",
                   "url": "https://www.reuters.com/world/europe/putin-foe-navalny-expects-be-jailed-many-more-years-2023-08-04/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Bennetts |first1=Marc |title=Russia rejects concerns over banning of Alexei Navalny from elections |url=https://www.theguardian.com/world/2017/dec/26/russia-rejects-concerns-banning-alexei-navalny-elections |access-date=2 February 2021 |work=The Guardian |date=26 December 2017 |archive-date=15 October 2023 |archive-url=https://web.archive.org/web/20231015104656/https://www.theguardian.com/world/2017/dec/26/russia-rejects-concerns-banning-alexei-navalny-elections |url-status=live }}</ref>",
                   "url": "https://www.theguardian.com/world/2017/dec/26/russia-rejects-concerns-banning-alexei-navalny-elections",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web|url=http://theconversation.com/3-things-to-watch-for-in-russias-presidential-election-other-than-putins-win-that-is-225013|title=3 things to watch for in Russia's presidential election – other than Putin's win, that is|first=Adam|last=Lenton|date=12 March 2024|website=The Conversation|access-date=17 March 2024|archive-date=15 March 2024|archive-url=https://web.archive.org/web/20240315174456/https://theconversation.com/3-things-to-watch-for-in-russias-presidential-election-other-than-putins-win-that-is-225013|url-status=live}}</ref>",
-                  "url": "http://theconversation.com/3-things-to-watch-for-in-russias-presidential-election-other-than-putins-win-that-is-225013",
-                  "status_code": null,
+                  "url": "https://theconversation.com/3-things-to-watch-for-in-russias-presidential-election-other-than-putins-win-that-is-225013",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"ABC News\">{{cite news |title=US weighs response to Navalny's reported death |url=https://abcnews.go.com/Politics/us-weighs-response-navalnys-reported-death/story?id=107291854 |access-date=25 February 2024 |work=ABC News |date=16 February 2024 |archive-date=25 February 2024 |archive-url=https://web.archive.org/web/20240225055349/https://abcnews.go.com/Politics/us-weighs-response-navalnys-reported-death/story?id=107291854 |url-status=live }}</ref>",
                   "url": "https://abcnews.go.com/Politics/us-weighs-response-navalnys-reported-death/story?id=107291854",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Tenisheva |first1=Anastasia |title=Russian Election Authority Rejects Pro-Peace Hopeful Nadezhdin's Presidential Bid |url=https://www.themoscowtimes.com/2024/02/08/russian-election-authority-rejects-pro-peace-hopeful-nadezhdins-presidential-bid-a84011 |access-date=11 February 2024 |agency=The Moscow Times |date=8 February 2024 |archive-date=9 February 2024 |archive-url=https://web.archive.org/web/20240209201546/https://www.themoscowtimes.com/2024/02/08/russian-election-authority-rejects-pro-peace-hopeful-nadezhdins-presidential-bid-a84011 |url-status=live }}</ref>",
                   "url": "https://www.themoscowtimes.com/2024/02/08/russian-election-authority-rejects-pro-peace-hopeful-nadezhdins-presidential-bid-a84011",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Presidential candidate Davankov's manifesto calls for 'peace and negotiations' |url=https://novayagazeta.eu/articles/2024/02/15/presidential-candidate-davankovs-manifesto-calls-for-peace-and-negotiations-en-news |access-date=25 February 2024 |work=Novaya Gazeta Europe |date=15 February 2024 |archive-date=18 February 2024 |archive-url=https://web.archive.org/web/20240218233534/https://novayagazeta.eu/articles/2024/02/15/presidential-candidate-davankovs-manifesto-calls-for-peace-and-negotiations-en-news |url-status=live }}</ref>",
                   "url": "https://novayagazeta.eu/articles/2024/02/15/presidential-candidate-davankovs-manifesto-calls-for-peace-and-negotiations-en-news",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=EdwardsStageManage>Christian Edwards, [https://www.cnn.com/2024/03/17/europe/putin-wins-russia-presidential-election-intl/index.html Putin extends one-man rule in Russia after stage-managed election devoid of credible opposition] {{Webarchive|url=https://web.archive.org/web/20240318031819/https://www.cnn.com/2024/03/17/europe/putin-wins-russia-presidential-election-intl/index.html |date=18 March 2024 }}, CNN (18 March 2024).</ref>",
                   "url": "https://web.archive.org/web/20240318031819/https://www.cnn.com/2024/03/17/europe/putin-wins-russia-presidential-election-intl/index.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
                   "type": null
                 },
                 {
@@ -186,29 +186,29 @@
                 {
                   "text": "<ref>{{cite news |title=Alexei Navalny: Widow urges Russians to protest on election day |url=https://www.bbc.co.uk/news/world-europe-68479832 |access-date=15 March 2024 |work=BBC News |date=6 March 2024 |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315124841/https://www.bbc.co.uk/news/world-europe-68479832 |url-status=live }}</ref>",
                   "url": "https://www.bbc.co.uk/news/world-europe-68479832",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Roth |first1=Andrew |last2=Sauer |first2=Pjotr |title=A forever war, more repression, Putin for life? Russia's bleak post-election outlook |url=https://www.theguardian.com/world/2024/mar/15/a-forever-war-more-repression-vladimir-putin-for-life-russias-bleak-post-election-outlook |work=The Guardian |date=15 March 2024 |archive-url=https://web.archive.org/web/20240318054303/https://www.theguardian.com/world/2024/mar/15/a-forever-war-more-repression-vladimir-putin-for-life-russias-bleak-post-election-outloo|archive-date=18 March 2024}}</ref>",
                   "url": "https://www.theguardian.com/world/2024/mar/15/a-forever-war-more-repression-vladimir-putin-for-life-russias-bleak-post-election-outlook",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"tmt-87.28\">{{cite news |title=Putin Wins 87.28% of Votes With All Ballots Counted – Election Officials |url=https://www.themoscowtimes.com/2024/03/18/putin-wins-8728-of-votes-with-all-ballots-counted-election-officials-a84515 |work=The Moscow Times |date=18 March 2024 |language=en |access-date=19 March 2024 |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319032009/https://www.themoscowtimes.com/2024/03/18/putin-wins-8728-of-votes-with-all-ballots-counted-election-officials-a84515 |url-status=live }}</ref>",
                   "url": "https://www.themoscowtimes.com/2024/03/18/putin-wins-8728-of-votes-with-all-ballots-counted-election-officials-a84515",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"tmt-87.28\"/><ref name=EdwardsStageManage/><ref>Robyn Dixon, Siobhán O'Grady, David L. Stern, Serhii Korolchuk and Serhiy Morgunov, [https://www.washingtonpost.com/world/2024/03/16/putin-election-voting-gunpoint-occupied-ukraine/ For Putin's election in occupied Ukraine, voting is forced at gunpoint] {{Webarchive|url=https://web.archive.org/web/20240317041955/https://www.washingtonpost.com/world/2024/03/16/putin-election-voting-gunpoint-occupied-ukraine/ |date=17 March 2024 }}, ''Washington Post;'' (16 March 2024).</ref>",
                   "url": "https://web.archive.org/web/20240317041955/https://www.washingtonpost.com/world/2024/03/16/putin-election-voting-gunpoint-occupied-ukraine/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
                   "type": null
                 }
               ]
@@ -230,14 +230,14 @@
                 {
                   "text": "<ref>{{cite web |url=http://www.constitution.ru/en/10003000-05.htm |title=Constitution of Russia. Chapter 4. The President of the Russian Federation. Article 81 |website=Constitution |access-date=22 March 2018 |archive-date=16 April 2016 |archive-url=https://web.archive.org/web/20160416081229/http://www.constitution.ru/en/10003000-05.htm |url-status=live }}</ref>",
                   "url": "http://www.constitution.ru/en/10003000-05.htm",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news|url=https://www.theguardian.com/world/2021/apr/05/vladimir-putin-passes-law-that-may-keep-him-in-office-until-2036|title=Vladimir Putin passes law that may keep him in office until 2036|work=The Guardian|date=5 April 2021|access-date=20 March 2024|archive-date=17 February 2024|archive-url=https://web.archive.org/web/20240217203137/https://amp.theguardian.com/world/2021/apr/05/vladimir-putin-passes-law-that-may-keep-him-in-office-until-2036|url-status=live}}</ref>",
                   "url": "https://www.theguardian.com/world/2021/apr/05/vladimir-putin-passes-law-that-may-keep-him-in-office-until-2036",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -249,8 +249,8 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web|title=Статья 81 Конституция Российской Федерации (принята на всенародном голосовании 12 декабря 1993 г.) (с поправками)|url=http://base.garant.ru/10103000/646cd7e8cf19279b078cdec8fcd89ce4/|access-date=6 February 2021|website=Garant|archive-date=6 October 2022|archive-url=https://web.archive.org/web/20221006080241/https://base.garant.ru/10103000/646cd7e8cf19279b078cdec8fcd89ce4/|url-status=live}}</ref>",
-                  "url": "http://base.garant.ru/10103000/646cd7e8cf19279b078cdec8fcd89ce4/",
-                  "status_code": null,
+                  "url": "https://base.garant.ru/10103000/646cd7e8cf19279b078cdec8fcd89ce4/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -273,7 +273,7 @@
                 {
                   "text": "<ref>{{Cite web |date=9 February 2024 |title=Знать четырех |url=https://www.kommersant.ru/doc/6495818 |access-date=10 February 2024 |website=Kommersant |language=ru |archive-date=10 February 2024 |archive-url=https://web.archive.org/web/20240210051520/https://www.kommersant.ru/doc/6495818 |url-status=live }}</ref>",
                   "url": "https://www.kommersant.ru/doc/6495818",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -286,42 +286,42 @@
                 {
                   "text": "<ref>{{Cite web |title=Что известно о Владиславе Даванкове |trans-title=What is known about Vladislav Davankov |url=https://tass.ru/info/19619651 |access-date=24 December 2023 |website=Tass |archive-date=24 December 2023 |archive-url=https://web.archive.org/web/20231224133506/https://tass.ru/info/19619651 |url-status=live }}</ref>",
                   "url": "https://tass.ru/info/19619651",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Колесник |first=Вероника |date=25 December 2023 |title=Даванков подал документы в ЦИК для участия в выборах президента от \"Новых людей\" |url=https://iz.ru/1625993/2023-12-25/davankov-podal-dokumenty-v-tcik-dlia-uchastiia-v-vyborakh-prezidenta-ot-novykh-liudei |access-date=25 December 2023 |website=Izvestia |language=ru |archive-date=25 December 2023 |archive-url=https://web.archive.org/web/20231225114216/https://iz.ru/1625993/2023-12-25/davankov-podal-dokumenty-v-tcik-dlia-uchastiia-v-vyborakh-prezidenta-ot-novykh-liudei |url-status=live }}</ref>",
                   "url": "https://iz.ru/1625993/2023-12-25/davankov-podal-dokumenty-v-tcik-dlia-uchastiia-v-vyborakh-prezidenta-ot-novykh-liudei",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=20 December 2023 |title=ЦИК зарегистрировал группу избирателей в поддержку Путина |url=https://ria.ru/20231220/registratsiya-1916890228.html |access-date=22 December 2023 |website=RIA Novosti |language=ru |archive-date=22 December 2023 |archive-url=https://web.archive.org/web/20231222063831/https://ria.ru/20231220/registratsiya-1916890228.html |url-status=live }}</ref>",
                   "url": "https://ria.ru/20231220/registratsiya-1916890228.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=18 December 2023 |title=Путин подал документы для участия в выборах президента |url=https://www.kommersant.ru/doc/6410950 |access-date=18 December 2023 |website=Kommersant |language=ru |archive-date=18 December 2023 |archive-url=https://web.archive.org/web/20231218143530/https://www.kommersant.ru/doc/6410950 |url-status=live }}</ref>",
                   "url": "https://www.kommersant.ru/doc/6410950",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=29 January 2024 |title=ЦИК зарегистрировал Путина кандидатом на выборы президента России |url=https://www.kommersant.ru/doc/6478509 |access-date=29 January 2024 |website=Kommersant |language=ru |archive-date=29 January 2024 |archive-url=https://web.archive.org/web/20240129083900/https://www.kommersant.ru/doc/6478509 |url-status=live }}</ref>",
                   "url": "https://www.kommersant.ru/doc/6478509",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"Ведомости\" /><ref>{{Cite web |title=Слуцкий подал документы в ЦИК для участия в выборах президента |url=https://tass.ru/politika/19622563 |access-date=25 December 2023 |website=Tass |archive-date=25 December 2023 |archive-url=https://web.archive.org/web/20231225090411/https://tass.ru/politika/19622563 |url-status=live }}</ref>",
                   "url": "https://tass.ru/politika/19622563",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -342,7 +342,7 @@
                     {
                       "text": "<ref name=\"Ведомости\">{{Cite news |title=ЛДПР выдвинула Слуцкого кандидатом в президенты России |language=ru |work=Ведомости |url=https://www.vedomosti.ru/politics/news/2023/12/19/1011800-ldpr-vidvinula-slutskogo-kandidatom-v-prezidenti-rossii |access-date=19 December 2023 |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219111954/https://www.vedomosti.ru/politics/news/2023/12/19/1011800-ldpr-vidvinula-slutskogo-kandidatom-v-prezidenti-rossii |url-status=live }}</ref>",
                       "url": "https://www.vedomosti.ru/politics/news/2023/12/19/1011800-ldpr-vidvinula-slutskogo-kandidatom-v-prezidenti-rossii",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -355,7 +355,7 @@
                     {
                       "text": "<ref>{{Citation |title=Документы в ЦИК представили шесть самовыдвиженцев и девять кандидатов от партий |url=https://www.1tv.ru/news/2023-12-28/467950-dokumenty_v_tsik_predstavili_shest_samovydvizhentsev_i_devyat_kandidatov_ot_partiy |access-date=29 December 2023 |language=ru |trans-title=Six self-nominated candidates and nine party candidates submitted documents to the CEC |website=Channel One Russia |archive-date=28 December 2023 |archive-url=https://web.archive.org/web/20231228183642/https://www.1tv.ru/news/2023-12-28/467950-dokumenty_v_tsik_predstavili_shest_samovydvizhentsev_i_devyat_kandidatov_ot_partiy |url-status=live }}</ref>",
                       "url": "https://www.1tv.ru/news/2023-12-28/467950-dokumenty_v_tsik_predstavili_shest_samovydvizhentsev_i_devyat_kandidatov_ot_partiy",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": null
                     }
@@ -368,7 +368,7 @@
                     {
                       "text": "<ref>{{Cite web |title=Правила регистрации кандидатов-самовыдвиженцев на выборах президента РФ |url=https://tass.ru/info/19557601 |access-date=18 December 2023 |website=Tass |archive-date=18 December 2023 |archive-url=https://web.archive.org/web/20231218145235/https://tass.ru/info/19557601 |url-status=live }}</ref>",
                       "url": "https://tass.ru/info/19557601",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -381,14 +381,14 @@
                     {
                       "text": "<ref name=\"tass.ru\">{{Cite news |title=В РФ собрали более 500 тыс. подписей в поддержку самовыдвижения Путина на выборах |url=https://tass.ru/politika/19655717 |access-date=1 January 2024 |website=Tass |archive-date=31 December 2023 |archive-url=https://web.archive.org/web/20231231012302/https://tass.ru/politika/19655717 |url-status=live }}</ref>",
                       "url": "https://tass.ru/politika/19655717",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=17 January 2024 |title=Штаб Путина собрал более 2,5 млн подписей в поддержку его выдвижения |url=https://www.kommersant.ru/doc/6454897 |access-date=17 January 2024 |website=Kommersant |language=ru |archive-date=17 January 2024 |archive-url=https://web.archive.org/web/20240117075724/https://www.kommersant.ru/doc/6454897 |url-status=live }}</ref>",
                       "url": "https://www.kommersant.ru/doc/6454897",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -401,42 +401,42 @@
                     {
                       "text": "<ref>{{Cite news |title=Три кандидата собрали подписи для участия в президентских выборах |url=https://www.vedomosti.ru/politics/articles/2024/01/24/1016439-tri-kandidata-sobrali-podpisi-dlya-uchastiya-v-prezidentskih-viborah |access-date=27 January 2024 |work=Ведомости |language=ru |archive-date=25 January 2024 |archive-url=https://web.archive.org/web/20240125012854/https://www.vedomosti.ru/politics/articles/2024/01/24/1016439-tri-kandidata-sobrali-podpisi-dlya-uchastiya-v-prezidentskih-viborah |url-status=live }}</ref>",
                       "url": "https://www.vedomosti.ru/politics/articles/2024/01/24/1016439-tri-kandidata-sobrali-podpisi-dlya-uchastiya-v-prezidentskih-viborah",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=sign/>\n|-\n| style=\"background:lavender;\"|'''Boris Nadezhdin'''<br />(60)<br />Civic Initiative\n|\n| style=\"background-color:{{party color|Civic Initiative}};\" |\n|'''Member of the Dolgoprudny City Council'''<br /><small>(1990–1997, 2019–present)</small><br />'''Founder and President of the Institute of Regional Projects and Legislation Foundation'''<br /><small>(2001–present)</small><br />'''Member of the State Duma'''<br /><small>(1999–2003)</small>\n| Moscow Oblast\n|<br />(Boris Nadezhdin 2024 presidential campaign|Campaign • [https://nadezhdin2024.ru/#main Website])\n|On 31 October 2023, Nadezhdin announced that he would run from the Civic Initiative party.<ref>{{Cite web |date=31 October 2023 |title=В РФ появился первый кандидат на пост президента |url=https://ura.news/news/1052699428 |access-date=31 October 2023 |website=URA |language=ru |archive-date=1 November 2023 |archive-url=https://web.archive.org/web/20231101031427/https://ura.news/news/1052699428 |url-status=live }}</ref>",
                       "url": "https://ura.news/news/1052699428",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=26 December 2023 |title=Надеждин подал документы в ЦИК для участия в выборах президента |url=https://ria.ru/20231226/nadezhdin-1918115969.html |access-date=26 December 2023 |website=RIA Novosti |language=ru |archive-date=26 December 2023 |archive-url=https://web.archive.org/web/20231226083427/https://ria.ru/20231226/nadezhdin-1918115969.html |url-status=live }}</ref>",
                       "url": "https://ria.ru/20231226/nadezhdin-1918115969.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=8 February 2024 |title=ЦИК нашел в подписях за Надеждина более 5% допустимого брака |trans-title=The CEC found more than 5% of acceptable invalid signatures in the signatures in favour of Nadezhdin |url=https://www.kommersant.ru/doc/6495445 |access-date=8 February 2024 |website=Kommersant |language=ru |archive-date=8 February 2024 |archive-url=https://web.archive.org/web/20240208090355/https://www.kommersant.ru/doc/6495445 |url-status=live }}</ref>",
                       "url": "https://www.kommersant.ru/doc/6495445",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Official site |url=https://nadezhdin2024.ru/?ysclid=lrdcj9xjz2548477284 |access-date=31 January 2024 |archive-date=31 January 2024 |archive-url= https://web.archive.org/web/20240131223703/https://nadezhdin2024.ru/}}</ref>",
                       "url": "https://nadezhdin2024.ru/?ysclid=lrdcj9xjz2548477284",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=sign>{{Cite web |date=8 February 2024 |title=ЦИК не зарегистрировал Бориса Надеждина кандидатом в президенты |url=https://www.kommersant.ru/doc/6495443 |access-date=8 February 2024 |website=Kommersant |language=ru |archive-date=8 February 2024 |archive-url=https://web.archive.org/web/20240208092232/https://www.kommersant.ru/doc/6495443 |url-status=live }}</ref>",
                       "url": "https://www.kommersant.ru/doc/6495443",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -468,7 +468,7 @@
                 {
                   "text": "<ref>{{Cite web |date=17 December 2023 |title=Съезд \"ЕР\" единогласно поддержал кандидатуру Путина на выборах президента |url=https://www.mk.ru/politics/2023/12/17/sezd-er-edinoglasno-podderzhal-kandidaturu-putina-na-vyborakh-prezidenta.html |access-date=17 December 2023 |website=www.mk.ru |language=ru |archive-date=17 December 2023 |archive-url=https://web.archive.org/web/20231217132303/https://www.mk.ru/politics/2023/12/17/sezd-er-edinoglasno-podderzhal-kandidaturu-putina-na-vyborakh-prezidenta.html |url-status=live }}</ref>",
                   "url": "https://www.mk.ru/politics/2023/12/17/sezd-er-edinoglasno-podderzhal-kandidaturu-putina-na-vyborakh-prezidenta.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -482,71 +482,71 @@
                 {
                   "text": "<ref>{{Cite web |date=23 December 2023 |title=КПРФ определилась с кандидатом: главные итоги съезда коммунистов |url=https://fedpress.ru/article/3288946 |access-date=23 December 2023 |website=FederalPress |language=ru-RU |archive-date=23 December 2023 |archive-url=https://web.archive.org/web/20231223121801/https://fedpress.ru/article/3288946 |url-status=live }}</ref>",
                   "url": "https://fedpress.ru/article/3288946",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Нажбудинова |first=Амалия |date=23 December 2023 |title=Миронов поддержал Путина в качестве кандидата на выборах президента России |url=https://iz.ru/1625275/2023-12-23/mironov-podderzhal-putina-v-kachestve-kandidata-na-vyborakh-prezidenta-rossii |access-date=23 December 2023 |website=Izvestia |language=ru |archive-date=23 December 2023 |archive-url=https://web.archive.org/web/20231223104112/https://iz.ru/1625275/2023-12-23/mironov-podderzhal-putina-v-kachestve-kandidata-na-vyborakh-prezidenta-rossii |url-status=live }}</ref>",
                   "url": "https://iz.ru/1625275/2023-12-23/mironov-podderzhal-putina-v-kachestve-kandidata-na-vyborakh-prezidenta-rossii",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web | url=https://360tv.ru/news/vybory/lider-partii-sotsialnoj-zaschity-mihajlov-podal-dokumenty-v-tsik/ | title=Лидер партии Социальной защиты Михайлов подал документы в ЦИК | date=24 December 2023 | access-date=24 December 2023 | archive-date=5 February 2024 | archive-url=https://web.archive.org/web/20240205161628/https://360tv.ru/news/vybory/lider-partii-sotsialnoj-zaschity-mihajlov-podal-dokumenty-v-tsik/ | url-status=live }}</ref>",
-                  "url": "https://360tv.ru/news/vybory/lider-partii-sotsialnoj-zaschity-mihajlov-podal-dokumenty-v-tsik/",
-                  "status_code": null,
+                  "url": "https://360.ru/news/vybory/lider-partii-sotsialnoj-zaschity-mihajlov-podal-dokumenty-v-tsik/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=23 December 2023 |title=Партия РОС определилась с кандидатом на выборах президента РФ – Газета.Ru {{!}} Новости |url=https://www.gazeta.ru/politics/news/2023/12/23/21991621.shtml |access-date=23 December 2023 |website=Gazeta |language=ru |archive-date=23 December 2023 |archive-url=https://web.archive.org/web/20231223140337/https://www.gazeta.ru/politics/news/2023/12/23/21991621.shtml |url-status=live }}</ref>",
                   "url": "https://www.gazeta.ru/politics/news/2023/12/23/21991621.shtml",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=30 January 2024 |title=Бабурин снялся с выборов президента |url=https://www.kommersant.ru/doc/6479389 |access-date=30 January 2024 |website=Kommersant |language=ru |archive-date=30 January 2024 |archive-url=https://web.archive.org/web/20240130113358/https://www.kommersant.ru/doc/6479389 |url-status=live }}</ref>",
                   "url": "https://www.kommersant.ru/doc/6479389",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |title=Партия роста присоединится к \"Новым людям\" |language=ru |work=Ведомости |url=https://www.vedomosti.ru/politics/articles/2023/12/24/1012665-partiya-rosta-prisoedinitsya-k-novim-lyudyam |access-date=24 December 2023 |archive-date=24 December 2023 |archive-url=https://web.archive.org/web/20231224110429/https://www.vedomosti.ru/politics/articles/2023/12/24/1012665-partiya-rosta-prisoedinitsya-k-novim-lyudyam |url-status=live }}</ref>",
                   "url": "https://www.vedomosti.ru/politics/articles/2023/12/24/1012665-partiya-rosta-prisoedinitsya-k-novim-lyudyam",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web|author=|url=https://ria.ru/20231129/sezd-1912550850.html|title=\"Новые люди\" проведут предвыборный съезд 24 декабря|date=29 November 2023|website=RIA Novosti|access-date=2 December 2023|archive-date=1 December 2023|archive-url=https://web.archive.org/web/20231201233154/https://ria.ru/20231129/sezd-1912550850.html|url-status=live}}</ref>",
                   "url": "https://ria.ru/20231129/sezd-1912550850.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"Анасьева\">{{Cite web |last=Анасьева |first=Ольга |date=24 December 2023 |title=Политика Богданова выдвинули кандидатом на выборах президента от РПСС |url=https://iz.ru/1625638/2023-12-24/politika-bogdanova-vydvinuli-kandidatom-na-vyborakh-prezidenta-ot-rpss |access-date=25 December 2023 |website=Izvestia |language=ru |archive-date=25 December 2023 |archive-url=https://web.archive.org/web/20231225014333/https://iz.ru/1625638/2023-12-24/politika-bogdanova-vydvinuli-kandidatom-na-vyborakh-prezidenta-ot-rpss |url-status=live }}</ref>",
                   "url": "https://iz.ru/1625638/2023-12-24/politika-bogdanova-vydvinuli-kandidatom-na-vyborakh-prezidenta-ot-rpss",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |author=Елизавета КУЗНЕЦОВА |script-title=ru:Еще один кандидат подал в ЦИК документы для участия в выборах президента России |url=https://www.kp.ru/online/news/5609814/ |access-date=28 December 2023 |script-newspaper=ru:Комсомольская Правда |language=ru |archive-date=28 December 2023 |archive-url=https://web.archive.org/web/20231228103006/http://www.kp.ru/online/news/5609814/ |url-status=live }}</ref>",
                   "url": "https://www.kp.ru/online/news/5609814/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Нажбудинова |first=Амалия |date=28 December 2023 |title=\"Коммунисты России\" выдвинули Малинковича в кандидаты на выборах президента |url=https://iz.ru/1627664/2023-12-28/kommunisty-rossii-vydvinuli-malinkovicha-v-kandidaty-na-vyborakh-prezidenta |access-date=29 December 2023 |website=Izvestia |language=ru |archive-date=28 December 2023 |archive-url=https://web.archive.org/web/20231228204336/https://iz.ru/1627664/2023-12-28/kommunisty-rossii-vydvinuli-malinkovicha-v-kandidaty-na-vyborakh-prezidenta |url-status=live }}</ref>",
                   "url": "https://iz.ru/1627664/2023-12-28/kommunisty-rossii-vydvinuli-malinkovicha-v-kandidaty-na-vyborakh-prezidenta",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -566,28 +566,28 @@
                     {
                       "text": "<ref>{{Cite web |title=Об участии в президентских выборах 2024 года |url=https://www.yabloko.ru/reshenija_politicheskogo_komiteta/2023/12/07-0 |access-date=21 December 2023 |website=Yabloko |language=ru |archive-date=23 December 2023 |archive-url=https://web.archive.org/web/20231223043839/https://www.yabloko.ru/reshenija_politicheskogo_komiteta/2023/12/07-0 |url-status=live }}</ref>",
                       "url": "https://www.yabloko.ru/reshenija_politicheskogo_komiteta/2023/12/07-0",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=10 December 2023 |title=Кто может стать миллионером |trans-title=Who can become a millionaire |url=https://www.kommersant.ru/doc/6394455 |access-date=21 December 2023 |website=Kommersant |language=ru |archive-date=20 December 2023 |archive-url=https://web.archive.org/web/20231220153129/https://www.kommersant.ru/doc/6394455 |url-status=live }}</ref>",
                       "url": "https://www.kommersant.ru/doc/6394455",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"vedomosti.ru\">{{Cite news |title=\"Яблоко\" передумало выдвигать кандидата на выборы президента |language=ru |work=Ведомости |url=https://www.vedomosti.ru/politics/news/2023/12/23/1012623-yavlinskii |access-date=23 December 2023 |archive-date=23 December 2023 |archive-url=https://web.archive.org/web/20231223113707/https://www.vedomosti.ru/politics/news/2023/12/23/1012623-yavlinskii |url-status=live }}</ref>",
                       "url": "https://www.vedomosti.ru/politics/news/2023/12/23/1012623-yavlinskii",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=23 December 2023 |title=Явлинский отказался от выдвижения в президенты |url=https://www.rbc.ru/politics/23/12/2023/6586c7e49a7947a4eed6d3c6 |access-date=23 December 2023 |website=RBC |language=ru |archive-date=23 December 2023 |archive-url=https://web.archive.org/web/20231223115727/https://www.rbc.ru/politics/23/12/2023/6586c7e49a7947a4eed6d3c6 |url-status=live }}</ref>",
                       "url": "https://www.rbc.ru/politics/23/12/2023/6586c7e49a7947a4eed6d3c6",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -600,7 +600,7 @@
                     {
                       "text": "<ref>{{Cite web |date=13 December 2023 |title=Организаторам президентских праймериз лево-патриотических сил грозят уголовным делом |url=https://www.leftfront.org/?p=57555 |access-date=23 December 2023 |website=Left Front |language=ru-RU |archive-date=23 December 2023 |archive-url=https://web.archive.org/web/20231223055822/https://www.leftfront.org/?p=57555 |url-status=live }}</ref>",
                       "url": "https://www.leftfront.org/?p=57555",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -623,16 +623,16 @@
               "text": "{{Seealso|Propaganda in Russia|Media freedom in Russia}}\nIn June 2023, a few posters advocating for Yevgeny Prigozhin, leader of the Wagner Group private military company, were noticed in Krasnodar, with a QR code to a website hinting at the 2024 election. but fuelled speculation that he was about to go into politics after holding press conferences across Russia<ref name=\"times\"/> and leading the Wagner Group rebellion. He 2023 Wagner Group plane crash|died in a plane crash later that year.",
               "references": [
                 {
-                  "text": "<ref name=\"times\">{{cite web|url=https://www.thetimes.co.uk/article/wagner-chief-yevgeny-prigozhin-appeals-to-russians-with-election-poster-nbn0bxpwf|title=Wagner chief Yevgeny Prigozhin appeals to Russians with 'election poster'|author=Marc Bennetts|work=The Times|date=12 June 2023|accessdate=19 March 2024|archive-date=12 June 2023|archive-url=https://web.archive.org/web/20230612093836/https://www.thetimes.co.uk/article/wagner-chief-yevgeny-prigozhin-appeals-to-russians-with-election-poster-nbn0bxpwf|url-status=live}}</ref>",
-                  "url": "https://www.thetimes.co.uk/article/wagner-chief-yevgeny-prigozhin-appeals-to-russians-with-election-poster-nbn0bxpwf",
-                  "status_code": null,
+                  "text": "<ref name=\"times\">{{cite web|url=https://www.thetimes.com/world/russia-ukraine-war/article/wagner-chief-yevgeny-prigozhin-appeals-to-russians-with-election-poster-nbn0bxpwf|title=Wagner chief Yevgeny Prigozhin appeals to Russians with 'election poster'|author=Marc Bennetts|work=The Times|date=12 June 2023|access-date=19 March 2024|archive-date=12 June 2023|archive-url=https://web.archive.org/web/20230612093836/https://www.thetimes.co.uk/article/wagner-chief-yevgeny-prigozhin-appeals-to-russians-with-election-poster-nbn0bxpwf|url-status=live}}</ref>",
+                  "url": "https://www.thetimes.com/world/russia-ukraine-war/article/wagner-chief-yevgeny-prigozhin-appeals-to-russians-with-election-poster-nbn0bxpwf",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"yuga\"/> Prigozhin himself denied any relation to such posters and \"any political activity in the internet\",<ref name=\"yuga\">{{cite web|url=https://www.yuga.ru/news/468589/|title=«Я к этому отношения не имею». Пригожин прокомментировал Юга.ру листовки со своим фото, появившиеся в Краснодаре|website=Yuga|language=Russian|date=16 June 2023|accessdate=19 March 2024|archive-date=19 March 2024|archive-url=https://web.archive.org/web/20240319212511/https://www.yuga.ru/news/468589/|url-status=live}}</ref>",
                   "url": "https://www.yuga.ru/news/468589/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -652,7 +652,7 @@
                 {
                   "text": "<ref name=\"meduza-election\">{{Cite web|url=https://meduza.io/en/feature/2024/03/04/people-don-t-want-to-vote|title='People don't want to vote' How the Kremlin plans to compensate for Russians' record-low interest in the country's upcoming election|website=Meduza|date=4 March 2024|access-date=15 March 2024|archive-date=15 March 2024|archive-url=https://web.archive.org/web/20240315174244/https://meduza.io/en/feature/2024/03/04/people-don-t-want-to-vote|url-status=live}}</ref>",
                   "url": "https://meduza.io/en/feature/2024/03/04/people-don-t-want-to-vote",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -665,14 +665,14 @@
                 {
                   "text": "<ref name=\"VSquare_KremlinLeaks\"/><ref>{{Cite news|url=https://www.theguardian.com/world/2024/mar/08/patriotic-films-youth-festivals-the-1bn-push-to-get-vote-out-for-putinr-russia-election|title=From patriotic films to youth festivals: the £1bn push to get vote out for Putin|first=Andrew|last=Roth|date=8 March 2024|newspaper=The Guardian|access-date=15 March 2024|archive-date=16 March 2024|archive-url=https://web.archive.org/web/20240316000738/https://www.theguardian.com/world/2024/mar/08/patriotic-films-youth-festivals-the-1bn-push-to-get-vote-out-for-putinr-russia-election|url-status=live}}</ref>",
                   "url": "https://www.theguardian.com/world/2024/mar/08/patriotic-films-youth-festivals-the-1bn-push-to-get-vote-out-for-putinr-russia-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://meduza.io/en/feature/2024/02/29/a-political-education|title=A political education Putin's order to appoint political commissars responsible for 'strengthening patriotism' in Russian government bodies|website=Meduza|access-date=15 March 2024|archive-date=15 March 2024|archive-url=https://web.archive.org/web/20240315165054/https://meduza.io/en/feature/2024/02/29/a-political-education|url-status=live}}</ref>",
                   "url": "https://meduza.io/en/feature/2024/02/29/a-political-education",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -685,22 +685,22 @@
                 {
                   "text": "<ref>{{Cite web |date=14 March 2024 |title=Russia election: Stage-managed vote will give Putin another term |url=https://www.bbc.com/news/world-europe-68543919 |access-date=14 March 2024 |website=BBC News |language=en |archive-date=14 March 2024 |archive-url=https://web.archive.org/web/20240314034849/https://www.bbc.com/news/world-europe-68543919 |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/world-europe-68543919",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=15 March 2024 |title=Russia's presidential election: Three Putin challengers but little suspense |url=https://www.france24.com/en/europe/20240315-russia-presidential-election-three-candidates-putin-slutsky-kharitonov-davankov-little-suspense |access-date=15 March 2024 |website=France 24 |language=en |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315162005/https://www.france24.com/en/europe/20240315-russia-presidential-election-three-candidates-putin-slutsky-kharitonov-davankov-little-suspense |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/europe/20240315-russia-presidential-election-three-candidates-putin-slutsky-kharitonov-davankov-little-suspense",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |title=Russia elections: Everything you need to know about sham presidential polls that will hand Putin fifth term |url=https://www.independent.co.uk/news/world/europe/russian-elections-2024-voting-candidates-putin-b2513938.html |work=The Independent |date=17 March 2024 |access-date=17 March 2024 |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317142632/https://www.independent.co.uk/news/world/europe/russian-elections-2024-voting-candidates-putin-b2513938.html |url-status=live }}</ref>",
                   "url": "https://www.independent.co.uk/news/world/europe/russian-elections-2024-voting-candidates-putin-b2513938.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 405,
+                  "reason": "Not allowed.",
                   "type": "news"
                 }
               ]
@@ -726,7 +726,7 @@
                     {
                       "text": "<ref>{{Cite web |date=26 February 2024 |title=Russia Kicks Off Early Voting in Occupied Ukrainian Regions |url=https://www.themoscowtimes.com/2024/02/26/russia-kicks-off-early-voting-in-occupied-ukrainian-regions-a84247 |access-date=27 February 2024 |website=The Moscow Times |language=en |archive-date=26 February 2024 |archive-url=https://web.archive.org/web/20240226180441/https://www.themoscowtimes.com/2024/02/26/russia-kicks-off-early-voting-in-occupied-ukrainian-regions-a84247 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/02/26/russia-kicks-off-early-voting-in-occupied-ukrainian-regions-a84247",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -734,13 +734,13 @@
                       "text": "<ref>{{Cite web|url=http://dev-isw.bivings.com/|title=Institute for the Study of War|website=Institute for the Study of War|access-date=17 March 2024|archive-date=25 March 2022|archive-url=https://web.archive.org/web/20220325065358/https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-march-24|url-status=dead}}</ref>",
                       "url": "http://dev-isw.bivings.com/",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Cannot connect to host dev-isw.bivings.com:80 ssl:default [Domain name not found]",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"bbcukraine\">{{Cite web |date=12 March 2024 |title=Occupied Ukraine encouraged to vote in Russian election by armed men |url=https://www.bbc.com/news/world-europe-68535301 |access-date=13 March 2024 |website=BBC News |language=en |archive-date=14 March 2024 |archive-url=https://web.archive.org/web/20240314052705/https://www.bbc.com/news/world-europe-68535301 |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/world-europe-68535301",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -753,35 +753,35 @@
                     {
                       "text": "<ref>{{Cite web|url=https://nos.nl/artikel/2512968-inwoners-van-bezet-oekraine-werken-onder-dwang-mee-aan-herverkiezing-poetin|title=Inwoners van bezet Oekraïne werken onder dwang mee aan herverkiezing Poetin|date=16 March 2024|website=NOS|access-date=16 March 2024|archive-date=16 March 2024|archive-url=https://web.archive.org/web/20240316113818/https://nos.nl/artikel/2512968-inwoners-van-bezet-oekraine-werken-onder-dwang-mee-aan-herverkiezing-poetin|url-status=live}}</ref>",
                       "url": "https://nos.nl/artikel/2512968-inwoners-van-bezet-oekraine-werken-onder-dwang-mee-aan-herverkiezing-poetin",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"coercion\">{{Cite web |date=14 March 2024 |title=Ukrainians living under Russian occupation are coerced to vote for Putin |url=https://apnews.com/article/russia-ukraine-occupied-election-voting-arrests-eb0b0d872cf55e561dc221bbc53d63d4 |access-date=14 March 2024 |website=Associated Press |language=en |archive-date=14 March 2024 |archive-url=https://web.archive.org/web/20240314171133/https://apnews.com/article/russia-ukraine-occupied-election-voting-arrests-eb0b0d872cf55e561dc221bbc53d63d4 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/russia-ukraine-occupied-election-voting-arrests-eb0b0d872cf55e561dc221bbc53d63d4",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=17 March 2024 |title=At gunpoint, Ukrainians in occupied regions vote in Russia's election |url=https://www.aljazeera.com/news/2024/3/16/at-gunpoint-ukrainians-in-occupied-regions-back-putin-in-russias-election |access-date=17 March 2024 |website=Al Jazeera |language=en |archive-date=16 March 2024 |archive-url=https://web.archive.org/web/20240316232927/https://www.aljazeera.com/news/2024/3/16/at-gunpoint-ukrainians-in-occupied-regions-back-putin-in-russias-election |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/3/16/at-gunpoint-ukrainians-in-occupied-regions-back-putin-in-russias-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://ria-m.tv/news/345479/finita_lya_komediya_v_melitopole_zakonchilis_feykovyie_vyiboryi_chto_dalshe_(foto_video).html |title=Финита ля комедия – в Мелитополе закончились фейковые выборы. Что дальше? (фото, видео) |date=17 March 2024 |access-date=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318134840/https://ria-m.tv/news/345479/finita_lya_komediya_v_melitopole_zakonchilis_feykovyie_vyiboryi_chto_dalshe_(foto_video).html |url-status=live }}</ref>",
                       "url": "https://ria-m.tv/news/345479/finita_lya_komediya_v_melitopole_zakonchilis_feykovyie_vyiboryi_chto_dalshe_(foto_video).html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=20 March 2024 |title='Record falsification': Kremlin critics decry vote won by Russia's Putin |url=https://www.aljazeera.com/news/2024/3/20/record-falsification-kremlin-critics-decry-vote-won-by-russias-putin |access-date=20 March 2024 |website=Al Jazeera |language=en |archive-date=20 March 2024 |archive-url=https://web.archive.org/web/20240320120755/https://www.aljazeera.com/news/2024/3/20/record-falsification-kremlin-critics-decry-vote-won-by-russias-putin |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/3/20/record-falsification-kremlin-critics-decry-vote-won-by-russias-putin",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -804,7 +804,7 @@
                     {
                       "text": "<ref name=\"meduza-election\"/><ref>{{cite news |title=Kremlin insiders weigh in on the record-breaking voting results reported for Vladimir Putin |url=https://meduza.io/en/feature/2024/03/18/he-perceives-this-as-real-support |work=Meduza |date=18 March 2024}}</ref>",
                       "url": "https://meduza.io/en/feature/2024/03/18/he-perceives-this-as-real-support",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -817,14 +817,14 @@
                     {
                       "text": "<ref>{{Cite web|url=https://www.politico.eu/article/russian-election-alexei-navalnys-final-plan-to-cause-vladimir-putin-maximum-damage/|title=Russian election: Alexei Navalny's final plan to cause Vladimir Putin 'maximum damage'|date=14 March 2024|website=Politico|access-date=15 March 2024|archive-date=16 March 2024|archive-url=https://web.archive.org/web/20240316044511/https://www.politico.eu/article/russian-election-alexei-navalnys-final-plan-to-cause-vladimir-putin-maximum-damage/|url-status=live}}</ref>",
                       "url": "https://www.politico.eu/article/russian-election-alexei-navalnys-final-plan-to-cause-vladimir-putin-maximum-damage/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=14 March 2024 |title=Bread Rolls and Dyson Hair Stylers: Russia Lures Voters With Election Day Freebies |url=https://www.themoscowtimes.com/2024/03/14/bread-rolls-and-dyson-hair-stylers-russia-lures-voters-with-election-day-freebies-a84458 |access-date=15 March 2024 |website=The Moscow Times |language=en |archive-date=14 March 2024 |archive-url=https://web.archive.org/web/20240314212803/https://www.themoscowtimes.com/2024/03/14/bread-rolls-and-dyson-hair-stylers-russia-lures-voters-with-election-day-freebies-a84458 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/14/bread-rolls-and-dyson-hair-stylers-russia-lures-voters-with-election-day-freebies-a84458",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -837,7 +837,7 @@
                     {
                       "text": "<ref>{{Cite web |date=14 March 2024 |title='Make the Young Fall in Love With Putin': Young Russians Pressured to Vote as Kremlin Demands Record Turnout |url=https://www.themoscowtimes.com/2024/03/12/make-the-young-fall-in-love-with-putin-young-russians-pressured-to-vote-as-kremlin-demands-record-turnout-a84434 |access-date=15 March 2024 |website=The Moscow Times |language=en |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315044847/https://www.themoscowtimes.com/2024/03/12/make-the-young-fall-in-love-with-putin-young-russians-pressured-to-vote-as-kremlin-demands-record-turnout-a84434 |url-status=live|author=Kozlov, Pyotr}}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/12/make-the-young-fall-in-love-with-putin-young-russians-pressured-to-vote-as-kremlin-demands-record-turnout-a84434",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -860,14 +860,14 @@
                     {
                       "text": "<ref name=\"f24vote\">{{Cite web |date=14 March 2024 |title='Make the Young Fall in Love With Putin': Young Russians Pressured to Vote as Kremlin Demands Record Turnout |url=https://www.france24.com/en/europe/20240314-voting-starts-in-russian-presidential-election-as-ukraine-launches-border-attacks |access-date=15 March 2024 |website=France 24 |language=en |archive-date=14 March 2024 |archive-url=https://web.archive.org/web/20240314235843/https://www.france24.com/en/europe/20240314-voting-starts-in-russian-presidential-election-as-ukraine-launches-border-attacks |url-status=live }}</ref>",
                       "url": "https://www.france24.com/en/europe/20240314-voting-starts-in-russian-presidential-election-as-ukraine-launches-border-attacks",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=15 March 2024 |title=Russians are voting in an election that holds little suspense after Putin crushed dissent |url=https://apnews.com/article/russia-election-2024-updates-227e65cb2a3f2c4cfdb58a9525fbe884 |access-date=15 March 2024 |website=Associated Press |language=en |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315005604/https://apnews.com/article/russia-election-2024-updates-227e65cb2a3f2c4cfdb58a9525fbe884 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/russia-election-2024-updates-227e65cb2a3f2c4cfdb58a9525fbe884",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -880,14 +880,14 @@
                     {
                       "text": "<ref>{{Cite web |date=15 March 2024 |title=Putin Votes Online in Russian Presidential Election – TV |url=https://www.themoscowtimes.com/2024/03/15/putin-votes-online-in-russian-presidential-election-tv-a84486 |access-date=16 March 2024 |website=The Moscow Times |language=en |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315221919/https://www.themoscowtimes.com/2024/03/15/putin-votes-online-in-russian-presidential-election-tv-a84486 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/15/putin-votes-online-in-russian-presidential-election-tv-a84486",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=15 March 2024 |title=Russia's Online Voting System Briefly Crashes on First Day of Election |url=https://www.themoscowtimes.com/2024/03/15/russias-online-voting-system-briefly-crashes-on-first-day-of-election-a84470 |access-date=17 March 2024 |website=The Moscow Times |language=en |archive-date=16 March 2024 |archive-url=https://web.archive.org/web/20240316051106/https://www.themoscowtimes.com/2024/03/15/russias-online-voting-system-briefly-crashes-on-first-day-of-election-a84470 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/15/russias-online-voting-system-briefly-crashes-on-first-day-of-election-a84470",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -923,7 +923,7 @@
                     {
                       "text": "<ref name=\"novayagazeta\">{{cite web|url=https://novayagazeta.eu/articles/2024/03/18/novaia-evropa-okolo-poloviny-golosov-za-vladimira-putina-na-prezidentskikh-vyborakh-byli-vbrosheny-news|title=Исследование «Новой-Европа»: около половины голосов за Владимира Путина на президентских выборах были вброшены|language=Russian|work=Novaya Gazeta|date=18 March 2024|accessdate=18 March 2024|archive-date=18 March 2024|archive-url=https://web.archive.org/web/20240318134823/https://novayagazeta.eu/articles/2024/03/18/novaia-evropa-okolo-poloviny-golosov-za-vladimira-putina-na-prezidentskikh-vyborakh-byli-vbrosheny-news|url-status=live}}</ref>",
                       "url": "https://novayagazeta.eu/articles/2024/03/18/novaia-evropa-okolo-poloviny-golosov-za-vladimira-putina-na-prezidentskikh-vyborakh-byli-vbrosheny-news",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -959,21 +959,21 @@
                     {
                       "text": "<ref name=\"podolsk\"/> It also said that it had received reports of attempts to inspect filled-out ballots before they were cast, and one instance in which police demanded a ballot box be opened to remove a ballot.<ref name=\"APvictory\"/> Thermochromic ink that disappears when heated was also allegedly used in Kursk and Rostov-on-Don on 15 March.<ref>{{cite web|url=https://talk.tv/top-stories/54593/russia-election-ballot-disappearing-ink|title=VIDEO: Allegations emerge of disappearing ink being used on Russian election ballot paper that vanishes under lighter flame|website=TalkTV (British TV channel)|TalkTV|date=15 March 2024|accessdate=18 March 2024|archive-date=21 March 2024|archive-url=https://web.archive.org/web/20240321163630/https://talk.tv/top-stories/54593/russia-election-ballot-disappearing-ink|url-status=live}}</ref>",
                       "url": "https://talk.tv/top-stories/54593/russia-election-ballot-disappearing-ink",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web| url=https://www.rferl.org/a/russia-elections-disappearing-ink/31469365.html| title=Disappearing Ink: Another Item In Russia's Election Bag Of Tricks?|website=Radio Free Europe/Radio Liberty| date=20 September 2021| accessdate=18 March 2024| archive-date=27 December 2023| archive-url =https://web.archive.org/web/20231227112310/https://www.rferl.org/a/russia-elections-disappearing-ink/31469365.html| url-status =live}}</ref>",
                       "url": "https://www.rferl.org/a/russia-elections-disappearing-ink/31469365.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web| url=https://www.themoscowtimes.com/2024/03/18/russian-presidential-vote-an-imitation-election-watchdog-golos-says-a84511| title=Russian Presidential Vote an 'Imitation,' Election Watchdog Golos Says|website=The Moscow Times| date=18 March 2024| accessdate=19 March 2024| archive-date=18 March 2024| archive-url=https://web.archive.org/web/20240318171355/https://www.themoscowtimes.com/2024/03/18/russian-presidential-vote-an-imitation-election-watchdog-golos-says-a84511| url-status=live}}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/18/russian-presidential-vote-an-imitation-election-watchdog-golos-says-a84511",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1002,28 +1002,28 @@
                     {
                       "text": "<ref name=\"bbcukraine\"/> On 6 March, a local official of the Russian Central Election Commission in Berdiansk, Zaporizhzhia Oblast, was killed by a car bomb, according to Ukrainian officials.<ref>{{cite news |title=Exiled official: Russian election organizer killed in explosion in occupied Berdiansk |url=https://kyivindependent.com/russian-election-organizer-killed-in-explosion-berdiansk/ |author=Elsa Court |website=The Kyiv Independent |date=6 March 2024 |access-date=6 March 2024 |archive-date=6 March 2024 |archive-url=https://web.archive.org/web/20240306140249/https://kyivindependent.com/russian-election-organizer-killed-in-explosion-berdiansk/ |url-status=live }}</ref>",
                       "url": "https://kyivindependent.com/russian-election-organizer-killed-in-explosion-berdiansk/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"bbcukraine\"/> On 15 March, an improvised explosive device was Skadovsk polling center bombing|detonated inside a trash can in front of a polling station in Skadovsk, Kherson Oblast,<ref name=\"bbcarrests\">{{cite news |title=Russia election: Arrests for vandalism as ballot boxes targeted in Putin vote |url=https://www.bbc.com/news/world-europe-68576817 |website=BBC News |date=15 March 2024 |access-date=15 March 2024 |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315160939/https://www.bbc.com/news/world-europe-68576817 |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/world-europe-68576817",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=National Resistance Center: Resistance disrupts 'voting' in occupied Skadovsk, injures 5 Russian troops |url=https://kyivindependent.com/national-resistance-center-sabotage/ |website=The Kyiv Independent |author=Martin Fornusek |date=16 March 2024 |accessdate=16 March 2024 |archive-date=16 March 2024 |archive-url=https://web.archive.org/web/20240316124543/https://kyivindependent.com/national-resistance-center-sabotage/ |url-status=live }}</ref>",
                       "url": "https://kyivindependent.com/national-resistance-center-sabotage/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"ap-ballots\">{{cite news |title=Russians cast ballots on Day 2 of an election preordained to extend President Vladimir Putin's rule |url=https://apnews.com/article/russia-election-putin-2024-updates-55fc9746c240cfd7f267b007f83a1147 |website=Associated Press |author=Emma Burrows |date=16 March 2024 |accessdate=16 March 2024 |archive-date=16 March 2024 |archive-url=https://web.archive.org/web/20240316060505/https://apnews.com/article/russia-election-putin-2024-updates-55fc9746c240cfd7f267b007f83a1147 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/russia-election-putin-2024-updates-55fc9746c240cfd7f267b007f83a1147",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1036,28 +1036,28 @@
                     {
                       "text": "<ref>{{cite news|last=Lukiv|first=Jaroslav|title=Ukraine-based Russian armed groups claim raids into Russia|url=https://www.bbc.co.uk/news/world-europe-68541911|website=BBC News|date=12 March 2024|access-date=12 March 2024|archive-date=12 March 2024|archive-url=https://web.archive.org/web/20240312105337/https://www.bbc.co.uk/news/world-europe-68541911|url-status=live}}</ref>",
                       "url": "https://www.bbc.co.uk/news/world-europe-68541911",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Anti-Kremlin militia says fighting ongoing in 5 Russian settlements |url=https://kyivindependent.com/russian-anti-kremlin-militia/ |author=Elsa Court |website=The Kyiv Independent |date=13 March 2024 |access-date=14 March 2024 |archive-date=14 March 2024 |archive-url=https://web.archive.org/web/20240314004609/https://kyivindependent.com/russian-anti-kremlin-militia/ |url-status=live }}</ref>",
                       "url": "https://kyivindependent.com/russian-anti-kremlin-militia/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Putin: Cross-border incursion by Russian anti-Kremlin militia 'attempt to interfere in elections' |url=https://kyivindependent.com/putin-claims-russian-anti-kremlin-militia-incursion-from-ukraine-aimed-to-disrupt-elections/ |author=Kateryna Denisova |website=The Kyiv Independent |date=13 March 2024 |access-date=14 March 2024 |archive-date=14 March 2024 |archive-url=https://web.archive.org/web/20240314030434/https://kyivindependent.com/putin-claims-russian-anti-kremlin-militia-incursion-from-ukraine-aimed-to-disrupt-elections/ |url-status=live }}</ref>",
                       "url": "https://kyivindependent.com/putin-claims-russian-anti-kremlin-militia-incursion-from-ukraine-aimed-to-disrupt-elections/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=In Russian Border City, Election Must Go On Under Ukrainian Fire |url=https://www.themoscowtimes.com/2024/03/17/in-russian-border-city-election-must-go-on-under-ukrainian-fire-a84489 |website=The Moscow Times |date=18 March 2024 |access-date=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318011322/https://www.themoscowtimes.com/2024/03/17/in-russian-border-city-election-must-go-on-under-ukrainian-fire-a84489 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/17/in-russian-border-city-election-must-go-on-under-ukrainian-fire-a84489",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1070,7 +1070,7 @@
                     {
                       "text": "<ref>{{cite news |title=Russia's FSB Thwarted Attack on Putin Campaign Office – Mediazona |url=https://www.themoscowtimes.com/2024/03/25/russias-fsb-thwarted-attack-on-putin-campaign-office-mediazona-a84609 |website=The Moscow Times |date=18 March 2024 |access-date=25 March 2024 }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/25/russias-fsb-thwarted-attack-on-putin-campaign-office-mediazona-a84609",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1093,35 +1093,35 @@
                     {
                       "text": "<ref>{{cite news |title=Russians Set Fire to At Least 4 Polling Stations on First Day of Election |url=https://www.themoscowtimes.com/2024/03/15/russians-set-fire-to-at-least-4-polling-stations-on-first-day-of-election-a84478 |website=The Moscow Times |date=15 March 2024 |access-date=16 March 2024 |archive-date=16 March 2024 |archive-url=https://web.archive.org/web/20240316001816/https://www.themoscowtimes.com/2024/03/15/russians-set-fire-to-at-least-4-polling-stations-on-first-day-of-election-a84478 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/15/russians-set-fire-to-at-least-4-polling-stations-on-first-day-of-election-a84478",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Multiple Russians arrested for pouring ink into ballot boxes, St. Petersburg woman throws Molotov cocktail at polling station |url=https://meduza.io/en/news/2024/03/15/russians-throughout-the-country-arrested-for-pouring-ink-into-ballot-boxes |website=Meduza |date=15 March 2024 |access-date=15 March 2024 |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315130857/https://meduza.io/en/news/2024/03/15/russians-throughout-the-country-arrested-for-pouring-ink-into-ballot-boxes |url-status=live }}</ref>",
                       "url": "https://meduza.io/en/news/2024/03/15/russians-throughout-the-country-arrested-for-pouring-ink-into-ballot-boxes",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"apsuspense\">{{cite news |title=Russians are voting in an election that holds little suspense after Putin crushed dissent |url=https://apnews.com/article/russia-election-2024-updates-227e65cb2a3f2c4cfdb58a9525fbe884 |website=Associated Press |date=15 March 2024 |access-date=15 March 2024 |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315005604/https://apnews.com/article/russia-election-2024-updates-227e65cb2a3f2c4cfdb58a9525fbe884 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/russia-election-2024-updates-227e65cb2a3f2c4cfdb58a9525fbe884",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"podolsk\">{{cite news |title=Russians cast ballots in an election preordained to extend President Vladimir Putin's rule |url=https://apnews.com/article/russia-election-putin-2024-updates-55fc9746c240cfd7f267b007f83a1147 |website=Associated Press |date=17 March 2024 |access-date=17 March 2024 |archive-date=16 March 2024 |archive-url=https://web.archive.org/web/20240316221906/https://apnews.com/article/russia-election-putin-2024-updates-55fc9746c240cfd7f267b007f83a1147 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/russia-election-putin-2024-updates-55fc9746c240cfd7f267b007f83a1147",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=St. Petersburg Woman Arrested for Writing 'No to War' on Voting Ballot |url=https://www.themoscowtimes.com/2024/03/20/st-petersburg-woman-arrested-for-writing-no-to-war-on-voting-ballot-a84546 |website=The Moscow Times |date=20 March 2024 |access-date=20 March 2024 |archive-date=20 March 2024 |archive-url=https://web.archive.org/web/20240320133430/https://www.themoscowtimes.com/2024/03/20/st-petersburg-woman-arrested-for-writing-no-to-war-on-voting-ballot-a84546 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/20/st-petersburg-woman-arrested-for-writing-no-to-war-on-voting-ballot-a84546",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1134,7 +1134,7 @@
                     {
                       "text": "<ref>{{cite news |title=Moldova Police Detain Man After Firebombs at Russian Embassy |url=https://www.themoscowtimes.com/2024/03/17/moldova-police-detain-man-after-firebombs-at-russian-embassy-a84494 |website=The Moscow Times |date=17 March 2024 |access-date=17 March 2024 |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317134806/https://www.themoscowtimes.com/2024/03/17/moldova-police-detain-man-after-firebombs-at-russian-embassy-a84494 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/17/moldova-police-detain-man-after-firebombs-at-russian-embassy-a84494",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1157,7 +1157,7 @@
                     {
                       "text": "<ref>{{cite news |title=Fatal Ukrainian Strikes Rock Russia as Vote Cements Putin's Grip |url=https://www.themoscowtimes.com/2024/03/16/fatal-ukrainian-strikes-rock-russia-as-vote-cements-putins-grip-a84487 |website=The Moscow Times |date=16 March 2024 |access-date=17 March 2024 |archive-date=16 March 2024 |archive-url=https://web.archive.org/web/20240316163933/https://www.themoscowtimes.com/2024/03/16/fatal-ukrainian-strikes-rock-russia-as-vote-cements-putins-grip-a84487 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/16/fatal-ukrainian-strikes-rock-russia-as-vote-cements-putins-grip-a84487",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1182,7 +1182,7 @@
                 {
                   "text": "<ref>{{Cite web |last=Steele |first=Jonathan |date=6 April 2022 |title=Vladimir Zhirinovsky obituary |url=https://www.theguardian.com/world/2022/apr/06/vladimir-zhirinovsky-obituary |access-date=6 April 2022 |website=The Guardian |archive-date=8 April 2023 |archive-url=https://web.archive.org/web/20230408003552/https://www.theguardian.com/world/2022/apr/06/vladimir-zhirinovsky-obituary |url-status=live }}</ref>",
                   "url": "https://www.theguardian.com/world/2022/apr/06/vladimir-zhirinovsky-obituary",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1203,7 +1203,7 @@
                     {
                       "text": "<ref>{{Cite web|url=https://wciom.ru/analytical-reviews/analiticheskii-obzor/vybory-prezidenta-rossii-2024-rezultaty-ehkzitpola-vciom|title=Выборы президента России-2024: результаты экзитпола ВЦИОМ|website=WCIOM|access-date=17 March 2024|archive-date=17 March 2024|archive-url=https://web.archive.org/web/20240317193214/https://wciom.ru/analytical-reviews/analiticheskii-obzor/vybory-prezidenta-rossii-2024-rezultaty-ehkzitpola-vciom|url-status=live}}</ref>",
                       "url": "https://wciom.ru/analytical-reviews/analiticheskii-obzor/vybory-prezidenta-rossii-2024-rezultaty-ehkzitpola-vciom",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1224,28 +1224,28 @@
                         {
                           "text": "<ref name=\"voteabroad\">{{cite web |title=Exit polls results |url=https://voteabroad.info/ |website=Vote Abroad |access-date=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318092033/https://voteabroad.info/ |url-status=live }}</ref>",
                           "url": "https://voteabroad.info/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{cite news |title=Зарубежные экзит-поллы: за Путина проголосовало менее 20% |url=https://www.moscowtimes.ru/2024/03/17/zarubezhnie-ekzit-polli-za-putina-progolosovalo-menee-20-a124685 |access-date=18 March 2024 |agency=The Moscow Times |date=17 March 2024 |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317213334/https://www.moscowtimes.ru/2024/03/17/zarubezhnie-ekzit-polli-za-putina-progolosovalo-menee-20-a124685 |url-status=live }}</ref>",
                           "url": "https://www.moscowtimes.ru/2024/03/17/zarubezhnie-ekzit-polli-za-putina-progolosovalo-menee-20-a124685",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite web |url=https://voteabroad.info/#results-block |title=РЕЗУЛЬТАТЫ ЭКЗИТ-ПОЛЛОВ ЗА РУБЕЖОМ НА ВЫБОРАХ ПРЕЗИДЕНТА РОССИЙСКОЙ ФЕДЕРАЦИИ 17 МАРТА 2024 |access-date=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318092033/https://voteabroad.info/#results-block |url-status=live }}</ref>",
-                          "url": "https://voteabroad.info/#results-block",
-                          "status_code": null,
+                          "url": "https://voteabroad.info/",
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{cite news |title=Almaty reports one of the lowest voting results for Putin |url=https://kz.kursiv.media/en/2024-03-18/almaty-reports-one-of-the-lowest-voting-results-for-putin/ |work=Kursiv.Media |date=18 March 2023 |access-date=19 March 2024 |archive-date=21 March 2024 |archive-url=https://web.archive.org/web/20240321163624/https://kz.kursiv.media/en/2024-03-18/almaty-reports-one-of-the-lowest-voting-results-for-putin/ |url-status=live }}</ref>",
                           "url": "https://kz.kursiv.media/en/2024-03-18/almaty-reports-one-of-the-lowest-voting-results-for-putin/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -1258,7 +1258,7 @@
                         {
                           "text": "<ref name=\"voteabroad\"/> In total, exit polls organized by exiled Russian activists across 44 countries showed Davankov gaining more votes than Putin in all but five countries.<ref>{{cite news |title='Unprecedented' Number of Russians Voted Abroad, Says MFA |url=https://www.themoscowtimes.com/2024/03/18/unprecedented-number-of-russians-voted-abroad-says-mfa-a84506 |access-date=18 March 2024 |agency=The Moscow Times |date=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318091334/https://www.themoscowtimes.com/2024/03/18/unprecedented-number-of-russians-voted-abroad-says-mfa-a84506 |url-status=live }}</ref>",
                           "url": "https://www.themoscowtimes.com/2024/03/18/unprecedented-number-of-russians-voted-abroad-says-mfa-a84506",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -1270,15 +1270,15 @@
                       "references": [
                         {
                           "text": "<ref>{{cite news|url=https://newsmaker.md/ro/transnistria-cea-mai-mica-rata-de-participare-la-alegerile-prezidentiale-ruse-din-ultimii-18-ani-cati-si-au-dat-votul-pentru-putin/|title=Transnistria: cea mai mică rată de participare la alegerile prezidențiale ruse din ultimii 18 ani. Câți și-au dat votul pentru Putin|first=Ecaterina|last=Arvintii|newspaper=NewsMaker|date=18 March 2024|language=ro|access-date=22 March 2024|archive-date=22 March 2024|archive-url=https://web.archive.org/web/20240322104303/https://newsmaker.md/ro/transnistria-cea-mai-mica-rata-de-participare-la-alegerile-prezidentiale-ruse-din-ultimii-18-ani-cati-si-au-dat-votul-pentru-putin/|url-status=live}}</ref>",
-                          "url": "https://newsmaker.md/ro/transnistria-cea-mai-mica-rata-de-participare-la-alegerile-prezidentiale-ruse-din-ultimii-18-ani-cati-si-au-dat-votul-pentru-putin/",
-                          "status_code": null,
+                          "url": "https://newsmaker.md/ro/transnistria-cea-mai-mica-rata-de-participare-la-alegerile-prezidentiale-ruse-din-ultimii-18-ani-cati-si-au-dat-votul-pentru-putin",
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news|url=https://www.trtrussian.com/novosti-moldova/rekordnaya-apatiya-v-pridnestrove-17450269|title=Рекордная апатия в Приднестровье|website=Turkish Radio and Television Corporation|TRT Russian|date=21 March 2024|language=ru|access-date=22 March 2024|archive-date=22 March 2024|archive-url=https://web.archive.org/web/20240322091328/https://www.trtrussian.com/novosti-moldova/rekordnaya-apatiya-v-pridnestrove-17450269|url-status=live}}</ref>",
                           "url": "https://www.trtrussian.com/novosti-moldova/rekordnaya-apatiya-v-pridnestrove-17450269",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -1305,14 +1305,14 @@
                 {
                   "text": "<ref>{{Cite web|url=https://www.reuters.com/world/europe/independent-vote-monitor-says-russian-elections-are-most-secret-ever-2024-03-15/|title=Independent vote monitor says Russian elections are 'most secret' ever|website=Reuters }}</ref>",
                   "url": "https://www.reuters.com/world/europe/independent-vote-monitor-says-russian-elections-are-most-secret-ever-2024-03-15/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://english.elpais.com/international/2024-03-15/russia-goes-to-the-polls-in-elections-tailored-to-guarantee-putin-power-until-2030.html|title=Russia goes to the polls in elections tailored to guarantee Putin power until 2030|first=Javier G.|last=Cuesta|date=15 March 2024|website=El País English|access-date=17 March 2024|archive-date=17 March 2024|archive-url=https://web.archive.org/web/20240317153611/https://english.elpais.com/international/2024-03-15/russia-goes-to-the-polls-in-elections-tailored-to-guarantee-putin-power-until-2030.html|url-status=live}}</ref>",
                   "url": "https://english.elpais.com/international/2024-03-15/russia-goes-to-the-polls-in-elections-tailored-to-guarantee-putin-power-until-2030.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1325,7 +1325,7 @@
                 {
                   "text": "<ref>{{Cite web|url=https://www.osce.org/odihr/elections/russia/562065|title=Russian Federation flouts international commitments once again with decision not to invite OSCE observers to presidential election|website=OSCE|access-date=17 March 2024|archive-date=17 March 2024|archive-url=https://web.archive.org/web/20240317083318/https://www.osce.org/odihr/elections/russia/562065|url-status=live}}</ref>",
                   "url": "https://www.osce.org/odihr/elections/russia/562065",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1338,7 +1338,7 @@
                 {
                   "text": "<ref>{{Cite web|url=https://tass.ru/politika/20256321|title=За ходом голосования на выборах президента РФ следят 1 115 международных наблюдателей|website=Tass|access-date=17 March 2024|archive-date=17 March 2024|archive-url=https://web.archive.org/web/20240317075441/https://tass.ru/politika/20256321|url-status=live}}</ref>",
                   "url": "https://tass.ru/politika/20256321",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1361,7 +1361,7 @@
                 {
                   "text": "<ref name=\"official\">{{Cite web |date=21 March 2024 |title=Russian Election Officials Declare Putin Winner of Presidential Race |url=https://www.themoscowtimes.com/2024/03/21/russian-election-officials-declare-putin-winner-of-presidential-race-a84554 |access-date=21 March 2024 |website=The Moscow Times |language=en |archive-date=21 March 2024 |archive-url=https://web.archive.org/web/20240321095944/https://www.themoscowtimes.com/2024/03/21/russian-election-officials-declare-putin-winner-of-presidential-race-a84554 |url-status=live }}</ref>",
                   "url": "https://www.themoscowtimes.com/2024/03/21/russian-election-officials-declare-putin-winner-of-presidential-race-a84554",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1382,7 +1382,7 @@
                     {
                       "text": "<ref>{{Cite web |date=18 March 2024 |title=Итоги выборов президента России |url=https://ria.ru/20240317/vybory-1924359788.html |access-date=18 March 2024 |website=RIA Novosti |language=ru |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317220041/https://ria.ru/20240317/vybory-1924359788.html |url-status=live }}</ref>",
                       "url": "https://ria.ru/20240317/vybory-1924359788.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1411,14 +1411,14 @@
                     {
                       "text": "<ref name=\"Peskov\">{{cite news |title=Kremlin spokesman says Putin will be re-elected with over 90 percent of the vote, later clarifies this was his personal opinion |url=https://meduza.io/en/news/2023/08/07/kremlin-spokesman-says-putin-will-be-re-elected-with-over-90-percent-of-the-vote-later-clarifies-this-his-personal-opinion |work=Meduza |date=7 August 2023 |access-date=26 January 2024 |archive-date=26 January 2024 |archive-url=https://web.archive.org/web/20240126235338/https://meduza.io/en/news/2023/08/07/kremlin-spokesman-says-putin-will-be-re-elected-with-over-90-percent-of-the-vote-later-clarifies-this-his-personal-opinion |url-status=live }}</ref>",
                       "url": "https://meduza.io/en/news/2023/08/07/kremlin-spokesman-says-putin-will-be-re-elected-with-over-90-percent-of-the-vote-later-clarifies-this-his-personal-opinion",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Kremlin Spokesman Claims Putin Will Easily Win Reelection Next Year |url=https://www.rferl.org/a/russia-peskov-interview-democracy/32536544.html |work=Radio Free Europe/Radio Liberty |date=7 August 2023 |access-date=26 January 2024 |archive-date=26 January 2024 |archive-url=https://web.archive.org/web/20240126235338/https://www.rferl.org/a/russia-peskov-interview-democracy/32536544.html |url-status=live }}</ref>",
                       "url": "https://www.rferl.org/a/russia-peskov-interview-democracy/32536544.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1431,14 +1431,14 @@
                     {
                       "text": "<ref>{{Cite web |last=Latypova |first=Leyla |date=22 November 2023 |title=Meet Putin's Possible Election Opponent: A Single Mother of 3 Calling for Peace |url=https://www.themoscowtimes.com/2023/11/22/meet-putins-possible-election-opponent-a-single-mother-of-3-calling-for-peace-a83181 |website=The Moscow Times |language=en |access-date=26 January 2024 |archive-date=29 November 2023 |archive-url=https://web.archive.org/web/20231129144042/https://www.themoscowtimes.com/2023/11/22/meet-putins-possible-election-opponent-a-single-mother-of-3-calling-for-peace-a83181 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2023/11/22/meet-putins-possible-election-opponent-a-single-mother-of-3-calling-for-peace-a83181",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|website=The Moscow Times |title=Pro-Peace Putin Challenger Blocked From Ballot |url=https://www.themoscowtimes.com/2023/12/23/pro-peace-putin-challenger-blocked-from-ballot-a83546 |language=en |date=23 December 2023 |access-date=26 January 2024 |archive-date=15 February 2024 |archive-url=https://web.archive.org/web/20240215073740/https://www.themoscowtimes.com/2023/12/23/pro-peace-putin-challenger-blocked-from-ballot-a83546 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2023/12/23/pro-peace-putin-challenger-blocked-from-ballot-a83546",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1451,7 +1451,7 @@
                     {
                       "text": "<ref>{{Cite news |date=19 November 2023 |title=Putin critic Girkin wants to stand in Russia presidential election |language=en-GB |url=https://www.bbc.com/news/world-europe-67467830 |author=Wong, Vicky |work=BBC |access-date=26 January 2024 |archive-date=26 January 2024 |archive-url=https://web.archive.org/web/20240126004501/https://www.bbc.com/news/world-europe-67467830 |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/world-europe-67467830",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1464,14 +1464,14 @@
                     {
                       "text": "<ref>{{cite news |title='Hope for Change' or 'Kremlin Spoiler': Who Is Boris Nadezhdin, the Presidential Hopeful Uniting Pro-Peace Russians? |url=https://www.themoscowtimes.com/2024/01/23/hope-for-change-or-kremlin-spoiler-who-is-boris-nadezhdin-the-presidential-hopeful-uniting-pro-peace-russians-a83824 |work=The Moscow Times |date=25 January 2024 |access-date=10 February 2024 |archive-date=9 February 2024 |archive-url=https://web.archive.org/web/20240209192104/https://www.themoscowtimes.com/2024/01/23/hope-for-change-or-kremlin-spoiler-who-is-boris-nadezhdin-the-presidential-hopeful-uniting-pro-peace-russians-a83824 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/01/23/hope-for-change-or-kremlin-spoiler-who-is-boris-nadezhdin-the-presidential-hopeful-uniting-pro-peace-russians-a83824",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"meduza-kremlin\">{{cite news |title=Kremlin propagandists finally acknowledge anti-war presidential hopeful Boris Nadezhdin, and — surprise! — they say Kyiv and Russia's exiled opposition are controlling him |url=https://meduza.io/en/feature/2024/02/02/kremlin-propagandists-finally-acknowledge-anti-war-presidential-hopeful-boris-nadezhdin-and-surprise-they-say-kyiv-and-russia-s-exiled-opposition-are-controlling-him |work=Meduza |date=2 February 2024 |access-date=10 February 2024 |archive-date=10 February 2024 |archive-url=https://web.archive.org/web/20240210115723/https://meduza.io/en/feature/2024/02/02/kremlin-propagandists-finally-acknowledge-anti-war-presidential-hopeful-boris-nadezhdin-and-surprise-they-say-kyiv-and-russia-s-exiled-opposition-are-controlling-him |url-status=live }}</ref>",
                       "url": "https://meduza.io/en/feature/2024/02/02/kremlin-propagandists-finally-acknowledge-anti-war-presidential-hopeful-boris-nadezhdin-and-surprise-they-say-kyiv-and-russia-s-exiled-opposition-are-controlling-him",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1484,7 +1484,7 @@
                     {
                       "text": "<ref>{{cite news |title=Russian anti-war candidate Boris Nadezhdin banned from election |url=https://www.theguardian.com/world/2024/feb/08/russian-anti-war-candidate-boris-nadezhdin-says-he-is-barred-from-election |work=The Guardian |date=8 February 2024 |author=Sauer, Pjotr |access-date=8 February 2024 |archive-date=8 February 2024 |archive-url=https://web.archive.org/web/20240208111539/https://www.theguardian.com/world/2024/feb/08/russian-anti-war-candidate-boris-nadezhdin-says-he-is-barred-from-election |url-status=live }}</ref>",
                       "url": "https://www.theguardian.com/world/2024/feb/08/russian-anti-war-candidate-boris-nadezhdin-says-he-is-barred-from-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1497,28 +1497,28 @@
                     {
                       "text": "<ref name=\"mtvow\">{{cite news |title=Putin Vows Russia Cannot Be Held Back in Victory Speech |url=https://www.themoscowtimes.com/2024/03/18/putin-vows-russia-cannot-be-held-back-in-victory-speech-a84504 |work=The Moscow Times |date=18 March 2024 |access-date=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318000102/https://www.themoscowtimes.com/2024/03/18/putin-vows-russia-cannot-be-held-back-in-victory-speech-a84504 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/18/putin-vows-russia-cannot-be-held-back-in-victory-speech-a84504",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"ajvictory\">{{cite news |title=Russia's Putin hails victory in election criticised as illegitimate |url=https://www.aljazeera.com/news/2024/3/17/putin-poised-to-win-russian-presidential-election-by-a-landslide |work=Al Jazeera |date=18 March 2024 |access-date=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318000628/https://www.aljazeera.com/news/2024/3/17/putin-poised-to-win-russian-presidential-election-by-a-landslide |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/3/17/putin-poised-to-win-russian-presidential-election-by-a-landslide",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"APvictory\">{{cite news |title=Putin hails electoral victory that was preordained, after harshly suppressing opposition voices |url=https://apnews.com/article/russia-election-putin-2024-updates-ebdaae1bf12b44343b88ba471f9f0cb0 |work=Associated Press |date=18 March 2024 |access-date=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318053134/https://apnews.com/article/russia-election-putin-2024-updates-ebdaae1bf12b44343b88ba471f9f0cb0 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/russia-election-putin-2024-updates-ebdaae1bf12b44343b88ba471f9f0cb0",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=17 March 2024 |title=Russian election: Putin vows to press on with Ukraine war in post-election speech |url=https://www.bbc.co.uk/news/live/world-europe-68536879 |access-date=18 March 2024 |website=BBC News |language=en-gb |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318001055/https://www.bbc.co.uk/news/live/world-europe-68536879 |url-status=live }}</ref>",
                       "url": "https://www.bbc.co.uk/news/live/world-europe-68536879",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1541,21 +1541,21 @@
                     {
                       "text": "<ref>{{cite news |title=Latvian Minister Says Russians 'Essentially Support' Invasion By Voting |url=https://www.themoscowtimes.com/2024/02/28/latvian-minister-says-russians-essentially-support-invasion-by-voting-a84279 |access-date=12 March 2024 |work=The Moscow Times |date=4 March 2024 |language=en |archive-date=12 March 2024 |archive-url=https://web.archive.org/web/20240312050822/https://www.themoscowtimes.com/2024/02/28/latvian-minister-says-russians-essentially-support-invasion-by-voting-a84279 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/02/28/latvian-minister-says-russians-essentially-support-invasion-by-voting-a84279",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Медуза — LIVE |url=https://t.me/meduzalive/102188 |access-date=15 March 2024 |website=Telegram |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315065856/https://t.me/meduzalive/102188 |url-status=live }}</ref>",
                       "url": "https://t.me/meduzalive/102188",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=Latvian Police to 'Screen' Russian Voters Outside Moscow's Embassy |url=https://www.themoscowtimes.com/2024/03/11/latvian-police-to-screen-russian-voters-outside-moscows-embassy-a84413 |access-date=12 March 2024 |work=The Moscow Times |date=11 March 2024 |language=en |archive-date=11 March 2024 |archive-url=https://web.archive.org/web/20240311200815/https://www.themoscowtimes.com/2024/03/11/latvian-police-to-screen-russian-voters-outside-moscows-embassy-a84413 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/11/latvian-police-to-screen-russian-voters-outside-moscows-embassy-a84413",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1568,28 +1568,28 @@
                     {
                       "text": "<ref>{{cite news|url=https://stirileprotv.ro/stiri/international/ambasadorul-rusiei-la-chisinau-convocat-la-mae-al-r-moldova-dupa-decizia-rusiei-de-a-deschide-sectii-de-vot-in-transnistria.html|title=Ambasadorul Rusiei la Chișinău, convocat la MAE al R. Moldova după decizia Rusiei de a deschide secții de vot în Transnistria|first=Mihaela|last=Ivăncică|website=Pro TV|date=11 March 2024|language=ro|access-date=12 March 2024|archive-date=12 March 2024|archive-url=https://web.archive.org/web/20240312093814/https://stirileprotv.ro/stiri/international/ambasadorul-rusiei-la-chisinau-convocat-la-mae-al-r-moldova-dupa-decizia-rusiei-de-a-deschide-sectii-de-vot-in-transnistria.html|url-status=live}}</ref>",
                       "url": "https://stirileprotv.ro/stiri/international/ambasadorul-rusiei-la-chisinau-convocat-la-mae-al-r-moldova-dupa-decizia-rusiei-de-a-deschide-sectii-de-vot-in-transnistria.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://www.rfi.fr/ro/republica-moldova/20240318-r-moldova-rom%C3%A2nia-%C8%99i-sua-au-condamnat-organizarea-alegerilor-preziden%C8%9Biale-ruse-%C3%AEn-transnistria|title=R.Moldova, România și SUA au condamnat organizarea alegerilor prezidențiale ruse în Transnistria|first=Valeria|last=Vițu|website=Radio France Internationale|date=18 March 2024|language=ro|access-date=22 March 2024|archive-date=22 March 2024|archive-url=https://web.archive.org/web/20240322110139/https://www.rfi.fr/ro/republica-moldova/20240318-r-moldova-rom%C3%A2nia-%C8%99i-sua-au-condamnat-organizarea-alegerilor-preziden%C8%9Biale-ruse-%C3%AEn-transnistria|url-status=live}}</ref>",
                       "url": "https://www.rfi.fr/ro/republica-moldova/20240318-r-moldova-rom%C3%A2nia-%C8%99i-sua-au-condamnat-organizarea-alegerilor-preziden%C8%9Biale-ruse-%C3%AEn-transnistria",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://www.leparisien.fr/international/reelection-de-vladimir-poutine-paris-estime-que-les-conditions-dune-election-libre-nont-pas-ete-reunies-18-03-2024-AI2NAPB5MJHHVMCOGQWZAR4TOQ.php|title=Réélection de Vladimir Poutine : Paris estime que « les conditions d'une élection libre n'ont pas été réunies »|newspaper=Le Parisien|date=18 March 2024|language=fr|access-date=22 March 2024|archive-date=22 March 2024|archive-url=https://web.archive.org/web/20240322110330/https://www.leparisien.fr/international/reelection-de-vladimir-poutine-paris-estime-que-les-conditions-dune-election-libre-nont-pas-ete-reunies-18-03-2024-AI2NAPB5MJHHVMCOGQWZAR4TOQ.php|url-status=live}}</ref>",
                       "url": "https://www.leparisien.fr/international/reelection-de-vladimir-poutine-paris-estime-que-les-conditions-dune-election-libre-nont-pas-ete-reunies-18-03-2024-AI2NAPB5MJHHVMCOGQWZAR4TOQ.php",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Moldova expels Russian diplomat after Russian election held in Transnistria |url=https://kyivindependent.com/moldova-expels-russian-diplomat-after-elections-held-in-transnistria/ |access-date=19 March 2024 |work=The Kyiv Independent |date=19 March 2024 |author=Elsa Court |language=en |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319121436/https://kyivindependent.com/moldova-expels-russian-diplomat-after-elections-held-in-transnistria/ |url-status=live }}</ref>",
                       "url": "https://kyivindependent.com/moldova-expels-russian-diplomat-after-elections-held-in-transnistria/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1602,21 +1602,21 @@
                     {
                       "text": "<ref name=\":0\">{{cite news |date=15 March 2024 |title=Russia Begins Voting as Ukraine Steps Up Border Attacks |url=https://www.themoscowtimes.com/2024/03/15/russia-begins-voting-as-ukraine-steps-up-border-attacks-a84467 |url-status=live |archive-url=https://web.archive.org/web/20240314232734/https://www.themoscowtimes.com/2024/03/15/russia-begins-voting-as-ukraine-steps-up-border-attacks-a84467 |archive-date=14 March 2024 |access-date=15 March 2024 |work=The Moscow Times |language=en |agency=Agence France-Presse}}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/15/russia-begins-voting-as-ukraine-steps-up-border-attacks-a84467",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\":0\" /> On 15 March, Ukraine's ambassador to the United Nations, Sergiy Kyslytsya, released a joint statement on behalf of Ukraine, the European Union and 56 other countries including the US condemning the holding of the elections in occupied parts of the country.<ref>{{cite news |title=Over 50 countries condemn Russia's illegal election in occupied Ukrainian territories |url=https://kyivindependent.com/over-50-countries-condemn-russias-illegal-election-in-occupied-ukrainian-territories/ |access-date=16 March 2024 |work=The Kyiv Independent |date=15 March 2024 |language=en |archive-date=16 March 2024 |archive-url=https://web.archive.org/web/20240316000230/https://kyivindependent.com/over-50-countries-condemn-russias-illegal-election-in-occupied-ukrainian-territories/ |url-status=live }}</ref>",
                       "url": "https://kyivindependent.com/over-50-countries-condemn-russias-illegal-election-in-occupied-ukrainian-territories/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title='Loyalty Check': Russia Holds Election in Occupied Ukrainian Territories |url=https://www.themoscowtimes.com/2024/03/15/loyalty-check-russia-holds-election-in-occupied-ukrainian-territories-a84451 |access-date=17 March 2024 |work=The Moscow Times |date=16 March 2024 |language=en |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317044612/https://www.themoscowtimes.com/2024/03/15/loyalty-check-russia-holds-election-in-occupied-ukrainian-territories-a84451 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/15/loyalty-check-russia-holds-election-in-occupied-ukrainian-territories-a84451",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
@@ -1624,7 +1624,7 @@
                       "text": "<ref>{{Cite web |date=2024-03-15 |title=Russia's intention to hold presidential elections in occupied Ukrainian areas unacceptable, says USG DiCarlo |url=https://dppa.un.org/en/mtg-sc-9578-usg-dicarlo-ukraine-15-mar-2024 |url-status=live |archive-url=https://web.archive.org/web/20240319002052/https://dppa.un.org/en/mtg-sc-9578-usg-dicarlo-ukraine-15-mar-2024 |archive-date=19 March 2024 |access-date=16 March 2024 |website=United Nations}}</ref>",
                       "url": "https://dppa.un.org/en/mtg-sc-9578-usg-dicarlo-ukraine-15-mar-2024",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     }
                   ]
@@ -1636,8 +1636,8 @@
                     {
                       "text": "<ref name=\"apsuspense\"/> On 18 March, the European Union condemned \"the illegal holding of so-called elections' in the territories of Ukraine\" and said it would never recognise them. The EU's foreign policy chief Josep Borrell added that the election was held in the context of a shrinking political space.<ref>{{Cite web |url=https://www.consilium.europa.eu/en/press/press-releases/2024/03/18/russia-ukraine-statement-by-the-high-representative-on-behalf-of-the-european-union-on-russian-presidential-elections-and-their-non-applicability-on-ukrainian-territory/ |title=Russia/Ukraine: Statement by the High Representative on behalf of the EU on Russian presidential elections and their non-applicability on Ukrainian territory |access-date=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318115546/https://www.consilium.europa.eu/en/press/press-releases/2024/03/18/russia-ukraine-statement-by-the-high-representative-on-behalf-of-the-european-union-on-russian-presidential-elections-and-their-non-applicability-on-ukrainian-territory/ |url-status=live }}</ref>",
                       "url": "https://www.consilium.europa.eu/en/press/press-releases/2024/03/18/russia-ukraine-statement-by-the-high-representative-on-behalf-of-the-european-union-on-russian-presidential-elections-and-their-non-applicability-on-ukrainian-territory/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -1649,49 +1649,49 @@
                     {
                       "text": "<ref name=\"bbclandslide\"/> The UK's Foreign Secretary, David Cameron condemned \"the illegal holding of elections on Ukrainian territory\",<ref name=\"bbclandslide\">{{cite news |title=Russian election: Putin claims landslide and scorns US democracy |url=https://www.bbc.com/news/world-europe-68592781 |access-date=18 March 2024 |work=BBC |date=18 March 2024 |language=en |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318000059/https://www.bbc.com/news/world-europe-68592781 |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/world-europe-68592781",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"ajvictory\"/> but said that the US would recognize Putin as president.<ref>{{cite news |title=U.S. Says Ready to 'Deal With' Putin Despite 'Unfair' Election |url=https://www.themoscowtimes.com/2024/03/19/us-says-ready-to-deal-with-putin-despite-unfair-election-a84526 |access-date=20 March 2024 |work=The Moscow Times |date=19 March 2024 |language=en |archive-date=20 March 2024 |archive-url=https://web.archive.org/web/20240320043442/https://www.themoscowtimes.com/2024/03/19/us-says-ready-to-deal-with-putin-despite-unfair-election-a84526 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/19/us-says-ready-to-deal-with-putin-despite-unfair-election-a84526",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Zelensky: 'Putin fears justice and must end up in The Hague' |url=https://kyivindependent.com/zelensky-putin-fears-justice-and-must-end-up-in-the-hague/ |access-date=18 March 2024 |work=The Kyiv Independent |date=18 March 2024 |language=en |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317234609/https://kyivindependent.com/zelensky-putin-fears-justice-and-must-end-up-in-the-hague/ |url-status=live }}</ref>",
                       "url": "https://kyivindependent.com/zelensky-putin-fears-justice-and-must-end-up-in-the-hague/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Russian election garners congratulations and condemnation |url=https://www.aljazeera.com/news/2024/3/18/western-leaders-dismiss-putins-illegal-poll-victory |access-date=18 March 2024 |work=Al Jazeera |date=18 March 2024 |language=en |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318111946/https://www.aljazeera.com/news/2024/3/18/western-leaders-dismiss-putins-illegal-poll-victory |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/3/18/western-leaders-dismiss-putins-illegal-poll-victory",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"aplithuania\">{{cite news |title=Putin extends rule in preordained Russian election after harshest crackdown since Soviet era |url=https://apnews.com/article/russia-election-putin-2024-updates-ebdaae1bf12b44343b88ba471f9f0cb0 |access-date=18 March 2024 |work=Associated Press |date=18 March 2024 |language=en |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318053134/https://apnews.com/article/russia-election-putin-2024-updates-ebdaae1bf12b44343b88ba471f9f0cb0 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/russia-election-putin-2024-updates-ebdaae1bf12b44343b88ba471f9f0cb0",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Western leaders denounce Putin's 'illegal' election win as allies send congratulations |url=https://www.france24.com/en/europe/20240318-french-fm-western-leaders-denounce-putin-illegal-election-win-russia-allies-congratulations |access-date=18 March 2024 |work=France 24 |date=18 March 2024 |language=en |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318095245/https://www.france24.com/en/europe/20240318-french-fm-western-leaders-denounce-putin-illegal-election-win-russia-allies-congratulations |url-status=live }}</ref>",
                       "url": "https://www.france24.com/en/europe/20240318-french-fm-western-leaders-denounce-putin-illegal-election-win-russia-allies-congratulations",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=As West condemns Russian election, Seoul opts to forgo comment |url=https://english.hani.co.kr/arti/english_edition/e_international/1133129 |access-date=21 March 2024 |work=The Hankyoreh |date=20 March 2024 |language=en |archive-date=20 March 2024 |archive-url=https://web.archive.org/web/20240320095051/https://english.hani.co.kr/arti/english_edition/e_international/1133129 |url-status=live }}</ref>",
                       "url": "https://english.hani.co.kr/arti/english_edition/e_international/1133129",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1704,112 +1704,112 @@
                     {
                       "text": "<ref>{{Cite web |last=Nemoura |first=Farid |date=March 18, 2024 |title=President of the Republic congratulates Russia's President Vladimir Putin on re-election |url=https://www.aps.dz/en/algeria/51467-president-of-the-republic-congratulates-russia-s-president-vladimir-putin-on-re-election |url-status=live |archive-url=https://web.archive.org/web/20240324171006/https://www.aps.dz/en/algeria/51467-president-of-the-republic-congratulates-russia-s-president-vladimir-putin-on-re-election |archive-date=March 24, 2024 |access-date=March 18, 2024 |work=Algeria Press Service |language=en}}</ref>",
                       "url": "https://www.aps.dz/en/algeria/51467-president-of-the-republic-congratulates-russia-s-president-vladimir-putin-on-re-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-19 |title=Nikol Pashinyan sends congratulatory message to Vladimir Putin on the occasion of his re-election as president of Russia |url=https://www.1lurer.am/en/2024/03/19/Nikol-Pashinyan-sends-congratulatory-message-to-Vladimir-Putin-on-the-occasion-of-his-re-election-a/1095150 |access-date=2024-03-19 |website=1Lurer |language=en |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319224233/https://www.1lurer.am/en/2024/03/19/Nikol-Pashinyan-sends-congratulatory-message-to-Vladimir-Putin-on-the-occasion-of-his-re-election-a/1095150 |url-status=live }}</ref>",
                       "url": "https://www.1lurer.am/en/2024/03/19/Nikol-Pashinyan-sends-congratulatory-message-to-Vladimir-Putin-on-the-occasion-of-his-re-election-a/1095150",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last= |first= |date=2024-03-18 |title=President Ilham Aliyev congratulates Putin on victory in Russia's presidential election |url=https://www.news.az/news/president-ilham-aliyev-congratulates-putin-on-victory-in-russias-presidential-election |access-date=2024-03-19 |website=News.az |language=en |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319171606/https://www.news.az/news/president-ilham-aliyev-congratulates-putin-on-victory-in-russias-presidential-election |url-status=live }}</ref>",
-                      "url": "https://www.news.az/news/president-ilham-aliyev-congratulates-putin-on-victory-in-russias-presidential-election",
-                      "status_code": null,
+                      "url": "https://news.az/news/president-ilham-aliyev-congratulates-putin-on-victory-in-russias-presidential-election",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=Arabia>{{cite news |last1=Farhat |first1=Beatrice |title=Iran, Saudi Arabia, UAE, others shower Russia's Putin with congratulatory messages |url=https://www.al-monitor.com/originals/2024/03/iran-saudi-arabia-uae-others-shower-russias-putin-congratulatory-messages |access-date=18 March 2024 |agency=Al-Monitor |date=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318213622/https://www.al-monitor.com/originals/2024/03/iran-saudi-arabia-uae-others-shower-russias-putin-congratulatory-messages |url-status=live }}</ref>",
                       "url": "https://www.al-monitor.com/originals/2024/03/iran-saudi-arabia-uae-others-shower-russias-putin-congratulatory-messages",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-21 |title=Hasina greets Russia's Putin on reelection as president |url=https://www.thedailystar.net/news/bangladesh/news/hasina-greets-russias-putin-reelection-president-3571791 |access-date=2024-03-21 |website=The Daily Star |language=en |archive-date=21 March 2024 |archive-url=https://web.archive.org/web/20240321221108/https://www.thedailystar.net/news/bangladesh/news/hasina-greets-russias-putin-reelection-president-3571791 |url-status=live }}</ref>",
                       "url": "https://www.thedailystar.net/news/bangladesh/news/hasina-greets-russias-putin-reelection-president-3571791",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"aplithuania\"/> Bolivia,<ref>{{cite web|url=https://tass.com/world/1761053|title=Leader of Honduras congratulates Putin on his 'convincing' election win|date=18 March 2024|access-date=29 July 2024|work=TASS}}</ref>",
                       "url": "https://tass.com/world/1761053",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-20 |title=Lula envia carta a Putin cumprimentando pela vitória |url=https://www.cnnbrasil.com.br/blogs/raquel-landim/politica/lula-envia-carta-a-putin-cumprimentando-pela-vitoria/ |access-date=2024-03-21 |website=CNN Brasil |archive-date=21 March 2024 |archive-url=https://web.archive.org/web/20240321221107/https://www.cnnbrasil.com.br/blogs/raquel-landim/politica/lula-envia-carta-a-putin-cumprimentando-pela-vitoria/ |url-status=live }}</ref>",
                       "url": "https://www.cnnbrasil.com.br/blogs/raquel-landim/politica/lula-envia-carta-a-putin-cumprimentando-pela-vitoria/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=Putsch>{{Cite news |date=2024-03-19 |title=Les putschistes du Sahel félicitent Vladimir Poutine pour sa réélection |url=https://www.lemonde.fr/afrique/article/2024/03/19/les-putschistes-du-sahel-felicitent-vladimir-poutine-pour-sa-reelection_6222861_3212.html |url-status=live |archive-url=https://web.archive.org/web/20240319220751/https://www.lemonde.fr/afrique/article/2024/03/19/les-putschistes-du-sahel-felicitent-vladimir-poutine-pour-sa-reelection_6222861_3212.html |archive-date=19 March 2024 |access-date=2024-03-19 |work=Le Monde |language=fr}}</ref>",
                       "url": "https://www.lemonde.fr/afrique/article/2024/03/19/les-putschistes-du-sahel-felicitent-vladimir-poutine-pour-sa-reelection_6222861_3212.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Chairman of the State Duma: consolidation of society around Vladimir Putin is a response to all enemies of Russia |url=http://duma.gov.ru/en/news/58993/ |access-date=18 March 2024 |agency=The State Duma |date=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318213512/http://duma.gov.ru/en/news/58993/ |url-status=live }}</ref>",
                       "url": "http://duma.gov.ru/en/news/58993/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-19 |title=CPP President congratulates Putin on his re-election as President of Russia |url=https://www.khmertimeskh.com/501458980/cpp-president-congratulates-putin-on-his-re-election-as-president-of-russia/ |access-date=2024-03-21 |website=Khmer Times |language=en-US |archive-date=22 March 2024 |archive-url=https://web.archive.org/web/20240322213407/https://www.khmertimeskh.com/501458980/cpp-president-congratulates-putin-on-his-re-election-as-president-of-russia/ |url-status=live }}</ref>",
                       "url": "https://www.khmertimeskh.com/501458980/cpp-president-congratulates-putin-on-his-re-election-as-president-of-russia/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-19 |title=RCA: le Président Touadera félicite Vladimir Poutine pour sa réélection |url=https://ndjonisango.com/2024/03/19/rca-le-president-touadera-felicite-vladimir-poutine-pour-sa-reelection/ |access-date=2024-03-21 |website=Ndjoni Sango |language=fr-FR |archive-date=21 March 2024 |archive-url=https://web.archive.org/web/20240321221109/https://ndjonisango.com/2024/03/19/rca-le-president-touadera-felicite-vladimir-poutine-pour-sa-reelection/ |url-status=live }}</ref>",
                       "url": "https://ndjonisango.com/2024/03/19/rca-le-president-touadera-felicite-vladimir-poutine-pour-sa-reelection/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=Putsch /> China,<ref name=China>{{cite news |title=Six more years of Putin will worry many countries. But not China |url=https://edition.cnn.com/2024/03/17/asia/russian-election-putin-china-north-korea-intl-hnk/index.html |access-date=18 March 2024 |work=CNN |date=18 March 2024 |language=en |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318002851/https://edition.cnn.com/2024/03/17/asia/russian-election-putin-china-north-korea-intl-hnk/index.html |url-status=live }}</ref>",
                       "url": "https://edition.cnn.com/2024/03/17/asia/russian-election-putin-china-north-korea-intl-hnk/index.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-19 |title=Présidentielle en Russie : Félix Tshisekedi félicite Vladimir Poutine pour sa réélection |url=https://actualite.cd/2024/03/19/presidentielle-en-russie-felix-tshisekedi-felicite-vladimir-poutine-pour-sa-reelection |access-date=2024-03-24 |website=Actualite.cd |language=fr}}</ref>",
                       "url": "https://actualite.cd/2024/03/19/presidentielle-en-russie-felix-tshisekedi-felicite-vladimir-poutine-pour-sa-reelection",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-19 |title=Le président de la République du Congo félicite Vladimir Poutine pour sa réélection à la présidence russe |url=https://french.xinhuanet.com/20240319/9318d4f06f3440609dc088e514eb2fe5/c.html |access-date=2024-03-22 |website=Xinhua News Agency |language=fr |archive-date=22 March 2024 |archive-url=https://web.archive.org/web/20240322213406/https://french.xinhuanet.com/20240319/9318d4f06f3440609dc088e514eb2fe5/c.html |url-status=live }}</ref>",
                       "url": "https://french.xinhuanet.com/20240319/9318d4f06f3440609dc088e514eb2fe5/c.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=China, India hail Putin's election win; West brands it 'illegal' |url=https://www.bssnews.net/international/179450 |access-date=18 March 2024 |work=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318213616/https://www.bssnews.net/international/179450 |url-status=live }}</ref>",
                       "url": "https://www.bssnews.net/international/179450",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-19 |title=Egyptian president congratulates Vladimir Putin on re-election wishing him success |url=https://www.egypttoday.com/Article/1/131106/Egyptian-president-congratulates-Vladimir-Putin-on-re-election-wishing-him |access-date=2024-03-19 |website=Egypt Today |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319190618/https://www.egypttoday.com/Article/1/131106/Egyptian-president-congratulates-Vladimir-Putin-on-re-election-wishing-him |url-status=live }}</ref>",
                       "url": "https://www.egypttoday.com/Article/1/131106/Egyptian-president-congratulates-Vladimir-Putin-on-re-election-wishing-him",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -1823,91 +1823,91 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-03-19 |title=Eritrea's President Congratulates Putin on Re-election |url=https://tesfanews.com/eritrea-president-isaias-afwerki-congratulates-putin-reelection/ |access-date=2024-03-21 |website=TesfaNews |language=en-US |archive-date=20 March 2024 |archive-url=https://web.archive.org/web/20240320191059/https://tesfanews.com/eritrea-president-isaias-afwerki-congratulates-putin-reelection/ |url-status=live }}</ref>",
                       "url": "https://tesfanews.com/eritrea-president-isaias-afwerki-congratulates-putin-reelection/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 202,
+                      "reason": "Accepted",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://tass.com/world/1761053|title=Leader of Honduras congratulates Putin on his 'convincing' election win |date=18 March 2024|access-date=29 July 2024|work=TASS}}</ref>",
                       "url": "https://tass.com/world/1761053",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |date=2024-03-21 |title=Hungary's Orban congratulates Russia's Putin on re-election |url=https://www.reuters.com/world/europe/hungarys-orban-congratulates-russias-putin-re-election-2024-03-21/ |access-date=2024-03-21 |work=Reuters}}</ref>",
                       "url": "https://www.reuters.com/world/europe/hungarys-orban-congratulates-russias-putin-re-election-2024-03-21/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Modi issues 'warm congratulations' to Putin after reelection |url=https://kyivindependent.com/modi-issues-warm-congratulations-to-putin-after-reelection/ |access-date=18 March 2024 |work=The Kyiv Independent |date=18 March 2024 |language=en |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318131400/https://kyivindependent.com/modi-issues-warm-congratulations-to-putin-after-reelection/ |url-status=live }}</ref>",
                       "url": "https://kyivindependent.com/modi-issues-warm-congratulations-to-putin-after-reelection/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Putin's reelection hailed by allies, decried by West |url=https://www.dw.com/en/putins-election-victory-hailed-by-allies-decried-by-west/a-68600433 |work=Deutsche Welle |date=18 March 2024 |access-date=19 March 2024 |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319095637/https://www.dw.com/en/putins-election-victory-hailed-by-allies-decried-by-west/a-68600433 |url-status=live }}</ref>",
                       "url": "https://www.dw.com/en/putins-election-victory-hailed-by-allies-decried-by-west/a-68600433",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Темиргалиева |first=Арайлым |date=2024-03-18 |title=Kassym-Jomart Tokayev congratulates Vladimir Putin on presidential election win |url=https://en.inform.kz/news/kassym-jomart-tokayev-congratulates-vladimir-putin-on-presidential-election-win-8ecc93/ |access-date=2024-03-19 |website=Kazinform |language=en |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319223213/https://en.inform.kz/news/kassym-jomart-tokayev-congratulates-vladimir-putin-on-presidential-election-win-8ecc93/ |url-status=live }}</ref>",
                       "url": "https://en.inform.kz/news/kassym-jomart-tokayev-congratulates-vladimir-putin-on-presidential-election-win-8ecc93/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=China /> Kuwait,<ref name=Arabia /> Kyrgyzstan,<ref>{{cite news |last1=Alybekova |first1=Meerimai |title=Japarov congratulates Vladimir Putin on his victory in presidential election |url=https://24.kg/english/289334_Japarov_congratulates_Vladimir_Putin_on_his_victory_in_presidential_election/ |access-date=18 March 2024 |agency=24.kg |date=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318213625/https://24.kg/english/289334_Japarov_congratulates_Vladimir_Putin_on_his_victory_in_presidential_election/amp/ |url-status=live }}</ref>",
                       "url": "https://24.kg/english/289334_Japarov_congratulates_Vladimir_Putin_on_his_victory_in_presidential_election/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://kpl.gov.la/EN/detail.aspx?id=81329|title=President Thongloun congratulates President-elect Vladimir V. Putin on his re-election|date=19 March 2024|access-date=29 July 2024|work=Lao News Agency}}</ref>",
                       "url": "https://kpl.gov.la/EN/detail.aspx?id=81329",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |title=Главы четырех стран поздравили Путина с победой на выборах |url=https://news.ru/world/glavy-chetyreh-vostochnyh-stran-pozdravili-putina-s-pobedoj-na-vyborah/ |date=2024-03-19 |access-date=2024-03-21 |work={{ill|News.ru|ru}} |trans-title=Heads of four countries congratulate Putin on his victory in the elections |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318224246/https://news.ru/world/glavy-chetyreh-vostochnyh-stran-pozdravili-putina-s-pobedoj-na-vyborah/ |url-status=live }}</ref>",
                       "url": "https://news.ru/world/glavy-chetyreh-vostochnyh-stran-pozdravili-putina-s-pobedoj-na-vyborah/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-19 |title=Assimi Goïta félicite Vladimir Poutine pour sa réélection |url=https://www.jeuneafrique.com/1549017/politique/assimi-goita-felicite-vladimir-poutine-pour-sa-reelection/ |url-status=live |archive-url=https://web.archive.org/web/20240319220752/https://www.jeuneafrique.com/1549017/politique/assimi-goita-felicite-vladimir-poutine-pour-sa-reelection/ |archive-date=19 March 2024 |access-date=2024-03-19 |website=Jeune Afrique |language=fr-FR}}</ref>",
                       "url": "https://www.jeuneafrique.com/1549017/politique/assimi-goita-felicite-vladimir-poutine-pour-sa-reelection/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-20 |title=HM the King Congratulates Putin on Re-election as President of Russia |url=https://www.maroc.ma/en/royal-activities/hm-king-congratulates-putin-re-election-president-russia |access-date=2024-03-21 |website=Maroc.ma |language=en |agency=Maghreb Arabe Presse |archive-date=20 March 2024 |archive-url=https://web.archive.org/web/20240320105030/https://www.maroc.ma/en/royal-activities/hm-king-congratulates-putin-re-election-president-russia |url-status=live }}</ref>",
                       "url": "https://www.maroc.ma/en/royal-activities/hm-king-congratulates-putin-re-election-president-russia",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Keffer |first1=Laura |title=Премьер Мьянмы поздравил Путина с победой на выборах |url=https://www.kommersant.ru/doc/6578810 |access-date=18 March 2024 |agency=Коммерсантъ |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318091839/https://www.kommersant.ru/doc/6578810 |url-status=live }}</ref>",
                       "url": "https://www.kommersant.ru/doc/6578810",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://tass.com/world/1760979|title=President of Nicaragua congratulates Putin on election victory |date=18 March 2024|access-date=29 July 2024|work=TASS}}</ref>",
                       "url": "https://tass.com/world/1760979",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -1921,42 +1921,42 @@
                     {
                       "text": "<ref>{{cite web|url=https://english.wafa.ps/Pages/Details/142559|title=President Abbas congratulates Russia's Putin on winning re-election |date=18 March 2024|access-date=29 July 2024|work=Wafa}}</ref>",
                       "url": "https://english.wafa.ps/Pages/Details/142559",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=Arabia /> the Sahrawi Arab Democratic Republic,<ref>{{Cite web |date=March 20, 2024 |title=President Brahim Ghali congratulates Vladimir Putin on his re-election as President of the Russian Federation |url=https://www.spsrasd.info/en/2024/03/20/2781.html |url-status=live |archive-url=https://web.archive.org/web/20240321153353/https://www.spsrasd.info/en/2024/03/20/2781.html |archive-date=March 21, 2024 |access-date=March 20, 2024 |website=Sahara Press Service}}</ref>",
                       "url": "https://www.spsrasd.info/en/2024/03/20/2781.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=Arabia /> Serbia,<ref>{{Cite news |date=2024-03-19 |title=Vučić čestitao Putinu pobedu na izborima |url=https://www.slobodnaevropa.org/a/vucic-cestitao-putinu-/32868839.html |access-date=2024-03-19 |work=Radio Slobodna Evropa |language=sh |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319220751/https://www.slobodnaevropa.org/a/vucic-cestitao-putinu-/32868839.html |url-status=live }}</ref>",
                       "url": "https://www.slobodnaevropa.org/a/vucic-cestitao-putinu-/32868839.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-21 |title=President Ramaphosa congratulates President Putin on his re-election |url=https://www.sanews.gov.za/south-africa/president-ramaphosa-congratulates-president-putin-his-re-election |access-date=2024-03-21 |website=South African Government News Agency |language=en |archive-date=21 March 2024 |archive-url=https://web.archive.org/web/20240321221111/https://www.sanews.gov.za/south-africa/president-ramaphosa-congratulates-president-putin-his-re-election |url-status=live }}</ref>",
                       "url": "https://www.sanews.gov.za/south-africa/president-ramaphosa-congratulates-president-putin-his-re-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-18 |title=President al-Assad congratulates Putin on victory in Russian presidential election |url=https://www.sana.sy/en/?p=327439 |access-date=2024-03-21 |website=Syrian Arab News Agency |language=en-US |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319103546/https://sana.sy/en/?p=327439 |url-status=live }}</ref>",
                       "url": "https://www.sana.sy/en/?p=327439",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://www.president.tj/event/calls/37136|title=Суҳбати телефонӣ бо Президенти Федератсияи Русия|lang=tg|date=18 March 2024|access-date=29 July 2024|work=President of Tajikistan}}</ref>",
                       "url": "https://www.president.tj/event/calls/37136",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -1970,78 +1970,78 @@
                     {
                       "text": "<ref>{{cite news |title=Эрдоган поздравил Путина с победой на выборах |url=https://iz.ru/1667629/2024-03-18/erdogan-pozdravil-putina-s-pobedoi-na-vyborakh |access-date=18 March 2024 |agency=Известия |date=18 March 2024}}</ref>",
                       "url": "https://iz.ru/1667629/2024-03-18/erdogan-pozdravil-putina-s-pobedoi-na-vyborakh",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://turkmenistan.gov.tm/en/post/81614/telephone-conversation-between-president-turkmenistan-and-president-russian-federation-7|title=Telephone conversation between the President of Turkmenistan and the President of the Russian Federation|date=19 March 2024|access-date=29 July 2024|work=Government of Turkmenistan}}</ref>",
                       "url": "https://turkmenistan.gov.tm/en/post/81614/telephone-conversation-between-president-turkmenistan-and-president-russian-federation-7",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=Arabia /> Uzbekistan,<ref>{{cite web|url=https://www.gazeta.uz/en/2024/03/18/reelection/|title=President of Uzbekistan congratulates Vladimir Putin on victory in presidential elections|date=18 March 2024|access-date=29 July 2024|work={{ill|Gazeta.uz|uz}}}}</ref>",
                       "url": "https://www.gazeta.uz/en/2024/03/18/reelection/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://tass.com/world/1760883|title=Venezuelan president congratulates Putin on winning Russian presidential election|date=17 March 2024|access-date=29 July 2024|work=TASS}}</ref>",
                       "url": "https://tass.com/world/1760883",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://e.vnexpress.net/news/news/vietnam-party-leader-congratulates-president-putin-over-re-election-4723897.html|title=Vietnam Party leader congratulates President Putin over re-election|date=18 March 2024|access-date=29 July 2024|work=Báo VnExpress|author=Huyen Le}}</ref>",
                       "url": "https://e.vnexpress.net/news/news/vietnam-party-leader-congratulates-president-putin-over-re-election-4723897.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-19 |title=President Al-Mashat congratulates Russian President Vladimir Putin on his election victory |url=https://www.saba.ye/en/news3314245.htm |access-date=2024-03-21 |website=www.saba.ye |language=en |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319044224/https://www.saba.ye/en/news3314245.htm |url-status=live }}</ref>",
                       "url": "https://www.saba.ye/en/news3314245.htm",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=President Mnangagwa congratulates President Putin on re-election |url=https://www.zbcnews.co.zw/?p=21765 |access-date=2024-03-21 |website=ZBC News |archive-date=21 March 2024 |archive-url=https://web.archive.org/web/20240321221110/https://www.zbcnews.co.zw/?p=21765 |url-status=live }}</ref>",
                       "url": "https://www.zbcnews.co.zw/?p=21765",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=Мадуро, Ким Чен Ын, Си и Раиси поздравили Путина с победой |url=https://www.svoboda.org/a/maduro-kim-chen-yn-i-ortega-pozdravili-putina-s-pobedoy/32865974.html |access-date=18 March 2024 |work=RFE/RL |date=18 March 2024 |language=ru |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318073435/https://www.svoboda.org/a/maduro-kim-chen-yn-i-ortega-pozdravili-putina-s-pobedoy/32865974.html |url-status=live }}</ref>",
                       "url": "https://www.svoboda.org/a/maduro-kim-chen-yn-i-ortega-pozdravili-putina-s-pobedoy/32865974.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-19 |title=Hamas leader congratulates Putin on his re-election as president and expresses hope for strengthening friendship |url=https://mind.ua/en/news/20271091-hamas-leader-congratulates-putin-on-his-re-election-as-president-and-expresses-hope-for-strengthenin |access-date=2024-03-21 |website=mind.ua |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319231658/https://mind.ua/en/news/amp/20271091-hamas-leader-congratulates-putin-on-his-re-election-as-president-and-expresses-hope-for-strengthenin |url-status=live }}</ref>",
                       "url": "https://mind.ua/en/news/20271091-hamas-leader-congratulates-putin-on-his-re-election-as-president-and-expresses-hope-for-strengthenin",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=Бжания поздравил Путина с победой на выборах президента РФ |url=https://tass.ru/mezhdunarodnaya-panorama/20271101 |access-date=18 March 2024 |agency=TASS |date=18 March 2024 |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318112210/https://tass.ru/mezhdunarodnaya-panorama/20271101 |url-status=live }}</ref>",
                       "url": "https://tass.ru/mezhdunarodnaya-panorama/20271101",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Президент Южной Осетии Гаглоев поздравил Путина с успехом на выборах |url=https://iz.ru/1667295/2024-03-18/prezident-iuzhnoi-osetii-gagloev-pozdravil-putina-s-uspekhom-na-vyborakh |access-date=18 March 2024 |date=18 March 2024 |work=Izvestia |language=ru |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318112200/https://iz.ru/1667295/2024-03-18/prezident-iuzhnoi-osetii-gagloev-pozdravil-putina-s-uspekhom-na-vyborakh |url-status=live }}</ref>",
                       "url": "https://iz.ru/1667295/2024-03-18/prezident-iuzhnoi-osetii-gagloev-pozdravil-putina-s-uspekhom-na-vyborakh",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -2063,71 +2063,71 @@
                     {
                       "text": "<ref>{{cite news |title=Navalny Calls for Election Day Protest Against Putin, Ukraine Invasion |url=https://www.themoscowtimes.com/2024/02/01/navalny-calls-for-election-day-protest-against-putin-ukraine-invasion-a83946 |work=The Moscow Times |date=1 February 2024 |access-date=16 February 2024 |archive-date=16 February 2024 |archive-url=https://web.archive.org/web/20240216211938/https://www.themoscowtimes.com/2024/02/01/navalny-calls-for-election-day-protest-against-putin-ukraine-invasion-a83946 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/02/01/navalny-calls-for-election-day-protest-against-putin-ukraine-invasion-a83946",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Kozlov |first1=Pyotr |title=Russia's Opposition in Exile Calls on EU Not to Recognize Putin's Election |url=https://www.themoscowtimes.com/2024/02/17/russias-opposition-in-exile-calls-on-eu-not-to-recognise-putins-election-a84118 |access-date=17 February 2024 |work=The Moscow Times |date=17 February 2024 |language=en |archive-date=17 February 2024 |archive-url=https://web.archive.org/web/20240217144926/https://www.themoscowtimes.com/2024/02/17/russias-opposition-in-exile-calls-on-eu-not-to-recognise-putins-election-a84118 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/02/17/russias-opposition-in-exile-calls-on-eu-not-to-recognise-putins-election-a84118",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Khodorkovsky |first1=Mikhail |author1-link=Mikhail Khodorkovsky |title=After Navalny's death, the West must get tougher on Putin |url=https://www.politico.eu/article/alexei-navalny-dead-russia-vladimir-putin-mikhail-khodorkovsky/ |access-date=17 February 2024 |work=POLITICO |date=16 February 2024 |language=en |archive-date=16 February 2024 |archive-url=https://web.archive.org/web/20240216223544/https://www.politico.eu/article/alexei-navalny-dead-russia-vladimir-putin-mikhail-khodorkovsky/ |url-status=live }}</ref>",
                       "url": "https://www.politico.eu/article/alexei-navalny-dead-russia-vladimir-putin-mikhail-khodorkovsky/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=\"Президент, убивший своего главного оппонента, не может быть легитимным\" Юлия Навальная призвала Евросоюз не признавать результаты выборов в РФ. \"Медуза\" публикует полный текст ее обращения |trans-title=\"A president that kills his main opponent cannot be legitimate.\" Yulia Navalnaya calls on the EU to not recognize the results of the elections in the Russian Federation. Meduza publishes the full text of her message |url=https://meduza.io/feature/2024/02/20/prezident-ubivshiy-svoego-glavnogo-opponenta-ne-mozhet-byt-legitimnym |access-date=20 February 2024 |work=Meduza |date=20 February 2024 |language=ru |archive-date=20 February 2024 |archive-url=https://web.archive.org/web/20240220143906/https://meduza.io/feature/2024/02/20/prezident-ubivshiy-svoego-glavnogo-opponenta-ne-mozhet-byt-legitimnym |url-status=live }}</ref>",
                       "url": "https://meduza.io/feature/2024/02/20/prezident-ubivshiy-svoego-glavnogo-opponenta-ne-mozhet-byt-legitimnym",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Gozzi |first1=Laura |title=Alexei Navalny: Widow urges Russians to protest on election day |url=https://www.bbc.com/news/world-europe-68479832 |access-date=7 March 2024 |work=BBC |date=6 March 2024 |language=en |archive-date=6 March 2024 |archive-url=https://web.archive.org/web/20240306193527/https://www.bbc.com/news/world-europe-68479832 |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/world-europe-68479832",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Yulia Navalnaya in Queue to Vote at Russian Embassy in Berlin |url=https://www.themoscowtimes.com/2024/03/17/yulia-navalnaya-in-queue-to-vote-at-russian-embassy-in-berlin-a84498 |access-date=17 March 2024 |work=The Moscow Times |date=17 March 2024 |language=en |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317143646/https://www.themoscowtimes.com/2024/03/17/yulia-navalnaya-in-queue-to-vote-at-russian-embassy-in-berlin-a84498 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/17/yulia-navalnaya-in-queue-to-vote-at-russian-embassy-in-berlin-a84498",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"bbclandslide\"/> In Russia, queues formed at polling stations in Moscow and Saint Petersburg at noon.<ref>{{cite news |title=Wave of Drones Target Russia on Final Day of Voting |url=https://www.themoscowtimes.com/2024/03/17/wave-of-drones-target-russia-on-final-day-of-voting-a84490 |access-date=17 March 2024 |work=The Moscow Times |date=17 March 2024 |language=en |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317134044/https://www.themoscowtimes.com/2024/03/17/wave-of-drones-target-russia-on-final-day-of-voting-a84490 |url-status=live }}</ref>",
-                      "url": "https://www.themoscowtimes.com/2024/03/17/wave-of-drones-target-russia-on-final-day-of-voting-a84490",
-                      "status_code": null,
+                      "url": "https://www.themoscowtimes.com/2024/03/17/exit-polls-show-putin-to-cement-hardline-rule-after-set-piece-vote-a84490",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"apcrowd\">{{cite news |title=Russians crowd polling stations in apparent protest as Putin is set to extend his rule |url=https://apnews.com/article/russia-election-putin-2024-updates-d4dcaa5c93dc44b745cec7d811831daa |access-date=17 March 2024 |work=Associated Press |date=17 March 2024 |language=en |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317054632/https://apnews.com/article/russia-election-putin-2024-updates-d4dcaa5c93dc44b745cec7d811831daa |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/russia-election-putin-2024-updates-d4dcaa5c93dc44b745cec7d811831daa",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"bbclandslide\" /><ref>{{cite news |title='Crowds Can't Be Rigged': Thousands of Russians in Serbia Protest Putin's Re-Election |url=https://www.themoscowtimes.com/2024/03/17/crowds-cant-be-rigged-thousands-of-russians-in-serbia-protest-putins-re-election-a84496 |access-date=18 March 2024 |work=The Moscow Times |date=18 March 2024 |language=en |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317235103/https://www.themoscowtimes.com/2024/03/17/crowds-cant-be-rigged-thousands-of-russians-in-serbia-protest-putins-re-election-a84496 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/17/crowds-cant-be-rigged-thousands-of-russians-in-serbia-protest-putins-re-election-a84496",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title= Podne protiv Putina ispred ruske Ambasade u Podgorici |url=https://m.cdm.me/drustvo/podne-protiv-putina-ispred-ruske-ambasade-u-podgorici/ |access-date=19 March 2024 |work=CdM |date=17 March 2024 |language=Montenegrin |archive-date=19 March 2024 |archive-url= https://web.archive.org/web/20240319075529/https://m.cdm.me/drustvo/podne-protiv-putina-ispred-ruske-ambasade-u-podgorici/ |url-status=live }}</ref>",
                       "url": "https://m.cdm.me/drustvo/podne-protiv-putina-ispred-ruske-ambasade-u-podgorici/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -2139,14 +2139,14 @@
                     {
                       "text": "<ref>{{cite news |title=Moscow Authorities Threaten Criminal Charges for Election Day Rallies |url=https://www.themoscowtimes.com/2024/03/14/moscow-authorities-threaten-criminal-charges-for-election-day-rallies-a84465 |access-date=15 March 2024 |work=The Moscow Times |date=14 March 2024 |language=en |archive-date=14 March 2024 |archive-url=https://web.archive.org/web/20240314213712/https://www.themoscowtimes.com/2024/03/14/moscow-authorities-threaten-criminal-charges-for-election-day-rallies-a84465 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/14/moscow-authorities-threaten-criminal-charges-for-election-day-rallies-a84465",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"mtvow\"/> In response to the Noon Against Putin protests abroad, foreign ministry spokesperson Maria Zakharova described the queues outside Russian embassies as evidence of support for the Kremlin.<ref>{{cite news |title=Exit Polls Show Putin to Cement Hardline Rule After Setpiece Vote |url=https://www.themoscowtimes.com/2024/03/17/exit-polls-show-putin-to-cement-hardline-rule-after-set-piece-vote-a84490 |access-date=18 March 2024 |work=The Moscow Times |date=18 March 2024 |language=en |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318011149/https://www.themoscowtimes.com/2024/03/17/exit-polls-show-putin-to-cement-hardline-rule-after-set-piece-vote-a84490 |url-status=live }}</ref>",
                       "url": "https://www.themoscowtimes.com/2024/03/17/exit-polls-show-putin-to-cement-hardline-rule-after-set-piece-vote-a84490",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }

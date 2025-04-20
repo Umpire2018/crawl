@@ -1,0 +1,527 @@
+{
+  "title": "2023_Peshawar_mosque_bombing",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "{{Main|Insurgency in Khyber Pakhtunkhwa}}\nFormed in 2007, the Pakistani Taliban has waged an ongoing insurgency against the Pakistani government in Khyber Pakhtunkhwa province with the goal of ousting the state and enforcing their own interpretation of Sharia|Sharia law. After waging deadly attacks across the nation during the late 2000s and early 2010s, the TTP's power would significantly diminish after several military offensives conducted against them Operation Zarb-e-Azb|in 2014 and Operation Radd-ul-Fasaad|2017, forcing the group to mostly retreat into neighbouring Afghanistan. After being driven out, the TTP under the leadership of Noor Wali Mehsud underwent several policy changes and mergers with other militant groups that would allow the organization to rebuild their strength. Among these mergers included the Jamaat-ul-Ahrar in 2020, a previous faction of the TTP which split from them in 2014. After Fall of Kabul (2021)|the Afghan Taliban took over Kabul in August 2021, the Pakistani government initially expected that the new Taliban|Islamic Emirate of Afghanistan would crack down on TTP safe havens within the country. However, the Afghan Taliban,  due to being ideological and historical allies with the TTP, refused to do so, resulting in the TTP increasing their attacks throughout Pakistan. After a treaty from June 2022 between the TTP and the government broke down in November, the TTP called on militants to launch attacks across Pakistan. Since then, attacks on Pakistani security forces rose dramatically in Khyber Pakhtunkhwa.",
+              "references": [
+                {
+                  "text": "<ref name=\":7\">{{Cite news |last1=Baloch |first1=Shah Meer |last2=Ellis-Petersen |first2=Hannah |date=2023-01-31 |title=North-west Pakistan in grip of deadly Taliban resurgence |url=https://www.theguardian.com/world/2023/jan/31/terrorists-north-west-pakistan-deadly-taliban-resurgence |access-date=2024-11-13 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>",
+                  "url": "https://www.theguardian.com/world/2023/jan/31/terrorists-north-west-pakistan-deadly-taliban-resurgence",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":7\" /><ref name=\":8\">{{Cite web |last1=Khan |first1=Riaz |last2=Ahmed |first2=Munir |date=2023-02-01 |title=Peshawar, the city of flowers, becomes epicenter of violence |url=https://apnews.com/article/pakistan-bombing-peshawar-center-of-violence-114a31bb53b3ebe1c9177174965fa91c |access-date=2024-11-13 |website=AP News |language=en}}</ref>",
+                  "url": "https://apnews.com/article/pakistan-bombing-peshawar-center-of-violence-114a31bb53b3ebe1c9177174965fa91c",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Sayed |first=Abdul |date=2021-12-21 |title=The Evolution and Future of Tehrik-e-Taliban Pakistan |url=https://carnegieendowment.org/research/2021/12/the-evolution-and-future-of-tehrik-e-taliban-pakistan?lang=en |access-date=2024-11-13 |website=Carnegie Endowment for International Peace |language=en}}</ref>",
+                  "url": "https://carnegieendowment.org/research/2021/12/the-evolution-and-future-of-tehrik-e-taliban-pakistan?lang=en",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":0\">{{Cite web |last=Ahmed |first=Samina |date=2023-03-29 |title=The Pakistani Taliban Test Ties between Islamabad and Kabul |url=https://www.crisisgroup.org/asia/south-asia/pakistan/pakistani-taliban-test-ties-between-islamabad-and-kabul |access-date=2024-11-13 |website=International Crisis Group}}</ref>",
+                  "url": "https://www.crisisgroup.org/asia/south-asia/pakistan/pakistani-taliban-test-ties-between-islamabad-and-kabul",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Joscelyn |first=Thomas |date=2020-08-17 |title=Pakistani Taliban splinter factions officially rejoin group |url=https://www.longwarjournal.org/archives/2020/08/pakistani-taliban-splinter-factions-officially-rejoin-group.php |access-date=2024-11-13 |website=FDD's Long War Journal |language=en-US}}</ref>",
+                  "url": "https://www.longwarjournal.org/archives/2020/08/pakistani-taliban-splinter-factions-officially-rejoin-group.php",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Ahmed |first=Munir |date=2023-01-31 |title=What's behind the Pakistani Taliban's insurgency? |url=https://apnews.com/article/afghanistan-organized-crime-taliban-pakistan-peshawar-2e8847a3735fb910b7a3cca53da721f4 |access-date=2024-11-13 |website=AP News |language=en}}</ref>",
+                  "url": "https://apnews.com/article/afghanistan-organized-crime-taliban-pakistan-peshawar-2e8847a3735fb910b7a3cca53da721f4",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2022-11-28 |title=Pakistan Taliban end ceasefire agreement, order nationwide attacks |url=https://www.newarab.com/news/pakistan-taliban-end-ceasefire-order-nationwide-attacks |access-date=2024-11-12 |website=The New Arab}}</ref>",
+                  "url": "https://www.newarab.com/news/pakistan-taliban-end-ceasefire-order-nationwide-attacks",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-02-02 |title=What is behind the rising violent attacks in Pakistan? |url=https://www.aljazeera.com/news/2023/2/2/what-is-behind-the-rising-attacks-in-pakistan |access-date=2024-11-13 |website=Al Jazeera |language=en}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/2/2/what-is-behind-the-rising-attacks-in-pakistan",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Bombing",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "On 30 January 2023, the perpetrator, an Afghan national identified as \"Qari\", was picked up by his driver on a motorcycle at Charsadda Mosque and taken to the Rahman Baba Graveyard in Peshawar, where he put on a police uniform and a concealed explosive vest. He was then dropped off within Peshawar's Red Zone near the Police Lines Mosque, which is located inside a high-security compound that includes the headquarters of the provincial police department and counterterrorism offices. CCTV footage shows that the suicide bomber approached the compound wearing his police uniform along with a helmet and mask and pushing a motorcycle as if it was broken down. After parking the motorcycle, he asked a constable for directions to the mosque and then entered it, the guards believing him to be a fellow officer and allowing him to pass through multiple exterior security checkpoints. Over 300 people, mostly police officers, were offering Zuhr prayer|Zuhr prayers at the time that the bomber entered, with the main hall of the mosque having a capacity of around 250 to 300 people. At approximately 1:30&nbsp;p.m. PST (UTC+5), the perpetrator detonated his vest containing 12 kilograms of TNT|trinitrotoluene, the explosion reportedly causing \"a huge burst of flames\" before a plume of black dust. The blast caused the main hall's wall and inner roof to collapse over the worshippers. Rescue workers arrived shortly after the bombing, though officials stated that most of the people they found had already died.<ref name=\":11\" /><ref name=\":10\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Husain |first=Fahhd |date=2024-11-13 |title=Macabre confessions of a terror facilitator |url=https://tribune.com.pk/story/2509260/macabre-confessions-of-a-terror-facilitator |access-date=2024-11-13 |website=The Express Tribune |language=en}}</ref>",
+                  "url": "https://tribune.com.pk/story/2509260/macabre-confessions-of-a-terror-facilitator",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":22\">{{cite web |date=31 January 2023 |title=Rescue operation continues after Pakistan blast that killed 92 |url=https://www.aljazeera.com/news/2023/1/30/peshawar-pakistan-mosque-explosion-casualties |url-status=live |archive-url=https://web.archive.org/web/20230130102529/http://www.aljazeera.com/news/2023/1/30/peshawar-pakistan-mosque-explosion-casualties |archive-date=30 January 2023 |access-date=30 January 2023 |work=Al Jazeera Media Network|Al Jazeera}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/1/30/peshawar-pakistan-mosque-explosion-casualties",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2 February 2023 |title='Closing in' on terror network: Peshawar mosque bomber was in police uniform, says KP IG |url=https://www.dawn.com/news/1734932 |url-status=live |archive-url=https://web.archive.org/web/20230202140713/https://www.dawn.com/news/1734932 |archive-date=2 February 2023 |access-date=2 February 2023 |website=Dawn |language=en}}</ref>",
+                  "url": "https://www.dawn.com/news/1734932",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":9\">{{Cite web |last1=Ahmad |first1=Jibran |last2=Mahsud |first2=Saud |date=2023-02-02 |title=Pakistan says mosque bomber wore police uniform, breached security on motorbike |url=https://www.reuters.com/world/asia-pacific/pakistan-says-mosque-bomber-wore-police-uniform-breached-security-motorbike-2023-02-02/ |url-status=live |archive-url=https://web.archive.org/web/20230202085659/https://www.reuters.com/world/asia-pacific/pakistan-says-mosque-bomber-wore-police-uniform-breached-security-motorbike-2023-02-02/ |archive-date=2023-02-02 |access-date=2024-11-13 |website=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/world/asia-pacific/pakistan-says-mosque-bomber-wore-police-uniform-breached-security-motorbike-2023-02-02/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":9\" /><ref name=\":10\">{{Cite web |last1=Saifi |first1=Sophia |last2=Mogul |first2=Rhea |last3=Mehsud |first3=Saleem |date=2023-02-02 |title=Pakistan mosque bomber was disguised as a policeman, official says |url=https://www.cnn.com/2023/02/02/asia/peshawar-mosque-attack-thursday-intl-hnk/index.html |access-date=2024-11-13 |website=CNN |language=en}}</ref>",
+                  "url": "https://edition.cnn.com/2023/02/02/asia/peshawar-mosque-attack-thursday-intl-hnk/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Khan |first=Riaz |date=2023-02-02 |title=Militant who killed 101 at Pakistan mosque wore uniform |url=https://apnews.com/article/afghanistan-crime-pakistan-government-peshawar-bf0181a7dd63973a15537c4da47ff9d3 |access-date=2024-11-13 |website=AP News |language=en}}</ref>",
+                  "url": "https://apnews.com/article/afghanistan-crime-pakistan-government-peshawar-bf0181a7dd63973a15537c4da47ff9d3",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-02-01 |title=Pakistan police arrest suspects over mosque attack – DW – 02/01/2023 |url=https://www.dw.com/en/pakistan-police-arrest-suspects-over-mosque-attack/a-64572947 |access-date=2024-11-13 |website=DW |language=en}}</ref>",
+                  "url": "https://www.dw.com/en/pakistan-police-arrest-suspects-over-mosque-attack/a-64572947",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":11\">{{Cite web |last1=Sirajuddin |last2=Hayat |first2=Arif |date=2023-01-30 |title=59 killed, 157 injured in blast at Peshawar Police Lines mosque |url=https://www.dawn.com/news/1734414 |access-date=2024-11-13 |website=Dawn |language=en}}</ref>",
+                  "url": "https://www.dawn.com/news/1734414",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":62\">{{Cite news |last1=Davies |first1=Carrie |last2=Gozzi |first2=Laura |last3=Cursino |first3=Malu |date=30 January 2023 |title=Pakistan mosque blast: Police targeted in suicide attack that kills 59 |url=https://www.bbc.com/news/world-asia-64451936 |url-status=live |archive-url=https://web.archive.org/web/20230130104225/https://www.bbc.com/news/world-asia-64451936 |archive-date=30 January 2023 |access-date=30 January 2023 |work=BBC News |language=en-GB}}</ref>",
+                  "url": "https://www.bbc.com/news/world-asia-64451936",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":42\">{{Cite web |last1=Saifi |first1=Sophia |last2=Mogul |first2=Rhea |last3=Mehsud |first3=Saleem |date=31 January 2023 |title=Death toll from blast in Pakistan mosque rises to at least 100 as country faces 'national security crisis' |url=https://www.cnn.com/2023/01/31/asia/pakistan-peshawar-mosque-blast-tuesday-intl-hnk/index.html |url-status=live |archive-url=https://web.archive.org/web/20230202025049/https://www.cnn.com/2023/01/31/asia/pakistan-peshawar-mosque-blast-tuesday-intl-hnk/index.html |archive-date=2 February 2023 |access-date=31 January 2023 |website=CNN |language=en}}</ref>",
+                  "url": "https://edition.cnn.com/2023/01/31/asia/pakistan-peshawar-mosque-blast-tuesday-intl-hnk/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Hussain |first=Abid |date=2023-01-31 |title=Peshawar mosque bombing survivors traumatised but undeterred |url=https://www.aljazeera.com/news/2023/1/31/never-imagined-pakistans-blast-victims-mourned |access-date=2024-11-13 |website=Al Jazeera |language=en}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/1/31/never-imagined-pakistans-blast-victims-mourned",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-02-04 |title=Death toll of Peshawar mosque blast revised down to 84: police |url=https://www.dawn.com/news/1735288 |url-status=live |archive-url=https://web.archive.org/web/20230317160929/https://www.dawn.com/news/1735288 |archive-date=17 March 2023 |access-date=2023-03-27 |website=Dawn |language=en}}</ref>",
+                  "url": "https://www.dawn.com/news/1735288",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Casualties",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "The attack killed 84 people (excluding the perpetrator) and wounded another 217.<ref name=\":10\" /> Initial reporting placed the death count of the attack at 101, but the number was later revised as Khyber Pakhtunkhwa Police Chief Moazzam Jah Ansari stated that some bodies of the victims were mistakenly counted twice.<ref name=\":122\" /><ref name=\":10\" /> Of the 84 victims, 83 were police officers while one was a female civilian worker at the compound.<ref name=\":122\" />",
+              "references": [
+                {
+                  "text": "<ref name=\":122\">{{Cite web |date=2023-02-02 |title=Police revise down death toll of Pakistan mosque blast near police HQ in Peshawar |url=https://english.alarabiya.net/News/world/2023/02/02/Police-revise-down-death-toll-of-Pakistan-mosque-blast-near-police-HQ-in-Peshawar |url-status=live |archive-url=https://web.archive.org/web/20230317125342/https://english.alarabiya.net/News/world/2023/02/02/Police-revise-down-death-toll-of-Pakistan-mosque-blast-near-police-HQ-in-Peshawar |archive-date=17 March 2023 |access-date=2023-03-27 |website=Al Arabiya English |language=en}}</ref>",
+                  "url": "https://english.alarabiya.net/News/world/2023/02/02/Police-revise-down-death-toll-of-Pakistan-mosque-blast-near-police-HQ-in-Peshawar",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Responsibility",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "Shortly after the bombing, Jamaat-ul-Ahrar leader Omar Mukaram Khurasani, along with senior member Sarbakaf Mohmand claimed responsibility for the attack in a Twitter post. Khurasani stated that bombing was conducted in retaliation to the death of Jamaat-ul-Ahrar founder and former leader Omar Khalid Khorasani, whom he states that Pakistani security forces had killed in August 2022.",
+              "references": [
+                {
+                  "text": "<ref name=\":1\">{{Cite web |date=2023-01-31 |title=Pakistan mourns as toll in Peshawar mosque blast rises to 100 |url=https://www.aljazeera.com/news/2023/1/31/pakistan-rescue-operation-peshawar-mosque-suicide-bombing |access-date=2024-11-13 |website=Al Jazeera |language=en}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/1/31/pakistan-rescue-operation-peshawar-mosque-suicide-bombing",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":42\" /><ref>{{Cite web |last=Khan |first=Riaz |date=2023-01-30 |title=Death toll in suicide bombing at mosque in Pakistan climbs to 59 people |url=https://www.pbs.org/newshour/world/suicide-bombing-at-a-mosque-in-pakistan-kills-34-people |access-date=2024-11-13 |website=PBS News |language=en-us}}</ref>",
+                  "url": "https://www.pbs.org/newshour/world/suicide-bombing-at-a-mosque-in-pakistan-kills-34-people",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":1\" /><ref name=\":0\" /> However, later on in the day TTP spokesperson Muhammad Khorasani issued a statement through Pakistani Taliban#Media|Umar Media, their official propaganda source, denying any responsibility for the attack, stating that the TTP has a policy that prohibits them from conducting any attacks within mosques.<ref name=\":42\" /> The statement did not comment on the previous claims of responsibility for the attack, nor did Jamaat-ul-Ahrar leaders issue a follow up statement.<ref name=\":13\">{{Cite web |last1=Saifi |first1=Sophia |last2=Mehsud |first2=Saleem |last3=Humayun |first3=Hira |date=30 January 2023 |title=Pakistani Taliban claims responsibility for mosque blast that killed more than 40 people |url=https://www.cnn.com/2023/01/30/asia/peshawar-pakistan-mosque-blast-intl/index.html |url-status=live |archive-url=https://web.archive.org/web/20230130121702/https://www.cnn.com/2023/01/30/asia/peshawar-pakistan-mosque-blast-intl/index.html |archive-date=30 January 2023 |access-date=30 January 2023 |website=CNN |language=en}}</ref>",
+                  "url": "https://edition.cnn.com/2023/01/30/asia/peshawar-pakistan-mosque-blast-intl/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last1=Sayed |first1=Abdul |last2=Hamming |first2=Tore |date=2023-05-18 |title=The Tehrik-i-Taliban Pakistan After the Taliban's Afghanistan Takeover |url=https://ctc.westpoint.edu/wp-content/uploads/2023/05/CTC-SENTINEL-052023.pdf |url-status= |access-date=2024-11-13 |website=CTC Westpoint}}</ref>",
+                  "url": "https://ctc.westpoint.edu/wp-content/uploads/2023/05/CTC-SENTINEL-052023.pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Analysis",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.2.s1",
+                  "text": "The TTP is an umbrella organization comprising a plethora of different factions, including Jamaat-ul-Ahrar. However, he states that the more likely situation was that the TTP was aware of the bombing and denies responsibility regardless, possibly relying on the fact that the groups relationships between their central leaders and various factions are complex and often confusing, giving them a level of plausible deniability.<ref name=\"LWJ 20232\" /> The International Crisis Group maintains that the TTP likely knew of Jamaat-ul-Ahrar's plans for the bombing, but subsequently backtracked on claiming it in fear of negative backlash towards the Taliban government in Afghanistan, who are housing TTP safehavens.<ref name=\":0\" />",
+                  "references": [
+                    {
+                      "text": "<ref name=\":0\" /> American terrorism commentator Bill Roggio suggested that Jamaat-ul-Ahrar may have launched the attack without the knowledge or approval of TTP leadership.<ref name=\"LWJ 20232\">{{cite web |last1=Roggio |first1=Bill |date=30 January 2023 |title=Pakistani Taliban kills scores in mosque bombing in Peshawar |url=https://www.longwarjournal.org/archives/2023/01/pakistani-taliban-kills-scores-in-mosque-bombing-in-peshawar.php |url-status=live |archive-url=https://web.archive.org/web/20230202025049/https://www.longwarjournal.org/archives/2023/01/pakistani-taliban-kills-scores-in-mosque-bombing-in-peshawar.php |archive-date=2 February 2023 |access-date=1 February 2023 |website=FDD's Long War Journal}}</ref>",
+                      "url": "https://www.longwarjournal.org/archives/2023/01/pakistani-taliban-kills-scores-in-mosque-bombing-in-peshawar.php",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Reactions",
+      "content": [
+        {
+          "id": "6.1",
+          "title": "Domestic",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.1.s1",
+                  "text": "Pakistani Prime Minister Shehbaz Sharif condemned the bombing, stating that the attack was incompatible with Islam and that the entirety of Pakistan stands against the \"menace of terrorism\". The attack was also condemned by Ministry of Interior (Pakistan)|Interior Minister Rana Sanaullah and Minister for Foreign Affairs (Pakistan)|Foreign Minister Bilawal Bhutto Zardari.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":62\" /> Former prime minister Imran Khan condemned the bombing, saying, \"It is imperative we improve our intelligence gathering and properly equip our police forces to combat the growing threat of terrorism.\"<ref>{{Cite news |last=Khan |first=Riaz |date=30 January 2023 |title=Suicide bomber kills 20, wounds 96 at mosque in NW Pakistan |url=https://www.washingtonpost.com/world/mosque-bombing-in-northwest-pakistan-kills-2-wounds-70/2023/01/30/25db023a-a07e-11ed-8b47-9863fda8e494_story.html |url-access=limited |url-status=live |archive-url=https://web.archive.org/web/20230131162647/https://www.washingtonpost.com/world/mosque-bombing-in-northwest-pakistan-kills-2-wounds-70/2023/01/30/25db023a-a07e-11ed-8b47-9863fda8e494_story.html |archive-date=31 January 2023 |access-date=30 January 2023 |newspaper=The Washington Post |language=en-US |issn=0190-8286}}</ref>",
+                      "url": "https://www.washingtonpost.com/world/mosque-bombing-in-northwest-pakistan-kills-2-wounds-70/2023/01/30/25db023a-a07e-11ed-8b47-9863fda8e494_story.html",
+                      "status_code": null,
+                      "reason": "Timeout",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last= |first= |date=2023-01-30 |title=Terror makes macabre return to Peshawar |url=https://tribune.com.pk/story/2398402/at-least-28-killed-150-injured-in-peshawar-police-line-mosque-blast |access-date=2024-11-13 |website=The Express Tribune |language=en}}</ref>",
+                      "url": "https://tribune.com.pk/story/2398402/at-least-28-killed-150-injured-in-peshawar-police-line-mosque-blast",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.1.s2",
+                  "text": "On 1 February 2023, dozens of police officers protested in Peshawar demanding that the government open an investigation into the bombing and how the perpetrator managed to infiltrate the compound. Throughout February 2023, protests amassing thousands of people would be held across Khyber Pakhtunkhwa against militarism and government inaction.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last= |first= |date=2023-02-01 |title=Police Officers In Peshawar Demonstrate To Demand Thorough Investigation Of Mosque Bombing |url=https://www.rferl.org/a/police-peshawar-demand-investigation-mosque-bombing/32251352.html |access-date=2024-11-13 |work=RadioFreeEurope/RadioLiberty |language=en}}</ref>",
+                      "url": "https://www.rferl.org/a/police-peshawar-demand-investigation-mosque-bombing/32251352.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last= |first= |date=2023-02-13 |title=Bannu erupts in anti-terror protest |url=https://tribune.com.pk/story/2400860/bannu-erupts-in-anti-terror-protest |access-date=2024-11-13 |website=The Express Tribune |language=en}}</ref>",
+                      "url": "https://tribune.com.pk/story/2400860/bannu-erupts-in-anti-terror-protest",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Ali |first=Manzoor |date=2023-02-05 |title=Massive rally in Peshawar against militancy despite ban |url=https://www.dawn.com/news/1735315 |access-date=2024-11-13 |website=Dawn |language=en}}</ref>",
+                      "url": "https://www.dawn.com/news/1735315",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Marwat |first1=Ghulam Akbar |last2=Badshah |first2=Saeed |date=2023-02-06 |title=Lakki, Mohmand erupt in anti-terror protests |url=https://tribune.com.pk/story/2399557/lakki-mohmand-erupt-in-anti-terror-protests |access-date=2024-11-13 |website=The Express Tribune |language=en}}</ref>",
+                      "url": "https://tribune.com.pk/story/2399557/lakki-mohmand-erupt-in-anti-terror-protests",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "International",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.2.s1",
+                  "text": "The bombing drew condemnation from India, Canada, China, the United States, Saudi Arabia, the United Arab Emirates, Qatar, and the United Nations, with Secretary-General of the United Nations|Secretary General António Guterres' spokesperson saying \"it is particularly abhorrent that such an attack occurred at a place of worship.\"",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Prakash |first=Aryan |date=31 January 2023 |title=India condemns Peshawar mosque attack, condoles families of deceased |url=https://www.hindustantimes.com/world-news/india-condemns-peshawar-mosque-attack-condoles-families-of-deceased-84675158729435.html |url-status=live |archive-url=https://web.archive.org/web/20230131104711/https://www.hindustantimes.com/world-news/india-condemns-peshawar-mosque-attack-condoles-families-of-deceased-101675158729435.html |archive-date=31 January 2023 |access-date=31 January 2023 |website=Hindustan Times |language=en}}</ref>",
+                      "url": "https://www.hindustantimes.com/world-news/india-condemns-peshawar-mosque-attack-condoles-families-of-deceased-84675158729435.html",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=31 January 2023 |title=Death toll in Pak's Peshawar suicide blast in mosque jumps to 83: Report |url=https://www.business-standard.com/article/international/death-toll-in-pak-s-peshawar-suicide-blast-in-mosque-jumps-to-83-report-123013100392_1.html |url-status=live |archive-url=https://web.archive.org/web/20230202025052/https://www.business-standard.com/article/international/death-toll-in-pak-s-peshawar-suicide-blast-in-mosque-jumps-to-83-report-123013100392_1.html |archive-date=2 February 2023 |access-date=31 January 2023 |website=Business Standard |language=en}}</ref>",
+                      "url": "https://www.business-standard.com/article/international/death-toll-in-pak-s-peshawar-suicide-blast-in-mosque-jumps-to-83-report-123013100392_1.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-02-02 |title='Will continue to support': China's Xi condemns Pakistan mosque attack |url=https://www.hindustantimes.com/world-news/will-continue-to-support-china-s-xi-condemns-pakistan-mosque-attack-101675277126577.html |url-status=live |archive-url=https://web.archive.org/web/20230214044044/https://www.hindustantimes.com/world-news/will-continue-to-support-china-s-xi-condemns-pakistan-mosque-attack-101675277126577.html |archive-date=14 February 2023 |access-date=2023-02-14 |website=Hindustan Times |language=en}}</ref>",
+                      "url": "https://www.hindustantimes.com/world-news/will-continue-to-support-china-s-xi-condemns-pakistan-mosque-attack-101675277126577.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=30 January 2023 |title=At least 59 killed, 157 injured in explosion inside mosque near Police Lines in Peshawar |url=https://www.brecorder.com/news/40223293 |url-status=live |archive-url=https://web.archive.org/web/20230130162036/https://www.brecorder.com/news/40223293 |archive-date=30 January 2023 |access-date=31 January 2023 |website=Business Recorder |language=en}}</ref>",
+                      "url": "https://www.brecorder.com/news/40223293",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Kan |first1=Riaz |last2=Ahmed |first2=Munir |date=31 January 2023 |title=Pakistan blames 'security lapse' for mosque blast, 100 dead |url=https://apnews.com/article/pakistan-mosque-bombing-death-toll-rises-fdbc592dfd3b9a23ec2081b635d65b6e |url-status=live |archive-url=https://web.archive.org/web/20230131135606/https://apnews.com/article/pakistan-mosque-bombing-death-toll-rises-fdbc592dfd3b9a23ec2081b635d65b6e |archive-date=31 January 2023 |access-date=31 January 2023 |website=AP News |language=en}}</ref>",
+                      "url": "https://apnews.com/article/pakistan-mosque-bombing-death-toll-rises-fdbc592dfd3b9a23ec2081b635d65b6e",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Bin Sahid |first1=Mohammad |date=31 January 2023 |title=قصف باكستان: دول الخليج تدين الهجوم المميت |url=https://crucibleinstitute.org/2023/01/%D9%82%D8%B5%D9%81-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D9%85/ |url-status=live |archive-url=https://web.archive.org/web/20230205053333/https://crucibleinstitute.org/2023/01/%D9%82%D8%B5%D9%81-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D9%85/ |archive-date=5 February 2023 |access-date=5 February 2023 |website=Crucible Institute |language=ar}}</ref>",
+                      "url": "https://crucibleinstitute.org/2023/01/%D9%82%D8%B5%D9%81-%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC-%D8%AA%D8%AF%D9%8A%D9%86-%D8%A7%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D9%85/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=30 January 2023 |title=Pakistan mosque blast: Police targeted in suicide attack that kills 59 |url=https://www.bbc.com/news/world-asia-64451936 |url-status=live |archive-url=https://web.archive.org/web/20230130104225/https://www.bbc.com/news/world-asia-64451936 |archive-date=30 January 2023 |access-date=3 February 2023 |work=BBC News |language=en-GB}}</ref>",
+                      "url": "https://www.bbc.com/news/world-asia-64451936",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=30 January 2023 |title=Saudi Arabia condemns suicide attack on Pakistan mosque |url=https://arab.news/ys8h7 |url-status=live |archive-url=https://web.archive.org/web/20230202025108/https://www.arabnews.com/node/2241641/saudi-arabia |archive-date=2 February 2023 |access-date=30 January 2023 |website=Arab News |language=en}}</ref>",
+                      "url": "https://www.arabnews.com/node/2241641/saudi-arabia",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":03\">{{Cite web |date=30 January 2023 |title=Breaking: At Least 90 Injured In Blast Inside Peshawar Mosque In Pakistan |url=https://www.india.com/news/world/pakistan-mosque-blast-several-injured-in-peshawar-suicide-attack-death-toll-live-updates-5875701/ |url-status=live |archive-url=https://web.archive.org/web/20230130150234/https://www.india.com/news/world/pakistan-mosque-blast-several-injured-in-peshawar-suicide-attack-death-toll-live-updates-5875701/ |archive-date=30 January 2023 |access-date=30 January 2023 |website=Zee Media Corporation#Online|India.com |language=en}}</ref>",
+                      "url": "https://www.india.com/news/world/pakistan-mosque-blast-several-injured-in-peshawar-suicide-attack-death-toll-live-updates-5875701/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.2.s2",
+                  "text": "Ministry of Foreign Affairs (Afghanistan)|Afghan Foreign Minister Amir Khan Muttaqi denied that the perpetrators had conducted the attack from Afghan soil, stating that the Pakistani government should pursue a solution to curb militant activity in their country.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |date=2023-02-01 |title=Taliban Tell Pakistan Not to Blame Afghanistan for Mosque Bombing |url=https://www.voanews.com/a/taliban-tell-pakistan-not-to-blame-afghanistan-for-mosque-bombing-/6943345.html |access-date=2024-11-13 |website=Voice of America |language=en}}</ref>",
+                      "url": "https://www.voanews.com/a/taliban-tell-pakistan-not-to-blame-afghanistan-for-mosque-bombing-/6943345.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "On 20 June 2023, Sarbakaf Mohmand, one of the main perpetrators of the bombing and a commander of Jamaat-ul-Ahrar and the TTP, died in Afghanistan.<ref name=\":13\" /> His death was the result of infighting between Jamaat ul-Ahrar and other factions within the TTP, with some suspecting that he had been poisoned by Noor Wali Mehsud in a power struggle.<ref name=\":13\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Rehman |first=Laiq Ur |date=2023-06-20 |title=TTP commander Sarbakaf Mohmand dies mysteriously |url=https://arynews.tv/ttp-commander-sarbakaf-mohmand-dies-mysteriously/ |access-date=2024-11-13 |website=ARY News |language=en-US}}</ref>",
+                  "url": "https://arynews.tv/ttp-commander-sarbakaf-mohmand-dies-mysteriously/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "7.s2",
+              "text": "On 12 November 2024, Pakistani authorities arrested a police officer accused of facilitating the bombing. During his confession, constable Muhammad Wali stated that through Facebook he had been in contact with a Jamaat-ul-Ahrar recruiter identified as \"Junaid\" from Afghanistan in 2021, convincing him to travel through the Chaman border crossing and join the group in the same year, receiving 20,000 Pakistani rupee|rupees in return. While returning to Pakistan he was arrested by Afghan authorities but subsequently released after intervention from Jamaat-ul-Ahrar. On the day of the attack, Wali dropped off the bomber near the mosque after providing him with a police uniform and suicide vest and conducted reconnaissance while he carried out the bombing.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |date=12 November 2024 |title=Police officer arrested over deadly 2023 suicide bombing at Pakistan mosque |url=https://apnews.com/article/pakistan-arrest-peshawar-suicide-bombing-bc056da2cd2c598b9bf781815a8ea597 |access-date=12 November 2024 |work=Associated Press}}</ref>",
+                  "url": "https://apnews.com/article/pakistan-arrest-peshawar-suicide-bombing-bc056da2cd2c598b9bf781815a8ea597",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |last= |first= |date=2024-11-12 |title=Facilitator of Peshawar Police Lines blast makes shocking revelations |url=https://arynews.tv/peshawar-police-lines-blast-facilitator-makes-shocking-revelations/ |access-date=2024-11-13 |website=ARY News |language=en-US}}</ref>",
+                  "url": "https://arynews.tv/peshawar-police-lines-blast-facilitator-makes-shocking-revelations/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":14\">{{Cite web |last= |first= |date=2024-11-12 |title=Main suspect in Peshawar police line attack arrested |url=https://tribune.com.pk/story/2509080/policeman-arrested-over-deadly-peshawar-police-lines-blast |access-date=2024-11-13 |website=The Express Tribune |language=en}}</ref>",
+                  "url": "https://tribune.com.pk/story/2509080/policeman-arrested-over-deadly-peshawar-police-lines-blast",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":14\" /> In January 2023 Wali sent pictures and a map of the police compound to his handler via Telegram (software)|Telegram.<ref name=\":14\" /><ref>{{Cite web |last= |first= |date=2024-11-12 |title=Police officer arrested over deadly 2023 suicide bombing at Pakistan mosque |url=https://abcnews.go.com/International/wireStory/police-officer-arrested-deadly-2023-suicide-bombing-pakistan-115762764 |access-date=2024-11-13 |website=ABC News (United States)|ABC News |language=en}}</ref>",
+                  "url": "https://abcnews.go.com/International/wireStory/police-officer-arrested-deadly-2023-suicide-bombing-pakistan-115762764",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":14\" /> The suspect reportedly received 200,000 rupees through the hundi-hawala system after the bombing and had also been involved in coordinating several other Jamaat-ul-Ahrar attacks prior to his capture.<ref>{{Cite web |last= |date=2024-11-12 |title=Arrested facilitator of 2023 Peshawar Police Lines blast was 'our own policeman': KP IG |url=https://www.dawn.com/news/1871897/facilitator-of-2023-peshawar-police-lines-blast-arrested-kp-ig |access-date=2024-11-13 |website=Dawn (newspaper)|Dawn |language=en}}</ref>",
+                  "url": "https://www.dawn.com/news/1871897/facilitator-of-2023-peshawar-police-lines-blast-arrested-kp-ig",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last= |first= |date=2024-11-12 |title=Peshawar Police Lines blast: Cop who took Rs200,000 to facilitate attack arrested, says IG KP |url=https://arynews.tv/peshawar-police-lines-suicide-bombing-key-suspect-arrested/ |access-date=2024-11-13 |website=ARY News |language=en-US}}</ref>",
+                  "url": "https://arynews.tv/peshawar-police-lines-suicide-bombing-key-suspect-arrested/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

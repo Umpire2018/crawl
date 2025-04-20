@@ -1,0 +1,575 @@
+{
+  "title": "2023_Swiss_federal_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "Federal elections were held in Switzerland on 22 October 2023 to elect all members of the National Council (Switzerland)|National Council and Council of States (Switzerland)|Council of States.{{Efn|Date for the National Council election and first round of the Council of States election; dates for the runoffs to the Council of States vary between the cantons.}} The elections were followed by 2023 Swiss Federal Council election|elections to the Federal Council, Switzerland's government and collegial presidency, on 13 December.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Election calendar |url=https://www.ch.ch/en/elections2023/election-calendar/ |access-date=2023-10-10 |website=www.ch.ch |language=en |archive-date=2023-03-30 |archive-url=https://web.archive.org/web/20230330005715/https://www.ch.ch/en/elections2023/election-calendar/ |url-status=live }}</ref>",
+                  "url": "https://www.ch.ch/en/elections2023/election-calendar/",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite act|type=Circular|index=FF 2022 2547|date=19 October 2022|title=Circulaire du Conseil fédéral aux gouvernements cantonaux concernant les élections pour le renouvellement intégral du Conseil national du 22 octobre 2023|trans-title=Circular of the Federal Council to the cantonal governments regarding the elections for the full renewal of the National Council of 22 October 2023|url=https://www.fedlex.admin.ch/eli/fga/2022/2547/fr|language=French}} {{Webarchive|url=https://web.archive.org/web/20231010113155/https://www.fedlex.admin.ch/eli/fga/2022/2547/fr |date=10 October 2023 }}</ref>",
+                  "url": "https://www.fedlex.admin.ch/eli/fga/2022/2547/fr",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "act"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Timeline",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The election timeline is:\n* '''Mid-October 2022''': Official information to the cantons and parties\n* '''31 December 2022''': Deadline for party registration\n* '''1 March 2023''': Publication of the candidacy deadlines for the National Council\n* '''30 April''': Landsgemeinde in Appenzell-Innerrhoden (Council of States election in the canton)\n* '''1 May''': Update of the party register\n* '''August''': Candidacy deadline for the National Council in the cantons using proportional representation\n* '''September''': Delivery of the electoral guide to the cantons\n* '''4 September''': Candidacy deadline for the cantons using majoritarian vote with possibility of Uncontested election|walkover\n* '''Late September''': Delivery of the voting material\n* '''22 October''': Election day (National Council & 1st round for the Council of States)\n* '''Late October''': Publication of the official results\n* '''12 November''': Eventual runoffs for the Council of States in six cantons representing 12 seats (FR, GE, GR, TG, VD, VS)\n* '''19 November''': Eventual runoffs for the Council of States in ten cantons representing 19 seats (AG, BE, BL, GL, SG, SH, SO, TI, ZG, ZH)<ref name=\":0\" />\n* '''26 November''': Eventual runoffs for the Council of States in six cantons representing 9 seats (AR, BS, LU, NW, SZ, UR)<ref name=\":0\" />\n* '''4 December''': Opening of the new National Council and oath-taking\n* '''13 December''': 2023 Swiss Federal Council election|Election of the Federal Council",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Calendrier électoral |url=https://www.ch.ch/fr/elections2023/calendrier-electoral/ |access-date=2023-01-07 |website=www.ch.ch |language=fr |archive-date=2023-01-07 |archive-url=https://web.archive.org/web/20230107163648/https://www.ch.ch/fr/elections2023/calendrier-electoral/ |url-status=live }}</ref>",
+                  "url": "https://www.ch.ch/fr/elections2023/calendrier-electoral/",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Landsgemeinde 2023 — Appenzell Innerrhoden |url=https://www.ai.ch/politik/landsgemeinde/daten-landsgemeinde/landsgemeinde-2023 |access-date=2023-01-07 |website=www.ai.ch |archive-date=2023-01-07 |archive-url=https://web.archive.org/web/20230107202250/https://www.ai.ch/politik/landsgemeinde/daten-landsgemeinde/landsgemeinde-2023 |url-status=live }}</ref>",
+                  "url": "https://www.ai.ch/politik/landsgemeinde/daten-landsgemeinde/landsgemeinde-2023",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":0\">{{Cite web |title=Second round of voting in Council of States elections |url=https://www.ch.ch/en/elections2023/electing-the-parliament/council-of-states:-dates-of-the-second-rounds |access-date=2023-10-04 |website=www.ch.ch |language=en |archive-date=2023-10-10 |archive-url=https://web.archive.org/web/20231010113215/https://www.ch.ch/en/elections2023/electing-the-parliament/council-of-states:-dates-of-the-second-rounds |url-status=live }}</ref>",
+                  "url": "https://www.ch.ch/en/elections2023/electing-the-parliament/council-of-states:-dates-of-the-second-rounds",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Electoral system",
+      "content": [
+        {
+          "id": "3.1",
+          "title": "National Council",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.1.s1",
+                  "text": "The 200 members of the National Council are elected from the Cantons of Switzerland|26 cantons, each of which constitutes a constituency. In all multi-member cantons Open list|open-list proportional representation is used; with apparentments for allied parties and sub-apparentments for lists within parties, where apparented lists are initially counted together for seats allocation. Seats are allocated using the Hagenbach-Bischoff system with no threshold. Voters may cross out names on party lists or write names twice, split their vote between parties (a system known as panachage), or draw up their own list on a blank ballot. The six single-member cantons use first-past-the-post voting.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=Organisation of the National Council election |url=https://www.ch.ch/en/elections2023/how-the-elections-are-organised/national-council-elections/ |access-date=2023-01-07 |website=www.ch.ch |language=en |archive-date=2023-01-07 |archive-url=https://web.archive.org/web/20230107202254/https://www.ch.ch/en/elections2023/how-the-elections-are-organised/national-council-elections/ |url-status=live }}</ref>",
+                      "url": "https://www.ch.ch/en/elections2023/how-the-elections-are-organised/national-council-elections/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.1.s2",
+                  "text": "Seats in the National Council are apportioned to the cantons based on their respective population size (which includes children and resident foreigners who do not have the right to vote). Based on the official population count recorded at the end of 2020, Basel-Stadt lost a seat while Zürich gained one. Zürich is the canton with the most seats (36).",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=Renouvellement intégral du Conseil national en 2023 : modification de la répartition des sièges entre les cantons |url=https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-84941.html |access-date=2023-01-07 |website=www.admin.ch |archive-date=2023-01-07 |archive-url=https://web.archive.org/web/20230107202248/https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-84941.html |url-status=live }}</ref>",
+                      "url": "https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-84941.html",
+                      "status_code": 202,
+                      "reason": "Accepted",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.1.s3",
+                  "text": "{| class=\"wikitable sortable\" style=\"font-size:95%; text-align:right;\"\n|+ Apportionment of National Council seats by canton in 2023\n! Canton || Population || Seats || {{abbr|+/−|Difference compared to 2019}} || Pop. by seat\n|-\n| style=\"text-align:left;\" | {{flag|Zürich}} || {{formatnum:1553423}} || 36 || {{yes|+1}} || {{formatnum:43151}}\n|-\n| style=\"text-align:left;\" | {{flag|Bern}} || {{formatnum:1043132}} || 24 || ±0 || {{formatnum:43464}}\n|-\n| style=\"text-align:left;\" | {{flag|Lucerne}} || {{formatnum:416347}} || 9 || ±0 || {{formatnum:46261}}\n|-\n| style=\"text-align:left;\" | {{flag|Uri}} || {{formatnum:36819}} || 1 || ±0 || {{formatnum:36819}}\n|-\n| style=\"text-align:left;\" | {{flag|Schwyz}} || {{formatnum:162157}} || 4 || ±0 || {{formatnum:40539}}\n|-\n| style=\"text-align:left;\" | {{flag|Obwalden}} || {{formatnum:38108}} || 1 || ±0 || {{formatnum:38108}}\n|-\n| style=\"text-align:left;\" | {{flag|Nidwalden}} || {{formatnum:43520}} || 1 || ±0 || {{formatnum:43520}}\n|-\n| style=\"text-align:left;\" | {{flag|Glarus}} || {{formatnum:40851}} || 1 || ±0 || {{formatnum:40851}}\n|-\n| style=\"text-align:left;\" | {{flag|Zug}} || {{formatnum:128794}} || 3 || ±0 || {{formatnum:42931}}\n|-\n| style=\"text-align:left;\" | {{flag|Fribourg}} || {{formatnum:325496}} || 7 || ±0 || {{formatnum:46499}}\n|-\n| style=\"text-align:left;\" | {{flag|Solothurn}} || {{formatnum:277462}} || 6 || ±0 || {{formatnum:46244}}\n|-\n| style=\"text-align:left;\" | {{flag|Basel-Stadt}} || {{formatnum:196735}} || 4 || {{no|−1}} || {{formatnum:49184}}\n|-\n| style=\"text-align:left;\" | {{flag|Basel-Landschaft}} || {{formatnum:290969}} || 7 || ±0 || {{formatnum:41567}}\n|-\n| style=\"text-align:left;\" | {{flag|Schaffhausen}} || {{formatnum:83107}} || 2 || ±0 || {{formatnum:41554}}\n|-\n| style=\"text-align:left;\" | {{flag|Appenzell Ausserrhoden}} || {{formatnum:55309}} || 1 || ±0 || {{formatnum:55309}}\n|-\n| style=\"text-align:left;\" | {{flag|Appenzell Innerrhoden}} || {{formatnum:16293}} || 1 || ±0 || {{formatnum:16293}}\n|-\n| style=\"text-align:left;\" | {{flag|St. Gallen}} || {{formatnum:514504}} || 12 || ±0 || {{formatnum:42875}}\n|-\n| style=\"text-align:left;\" | {{flag|Grisons}} || {{formatnum:200096}} || 5 || ±0 || {{formatnum:40019}}\n|-\n| style=\"text-align:left;\" | {{flag|Aargau}} || {{formatnum:694072}} || 16 || ±0 || {{formatnum:43380}}\n|-\n| style=\"text-align:left;\" | {{flag|Thurgau}} || {{formatnum:282909}} || 6 || ±0 || {{formatnum:47152}}\n|-\n| style=\"text-align:left;\" | {{flag|Ticino}} || {{formatnum:350986}} || 8 || ±0 || {{formatnum:43873}}\n|-\n| style=\"text-align:left;\" | {{flag|Vaud}} || {{formatnum:814762}} || 19 || ±0 || {{formatnum:42882}}\n|-\n| style=\"text-align:left;\" | {{flag|Valais}} || {{formatnum:348503}} || 8 || ±0 || {{formatnum:43563}}\n|-\n| style=\"text-align:left;\" | {{flag|Neuchâtel}} || {{formatnum:175894}} || 4 || ±0 || {{formatnum:43974}}\n|-\n| style=\"text-align:left;\" | {{flag|Geneva}} || {{formatnum:506343}} || 12 || ±0 || {{formatnum:42195}}\n|-\n| style=\"text-align:left;\" | {{flag|Jura}} || {{formatnum:73709}} || 2 || ±0 || {{formatnum:36855}}\n|-\n! style=\"text-align:left;\" | {{flag|Switzerland|name=Total}} || {{formatnum:8670300}} || 200 || ±0 || {{formatnum:43352}}\n|-\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite swiss law|en=Ordinance on the apportionment of seats for the full renewal of the National Council|fr=Ordonnance sur la répartition des sièges lors du renouvellement intégral du Conseil national|link=161_13|sr=161.13|de=Verordnung über die Sitzverteilung bei der Gesamterneuerung des Nationalrates|date=2021-09-01}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "swiss"
+                    },
+                    {
+                      "text": "<ref>{{Cite law|type=Order (arrêté)|date=1 September 2021|title=Arrêté du Conseil fédéral homologuant les chiffres de la population résidante permanente à la fin de 2020|trans-title=Order of the Federal Council accrediting the permanent resident population figures at the end of 2020|url=https://www.newsd.admin.ch/newsd/message/attachments/68031.pdf}} {{Webarchive|url=https://web.archive.org/web/20221110142419/https://www.newsd.admin.ch/newsd/message/attachments/68031.pdf |date=10 November 2022 }}</ref>",
+                      "url": "https://www.newsd.admin.ch/newsd/message/attachments/68031.pdf}}",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "law"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Council of States",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "The 46 members of the Council of States are elected in 20 two-seat constituencies (representing the 20 'full' cantons) and six single-member constituencies (representing the six half-cantons). Two 'full' cantons with small populations – Canton of Uri|Uri and Canton of Glarus|Glarus – each have two seats in the Council of States but only one seat each in the much larger National Council.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=IPU PARLINE database: SWITZERLAND (Ständerat – Conseil des États – Consiglio degli Stati), Electoral system |url=http://archive.ipu.org/parline-e/reports/2306_B.htm |access-date=2023-01-07 |website=archive.ipu.org |archive-date=2022-12-09 |archive-url=https://web.archive.org/web/20221209025251/http://archive.ipu.org/parline-e/reports/2306_B.htm |url-status=live }}</ref>",
+                      "url": "http://archive.ipu.org/parline-e/reports/2306_B.htm",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "3.2.s2",
+                  "text": "Elections to the Council of States are regulated by the cantons. The cantons of Canton of Jura|Jura and Canton of Neuchâtel|Neuchâtel use proportional representation, while all the others use a majoritarian system, often with Two-round system|two rounds of voting. In the first round voters typically have up to two votes and candidates need an overall majority to be elected; if seats remain to be filled a runoff is held using simple plurality. All cantons, except Appenzell-Innerrhoden, which elects its state councilor during the Landsgemeinde in April, hold the first round concurrently with the National Council election, but the dates for the runoffs vary.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=Organisation of the Council of States elections |url=https://www.ch.ch/en/elections2023/how-the-elections-are-organised/council-of-states-elections/ |access-date=2023-01-07 |website=www.ch.ch |language=en |archive-date=2023-01-07 |archive-url=https://web.archive.org/web/20230107202250/https://www.ch.ch/en/elections2023/how-the-elections-are-organised/council-of-states-elections/ |url-status=live }}</ref>",
+                      "url": "https://www.ch.ch/en/elections2023/how-the-elections-are-organised/council-of-states-elections/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Contesting parties",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "The table below lists contesting parties represented in the Federal Assembly (Switzerland)|Federal Assembly before the election.\n{| class=\"wikitable\"\n! rowspan=\"2\" colspan=\"3\"| Name\n! rowspan=\"2\"| Political group\n! rowspan=\"2\"| Ideology\n! rowspan=\"2\"| Leader(s)\n! colspan=\"3\"| 2019 result\n|-\n! Votes (%)\n! National Council\n! Council of States\n|-\n| style=\"background:{{party color|Swiss People's Party}};\"|\n| style=\"text-align:center;\"| '''SVP / UDC'''\n| Swiss People's Party\n| Swiss People's Party group (V)\n| National conservatism<br />Right-wing populism\n| Marco Chiesa\n| style=\"text-align:center;\"| 25.6%\n| {{Composition bar|53|200|{{party color|Swiss People's Party}}}}\n| {{Composition bar|6|46|{{party color|Swiss People's Party}}}}\n|-\n| style=\"background:{{party color|Social Democratic Party of Switzerland}};\"|\n| style=\"text-align:center;\"| '''SP / PS'''\n| Social Democratic Party of Switzerland|Social Democratic Party\n| Social Democratic group (Switzerland)|Social Democratic group (S)\n| Social democracy<br />Democratic socialism\n| Mattea Meyer & Cédric Wermuth\n| style=\"text-align:center;\"| 16.8%\n| {{Composition bar|39|200|{{party color|Social Democratic Party of Switzerland}}}}\n| {{Composition bar|9|46|{{party color|Social Democratic Party of Switzerland}}}}\n|-\n| style=\"background:{{party color|Free Democratic Party of Switzerland}};\"|\n| style=\"text-align:center;\"| '''FDP / PLR'''\n| FDP.The Liberals\n| FDP-Liberal group (RL)\n| {{Nowrap|Liberalism<br />Conservative liberalism}}\n| Thierry Burkart\n| style=\"text-align:center;\"| 15.1%\n| {{Composition bar|29|200|{{party color|Free Democratic Party of Switzerland}}}}\n| {{Composition bar|12|46|{{party color|Free Democratic Party of Switzerland}}}}\n|-\n| style=\"background:{{party color|The Centre (political party)}};\"|\n| style=\"text-align:center;\"| '''DM / LC / AdC'''\n| The Centre (political party)|The Centre\n| The Centre group (M-E)\n| Centrism<br />Social conservatism\n| Gerhard Pfister\n| style=\"text-align:center;\"| 13.8%\n| {{Composition bar|28|200|{{party color|Christian Democratic People's Party of Switzerland}}}}\n| {{Composition bar|13|46|{{party color|Christian Democratic People's Party of Switzerland}}}}\n|-\n| style=\"background:{{party color|Green Party of Switzerland}};\" |\n| style=\"text-align:center;\" |'''GRÜNE / VERT-E-S'''\n|Green Party of Switzerland|Green Party\n|Greens group (G) \n|Green politics<br />Progressivism\n|Balthasar Glättli\n| style=\"text-align:center;\" | 13.2%\n|{{Composition bar|28|200|{{party color|Green Party of Switzerland}}}}\n|{{Composition bar|5|46|{{party color|Green Party of Switzerland}}}}\n|-\n| style=\"background:{{party color|Green Liberal Party of Switzerland}};\"|\n| style=\"text-align:center;\"| '''glp / pvl'''\n| Green Liberal Party of Switzerland|Green Liberal Party\n| Green Liberal group (GL)\n| Green liberalism\n| Jürg Grossen\n| style=\"text-align:center;\"| 7.8%\n| {{Composition bar|16|200|{{party color|Green Liberal Party of Switzerland}}}}\n| {{Composition bar|0|46|{{party color|Green Liberal Party of Switzerland}}}}\n|-\n| style=\"background:{{party color|Evangelical People's Party of Switzerland}};\"|\n| style=\"text-align:center;\"| '''EVP / PEV'''\n| Evangelical People's Party of Switzerland|Evangelical People's Party\n| The Centre group (M-E)\n| Christian democracy<br />Social conservatism\n| Lilian Studer\n| style=\"text-align:center;\"| 2.1%\n| {{Composition bar|3|200|{{party color|Evangelical People's Party of Switzerland}}}}\n| {{Composition bar|0|46|{{party color|Evangelical People's Party of Switzerland}}}}\n|-\n| style=\"background:{{party color|Swiss Party of Labour}};\"|\n| style=\"text-align:center;\"| '''PdA / PST'''\n| Swiss Party of Labour\n| Greens group (G)\n| Communism<br>Marxism\n| Gavriel Pinson\n| style=\"text-align:center;\" rowspan=\"2\"| 1,0%\n| {{Composition bar|1|200|{{party color|Swiss Party of Labour}}}}\n| {{Composition bar|0|46|{{party color|Swiss Party of Labour}}}}\n|-\n| style=\"background:{{party color|Solidarity}};\"|\n| style=\"text-align:center;\"| '''solidaritéS'''\n| Solidarity (Switzerland)|Solidarity\n| Greens group (G)\n| Anti-capitalism<br>Trotskyism\n| ''Collective leadership''\n| {{Composition bar|1|200|{{party color|Solidarity}}}}\n| {{Composition bar|0|46|{{party color|Solidarity}}}}\n|-\n| style=\"background:{{party color|Federal Democratic Union of Switzerland}};\"|\n| style=\"text-align:center;\"| '''EDU/UDF'''\n| Federal Democratic Union of Switzerland|Federal Democratic Union\n| Swiss People's Party group (V)\n| Christian right<br />Right-wing populism\n| Daniel Frischknecht\n| style=\"text-align:center;\"| 1.0%\n| {{Composition bar|1|200|{{party color|Federal Democratic Union of Switzerland}}}}\n| {{Composition bar|0|46|{{party color|Federal Democratic Union of Switzerland}}}}\n|-\n| style=\"background:{{party color|Ticino League}};\"|\n| style=\"text-align:center;\"| '''LdT'''\n| Ticino League\n| Swiss People's Party group (V)\n| Regionalism (politics)|Regionalism<br />Right-wing populism\n| Antonella Bignasca & Boris Bignasca\n| style=\"text-align:center;\"| 0.8%\n| {{Composition bar|1|200|{{party color|Ticino League}}}}\n| {{Composition bar|0|46|{{party color|Ticino League}}}}\n|}",
+              "references": [
+                {
+                  "text": "<ref>[The Centre group https://www.parlament.ch/en/organe/groups/group-m-e {{Webarchive|url=https://web.archive.org/web/20221002020545/https://www.parlament.ch/en/organe/groups/group-m-e |date=2022-10-02 }}]</ref>",
+                  "url": "https://web.archive.org/web/20221002020545/https://www.parlament.ch/en/organe/groups/group-m-e",
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
+                  "type": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Candidates",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "5.2",
+          "title": "Incumbents not standing for re-election",
+          "content": [
+            {
+              "id": "5.2.1",
+              "title": "National Council",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "5.2.1.s1",
+                      "text": "As of 8 April 2023, 25 National Council incumbents (an eighth of the council) announced they would not stand in this election.",
+                      "references": [
+                        {
+                          "text": "<ref name=\":1\">{{Cite web |date=2023-04-08 |title=Elections fédérales 2023, un siège sur huit sera à repourvoir au Conseil national |url=https://www.rts.ch/info/suisse/13929162-elections-federales-2023-un-siege-sur-huit-sera-a-repourvoir-au-conseil-national.html |access-date=2023-10-04 |website=rts.ch |language=fr |archive-date=2023-04-12 |archive-url=https://web.archive.org/web/20230412003416/https://www.rts.ch/info/suisse/13929162-elections-federales-2023-un-siege-sur-huit-sera-a-repourvoir-au-conseil-national.html |url-status=live }}</ref>",
+                          "url": "https://www.rts.ch/info/suisse/13929162-elections-federales-2023-un-siege-sur-huit-sera-a-repourvoir-au-conseil-national.html",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "5.2.2",
+              "title": "Council of States",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Opinion polls",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "6.2",
+          "title": "Graphical summary",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "6.3",
+          "title": "Nationwide polling since 2021",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "6.4",
+          "title": "Seat predictions",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Results",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "The SVP, which had campaigned heavily on opposing migration, performed strongly. The SVP made gains in Romandy, gaining for the first time more national councillors than the FDP in the region. The Centre notably gained seats, surpassing the FDP — putting the latter's second Federal Council seat in doubt — while the Green Party and Green Liberal Party performed poorly. The results indicated a stark divide between urban and rural areas. Although right-wing parties gained seats in the National Council, they did not secure a majority in the chamber. Despite the SVP's gains in the National Council, it did not perform as strongly in the Council of States, whereas The Centre gained seats. Neither the Left nor Right had a clear majority in the chamber.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | first1=Manuel | last1=Imhasly | first2=Lukas | last2=Füglister | title=Darum schlägt das Polit-Pendel wieder nach rechts aus | website=Schweizer Radio und Fernsehen (SRF) | date=23 October 2023 | url=https://www.srf.ch/news/schweiz/wahlen-2023/srg-nachwahlbefragung-darum-schlaegt-das-polit-pendel-wieder-nach-rechts-aus | language=de | access-date=23 October 2023 | archive-date=23 October 2023 | archive-url=https://web.archive.org/web/20231023150959/https://www.srf.ch/news/schweiz/wahlen-2023/srg-nachwahlbefragung-darum-schlaegt-das-polit-pendel-wieder-nach-rechts-aus | url-status=live }}</ref>",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-2023/srg-nachwahlbefragung-die-svp-hat-aufs-richtige-wahlkampfpferd-gesetzt",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"BloombergOct2023\">{{cite web | last=Benrath | first=Bastian | title=Switzerland's Right-Wing Party Surges on Immigration Concerns | website=Bloomberg.com | date=22 October 2023 | url=https://www.bloomberg.com/news/articles/2023-10-22/switzerland-election-results-right-wing-party-set-for-best-result-ever#xj4y7vzkg | access-date=23 October 2023 | archive-date=22 October 2023 | archive-url=https://web.archive.org/web/20231022193543/https://www.bloomberg.com/news/articles/2023-10-22/switzerland-election-results-right-wing-party-set-for-best-result-ever#xj4y7vzkg | url-status=live }}</ref>",
+                  "url": "https://www.bloomberg.com/news/articles/2023-10-22/switzerland-election-results-right-wing-party-set-for-best-result-ever#xj4y7vzkg",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | first=Sam | last=Jones | title=Right-wing populists perform strongly in Swiss parliamentary elections | website=Financial Times | date=22 October 2023 | url=https://www.ft.com/content/546f4872-0862-4a06-bd9a-d4dc8cf68419 | access-date=22 October 2023 | archive-date=23 October 2023 | archive-url=https://web.archive.org/web/20231023044755/https://www.ft.com/content/546f4872-0862-4a06-bd9a-d4dc8cf68419 | url-status=live }}</ref>",
+                  "url": "https://www.ft.com/content/546f4872-0862-4a06-bd9a-d4dc8cf68419",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | title=Swiss shift rightwards in vote as immigration fears trump environment | url=https://www.reuters.com/world/europe/swiss-shift-rightwards-vote-immigration-fears-trump-environment-2023-10-23/ | date=23 October 2023 | work=Reuters | access-date=23 October 2023 | archive-date=23 October 2023 | archive-url=https://web.archive.org/web/20231023135208/https://www.reuters.com/world/europe/swiss-shift-rightwards-vote-immigration-fears-trump-environment-2023-10-23/ | url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/world/europe/swiss-shift-rightwards-vote-immigration-fears-trump-environment-2023-10-23/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | title=Das Endresultat: Die SVP kann einen grossen Sieg feiern | website=Schweizer Radio und Fernsehen | date=22 October 2023 | url=https://www.srf.ch/news/schweiz/wahlen-2023/nationalratswahlen-2023-das-endresultat-die-svp-kann-einen-grossen-sieg-feiern | language=de | access-date=22 October 2023 | archive-date=22 October 2023 | archive-url=https://web.archive.org/web/20231022210525/http://www.srf.ch/news/schweiz/wahlen-2023/nationalratswahlen-2023-das-endresultat-die-svp-kann-einen-grossen-sieg-feiern | url-status=live }}</ref>",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-2023/nationalratswahlen-2023-das-endresultat-die-svp-kann-einen-grossen-sieg-feiern",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | title=Rechts geht die Romandie im Gleichschritt mit der Deutschschweiz | website=Schweizer Radio und Fernsehen | date=22 October 2023 | url=https://www.srf.ch/news/schweiz/wahlen-2023/sonderfall-romandie-vorbei-rechts-geht-die-romandie-im-gleichschritt-mit-der-deutschschweiz | language=de | access-date=22 October 2023 | archive-date=23 October 2023 | archive-url=https://web.archive.org/web/20231023001316/http://www.srf.ch/news/schweiz/wahlen-2023/sonderfall-romandie-vorbei-rechts-geht-die-romandie-im-gleichschritt-mit-der-deutschschweiz | url-status=live }}</ref>",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-2023/wahlen-in-der-romandie-rechts-geht-die-romandie-im-gleichschritt-mit-der-deutschschweiz",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | first1=Andy | last1=Müller | title=Lange wird die FDP den zweiten Bundesratssitz nicht halten können | website=Schweizer Radio und Fernsehen (SRF) | date=23 October 2023 | url=https://www.srf.ch/news/schweiz/wie-weiter-mit-zauberformel-lange-wird-die-fdp-den-zweiten-bundesratssitz-nicht-halten-koennen | language=de | access-date=23 October 2023 | archive-date=23 October 2023 | archive-url=https://web.archive.org/web/20231023164332/http://www.srf.ch/news/schweiz/wie-weiter-mit-zauberformel-lange-wird-die-fdp-den-zweiten-bundesratssitz-nicht-halten-koennen | url-status=live }}</ref>",
+                  "url": "https://www.srf.ch/news/schweiz/wie-weiter-mit-zauberformel-lange-wird-die-fdp-den-zweiten-bundesratssitz-nicht-halten-koennen",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"APOct2023\">{{cite web | last=Keaten | first=Jamey | title=A Swiss populist party rebounds and the Greens sink in the election. That's a big change from 2019 | website=AP News | date=23 October 2023 | url=https://apnews.com/article/switzerland-election-final-results-legislative-elections-e677e20c461301d046f249dbebf7c77a | access-date=23 October 2023 | archive-date=23 October 2023 | archive-url=https://web.archive.org/web/20231023104845/https://apnews.com/article/switzerland-election-final-results-legislative-elections-e677e20c461301d046f249dbebf7c77a | url-status=live }}</ref>",
+                  "url": "https://apnews.com/article/switzerland-election-final-results-legislative-elections-e677e20c461301d046f249dbebf7c77a",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"PoliticoOct2023\">{{cite web | last1=Brzeziński | first1=Bartosz | last2=Camut | first2=Nicolas | title=Swiss election results: Far right dominates after anti-immigration campaign | website=POLITICO | date=22 October 2023 | url=https://www.politico.eu/article/switzerland-anti-immigrant-party-projected-make-record-showing-election/ | access-date=23 October 2023 | archive-date=22 October 2023 | archive-url=https://web.archive.org/web/20231022195221/https://www.politico.eu/article/switzerland-anti-immigrant-party-projected-make-record-showing-election/ | url-status=live }}</ref>",
+                  "url": "https://www.politico.eu/article/switzerland-anti-immigrant-party-projected-make-record-showing-election/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | first=Celina | last=Schnyder | title=So steht es um die Grünen nach der Niederlage | website=Schweizer Radio und Fernsehen (SRF) | date=25 October 2023 | url=https://www.srf.ch/news/schweiz/wahlen-2023/parlamentswahlen-2023-so-steht-es-um-die-gruenen-nach-der-niederlage | language=de | access-date=28 October 2023 | archive-date=26 October 2023 | archive-url=https://web.archive.org/web/20231026153303/https://www.srf.ch/news/schweiz/wahlen-2023/parlamentswahlen-2023-so-steht-es-um-die-gruenen-nach-der-niederlage | url-status=live }}</ref>",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-2023/parlamentswahlen-2023-so-steht-es-um-die-gruenen-nach-der-niederlage",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | last1=Turuban | first1=Pauline | last2=Pauchard | first2=Olivier | last3=Stephens | first3=Thomas | title=Swiss parliament shifts to the right | website=SWI swissinfo.ch | date=22 October 2023 | url=https://www.swissinfo.ch/eng/politics/elections-2023--swiss-parliament-looks-set-to-lean-right/48902762 | access-date=22 October 2023 | archive-date=22 October 2023 | archive-url=https://web.archive.org/web/20231022101348/https://www.swissinfo.ch/eng/politics/elections-2023--swiss-parliament-looks-set-to-lean-right/48902762 | url-status=live }}</ref>",
+                  "url": "https://www.swissinfo.ch/eng/politics/elections-2023-swiss-parliament-looks-set-to-lean-right/48902762",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | title=Wo sich der «Stadt-Land-Graben» auftut | website=Schweizer Radio und Fernsehen (SRF) | date=25 October 2023 | url=https://www.srf.ch/news/schweiz/wahlen-2023/nachwahlanalyse-wo-sich-der-stadt-land-graben-auftut | language=de | access-date=28 October 2023 | archive-date=27 October 2023 | archive-url=https://web.archive.org/web/20231027140103/https://www.srf.ch/news/schweiz/wahlen-2023/nachwahlanalyse-wo-sich-der-stadt-land-graben-auftut | url-status=live }}</ref>",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-2023/nachwahlanalyse-wo-sich-der-stadt-land-graben-auftut",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | title=Rechtsrutsch ohne rechte Mehrheit | website=Schweizer Radio und Fernsehen | date=22 October 2023 | url=https://www.srf.ch/news/schweiz/wahlen-2023/analyse-zum-nationalrat-rechtsrutsch-ohne-rechte-mehrheit | language=de | access-date=22 October 2023 | archive-date=22 October 2023 | archive-url=https://web.archive.org/web/20231022214303/https://www.srf.ch/news/schweiz/wahlen-2023/analyse-zum-nationalrat-rechtsrutsch-ohne-rechte-mehrheit | url-status=live }}</ref>",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-2023/analyse-zum-nationalrat-rechtsrutsch-ohne-rechte-mehrheit",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | title=Diese Anliegen könnten jetzt im Nationalrat mehrheitsfähig werden | website=Schweizer Radio und Fernsehen (SRF) | date=29 October 2023 | url=https://www.srf.ch/news/schweiz/wahlen-2023/smartvote-zu-den-wahlen-2023-diese-anliegen-koennten-jetzt-im-nationalrat-mehrheitsfaehig-werden | language=de | access-date=26 November 2023}}</ref>",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-2023/smartvote-zu-den-wahlen-2023-diese-anliegen-koennten-jetzt-im-nationalrat-mehrheitsfaehig-werden",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | title=Wahlsiegerin SVP kann Erfolg nicht ins Stöckli tragen | website=Schweizer Radio und Fernsehen (SRF) | date=19 November 2023 | url=https://www.srf.ch/news/schweiz/wahlen-2023/wahlen-2023-wahlsiegerin-svp-kann-erfolg-nicht-ins-stoeckli-tragen | language=de | access-date=26 November 2023}}</ref>",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-2023/wahlen-2023-wahlsiegerin-svp-kann-erfolg-nicht-ins-stoeckli-tragen",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | title=Mitte baut ihre Vormachtstellung in der kleinen Kammer aus | website=Schweizer Radio und Fernsehen (SRF) | date=18 November 2023 | url=https://www.srf.ch/news/schweiz/wahlen-2023/staenderatswahlen-2023-mitte-baut-ihre-vormachtstellung-in-der-kleinen-kammer-aus | language=de | access-date=26 November 2023}}</ref>",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-2023/staenderatswahlen-2023-mitte-baut-ihre-vormachtstellung-in-der-kleinen-kammer-aus",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | title=Swiss Senate elections 2023: Centre Party continues to expand dominance | website=SWI swissinfo.ch | date=19 November 2023 | url=https://www.swissinfo.ch/eng/business/swiss-senate-elections-2023--the-centre-continues-to-expand-its-dominance/48991256 | access-date=26 November 2023}}</ref>",
+                  "url": "https://www.swissinfo.ch/eng/business/swiss-senate-elections-2023-the-centre-continues-to-expand-its-dominance/48991256",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | title=Wahlen 2023 | website=Schweizer Radio und Fernsehen (SRF) | date=20 November 2023 | url=https://www.srf.ch/news/schweiz/wahlen-2023/wahlen-2023-so-positioniert-sich-der-neue-staenderat-bei-wichtigen-dossiers | language=de | access-date=26 November 2023}}</ref>",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-2023/wahlen-2023-so-positioniert-sich-der-neue-staenderat-bei-wichtigen-dossiers",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.2",
+          "title": "National Council",
+          "content": [
+            {
+              "sentences": []
+            },
+            {
+              "id": "7.2.2",
+              "title": "By canton",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.3",
+          "title": "Council of States",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.3.s1",
+                  "text": "31 of the 46 seats of the Council of States were filled in the first round, with the remaining 15 seats filled in the second round on the 12 and 19 November.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web | url=https://www.ch.ch/en/elections2023/council-of-states:-dates-of-the-second-rounds/ | title=Second round of voting in Council of States elections }}</ref>",
+                      "url": "https://www.ch.ch/en/elections2023/council-of-states:-dates-of-the-second-rounds/",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "7.3.2",
+              "title": "By canton",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Electorate demographics",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "8.s1",
+              "text": "{| class=\"wikitable\" style=\"font-size:90%; text-align:center\"\n! rowspan=2 | Demographic\n! Swiss People's Party|SVP\n! Social Democratic Party of Switzerland|SP\n! The Liberals (Switzerland)|FDP\n! The Centre (political party)|Centre\n! Green Party of Switzerland|Greens\n! Green Liberal Party of Switzerland|GLP\n|-\n! style=\"background:{{party color|Swiss People's Party}};\" |\n! style=\"background:{{party color|Social Democratic Party of Switzerland}};\" |\n! style=\"background:{{party color|The Liberals (Switzerland)}};\" |\n! style=\"background:{{party color|The Centre (political party)}};\" |\n! style=\"background:{{party color|Green Party of Switzerland}};\" |\n! style=\"background:{{party color|Green Liberal Party of Switzerland}};\" |\n|-\n! Total vote\n| style=\"background:#{{HexShade|{{party color|Swiss People's Party}}|0.7}};\" | '''27.9%'''\n| 18.3%\n| 14.3%\n| 14.1%\n| 9.8%\n| 7.6%\n|-\n! colspan=7 | Sex\n|-\n! Men\n| style=\"background:#{{HexShade|{{party color|Swiss People's Party}}|0.7}};\" | '''32%'''\n| 14%\n| 17%\n| 14%\n| 8%\n| 8%\n|-\n! Women\n| style=\"background:#{{HexShade|{{party color|Swiss People's Party}}|0.7}};\" | '''24%'''\n| 23%\n| 12%\n| 14%\n| 12%\n| 7%\n|-\n! colspan=7 | Age\n|-\n! 18–29 years old\n| style=\"background:#{{HexShade|{{party color|Swiss People's Party}}|0.7}};\" | '''23%'''\n| 21%\n| 11%\n| 11%\n| 16%\n| 8%\n|-\n! 30–45 years old\n| style=\"background:#{{HexShade|{{party color|Swiss People's Party}}|0.7}};\" | '''26%'''\n| 18%\n| 12%\n| 14%\n| 12%\n| 8%\n|-\n! 46–65 years old\n| style=\"background:#{{HexShade|{{party color|Swiss People's Party}}|0.7}};\" | '''31%'''\n| 17%\n| 14%\n| 13%\n| 9%\n| 8%\n|-\n! Over 65 years old\n| style=\"background:#{{HexShade|{{party color|Swiss People's Party}}|0.7}};\" | '''28%'''\n| 19%\n| 19%\n| 17%\n| 5%\n| 6%\n|-\n! colspan=7 | Income\n|-\n! Under 4,000 CHF\n| style=\"background:#{{HexShade|{{party color|Swiss People's Party}}|0.7}};\" | '''31%'''\n| 18%\n| 10%\n| 14%\n| 11%\n| 5%\n|-\n! 4,000 - 6,000 CHF\n| style=\"background:#{{HexShade|{{party color|Swiss People's Party}}|0.7}};\" | '''24%'''\n| 21%\n| 14%\n| 16%\n| 10%\n| 8%\n|-\n! 6,001 – 10,000 CHF\n| style=\"background:#{{HexShade|{{party color|Swiss People's Party}}|0.7}};\" | '''27%'''\n| 17%\n| 18%\n| 13%\n| 10%\n| 10%\n|-\n! Over 10,000 CHF\n| 27%\n| 11%\n| style=\"background:#{{HexShade|{{party color|The Liberals (Switzerland)}}|0.7}};\" | '''30%'''\n| 11%\n| 6%\n| 11%\n|-\n! colspan=7 | Education\n|-\n! Compulsory / Vocational education#Switzerland|VET\n| style=\"background:#{{HexShade|{{party color|Swiss People's Party}}|0.7}};\" | '''34%'''\n| 17%\n| 13%\n| 15%\n| 7%\n| 6%\n|-\n! Matura / Vocational education#Switzerland|PET\n| style=\"background:#{{HexShade|{{party color|Swiss People's Party}}|0.7}};\" | '''26%'''\n| 18%\n| 15%\n| 14%\n| 11%\n| 9%\n|-\n! University / Fachhochschule\n| 12%\n| style=\"background:#{{HexShade|{{party color|Social Democratic Party of Switzerland}}|0.7}};\" | '''22%'''\n| 16%\n| 11%\n| 18%\n| 12%\n|-\n! colspan=11 | Source: Sotomo\n|}",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|url=https://sotomo.ch/site/wp-content/uploads/2023/10/SRG_Wahltagsbefragung_2023_korr.pdf|title=SRG SSR Wahltagsbefragung 2023|access-date=29 October 2023|language=de}}</ref>",
+                  "url": "https://sotomo.ch/site/wp-content/uploads/2023/10/SRG_Wahltagsbefragung_2023_korr.pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "9.s1",
+              "text": "{{See also|List of members of the National Council of Switzerland (2023–2027)|List of members of the Swiss Council of States (2023–2027)}}\nFollowing the election, SVP President Marco Chiesa stated his party had \"a clear mandate\" and would seek \"less political correctness\" and to work with the other parties. Although smaller right-wing parties gained enough seats to form their own parliamentary group, they opted to remain in the SVP group.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | last=Henley | first=Jon | title=Switzerland's populists promise 'less political correctness' after election win | website=the Guardian | date=23 October 2023 | url=https://www.theguardian.com/world/2023/oct/23/switzerland-populists-svp-promise-less-political-correctness-after-election-win | access-date=23 October 2023 | archive-date=23 October 2023 | archive-url=https://web.archive.org/web/20231023144451/https://www.theguardian.com/world/2023/oct/23/switzerland-populists-svp-promise-less-political-correctness-after-election-win | url-status=live }}</ref>",
+                  "url": "https://www.theguardian.com/world/2023/oct/23/switzerland-populists-svp-promise-less-political-correctness-after-election-win",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | title=EDU, Lega und MCG verzichten auf Eigenständigkeit | website=Schweizer Radio und Fernsehen (SRF) | date=24 October 2023 | url=https://www.srf.ch/news/schweiz/wahlen-2023/svp-fraktionsbildung-edu-lega-und-mcg-verzichten-auf-eigenstaendigkeit | language=de | access-date=28 October 2023 | archive-date=25 October 2023 | archive-url=https://web.archive.org/web/20231025080230/https://www.srf.ch/news/schweiz/wahlen-2023/svp-fraktionsbildung-edu-lega-und-mcg-verzichten-auf-eigenstaendigkeit | url-status=live }}</ref>",
+                  "url": "https://www.srf.ch/news/schweiz/wahlen-2023/svp-fraktionsbildung-edu-lega-und-mcg-verzichten-auf-eigenstaendigkeit",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "9.s2",
+              "text": "On 25 October, the Federal Statistical Office (Switzerland)|Federal Statistical Office announced it had miscalculated the national vote count; this resulted from \"a programming error in the data import software for the cantons of Appenzell Inner Rhodes, Appenzell Outer Rhodes and Glarus.\" The corrected vote count did not affect the allocation of seats, but found the FDP remained the third largest party by vote share as opposed to The Centre.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | last1=Mariani | first1=Daniele | last2=Romy | first2=Katy | title=Swiss election results revised after vote counting error | website=SWI swissinfo.ch | date=25 October 2023 | url=https://www.swissinfo.ch/eng/business/swiss-election-results-revised-after-vote-counting-error/48925322 | access-date=27 October 2023 | archive-date=28 October 2023 | archive-url=https://web.archive.org/web/20231028020723/https://www.swissinfo.ch/eng/business/swiss-election-results-revised-after-vote-counting-error/48925322 | url-status=live }}</ref>",
+                  "url": "https://www.swissinfo.ch/eng/business/swiss-election-results-revised-after-vote-counting-error/48925322",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news | last=Felley | first=Eric | title=Elections fédérales: Erreur de l'OFS: le PLR reste le troisième parti de Suisse | website=Le Matin | date=25 October 2023 | url=https://www.lematin.ch/story/elections-federales-erreur-de-lofs-le-plr-reste-le-troisieme-parti-de-suisse-232765917615 | language=fr | access-date=27 October 2023 | archive-date=27 October 2023 | archive-url=https://web.archive.org/web/20231027142820/https://www.lematin.ch/story/elections-federales-erreur-de-lofs-le-plr-reste-le-troisieme-parti-de-suisse-232765917615 | url-status=live }}</ref>",
+                  "url": "https://www.lematin.ch/story/elections-federales-erreur-de-lofs-le-plr-reste-le-troisieme-parti-de-suisse-232765917615",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite web | last1=Eng | first1=Adrian | last2=Steiner | first2=Pascal | title=Bund hat sich verrechnet – Mitte nun doch nicht stärker als FDP im Nationalrat – auch SVP mit weniger Gewinn | website=Tages-Anzeiger | date=25 October 2023 | url=https://www.tagesanzeiger.ch/bund-hat-sich-verrechnet-mitte-nun-doch-nicht-staerker-als-fdp-im-nationalrat-auch-svp-mit-weniger-gewinn-807385669070 | language=de | access-date=27 October 2023 | archive-date=26 October 2023 | archive-url=https://web.archive.org/web/20231026095216/https://www.tagesanzeiger.ch/bund-hat-sich-verrechnet-mitte-nun-doch-nicht-staerker-als-fdp-im-nationalrat-auch-svp-mit-weniger-gewinn-807385669070 | url-status=live }}</ref>",
+                  "url": "https://www.tagesanzeiger.ch/bund-hat-sich-verrechnet-mitte-nun-doch-nicht-staerker-als-fdp-im-nationalrat-auch-svp-mit-weniger-gewinn-807385669070",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Notes",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "External links",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

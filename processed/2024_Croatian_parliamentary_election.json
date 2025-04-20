@@ -14,8 +14,8 @@
                 {
                   "text": "<ref>{{cite news |title=Croatia's Ruling Party Reaches Coalition Deal With Right Wing|url=https://www.barrons.com/news/croatia-conservatives-reach-coalition-deal-with-right-wing-spokesman-f0697844 |work=Barron's |date=May 8, 2024|author=Lajla Veselica}}</ref>",
                   "url": "https://www.barrons.com/news/croatia-conservatives-reach-coalition-deal-with-right-wing-spokesman-f0697844",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -44,14 +44,14 @@
                     {
                       "text": "<ref name=\":0\">{{Cite web |last=Deželić |first=Vanja |date=12 December 2023 |title=Ovo su svi ministri koji su otišli ili ih je Andrej Plenković smijenio |trans-title=These are all the ministers who left or were dismissed by Andrej Plenković |url=https://n1info.hr/vijesti/ovo-su-svi-ministri-koji-su-otisli-ili-ih-je-andrej-plenkovic-smijenio/ |access-date=18 February 2024 |website=N1 |language=hr |archive-date=18 February 2024 |archive-url=https://web.archive.org/web/20240218192556/https://n1info.hr/vijesti/ovo-su-svi-ministri-koji-su-otisli-ili-ih-je-andrej-plenkovic-smijenio/ |url-status=live }}</ref>",
                       "url": "https://n1info.hr/vijesti/ovo-su-svi-ministri-koji-su-otisli-ili-ih-je-andrej-plenkovic-smijenio/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":0\" /><ref name=\":1\">{{Cite web |last=Srzić |first=Ante |date=13 December 2023 |title=Od neposlušnih mostovaca do zbunjenog Filipovića: Tko je sve odletio iz Plenkovićeve vlade |trans-title=From disobedient Most ministers to confused Filipović: Who flew away from Plenković's government |url=https://www.tportal.hr/vijesti/clanak/od-neposlusnih-mostovaca-do-zbunjenog-filipovica-tko-je-sve-odletio-iz-plenkoviceve-vlade-foto-20231213 |access-date=18 February 2024 |website=tportal.hr |archive-date=18 February 2024 |archive-url=https://web.archive.org/web/20240218191054/https://www.tportal.hr/vijesti/clanak/od-neposlusnih-mostovaca-do-zbunjenog-filipovica-tko-je-sve-odletio-iz-plenkoviceve-vlade-foto-20231213 |url-status=live }}</ref>",
                       "url": "https://www.tportal.hr/vijesti/clanak/od-neposlusnih-mostovaca-do-zbunjenog-filipovica-tko-je-sve-odletio-iz-plenkoviceve-vlade-foto-20231213",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -64,7 +64,7 @@
                     {
                       "text": "<ref name=\":0\" /><ref name=\":1\" /> Davor Ivo Stier (Ministry of Foreign Affairs (Croatia)|Minister of Foreign Affairs) resigned after a disagreement with the party leadership, and his successor Marija Pejčinović Burić left in 2019 after being elected Secretary General of the Council of Europe. In 2019, five ministers left the government following a series of scandals. Lovro Kušćević (Minister of Construction and Spatial Planning) after it was found that he conducted illegal real estate brokerage while he was the mayor of Nerežišća on Brač, Goran Marić (politician)|Goran Marić (Minister of State Property) resigned after a series of real estate scandals. An indictment against Gabrijela Žalac (Ministry of Regional Development and EU Funds (Croatia)|Minister of Regional Development and European Union Funds) was brought for abuse of position and authority in the \"Software affair\", and her name was also mentioned in the Vjetroelektrana affair with Josipa Rimac. Tomislav Tolušić (Ministry of Agriculture (Croatia)|Minister of Agriculture) was mentioned in numerous scandals and was later indicted for embezzlement with EU funds, including 2.5 million Kuna for his winery, which he received under irregular circumstances.<ref name=\":1\" /> Nada Murganić (Ministry of Labour and Pension System, Family and Social Policy|Minister of Demography, Family, Youth and Social Policy) was dismissed for unsatisfactory performance.<ref name=\":0\" /><ref>{{Cite web |last=Ivandić |first=Ivana |date=31 December 2019 |title=Smjena Nade Murganić i povećanje porodiljnih naknada obilježili su socijalnu politiku |trans-title=The dismissal of Nada Murganić and the increase in maternity benefits marked social policy |url=https://www.tportal.hr/vijesti/clanak/smjena-nade-murganic-i-povecanje-porodiljnih-naknada-obiljezili-su-socijalnu-politiku-20191231 |access-date=18 February 2024 |website=tportal.hr |language=hr |archive-date=18 February 2024 |archive-url=https://web.archive.org/web/20240218191056/https://www.tportal.hr/vijesti/clanak/smjena-nade-murganic-i-povecanje-porodiljnih-naknada-obiljezili-su-socijalnu-politiku-20191231 |url-status=live }}</ref>",
                       "url": "https://www.tportal.hr/vijesti/clanak/smjena-nade-murganic-i-povecanje-porodiljnih-naknada-obiljezili-su-socijalnu-politiku-20191231",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -87,7 +87,7 @@
                     {
                       "text": "<ref>{{Cite web |date=26 January 2023 |title=HDZ se priprema za parlamentarne izbore u ožujku 2024. |trans-title=HDZ is preparing for parliamentary elections in March 2024. |url=https://dubrovacki.slobodnadalmacija.hr/dubrovnik/vijesti/hrvatska-i-svijet/hdz-se-priprema-za-parlamentarne-izbore-u-ozujku-2024-1259610 |access-date=26 January 2023 |website=Dubrovački vjesnik |language=hr |archive-date=26 January 2023 |archive-url=https://web.archive.org/web/20230126091826/https://dubrovacki.slobodnadalmacija.hr/dubrovnik/vijesti/hrvatska-i-svijet/hdz-se-priprema-za-parlamentarne-izbore-u-ozujku-2024-1259610 |url-status=live }}</ref>",
                       "url": "https://dubrovacki.slobodnadalmacija.hr/dubrovnik/vijesti/hrvatska-i-svijet/hdz-se-priprema-za-parlamentarne-izbore-u-ozujku-2024-1259610",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -100,14 +100,14 @@
                     {
                       "text": "<ref>{{Cite web |last1=Penić |first1=Goran |last2=Špoljar |first2=Marko |date=28 February 2024 |title=HDZ datumom skupa u Lisinskom otkrio kada ćemo na birališta!? Izvor iz vrha stranke: 'Volim proljeće' |trans-title=HDZ revealed the date of the meeting in Lisinski when we will go to the polls!? Source from the top of the party: \"I love spring\" |url=https://www.jutarnji.hr/vijesti/hrvatska/hdz-datumom-skupa-u-lisinskom-otkrio-kada-cemo-na-biralista-izvor-iz-vrha-stranke-volim-proljece-15433409 |access-date=29 February 2024 |website=Jutarnji list |language=hr |archive-date=28 February 2024 |archive-url=https://web.archive.org/web/20240228201048/https://www.jutarnji.hr/vijesti/hrvatska/hdz-datumom-skupa-u-lisinskom-otkrio-kada-cemo-na-biralista-izvor-iz-vrha-stranke-volim-proljece-15433409 |url-status=live }}</ref>",
                       "url": "https://www.jutarnji.hr/vijesti/hrvatska/hdz-datumom-skupa-u-lisinskom-otkrio-kada-cemo-na-biralista-izvor-iz-vrha-stranke-volim-proljece-15433409",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=8 March 2024 |title=Plenković potvrdio datum raspuštanja Sabora |trans-title=Plenković confirmed the date of dissolution of Parliament |url=https://dnevnik.hr/vijesti/hrvatska/uvodni-govor-premijera-plenkovica-na-sjednici-vlade---836759.html |access-date=8 March 2024 |website=Dnevnik.hr |language=hr |archive-date=8 March 2024 |archive-url=https://web.archive.org/web/20240308143843/https://dnevnik.hr/vijesti/hrvatska/uvodni-govor-premijera-plenkovica-na-sjednici-vlade---836759.html?itm_source=TopNews2&itm_medium=Dnevnik&itm_campaign=Naslovnica |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/uvodni-govor-premijera-plenkovica-na-sjednici-vlade---836759.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -120,35 +120,35 @@
                     {
                       "text": "<ref>{{Cite web |date=14 March 2024 |title=Croatian parliament dissolves to pave way for parliamentary election later this year |url=https://apnews.com/article/croatia-parliament-dissolves-election-may-ca80e6e72bcf2f8cf38a4d8e82e6a72d |access-date=14 March 2024 |website=Associated Press |archive-date=14 March 2024 |archive-url=https://web.archive.org/web/20240314171953/https://apnews.com/article/croatia-parliament-dissolves-election-may-ca80e6e72bcf2f8cf38a4d8e82e6a72d |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/croatia-parliament-dissolves-election-may-ca80e6e72bcf2f8cf38a4d8e82e6a72d",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Izbori za zastupnike u Hrvatski sabor održat će se u srijedu 17. travnja 2024. godine |url=https://www.predsjednik.hr/vijesti/izbori-za-zastupnike-u-hrvatski-sabor-odrzat-ce-se-u-srijedu-17-travnja-2024-godine/ |access-date=15 March 2024 |website=Predsjednik Republike Hrvatske – Zoran Milanović |language=hr |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315172243/https://www.predsjednik.hr/vijesti/izbori-za-zastupnike-u-hrvatski-sabor-odrzat-ce-se-u-srijedu-17-travnja-2024-godine/ |url-status=live }}</ref>",
                       "url": "https://www.predsjednik.hr/vijesti/izbori-za-zastupnike-u-hrvatski-sabor-odrzat-ce-se-u-srijedu-17-travnja-2024-godine/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Milanović objavio datum izbora, prvi put ikad glasat ćemo u srijedu |url=https://www.index.hr/clanak.aspx?id=2547623 |access-date=15 March 2024 |website=www.index.hr |language=hr |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315172243/https://www.index.hr/clanak.aspx?id=2547623 |url-status=live }}</ref>",
-                      "url": "https://www.index.hr/clanak.aspx?id=2547623",
-                      "status_code": null,
+                      "url": "https://www.index.hr/vijesti/clanak/milanovic-objavio-datum-izbora-prvi-put-ikad-glasat-cemo-u-srijedu/2547623.aspx",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Milanović objavio datum izbora, prvi put ikada glasat ćemo u srijedu. Bit će neradna |date=15 March 2024 |url=https://www.glasistre.hr/hrvatska/2024/03/15/milanovic-objavio-datum-izbora-prvi-put-ikada-glasat-cemo-u-srijedu-bit-ce-neradna-921250 |publisher=Glas Istre |access-date=15 March 2024 |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315112455/http://www.glasistre.hr/hrvatska/2024/03/15/milanovic-objavio-datum-izbora-prvi-put-ikada-glasat-cemo-u-srijedu-bit-ce-neradna-921250 |url-status=live }}</ref>",
                       "url": "https://www.glasistre.hr/hrvatska/2024/03/15/milanovic-objavio-datum-izbora-prvi-put-ikada-glasat-cemo-u-srijedu-bit-ce-neradna-921250",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Ovo nije prvi put da na parlamentarne izbore izlazimo na radni dan: Evo kada se zadnji put to dogodilo |date=15 March 2024 |url=https://www.jutarnji.hr/vijesti/hrvatska/ovo-nije-prvi-put-da-na-parlamentarne-izbore-izlazimo-na-radni-dan-evo-kada-se-zadnji-put-to-dogodilo-15439362 |publisher=Jutarnji List |access-date=15 March 2024 |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315130646/https://www.jutarnji.hr/vijesti/hrvatska/ovo-nije-prvi-put-da-na-parlamentarne-izbore-izlazimo-na-radni-dan-evo-kada-se-zadnji-put-to-dogodilo-15439362 |url-status=live }}</ref>",
                       "url": "https://www.jutarnji.hr/vijesti/hrvatska/ovo-nije-prvi-put-da-na-parlamentarne-izbore-izlazimo-na-radni-dan-evo-kada-se-zadnji-put-to-dogodilo-15439362",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -171,42 +171,42 @@
                     {
                       "text": "<ref>{{Cite web |date=8 July 2023 |title=Tko će s kim na izbore? Most i Suverenisti si pružili ruke i poručili: \"Mi smo druga najjača opcija u državi\" |trans-title=Who will go to the elections with whom? Most and Sovereigns held out their hands and said: \"We are the second strongest option in the country.\" |url=https://dnevnik.hr/vijesti/hrvatska/predizborne-koalicije-za-nadolazece-izbore---790823.html |access-date=30 December 2023 |website=Dnevnik.hr |language=hr |archive-date=12 February 2024 |archive-url=https://web.archive.org/web/20240212115436/https://dnevnik.hr/vijesti/hrvatska/predizborne-koalicije-za-nadolazece-izbore---790823.html |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/predizborne-koalicije-za-nadolazece-izbore---790823.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=30 November 2023 |title=Penava: DP je otvoren za suradnju s Mostom, pozivamo ih u koaliciju |trans-title=Penava: DP is open to cooperation with Most, we invite them to join the coalition |url=https://narod.hr/hrvatska/penava-dp-je-otvoren-za-suradnju-s-mostom-pozivamo-ih-u-koaliciju |access-date=30 December 2023 |website=Narod.hr |language=hr |archive-date=30 November 2023 |archive-url=https://web.archive.org/web/20231130103601/https://narod.hr/hrvatska/penava-dp-je-otvoren-za-suradnju-s-mostom-pozivamo-ih-u-koaliciju |url-status=live }}</ref>",
                       "url": "https://narod.hr/hrvatska/penava-dp-je-otvoren-za-suradnju-s-mostom-pozivamo-ih-u-koaliciju",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=16 December 2023 |title=Penava: Bez obnove hrvatskog sela nema demografske obnove i nema hrvatske budućnosti |trans-title=Penava: Without the restoration of the Croatian countryside, there is no demographic restoration and no Croatian future |url=https://narod.hr/hrvatska/penava-bez-obnove-hrvatskog-sela-nema-demografske-obnove-i-nema-hrvatske-buducnosti |access-date=30 December 2023 |website=Narod.hr |language=hr |archive-date=19 December 2023 |archive-url=https://web.archive.org/web/20231219064417/https://narod.hr/hrvatska/penava-bez-obnove-hrvatskog-sela-nema-demografske-obnove-i-nema-hrvatske-buducnosti |url-status=live }}</ref>",
                       "url": "https://narod.hr/hrvatska/penava-bez-obnove-hrvatskog-sela-nema-demografske-obnove-i-nema-hrvatske-buducnosti",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Ciglenečki |first=Dražen |date=9 February 2024 |title=Kontroverzni Kolakušić osnovao novu političku stranku znakovitog imena. S njim su i Sinčić i Lovrinović |trans-title=The controversial Kolakušić founded a new political party with a significant name. Sinčić and Lovrinović are with him |url=https://www.novilist.hr/novosti/hrvatska/kontroverzni-kolakusic-osnovao-novu-politicku-stranku-znakovitog-imena-s-njim-su-i-sincic-i-lovrinovic/ |access-date=9 March 2024 |website=Novi List |language=hr |archive-date=9 March 2024 |archive-url=https://web.archive.org/web/20240309163429/https://www.novilist.hr/novosti/hrvatska/kontroverzni-kolakusic-osnovao-novu-politicku-stranku-znakovitog-imena-s-njim-su-i-sincic-i-lovrinovic/ |url-status=live }}</ref>",
                       "url": "https://www.novilist.hr/novosti/hrvatska/kontroverzni-kolakusic-osnovao-novu-politicku-stranku-znakovitog-imena-s-njim-su-i-sincic-i-lovrinovic/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Kolar |first=Helena |date=27 March 2024 |title=DP i Kolakušić predstavili liste: 'Molim sve one sa zrnom soli u glavi da glasaju za nas i ne rasipaju glasove. Otići će HDZ-u' |trans-title=DP and Kolakušić presented the lists: 'I am asking all those with a grain of salt in their heads to vote for us and not waste their votes. They will go to HDZ' |url=https://www.telegram.hr/politika-kriminal/dp-i-kolakusic-predstavili-liste-molim-sve-one-sa-zrnom-soli-u-glavi-da-glasaju-za-nas-i-ne-rasipaju-glasove-otici-ce-hdz-u/ |access-date=27 March 2024 |website=Telegram |language=hr |archive-date=29 March 2024 |archive-url=https://web.archive.org/web/20240329134129/https://www.telegram.hr/politika-kriminal/dp-i-kolakusic-predstavili-liste-molim-sve-one-sa-zrnom-soli-u-glavi-da-glasaju-za-nas-i-ne-rasipaju-glasove-otici-ce-hdz-u/ |url-status=live }}</ref>",
                       "url": "https://www.telegram.hr/politika-kriminal/dp-i-kolakusic-predstavili-liste-molim-sve-one-sa-zrnom-soli-u-glavi-da-glasaju-za-nas-i-ne-rasipaju-glasove-otici-ce-hdz-u/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=22 March 2024 |title=Most na izbore ide s Nezavisnom listom mladih |trans-title=Bridge is going to the elections with the Independent Youth List |url=https://www.glasistre.hr/politika/2024/03/22/most-na-izbore-ide-s-nezavisnom-listom-mladih-922730 |access-date=22 March 2024 |website=Glas Istre |language=hr |archive-date=22 March 2024 |archive-url=https://web.archive.org/web/20240322140910/http://www.glasistre.hr/politika/2024/03/22/most-na-izbore-ide-s-nezavisnom-listom-mladih-922730 |url-status=live }}</ref>",
                       "url": "https://www.glasistre.hr/politika/2024/03/22/most-na-izbore-ide-s-nezavisnom-listom-mladih-922730",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -219,49 +219,49 @@
                     {
                       "text": "<ref>{{Cite web |date=28 July 2023 |title=IDS i PGS zajedno na europarlamentarne i parlamentarne izbore |trans-title=IDS and PGS together in the European parliamentary and parliamentary elections |url=https://vijesti.hrt.hr/hrvatska/ids-a-i-pgs-a-zajedno-na-europarlamentarnim-i-parlamentarnim-izbora-10927238 |access-date=20 December 2023 |website=HRT |language=hr |archive-date=25 November 2023 |archive-url=https://web.archive.org/web/20231125115757/https://vijesti.hrt.hr/hrvatska/ids-a-i-pgs-a-zajedno-na-europarlamentarnim-i-parlamentarnim-izbora-10927238 |url-status=live }}</ref>",
                       "url": "https://vijesti.hrt.hr/hrvatska/ids-a-i-pgs-a-zajedno-na-europarlamentarnim-i-parlamentarnim-izbora-10927238",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=1 August 2023 |title=Paus: IDS potpisivanjem koalicije s PGS-om ulazi u borbu za 4. mandat na parlamentarnim izborima i gradi širu koaliciju za europske izbore |trans-title=Paus: IDS, by signing a coalition with PGS, enters the fight for the 4th mandate in the parliamentary elections and builds a wider coalition for the European elections |url=https://5portal.hr/vijesti_detalj.php?id=43808 |access-date=20 December 2023 |website=5portal |language=hr |archive-date=20 December 2023 |archive-url=https://web.archive.org/web/20231220210912/https://5portal.hr/vijesti_detalj.php?id=43808 |url-status=live }}</ref>",
                       "url": "https://5portal.hr/vijesti_detalj.php?id=43808",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=10 November 2023 |title=Fokus i Reformisti potpisali predizbornu koaliciju: \"S HDZ-om ni pod koju cijenu\" |trans-title=Fokus and the Reformists signed a pre-election coalition: \"Not with HDZ at any cost\" |url=https://www.novilist.hr/novosti/hrvatska/fokus-i-reformisti-potpisali-predizbornu-koaliciju-s-hdz-om-ni-pod-koju-cijenu/?meta_refresh=true |access-date=20 December 2023 |website=Novi List |language=hr |archive-date=20 December 2023 |archive-url=https://web.archive.org/web/20231220210911/https://www.novilist.hr/novosti/hrvatska/fokus-i-reformisti-potpisali-predizbornu-koaliciju-s-hdz-om-ni-pod-koju-cijenu/?meta_refresh=true |url-status=live }}</ref>",
                       "url": "https://www.novilist.hr/novosti/hrvatska/fokus-i-reformisti-potpisali-predizbornu-koaliciju-s-hdz-om-ni-pod-koju-cijenu/?meta_refresh=true",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=9 December 2023 |title=Sklopljena predizborna koalicija: \"Manjinska bi vlada bila jako zdrava za Hrvatsku jer je previše bahatluka\" |trans-title=The pre-election coalition was concluded: \"A minority government would be very healthy for Croatia because there is too much arrogance\" |url=https://dnevnik.hr/vijesti/hrvatska/fokus-ids-reformisti-i-pgs-sklopili-koaliciju-za-predstojece-izbore---816870.html |access-date=20 December 2023 |website=Dnevnik.hr |language=hr |archive-date=16 December 2023 |archive-url=https://web.archive.org/web/20231216194052/https://dnevnik.hr/vijesti/hrvatska/fokus-ids-reformisti-i-pgs-sklopili-koaliciju-za-predstojece-izbore---816870.html |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/fokus-ids-reformisti-i-pgs-sklopili-koaliciju-za-predstojece-izbore---816870.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":2\">{{Cite web |last=Škaro |first=Katarina |date=5 March 2024 |title=Postignut dogovor, SDP u koaliciju okuplja ljevicu i stranke centra: 'Dosta je HDZ-a, lopovluka, korupcije. Hrvatska zaslužuje bolje' |trans-title=An agreement has been reached, the SDP gathers the left and center parties into a coalition: 'Enough of HDZ, thievery, corruption. Croatia deserves better' |url=https://www.telegram.hr/politika-kriminal/postignut-dogovor-sdp-u-koaliciju-okuplja-ljevicu-i-stranke-centra-dosta-je-lopovluka-korupcije-hdz-a-hrvatska-zasluzuje-bolje/ |access-date=6 March 2024 |website=Telegram |language=hr |archive-date=5 March 2024 |archive-url=https://web.archive.org/web/20240305175024/https://www.telegram.hr/politika-kriminal/postignut-dogovor-sdp-u-koaliciju-okuplja-ljevicu-i-stranke-centra-dosta-je-lopovluka-korupcije-hdz-a-hrvatska-zasluzuje-bolje/ |url-status=live }}</ref>",
                       "url": "https://www.telegram.hr/politika-kriminal/postignut-dogovor-sdp-u-koaliciju-okuplja-ljevicu-i-stranke-centra-dosta-je-lopovluka-korupcije-hdz-a-hrvatska-zasluzuje-bolje/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Vukelić |first=Hana |date=25 March 2024 |title=NEĆE SDP NEGO REPUBLIKU! / Nađi i Fokus na izbore idu s Damirom Vanđelićem: Neslužbeno, ide u dvoboj s Plenkovićem |trans-title=NOT SDP BUT THE REPUBLIC! / Nađi and Fokus are going to the elections with Damir Vanđelić: Unofficially, he is going to a duel with Plenković |url=https://net.hr/danas/vijesti/davor-nadi-i-fokus-na-izbore-idu-s-damirom-vandelicem-i-republikom-c9d0b476-ea96-11ee-91f3-7ecc6c482c09 |access-date=27 March 2024 |website=net.hr |language=hr |archive-date=27 March 2024 |archive-url=https://web.archive.org/web/20240327005714/https://net.hr/danas/vijesti/davor-nadi-i-fokus-na-izbore-idu-s-damirom-vandelicem-i-republikom-c9d0b476-ea96-11ee-91f3-7ecc6c482c09 |url-status=live }}</ref>",
                       "url": "https://net.hr/danas/vijesti/davor-nadi-i-fokus-na-izbore-idu-s-damirom-vandelicem-i-republikom-c9d0b476-ea96-11ee-91f3-7ecc6c482c09",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Safundžić |first=Luka |date=19 March 2024 |title=Radimir Čačić za 24sata: 'Nije istina da napuštamo koaliciju, mi idemo sa SDP-om. I točka' |trans-title=Radimir Čačić for 24sata: 'It is not true that we are leaving the coalition, we are going with the SDP. |url=https://www.24sata.hr/news/radimir-cacic-za-24sata-nije-istina-da-napustamo-koaliciju-mi-idemo-sa-sdp-om-i-tocka-971916?24sata_ref=frontpage-home |access-date=27 March 2024 |website=24sata |language=hr |archive-date=27 March 2024 |archive-url=https://web.archive.org/web/20240327005715/https://www.24sata.hr/news/radimir-cacic-za-24sata-nije-istina-da-napustamo-koaliciju-mi-idemo-sa-sdp-om-i-tocka-971916?24sata_ref=frontpage-home |url-status=live }}</ref>",
                       "url": "https://www.24sata.hr/news/radimir-cacic-za-24sata-nije-istina-da-napustamo-koaliciju-mi-idemo-sa-sdp-om-i-tocka-971916?24sata_ref=frontpage-home",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -274,35 +274,35 @@
                     {
                       "text": "<ref>{{Cite web |date=7 October 2023 |title=\"Naša Hrvatska\": HSS i Socijaldemokrati potpisali Povelju o političkoj suradnji i savezu |trans-title=\"Our Croatia\": HSS and the Social Democrats signed the Charter on Political Cooperation and Alliance |url=https://www.novilist.hr/novosti/hrvatska/nasa-hrvatska-hss-i-socijaldemokrati-potpisali-povelju-o-politickoj-suradnji-i-savezu/ |access-date=8 October 2023 |website=Novi List |language=hr |archive-date=8 October 2023 |archive-url=https://web.archive.org/web/20231008040011/https://www.novilist.hr/novosti/hrvatska/nasa-hrvatska-hss-i-socijaldemokrati-potpisali-povelju-o-politickoj-suradnji-i-savezu/ |url-status=live }}</ref>",
                       "url": "https://www.novilist.hr/novosti/hrvatska/nasa-hrvatska-hss-i-socijaldemokrati-potpisali-povelju-o-politickoj-suradnji-i-savezu/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=17 October 2023 |title=Laburisti se pridružili savezu \"Naša Hrvatska\": \"Ovo je samo nastavak suradnje i povjerenja\" |trans-title=Labor joined the \"Our Croatia\" alliance: \"This is just a continuation of cooperation and trust\" |url=https://dnevnik.hr/vijesti/hrvatska/laburisti-se-pridruzili-savezu-nasa-hrvatska---807835.html |access-date=7 January 2024 |website=Dnevnik.hr |language=hr |archive-date=7 January 2024 |archive-url=https://web.archive.org/web/20240107221100/https://dnevnik.hr/vijesti/hrvatska/laburisti-se-pridruzili-savezu-nasa-hrvatska---807835.html |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/laburisti-se-pridruzili-savezu-nasa-hrvatska---807835.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2 March 2024 |title=Novo okrupnjavanje na ljevici: \"Hrvatska živi znatno ispod razine svojih mogućnost\" |trans-title=New consolidation on the left: \"Croatia lives well below the level of its possibilities\" |url=https://dnevnik.hr/vijesti/hrvatska/demokrati-pristupili-savezu-nasa-hrvatska---835586.html?itm_source=TopNews2&itm_medium=Dnevnik&itm_campaign=Naslovnica |access-date=2 March 2024 |website=Dnevnik.hr |language=hr |archive-date=2 March 2024 |archive-url=https://web.archive.org/web/20240302135018/https://dnevnik.hr/vijesti/hrvatska/demokrati-pristupili-savezu-nasa-hrvatska---835586.html?itm_source=TopNews2&itm_medium=Dnevnik&itm_campaign=Naslovnica |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/demokrati-pristupili-savezu-nasa-hrvatska---835586.html?itm_source=TopNews2&itm_medium=Dnevnik&itm_campaign=Naslovnica",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":2\" /><ref name=\"Filipović\">{{Cite web |last=Filipović |first=Luka |date=22 March 2024 |title=Predstavljena koalicija 'Rijeke pravde': Borimo se za Hrvatsku bez korupcije |trans-title=The 'River of Justice' coalition presented: We are fighting for a corruption-free Croatia |url=https://www.tportal.hr/vijesti/clanak/predstavljena-koalicija-rijeke-pravde-borimo-se-za-hrvatsku-bez-korupcije-20240322 |access-date=22 March 2024 |website=tportal.hr |language=hr |archive-date=22 March 2024 |archive-url=https://web.archive.org/web/20240322152358/https://www.tportal.hr/vijesti/clanak/predstavljena-koalicija-rijeke-pravde-borimo-se-za-hrvatsku-bez-korupcije-20240322 |url-status=live }}</ref>",
                       "url": "https://www.tportal.hr/vijesti/clanak/predstavljena-koalicija-rijeke-pravde-borimo-se-za-hrvatsku-bez-korupcije-20240322",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=27 March 2024 |title=Savez Naša Hrvatska potpisao suradnju s IDS-om, PGS-om i platformom Sjever: 'Mi nećemo pljuvati i rigati vatru' |trans-title=Alliance Our Croatia signed cooperation with IDS, PGS and platform Sjever: 'We will not spit and belch fire' |url=https://www.jutarnji.hr/vijesti/hrvatska/savez-nasa-hrvatska-potpisao-suradnju-s-ids-om-pgs-om-i-platformom-sjever-mi-necemo-pljuvati-i-rigati-vatru-15443880 |access-date=4 April 2024 |website=Jutarnji list |language=hr |archive-date=4 April 2024 |archive-url=https://web.archive.org/web/20240404142634/https://www.jutarnji.hr/vijesti/hrvatska/savez-nasa-hrvatska-potpisao-suradnju-s-ids-om-pgs-om-i-platformom-sjever-mi-necemo-pljuvati-i-rigati-vatru-15443880 |url-status=live }}</ref>",
-                      "url": "https://www.jutarnji.hr/vijesti/hrvatska/savez-nasa-hrvatska-potpisao-suradnju-s-ids-om-pgs-om-i-platformom-sjever-mi-necemo-pljuvati-i-rigati-vatru-15443880",
-                      "status_code": null,
+                      "url": "https://www.jutarnji.hr/web-static/raste-broj-ovisnika-o-jeftinom-lijeku-iz-kucne-apoteke-doktore-ubijte-me-ali-ja-bez-njega-ne-mogu-zivjeti-15443880",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -315,21 +315,21 @@
                     {
                       "text": "<ref>{{Cite web |date=27 June 2023 |title=Možemo! na izbore izlazi samostalno: 'Istraživanje je pokazalo da stranke tako dobivaju više glasova' |trans-title=We can! goes to the elections independently: 'Research has shown that parties get more votes this way' |url=https://www.vecernji.hr/vijesti/mozemo-ili-ne-mozemo-tomaseviceva-stranka-objavljuje-hoce-li-u-koaliciju-s-sdp-om-1690696 |access-date=30 December 2023 |website=Večernji list |language=hr |archive-date=30 December 2023 |archive-url=https://web.archive.org/web/20231230204620/https://www.vecernji.hr/vijesti/mozemo-ili-ne-mozemo-tomaseviceva-stranka-objavljuje-hoce-li-u-koaliciju-s-sdp-om-1690696 |url-status=live }}</ref>",
                       "url": "https://www.vecernji.hr/vijesti/mozemo-ili-ne-mozemo-tomaseviceva-stranka-objavljuje-hoce-li-u-koaliciju-s-sdp-om-1690696",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Kolar |first=Helena |date=1 March 2024 |title=Benčić potvrdila: 'Kreću pregovori sa SDP-om o točkastoj koaliciji' |trans-title=Benčić confirmed: 'Negotiations with the SDP on a point coalition are underway' |url=https://www.telegram.hr/politika-kriminal/bencic-potvrdila-krecu-pregovori-sa-sdp-om-o-tockastoj-koaliciji/ |access-date=2 March 2024 |language=hr |archive-date=2 March 2024 |archive-url=https://web.archive.org/web/20240302100137/https://www.telegram.hr/politika-kriminal/bencic-potvrdila-krecu-pregovori-sa-sdp-om-o-tockastoj-koaliciji/ |url-status=live }}</ref>",
                       "url": "https://www.telegram.hr/politika-kriminal/bencic-potvrdila-krecu-pregovori-sa-sdp-om-o-tockastoj-koaliciji/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=22 March 2024 |title=Propali su pregovori između SDP-a i Možemo, Benčić poručila: \"Nema razdora, cilj nam i dalje ostaje isti – srušiti HDZ\" |trans-title=The negotiations between the SDP and Možemo failed, Benčić said: \"There is no discord, our goal remains the same – to overthrow the HDZ.\" |url=https://dnevnik.hr/vijesti/hrvatska/propali-su-pregovori-izmedju-sdp-a-i-mozemo---839413.html?itm_source=BottomNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |access-date=22 March 2024 |website=Dnevnik.hr |language=hr |archive-date=22 March 2024 |archive-url=https://web.archive.org/web/20240322234759/https://dnevnik.hr/vijesti/hrvatska/propali-su-pregovori-izmedju-sdp-a-i-mozemo---839413.html?itm_source=BottomNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/propali-su-pregovori-izmedju-sdp-a-i-mozemo---839413.html?itm_source=BottomNews&itm_medium=Dnevnik&itm_campaign=Naslovnica",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -342,21 +342,21 @@
                     {
                       "text": "<ref>{{Cite web |date=16 February 2024 |title=Oporba najavila prosvjed: \"Građani žele smjenu vlasti. To se dogodilo Karamarku, a dogodit će se i Andreju Plenkoviću\" |trans-title=The opposition announced a protest: \"Citizens want a change of government. It happened to Karamarko, and it will happen to Andrej Plenković as well.\" |url=https://dnevnik.hr/vijesti/hrvatska/oporba-najavila-prosvjed-dosta-je-idemo-na-izbore---828828.html?itm_source=BottomNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |access-date=16 February 2024 |website=Dnevnik.hr |language=hr |archive-date=16 February 2024 |archive-url=https://web.archive.org/web/20240216135903/https://dnevnik.hr/vijesti/hrvatska/oporba-najavila-prosvjed-dosta-je-idemo-na-izbore---828828.html?itm_source=BottomNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/oporba-najavila-prosvjed-dosta-je-idemo-na-izbore---828828.html?itm_source=BottomNews&itm_medium=Dnevnik&itm_campaign=Naslovnica",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=16 February 2024 |title=Lijevo- liberalna oporba poziva na Markov trg: \"Dosta je, vrijeme je za izbore\" |trans-title=Left-liberal opposition invites to Mark's Square: \"Enough, it's time for elections\" |url=https://www.novilist.hr/novosti/hrvatska/lijevo-liberalna-oporba-poziva-na-markov-trg-dosta-je-vrijeme-je-za-izbore/ |access-date=16 February 2024 |website=Novi List |language=hr |archive-date=16 February 2024 |archive-url=https://web.archive.org/web/20240216135902/https://www.novilist.hr/novosti/hrvatska/lijevo-liberalna-oporba-poziva-na-markov-trg-dosta-je-vrijeme-je-za-izbore/ |url-status=live }}</ref>",
                       "url": "https://www.novilist.hr/novosti/hrvatska/lijevo-liberalna-oporba-poziva-na-markov-trg-dosta-je-vrijeme-je-za-izbore/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Balog |first=Ida |date=23 March 2024 |title='Dosta je!' Završio oporbeni prosvjed, zviždalo se ispred DORH-a: 'Rijeke pravde dolaze' |trans-title='Enough is enough!' The opposition protest ended, whistles were blown in front of the DORH: 'The rivers of justice are coming' |url=https://www.vecernji.hr/vijesti/danas-oporbeni-skupovi-u-pet-gradova-milanovic-se-nece-pojaviti-1756133 |access-date=23 March 2024 |website=Večernji list |language=hr |archive-date=23 March 2024 |archive-url=https://web.archive.org/web/20240323071355/https://www.vecernji.hr/vijesti/danas-oporbeni-skupovi-u-pet-gradova-milanovic-se-nece-pojaviti-1756133 |url-status=live }}</ref>",
                       "url": "https://www.vecernji.hr/vijesti/danas-oporbeni-skupovi-u-pet-gradova-milanovic-se-nece-pojaviti-1756133",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -369,28 +369,28 @@
                     {
                       "text": "<ref name=\":2\" /> On 6 March, IDS and PGS claimed there will be no coalition in VIII electoral district with other parties than Focus and NS-R, per previous agreements.<ref>{{Cite web |last=Tomičić |first=Tihana |date=6 March 2024 |title=Vasilić potvrdio: Na izbore u 8. jedinici idemo s IDS-om, Fokusom i Reformistima |trans-title=Vasilić confirmed: We are going to the elections in the 8th unit with IDS, Fokus and Reformists |url=https://www.novilist.hr/rijeka-regija/rijeka/vasilic-potvrdio-na-izbore-u-8-jedinici-idemo-s-ids-om-fokusom-i-reformistima/ |access-date=9 March 2024 |website=Novi List |language=hr |archive-date=9 March 2024 |archive-url=https://web.archive.org/web/20240309013603/https://www.novilist.hr/rijeka-regija/rijeka/vasilic-potvrdio-na-izbore-u-8-jedinici-idemo-s-ids-om-fokusom-i-reformistima/ |url-status=live }}</ref>",
                       "url": "https://www.novilist.hr/rijeka-regija/rijeka/vasilic-potvrdio-na-izbore-u-8-jedinici-idemo-s-ids-om-fokusom-i-reformistima/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=17 March 2024 |title=Grbin potvrdio. Radnička fronta neće biti dio SDP-ove koalicije |trans-title=Grbin confirmed. The Workers' Front will not be part of the SDP coalition |url=https://www.novilist.hr/novosti/hrvatska/grbin-potvrdio-radnicka-fronta-nece-biti-dio-sdp-ove-koalicije/?meta_refresh=true |access-date=17 March 2024 |website=Novi List |language=hr |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319163845/https://www.novilist.hr/novosti/hrvatska/grbin-potvrdio-radnicka-fronta-nece-biti-dio-sdp-ove-koalicije/?meta_refresh=true |url-status=live }}</ref>",
                       "url": "https://www.novilist.hr/novosti/hrvatska/grbin-potvrdio-radnicka-fronta-nece-biti-dio-sdp-ove-koalicije/?meta_refresh=true",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=19 March 2024 |title=Paus: Koalicija je za IDS gotova priča, SDP nas je izgurao |trans-title=Paus: The coalition is a finished story for IDS, SDP pushed us out |url=https://vijesti.hrt.hr/hrvatska/paus-koalicija-je-za-ids-gotova-prica-sdp-nas-je-izgurao-11422069 |access-date=19 March 2024 |website=HRT |language=hr |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419204145/https://vijesti.hrt.hr/hrvatska/paus-koalicija-je-za-ids-gotova-prica-sdp-nas-je-izgurao-11422069 |url-status=live }}</ref>",
                       "url": "https://vijesti.hrt.hr/hrvatska/paus-koalicija-je-za-ids-gotova-prica-sdp-nas-je-izgurao-11422069",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=19 March 2024 |title=Fokus napustio koaliciju sa SDP-om |trans-title=Fokus left the coalition with SDP |url=https://www.tportal.hr/vijesti/clanak/fokus-napustio-koaliciju-sa-sdp-om-20240319?meta_refresh=1 |access-date=19 March 2024 |website=tportal.hr |language=hr |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319163845/https://www.tportal.hr/vijesti/clanak/fokus-napustio-koaliciju-sa-sdp-om-20240319?meta_refresh=1 |url-status=live }}</ref>",
                       "url": "https://www.tportal.hr/vijesti/clanak/fokus-napustio-koaliciju-sa-sdp-om-20240319?meta_refresh=1",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -403,49 +403,49 @@
                     {
                       "text": "<ref>{{Cite web |last=Brkulj |first=Vedran |date=5 March 2024 |title=Bačić: Na izbore izlazimo s koalicijskim partnerima |trans-title=Bačić: We are going to the elections with coalition partners |url=https://www.tportal.hr/vijesti/clanak/bacic-na-izbore-izlazimo-s-koalicijskim-partnerima-20240305 |access-date=9 March 2024 |website=tportal.hr |language=hr |archive-date=9 March 2024 |archive-url=https://web.archive.org/web/20240309013606/https://www.tportal.hr/vijesti/clanak/bacic-na-izbore-izlazimo-s-koalicijskim-partnerima-20240305 |url-status=live }}</ref>",
                       "url": "https://www.tportal.hr/vijesti/clanak/bacic-na-izbore-izlazimo-s-koalicijskim-partnerima-20240305",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=27 March 2024 |title=Predsjedništvo HSU-a jednoglasno donijelo odluku: 'Potpisujemo koalicijski sporazum s HDZ-om' |trans-title=The HSU Presidency unanimously decided: \"We are signing a coalition agreement with the HDZ\". |url=https://www.jutarnji.hr/vijesti/hrvatska/predsjednistvo-hsu-a-jednoglasno-donijelo-odluku-potpisujemo-koalicijski-sporazum-s-hdz-om-15443883 |access-date=4 April 2024 |website=Jutarnji list |language=hr |archive-date=3 April 2024 |archive-url=https://web.archive.org/web/20240403232246/https://www.jutarnji.hr/vijesti/hrvatska/predsjednistvo-hsu-a-jednoglasno-donijelo-odluku-potpisujemo-koalicijski-sporazum-s-hdz-om-15443883 |url-status=live }}</ref>",
                       "url": "https://www.jutarnji.hr/vijesti/hrvatska/predsjednistvo-hsu-a-jednoglasno-donijelo-odluku-potpisujemo-koalicijski-sporazum-s-hdz-om-15443883",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=15 March 2024 |title=Milanović ide na izbore sa SDP-om: Bit će kandidat za premijera |trans-title=Milanović is going to the elections with SDP: He will be a candidate for prime minister |url=https://dnevnik.hr/vijesti/hrvatska/zoran-milanovic-otkrio-da-ide-na-izbore-i-s-kim---838148.html |access-date=16 March 2024 |website=Dnevnik.hr |language=hr |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315232323/https://dnevnik.hr/vijesti/hrvatska/zoran-milanovic-otkrio-da-ide-na-izbore-i-s-kim---838148.html |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/zoran-milanovic-otkrio-da-ide-na-izbore-i-s-kim---838148.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Srzić |first=Ante |date=17 March 2024 |title=Tko će ukrstiti rukavice? Milanović bi na Plenkovića u prvoj, a evo koji su okršaji u ostalim izbornim jedinica |trans-title=Who will cross the gloves? Milanović would go on Plenković in the first, and here are the clashes in the other constituencies |url=https://www.tportal.hr/vijesti/clanak/tko-ce-ukrstiti-rukavice-milanovic-bi-na-plenkovica-u-prvoj-a-evo-koji-su-okrsaji-u-ostalim-izbornim-jedinica-20240317 |access-date=17 March 2024 |website=tportal.hr |language=hr |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317205041/https://www.tportal.hr/vijesti/clanak/tko-ce-ukrstiti-rukavice-milanovic-bi-na-plenkovica-u-prvoj-a-evo-koji-su-okrsaji-u-ostalim-izbornim-jedinica-20240317 |url-status=live }}</ref>",
                       "url": "https://www.tportal.hr/vijesti/clanak/tko-ce-ukrstiti-rukavice-milanovic-bi-na-plenkovica-u-prvoj-a-evo-koji-su-okrsaji-u-ostalim-izbornim-jedinica-20240317",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=18 March 2024 |title='IZBORI POD STROGIM NADZOROM' / Ustavni sud prelomio! 'Neka Milanović i SDP odmah prestanu! Možemo poništiti izbore!' |trans-title='ELECTIONS UNDER STRICT SUPERVISION' / The Constitutional Court overruled! Let Milanović and the SDP stop immediately! We can cancel the election!' |url=https://net.hr/danas/vijesti/uzivo-ustavni-sud-donio-je-odluku-o-milanovicevoj-kandidaturi-na-izborima-d70c2078-e4fe-11ee-a346-b67d0c6ce500 |access-date=18 March 2024 |website=net.hr |language=hr |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318122320/https://net.hr/danas/vijesti/uzivo-ustavni-sud-donio-je-odluku-o-milanovicevoj-kandidaturi-na-izborima-d70c2078-e4fe-11ee-a346-b67d0c6ce500 |url-status=live }}</ref>",
                       "url": "https://net.hr/danas/vijesti/uzivo-ustavni-sud-donio-je-odluku-o-milanovicevoj-kandidaturi-na-izborima-d70c2078-e4fe-11ee-a346-b67d0c6ce500",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=18 March 2024 |title=Croatia's top court rules that the president can't run in the parliamentary election unless he quits |url=https://apnews.com/article/croatia-election-constitutional-court-milanovic-plenkovic-2ee8c7af0e9a54cce4ba2136b1280791 |access-date=19 March 2024 |website=Assocciated Press |language=en |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318150147/https://apnews.com/article/croatia-election-constitutional-court-milanovic-plenkovic-2ee8c7af0e9a54cce4ba2136b1280791 |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/croatia-election-constitutional-court-milanovic-plenkovic-2ee8c7af0e9a54cce4ba2136b1280791",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Koja je tvoja stranka? Prvi izborni kompas za parlamentarne izbore u Hrvatskoj |url=https://www.fpzg.unizg.hr/novosti?@=2ff35 |website=www.fpzg.unizg.hr |publisher=[Faculty of Political Science, University of Zagreb ] |access-date=6 April 2024 |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406100841/https://www.fpzg.unizg.hr/novosti?@=2ff35 |url-status=live }}</ref>",
                       "url": "https://www.fpzg.unizg.hr/novosti?@=2ff35",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -470,21 +470,21 @@
                 {
                   "text": "<ref>[http://www.ipu.org/parline-e/reports/2077_B.htm Electoral system] {{Webarchive|url=https://web.archive.org/web/20160113112025/http://www.ipu.org/parline-e/reports/2077_B.htm |date=13 January 2016 }} IPU</ref>",
                   "url": "https://web.archive.org/web/20160113112025/http://www.ipu.org/parline-e/reports/2077_B.htm",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
                   "type": null
                 },
                 {
                   "text": "<ref>{{cite web | url=https://www.zakon.hr/z/355/Zakon-o-izborima-zastupnika-u-Hrvatski-sabor | title=Zakon o izborima zastupnika u Hrvatski sabor (Act on Election of Representatives to the Croatian Parliament) | language=hr | access-date=27 August 2018 | archive-date=28 August 2018 | archive-url=https://web.archive.org/web/20180828035834/https://www.zakon.hr/z/355/Zakon-o-izborima-zastupnika-u-Hrvatski-sabor | url-status=live }}</ref>",
-                  "url": "https://www.zakon.hr/z/355/Zakon-o-izborima-zastupnika-u-Hrvatski-sabor",
-                  "status_code": null,
+                  "url": "https://www.zakon.hr/z/355/zakon-o-izborima-zastupnika-u-hrvatski-sabor",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Zakon o izborima zastupnika u Hrvatski sabor (pročišćeni tekst) |url=https://www.zakon.hr/z/355/Zakon-o-izborima-zastupnika-u-Hrvatski-sabor |website=zakon.hr |access-date=2 April 2024 |archive-date=28 August 2018 |archive-url=https://web.archive.org/web/20180828035834/https://www.zakon.hr/z/355/Zakon-o-izborima-zastupnika-u-Hrvatski-sabor |url-status=live }}</ref>",
-                  "url": "https://www.zakon.hr/z/355/Zakon-o-izborima-zastupnika-u-Hrvatski-sabor",
-                  "status_code": null,
+                  "url": "https://www.zakon.hr/z/355/zakon-o-izborima-zastupnika-u-hrvatski-sabor",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -497,21 +497,21 @@
                 {
                   "text": "<ref>{{Cite web |date=27 October 2022 |title=Novo upozorenje Ustavnog suda: 'Ne bude li promjena izbornih jedinica, sljedeći izbori mogli bi biti proglašeni neustavnima' |trans-title=New warning from the Constitutional Court: 'If electoral units are not changed, the next elections could be declared unconstitutional' |url=https://www.tportal.hr/vijesti/clanak/s-ustavnog-suda-stigao-alarm-vrijeme-je-za-promjenu-granica-izbornih-jedinica-20221027 |access-date=7 January 2023 |website=tportal.hr |language=hr |archive-date=7 January 2023 |archive-url=https://web.archive.org/web/20230107205007/https://www.tportal.hr/vijesti/clanak/s-ustavnog-suda-stigao-alarm-vrijeme-je-za-promjenu-granica-izbornih-jedinica-20221027 |url-status=live }}</ref>",
                   "url": "https://www.tportal.hr/vijesti/clanak/s-ustavnog-suda-stigao-alarm-vrijeme-je-za-promjenu-granica-izbornih-jedinica-20221027",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=7 February 2023 |title=Ustavni sud ukinuo Zakon o izbornim jedinicama: \"Ovo nije nikakva hajka\" |trans-title=The Constitutional Court repealed the Law on Electoral Units: \"This is not a scam\" |url=https://dnevnik.hr/vijesti/hrvatska/predsjednik-ustavnog-suda-miroslav-separovic-o-zakonu-o-izbornim-jedinicama---765008.html |website=dnevnik.hr |language=Croatian |access-date=18 February 2023 |archive-date=18 February 2023 |archive-url=https://web.archive.org/web/20230218225557/https://dnevnik.hr/vijesti/hrvatska/predsjednik-ustavnog-suda-miroslav-separovic-o-zakonu-o-izbornim-jedinicama---765008.html |url-status=live }}</ref>",
                   "url": "https://dnevnik.hr/vijesti/hrvatska/predsjednik-ustavnog-suda-miroslav-separovic-o-zakonu-o-izbornim-jedinicama---765008.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Zakon o izbornim jedinicama za izbor zastupnika u Hrvatski sabor |url=https://www.zakon.hr/z/3574/Zakon-o-izbornim-jedinicama-za-izbor-zastupnika-u-Hrvatski-sabor |access-date=23 November 2023 |website=Zakon |archive-date=23 November 2023 |archive-url=https://web.archive.org/web/20231123145254/https://www.zakon.hr/z/3574/Zakon-o-izbornim-jedinicama-za-izbor-zastupnika-u-Hrvatski-sabor |url-status=live }}</ref>",
-                  "url": "https://www.zakon.hr/z/3574/Zakon-o-izbornim-jedinicama-za-izbor-zastupnika-u-Hrvatski-sabor",
-                  "status_code": null,
+                  "url": "https://www.zakon.hr/z/3574/zakon-o-izbornim-jedinicama-za-izbor-zastupnika-u-hrvatski-sabor",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -532,7 +532,7 @@
                     {
                       "text": "<ref>{{cite web |title=Elections of representatives to the Croatian Parliament |url=https://www.izbori.hr/site/en/about-elections-referenda/elections-of-representatives-to-the-croatian-parliament/1724 |website=izbori.hr |publisher=State Electoral Commission of the Republic of Croatia |access-date=2 April 2024 |archive-date=2 April 2024 |archive-url=https://web.archive.org/web/20240402234732/https://www.izbori.hr/site/en/about-elections-referenda/elections-of-representatives-to-the-croatian-parliament/1724 |url-status=live }}</ref>",
                       "url": "https://www.izbori.hr/site/en/about-elections-referenda/elections-of-representatives-to-the-croatian-parliament/1724",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -557,7 +557,7 @@
                 {
                   "text": "<ref>{{Cite web |date=18 March 2023 |title=Stranka Možemo izabrala Tomaševića i Benčić da ih vode kroz superizbornu 2024. godinu |trans-title=WeCan! chose Tomašević and Benčić to lead them through the 2024 Super Elections |url=https://www.telegram.hr/politika-kriminal/stranka-mozemo-izabrala-tomasevica-i-bencic-da-ih-vode-kroz-superizbornu-2024-godinu/ |access-date=29 January 2024 |website=Bloomberg Adria |language=hr |archive-date=27 March 2023 |archive-url=https://web.archive.org/web/20230327025325/https://www.telegram.hr/politika-kriminal/stranka-mozemo-izabrala-tomasevica-i-bencic-da-ih-vode-kroz-superizbornu-2024-godinu/ |url-status=live }}</ref>",
                   "url": "https://www.telegram.hr/politika-kriminal/stranka-mozemo-izabrala-tomasevica-i-bencic-da-ih-vode-kroz-superizbornu-2024-godinu/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -580,8 +580,8 @@
                 {
                   "text": "<ref>{{Cite web |date=30 March 2024 |title=10. priopćenje o objavi pravovaljano predloženih lista i kandidata i zbirnih lista na izborima zastupnika u Hrvatski sabor |trans-title=10. announcement on the publication of validly proposed lists of candidates and summary lists for the elections of deputies to the Croatian Parliament |url=https://www.izbori.hr/site/UserDocsImages/2024/Izbori_za_zastupnike_u_Hrvatski_sabor/Priop%C4%87enja/10.%20Priop%C4%87enje%20-%20objava%20pravovaljanih%20lista%20i%20kandidata%20i%20zbirnih%20lista.pdf |access-date=30 March 2024 |website=Državno izborno povjerenstvo |language=hr |archive-date=30 March 2024 |archive-url=https://web.archive.org/web/20240330230037/https://www.izbori.hr/site/UserDocsImages/2024/Izbori_za_zastupnike_u_Hrvatski_sabor/Priop%C4%87enja/10.%20Priop%C4%87enje%20-%20objava%20pravovaljanih%20lista%20i%20kandidata%20i%20zbirnih%20lista.pdf |url-status=live }}</ref>",
                   "url": "https://www.izbori.hr/site/UserDocsImages/2024/Izbori_za_zastupnike_u_Hrvatski_sabor/Priop%C4%87enja/10.%20Priop%C4%87enje%20-%20objava%20pravovaljanih%20lista%20i%20kandidata%20i%20zbirnih%20lista.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 }
               ]
@@ -609,15 +609,15 @@
                   "references": [
                     {
                       "text": "<ref>{{cite news |title=Zakon o izborima zastupnika u Hrvatski sabor |trans-title=The Elections of representatives to the Croatian Parliament Act |url=https://www.zakon.hr/z/355/Zakon-o-izborima-zastupnika-u-Hrvatski-sabor |access-date=13 April 2024 |work=Narodne Novine |publisher=zakon.hr |date=1 January 2020 |language=Croatian |archive-date=28 August 2018 |archive-url=https://web.archive.org/web/20180828035834/https://www.zakon.hr/z/355/Zakon-o-izborima-zastupnika-u-Hrvatski-sabor |url-status=live }}</ref>",
-                      "url": "https://www.zakon.hr/z/355/Zakon-o-izborima-zastupnika-u-Hrvatski-sabor",
-                      "status_code": null,
+                      "url": "https://www.zakon.hr/z/355/zakon-o-izborima-zastupnika-u-hrvatski-sabor",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |title=Strankama koje neće imati dovoljno žena na listama prijeti i do 33.000 eura kazne |url=https://n1info.hr/vijesti/strankama-koje-nece-imati-dovoljno-zena-na-listama-prijeti-i-do-33-000-eura-kazne/ |website=n1info.hr |date=27 March 2024 |access-date=13 April 2024 |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409024622/https://n1info.hr/vijesti/strankama-koje-nece-imati-dovoljno-zena-na-listama-prijeti-i-do-33-000-eura-kazne/ |url-status=live }}</ref>",
                       "url": "https://n1info.hr/vijesti/strankama-koje-nece-imati-dovoljno-zena-na-listama-prijeti-i-do-33-000-eura-kazne/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -630,14 +630,14 @@
                     {
                       "text": "<ref>{{cite web |title=Predali liste pa prekršili Zakon: Vidović Krišto rekorderka, HDZ-u kazna od 60.000 eura |url=https://www.vecernji.hr/vijesti/cijena-neravnoteze-vidovic-kristo-i-hdz-u-prijeti-najveca-kazna-zbog-nedovoljno-zena-na-listama-1759343 |website=vecernji.hr |publisher=Večernji list |access-date=13 April 2024 |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416055004/https://www.vecernji.hr/vijesti/cijena-neravnoteze-vidovic-kristo-i-hdz-u-prijeti-najveca-kazna-zbog-nedovoljno-zena-na-listama-1759343 |url-status=live }}</ref>",
                       "url": "https://www.vecernji.hr/vijesti/cijena-neravnoteze-vidovic-kristo-i-hdz-u-prijeti-najveca-kazna-zbog-nedovoljno-zena-na-listama-1759343",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Plenković o manjku žena na listama HDZ-a: Takve su okolnosti, nastojimo balansirati |url=https://www.index.hr/vijesti/clanak/plenkovic-o-manjku-zena-na-listama-hdza-takve-su-okolnosti-nastojimo-balansirati/2551825.aspx |website=index.hr |publisher=Index |access-date=13 April 2024 |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416030959/https://www.index.hr/vijesti/clanak/plenkovic-o-manjku-zena-na-listama-hdza-takve-su-okolnosti-nastojimo-balansirati/2551825.aspx |url-status=live }}</ref>",
                       "url": "https://www.index.hr/vijesti/clanak/plenkovic-o-manjku-zena-na-listama-hdza-takve-su-okolnosti-nastojimo-balansirati/2551825.aspx",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -650,15 +650,15 @@
                     {
                       "text": "<ref>{{cite web |title=Plenković se razmeće izjavama o ravnopravnosti, a na listama nema nijedne nositeljice. Gdje su HDZ-u žene? |url=https://www.telegram.hr/politika-kriminal/plenkovic-se-razmece-izjavama-o-ravnopravnosti-a-na-listama-nema-nijedne-nositeljice-gdje-su-hdz-u-zene/ |website=telegram.hr |publisher=Telegram |access-date=13 April 2024 |archive-date=8 March 2024 |archive-url=https://web.archive.org/web/20240308133705/https://www.telegram.hr/politika-kriminal/plenkovic-se-razmece-izjavama-o-ravnopravnosti-a-na-listama-nema-nijedne-nositeljice-gdje-su-hdz-u-zene/ |url-status=live }}</ref>",
                       "url": "https://www.telegram.hr/politika-kriminal/plenkovic-se-razmece-izjavama-o-ravnopravnosti-a-na-listama-nema-nijedne-nositeljice-gdje-su-hdz-u-zene/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Domovinski pokret predao liste: Penava otkrio tko su nositelji, komentirao i Milanovića |url=https://direktno.hr/direkt/domovinski-pokret-objavio-nositelje-lista-penava-otkrio-dobro-poznata-imena-341825/ |website=direktno.hr |access-date=13 April 2024 }}{{Dead link|date=April 2024 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>",
                       "url": "https://direktno.hr/direkt/domovinski-pokret-objavio-nositelje-lista-penava-otkrio-dobro-poznata-imena-341825/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -682,14 +682,14 @@
                 {
                   "text": "<ref>{{cite web |title=DIP objavio pravovaljane liste. Službeno je počela kampanja |url=https://www.index.hr/vijesti/clanak/dip-objavio-pravovaljane-liste-sluzbeno-je-pocela-kampanja/2552266.aspx |website=index.hr |publisher=Index |access-date=13 April 2024 |date=30 March 2024 |archive-date=2 April 2024 |archive-url=https://web.archive.org/web/20240402211845/https://www.index.hr/vijesti/clanak/dip-objavio-pravovaljane-liste-sluzbeno-je-pocela-kampanja/2552266.aspx |url-status=live }}</ref>",
                   "url": "https://www.index.hr/vijesti/clanak/dip-objavio-pravovaljane-liste-sluzbeno-je-pocela-kampanja/2552266.aspx",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Broje se zadnji dani kampanje: Hoćete li izaći na izbore? |url=https://www.tportal.hr/vijesti/clanak/broje-se-zadnji-dani-kampanje-hocete-li-izaci-na-izbore-20240412 |website=tportal.hr |publisher=Tportal |access-date=13 April 2024 |date=12 April 2024 |archive-date=13 April 2024 |archive-url=https://web.archive.org/web/20240413000448/https://www.tportal.hr/vijesti/clanak/broje-se-zadnji-dani-kampanje-hocete-li-izaci-na-izbore-20240412 |url-status=live }}</ref>",
                   "url": "https://www.tportal.hr/vijesti/clanak/broje-se-zadnji-dani-kampanje-hocete-li-izaci-na-izbore-20240412",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -702,42 +702,42 @@
                 {
                   "text": "<ref>{{cite web |title=Kupuju se Vijetnamci i vrijeđa opozicija, a što o kampanji na društvenim mrežama kažu glasači? \"To nije politika, to je onda zabava\" |url=https://dnevnik.hr/vijesti/hrvatska/kupuju-se-vijetnamci-i-vrijedjaju-suparnici-a-sto-o-politici-na-drustvenim-mrezama-kazu-glasaci-to-nije-politika-to-je-onda-zabava---839830.html |website=dnevnik.hr |publisher=Nova TV |access-date=13 April 2024 |language=Croatian |date=26 March 2024 |archive-date=4 April 2024 |archive-url=https://web.archive.org/web/20240404120905/https://dnevnik.hr/vijesti/hrvatska/kupuju-se-vijetnamci-i-vrijedjaju-suparnici-a-sto-o-politici-na-drustvenim-mrezama-kazu-glasaci-to-nije-politika-to-je-onda-zabava---839830.html |url-status=live }}</ref>",
                   "url": "https://dnevnik.hr/vijesti/hrvatska/kupuju-se-vijetnamci-i-vrijedjaju-suparnici-a-sto-o-politici-na-drustvenim-mrezama-kazu-glasaci-to-nije-politika-to-je-onda-zabava---839830.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Vijetnamci lajkaju HDZ: \"Svi ih kupuju. Netko kupuje iz Vijetnama, netko iz Kozari Puteva\" |url=https://dnevnik.hr/vijesti/hrvatska/hdz-ov-facebook-zatrpan-je-lajkovima-svi-kupuju-lajkove-a-netko-kupuje-iz-vijetnama-netko-iz-kozari-puteva---838809.html |website=dnevnik.hr |publisher=Nova TV |access-date=13 April 2024 |language=Croatian |date=19 March 2024 |archive-date=4 April 2024 |archive-url=https://web.archive.org/web/20240404030835/https://dnevnik.hr/vijesti/hrvatska/hdz-ov-facebook-zatrpan-je-lajkovima-svi-kupuju-lajkove-a-netko-kupuje-iz-vijetnama-netko-iz-kozari-puteva---838809.html |url-status=live }}</ref>",
                   "url": "https://dnevnik.hr/vijesti/hrvatska/hdz-ov-facebook-zatrpan-je-lajkovima-svi-kupuju-lajkove-a-netko-kupuje-iz-vijetnama-netko-iz-kozari-puteva---838809.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Predizborna kampanja prelazi na društvene mreže |url=https://vijesti.hrt.hr/hrvatska/izborna-kampanja-na-drustvenim-mrezama-11401488 |website=vijesti.hrt.hr |publisher=Croatian Radiotelevision |access-date=13 April 2024 |language=Croatian |date=7 March 2024 |archive-date=27 March 2024 |archive-url=https://web.archive.org/web/20240327133837/https://vijesti.hrt.hr/hrvatska/izborna-kampanja-na-drustvenim-mrezama-11401488 |url-status=live }}</ref>",
                   "url": "https://vijesti.hrt.hr/hrvatska/izborna-kampanja-na-drustvenim-mrezama-11401488",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=VIDEO Pokazao par trikova, pokušao biti kul i šaljiv: Plenković postao tiktoker, njegov prvi video morate pogledati |url=https://dnevnik.hr/vijesti/hrvatska/video-plenkovic-otvorio-tiktok-profil-njegov-prvi-video-morate-pogledati---840376.html |website=dnevnik.hr |publisher=Nova TV |access-date=13 April 2024 |language=Croatian |date=28 March 2024 |archive-date=12 April 2024 |archive-url=https://web.archive.org/web/20240412190732/https://dnevnik.hr/vijesti/hrvatska/video-plenkovic-otvorio-tiktok-profil-njegov-prvi-video-morate-pogledati---840376.html |url-status=live }}</ref>",
                   "url": "https://dnevnik.hr/vijesti/hrvatska/video-plenkovic-otvorio-tiktok-profil-njegov-prvi-video-morate-pogledati---840376.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=VIDEO Hrvatski političari otkrili TikTok, nakon Plenkovića i Beroša, stigao i – Ljubo Ćesić Rojs |url=https://www.novilist.hr/novosti/video-hrvatski-politicari-otkrili-tiktok-nakon-plenkovica-i-berosa-stigao-i-ljubo-cesic-rojs/ |website=novilist.hr |publisher=Novi list |access-date=13 April 2024 |language=Croatian |date=30 March 2024 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410032852/https://www.novilist.hr/novosti/video-hrvatski-politicari-otkrili-tiktok-nakon-plenkovica-i-berosa-stigao-i-ljubo-cesic-rojs/ |url-status=live }}</ref>",
                   "url": "https://www.novilist.hr/novosti/video-hrvatski-politicari-otkrili-tiktok-nakon-plenkovica-i-berosa-stigao-i-ljubo-cesic-rojs/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Možemo! predstavio prvu AI političarku: 'Sretan Uskrs, pinca mi se hladi...' |url=https://www.jutarnji.hr/vijesti/hrvatska/mozemo-predstavio-prvu-ai-politicarku-sretan-uskrs-pinca-mi-se-hladi-15445399 |website=jutarnji.hr |publisher=Jutarnji list |access-date=13 April 2024 |language=Croatian |date=1 April 2024 |archive-date=3 April 2024 |archive-url=https://web.archive.org/web/20240403021747/https://www.jutarnji.hr/vijesti/hrvatska/mozemo-predstavio-prvu-ai-politicarku-sretan-uskrs-pinca-mi-se-hladi-15445399 |url-status=live }}</ref>",
                   "url": "https://www.jutarnji.hr/vijesti/hrvatska/mozemo-predstavio-prvu-ai-politicarku-sretan-uskrs-pinca-mi-se-hladi-15445399",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -758,35 +758,35 @@
                     {
                       "text": "<ref>{{cite web |title=Milanović: Habijan je gej |trans-title=Milanović: Habijan is gay |url=https://www.index.hr/vijesti/clanak/milanovic-habijan-je-gej/2528567.aspx |website=index.hr |publisher=Index |access-date=13 April 2024 |language=Croatian |date=12 January 2024 |archive-date=15 February 2024 |archive-url=https://web.archive.org/web/20240215154022/https://www.index.hr/vijesti/clanak/milanovic-habijan-je-gej/2528567.aspx |url-status=live }}</ref>",
                       "url": "https://www.index.hr/vijesti/clanak/milanovic-habijan-je-gej/2528567.aspx",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Zagreb Pride o Milanovićevom 'outanju' Habijana: 'Nismo željeli javno reći svoj stav zbog dva razloga' |url=https://www.vecernji.hr/vijesti/zagreb-pride-o-milanovicevom-outanju-habijana-nismo-zeljeli-javno-reci-svoj-stav-zbog-dva-razloga-1740673 |website=vecernji.hr |publisher=Večernji list |access-date=13 April 2024 |language=Croatian |date=22 January 2024 |archive-date=28 March 2024 |archive-url=https://web.archive.org/web/20240328140059/https://www.vecernji.hr/vijesti/zagreb-pride-o-milanovicevom-outanju-habijana-nismo-zeljeli-javno-reci-svoj-stav-zbog-dva-razloga-1740673 |url-status=live }}</ref>",
                       "url": "https://www.vecernji.hr/vijesti/zagreb-pride-o-milanovicevom-outanju-habijana-nismo-zeljeli-javno-reci-svoj-stav-zbog-dva-razloga-1740673",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Velika podjela u hrvatskoj gay zajednici: Aktivisti su se nakon Milanovićevog 'outanja' Habijana ozbiljno razišli |url=https://www.jutarnji.hr/vijesti/hrvatska/velika-podjela-u-hrvatskoj-gay-zajednici-aktivisti-su-se-nakon-milanovicevog-outanja-habijana-ozbiljno-razisli-15417893 |website=jutarnji.hr |publisher=Jutarnji list |access-date=13 April 2024 |language=Croatian |date=21 January 2024 |archive-date=22 March 2024 |archive-url=https://web.archive.org/web/20240322083547/https://www.jutarnji.hr/vijesti/hrvatska/velika-podjela-u-hrvatskoj-gay-zajednici-aktivisti-su-se-nakon-milanovicevog-outanja-habijana-ozbiljno-razisli-15417893 |url-status=live }}</ref>",
                       "url": "https://www.jutarnji.hr/vijesti/hrvatska/velika-podjela-u-hrvatskoj-gay-zajednici-aktivisti-su-se-nakon-milanovicevog-outanja-habijana-ozbiljno-razisli-15417893",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Zagreb Pride: Ovo je 11 gej kandidata na listama. Trojica su iz HDZ-a |url=https://www.index.hr/vijesti/clanak/zagreb-pride-ovo-je-11-gej-kandidata-na-listama-trojica-su-iz-hdza/2556118.aspx |website=index.hr |publisher=Index |access-date=13 April 2024 |language=Croatian |date=13 April 2024 |archive-date=13 April 2024 |archive-url=https://web.archive.org/web/20240413185044/https://www.index.hr/vijesti/clanak/zagreb-pride-ovo-je-11-gej-kandidata-na-listama-trojica-su-iz-hdza/2556118.aspx |url-status=live }}</ref>",
                       "url": "https://www.index.hr/vijesti/clanak/zagreb-pride-ovo-je-11-gej-kandidata-na-listama-trojica-su-iz-hdza/2556118.aspx",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Političari složni: Zagreb Pride nije imao pravo \"outati\" one koji to nisu učinili sami |url=https://n1info.hr/vijesti/politicari-slozni-zagreb-pride-nije-imao-pravo-outati-one-koji-to-nisu-ucinili-sami/ |website=n1info.hr |publisher=N1 |access-date=13 April 2024 |language=Croatian |date=13 April 2024 |archive-date=13 April 2024 |archive-url=https://web.archive.org/web/20240413173747/https://n1info.hr/vijesti/politicari-slozni-zagreb-pride-nije-imao-pravo-outati-one-koji-to-nisu-ucinili-sami/ |url-status=live }}</ref>",
                       "url": "https://n1info.hr/vijesti/politicari-slozni-zagreb-pride-nije-imao-pravo-outati-one-koji-to-nisu-ucinili-sami/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -799,35 +799,35 @@
                     {
                       "text": "<ref>{{cite web |title=Milanović: Izašao sam iz zone komfora i krenuo. Krenite i vi! |url=https://www.tportal.hr/vijesti/clanak/milanovic-izasao-iz-zone-komfora-i-krenuo-krenite-i-vi-20240413 |website=tportal.hr |publisher=Tportal |access-date=14 April 2024 |language=Croatian |date=13 April 2024 |archive-date=13 April 2024 |archive-url=https://web.archive.org/web/20240413085519/https://www.tportal.hr/vijesti/clanak/milanovic-izasao-iz-zone-komfora-i-krenuo-krenite-i-vi-20240413 |url-status=live }}</ref>",
                       "url": "https://www.tportal.hr/vijesti/clanak/milanovic-izasao-iz-zone-komfora-i-krenuo-krenite-i-vi-20240413",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Milanović poslao poruku biračima: \"Glasuj za sve, samo za HDZ* NE!\" |url=https://www.novilist.hr/novosti/hrvatska/milanovic-poslao-poruku-biracima-glasuj-za-sve-samo-za-hdz-ne/ |website=novilist.hr |publisher=Novi list |access-date=14 April 2024 |language=Croatian |date=12 April 2024 |archive-date=13 April 2024 |archive-url=https://web.archive.org/web/20240413020834/https://www.novilist.hr/novosti/hrvatska/milanovic-poslao-poruku-biracima-glasuj-za-sve-samo-za-hdz-ne/ |url-status=live }}</ref>",
                       "url": "https://www.novilist.hr/novosti/hrvatska/milanovic-poslao-poruku-biracima-glasuj-za-sve-samo-za-hdz-ne/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=SDP i Domovinski pokret potencijalni politički partneri? Hajdaš Dončić zaintrigirao izjavom |url=https://www.dnevno.hr/vijesti/sdp-i-domovinski-pokret-kao-potencijalni-politicki-partneri-hajdas-doncic-zaintrigirao-izjavom-2371456/ |website=dnevno.hr |access-date=14 April 2024 |language=Croatian |date=27 March 2024 |archive-date=31 March 2024 |archive-url=https://web.archive.org/web/20240331051734/https://www.dnevno.hr/vijesti/sdp-i-domovinski-pokret-kao-potencijalni-politicki-partneri-hajdas-doncic-zaintrigirao-izjavom-2371456/ |url-status=live }}</ref>",
                       "url": "https://www.dnevno.hr/vijesti/sdp-i-domovinski-pokret-kao-potencijalni-politicki-partneri-hajdas-doncic-zaintrigirao-izjavom-2371456/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Sandra Benčić jasno rekla što će Možemo učiniti ako na izborima dođe do pat pozicije |url=https://www.tportal.hr/vijesti/clanak/sandra-bencic-jasno-rekla-sto-ce-mozemo-uciniti-ako-na-izborima-dode-do-pat-pozicije-foto-20240411?meta_refresh=1 |website=tportal.hr |publisher=Tportal |access-date=14 April 2024 |language=Croatian |date=11 April 2024 |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419203616/https://www.tportal.hr/vijesti/clanak/sandra-bencic-jasno-rekla-sto-ce-mozemo-uciniti-ako-na-izborima-dode-do-pat-pozicije-foto-20240411?meta_refresh=1 |url-status=live }}</ref>",
                       "url": "https://www.tportal.hr/vijesti/clanak/sandra-bencic-jasno-rekla-sto-ce-mozemo-uciniti-ako-na-izborima-dode-do-pat-pozicije-foto-20240411?meta_refresh=1",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Penava: SDP nam je prihvatljiv, ali Možemo! i SDSS apsolutno nisu |url=https://www.tportal.hr/vijesti/clanak/penava-sdp-nam-je-prihvatljiv-ali-mozemo-i-sdss-apsolutno-nisu-foto-20240316 |website=tportal.hr |access-date=14 April 2024 |language=Croatian |date=16 March 2024 |archive-date=27 March 2024 |archive-url=https://web.archive.org/web/20240327225143/https://www.tportal.hr/vijesti/clanak/penava-sdp-nam-je-prihvatljiv-ali-mozemo-i-sdss-apsolutno-nisu-foto-20240316 |url-status=live }}</ref>",
                       "url": "https://www.tportal.hr/vijesti/clanak/penava-sdp-nam-je-prihvatljiv-ali-mozemo-i-sdss-apsolutno-nisu-foto-20240316",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -840,7 +840,7 @@
                     {
                       "text": "<ref>{{cite web |title=Croatian PM accuses President Milanović of pushing nation towards 'Russian World' |url=https://tvpworld.com/76974828/croatian-pm-accuses-president-milanovic-of-pushing-nation-towards-russian-world |website=TVP World |access-date=14 April 2024 |language=English |date=14 April 2024 |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419203614/https://tvpworld.com/76974828/croatian-pm-accuses-president-milanovic-of-pushing-nation-towards-russian-world |url-status=live }}</ref>",
                       "url": "https://tvpworld.com/76974828/croatian-pm-accuses-president-milanovic-of-pushing-nation-towards-russian-world",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -848,41 +848,41 @@
                       "text": "<ref>{{Cite web |date=12 April 2024 |title=Graft scandals threaten conservatives' bid for third term in Croatia election |url=https://www.swissinfo.ch/eng/graft-scandals-threaten-conservatives%27-bid-for-third-term-in-croatia-election/75595381 |access-date= |website=SWI swissinfo.ch |language=en-GB |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417225931/https://www.swissinfo.ch/eng/graft-scandals-threaten-conservatives%27-bid-for-third-term-in-croatia-election/75595381 |url-status=live }}</ref>",
                       "url": "https://www.swissinfo.ch/eng/graft-scandals-threaten-conservatives%27-bid-for-third-term-in-croatia-election/75595381",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "0, message='', url=\"https://www.swissinfo.ch/eng/graft-scandals-threaten-conservatives'-bid-for-third-term-in-croatia-election/75595381\"",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Faktograf otkriva kako je Josipa Rimac zapošljavala njoj bliske ljude uz pomoć ministra Olega Butkovića |url=https://faktograf.hr/2024/04/04/faktograf-otkriva-kako-je-josipa-rimac-zaposljavala-njoj-bliske-ljude-uz-pomoc-ministra-olega-butkovica/ |website=faktograf.hr |publisher=Faktograf |access-date=19 April 2024 |language=Croatian |date=4 April 2024 |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417004334/https://faktograf.hr/2024/04/04/faktograf-otkriva-kako-je-josipa-rimac-zaposljavala-njoj-bliske-ljude-uz-pomoc-ministra-olega-butkovica/ |url-status=live }}</ref>",
                       "url": "https://faktograf.hr/2024/04/04/faktograf-otkriva-kako-je-josipa-rimac-zaposljavala-njoj-bliske-ljude-uz-pomoc-ministra-olega-butkovica/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Josipa Rimac utjecala je na bivšeg predsjednika DKOM-a Gorana Matešića u korist Večernjeg lista |url=https://faktograf.hr/2024/04/09/josipa-rimac-utjecala-je-na-bivseg-predsjednika-dkom-a-gorana-matesica-u-korist-vecernjeg-lista/ |website=faktograf.hr |publisher=Faktograf |access-date=19 April 2024 |language=Croatian |date=9 April 2024 |archive-date=15 April 2024 |archive-url=https://web.archive.org/web/20240415195803/https://faktograf.hr/2024/04/09/josipa-rimac-utjecala-je-na-bivseg-predsjednika-dkom-a-gorana-matesica-u-korist-vecernjeg-lista/ |url-status=live }}</ref>",
                       "url": "https://faktograf.hr/2024/04/09/josipa-rimac-utjecala-je-na-bivseg-predsjednika-dkom-a-gorana-matesica-u-korist-vecernjeg-lista/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Butković o prepisci s Josipom Rimac: 'Ja se tih poruka ne sjećam. Kako bih mogao utjecati na zapošljavanje u privatnoj tvrtki?' |url=https://www.telegram.hr/politika-kriminal/butkovic-o-prepisci-s-josipom-rimac-ja-se-tih-poruka-ne-sjecam-kako-bih-mogao-utjecati-na-zaposljavanje-u-privatnoj-tvrtki/ |website=telegram.hr |publisher=Telegram |access-date=19 April 2024 |language=Croatian |date=5 April 2024 |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419203516/https://www.telegram.hr/politika-kriminal/butkovic-o-prepisci-s-josipom-rimac-ja-se-tih-poruka-ne-sjecam-kako-bih-mogao-utjecati-na-zaposljavanje-u-privatnoj-tvrtki/ |url-status=live }}</ref>",
                       "url": "https://www.telegram.hr/politika-kriminal/butkovic-o-prepisci-s-josipom-rimac-ja-se-tih-poruka-ne-sjecam-kako-bih-mogao-utjecati-na-zaposljavanje-u-privatnoj-tvrtki/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Procurile nove poruke Josipe Rimac. O svom predmetu tipkala sa šefom suda, a opet se spominje i AP |url=https://www.telegram.hr/politika-kriminal/procurile-nove-poruke-josipe-rimac-o-svom-predmetu-tipkala-s-predsjednikom-suda-a-opet-se-spominje-i-ap/ |website=telegram.hr |publisher=Telegram |access-date=19 April 2024 |language=Croatian |date=11 April 2024 |archive-date=11 April 2024 |archive-url=https://web.archive.org/web/20240411184959/https://www.telegram.hr/politika-kriminal/procurile-nove-poruke-josipe-rimac-o-svom-predmetu-tipkala-s-predsjednikom-suda-a-opet-se-spominje-i-ap/ |url-status=live }}</ref>",
                       "url": "https://www.telegram.hr/politika-kriminal/procurile-nove-poruke-josipe-rimac-o-svom-predmetu-tipkala-s-predsjednikom-suda-a-opet-se-spominje-i-ap/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Rimac u porukama spominjala Daliju Orešković. Evo njene reakcije: 'Ako je pravosuđe naša rak rana, sad znamo da je HDZ uzrok tog karcinoma' |url=https://www.telegram.hr/politika-kriminal/rimac-u-porukama-spominjala-daliju-oreskovic-evo-njene-reakcije-ako-je-pravosude-nasa-rak-rana-sad-znamo-da-je-hdz-uzrok-tog-karcinoma/ |website=telegram.hr |publisher=Telegram |access-date=19 April 2024 |language=Croatian |date=11 April 2024 |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419203637/https://www.telegram.hr/politika-kriminal/rimac-u-porukama-spominjala-daliju-oreskovic-evo-njene-reakcije-ako-je-pravosude-nasa-rak-rana-sad-znamo-da-je-hdz-uzrok-tog-karcinoma/ |url-status=live }}</ref>",
                       "url": "https://www.telegram.hr/politika-kriminal/rimac-u-porukama-spominjala-daliju-oreskovic-evo-njene-reakcije-ako-je-pravosude-nasa-rak-rana-sad-znamo-da-je-hdz-uzrok-tog-karcinoma/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -905,84 +905,84 @@
                     {
                       "text": "<ref>{{cite web |title=Ovo je slogan HDZ-a za izbore |url=https://www.index.hr/vijesti/clanak/hdz-objavio-slogan-za-izbore/2548140.aspx |access-date=3 April 2024 |publisher=Index.hr |date=17 March 2024 |url-status=live |archive-date=3 April 2024 |archive-url=https://web.archive.org/web/20240403192239/https://www.index.hr/vijesti/clanak/hdz-objavio-slogan-za-izbore/2548140.aspx }}</ref>",
                       "url": "https://www.index.hr/vijesti/clanak/hdz-objavio-slogan-za-izbore/2548140.aspx",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=SDP postavio jumbo plakate i otkrio slogan. |url=https://www.24sata.hr/news/sdp-postavio-jumbo-plakate-i-otkrio-slogan-isti-je-objavio-i-zoran-milanovic-na-facebooku-972257 |access-date=3 April 2024 |publisher=24sata |website=24sata.hr |date=21 March 2024 |url-status=live |archive-date=3 April 2024 |archive-url=https://web.archive.org/web/20240403192240/https://www.24sata.hr/news/sdp-postavio-jumbo-plakate-i-otkrio-slogan-isti-je-objavio-i-zoran-milanovic-na-facebooku-972257 }}</ref>",
                       "url": "https://www.24sata.hr/news/sdp-postavio-jumbo-plakate-i-otkrio-slogan-isti-je-objavio-i-zoran-milanovic-na-facebooku-972257",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Most na izbore ide sa sloganom 'Na tvojoj strani', predstavili su svoj program |url=https://www.telegram.hr/politika-kriminal/most-na-izbore-ide-sa-sloganom-na-tvojoj-strani-predstavili-su-svoj-program/ |website=Telegram.hr |publisher=Telegram |access-date=3 April 2024 |date=19 March 2024 |archive-date=23 March 2024 |archive-url=https://web.archive.org/web/20240323152907/https://www.telegram.hr/politika-kriminal/most-na-izbore-ide-sa-sloganom-na-tvojoj-strani-predstavili-su-svoj-program/ |url-status=live }}</ref>",
                       "url": "https://www.telegram.hr/politika-kriminal/most-na-izbore-ide-sa-sloganom-na-tvojoj-strani-predstavili-su-svoj-program/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Na tvojoj strani |url=https://www.natvojojstrani.com/ |website=natvojojstrani.hr |publisher=The Bridge (Croatia) |access-date=3 April 2024 |archive-date=3 April 2024 |archive-url=https://web.archive.org/web/20240403192239/https://www.natvojojstrani.com/ |url-status=live }}</ref>",
                       "url": "https://www.natvojojstrani.com/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Domovinski pokret održao veliki skup \"Ustani i ostani\" u Lisinskom: \"Pobjeda je naš sveti cilj\" |url=https://n1info.hr/vijesti/domovinski-pokret-odrzao-veliki-skup-ustani-i-ostani-u-lisinskom-pobjeda-je-nas-sveti-cilj/ |website=n1info.hr |date=23 March 2024 |publisher=N1 |access-date=3 April 2024 |archive-date=3 April 2024 |archive-url=https://web.archive.org/web/20240403192240/https://n1info.hr/vijesti/domovinski-pokret-odrzao-veliki-skup-ustani-i-ostani-u-lisinskom-pobjeda-je-nas-sveti-cilj/ |url-status=live }}</ref>",
                       "url": "https://n1info.hr/vijesti/domovinski-pokret-odrzao-veliki-skup-ustani-i-ostani-u-lisinskom-pobjeda-je-nas-sveti-cilj/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=Možemo ima novi slogan |url=https://dnevnik.hr/video/mozemo-ima-novi-slogan---62780878 |access-date=3 April 2024 |work=Dnevnik.hr |agency=Nova TV |date=24 March 2024 |archive-date=3 April 2024 |archive-url=https://web.archive.org/web/20240403192239/https://dnevnik.hr/video/mozemo-ima-novi-slogan---62780878 |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/video/mozemo-ima-novi-slogan---62780878",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |title=Zamisli drzgačiju Hrvatsku |url=https://mozemo.hr/zamisli-drugaciju-hrvatsku/ |website=mozemo.hr |publisher=We Can! |access-date=14 April 2024 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410203603/https://mozemo.hr/zamisli-drugaciju-hrvatsku/ |url-status=live }}</ref>",
                       "url": "https://mozemo.hr/zamisli-drugaciju-hrvatsku/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Socijaldemokrati predstavili izborni program. Na listama su Vilim Ribić i Vlado Šola |url=https://www.index.hr/vijesti/clanak/socijaldemokrati-predstavili-izborni-program-slogan-je-ozbiljno-za-hrvatsku/2552949.aspx?index_tid=490590&index_vid=25776 |website=Index.hr |publisher=Index |access-date=3 April 2024 |archive-date=3 April 2024 |archive-url=https://web.archive.org/web/20240403192239/https://www.index.hr/vijesti/clanak/socijaldemokrati-predstavili-izborni-program-slogan-je-ozbiljno-za-hrvatsku/2552949.aspx?index_tid=490590&index_vid=25776 |url-status=live }}</ref>",
                       "url": "https://www.index.hr/vijesti/clanak/socijaldemokrati-predstavili-izborni-program-slogan-je-ozbiljno-za-hrvatsku/2552949.aspx?index_tid=490590&index_vid=25776",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Nađi: Marija Selak Raspudić ukrala mi je slogan |url=https://www.index.hr/mobile/vijesti/clanak/nadji-marija-selak-raspudic-mi-je-ukrala-slogan/2554672.aspx?index_ref=clanak_vijesti_najnovije_m |website=Index.hr |publisher=Index |access-date=8 April 2024 |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419203524/https://www.index.hr/vijesti/clanak/nadji-marija-selak-raspudic-mi-je-ukrala-slogan/2554672.aspx |url-status=live }}</ref>",
-                      "url": "https://www.index.hr/mobile/vijesti/clanak/nadji-marija-selak-raspudic-mi-je-ukrala-slogan/2554672.aspx?index_ref=clanak_vijesti_najnovije_m",
-                      "status_code": null,
+                      "url": "https://www.index.hr/vijesti/clanak/nadji-marija-selak-raspudic-mi-je-ukrala-slogan/2554672.aspx",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Program koalicije FOKUS – Republika |url=https://fokusnabitno.hr/blog/novosti/program-koalicije-fokus-republika |website=fokusnabitno.hr |publisher=Focus |access-date=14 April 2024 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410202537/https://fokusnabitno.hr/blog/novosti/program-koalicije-fokus-republika |url-status=live }}</ref>",
                       "url": "https://fokusnabitno.hr/blog/novosti/program-koalicije-fokus-republika",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Svi pričaju o plakatima SDSS-a, i Aleksandra Prijović postala dio kampanje: \"Bit će još puno poruka, očekujem i negativne reakcije\" |url=https://dnevnik.hr/vijesti/hrvatska/autor-sdss-ove-kampanje-boris-malesevic-ispalo-da-bas-i-nije-dobro-biti-srbin-u-hrvatskoj-sad-idemo-korak-dalje---839274.html |website=Dnevnik.hr |publisher=Nova TV |date=22 March 2024 |access-date=6 April 2024 |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409104029/https://dnevnik.hr/vijesti/hrvatska/autor-sdss-ove-kampanje-boris-malesevic-ispalo-da-bas-i-nije-dobro-biti-srbin-u-hrvatskoj-sad-idemo-korak-dalje---839274.html |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/autor-sdss-ove-kampanje-boris-malesevic-ispalo-da-bas-i-nije-dobro-biti-srbin-u-hrvatskoj-sad-idemo-korak-dalje---839274.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Šest beskompromisnih točaka promjene! |url=https://www.radnickafronta.hr/hr/t/politike-i-programi/parlamentarni-izbori-2024/3031/sest-beskompromisnih-tocaka-promjene/ |website=radnickafronta.hr |publisher=RF |date=26 March 2024 |access-date=6 April 2024 |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406140454/https://www.radnickafronta.hr/hr/t/politike-i-programi/parlamentarni-izbori-2024/3031/sest-beskompromisnih-tocaka-promjene/ |url-status=live }}</ref>",
                       "url": "https://www.radnickafronta.hr/hr/t/politike-i-programi/parlamentarni-izbori-2024/3031/sest-beskompromisnih-tocaka-promjene/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1005,196 +1005,196 @@
                     {
                       "text": "<ref>{{Cite web |date=20 February 2024 |title=Pogledajte koja su pitanja najviše užarila atmosferu u Demontaži: Ozbiljno zaiskrilo među političkim rivalima |trans-title=See which issues heated up the atmosphere the most in Dismantling: Serious sparks between political rivals |url=https://dnevnik.hr/vijesti/hrvatska/u-demontazi-ozbiljno-je-zaiskrilo-medju-politickim-rivalima---829645.html |access-date=10 March 2024 |website=Dnevnik.hr |language=hr |archive-date=10 March 2024 |archive-url=https://web.archive.org/web/20240310173314/https://dnevnik.hr/vijesti/hrvatska/u-demontazi-ozbiljno-je-zaiskrilo-medju-politickim-rivalima---829645.html |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/u-demontazi-ozbiljno-je-zaiskrilo-medju-politickim-rivalima---829645.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=5 March 2024 |title=Demontaža Sabine Tandare Knezović: Pogledajte oko kojih je pitanja najviše zaiskrilo među gostima |trans-title=Dismantling of Sabina Tandara Knezović: See which questions sparked the most among the guests |url=https://dnevnik.hr/vijesti/hrvatska/demontaza-suceljavanje-kandidata-o-korupciji-i-pravosudju---835999.html |access-date=10 March 2024 |website=Dnevnik.hr |language=hr |archive-date=10 March 2024 |archive-url=https://web.archive.org/web/20240310173315/https://dnevnik.hr/vijesti/hrvatska/demontaza-suceljavanje-kandidata-o-korupciji-i-pravosudju---835999.html |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/demontaza-suceljavanje-kandidata-o-korupciji-i-pravosudju---835999.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=19 March 2024 |title=Burno na sučeljavanju o zdravstvu: Kandidati se sukobili oko brojnih vrućih tema |trans-title=Turbulent debate on health care: Candidates clashed over a number of hot topics |url=https://dnevnik.hr/vijesti/hrvatska/demontaza-sabine-tandara-knezovic-kako-bi-rijesili-probleme-u-zdravstvu---838636.html?itm_source=MiddleNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |access-date=19 March 2024 |website=Dnevnik.hr |language=hr |archive-date=19 March 2024 |archive-url=https://web.archive.org/web/20240319161222/https://dnevnik.hr/vijesti/hrvatska/demontaza-sabine-tandara-knezovic-kako-bi-rijesili-probleme-u-zdravstvu---838636.html?itm_source=MiddleNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/demontaza-sabine-tandara-knezovic-kako-bi-rijesili-probleme-u-zdravstvu---838636.html?itm_source=MiddleNews&itm_medium=Dnevnik&itm_campaign=Naslovnica",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last1=Penić |first1=Goran |last2=Lohinski |first2=Tihana |date=20 March 2024 |title=SDP i Možemo! kao blok, HDZ i DP se štedjeli, Most bijesan na Milanovića: 'Prepisivao je od nas!' |trans-title=SDP and Možemo! as a bloc, HDZ and DP spared each other, Most furious at Milanović: 'He copied from us!' |url=https://www.jutarnji.hr/vijesti/hrvatska/sdp-i-mozemo-kao-blok-hdz-i-dp-se-stedjeli-most-bijesan-na-milanovica-prepisivao-je-od-nas-15440994 |access-date=23 March 2024 |website=Jutarnji list |language=hr |archive-date=22 March 2024 |archive-url=https://web.archive.org/web/20240322234800/https://www.jutarnji.hr/vijesti/hrvatska/sdp-i-mozemo-kao-blok-hdz-i-dp-se-stedjeli-most-bijesan-na-milanovica-prepisivao-je-od-nas-15440994 |url-status=live }}</ref>",
                       "url": "https://www.jutarnji.hr/vijesti/hrvatska/sdp-i-mozemo-kao-blok-hdz-i-dp-se-stedjeli-most-bijesan-na-milanovica-prepisivao-je-od-nas-15440994",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=20 March 2024 |title=Žestoka N1 debata: Tko bi uveo porez na nekretnine, kako povećati plaće, što s cijenom plina i struje… |trans-title=Fierce N1 debate: Who would introduce a real estate tax, how to increase wages, what about the price of gas and electricity... |url=https://n1info.hr/vijesti/n1-debata-tema-gospodarstvo/ |access-date=23 March 2024 |website=N1 |language=hr |archive-date=22 March 2024 |archive-url=https://web.archive.org/web/20240322234801/https://n1info.hr/vijesti/n1-debata-tema-gospodarstvo/ |url-status=live }}</ref>",
                       "url": "https://n1info.hr/vijesti/n1-debata-tema-gospodarstvo/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=27 March 2024 |title=Zaiskrilo na N1 debati N1: \"Zašto napadate mene, a ne HDZ… možda je to neki deal?!\" |trans-title=Sparked on N1 debate N1: \"Why are you attacking me and not HDZ... maybe it's some kind of deal?!\" |url=https://n1info.hr/vijesti/n1-debata-tema-korupcija/ |access-date=27 March 2024 |website=N1 |language=hr |archive-date=27 March 2024 |archive-url=https://web.archive.org/web/20240327110100/https://n1info.hr/vijesti/n1-debata-tema-korupcija/ |url-status=live }}</ref>",
                       "url": "https://n1info.hr/vijesti/n1-debata-tema-korupcija/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2 April 2024 |title=Žestoka svađa Piletića i Benčić: \"Molim?! Ovo je nevjerojatno. Ja znam da vi kradete, ali da tako bezočno lažete...\" |trans-title=Fierce quarrel between Piletić and Benčić: \"Please?! This is unbelievable. I know you steal, but you lie so blatantly...\" |url=https://dnevnik.hr/vijesti/hrvatska/demontaza-sabine-tandare-knezovic---841030.html?itm_source=TopNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |access-date=2 April 2024 |website=Dnevnik.hr |language=hr |archive-date=2 April 2024 |archive-url=https://web.archive.org/web/20240402160335/https://dnevnik.hr/vijesti/hrvatska/demontaza-sabine-tandare-knezovic---841030.html?itm_source=TopNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/demontaza-sabine-tandare-knezovic---841030.html?itm_source=TopNews&itm_medium=Dnevnik&itm_campaign=Naslovnica",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Burna N1 debata, Grlić Radman glavna meta: \"Vaš mandat obilježen je podsmjesima\" |url=https://n1info.hr/vijesti/n1-debata-nacionalna-sigurnost-vanjska-politika/ |website=n1info.hr |publisher=N1 |access-date=10 April 2024 |language=Croatian |date=3 April 2024 |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409073501/https://n1info.hr/vijesti/n1-debata-nacionalna-sigurnost-vanjska-politika/ |url-status=live }}</ref>",
                       "url": "https://n1info.hr/vijesti/n1-debata-nacionalna-sigurnost-vanjska-politika/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Anušić: Korupcija nije rezervirana za HDZ i samo za HDZ; Jakšić: U Vladi je smijenjeno 30-tak ministara |url=https://www.vecernji.hr/vijesti/ivan-anusic-misel-jaksic-mario-radic-i-vesna-vucemilovic-suceljavaju-se-u-studiju-vecernjeg-lista-1759110 |website=vecernji.hr |publisher=Večernji list |access-date=12 April 2024 |language=Croatian |date=4 April 2024 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410103302/https://www.vecernji.hr/vijesti/ivan-anusic-misel-jaksic-mario-radic-i-vesna-vucemilovic-suceljavaju-se-u-studiju-vecernjeg-lista-1759110 |url-status=live }}</ref>",
                       "url": "https://www.vecernji.hr/vijesti/ivan-anusic-misel-jaksic-mario-radic-i-vesna-vucemilovic-suceljavaju-se-u-studiju-vecernjeg-lista-1759110",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Grmoja Primorcu donio maglu u teglici, na kraju se posvađao s Peternelom: 'Ovo je jako ružno, sram vas bilo' |url=https://www.vecernji.hr/vijesti/u-studiju-vecernjeg-lista-suceljavaju-se-primorac-peternel-grmoja-bosanac-nadi-i-racan-1759351 |trans-title=Grmoja brought Primorac fog in a jar, in the end he argued with Peternel: \"This is very impolite, shame on you |website=vecernji.hr |publisher=Večernji list |access-date=12 April 2024 |language=Croatian |date=5 April 2024 |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409081108/https://www.vecernji.hr/vijesti/u-studiju-vecernjeg-lista-suceljavaju-se-primorac-peternel-grmoja-bosanac-nadi-i-racan-1759351 |url-status=live }}</ref>",
                       "url": "https://www.vecernji.hr/vijesti/u-studiju-vecernjeg-lista-suceljavaju-se-primorac-peternel-grmoja-bosanac-nadi-i-racan-1759351",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=IZBORNI SPECIJAL / U Direktovom sučeljavanju o Baby Lasagni: 'Simpa pjesma i pjevač. Taman za Eurosong' |trans-title=ELECTION SPECIAL / In Direkt's debate about Baby Lasagna: Likeable song and singer. Just right for Eurovision |url=https://net.hr/danas/rtl-direkt/bencic-grmoja-i-penava-o-gorucim-temama-kod-damire-gregoret-03ea6f78-f382-11ee-9b63-ee3c76acc482 |website=net.hr |publisher=RTL |access-date=10 April 2024 |language=Croatian |date=5 April 2024 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410052433/https://net.hr/danas/rtl-direkt/bencic-grmoja-i-penava-o-gorucim-temama-kod-damire-gregoret-03ea6f78-f382-11ee-9b63-ee3c76acc482 |url-status=live }}</ref>",
                       "url": "https://net.hr/danas/rtl-direkt/bencic-grmoja-i-penava-o-gorucim-temama-kod-damire-gregoret-03ea6f78-f382-11ee-9b63-ee3c76acc482",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=RTL DETEKTOR / Burno u RTL-ovoj debati: Provjerite činjenice koje kandidati iznose |url=https://net.hr/danas/vijesti/burno-u-rtl-ovoj-debati-provjerite-cinjenice-00aaa3ce-f5b1-11ee-8b15-ee3c76acc482 |website=net.hr |publisher=RTL |trans-title=RTL DETECTOR / Turbulent in RTL's debate: Check the facts that the candidates present |access-date=11 April 2024 |language=Croatian |date=8 April 2024 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410035346/https://net.hr/danas/vijesti/burno-u-rtl-ovoj-debati-provjerite-cinjenice-00aaa3ce-f5b1-11ee-8b15-ee3c76acc482 |url-status=live }}</ref>",
                       "url": "https://net.hr/danas/vijesti/burno-u-rtl-ovoj-debati-provjerite-cinjenice-00aaa3ce-f5b1-11ee-8b15-ee3c76acc482",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Zaiskrilo između Grlića Radmana i Raspudića: 'Pa niste vi moderator da me to tražite' |url=https://www.vecernji.hr/vijesti/uskoro-uzivo-pratite-veliko-suceljavanje-u-nas-studio-stizu-grlic-radman-glavasevic-raspudic-dolenec-i-josic-1760262 |website=vecernji.hr |publisher=Večernji list |access-date=10 April 2024 |language=Croatian |date=9 April 2024 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410013247/https://www.vecernji.hr/vijesti/uskoro-uzivo-pratite-veliko-suceljavanje-u-nas-studio-stizu-grlic-radman-glavasevic-raspudic-dolenec-i-josic-1760262 |url-status=live }}</ref>",
                       "url": "https://www.vecernji.hr/vijesti/uskoro-uzivo-pratite-veliko-suceljavanje-u-nas-studio-stizu-grlic-radman-glavasevic-raspudic-dolenec-i-josic-1760262",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=RTL DETEKTOR / Puno nedoumica u debati: Provjerite činjenice koje kandidati iznose |url=https://net.hr/danas/vijesti/provjerite-cinjenice-koje-kandidati-iznose-5d9b721c-f673-11ee-b5c5-0a205096a2b9 |website=net.hr |publisher=RTL |trans-title=RTL DETECTOR / A lot of doubts in the debate: Check the facts that the candidates present |access-date=11 April 2024 |language=Croatian |date=9 April 2024 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410034119/https://net.hr/danas/vijesti/provjerite-cinjenice-koje-kandidati-iznose-5d9b721c-f673-11ee-b5c5-0a205096a2b9 |url-status=live }}</ref>",
                       "url": "https://net.hr/danas/vijesti/provjerite-cinjenice-koje-kandidati-iznose-5d9b721c-f673-11ee-b5c5-0a205096a2b9",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=DEMOGRAFIJA, POBAČAJ I EUTANAZIJA / Burna debata: Piletić, Selak Raspudić, Dolenec, Peternel i Radolović sučelili mišljenja |url=https://net.hr/danas/vijesti/burna-debata-piletic-selak-raspudic-dolenec-peternel-i-radolovic-sucelili-misljenja-5f54f012-f748-11ee-8d96-322577e38fcf |website=net.hr |publisher=RTL |trans-title=DEMOGRAPHY, ABORTION AND EUTHANASIA / Fierce debate: Piletić, Selak Raspudić, Dolenec, Peternel and Radolović clashed |access-date=11 April 2024 |language=Croatian |date=10 April 2024 |archive-date=11 April 2024 |archive-url=https://web.archive.org/web/20240411003906/https://net.hr/danas/vijesti/burna-debata-piletic-selak-raspudic-dolenec-peternel-i-radolovic-sucelili-misljenja-5f54f012-f748-11ee-8d96-322577e38fcf |url-status=live }}</ref>",
                       "url": "https://net.hr/danas/vijesti/burna-debata-piletic-selak-raspudic-dolenec-peternel-i-radolovic-sucelili-misljenja-5f54f012-f748-11ee-8d96-322577e38fcf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Raspudić: Koliko migranata treba primiti u EU, milijardu, dvije? Bosanac: To su sitne brojke, ne paničarite |url=https://www.vecernji.hr/vijesti/uskoro-uzivo-novo-veliko-suceljavanje-o-migracijama-govore-ivo-stier-bauk-raspudic-i-bosanac-1760844 |website=vecernji.hr |publisher=Večernji list |trans-title=Raspudić: How many migrants should be accepted into EU, a billion, two? Bosanac: Those are small numbers, don't panic |access-date=12 April 2024 |language=Croatian |date=11 April 2024 |archive-date=11 April 2024 |archive-url=https://web.archive.org/web/20240411190537/https://www.vecernji.hr/vijesti/uskoro-uzivo-novo-veliko-suceljavanje-o-migracijama-govore-ivo-stier-bauk-raspudic-i-bosanac-1760844 |url-status=live }}</ref>",
                       "url": "https://www.vecernji.hr/vijesti/uskoro-uzivo-novo-veliko-suceljavanje-o-migracijama-govore-ivo-stier-bauk-raspudic-i-bosanac-1760844",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Zaiskrilo između Obuljen Koržinek i Orešković: 'Za Boga miloga što je vama?' |url=https://www.vecernji.hr/vijesti/uskoro-uzivo-u-studio-stizu-obuljen-korzinek-bencic-selak-raspudic-i-oreskovic-1761117 |website=vecernji.hr |publisher=Večernji list |trans-title=Sparks flying between Obuljen Koržinek i Orešković |access-date=12 April 2024 |language=Croatian |date=12 April 2024 |archive-date=12 April 2024 |archive-url=https://web.archive.org/web/20240412113609/https://www.vecernji.hr/vijesti/uskoro-uzivo-u-studio-stizu-obuljen-korzinek-bencic-selak-raspudic-i-oreskovic-1761117 |url-status=live }}</ref>",
                       "url": "https://www.vecernji.hr/vijesti/uskoro-uzivo-u-studio-stizu-obuljen-korzinek-bencic-selak-raspudic-i-oreskovic-1761117",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Parlamentarni izbori 2024. – sučeljavanje |url=https://hrtprikazuje.hrt.hr/hrt-preporucuje/parlamentarni-izbori-2024-suceljavanje-11456512 |website=hrt.hr |publisher=Croatian Radio Television |access-date=11 April 2024 |language=Croatian |date=11 April 2024 |archive-date=15 April 2024 |archive-url=https://web.archive.org/web/20240415173611/https://hrtprikazuje.hrt.hr/hrt-preporucuje/parlamentarni-izbori-2024-suceljavanje-11456512 |url-status=live }}</ref>",
                       "url": "https://hrtprikazuje.hrt.hr/hrt-preporucuje/parlamentarni-izbori-2024-suceljavanje-11456512",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Veliko sučeljavanje na HRT-u: Trajat će dva sata, a na Prisavlje stiže ovih 10 kandidata |url=https://www.vecernji.hr/vijesti/veliko-suceljavanje-na-hrt-u-trajat-ce-dva-sata-a-na-prisavlje-stize-ovih-10-kandidata-1761148 |website=vecernji.hr |publisher=Večernji list |access-date=12 April 2024 |language=Croatian |date=12 April 2024 |archive-date=12 April 2024 |archive-url=https://web.archive.org/web/20240412113748/https://www.vecernji.hr/vijesti/veliko-suceljavanje-na-hrt-u-trajat-ce-dva-sata-a-na-prisavlje-stize-ovih-10-kandidata-1761148 |url-status=live }}</ref>",
                       "url": "https://www.vecernji.hr/vijesti/veliko-suceljavanje-na-hrt-u-trajat-ce-dva-sata-a-na-prisavlje-stize-ovih-10-kandidata-1761148",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Gotovo sučeljavanje, Ahmetović napala voditelje: \"HDZ-ovac je povlašten na HRT-u\" |url=https://www.index.hr/vijesti/clanak/gotovo-suceljavanje-na-hrtu-ahmetovic-napala-voditelje-hdzovac-je-privilegiran/2555935.aspx?index_ref=clanak_procitaj_jos_d |website=index.hr |publisher=Index |access-date=12 April 2024 |language=Croatian |date=12 April 2024 |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419203525/https://www.index.hr/vijesti/clanak/gotovo-suceljavanje-na-hrtu-ahmetovic-napala-voditelje-hdzovac-je-privilegiran/2555935.aspx?index_ref=clanak_procitaj_jos_d |url-status=live }}</ref>",
                       "url": "https://www.index.hr/vijesti/clanak/gotovo-suceljavanje-na-hrtu-ahmetovic-napala-voditelje-hdzovac-je-privilegiran/2555935.aspx?index_ref=clanak_procitaj_jos_d",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=I udarci ispod pojasa: Žustra debata Milanovića i Plenkovića |url=https://www.24sata.hr/news/uoci-izborne-sutnje-milanovic-i-plenkovic-u-jos-jednoj-debati-490514 |website=24sata.hr |publisher=24sata |access-date=14 April 2024 |language=Croatian |date=9 September 2016 |archive-date=18 June 2023 |archive-url=https://web.archive.org/web/20230618203932/https://www.24sata.hr/news/uoci-izborne-sutnje-milanovic-i-plenkovic-u-jos-jednoj-debati-490514 |url-status=live }}</ref>",
                       "url": "https://www.24sata.hr/news/uoci-izborne-sutnje-milanovic-i-plenkovic-u-jos-jednoj-debati-490514",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Plenković: Ne znate baš ništa, meni je vas iskreno žao, Bernardić: Čini mi se da je dosta bahat |url=https://www.vecernji.hr/vijesti/veceras-suceljavanje-andreja-plenkovica-i-davora-bernardica-1413336 |website=vecernji.hr |publisher=Večernji list |access-date=14 April 2024 |language=Croatian |date=29 June 2020 |archive-date=1 March 2022 |archive-url=https://web.archive.org/web/20220301102317/https://www.vecernji.hr/vijesti/veceras-suceljavanje-andreja-plenkovica-i-davora-bernardica-1413336 |url-status=live }}</ref>",
                       "url": "https://www.vecernji.hr/vijesti/veceras-suceljavanje-andreja-plenkovica-i-davora-bernardica-1413336",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Andrej Plenković: \"Nemam se s kim sučeljavati, kršitelj Ustava imao je vremena\" |url=https://dnevnik.hr/vijesti/hrvatska/andrej-plenkovic-daje-izjave-nakon-sjednice-predsjednistva-hdz-a---841145.html |website=dnevnik.hr |publisher=Nova TV |access-date=14 April 2024 |language=Croatian |date=2 April 2024 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410200437/https://dnevnik.hr/vijesti/hrvatska/andrej-plenkovic-daje-izjave-nakon-sjednice-predsjednistva-hdz-a---841145.html |url-status=live }}</ref>",
                       "url": "https://dnevnik.hr/vijesti/hrvatska/andrej-plenkovic-daje-izjave-nakon-sjednice-predsjednistva-hdz-a---841145.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Grmoja: Plenković se boji sučeljavanja, a želi još četiri godine mandata |url=https://n1info.hr/vijesti/grmoja-plenkovic-se-boji-suceljavanja-a-zeli-jos-cetiri-godine-mandata/ |website=n1info.hr |publisher=N1 |access-date=14 April 2024 |language=Croatian |date=12 April 2024 |archive-date=15 April 2024 |archive-url=https://web.archive.org/web/20240415191130/https://n1info.hr/vijesti/grmoja-plenkovic-se-boji-suceljavanja-a-zeli-jos-cetiri-godine-mandata/ |url-status=live }}</ref>",
                       "url": "https://n1info.hr/vijesti/grmoja-plenkovic-se-boji-suceljavanja-a-zeli-jos-cetiri-godine-mandata/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Grbin ponovno Plenkovića pozvao na sučeljavanje: 'Stari moj, pokaži se, ne budi kukavica' |url=https://www.jutarnji.hr/vijesti/hrvatska/grbin-ponovno-plenkovica-pozvao-na-suceljavanje-stari-moj-pokazi-se-ne-budi-kukavica-15449527 |website=jutarnji.hr |publisher=Jutarnji list |access-date=14 April 2024 |language=Croatian |date=12 April 2024 |archive-date=12 April 2024 |archive-url=https://web.archive.org/web/20240412115621/https://www.jutarnji.hr/vijesti/hrvatska/grbin-ponovno-plenkovica-pozvao-na-suceljavanje-stari-moj-pokazi-se-ne-budi-kukavica-15449527 |url-status=live }}</ref>",
                       "url": "https://www.jutarnji.hr/vijesti/hrvatska/grbin-ponovno-plenkovica-pozvao-na-suceljavanje-stari-moj-pokazi-se-ne-budi-kukavica-15449527",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Benčić: 'Plenković je kukavica. Ne želi sučeljavanje jer se boji'; Tomašević: 'Vjerujemo u većinu s SDP-om' |url=https://www.telegram.hr/politika-kriminal/bencic-plenkovic-je-kukavica-ne-zeli-suceljavanje-jer-se-boji-tomasevic-vjerujemo-u-vecinu-s-sdp-om/ |website=telegram.hr |publisher=Telegram |access-date=14 April 2024 |language=Croatian |date=14 April 2024 |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419203619/https://www.telegram.hr/politika-kriminal/bencic-plenkovic-je-kukavica-ne-zeli-suceljavanje-jer-se-boji-tomasevic-vjerujemo-u-vecinu-s-sdp-om/ |url-status=live }}</ref>",
                       "url": "https://www.telegram.hr/politika-kriminal/bencic-plenkovic-je-kukavica-ne-zeli-suceljavanje-jer-se-boji-tomasevic-vjerujemo-u-vecinu-s-sdp-om/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=VIDEO Penava poziva Plenkovića na sučeljavanje: 'Prizemno i šovinistički vrijeđa dijelove hrvatskog naroda' |url=https://www.vecernji.hr/vijesti/video-penava-poziva-plenkovica-na-suceljavanje-prizemno-i-sovinisticki-vrijeda-dijelove-hrvatskog-naroda-1761613 |website=vecernji.hr |publisher=Večernji list |access-date=14 April 2024 |archive-date=14 April 2024 |archive-url=https://web.archive.org/web/20240414202101/https://www.vecernji.hr/vijesti/video-penava-poziva-plenkovica-na-suceljavanje-prizemno-i-sovinisticki-vrijeda-dijelove-hrvatskog-naroda-1761613 |url-status=live }}</ref>",
                       "url": "https://www.vecernji.hr/vijesti/video-penava-poziva-plenkovica-na-suceljavanje-prizemno-i-sovinisticki-vrijeda-dijelove-hrvatskog-naroda-1761613",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Plenković: \"Grmoja? Tko je on? Most je politička sitnež, a Grbin je kapitulirao i prije kampanje\" |url=https://www.novilist.hr/novosti/hrvatska/plenkovic-grmoja-tko-je-on-most-je-politicka-sitnez-a-grbin-je-kapitulirao-i-prije-kampanje/ |website=novilist.hr |publisher=Novi list |access-date=14 April 2024 |language=Croatian |date=9 April 2024 |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416081640/https://www.novilist.hr/novosti/hrvatska/plenkovic-grmoja-tko-je-on-most-je-politicka-sitnez-a-grbin-je-kapitulirao-i-prije-kampanje/ |url-status=live }}</ref>",
                       "url": "https://www.novilist.hr/novosti/hrvatska/plenkovic-grmoja-tko-je-on-most-je-politicka-sitnez-a-grbin-je-kapitulirao-i-prije-kampanje/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1227,8 +1227,8 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web|title=Ruling conservatives win most seats in Croatia election, but no majority|url=https://www.theaustralian.com.au/news/latest-news/croatia-votes-after-bitter-pmpresident-fight/news-story/bb1135fcea945b882ee9829e815fbab6|date=18 April 2024|access-date=17 April 2024|archive-date=17 April 2024|archive-url=https://web.archive.org/web/20240417225301/https://www.theaustralian.com.au/news/latest-news/croatia-votes-after-bitter-pmpresident-fight/news-story/bb1135fcea945b882ee9829e815fbab6|url-status=live}}</ref>",
-                  "url": "https://www.theaustralian.com.au/news/latest-news/croatia-votes-after-bitter-pmpresident-fight/news-story/bb1135fcea945b882ee9829e815fbab6",
-                  "status_code": null,
+                  "url": "https://www.theaustralian.com.au/news/latest-news/croatia-votes-after-bitter-pmpresident-fight/news-story/bb1135fcea945b882ee9829e815fbab6?nk=cbceaa63c1eb28f8782e53631ea8e363-1745151909",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1251,7 +1251,7 @@
                 {
                   "text": "<ref name=\"apresult\">{{Cite web |date=18 April 2024 |title=Croatia's ruling conservatives win parliamentary vote, but cannot rule alone |url=https://apnews.com/article/croatia-election-european-union-plenkovic-milanovic-b3a93b2598f60ebfdf663815dda2c0ad |work=Associated Press |url-status=live |access-date=18 April 2024 |archive-date=18 April 2024 |archive-url=https://web.archive.org/web/20240418044737/https://apnews.com/article/croatia-election-european-union-plenkovic-milanovic-b3a93b2598f60ebfdf663815dda2c0ad }}</ref>",
                   "url": "https://apnews.com/article/croatia-election-european-union-plenkovic-milanovic-b3a93b2598f60ebfdf663815dda2c0ad",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -1259,13 +1259,13 @@
                   "text": "<ref name=\"HR elect 24 US News\">{{cite news|url=https://www.usnews.com/news/world/articles/2024-04-17/croatia-votes-in-a-parliamentary-election-thats-a-showdown-between-its-president-and-prime-minister|title=Croatia's Ruling Conservatives Win Parliamentary Vote, but Cannot Rule Alone|publisher=US News|author=Associated Press|date=17 April 2024|access-date=23 April 2024|archive-date=17 April 2024|archive-url=https://web.archive.org/web/20240417063939/https://www.usnews.com/news/world/articles/2024-04-17/croatia-votes-in-a-parliamentary-election-thats-a-showdown-between-its-president-and-prime-minister|url-status=live}}</ref>",
                   "url": "https://www.usnews.com/news/world/articles/2024-04-17/croatia-votes-in-a-parliamentary-election-thats-a-showdown-between-its-president-and-prime-minister",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"HR elect 24 US News\" /> although it declined to say whether they would join a left-leaning or right-leaning bloc and setting the condition that they will not enter into a coalition with Independent Democratic Serb Party|SDSS and We can! (Croatia)|Možemo.<ref>{{Cite web |last=Sprečić |first=Elvis |last2=Josipović |first2=Tatjana |last3=Grgin |first3=Matea |date=17 April 2024 |title=Penava dočekan ovacijama: 'SDSS u niti jednoj varijanti i ni pod kojim uvjetima. Ni stranka Možemo' |trans-title=Penava was greeted with a standing ovation: 'SDSS in no variant and under no conditions. Neither the We Can Party' |url=https://www.vecernji.hr/vijesti/uzivo-iz-stozera-domovinskog-pokreta-1762400 |access-date=25 April 2024 |website=Večernji list |language=hr |archive-date=25 April 2024 |archive-url=https://web.archive.org/web/20240425163535/https://www.vecernji.hr/vijesti/uzivo-iz-stozera-domovinskog-pokreta-1762400 |url-status=live }}</ref>",
                   "url": "https://www.vecernji.hr/vijesti/uzivo-iz-stozera-domovinskog-pokreta-1762400",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1278,14 +1278,14 @@
                 {
                   "text": "<ref>{{cite news|url=https://www.theguardian.com/world/2024/apr/18/croatia-election-results-hdz-democratic-union-pm-andrej-plenkovic-without-majority-sdp-homeland-movement|date=18 April 2024|title=Political uncertainty in Croatia as ruling party wins most seats but no majority|work=The Guardian|author=Jon Henley|access-date=23 April 2024|archive-date=22 April 2024|archive-url=https://web.archive.org/web/20240422190025/https://www.theguardian.com/world/2024/apr/18/croatia-election-results-hdz-democratic-union-pm-andrej-plenkovic-without-majority-sdp-homeland-movement|url-status=live}}</ref>",
                   "url": "https://www.theguardian.com/world/2024/apr/18/croatia-election-results-hdz-democratic-union-pm-andrej-plenkovic-without-majority-sdp-homeland-movement",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |url=https://www.vecernji.hr/vijesti/potop-radnicke-fronte-katarina-peovic-nije-presla-izborni-prag-1762451 |title=Potop Radničke fronte: Katarina Peović nije prešla izborni prag |trans-title=Descent of the Workers' Front: Katarina Peović did not cross the electoral threshold |newspaper=Večernji list |date=17 April 2024 |access-date=20 April 2024 |archive-date=20 April 2024 |archive-url=https://web.archive.org/web/20240420100557/https://www.vecernji.hr/vijesti/potop-radnicke-fronte-katarina-peovic-nije-presla-izborni-prag-1762451 |url-status=live }}</ref>",
                   "url": "https://www.vecernji.hr/vijesti/potop-radnicke-fronte-katarina-peovic-nije-presla-izborni-prag-1762451",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -1298,8 +1298,8 @@
                 {
                   "text": "<ref name=\"results2024\">{{Cite web |title=Konačni rezultati izbora zastupnika u Hrvatski Sabor 2024 |trans-title=Final results of the 2024 Croatian Parliament election |date=29 April 2024 |url=https://www.izbori.hr/site/UserDocsImages/2024/Izbori_za_zastupnike_u_Hrvatski_sabor/Rezultati/Sabor%202024.%20Kona%C4%8Dni%20rezultati%20izbora.pdf |access-date=29 April 2024 |website=Državno izborno povjerenstvo Republike Hrvatske |language=hr |archive-date=29 April 2024 |archive-url=https://web.archive.org/web/20240429130034/https://www.izbori.hr/site/UserDocsImages/2024/Izbori_za_zastupnike_u_Hrvatski_sabor/Rezultati/Sabor%202024.%20Kona%C4%8Dni%20rezultati%20izbora.pdf |url-status=live }}</ref>",
                   "url": "https://www.izbori.hr/site/UserDocsImages/2024/Izbori_za_zastupnike_u_Hrvatski_sabor/Rezultati/Sabor%202024.%20Kona%C4%8Dni%20rezultati%20izbora.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 }
               ]
@@ -1339,22 +1339,22 @@
                 {
                   "text": "<ref name=\"apresult\"/> Social Democratic Party of Croatia|SDP leader Peđa Grbin said that they had hoped for a better result but said that they would also start talks on the formation of a new government on 18 April.<ref>{{Cite web |date=18 April 2024 |title=Ruling HDZ party wins most seats, but no majority in Croatia election |url=https://www.aljazeera.com/news/2024/4/17/croatia-ruling-party-heading-for-election-win-without-majority-exit-poll |work=Al Jazeera |url-status=live |access-date=18 April 2024 |archive-date=17 April 2024 |archive-url=https://web.archive.org/web/20240417210612/https://www.aljazeera.com/news/2024/4/17/croatia-ruling-party-heading-for-election-win-without-majority-exit-poll }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/4/17/croatia-ruling-party-heading-for-election-win-without-majority-exit-poll",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Croatia ruling party races to form coalition after election win |url=https://www.reuters.com/world/europe/croatian-ruling-party-wins-polls-prepares-talks-forming-government-2024-04-18/ |website=Reuters |access-date=19 April 2024}}</ref>",
                   "url": "https://www.reuters.com/world/europe/croatian-ruling-party-wins-polls-prepares-talks-forming-government-2024-04-18/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Orovic |first1=Joe |last2=Higgins |first2=Andrew |title=A Far-Right Party Emerges as a Possible Kingmaker in Croatia |work=The New York Times |date=18 April 2024 |url=https://www.nytimes.com/2024/04/18/world/europe/croatia-election-far-right.html |access-date=19 April 2024 |archive-date=18 April 2024 |archive-url=https://web.archive.org/web/20240418164648/https://www.nytimes.com/2024/04/18/world/europe/croatia-election-far-right.html |url-status=live }}</ref>",
                   "url": "https://www.nytimes.com/2024/04/18/world/europe/croatia-election-far-right.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -1366,28 +1366,28 @@
                 {
                   "text": "<ref>{{cite web |title=Croatia's top court rules President Milanović cannot be prime minister because of campaign |url=https://apnews.com/article/croatia-election-president-constitution-milanovic-court-sdp-7cd3da5839c0e641a113a6f9d8b31a08 |website=Associated Press |date=19 April 2024 |access-date=19 April 2024 |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419204151/https://apnews.com/article/croatia-election-president-constitution-milanovic-court-sdp-7cd3da5839c0e641a113a6f9d8b31a08 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/croatia-election-president-constitution-milanovic-court-sdp-7cd3da5839c0e641a113a6f9d8b31a08",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Troje sudaca protiv odluke o Milanoviću: \"Ovo je prijetnja novom Saboru da paze što rade\" |url=https://dnevnik.hr/vijesti/hrvatska/objavljeno-izdvojeno-misljenje-sudaca-ustavnog-suda---844058.html |website=dnevnik.hr |publisher=Nova TV |access-date=19 April 2024 |language=Croatian |date=19 April 2024 |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419204150/https://dnevnik.hr/vijesti/hrvatska/objavljeno-izdvojeno-misljenje-sudaca-ustavnog-suda---844058.html |url-status=live }}</ref>",
                   "url": "https://dnevnik.hr/vijesti/hrvatska/objavljeno-izdvojeno-misljenje-sudaca-ustavnog-suda---844058.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Milanović šefu Ustavnog suda odgovorio fotografijom: \"Pogledajte kako HDZ donosi odluke tzv. Ustavnog suda\" |url=https://dnevnik.hr/vijesti/hrvatska/zoran-milanovic-najavio-konferenciju-za-novinare-uz-objavu-na-facebooku---844050.html?itm_source=TopNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |website=dnevnik.hr |publisher=Nova TV |access-date=19 April 2024 |language=Croatian |date=19 April 2024 |archive-date=19 April 2024 |archive-url=https://web.archive.org/web/20240419204349/https://dnevnik.hr/vijesti/hrvatska/zoran-milanovic-najavio-konferenciju-za-novinare-uz-objavu-na-facebooku---844050.html?itm_source=TopNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |url-status=live }}</ref>",
                   "url": "https://dnevnik.hr/vijesti/hrvatska/zoran-milanovic-najavio-konferenciju-za-novinare-uz-objavu-na-facebooku---844050.html?itm_source=TopNews&itm_medium=Dnevnik&itm_campaign=Naslovnica",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Milanović: 'Ovo je priprema za državni udar. Mandatar može biti bilo tko' |url=https://www.tportal.hr/vijesti/clanak/uskoro-uzivo-milanovic-ce-govoriti-o-odluci-ustavnog-suda-20240419?meta_refresh=1 |website=tportal.hr/ |publisher=Tportal |access-date=19 April 2024 |language=Croatian |date=19 April 2024 |archive-date=22 April 2024 |archive-url=https://web.archive.org/web/20240422202330/https://www.tportal.hr/vijesti/clanak/uskoro-uzivo-milanovic-ce-govoriti-o-odluci-ustavnog-suda-20240419?meta_refresh=1 |url-status=live }}</ref>",
                   "url": "https://www.tportal.hr/vijesti/clanak/uskoro-uzivo-milanovic-ce-govoriti-o-odluci-ustavnog-suda-20240419?meta_refresh=1",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1400,7 +1400,7 @@
                 {
                   "text": "<ref>{{Cite web |last=Škaro |first=Katarina |date=20 April 2024 |title=Grbin iznio detalje novog plana za Sabor. Beljak, iz koalicije Rijeka pravde, kaže: 'To je znanstvena fantastika' |trans-title=Grbin presented the details of the new plan for the Parliament. Beljak, from the Rivers of Justice coalition, says: 'It's science fiction' |url=https://www.telegram.hr/politika-kriminal/grbin-iznio-detalje-novog-plana-za-sabor-beljak-iz-koalicije-rijeka-pravde-kaze-to-je-znanstvena-fantastika/ |access-date=20 April 2024 |website=Telegram |language=hr |archive-date=20 April 2024 |archive-url=https://web.archive.org/web/20240420150759/https://www.telegram.hr/politika-kriminal/grbin-iznio-detalje-novog-plana-za-sabor-beljak-iz-koalicije-rijeka-pravde-kaze-to-je-znanstvena-fantastika/ |url-status=live }}</ref>",
                   "url": "https://www.telegram.hr/politika-kriminal/grbin-iznio-detalje-novog-plana-za-sabor-beljak-iz-koalicije-rijeka-pravde-kaze-to-je-znanstvena-fantastika/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1413,7 +1413,7 @@
                 {
                   "text": "<ref>{{Cite web |last=Vištica |first=Sanja |date=20 April 2024 |title=Ponavljaju se izbori u dva mjesta: Poništeni su zbog velikih nepravilnosti |trans-title=Elections are repeated in two places: They were annulled due to major irregularities |url=https://dnevnik.hr/vijesti/hrvatska/gradjani-ce-ponovno-na-izbore-saznajte-zasto-u-prilogu-sanje-vistice---844155.html?itm_source=TopNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |access-date=21 April 2024 |website=Dnevnik.hr |language=hr |archive-date=21 April 2024 |archive-url=https://web.archive.org/web/20240421112051/https://dnevnik.hr/vijesti/hrvatska/gradjani-ce-ponovno-na-izbore-saznajte-zasto-u-prilogu-sanje-vistice---844155.html?itm_source=TopNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |url-status=live }}</ref>",
                   "url": "https://dnevnik.hr/vijesti/hrvatska/gradjani-ce-ponovno-na-izbore-saznajte-zasto-u-prilogu-sanje-vistice---844155.html?itm_source=TopNews&itm_medium=Dnevnik&itm_campaign=Naslovnica",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1426,7 +1426,7 @@
                 {
                   "text": "<ref>{{cite web |last1=Badovinac |first1=Nikola |title=Homeland Movement meets with HDZ and SDP |url=https://glashrvatske.hrt.hr/en/politics/homeland-movement-meets-with-hdz-and-sdp-11506517 |website=glashrvatske.hrt.hr |access-date=2 May 2024 |archive-date=2 May 2024 |archive-url=https://web.archive.org/web/20240502125523/https://glashrvatske.hrt.hr/en/politics/homeland-movement-meets-with-hdz-and-sdp-11506517 |url-status=live }}</ref>",
                   "url": "https://glashrvatske.hrt.hr/en/politics/homeland-movement-meets-with-hdz-and-sdp-11506517",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1439,7 +1439,7 @@
                 {
                   "text": "<ref>{{Cite web |date=29 April 2024 |title=Objavljeni su konačni izborni rezultati: Počeo teći važan rok od 20 dana |trans-title=The final election results have been published: An important period of 20 days has begun |url=https://dnevnik.hr/vijesti/hrvatska/konacni-izborni-rezultati-parlamentarni-izbori-2024---845518.html?itm_source=SpecialNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |access-date=29 April 2024 |website=Dnevnik.hr |language=hr}}</ref>",
                   "url": "https://dnevnik.hr/vijesti/hrvatska/konacni-izborni-rezultati-parlamentarni-izbori-2024---845518.html?itm_source=SpecialNews&itm_medium=Dnevnik&itm_campaign=Naslovnica",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1452,28 +1452,28 @@
                 {
                   "text": "<ref>{{Cite web |date=8 May 2024 |title=Plenković: \"Dogovorili smo da tri resora pripadnu DP-u. Prvi u EU uvodimo to ministarstvo\" |trans-title=Plenković: \"We agreed that three departments belong to the DP. We are the first to introduce that ministry to the EU.\" |url=https://dnevnik.hr/vijesti/hrvatska/andrej-plenkovic-u-jastrebarskom---847133.html?itm_source=TopNews&itm_medium=Dnevnik&itm_campaign=Naslovnica |access-date=8 May 2024 |website=Dnevnik.hr |language=hr}}</ref>",
                   "url": "https://dnevnik.hr/vijesti/hrvatska/andrej-plenkovic-u-jastrebarskom---847133.html?itm_source=TopNews&itm_medium=Dnevnik&itm_campaign=Naslovnica",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=10 May 2024 |title=Croatia conservative leader Plenkovic appointed as prime minister-designate for third term |url=https://apnews.com/article/croatia-government-prime-minister-farright-5fe457449cdb83c804f55dad041d5f33 |access-date=10 May 2024 |website=Associated Press |language=en}}</ref>",
                   "url": "https://apnews.com/article/croatia-government-prime-minister-farright-5fe457449cdb83c804f55dad041d5f33",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=10 May 2024 |title=Plenković donio potpise za novu Vladu, Milanović se oglasio priopćenjem. Vučemilović izbačena iz Suverenista |trans-title=Plenković brought the signatures for the new Government, Milanović made a statement. Vučemilović expelled from Sovereignist |url=https://www.telegram.hr/politika-kriminal/plenkovic-donio-milanovicu-78-potpisa-milic-dobili-smo-mandat-za-sastavljanje-vlade/ |access-date=10 May 2024 |website=Telegram |language=hr}}</ref>",
                   "url": "https://www.telegram.hr/politika-kriminal/plenkovic-donio-milanovicu-78-potpisa-milic-dobili-smo-mandat-za-sastavljanje-vlade/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=18 May 2024 |title=Croatia gets new government with a far-right party included ahead of European parliamentary vote |url=https://apnews.com/article/croatia-government-far-right-european-election-240941791de21a8c8a35acb2b2082cde |access-date=18 May 2024 |website=Associated Press |language=en}}</ref>",
                   "url": "https://apnews.com/article/croatia-government-far-right-european-election-240941791de21a8c8a35acb2b2082cde",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

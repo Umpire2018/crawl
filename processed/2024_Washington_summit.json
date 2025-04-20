@@ -14,8 +14,8 @@
                 {
                   "text": "<ref>{{cite web |title=NATO summits |url=https://www.nato.int/cps/en/natohq/topics_50115.htm |website=nato.int |publisher=NATO}}</ref>",
                   "url": "https://www.nato.int/cps/en/natohq/topics_50115.htm",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -37,63 +37,63 @@
                 {
                   "text": "<ref>{{Cite web|url=https://www.atlanticcouncil.org/event/nato-summit-ukraine-and-transatlantic-security/|title=The Washington NATO Summit: Ukraine and transatlantic security|date=21 May 2024|website=atlanticcouncil.org|publisher=Atlantic Council}}</ref>",
                   "url": "https://www.atlanticcouncil.org/event/nato-summit-ukraine-and-transatlantic-security/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://www.nytimes.com/2023/10/13/us/politics/north-korea-weapons-russia-ukraine.html|title=North Korea Shipped Arms to Russia for Use in Ukraine, U.S. Says|first=Peter|last=Baker|date=13 October 2023|newspaper=New York Times}}</ref>",
                   "url": "https://www.nytimes.com/2023/10/13/us/politics/north-korea-weapons-russia-ukraine.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://www.ukrainianworldcongress.org/north-korea-to-deploy-engineering-troops-to-ukraines-occupied-territories/|title=NORTH KOREA TO DEPLOY ENGINEERING TROOPS TO UKRAINE'S OCCUPIED TERRITORIES|author=|date=27 June 2024|website=ukrainianworldcongress.org|publisher=Ukrainian World Congress}}</ref>",
                   "url": "https://www.ukrainianworldcongress.org/north-korea-to-deploy-engineering-troops-to-ukraines-occupied-territories/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://www.telegraph.co.uk/world-news/2024/06/27/ukraine-russia-war-latest-news9/|title=North Korea to send engineering troops to help Russia rebuild bombed cities|first=|last=|date=27 June 2024|newspaper=The Telegraph}}</ref>",
                   "url": "https://www.telegraph.co.uk/world-news/2024/06/27/ukraine-russia-war-latest-news9/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://kyivindependent.com/nato-summit-will-discuss-south-korea-ukraine-cooperation-stoltenberg-says/|title=Stoltenberg: NATO summit will discuss cooperation between Ukraine, South Korea|first=|last=|date=6 July 2024|newspaper=The Kyiv Independent}}</ref>",
                   "url": "https://kyivindependent.com/nato-summit-will-discuss-south-korea-ukraine-cooperation-stoltenberg-says/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://www.voanews.com/a/agenda-for-nato-summit-expected-to-include-china-issues-/7690027.html#|title=Agenda for NATO summit expected to include China issues|first=Adam|last=Xu|date=8 July 2024|newspaper=Voice of America}}</ref>",
-                  "url": "https://www.voanews.com/a/agenda-for-nato-summit-expected-to-include-china-issues-/7690027.html#",
-                  "status_code": null,
+                  "url": "https://www.voanews.com/a/agenda-for-nato-summit-expected-to-include-china-issues-/7690027.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://abcnews.go.com/US/wireStory/counter-china-nato-asian-partners-moving-closer-us-111765905|title=To counter China, NATO and its Asian partners are moving closer under US leadership|first=Didi|last=Tang|date=8 July 2024|newspaper=ABC News}}</ref>",
                   "url": "https://abcnews.go.com/US/wireStory/counter-china-nato-asian-partners-moving-closer-us-111765905",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |title=Readout of National Security Advisor Sullivan's Meeting with NATO Secretary General Jens Stoltenberg |url=https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/29/readout-of-national-security-advisor-sullivans-meeting-with-nato-secretary-general-jens-stoltenberg/#:~:text=Mr.%20Sullivan%20and%20the%20Secretary,defense%20spending%20pledge%20in%202024|date=29 January 2024|website=White House|publisher=The White House}}</ref>",
-                  "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/29/readout-of-national-security-advisor-sullivans-meeting-with-nato-secretary-general-jens-stoltenberg/#:~:text=Mr.%20Sullivan%20and%20the%20Secretary,defense%20spending%20pledge%20in%202024",
-                  "status_code": null,
+                  "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/01/29/readout-of-national-security-advisor-sullivans-meeting-with-nato-secretary-general-jens-stoltenberg/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://www.atlanticcouncil.org/blogs/new-atlanticist/how-to-keep-nato-relevant-into-2024-and-beyond/|title=How to keep NATO relevant into 2024 and beyond|first1=Giedrimas|last1=Jeglinskas|first2=Zelma|last2=Sergejeva|date=6 November 2023|website=atlanticcouncil.org|publisher=Atlantic Council}}</ref>",
                   "url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/how-to-keep-nato-relevant-into-2024-and-beyond/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -114,7 +114,7 @@
                     {
                       "text": "<ref>{{Cite web|url=https://www.atlanticcouncil.org/blogs/new-atlanticist/expect-a-new-bridge-to-nato-membership-for-ukraine-at-the-washington-summit-says-julianne-smith/|title=Expect a new 'bridge' to NATO membership for Ukraine at the Washington summit, says Julianne Smith|website=www.atlanticcouncil.org|date=29 April 2024 |publisher=Atlantic Council}}</ref>",
                       "url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/expect-a-new-bridge-to-nato-membership-for-ukraine-at-the-washington-summit-says-julianne-smith/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -127,8 +127,8 @@
                     {
                       "text": "<ref>{{Cite news|url=https://www.nato.int/cps/en/natohq/news_227133.htm|title=Secretary General welcomes President Zelenskyy to NATO Headquarters to prepare Washington Summit|author=|date=27 June 2024|website=nato.int|publisher=NATO}}</ref>",
                       "url": "https://www.nato.int/cps/en/natohq/news_227133.htm",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -140,8 +140,8 @@
                     {
                       "text": "<ref>{{Cite web |last=Landgraf |first=Rick |date=July 2, 2024 |title=In Conversation with Benedetta Berti |url=https://www.fpri.org/article/2024/07/in-conversation-with-benedetta-berti-an-inside-look-at-nato-policy-planning/ |website=Foreign Policy Research Institute}}</ref>",
                       "url": "https://www.fpri.org/article/2024/07/in-conversation-with-benedetta-berti-an-inside-look-at-nato-policy-planning/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -168,49 +168,49 @@
                           "text": "<ref>{{Cite news|url=https://www.cbc.ca/news/world/ukraine-mobilization-law-1.7208625|title=Ukraine's mobilization law now in force, sparking fears more essential workers will be drafted|first=|last=|date=18 May 2024|newspaper=CBC News}}</ref>",
                           "url": "https://www.cbc.ca/news/world/ukraine-mobilization-law-1.7208625",
                           "status_code": null,
-                          "reason": null,
+                          "reason": "Timeout",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.bloomberg.com/news/articles/2024-06-01/ukraine-s-shortage-of-manpower-is-hitting-its-wartime-industry?srnd=politics-vp|title=Ukraine Is Running Short of People|first=Volodymyr|last=Verbianyi|date=31 May 2024|newspaper=Bloomberg}}</ref>",
                           "url": "https://www.bloomberg.com/news/articles/2024-06-01/ukraine-s-shortage-of-manpower-is-hitting-its-wartime-industry?srnd=politics-vp",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.businessinsider.com/ukraines-manpower-problem-could-get-worse-before-it-gets-better-2024-5|title=Ukraine's manpower problem is likely going to 'get worse before it gets better,' war expert says|first=Ella|last=Sherman|date=7 May 2024|newspaper=Business Insider}}</ref>",
                           "url": "https://www.businessinsider.com/ukraines-manpower-problem-could-get-worse-before-it-gets-better-2024-5",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RU|title=Population, total - Russian Federation|website=data.worldbank.org|publisher=The World Bank}}</ref>",
                           "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RU",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |title=Population, total - Ukraine |url=https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UA |publisher=The World Bank}}</ref>",
                           "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=UA",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.forbes.com/sites/vikrammittal/2023/03/05/military-casualties-in-russia-ukraine-war-are-likely-less-than-commonly-stated/?sh=4f5d97f11a5d|title=Military Casualties In Russia-Ukraine War Are Likely Less Than Commonly Stated|first=Vikram|last=Mittal|date=5 March 2023|newspaper=Forbes}}</ref>",
                           "url": "https://www.forbes.com/sites/vikrammittal/2023/03/05/military-casualties-in-russia-ukraine-war-are-likely-less-than-commonly-stated/?sh=4f5d97f11a5d",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.newsweek.com/russia-ukraine-losses-war-military-1906146|title=Russia Rapidly Approaching Grim Losses Milestone: Kyiv|author=Isabel van Brugen|date=30 May 2024|newspaper=Newsweek}}</ref>",
                           "url": "https://www.newsweek.com/russia-ukraine-losses-war-military-1906146",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         }
                       ]
@@ -231,23 +231,23 @@
                       "references": [
                         {
                           "text": "<ref>{{Cite news|url=https://www.cnn.com/2024/04/23/politics/senate-vote-foreign-aid/index.html|title=Senate passes $95 billion package sending aid to Ukraine, Israel and Taiwan after months of delay|first1=Morgan|last1=Rimmer|first2=Ted|last2=Barrett|date=30 April 2024|newspaper=CNN}}</ref>",
-                          "url": "https://www.cnn.com/2024/04/23/politics/senate-vote-foreign-aid/index.html",
-                          "status_code": null,
+                          "url": "https://edition.cnn.com/2024/04/23/politics/senate-vote-foreign-aid/index.html",
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.nbcnews.com/news/world/blinken-visits-ukraine-tout-us-support-kyivs-fight-russias-advances-rcna152115|title=Antony Blinken visits Ukraine to tout U.S. support for Kyiv's fight against Russia's advances|author=The Associated Press|date=14 May 2024|newspaper=NBC News}}</ref>",
                           "url": "https://www.nbcnews.com/news/world/blinken-visits-ukraine-tout-us-support-kyivs-fight-russias-advances-rcna152115",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news |last=Lewis |first=Simon |date=14 May 2024 |title=Blinken, in Kyiv, vows unwavering US support as Russian attacks intensify |url=https://www.reuters.com/world/europe/blinken-arrives-ukraine-show-us-solidarity-amid-russian-attacks-2024-05-14/#:~:text=KYIV%2C%20May%2014%20(Reuters),attacks%20in%20the%20country's%20east. |newspaper=Reuters}}</ref>",
                           "url": "https://www.reuters.com/world/europe/blinken-arrives-ukraine-show-us-solidarity-amid-russian-attacks-2024-05-14/#:~:text=KYIV%2C%20May%2014%20(Reuters),attacks%20in%20the%20country's%20east.",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
                           "type": "news"
                         }
                       ]
@@ -258,64 +258,64 @@
                       "references": [
                         {
                           "text": "<ref>{{Cite news|url=https://apnews.com/article/hungary-will-opt-out-nato-ukraine-operations-7487a597739f92075a6efa72e0ca3fed#:~:text=BUDAPEST%2C%20Hungary%20(AP)%20—,more%20direct%20conflict%20with%20Russia.|title=Hungary will seek to opt out of NATO efforts to support Ukraine, Orbán says|first=Justin|last=Spike|date=24 May 2024|newspaper=AP News}}</ref>",
-                          "url": "https://apnews.com/article/hungary-will-opt-out-nato-ukraine-operations-7487a597739f92075a6efa72e0ca3fed#:~:text=BUDAPEST%2C%20Hungary%20(AP)%20—,more%20direct%20conflict%20with%20Russia.",
-                          "status_code": null,
+                          "url": "https://apnews.com/article/hungary-will-opt-out-nato-ukraine-operations-7487a597739f92075a6efa72e0ca3fed",
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.ft.com/content/08b7a3e1-8ca5-40d7-9cf4-6feed8d6cfd9|title=Hungary seeks to 'redefine' its Nato membership over Ukraine|first1=Marton|last1=Dunai|first2=Henry|last2=Foy|date=24 May 2024|newspaper=Financial Times}}</ref>",
                           "url": "https://www.ft.com/content/08b7a3e1-8ca5-40d7-9cf4-6feed8d6cfd9",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://eu-solidarity-ukraine.ec.europa.eu/index_en|title=EU Solidarity with Ukraine|website=eu-solidarity-ukraine.ec.europa.eu|date=26 February 2022 |publisher=European Union}}</ref>",
-                          "url": "https://eu-solidarity-ukraine.ec.europa.eu/index_en",
-                          "status_code": null,
+                          "url": "https://commission.europa.eu/topics/eu-solidarity-ukraine_en",
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://www.nato.int/cps/en/natohq/topics_192648.htm#:~:text=Since%20the%20start%20of%20Russia's,all%20military%20aid%20to%20Ukraine.|title=NATO's response to Russia's invasion of Ukraine|website=nato.int|publisher=NATO}}</ref>",
                           "url": "https://www.nato.int/cps/en/natohq/topics_192648.htm#:~:text=Since%20the%20start%20of%20Russia's,all%20military%20aid%20to%20Ukraine.",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.voanews.com/a/hungary-to-seek-to-opt-out-of-nato-efforts-to-support-ukraine-orban-says-/7626045.html#|title=Hungary to seek to opt out of NATO efforts to support Ukraine, Orban says|agency=Associated Press|date=24 May 2024|newspaper=Voice of America}}</ref>",
-                          "url": "https://www.voanews.com/a/hungary-to-seek-to-opt-out-of-nato-efforts-to-support-ukraine-orban-says-/7626045.html#",
-                          "status_code": null,
+                          "url": "https://www.voanews.com/a/hungary-to-seek-to-opt-out-of-nato-efforts-to-support-ukraine-orban-says-/7626045.html",
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.politico.eu/article/eu-threatens-silence-hungary-orban-if-blocks-ukrainian-aid-funds-article-7/|title=EU threatens to silence Hungary, if it blocks Ukrainian funds|first=|last=|date=|newspaper=Politico}}</ref>",
                           "url": "https://www.politico.eu/article/eu-threatens-silence-hungary-orban-if-blocks-ukrainian-aid-funds-article-7/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.ft.com/content/9dabcd4b-9c64-4124-9f9c-b0c898c84c8f|title=Brussels threatens to hit Hungary's economy if Viktor Orbán vetoes Ukraine aid|first1=Henry|last1=Foy|first2=Andy|last2=Bounds|first3=Marton|last3=Dunai|date=28 January 2024|newspaper=Financial Times}}</ref>",
                           "url": "https://www.ft.com/content/9dabcd4b-9c64-4124-9f9c-b0c898c84c8f",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.aljazeera.com/news/2024/2/1/european-union-agrees-on-new-54bn-aid-package-for-ukraine|title=European Union agrees on new $54bn aid package for Ukraine|date=1 February 2024|newspaper=Aljazeera}}</ref>",
                           "url": "https://www.aljazeera.com/news/2024/2/1/european-union-agrees-on-new-54bn-aid-package-for-ukraine",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://neighbourhood-enlargement.ec.europa.eu/news/eu-leaders-agree-eu50-billion-reliable-financial-support-ukraine-until-2027-2024-02-02_en#:~:text=2%20min%20read-,EU%20Leaders%20agree%20on%20€50%20billion%20of%20reliable%20financial,support%20between%20now%20and%202027.|title=EU Leaders agree on €50 billion of reliable financial support for Ukraine until 2027|website=neighbourhood-enlargement.ec.europa.eu|publisher=European Union}}</ref>",
-                          "url": "https://neighbourhood-enlargement.ec.europa.eu/news/eu-leaders-agree-eu50-billion-reliable-financial-support-ukraine-until-2027-2024-02-02_en#:~:text=2%20min%20read-,EU%20Leaders%20agree%20on%20€50%20billion%20of%20reliable%20financial,support%20between%20now%20and%202027.",
-                          "status_code": null,
+                          "url": "https://enlargement.ec.europa.eu/news/eu-leaders-agree-eu50-billion-reliable-financial-support-ukraine-until-2027-2024-02-02_en",
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -328,21 +328,21 @@
                         {
                           "text": "<ref>{{Cite news|url=https://www.theglobeandmail.com/world/article-eu-leaders-sign-security-deal-with-ukraine-discuss-defence-and-top/|title=EU leaders sign security deal with Ukraine, discuss defence and top posts|first1=Julia|last1=Payne|first2=Thomas|last2=Escritt|date=27 June 2024|newspaper=The Globe and Mail}}</ref>",
                           "url": "https://www.theglobeandmail.com/world/article-eu-leaders-sign-security-deal-with-ukraine-discuss-defence-and-top/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.reuters.com/world/europe/ukraine-signs-security-pacts-with-eu-lithuania-estonia-2024-06-27/|title=Ukraine signs security pacts with EU, Lithuania and Estonia|first=|last=|date=27 June 2024|newspaper=Reuters}}</ref>",
                           "url": "https://www.reuters.com/world/europe/ukraine-signs-security-pacts-with-eu-lithuania-estonia-2024-06-27/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.france24.com/en/europe/20240627-eu-ukraine-security-agreement-will-advance-peace-says-zelensky|title=EU-Ukraine security agreement will advance 'peace', says Zelensky|first=|last=|date=27 June 2024|newspaper=France24}}</ref>",
                           "url": "https://www.france24.com/en/europe/20240627-eu-ukraine-security-agreement-will-advance-peace-says-zelensky",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -365,50 +365,50 @@
                         {
                           "text": "<ref>{{Cite news|url=https://www.nytimes.com/2024/05/23/world/europe/ukraine-russia-battlefield-gains.html|title=Advancing Russian Troops Threaten to Reverse Some of Ukraine's Hard-Won Gains|first=Constant|last=Meheut|date=23 May 2024|newspaper=The New York Times}}</ref>",
                           "url": "https://www.nytimes.com/2024/05/23/world/europe/ukraine-russia-battlefield-gains.html",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.bbc.com/news/articles/cx88lve88wyo#|title=Thousands flee Russian offensive in Kharkiv region|first=Tom|last=McArthur|date=21 May 2024|newspaper=BBC News}}</ref>",
-                          "url": "https://www.bbc.com/news/articles/cx88lve88wyo#",
-                          "status_code": null,
+                          "url": "https://www.bbc.com/news/articles/cx88lve88wyo",
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
-                          "text": "<ref>{{Cite web|url=https://www.usip.org/publications/2024/05/russias-hybrid-war-europe-moldovas-critical-next-15-months|title=In Russia's Hybrid War on Europe, Moldova's Critical Next 15 Months|author1=Donald Jensen, PhD|author2=James Rupert|date=1 May 2024|website=www.usip.org|publisher=United States Institute of Peace}}</ref>",
+                          "text": "<ref>{{Cite web|url=https://www.usip.org/publications/2024/05/russias-hybrid-war-europe-moldovas-critical-next-15-months|archive-url=https://web.archive.org/web/20240508164713/https://www.usip.org/publications/2024/05/russias-hybrid-war-europe-moldovas-critical-next-15-months|url-status=dead|archive-date=8 May 2024|title=In Russia's Hybrid War on Europe, Moldova's Critical Next 15 Months|author1=Donald Jensen, PhD|author2=James Rupert|date=1 May 2024|website=United States Institute of Peace|publisher=United States Institute of Peace}}</ref>",
                           "url": "https://www.usip.org/publications/2024/05/russias-hybrid-war-europe-moldovas-critical-next-15-months",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.nytimes.com/2024/05/18/world/europe/georgia-president-veto-foreign-influence-law.html|title=Georgia's President Vetoes Foreign Influence Law|first=Ivan|last=Nechepurenko|date=18 May 2024|newspaper=The New York Times}}</ref>",
                           "url": "https://www.nytimes.com/2024/05/18/world/europe/georgia-president-veto-foreign-influence-law.html",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.bbc.com/news/articles/cxrre3qy2n4o|title=Georgia parliament overturns veto on foreign agents law|first=Rayhan|last=Demytrie|date=28 May 2024|newspaper=BBC News}}</ref>",
                           "url": "https://www.bbc.com/news/articles/cxrre3qy2n4o",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://civil.ge/archives/600995|title=Live Blog: 'Yes to Europe, No to Russian Law' – Rallies Against Foreign Agents Bill|newspaper=Civil Georgia}}</ref>",
                           "url": "https://civil.ge/archives/600995",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://abcnews.go.com/US/wireStory/blinken-head-eastern-europe-concerns-mount-ukraine-moldova-110543586|title=Blinken will head to eastern Europe as concerns mount about Ukraine, Moldova and Georgia|first=Matthew|last=Lee|date=24 May 2024|newspaper=ABC News}}</ref>",
                           "url": "https://abcnews.go.com/US/wireStory/blinken-head-eastern-europe-concerns-mount-ukraine-moldova-110543586",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 404,
+                          "reason": "Not Found",
                           "type": "news"
                         }
                       ]
@@ -430,21 +430,21 @@
                         {
                           "text": "<ref>{{Cite news|url=https://www.bbc.com/news/articles/c163kp93l6po|title=Kyiv can use British weapons inside Russia - Cameron|first=Paul|last=Kirby|date=3 May 2024|newspaper=BBC News}}</ref>",
                           "url": "https://www.bbc.com/news/articles/c163kp93l6po",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.reuters.com/world/europe/kremlin-calls-cameron-statement-uk-arms-ukraine-direct-escalation-2024-05-03/|title=Kremlin calls Cameron statement on UK arms for Ukraine a 'direct escalation'|first=|last=|date=3 May 2024|newspaper=Reuters}}</ref>",
                           "url": "https://www.reuters.com/world/europe/kremlin-calls-cameron-statement-uk-arms-ukraine-direct-escalation-2024-05-03/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://kyivindependent.com/finland-canada/|title=Finland, Canada, Poland don't prohibit Ukraine from striking targets in Russia with their weapons|first=Kateryna|last=Denisova|date=29 May 2024|newspaper=The Kyiv Independent}}</ref>",
                           "url": "https://kyivindependent.com/finland-canada/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -457,14 +457,14 @@
                         {
                           "text": "<ref>{{Cite news |last=Hrudka |first=Orysia |date=31 May 2024 |title=Most allies now support Ukraine striking targets in Russia; Italy and Belgium oppose, US undecided |url=https://euromaidanpress.com/2024/05/31/most-allies-now-support-ukraine-striking-targets-in-russia-italy-and-belgium-oppose-us-undecided/ |newspaper=Euromaidan Press}}</ref>",
                           "url": "https://euromaidanpress.com/2024/05/31/most-allies-now-support-ukraine-striking-targets-in-russia-italy-and-belgium-oppose-us-undecided/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref name=\":0\">{{Cite news |last=Denisova |first=Kateryna |date=29 May 2024 |title=Ukraine urges allies to lift Western arms ban on hitting targets inside Russia. Will they? |url=https://kyivindependent.com/ukraine-urges-allies-to-lift-western-arms-ban-on-hitting-targets-inside-russia-will-they/ |access-date= |newspaper=The Kyiv Independent}}</ref>",
                           "url": "https://kyivindependent.com/ukraine-urges-allies-to-lift-western-arms-ban-on-hitting-targets-inside-russia-will-they/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -477,28 +477,28 @@
                         {
                           "text": "<ref>{{Cite news|url=https://www.politico.com/news/2024/05/30/biden-ukraine-weapons-strike-russia-00160731|title=Biden secretly gave Ukraine permission to strike inside Russia with US weapons|first1=Erin|last1=Banco|first2=Alexander|last2=Ward|first3=Lara|last3=Seligman|date=30 May 2024|newspaper=Politico}}</ref>",
                           "url": "https://www.politico.com/news/2024/05/30/biden-ukraine-weapons-strike-russia-00160731",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref name=\":0\" /> Shortly after the US lifted these restrictions, the German government gave permission for Ukraine to use its weapons inside Russia.<ref>{{Cite news|url=https://www.pbs.org/newshour/world/germany-says-ukraine-can-use-its-weapons-against-targets-in-russia-after-the-u-s-also-eases-its-stance|title=Germany says Ukraine can use its weapons against targets in Russia after the U.S. also eases its stance|first1=Illia|last1=Novikov|first2=Matthew|last2=Lee|first3=Karel|last3=Janicek|date=31 May 2024|newspaper=PBS News Hour}}</ref>",
                           "url": "https://www.pbs.org/newshour/world/germany-says-ukraine-can-use-its-weapons-against-targets-in-russia-after-the-u-s-also-eases-its-stance",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.reuters.com/world/europe/russian-forces-firm-control-offensive-line-near-kharkiv-russia-installed-2024-05-31/#:~:text=Russia%20opened%20a%20new%20front,in%20troops%20from%20other%20areas.|title=Russian forces firm control of offensive line near Kharkiv, Russia-installed officials say|first=|last=|date=31 May 2024|newspaper=Reuters}}</ref>",
                           "url": "https://www.reuters.com/world/europe/russian-forces-firm-control-offensive-line-near-kharkiv-russia-installed-2024-05-31/#:~:text=Russia%20opened%20a%20new%20front,in%20troops%20from%20other%20areas.",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.dw.com/en/ukraine-updates-russia-making-tactical-gains-in-kharkiv/live-69065078|title=Ukraine updates: Russia making 'tactical' gains in Kharkiv|first=|last=|date=13 May 2024|newspaper=Deutsche Welle}}</ref>",
                           "url": "https://www.dw.com/en/ukraine-updates-russia-making-tactical-gains-in-kharkiv/live-69065078",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -511,57 +511,57 @@
                         {
                           "text": "<ref>{{Cite news|url=https://www.politico.com/news/2024/06/14/europe-presses-us-to-lift-ukraine-weapons-limits-00163443|title='One hand tied around the back': Europe presses US to lift Ukraine weapons limits|first=Lara|last=Seligman|date=14 June 2024|newspaper=Politico}}</ref>",
                           "url": "https://www.politico.com/news/2024/06/14/europe-presses-us-to-lift-ukraine-weapons-limits-00163443",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://apnews.com/article/russia-putin-kim-north-korea-pact-556492779b6a32c4cf74b992741d91a8|title=With its new pact with North Korea, Russia raises the stakes with the West over Ukraine|first=|last=|date=23 June 2024|newspaper=AP News}}</ref>",
                           "url": "https://apnews.com/article/russia-putin-kim-north-korea-pact-556492779b6a32c4cf74b992741d91a8",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.reuters.com/world/north-korea-russia-pact-give-all-available-military-help-if-other-is-invaded-2024-06-20/|title=New North Korea-Russia pact calls for immediate military aid if invaded|first1=Jack|last1=Kim|first2=Ju-min|last2=Park|date=20 June 2024|newspaper=Reuters}}</ref>",
                           "url": "https://www.reuters.com/world/north-korea-russia-pact-give-all-available-military-help-if-other-is-invaded-2024-06-20/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.voanews.com/a/pentagon-changes-rhetoric-on-ukraine-crossfire-into-russia/7665656.html|title=Pentagon changes rhetoric on Ukraine crossfire into Russia\n|first=Carla|last=Babb|date=21 June 2024|newspaper=Voice of America}}</ref>",
                           "url": "https://www.voanews.com/a/pentagon-changes-rhetoric-on-ukraine-crossfire-into-russia/7665656.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.politico.com/news/2024/06/20/us-says-ukraine-can-hit-inside-russia-anywhere-00164261|title=US says Ukraine can hit inside Russia 'anywhere' its forces attack across the border|first=Lara|last=Seligman|date=20 June 2024|newspaper=Politico}}</ref>",
                           "url": "https://www.politico.com/news/2024/06/20/us-says-ukraine-can-hit-inside-russia-anywhere-00164261",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://abcnews.go.com/US/wireStory/ukraine-fire-us-provided-missiles-deeper-russia-defense-111312203|title=Ukraine may fire US-provided missiles into Russia wherever it is coming under attack, Pentagon says|first=Tara|last=Copp|date=21 June 2024|newspaper=ABC News}}</ref>",
                           "url": "https://abcnews.go.com/US/wireStory/ukraine-fire-us-provided-missiles-deeper-russia-defense-111312203",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 404,
+                          "reason": "Not Found",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://apnews.com/article/ukraine-war-us-weapons-long-range-missiles-7f061044c7b50a1946409eea9e9c399f#:~:text=KHARKIV%20REGION%2C%20Ukraine%20(AP),long%2Drange%20missiles%20to%20be|title=As U.S.-supplied weapons show impact inside Russia, Ukrainian soldiers hope for deeper strikes|first=Samya|last=Kullab|date=22 June 2024|newspaper=AP News}}</ref>",
-                          "url": "https://apnews.com/article/ukraine-war-us-weapons-long-range-missiles-7f061044c7b50a1946409eea9e9c399f#:~:text=KHARKIV%20REGION%2C%20Ukraine%20(AP),long%2Drange%20missiles%20to%20be",
-                          "status_code": null,
+                          "url": "https://apnews.com/article/ukraine-war-us-weapons-long-range-missiles-7f061044c7b50a1946409eea9e9c399f",
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://abcnews.go.com/International/wireStory/us-supplied-weapons-show-impact-inside-russia-ukrainian-111337905|title=As U.S.-supplied weapons show impact inside Russia, Ukrainian soldiers hope for deeper strikes|first=Samya|last=Kullab|date=22 June 2024|newspaper=ABC News}}</ref>",
                           "url": "https://abcnews.go.com/International/wireStory/us-supplied-weapons-show-impact-inside-russia-ukrainian-111337905",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 404,
+                          "reason": "Not Found",
                           "type": "news"
                         }
                       ]
@@ -573,63 +573,63 @@
                         {
                           "text": "<ref>{{Cite news|url=https://www.reuters.com/world/asia-pacific/putin-kim-agree-develop-strategic-fortress-relations-kcna-says-2024-06-18/|title=Russia's Putin and North Korea's Kim sign a mutual defence pact|first1=Josh|last1=Smith|first2=Ju-min|last2=Park|date=19 June 2024|newspaper=Reuters}}</ref>",
                           "url": "https://www.reuters.com/world/asia-pacific/putin-kim-agree-develop-strategic-fortress-relations-kcna-says-2024-06-18/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.theguardian.com/world/article/2024/jun/19/russia-and-north-korea-sign-mutual-defence-pact|title=Russia and North Korea sign mutual defence pact|first1=Justin|last1=McCurry|first2=Andrew|last2=Roth|date=19 June 2024|newspaper=The Guardian}}</ref>",
                           "url": "https://www.theguardian.com/world/article/2024/jun/19/russia-and-north-korea-sign-mutual-defence-pact",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.rferl.org/a/north-south-korea-putin-kim-jong-un/33003652.html|title=South Korea Summons Russian Envoy Over Defense Deal With Pyongyang|first=|last=|date=21 June 2024|newspaper=Radio Free Europe/Radio Liberty}}</ref>",
                           "url": "https://www.rferl.org/a/north-south-korea-putin-kim-jong-un/33003652.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://apnews.com/article/korean-border-defector-leaflets-balloons-c7b5c2d2b7a919361de086c5e32291d2|title=South Korea summons Russian ambassador as tensions rise with North Korea\n|first=Kim|last=Tong-Hyung|date=21 June 2024|newspaper=AP News}}</ref>",
                           "url": "https://apnews.com/article/korean-border-defector-leaflets-balloons-c7b5c2d2b7a919361de086c5e32291d2",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.ft.com/content/34439f7d-e546-40eb-92e5-54aa0224ecbe|title=South Korea to consider supplying arms to Ukraine after Putin-Kim pact|first=Song|last=Jung-a|date=21 June 2024|newspaper=Financial Times}}</ref>",
                           "url": "https://www.ft.com/content/34439f7d-e546-40eb-92e5-54aa0224ecbe",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.voanews.com/a/south-korea-will-consider-supplying-arms-to-ukraine-after-russia-north-korea-sign-strategic-pact/7676277.html#|title=South Korea will consider supplying arms to Ukraine after Russia, North Korea sign strategic pact|first=|last=|date=27 June 2024|newspaper=Voice of America}}</ref>",
-                          "url": "https://www.voanews.com/a/south-korea-will-consider-supplying-arms-to-ukraine-after-russia-north-korea-sign-strategic-pact/7676277.html#",
-                          "status_code": null,
+                          "url": "https://www.voanews.com/a/south-korea-will-consider-supplying-arms-to-ukraine-after-russia-north-korea-sign-strategic-pact/7676277.html",
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.reuters.com/world/south-korea-says-will-reconsider-providing-weapons-ukraine-yonhap-says-2024-06-20/|title=South Korea to reconsider providing weapons to Ukraine|first=|last=|date=20 June 2024|newspaper=Reuters}}</ref>",
                           "url": "https://www.reuters.com/world/south-korea-says-will-reconsider-providing-weapons-ukraine-yonhap-says-2024-06-20/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.bbc.com/news/articles/c1ee8x221lno|title=Putin warns South Korea against arming Ukraine|first=Kelly|last=Ng|date=20 June 2024|newspaper=BBC News}}</ref>",
                           "url": "https://www.bbc.com/news/articles/c1ee8x221lno",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.politico.eu/article/sending-weapons-to-ukraine-would-be-a-big-mistake-putin-warns-south-korea/|title=Putin warns South Korea: Sending killer weapons to Ukraine would be a 'big mistake'|first=Seb|last=Starcevic|date=20 June 2024|newspaper=Politico}}</ref>",
                           "url": "https://www.politico.eu/article/sending-weapons-to-ukraine-would-be-a-big-mistake-putin-warns-south-korea/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -652,14 +652,14 @@
                         {
                           "text": "<ref name=\"NATOSpending\">{{cite web|title=Secretary General in Washington: NATO makes America stronger|url=https://www.nato.int/cps/en/natohq/news_226749.htm?selectedLocale=en|website=nato.int|publisher=NATO|date=17 June 2024|access-date=19 June 2024}}</ref>",
                           "url": "https://www.nato.int/cps/en/natohq/news_226749.htm?selectedLocale=en",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"APSpending\">{{cite web|title=A record number of NATO allies are hitting their defense spending target during war in Ukraine|url=https://apnews.com/article/nato-defense-spending-stoltenberg-biden-5246409eec70745e6e936d997073a6f4|author1=Knickmeyer, Ellen|author2=Seung Min Kim|publisher=Associated Press|website=APNews.com|date=17 June 2024|access-date=19 June 2024}}</ref>",
                           "url": "https://apnews.com/article/nato-defense-spending-stoltenberg-biden-5246409eec70745e6e936d997073a6f4",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -672,70 +672,70 @@
                         {
                           "text": "<ref>{{Cite news|url=https://www.reuters.com/world/europe/polish-president-says-nato-members-should-spend-3-gdp-defence-2024-03-11/|title=Polish president says NATO members should spend 3% of GDP on defence|first=|last=|date=11 March 2024|newspaper=Reuters}}</ref>",
                           "url": "https://www.reuters.com/world/europe/polish-president-says-nato-members-should-spend-3-gdp-defence-2024-03-11/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.cnbc.com/2024/03/19/russia-ukraine-poland-says-nato-must-urgently-ramp-spending.html#:~:text=Polish%20President%20Andrzej%20Duda%20said,alliance%20within%20the%20coming%20years|title='Alarm bells are ringing': Poland's president says NATO must urgently ramp up defense spending|first=Karen|last=Gilchrist|date=19 March 2024|newspaper=CNBC News}}</ref>",
                           "url": "https://www.cnbc.com/2024/03/19/russia-ukraine-poland-says-nato-must-urgently-ramp-spending.html#:~:text=Polish%20President%20Andrzej%20Duda%20said,alliance%20within%20the%20coming%20years",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.reuters.com/world/europe/polands-2024-budget-see-big-spending-defence-social-benefits-2023-08-24/|title=Poland's 2024 budget to see big spending on defence, social benefits|first=|last=|date=24 August 2023|newspaper=Reuters}}</ref>",
                           "url": "https://www.reuters.com/world/europe/polands-2024-budget-see-big-spending-defence-social-benefits-2023-08-24/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 401,
+                          "reason": "HTTP Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite web|url=https://www.nato.int/nato_static_fl2014/assets/pdf/2024/6/pdf/240617-def-exp-2024-en.pdf|title=Defence Expenditure of NATO Countries (2014-2024)|author=|access-date=12 June 2024|website=nato.int|publisher=NATO}}</ref>",
                           "url": "https://www.nato.int/nato_static_fl2014/assets/pdf/2024/6/pdf/240617-def-exp-2024-en.pdf",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://kyivindependent.com/baltic-countries-to-push-for-2-5-gdp-defense-spending-during-nato-summit/|title=Baltic countries to push for 2.5% of GDP defense spending minimum during NATO summit|first=Martin|last=Fornusek|date=23 May 2024|newspaper=The Kyiv Independent}}</ref>",
                           "url": "https://kyivindependent.com/baltic-countries-to-push-for-2-5-gdp-defense-spending-during-nato-summit/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.theguardian.com/politics/article/2024/jul/09/keir-starmer-nato-summit-defence-spending|title=Starmer to urge Nato members to boost defence spending amid UK review|first=Pippa|last=Grerar|date=8 July 2024|newspaper=The Guardian}}</ref>",
                           "url": "https://www.theguardian.com/politics/article/2024/jul/09/keir-starmer-nato-summit-defence-spending",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite news|url=https://www.politico.eu/article/uk-keir-starmer-prime-minister-nato-members-summit-us-elections-defense-spending/|title=UK's Keir Starmer urges allies to hike defense spending|first=Stefan|last=Boscia|date=9 July 2024|newspaper=Politico}}</ref>",
                           "url": "https://www.politico.eu/article/uk-keir-starmer-prime-minister-nato-members-summit-us-elections-defense-spending/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite web|last=Lawless|first=Jill|url=https://apnews.com/article/keir-starmer-labour-challenges-ukraine-nato-gaza-0da1da8a74c6196518059d7d9fbcf77d|title=PM says defence spending commitment 'cast iron'|date=6 July 2024|website=Associated Press|access-date=7 July 2024|archive-url=https://web.archive.org/web/20240706052701/https://apnews.com/article/keir-starmer-labour-challenges-ukraine-nato-gaza-0da1da8a74c6196518059d7d9fbcf77d|archive-date=6 July 2024|url-status=live}}</ref>",
                           "url": "https://apnews.com/article/keir-starmer-labour-challenges-ukraine-nato-gaza-0da1da8a74c6196518059d7d9fbcf77d",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|last=Mason|first=Chris|url=https://www.bbc.co.uk/news/articles/ceqd2x5793no|title=PM says defence spending commitment 'cast iron'|date=9 July 2024|website=BBC News|access-date=9 July 2024|archive-url=https://web.archive.org/web/20240709223845/https://www.bbc.com/news/articles/ceqd2x5793no|archive-date=9 July 2024|url-status=live}}</ref>",
                           "url": "https://www.bbc.co.uk/news/articles/ceqd2x5793no",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web|last1=Fisher|first1=Lucy|last2=Foy|first2=Henry|url=https://www.ft.com/content/cdaaab5e-eead-47ce-890c-cf66473b7a82|title=Starmer plans 'road map' for UK to hit higher defence spending goal|date=9 July 2024|website=Financial Times|url-access=subscription|access-date=9 July 2024|archive-url=https://web.archive.org/web/20240709224227/https://www.ft.com/content/cdaaab5e-eead-47ce-890c-cf66473b7a82|archive-date=9 July 2024|url-status=live}}</ref>",
                           "url": "https://www.ft.com/content/cdaaab5e-eead-47ce-890c-cf66473b7a82",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -762,22 +762,22 @@
                 {
                   "text": "<ref name=\"pbs1\">{{cite news |url=https://www.youtube.com/watch?v=JPLrtFMB928 | title=WATCH LIVE: Biden hosts Ukraine Compact event with allies and partner countries at NATO summit }}</ref>",
                   "url": "https://www.youtube.com/watch?v=JPLrtFMB928",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"bbg1\">{{cite news |url=https://www.youtube.com/shorts/F0GRXrgff9g?app=desktop | title=Biden at NATO Summit Unveils Ukraine Compact to Deter Putin }}</ref>",
                   "url": "https://www.youtube.com/shorts/F0GRXrgff9g?app=desktop",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"cspan1\">{{cite news |title=President Biden Remarks on the Ukraine Compact at NATO Summit|url=https://www.c-span.org/video/?536940-1/president-biden-remarks-ukraine-compact-nato-summit}}</ref>",
                   "url": "https://www.c-span.org/video/?536940-1/president-biden-remarks-ukraine-compact-nato-summit}}</ref>",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -797,14 +797,14 @@
                     {
                       "text": "<ref>{{Cite news|url=https://archive.kyivpost.com/article/content/eu-ukraine-relations/poll-almost-half-of-ukrainians-back-ukraines-accession-to-eu-318650.html|title= Poll: Almost half of Ukrainians back Ukraine's accession to EU|author=Interfax-Ukraine|date=10 January 2013|newspaper=Kyiv Post}}</ref>",
                       "url": "https://archive.kyivpost.com/article/content/eu-ukraine-relations/poll-almost-half-of-ukrainians-back-ukraines-accession-to-eu-318650.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news|url=https://www.pravda.com.ua/news/2013/01/10/6981191/view_print/|title=Almost half of Ukrainians want to join the EU, slightly less want to join the Customs Union|date=10 January 2013|newspaper=Ukrainska Pravda}}</ref>",
                       "url": "https://www.pravda.com.ua/news/2013/01/10/6981191/view_print/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -817,14 +817,14 @@
                     {
                       "text": "<ref>{{cite web |url=https://www.kiis.com.ua/?lang=ukr&cat=reports&id=1083&page=1|title=Attitude to the access of Ukraine to the EU and NATO, attitude to direct negotiations with v. putin, and perception of the military threat from Russia: results of the telephone survey conducted december 13-16, 2021|publisher=KIV INTERNATIONAL INSTITUTE SOCIOLOGY}}</ref>",
                       "url": "https://www.kiis.com.ua/?lang=ukr&cat=reports&id=1083&page=1",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |url=https://ratinggroup.ua/files/ratinggroup/reg_files/ukr_february_2024_national_survey_public.pdf|title=All UKRAINIAN Survey|author=<!-- Not stated -->|website=ratinggroup.ua|publisher=Center for insights in survey research}}</ref>",
                       "url": "https://ratinggroup.ua/files/ratinggroup/reg_files/ukr_february_2024_national_survey_public.pdf",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -847,15 +847,15 @@
                     {
                       "text": "<ref>{{Cite news|url=https://www.voanews.com/a/blinken-no-fatigue-in-nato-support-of-ukraine-/7376980.html|title=Blinken: 'No Fatigue' in NATO Support of Ukraine|date=29 November 2024|first=Nike|last=Ching|newspaper=Voice of America}}</ref>",
                       "url": "https://www.voanews.com/a/blinken-no-fatigue-in-nato-support-of-ukraine-/7376980.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web|url=https://www.nato.int/cps/en/natohq/topics_192648.htm#:~:text=The%20Alliance%20fully%20supports%20Ukraine's,most%20substantial%20of%20NATO's%20partnerships.|title=NATO's response to Russia's invasion of Ukraine|date=21 March 2024|website=nato.int|publisher=NATO}}</ref>",
                       "url": "https://www.nato.int/cps/en/natohq/topics_192648.htm#:~:text=The%20Alliance%20fully%20supports%20Ukraine's,most%20substantial%20of%20NATO's%20partnerships.",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -867,14 +867,14 @@
                     {
                       "text": "<ref>{{Cite news|url=https://carnegieendowment.org/research/2023/10/ukraines-accession-poses-a-unique-conundrum-for-the-eu?lang=en|title=Ukraine's Accession Poses a Unique Conundrum for the EU|first1=Sophia|last1=Besch|first2=Eric|last2=Ciaramella|date=24 October 2024|website=Carnegie Endowment for International Peace|publisher=Carnegie Endowment for International Peace}}</ref>",
                       "url": "https://carnegieendowment.org/research/2023/10/ukraines-accession-poses-a-unique-conundrum-for-the-eu?lang=en",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news|url=https://www.pravda.com.ua/eng/news/2024/04/5/7449860/|title=Ukraine won't be invited to NATO at Washington summit in order not to bring NATO into war – NYT|first1=Ivanna|last1=Kostina|first2=Stanislav|last2=Pohorilov|date=5 April 2024|newspaper=Ukrainska Pravda}}</ref>",
                       "url": "https://www.pravda.com.ua/eng/news/2024/04/5/7449860/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -888,18 +888,18 @@
     },
     {
       "id": "4",
-      "title": "Israel–Hamas war",
+      "title": "Israel–Gaza war",
       "content": [
         {
           "sentences": [
             {
               "id": "4.s1",
-              "text": "{{See also|United States support for Israel in the Israel–Hamas war|British support for Israel in the Israel–Hamas war}}\nSpeaking at the Washington summit, Spanish Prime Minister Pedro Sánchez urged NATO members to avoid \"double standards\" regarding the Israel–Hamas war|wars in Gaza and Ukraine, saying, \"If we demand respect for international law in Ukraine, we must demand it in Gaza as well.\"<ref name=\"aljazeera-summit\"/>",
+              "text": "{{See also|United States support for Israel in the Israel–Hamas war|British support for Israel in the Israel–Hamas war}}\nSpeaking at the Washington summit, Spanish Prime Minister Pedro Sánchez urged NATO members to avoid \"double standards\" regarding the Gaza war|wars in Gaza and Ukraine, saying, \"If we demand respect for international law in Ukraine, we must demand it in Gaza as well.\"<ref name=\"aljazeera-summit\"/>",
               "references": [
                 {
                   "text": "<ref>{{cite news |title=Spanish PM: NATO must avoid 'double standards' over Gaza, Ukraine |url=https://www.aljazeera.com/program/newsfeed/2024/7/11/spanish-pm-nato-must-avoid-double-standards-over-gaza-ukraine |work=Al Jazeera |date=11 July 2024}}</ref>",
                   "url": "https://www.aljazeera.com/program/newsfeed/2024/7/11/spanish-pm-nato-must-avoid-double-standards-over-gaza-ukraine",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -912,7 +912,7 @@
                 {
                   "text": "<ref name=\"aljazeera-summit\">{{cite news |title=What has NATO promised Ukraine – and did Gaza figure in summit talks? |url=https://www.aljazeera.com/news/2024/7/11/what-has-nato-promised-ukraine-at-summit-and-did-gaza-figure-in-talks |work=Al Jazeera |date=11 July 2024}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/7/11/what-has-nato-promised-ukraine-at-summit-and-did-gaza-figure-in-talks",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -958,8 +958,8 @@
                 {
                   "text": "<ref name=thehill/> During the reception, United States President Joe Biden presented outgoing NATO Secretary General Jens Stoltenberg with the Presidential Medal of Freedom, the highest Civilian decorations of the United States|civilian award of the United States.<ref name=thehill>{{cite news |first=Laura |last=Kelly |title=Biden presents NATO chief with Presidential Medal of Freedom |url=https://thehill.com/policy/defense/4763036-biden-medal-freedom-stoltenberg-nato-summit/ |work=The Hill (newspaper)|The Hill |publisher= |date=2024-07-09 |access-date=2024-07-11 |archive-url=https://web.archive.org/web/20240710020505/https://thehill.com/policy/defense/4763036-biden-medal-freedom-stoltenberg-nato-summit/ |archive-date=2024-07-10 |url-status=live}}</ref>",
                   "url": "https://thehill.com/policy/defense/4763036-biden-medal-freedom-stoltenberg-nato-summit/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -971,7 +971,7 @@
                 {
                   "text": "<ref name=\":1\">{{Cite web |last1=Stepansky |first1=Joseph |last2=Marsi |first2=Federica |date=10 July 2024 |title=NATO countries pledge long-term support for Ukraine as allies meet |url=https://www.aljazeera.com/news/liveblog/2024/7/10/nato-summit-washington-live |access-date=2024-07-11 |website=Al Jazeera |language=en}}</ref>",
                   "url": "https://www.aljazeera.com/news/liveblog/2024/7/10/nato-summit-washington-live",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -984,35 +984,35 @@
                 {
                   "text": "<ref>{{cite news |title=A new arms race in Europe? US long-range weapons in Germany |url=https://www.dw.com/en/a-new-arms-race-in-europe-us-long-range-weapons-in-germany/a-69648733 |work=Deutsche Welle |date=13 July 2024}}</ref>",
                   "url": "https://www.dw.com/en/a-new-arms-race-in-europe-us-long-range-weapons-in-germany/a-69648733",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Germany’s Scholz under friendly fire over US missile plan |url=https://www.politico.eu/article/olaf-scholz-germany-american-long-range-missiles-social-democratic-party-bundestag-russia/ |work=Politico |date=31 July 2024}}</ref>",
                   "url": "https://www.politico.eu/article/olaf-scholz-germany-american-long-range-missiles-social-democratic-party-bundestag-russia/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Putin warns US against deploying long-range missiles in Germany |url=https://www.theguardian.com/world/article/2024/jul/28/putin-warns-us-against-deploying-long-range-missiles-in-germany |work=The Guardian |date=28 July 2024}}</ref>",
                   "url": "https://www.theguardian.com/world/article/2024/jul/28/putin-warns-us-against-deploying-long-range-missiles-in-germany",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Russia says US missiles in Germany signal return of Cold War |url=https://www.aljazeera.com/news/2024/7/11/russia-says-us-missiles-in-germany-signal-return-of-cold-war |work=Al Jazeera |date=11 July 2024}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/7/11/russia-says-us-missiles-in-germany-signal-return-of-cold-war",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Germany split on US stationing long-range cruise missiles |url=https://www.dw.com/en/germany-split-on-us-stationing-long-range-cruise-missiles/a-69638145 |work=Deutsche Welle |date=11 July 2024}}</ref>",
                   "url": "https://www.dw.com/en/germany-split-on-us-stationing-long-range-cruise-missiles/a-69638145",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -1034,106 +1034,106 @@
               "references": [
                 {
                   "text": "<ref>{{Cite journal|url=https://www.csis.org/analysis/what-will-happen-natos-washington-summit#:~:text=Current%20secretary%20general%20Stoltenberg%20will,Dutch%20secretary%20general%20Joseph%20Luns.|title=What Will Happen at NATO's Washington Summit|date=2 July 2024|website=csis.org|publisher=Center for Strategic and International Studies |last1=Monaghan |first1=Sean |last2=Martinez |first2=Sissy |last3=Palazzi |first3=Andrea Leonard |last4=Svendsen |first4=Otto }}</ref>",
-                  "url": "https://www.csis.org/analysis/what-will-happen-natos-washington-summit#:~:text=Current%20secretary%20general%20Stoltenberg%20will,Dutch%20secretary%20general%20Joseph%20Luns.",
-                  "status_code": null,
+                  "url": "https://www.csis.org/analysis/what-will-happen-natos-washington-summit",
+                  "status_code": 200,
                   "reason": null,
                   "type": "journal"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://www.reuters.com/world/armenian-foreign-minister-travel-washington-nato-summit-2024-07-08/#:~:text=TBILISI%2C%20July%208%20(Reuters),closer%20ties%20with%20the%20West|title=Armenian foreign minister to travel to Washington for NATO summit|first=|last=|date=8 July 2024|newspaper=Reuters}}</ref>",
                   "url": "https://www.reuters.com/world/armenian-foreign-minister-travel-washington-nato-summit-2024-07-08/#:~:text=TBILISI%2C%20July%208%20(Reuters),closer%20ties%20with%20the%20West",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://au.news.yahoo.com/consistent-albo-defends-nato-no-220645713.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAlrzO1x8s9PkiZSCKcse8Ug_g3mVhTJO-FURPmEB341n7hEBM2jSCHxSEtVk4hZXxPfImUhWfAWviFQB-a-4QDaZMviPtRKCqalNF6uUmUffyoFjttZyBWeMw9y08-yklTisR_VvZ2BHViAqWcyC3XK38OLzvlxRIaGx20O9pxm|title='Consistent': Albo defends NATO no-show|first=|last=|date=2 July 2024|newspaper=Yahoo News Australia}}</ref>",
                   "url": "https://au.news.yahoo.com/consistent-albo-defends-nato-no-220645713.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAAlrzO1x8s9PkiZSCKcse8Ug_g3mVhTJO-FURPmEB341n7hEBM2jSCHxSEtVk4hZXxPfImUhWfAWviFQB-a-4QDaZMviPtRKCqalNF6uUmUffyoFjttZyBWeMw9y08-yklTisR_VvZ2BHViAqWcyC3XK38OLzvlxRIaGx20O9pxm",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |url=https://news.az/news/azerbaijani-foreign-minister-heads-to-washington-for-nato-summit |title=Azerbaijani foreign minister heads to Washington for NATO summit |date=9 July 2024 |website=News.Az }}</ref>",
                   "url": "https://news.az/news/azerbaijani-foreign-minister-heads-to-washington-for-nato-summit",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://sofiaglobe.com/2024/06/28/bulgarian-position-for-nato-summit-fully-reflects-national-interest-reaffirms-consistent-support-for-ukraine/|title=Bulgarian position for Nato Summit 'fully reflects national interest, reaffirms consistent support for Ukraine'|first=|last=|date=28 June 2024|newspaper=Sofia Globe}}</ref>",
                   "url": "https://sofiaglobe.com/2024/06/28/bulgarian-position-for-nato-summit-fully-reflects-national-interest-reaffirms-consistent-support-for-ukraine/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://www.ctvnews.ca/politics/prime-minister-justin-trudeau-to-attend-nato-leaders-summit-in-washington-next-week-1.6948351|title=Prime Minister Justin Trudeau to attend NATO leaders' summit in Washington next week|first=|last=|date=2 July 2024|newspaper=CTV News}}</ref>",
-                  "url": "https://www.ctvnews.ca/politics/prime-minister-justin-trudeau-to-attend-nato-leaders-summit-in-washington-next-week-1.6948351",
-                  "status_code": null,
+                  "url": "https://www.ctvnews.ca/politics/article/prime-minister-justin-trudeau-to-attend-nato-leaders-summit-in-washington-next-week/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://english.radio.cz/pavel-meets-czech-congressional-caucus-washington-8822350|title=Pavel meets with Czech Congressional Caucus in Washington\n|author=Ian Willoughby|date=8 July 2024|website=english.radio.cz|publisher=Radio Prague International}}</ref>",
                   "url": "https://english.radio.cz/pavel-meets-czech-congressional-caucus-washington-8822350",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://yle.fi/a/74-20098790|title=Finnish delegation attends Washington Nato summit marking alliance's 75th anniversary|first=|last=|date=8 July 2024|newspaper=Yleisradio Oy}}</ref>",
                   "url": "https://yle.fi/a/74-20098790",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://agenda.ge/en/news/2024/39817|title=Georgian FM departs for Washington to feature at NATO Summit|date=8 July 2024|website=agenda.ge|publisher=Agenda Georgia}}</ref>",
                   "url": "https://agenda.ge/en/news/2024/39817",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |title=Katz warns against Iran, China at NATO summit |url=https://www.jpost.com/international/article-809834 |work=The Jerusalem Post |date=10 July 2024}}</ref>",
                   "url": "https://www.jpost.com/international/article-809834",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://japantoday.com/category/politics/japan-pm-kishida-to-visit-u.s.-germany-for-summit-talks-next-week|title=Kishida to visit U.S., Germany for summit talks next week|first=|last=|date=3 July 2024|newspaper=Japan Today}}</ref>",
                   "url": "https://japantoday.com/category/politics/japan-pm-kishida-to-visit-u.s.-germany-for-summit-talks-next-week",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://www.trtworld.com/turkiye/president-erdogan-arrives-in-washington-for-nato-summit-18181665|title=President Erdogan arrives in Washington for NATO summit|publisher=TRT World|date=9 July 2024|access-date=10 July 2024}}</ref>",
                   "url": "https://www.trtworld.com/turkiye/president-erdogan-arrives-in-washington-for-nato-summit-18181665",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news|url=https://www.politico.com/live-updates/2024/07/03/congress/zelenskyy-hill-huddle-planned-00166534|title=Zelenskyy to huddle with Hill leaders during NATO summit|first=Joe|last=Gould|date=3 July 2024|newspaper=Politico}}</ref>",
                   "url": "https://www.politico.com/live-updates/2024/07/03/congress/zelenskyy-hill-huddle-planned-00166534",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web|last1=Fisher|first1=Lucy|last2=Pickard|first2=Jim|last3=Foster|first3=Peter|url=https://www.ft.com/content/ab8842f1-9a7a-4840-8f4f-4fd3f37e3c44|title=Keir Starmer to signal Britain is 'back' on the world stage|date=2 July 2024|website=Financial Times|url-access=subscription|access-date=2 July 2024|archive-url=https://web.archive.org/web/20240702152236/https://www.ft.com/content/ab8842f1-9a7a-4840-8f4f-4fd3f37e3c44|archive-date=2 July 2024|url-status=live}}</ref>",
                   "url": "https://www.ft.com/content/ab8842f1-9a7a-4840-8f4f-4fd3f37e3c44",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://www.cnn.com/2024/07/09/politics/biden-nato-summit-ukraine-aid/index.html|title=Biden opens NATO summit by announcing new air defenses for Ukraine\n|first1=Kayla|last1=Tausche|first2=Michael|last2=Williams|first3=Oren|last3=Liebermann|date=9 July 2024|newspaper=CNN}}</ref>",
-                  "url": "https://www.cnn.com/2024/07/09/politics/biden-nato-summit-ukraine-aid/index.html",
-                  "status_code": null,
+                  "url": "https://edition.cnn.com/2024/07/09/politics/biden-nato-summit-ukraine-aid/index.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

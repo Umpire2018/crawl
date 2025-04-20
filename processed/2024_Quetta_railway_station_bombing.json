@@ -14,28 +14,28 @@
                 {
                   "text": "<ref name=\"dawn\">{{Cite web |last=Zehri |first=Abdullah |date=9 November 2024 |title=24 killed, at least 50 injured in blast at Quetta Railway Station |url=https://www.dawn.com/news/1871234/24-killed-46-injured-in-blast-at-quetta-railway-station |archive-url=https://web.archive.org/web/20241112220613/https://www.dawn.com/news/1871234/24-killed-46-injured-in-blast-at-quetta-railway-station |archive-date=2024-11-12 |website=Dawn |language=en}}</ref>",
                   "url": "https://www.dawn.com/news/1871234/24-killed-46-injured-in-blast-at-quetta-railway-station",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |url=https://www.voanews.com/a/death-toll-rises-to-20-in-southwestern-pakistan-rail-station-bombing/7857955.html |title=Suicide blast kills 25 at train station in southwestern Pakistan |date=9 November 2024 |website=Voice of America |author-last1=Gul|author-first1=Ayaz |language=en}}</ref>",
                   "url": "https://www.voanews.com/a/death-toll-rises-to-20-in-southwestern-pakistan-rail-station-bombing/7857955.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=ur-Rehman |first=Zia |date=9 November 2024 |title=Train Station Suicide Bombing Leaves Dozens Dead or Wounded in Pakistan |url=https://www.nytimes.com/2024/11/09/world/asia/pakistan-suicide-bombing.html |archive-url=https://web.archive.org/web/20241112202709/https://www.nytimes.com/2024/11/09/world/asia/pakistan-suicide-bombing.html |archive-date=2024-11-12 |website=The New York Times |language=en}}</ref>",
                   "url": "https://www.nytimes.com/2024/11/09/world/asia/pakistan-suicide-bombing.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"ap\"/> It was the first time that the BLA had attacked the centre of Quetta.<ref name=AJ>{{Cite web |title=At least 26 killed in railway station bombing in Pakistan's Quetta |url=https://www.aljazeera.com/news/2024/11/9/several-killed-in-railway-station-bombing-in-pakistans-quetta |access-date=9 November 2024 |website=Al Jazeera |language=en}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/11/9/several-killed-in-railway-station-bombing-in-pakistans-quetta",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -58,7 +58,7 @@
                 {
                   "text": "<ref>{{Cite web |date=30 January 2023 |title=Quetta Railway Station |url=https://railwaystations.pk/quetta-railway-station/ |access-date=9 November 2024 |publisher=railwaystations.pk |language=en }}</ref>",
                   "url": "https://railwaystations.pk/quetta-railway-station/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -81,7 +81,7 @@
                 {
                   "text": "<ref name=\"ap\">{{Cite web |date=9 November 2024 |title=A powerful suicide bombing at a rail station in southwestern Pakistan kills at least 26 |url=https://apnews.com/article/quetta-railway-bombing-pakistan-30457309ca4b4c29bd3a5149509acb2e |access-date=9 November 2024 |website=AP News |language=en |author-last1=Sattar|author-first1=Abdul}}</ref>",
                   "url": "https://apnews.com/article/quetta-railway-bombing-pakistan-30457309ca4b4c29bd3a5149509acb2e",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -93,85 +93,85 @@
               "references": [
                 {
                   "text": "<ref>{{cite web |title=Joint Statement Third Quadrilateral Meeting of Foreign Ministers of China, Iran, Pakistan, and Russia_Ministry of Foreign Affairs of the People's Republic of China |url=https://www.mfa.gov.cn/eng/wjbzhd/202409/t20240930_11501285.html}}</ref>",
-                  "url": "https://www.mfa.gov.cn/eng/wjbzhd/202409/t20240930_11501285.html}}</ref>",
-                  "status_code": null,
+                  "url": "https://www.mfa.gov.cn/web/system/index_17321.shtml",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |last=Ricks |first=Thomas E. |date=31 March 2016 |title=Balochistan is seething, and that can't make China happy about investing |url=https://foreignpolicy.com/2016/03/31/balochistan-is-seething-and-that-cant-make-china-happy-about-investing/ |url-status=live |archive-url=https://web.archive.org/web/20190520085058/https://foreignpolicy.com/2016/03/31/balochistan-is-seething-and-that-cant-make-china-happy-about-investing/ |archive-date=20 May 2019 |access-date=28 June 2019}}</ref>",
                   "url": "https://foreignpolicy.com/2016/03/31/balochistan-is-seething-and-that-cant-make-china-happy-about-investing/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Joint Statement Third Quadrilateral Meeting of Foreign Ministers of China, Iran, Pakistan, and Russia_Ministry of Foreign Affairs of the People's Republic of China |url=https://www.mfa.gov.cn/eng/wjbzhd/202409/t20240930_11501285.html}}</ref>",
-                  "url": "https://www.mfa.gov.cn/eng/wjbzhd/202409/t20240930_11501285.html}}</ref>",
-                  "status_code": null,
+                  "url": "https://www.mfa.gov.cn/web/system/index_17321.shtml",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |last=Raza |first=Irfan |date=10 April 2006 |title=BLA declared terrorist organisation, banned |url=http://www.dawn.com/news/187183/bla-declared-terrorist-organisation-banned |url-status=live |archive-url=https://web.archive.org/web/20180904192128/https://www.dawn.com/news/187183/bla-declared-terrorist-organisation-banned |archive-date=4 September 2018 |access-date=10 April 2006 |publisher=Dawn}}</ref>",
-                  "url": "http://www.dawn.com/news/187183/bla-declared-terrorist-organisation-banned",
-                  "status_code": null,
+                  "url": "https://www.dawn.com/news/187183/bla-declared-terrorist-organisation-banned",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Joint Statement Third Quadrilateral Meeting of Foreign Ministers of China, Iran, Pakistan, and Russia_Ministry of Foreign Affairs of the People's Republic of China |url=https://www.mfa.gov.cn/eng/wjbzhd/202409/t20240930_11501285.html}}</ref>",
-                  "url": "https://www.mfa.gov.cn/eng/wjbzhd/202409/t20240930_11501285.html}}</ref>",
-                  "status_code": null,
+                  "url": "https://www.mfa.gov.cn/web/system/index_17321.shtml",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"homeoffice\">{{cite web |title=Proscribed terrorist groups |url=https://www.gov.uk/government/publications/proscribed-terror-groups-or-organisations--2 |access-date=2 March 2020 |work=Home Office}}</ref>",
                   "url": "https://www.gov.uk/government/publications/proscribed-terror-groups-or-organisations--2",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |date=2 July 2019 |title=Terrorist Designations of Balochistan Liberation Army and Husain Ali Hazzima and Amendments to the Terrorist Designations of Jundallah |url=https://www.state.gov/terrorist-designations-of-balochistan-liberation-army-and-husain-ali-hazzima-and-amendments-to-the-terrorist-designations-of-jundallah/ |url-status=live |archive-url=https://web.archive.org/web/20190702200434/https://www.state.gov/terrorist-designations-of-balochistan-liberation-army-and-husain-ali-hazzima-and-amendments-to-the-terrorist-designations-of-jundallah/ |archive-date=2 July 2019 |access-date=2 July 2019 |work=U.S. Department of State}}</ref>",
                   "url": "https://www.state.gov/terrorist-designations-of-balochistan-liberation-army-and-husain-ali-hazzima-and-amendments-to-the-terrorist-designations-of-jundallah/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |date=2 July 2019 |title=US brands BLA as global terrorist group |url=https://www.dawn.com/news/1491688/us-brands-bla-in-pakistan-as-global-terrorist-group |url-status=live |archive-url=https://web.archive.org/web/20190702183427/https://www.dawn.com/news/1491688/us-brands-bla-in-pakistan-as-global-terrorist-group |archive-date=2 July 2019 |access-date=2 July 2019 |work=Dawn News}}</ref>",
                   "url": "https://www.dawn.com/news/1491688/us-brands-bla-in-pakistan-as-global-terrorist-group",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |date=9 November 2024 |first=Saleem |last=Shahid |title=26 martyred in Quetta railway station explosion |url=https://www.dawn.com/news/1871371 |access-date=9 November 2024 |publisher=Dawn (newspaper)|Dawn |language=en }}</ref>",
                   "url": "https://www.dawn.com/news/1871371",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"ap\"/><ref>{{Cite news |title=Bomb blast at Pakistan train station kills at least 24 |url=https://theguardian.com/world/2024/nov/09/bomb-blast-at-pakistan-train-station-kills-dozens |access-date=9 November 2024 |website=The Guardian |language=en}}</ref>",
-                  "url": "https://theguardian.com/world/2024/nov/09/bomb-blast-at-pakistan-train-station-kills-dozens",
-                  "status_code": null,
+                  "url": "https://www.theguardian.com/world/2024/nov/09/bomb-blast-at-pakistan-train-station-kills-dozens",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"the news\">{{Cite news |date=10 November 2024 |first=Mohammad |last=Baloch |title=26 die in Quetta railway station suicide bombing |url=https://www.thenews.com.pk/print/1249365-27-dead-in-quetta-railway-station-suicide-bombing |access-date=10 November 2024 |publisher=The News International |language=en }}</ref>",
                   "url": "https://www.thenews.com.pk/print/1249365-27-dead-in-quetta-railway-station-suicide-bombing",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"bbc\">{{Cite web |title=Pakistan suicide bomb blast: At least 25 killed in Quetta railway station explosion |url=https://www.bbc.com/news/articles/cm27v28r4y0o |access-date=9 November 2024 |website=BBC |language=en-GB |author-first1=Jamie|author-last1=Whitehead|author-first2=Sofia|author-last2=Ferreira Santos|date=9 November 2024 }}</ref>",
                   "url": "https://www.bbc.com/news/articles/cm27v28r4y0o",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -193,15 +193,15 @@
               "references": [
                 {
                   "text": "<ref name=\"balochistanpost\">{{Cite web |date=November 10, 2024 |title=Inside the Deadly Quetta Railway Station Attack and Its Aftermath – TBP Report |url=https://thebalochistanpost.net/2024/11/inside-the-deadly-quetta-railway-station-attack-and-its-aftermath-tbp-report |access-date=November 11, 2024 |publisher=The Balochistan Post |language=en}}</ref>",
-                  "url": "https://thebalochistanpost.net/2024/11/inside-the-deadly-quetta-railway-station-attack-and-its-aftermath-tbp-report",
-                  "status_code": null,
+                  "url": "https://thebalochistanpost.net/2024/11/inside-the-deadly-quetta-railway-station-attack-and-its-aftermath-tbp-report/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"the news\">{{Cite news |date=10 November 2024 |first=Mohammad |last=Baloch |title=26 die in Quetta railway station suicide bombing |url=https://www.thenews.com.pk/print/1249365-27-dead-in-quetta-railway-station-suicide-bombing |access-date=10 November 2024 |publisher=The News International |language=en }}</ref>",
                   "url": "https://www.thenews.com.pk/print/1249365-27-dead-in-quetta-railway-station-suicide-bombing",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -224,14 +224,14 @@
                 {
                   "text": "<ref>{{Cite news |date=10 November 2024 |title=BLA reveals identity of terrorist behind Quetta railway station blast |url=https://dunyanews.tv/en/Pakistan/849454-bla-reveals-identity-of-terrorist-behind-quetta-railway-station-blast |access-date=10 November 2024 |publisher=Dunya News |language=en}}</ref>",
                   "url": "https://dunyanews.tv/en/Pakistan/849454-bla-reveals-identity-of-terrorist-behind-quetta-railway-station-blast",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=BLA Details Quetta Blast, Says 31 Army Personnel Killed in 'Fidayee' Attack |url=https://thebalochistanpost.net/2024/11/bla-details-quetta-blast-says-31-army-personnel-killed-in-fidayee-attack/ |access-date=11 November 2024 |work=Balochistan Post |date=10 November 2024 |language=en}}</ref>",
                   "url": "https://thebalochistanpost.net/2024/11/bla-details-quetta-blast-says-31-army-personnel-killed-in-fidayee-attack/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -254,7 +254,7 @@
                 {
                   "text": "<ref>{{Cite news |date=10 November 2024 |title=Two trains suspended Following Quetta Railway Station Bombing |url=https://english.aaj.tv/news/330388072/two-trains-suspended-following-quetta-railway-station-bombing |access-date=10 November 2024 |publisher=Aaj English TV |language=en}}</ref>",
                   "url": "https://english.aaj.tv/news/330388072/two-trains-suspended-following-quetta-railway-station-bombing",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -266,8 +266,8 @@
               "references": [
                 {
                   "text": "<ref>{{Cite news |date=10 November 2024 |title=Balochistan Declares Three Days of Mourning for Quetta Railway Station Attack Victims |url=https://www.quettavoice.com/2024/11/10/balochistan-declares-three-days-of-mourning-for-quetta-railway-station-attack-victims/ |access-date=10 November 2024 |publisher=Quetta Voice |language=en}}</ref>",
-                  "url": "https://www.quettavoice.com/2024/11/10/balochistan-declares-three-days-of-mourning-for-quetta-railway-station-attack-victims/",
-                  "status_code": null,
+                  "url": "https://quettavoice.com/2024/11/10/balochistan-declares-three-days-of-mourning-for-quetta-railway-station-attack-victims/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -290,35 +290,35 @@
                 {
                   "text": "<ref name=\"bbc\"/> and Pakistani prime minister Shehbaz Sharif, along with the foreign ministries of Afghanistan,<ref name=\"ap\"/> Iran,<ref>{{cite news |title=Tehran strongly condemns deadly train station blast in Pakistan's Quetta |url=https://www.tehrantimes.com/news/506069/Tehran-strongly-condemns-deadly-train-station-blast-in-Pakistan-s |work=Tehran Times |date=9 November 2024 |language=en }}</ref>",
                   "url": "https://www.tehrantimes.com/news/506069/Tehran-strongly-condemns-deadly-train-station-blast-in-Pakistan-s",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 503,
+                  "reason": "Backend fetch failed",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=World leaders condemn deadly terror attack in Pakistan |url=https://www.aa.com.tr/en/asia-pacific/world-leaders-condemn-deadly-terror-attack-in-pakistan/3389851# |work=www.aa.com.tr |date=10 November 2024 }}</ref>",
                   "url": "https://www.aa.com.tr/en/asia-pacific/world-leaders-condemn-deadly-terror-attack-in-pakistan/3389851#",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "[Errno 104] Connection reset by peer",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=UAE condemns Pakistan railway station attack |url=https://www.dubaieye1038.com/news/local/uae-condemns-pakistan-railway-station-attack/ |work=Dubai Eye 103.8 |date=10 November 2024 |language=en }}</ref>",
                   "url": "https://www.dubaieye1038.com/news/local/uae-condemns-pakistan-railway-station-attack/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=UAE strongly condemns terrorist attack at railway station in Quetta, Pakistan |url=https://gulfnews.com/uae/government/uae-strongly-condemns-terrorist-attack-at-railway-station-in-quetta-pakistan-1.1731206192707 |work=Gulf News |date=10 November 2024 |language=en }}</ref>",
                   "url": "https://gulfnews.com/uae/government/uae-strongly-condemns-terrorist-attack-at-railway-station-in-quetta-pakistan-1.1731206192707",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Jordan Strongly Condemns Terrorist Attack at Pakistan Railway Station |url=https://www.fananews.com/language/en/jordan-strongly-condemns-terrorist-attack-at-pakistan-railway-station/ |work=Fana News |agency=Federation of Arab News Agencies |date=10 November 2024 |language=en }}</ref>",
                   "url": "https://www.fananews.com/language/en/jordan-strongly-condemns-terrorist-attack-at-pakistan-railway-station/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
@@ -326,34 +326,34 @@
                   "text": "<ref>{{cite web |title=Ministry of Foreign Affairs Condemns the Terrorist Attack at Quetta Railway Station in Pakistan |url=https://www.mofa.pna.ps/en-us/mediaoffice/ministry-of-foreign-affairs-condemns-the-terrorist-attack-at-quetta-railway-station-in-pakistan |publisher=Ministry Of Foreign Affairs & Expatriates Palestine |date=10 November 2024 }}</ref>",
                   "url": "https://www.mofa.pna.ps/en-us/mediaoffice/ministry-of-foreign-affairs-condemns-the-terrorist-attack-at-quetta-railway-station-in-pakistan",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Cannot connect to host www.mofa.pna.ps:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news |title=US condemns Quetta bombing |url=https://www.brecorder.com/news/40331657/us-condemns-quetta-bombing |work=Business Recorder |date=10 November 2024 |language=en }}</ref>",
                   "url": "https://www.brecorder.com/news/40331657/us-condemns-quetta-bombing",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=MALAYSIA CONDEMNS SUICIDE ATTACK IN QUETTA, PAKISTAN |url=https://www.bernama.com/tv/news.php?id=2361577 |work=Bernama |date=11 October 2024 |language=en }}</ref>",
                   "url": "https://www.bernama.com/tv/news.php?id=2361577",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=British High Commissioner condemns Quetta attack, calls it divisive act |url=https://tribune.com.pk/story/2508523/british-high-commissioner-condemns-quetta-attack-calls-it-divisive-act |work=The Express Tribune |date=9 November 2024 |language=en }}</ref>",
                   "url": "https://tribune.com.pk/story/2508523/british-high-commissioner-condemns-quetta-attack-calls-it-divisive-act",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=World leaders condemn suicide bombing at Quetta railway station |url=https://www.dawn.com/news/1871365/world-leaders-condemn-suicide-bombing-at-quetta-railway-station |work=DAWN |date=10 November 2024 |language=en }}</ref>",
                   "url": "https://www.dawn.com/news/1871365/world-leaders-condemn-suicide-bombing-at-quetta-railway-station",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }

@@ -1,0 +1,959 @@
+{
+  "title": "2023_Lewiston_shootings",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "On October 25, 2023, 40-year-old Robert Card carried out a spree shooting in Lewiston, Maine, United States, killing 18 people and wounding 13 others. The initial attack occurred at the Just-In-Time Recreation bowling alley during a youth league event, followed shortly by a second shooting at the Schemengees Bar & Grille Restaurant. Following these events, Card escaped, prompting the Androscoggin County Sheriff's Office to initiate an extensive manhunt and release his photograph identifying him as the suspect.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|last1=Lenthang |first1=Marlene |last2=Romero |first2=Dennis |date=October 28, 2023 |title=Maine shootings: Timeline of the fatal Lewiston attacks |url=https://www.nbcnews.com/news/us-news/lewiston-shooting-timeline-maine-attack-rcna122290|access-date=October 29, 2023 |website=NBC News |language=en |archive-date=October 28, 2023|archive-url=https://web.archive.org/web/20231028085116/https://www.nbcnews.com/news/us-news/lewiston-shooting-timeline-maine-attack-rcna122290 |url-status=live }}</ref>",
+                  "url": "https://www.nbcnews.com/news/us-news/lewiston-shooting-timeline-maine-attack-rcna122290",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news|last=Borter |first=Gabriella |date=October 28, 2023 |title=Maine shooting suspect found dead in cargo trailer, motive still a mystery|language=en|work=Reuters|url=https://www.reuters.com/article/maine-shooting-idAFKBN31S064 |access-date=October 29, 2023 |archive-date=October 29, 2023|archive-url=https://web.archive.org/web/20231029015656/https://www.reuters.com/article/maine-shooting-idAFKBN31S064 |url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/article/maine-shooting-idAFKBN31S064",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=At least 18 killed in mass shooting in US state of Maine|url=https://www.aljazeera.com/news/2023/10/26/at-least-16-killed-dozens-injured-in-mass-shooting-in-us-state-of-maine |access-date=October 29, 2023 |website=Al Jazeera Media Network|Al Jazeera |language=en |archive-date=October 27, 2023|archive-url=https://web.archive.org/web/20231027153342/https://www.aljazeera.com/news/2023/10/26/at-least-16-killed-dozens-injured-in-mass-shooting-in-us-state-of-maine |url-status=live }}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/10/26/at-least-16-killed-dozens-injured-in-mass-shooting-in-us-state-of-maine",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://france24.com/en/live-news/20231027-maine-city-deserted-as-residents-hole-up-during-hunt-for-killer|title=Maine city deserted as residents hole up during hunt for killer|work=France 24|date=October 27, 2023|access-date=October 28, 2023|archive-date=October 28, 2023|archive-url=https://web.archive.org/web/20231028165146/https://www.france24.com/en/live-news/20231027-maine-city-deserted-as-residents-hole-up-during-hunt-for-killer|url-status=live}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20231027-maine-city-deserted-as-residents-hole-up-during-hunt-for-killer",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "1.s2",
+              "text": "Forty-nine hours later, on October 27, authorities discovered Card dead in a Semi-trailer truck|tractor-trailer due to a self-inflicted gunshot wound near a recycling center in Lisbon, Maine, where he had been recently employed. Examination of Card's brain tissue revealed that he had traumatic brain injury|traumatic brain injuries likely attributable to his eight years as a grenade instructor, when he was exposed to repeated blasts. The shooting is the Mass shootings in the United States#Deadliest mass shootings since 1949|tenth-deadliest in U.S. history and the deadliest in the history of Maine.",
+              "references": [
+                {
+                  "text": "<ref name=\"WBZ-TV\">{{Cite web|url=https://www.cbsnews.com/boston/news/robert-card-gunman-maine-mass-shootings-cause-of-death/|publisher=WBZ-TV|title=Maine gunman Robert Card died 8-12 hours before being found, medical examiner says|date=November 3, 2023}}</ref>",
+                  "url": "https://www.cbsnews.com/boston/news/robert-card-gunman-maine-mass-shootings-cause-of-death/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Dillinger |first=Katherine |date=2024-03-07 |title=Maine mass shooter's brain tissue showed signs of traumatic injury but not CTE |url=https://www.cnn.com/2024/03/06/health/robert-card-brain-study/index.html |access-date=2024-06-15 |website=CNN |language=en}}</ref>",
+                  "url": "https://edition.cnn.com/2024/03/06/health/robert-card-brain-study/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news |last=Konig |first=Joseph |date=October 26, 2023 |title=Lewiston mass shootings the worst of 2023, U.S. on track for 700 |url=https://ny1.com/nyc/all-boroughs/news/2023/10/26/lewiston-mass-shooting-worst-2023 |url-status=live |archive-url=https://web.archive.org/web/20231029015657/https://ny1.com/nyc/all-boroughs/news/2023/10/26/lewiston-mass-shooting-worst-2023 |archive-date=October 29, 2023 |access-date=October 28, 2023 |work=NY1 |language=en}}</ref>",
+                  "url": "https://ny1.com/nyc/all-boroughs/news/2023/10/26/lewiston-mass-shooting-worst-2023",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Helsel |first1=Phil |last2=Romero |first2=Dennis |date=October 27, 2023 |title=Suspect in Maine mass shooting is dead, senior law enforcement sources say |url=https://www.nbcnews.com/news/us-news/suspect-maine-mass-shooting-dead-senior-law-enforcement-sources-say-rcna122409 |url-status=live |archive-url=https://web.archive.org/web/20231028022713/https://www.nbcnews.com/news/us-news/suspect-maine-mass-shooting-dead-senior-law-enforcement-sources-say-rcna122409 |archive-date=October 28, 2023 |access-date=October 27, 2023 |work=NBC News}}</ref>",
+                  "url": "https://www.nbcnews.com/news/us-news/suspect-maine-mass-shooting-dead-senior-law-enforcement-sources-say-rcna122409",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Events",
+      "content": [
+        {
+          "id": "2.1",
+          "title": "Shootings",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.1.s1",
+                  "text": "The first shooting occurred on October 25, 2023, at Just-In-Time Recreation, a bowling alley in Lewiston, Maine, during a youth league event. The shooter, 40-year-old Robert Card, used a Ruger SR-762#SFAR|Ruger SFAR semi-automatic rifle chambered in .308 Winchester and equipped with an extended Magazine (firearms)|magazine, flashlight and Telescopic sight|optic. At 6:54:20 PM, Card walked into the building and fired a single shot. The rifle jammed and Card tried manipulating the rifle. Two employees, Jason Walker and Michael Deslauriers II, ran up to Card and tried disarming him. However, Card successfully fixed the rifle and loaded a new magazine. He killed Walker and Deslauriers, and fired several more shots at other people in the bowling alley. The entire incident, starting from the moment Card entered the building and fired his first shot, lasted 45 seconds. Police received the first emergency calls at 6:56{{nbsp}}p.m. Eastern Time Zone|EDT. Plainclothes officers at a nearby shooting range also heard the gunshots and responded. The earliest officers to arrive at the scene did so within four minutes of the first call. In total, Card killed eight people and injured three victims. He fired 18 rounds inside the bowling alley.<ref name=\":0\" />",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news|date=October 26, 2023 |title=Witnesses describe moment gunfire erupts during youth bowling league in Maine|url=https://www.kcra.com/article/lewiston-bowling-alley-shooting-maine-just-in-time/45651343 |access-date=October 27, 2023 |website=KCRA |language=en-US |archive-date=October 27, 2023 |archive-url=https://web.archive.org/web/20231027070533/https://www.kcra.com/article/lewiston-bowling-alley-shooting-maine-just-in-time/45651343 |url-status=live }}</ref>",
+                      "url": "https://www.kcra.com/article/lewiston-bowling-alley-shooting-maine-just-in-time/45651343",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |author= |date=16 February 2024 |title=Maine State Police identify gun used in Lewiston mass shootings |url=https://www.newscentermaine.com/article/news/local/lewiston-auburn/maine-state-police-testimony-robert-card-mass-shooting-gun-purchase-mental-health-timeline/97-82ae726e-d42a-4bde-a363-21eb9c744645 |access-date=26 March 2024 |work=News Center Maine}}</ref>",
+                      "url": "https://www.newscentermaine.com/article/news/local/lewiston-auburn/maine-state-police-testimony-robert-card-mass-shooting-gun-purchase-mental-health-timeline/97-82ae726e-d42a-4bde-a363-21eb9c744645",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Toole |first=Mike |date=October 26, 2023 |title=18 dead, 13 wounded in Lewiston, Maine shootings as police search for suspect Robert Card |url=https://www.cbsnews.com/boston/news/active-shooter-lewiston-maine-state-police/ |url-status=live |archive-url=https://web.archive.org/web/20231026205215/https://www.cbsnews.com/boston/news/active-shooter-lewiston-maine-state-police/ |archive-date=October 26, 2023 |access-date=October 27, 2023 |website=CBS News |language=en-US}}</ref>",
+                      "url": "https://www.cbsnews.com/boston/news/active-shooter-lewiston-maine-state-police/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last1=Czachor |first1=Emily Mae |last2=Tabachnick |first2=Cara |date=October 27, 2023 |title=Who is Robert Card? Confirmed details on Maine shooting suspect |url=https://www.cbsnews.com/news/who-is-robert-card-confirmed-details-maine-shooting-suspect-person-of-interest/ |url-status=live |archive-url=https://web.archive.org/web/20231027012126/https://www.cbsnews.com/news/who-is-robert-card-confirmed-details-maine-shooting-suspect-person-of-interest/ |archive-date=October 27, 2023 |access-date=October 27, 2023 |website=CBS News |language=en-US}}</ref>",
+                      "url": "https://www.cbsnews.com/news/who-is-robert-card-confirmed-details-maine-shooting-suspect-person-of-interest/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":0\">{{Cite web |date=March 15, 2024 |title=The Independent Commission to Investigate the Facts of the Tragedy in Lewiston |url=https://www.maine.gov/icl/sites/maine.gov.icl/files/2024-03/Commission%20Interim%20Report%203-15-24.pdf |url-status=live |archive-url=https://web.archive.org/web/20240315230011/https://www.maine.gov/icl/sites/maine.gov.icl/files/2024-03/Commission%20Interim%20Report%203-15-24.pdf |archive-date=March 15, 2024 |access-date=August 9, 2024 |website=Maine}}</ref>",
+                      "url": "https://www.maine.gov/icl/sites/maine.gov.icl/files/2024-03/Commission%20Interim%20Report%203-15-24.pdf",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"BBC News\">{{Cite news |date=October 26, 2023 |title=Lewiston attack: What we know so far about Maine mass shooting |url=https://www.bbc.com/news/world-us-canada-67228724 |url-status=live |archive-url=https://web.archive.org/web/20231026192226/https://www.bbc.com/news/world-us-canada-67228724 |archive-date=October 26, 2023 |access-date=October 26, 2023 |work=BBC News |language=en-GB}}</ref>",
+                      "url": "https://www.bbc.com/news/world-us-canada-67228724",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"CNN\">{{cite news|url=https://www.cnn.com/2023/10/26/us/timeline-lewiston-maine-mass-shooting/index.html|title=Here's a timeline of the mass shooting in Maine and the ongoing manhunt for a suspect|work=CNN|last=Andone|first=Dakin|date=October 26, 2023|access-date=October 26, 2023|archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026172837/https://www.cnn.com/2023/10/26/us/timeline-lewiston-maine-mass-shooting/index.html|url-status=live}}</ref>",
+                      "url": "https://edition.cnn.com/2023/10/26/us/timeline-lewiston-maine-mass-shooting/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.1.s2",
+                  "text": "The shooter discharged his .308 rifle at least 54 times during the events of October 25.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |date=2024-08-20 |title=Read the Final Report on the Lewiston, Maine, Mass Shootings |url=https://www.nytimes.com/interactive/2024/08/20/us/read-lewiston-maine-shooting-report.html |access-date=2024-10-14 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>",
+                      "url": "https://www.nytimes.com/interactive/2024/08/20/us/read-lewiston-maine-shooting-report.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.1.s3",
+                  "text": "At 8:06, the Androscoggin County Sheriff's Office and the Maine State Police alerted residents of an active shooter. The sheriff's office also released images of Card inside the bowling alley with a \"Assault weapon|high-powered assault-style rifle\", as well as an image of his 2013 Subaru Outback, warning residents that the shooter was \"armed and dangerous\".",
+                  "references": [
+                    {
+                      "text": "<ref name=\"CNN\"/><ref>{{Cite news|url=https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249/rcrd23122?canonicalCard=true |title=Law enforcement in Maine warns of active shooter, tells people to shelter |date=October 25, 2023|last=Helsel|first=Phil|work=NBC News |access-date=October 25, 2023 |archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026121932/https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249/rcrd23122?canonicalCard=true#rcrd23122 |url-status=live}}</ref>",
+                      "url": "https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249/rcrd23122?canonicalCard=true",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Prasad |first=Ritu |date=October 26, 2023 |title=22 people dead and suspect at large after shootings in area of Lewiston, Maine, authorities say|url=https://www.cnn.com/2023/10/25/us/lewiston-maine-shooting/index.html |access-date=October 26, 2023 |work=CNN |language=en |archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026005425/https://www.cnn.com/2023/10/25/us/lewiston-maine-shooting/index.html |url-status=live}}</ref>",
+                      "url": "https://edition.cnn.com/2023/10/25/us/lewiston-maine-shooting/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Lynch |first=Jamiel |date=October 25, 2023 |title=Police release photo of vehicle connected to shootings|work=CNN|url=https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_57857ec8da3193cfbcd67f0e201a4025 |url-status=live |access-date=October 25, 2023 |archive-url=https://web.archive.org/web/20231026044543/https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_57857ec8da3193cfbcd67f0e201a4025 |archive-date=October 26, 2023}}</ref>",
+                      "url": "https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|last=Smart|first=Sara |date=October 25, 2023 |title=Police release images of suspect at large in connection to active shooting in Lewiston|work=CNN|url=https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_65751cd851256845c27d7d0fb6b90ecf|url-status=live |access-date=October 25, 2023|archive-url=https://web.archive.org/web/20231026044547/https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_65751cd851256845c27d7d0fb6b90ecf |archive-date=October 26, 2023}}</ref>",
+                      "url": "https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.1.s4",
+                  "text": "The Central Maine Medical Center coordinated with local area hospitals to take in victims. Several were taken to the Maine Medical Center in Portland, Maine|Portland, the largest hospital in the state.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news|url=https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_29561635a0afe75db9e02a7ae037e95f|title=Medical center confirms response to mass casualty event |date=October 25, 2023 |last1=Lynch |first1=Jamiel |last2=Clarkson |first2=Cara-Lynn |work=CNN |access-date=October 25, 2023 |archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026121932/https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_29561635a0afe75db9e02a7ae037e95f |url-status=live}}</ref>",
+                      "url": "https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Trotta |first1=Daniel |last2=Harte |first2=Julia |date=October 26, 2023 |title=Police hunt for man linked to major mass shootings in Lewiston, Maine |url=https://www.reuters.com/world/us/active-shooter-reported-maine-suspect-large-officials-2023-10-26/ |url-status=live |archive-url=https://web.archive.org/web/20231026015849/https://www.reuters.com/world/us/active-shooter-reported-maine-suspect-large-officials-2023-10-26/ |archive-date=October 26, 2023 |access-date=October 26, 2023 |work=Reuters |language=en}}</ref>",
+                      "url": "https://www.reuters.com/world/us/active-shooter-reported-maine-suspect-large-officials-2023-10-26/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|url=https://www.nytimes.com/live/2023/10/26/us/lewiston-maine-shooting/37112495-ce3a-54ba-adba-268b7887c98f |title=Some of the injured are being taken to Maine Medical Center in Portland, a Level 1 trauma center and the state's largest hospital. |date=October 25, 2023 |last=Higgins |first=Eoin|work=The New York Times |access-date=October 25, 2023}}</ref>",
+                      "url": "https://www.nytimes.com/live/2023/10/26/us/lewiston-maine-shooting/37112495-ce3a-54ba-adba-268b7887c98f",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|url=https://www.theguardian.com/us-news/live/2023/oct/26/maine-shooting-lewiston-deaths-us-latest-updates|title=Maine shootings: at least 16 reported dead in Lewiston as police hunt gunman – latest updates |work=The Guardian |date=October 26, 2023 |access-date=October 26, 2023 |archive-date=October 26, 2023 |archive-url= https://web.archive.org/web/20231026064015/https://www.theguardian.com/us-news/live/2023/oct/26/maine-shooting-lewiston-deaths-us-latest-updates |url-status=live|last2=Oladipo|first2=Gloria|last1=Yang|first1=Maya|last3=Belam|first3=Martin|last4=Yerushalmy|first4=Jonathan}}</ref>",
+                      "url": "https://www.theguardian.com/us-news/live/2023/oct/26/maine-shooting-lewiston-deaths-us-latest-updates",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.2",
+          "title": "Manhunt",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.2.s1",
+                  "text": "Three hours after the shooting, police in Lisbon, Maine|Lisbon, a small town {{convert|8|mi|km}} southeast of Lewiston, found Card's abandoned vehicle at a boat launch along the Androscoggin River. The Federal Bureau of Investigation and the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) assisted local authorities.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"CNN\"/><ref>{{Cite web|last=Rose|first=Andy |date=October 27, 2023 |title=Official: Divers to search waters near dock where suspect's car was found|url=https://www.cnn.com/us/live-news/lewiston-maine-mass-shootings-10-27-23/h_cf2f07336bff0193d7ff4c0c3d5df1f2 |access-date=October 27, 2023 |website=CNN |language=en |archive-date=October 27, 2023|archive-url=https://web.archive.org/web/20231027163740/https://www.cnn.com/us/live-news/lewiston-maine-mass-shootings-10-27-23/h_cf2f07336bff0193d7ff4c0c3d5df1f2 |url-status=live }}</ref>",
+                      "url": "https://edition.cnn.com/us/live-news/lewiston-maine-mass-shootings-10-27-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|url=https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_1e9e562f3ab244e10497a71c556158e4 |title=ATF is responding to the Lewiston shootings |date=October 25, 2023 |last=Boyette |first=Chris |work=CNN |access-date=October 25, 2023|archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026022057/https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_1e9e562f3ab244e10497a71c556158e4 |url-status=live}}</ref>",
+                      "url": "https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|url=https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_9d5001fc77df4fdd55304cbbeb316c02 |title=FBI offers resources in Maine active shooter situation|date=October 25, 2023|last=Campbell |first=Josh |work=CNN |access-date=October 25, 2023 |archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026121932/https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_9d5001fc77df4fdd55304cbbeb316c02 |url-status=live}}</ref>",
+                      "url": "https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.2.s2",
+                  "text": "On October 26, the Maine State Police and Governor Janet Mills confirmed the number of victims and announced that an arrest warrant was issued for the suspect, who was charged with eight counts of murder. Police surrounded a house in Bowdoin, Maine|Bowdoin while executing a search warrant.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last=Bogel-Burroughs |first=Nicholas |date=October 26, 2023 |title=Maine Shootings: Update from |language=en-US|work=The New York Times|url=https://www.nytimes.com/live/2023/10/25/us/lewiston-maine-shooting |url-status=live |access-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026141101/https://www.nytimes.com/live/2023/10/25/us/lewiston-maine-shooting |archive-date=October 26, 2023 |issn=0362-4331}}</ref>",
+                      "url": "https://www.nytimes.com/live/2023/10/25/us/lewiston-maine-shooting",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Bonner |first1=Jeanne |last2=Croft |first2=Jay |last3=Elassar |first3=Alaa |date=October 26, 2023 |title=Maine shooting suspect faces multiple counts of murder, police say |url=https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_aa8d8c0ca96766b3a8ccf441ed272659 |url-status=live |archive-url=https://web.archive.org/web/20231026180752/https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_aa8d8c0ca96766b3a8ccf441ed272659 |archive-date=October 26, 2023 |access-date=October 26, 2023 |work=CNN |language=en}}</ref>",
+                      "url": "https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=October 26, 2023 |title=Lewiston Maine shooting: 'Armed and dangerous' suspect still at large as 18 killed in shooting|url=https://www.bbc.co.uk/news/live/world-67225016 |access-date=October 27, 2023 |website=BBC News |language=en-gb |archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026220221/https://www.bbc.co.uk/news/live/world-67225016 |url-status=live }}</ref>",
+                      "url": "https://www.bbc.co.uk/news/live/world-67225016",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.2.s3",
+                  "text": "On October 27, Michael Sauschuck, public safety commissioner of Maine, said that police were using dive teams, sonar, and remotely operated underwater vehicles (ROVs) to search for underwater activity near where Card's vehicle was found in Lisbon. Sauschuck said they did not definitively know Card's means of escape. That same day, the shelter-in-place order in Lewiston was rescinded, but hunting restrictions in Bowdoin, Lewiston, Lisbon, and Monmouth, Maine|Monmouth were imposed.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Rose |first=Andy |date=October 27, 2023 |title=Official: Divers to search waters near dock where suspect's car was found|url=https://www.cnn.com/us/live-news/lewiston-maine-mass-shootings-10-27-23/h_cf2f07336bff0193d7ff4c0c3d5df1f2 |access-date=October 27, 2023 |website=CNN |language=en |archive-date=October 27, 2023|archive-url=https://web.archive.org/web/20231027163740/https://www.cnn.com/us/live-news/lewiston-maine-mass-shootings-10-27-23/h_cf2f07336bff0193d7ff4c0c3d5df1f2 |url-status=live }}</ref>",
+                      "url": "https://edition.cnn.com/us/live-news/lewiston-maine-mass-shootings-10-27-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url=https://www.wmur.com/article/lewiston-maine-mass-shooting-news-1027/45669336|title=As search for Maine shooting suspect continues, shelter-in-place order lifted|date=October 27, 2023|last=Ketschke|first=Ross|work=WMUR-TV|access-date=October 27, 2023|archive-date=October 27, 2023|archive-url=https://web.archive.org/web/20231027214559/https://www.wmur.com/article/lewiston-maine-mass-shooting-news-1027/45669336|url-status=live}}</ref>",
+                      "url": "https://www.wmur.com/article/robert-card-dead/45670539",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.2.s4",
+                  "text": "At 7:45&nbsp;p.m. on October 27, Card was found dead near his former place of employment, a recycling center close to the Androscoggin River in Lisbon. The recycling center had been searched the night before, but his body was found in a box truck on a part of the land that had not been searched previously. The manner of death was suicide and the cause of death was a gunshot wound to the head fired from his handgun; the Maine Chief Medical Examiner's autopsy revealed he had likely died 8 to 12 hours before being found.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"AP News\">{{Cite web |last1=Sharp |first1=David |last2=Whittle |first2=Patrick |last3=Ramer |first3=Holly |last4=Smith |first4=Michelle R. |date=October 27, 2023 |title=Maine mass killing suspect has been found dead, ending search that put entire state on edge |url=https://apnews.com/article/maine-shooting-lewiston-fed5ab0aaee9d7d4c0f0fccb3d301bb7 |url-status=live |archive-url=https://web.archive.org/web/20231028022207/https://apnews.com/article/maine-shooting-lewiston-fed5ab0aaee9d7d4c0f0fccb3d301bb7 |archive-date=October 28, 2023 |access-date=October 28, 2023 |website=AP News |language=en}}</ref>",
+                      "url": "https://apnews.com/article/maine-shooting-lewiston-fed5ab0aaee9d7d4c0f0fccb3d301bb7",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Lelyveld |first=Nita |date=2023-10-26 |title=Live updates: Mourners gather at candlelight vigil to remember victims |url=https://www.pressherald.com/2023/10/26/our-live-updates-on-the-deadly-lewiston-shootings/ |access-date=2023-10-30 |website=Press Herald |archive-date=October 26, 2023 |archive-url=https://web.archive.org/web/20231026110930/https://www.pressherald.com/2023/10/26/our-live-updates-on-the-deadly-lewiston-shootings/ |url-status=live }}</ref>",
+                      "url": "https://www.pressherald.com/2023/10/26/our-live-updates-on-the-deadly-lewiston-shootings/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"CNN\"/><ref>{{cite web|url=https://apnews.com/article/maine-mass-shooting-lewiston-a13d50cfcda2d7ce19e7bfb1b64a5cb3|title=Maine mass killing suspect had mental health issues, purchased guns legally, authorities say|work=Associated Press|date=October 28, 2023|access-date=October 28, 2023|last1=Bleiberg|first1=Jake|last2=Whittle|first2=Patrick|last3=Sharp|first3=David|archive-date=October 28, 2023|archive-url=https://web.archive.org/web/20231028160836/https://apnews.com/article/maine-mass-shooting-lewiston-a13d50cfcda2d7ce19e7bfb1b64a5cb3|url-status=live}}</ref>",
+                      "url": "https://apnews.com/article/maine-mass-shooting-lewiston-a13d50cfcda2d7ce19e7bfb1b64a5cb3",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\"WBZ-TV\"/><ref>{{Cite web |last=Ellement |first=John R. |date=November 3, 2023 |title=Maine shooter died of gunshot wound to head, but time of death remains unknown - The Boston Globe |url=https://www.bostonglobe.com/2023/11/03/metro/autopsy-results-robert-card-suicide/ |access-date=2024-06-15 |website=The Boston Globe |language=en-US}}</ref>",
+                      "url": "https://www.bostonglobe.com/2023/11/03/metro/autopsy-results-robert-card-suicide/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Britzky |first=Haley |date=2024-07-23 |title=Army investigation reveals series of failures ahead of Maine mass shooting carried out by reservist |url=https://www.cnn.com/army-investigation-robert-card-maine-mass-shooting/index.html |access-date=2024-10-14 |website=CNN |language=en}}</ref>",
+                      "url": "https://edition.cnn.com/army-investigation-robert-card-maine-mass-shooting/index.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Victims",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "A total of eighteen people were killed; thirteen others were injured. Seven were killed at Just-In-Time Recreation, eight were killed at Schemengees Bar & Grille Restaurant, and three died in a hospital. Ranging in age from 14 to 76, the dead were all identified on October 27.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |author=<!--Not stated--> |date=October 26, 2023 |title=Live now: Maine State Police update on search for shooter, 18 confirmed dead|url=https://www.pressherald.com/2023/10/26/our-live-updates-on-the-deadly-lewiston-shootings/ |access-date=October 26, 2023 |website=Press Herald |archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026110930/https://www.pressherald.com/2023/10/26/our-live-updates-on-the-deadly-lewiston-shootings/ |url-status=live}}</ref>",
+                  "url": "https://www.pressherald.com/2023/10/26/our-live-updates-on-the-deadly-lewiston-shootings/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"BBC News\"/><ref name=\"CNN\"/> Four of those killed at Schemengees were deaf and had been participating in a cornhole tournament for the deaf community.<ref name=\"Maine Public\">{{Cite web |last=Mistler |first=Steve |date=October 27, 2023 |title=Lewiston's mass shooting deals devastating blow to deaf and hard of hearing community |url=https://www.mainepublic.org/maine/2023-10-27/four-lewiston-victims-were-deaf-or-hard-of-hearing-the-communitys-worst-ever-mass-shooting |access-date=October 28, 2023 |website=Maine Public |language=en |archive-date=October 27, 2023 |archive-url=https://web.archive.org/web/20231027222343/https://www.mainepublic.org/maine/2023-10-27/four-lewiston-victims-were-deaf-or-hard-of-hearing-the-communitys-worst-ever-mass-shooting |url-status=live }}</ref>",
+                  "url": "https://www.mainepublic.org/maine/2023-10-27/four-lewiston-victims-were-deaf-or-hard-of-hearing-the-communitys-worst-ever-mass-shooting",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |last1=Bonner |first1=Jeanne |last2=Croft |first2=Jay |last3=Elassar |first3=Alaa |date=October 27, 2023 |title=What we know about the victims of the Maine mass shooting |url=https://www.cnn.com/2023/10/27/us/these-are-the-victims-of-the-maine-mass-shootings/index.html |url-status=live |archive-url=https://web.archive.org/web/20231027232037/https://www.cnn.com/2023/10/27/us/these-are-the-victims-of-the-maine-mass-shootings/index.html |archive-date=October 27, 2023 |access-date=October 28, 2023 |website=CNN}}</ref>",
+                  "url": "https://edition.cnn.com/2023/10/27/us/these-are-the-victims-of-the-maine-mass-shootings/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=October 27, 2023 |title=These are the people who died in the mass shootings in Lewiston, Maine |url=https://www.nbcboston.com/news/local/who-are-the-maine-massacre-victims-hero-bar-manager-youth-bowling-coach-among-18-killed/3172400/ |access-date=October 28, 2023 |website=NBC Boston |language=en-US |archive-date=October 28, 2023 |archive-url=https://web.archive.org/web/20231028014621/https://www.nbcboston.com/news/local/who-are-the-maine-massacre-victims-hero-bar-manager-youth-bowling-coach-among-18-killed/3172400/ |url-status=live }}</ref>",
+                  "url": "https://www.nbcboston.com/news/local/who-are-the-maine-massacre-victims-hero-bar-manager-youth-bowling-coach-among-18-killed/3172400/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Reactions",
+      "content": [
+        {
+          "id": "4.1",
+          "title": "Local and state",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.1.s1",
+                  "text": "Lewiston mayor Carl Sheline said that he was \"heartbroken\". Jason Levesque, mayor of Auburn, Maine|Auburn, Lewiston's Twin cities|twin city, added \"we will get this situation settled.\" Maine Governor Janet Mills urged residents to follow law enforcement instructions. Nirav Shah, former head of the Maine Center for Disease Control and currently the deputy director of the federal Centers for Disease Control and Prevention, offered his condolences for Joshua Seal, a victim who had been employed under Shah as an American Sign Language Sign language interpreter|interpreter for the deaf during the COVID-19 pandemic in Maine|COVID-19 pandemic. Similar condolences were offered by Karen Hopkins, director of the Maine Education Center for the Deaf and Hard of Hearing, as three of the victims killed were graduates of the center.<ref name=\"Maine Public\"/>",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |url=https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_1426611b8553509e27bfa811ecbd05bf |title=Lewiston mayor says he is \"heartbroken for our city and our people\" |date=October 25, 2023 |last=Sutton |first=Joe |work=CNN |access-date=October 25, 2023 |archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026122936/https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_1426611b8553509e27bfa811ecbd05bf |url-status=live}}</ref>",
+                      "url": "https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=October 26, 2023 |title='We have everybody on board right now,' mayor of adjacent Auburn says|url=https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249 |access-date=October 26, 2023 |work=NBC News |language=en |archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026010721/https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249 |url-status=live}}</ref>",
+                      "url": "https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|last=Sutton|first=Joe|date=October 25, 2023 |title=Maine governor has been briefed on active shooter situation in Lewiston |url=https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_f3bcaa211ffa34d71ded93e216c37125|url-status=live|archive-url=https://web.archive.org/web/20231026122937/https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_f3bcaa211ffa34d71ded93e216c37125 |archive-date=October 26, 2023 |access-date=October 25, 2023 |work=CNN}}</ref>",
+                      "url": "https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Federal",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "U.S. Senator Angus King of Maine wrote on Twitter that he was \"deeply sad\". Fellow Senator Susan Collins remarked, \"This is the darkest day in Maine history in my lifetime.\" Jared Golden—who represents Lewiston—and Chellie Pingree, both U.S. Representatives from Maine, released statements expressing shock at the events. Following the shooting, Golden further announced his support for an assault weapons ban, reversing his previous opposition to gun control measures and asked for \"forgiveness\" from the community and victims' families for his previous position. On October 25, President Joe Biden made calls to several Maine lawmakers to offer full federal support. On October 26, he ordered that U.S. flags be lowered to half-staff for five days as \"a mark of respect for the victims of the senseless acts of violence perpetrated in Lewiston, Maine\". In a later statement, Biden urged lawmakers to impose an Assault weapons legislation in the United States|assault weapons ban and introduce more Gun law in the United States|gun regulations, saying it is \"not normal, and we cannot accept it\" and that current safety measures are \"simply not enough\".",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last=Arkin |first=Daniel |date=October 25, 2023 |title=Maine senator says he's 'deeply sad,' urges residents to stay indoors|url=https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249/rcrd23134?canonicalCard=true |url-status=live|archive-url=https://web.archive.org/web/20231026122936/https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249/rcrd23134?canonicalCard=true#rcrd23134 |archive-date=October 26, 2023 |access-date=October 25, 2023 |work=NBC News}}</ref>",
+                      "url": "https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249/rcrd23134?canonicalCard=true",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Hulse |first=Carl |date=October 26, 2023 |title=Maine Shootings |language=en-US|work=The New York Times|url=https://www.nytimes.com/live/2023/10/25/us/lewiston-maine-shooting |access-date=October 26, 2023 |issn=0362-4331 |archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026141101/https://www.nytimes.com/live/2023/10/25/us/lewiston-maine-shooting |url-status=live}}</ref>",
+                      "url": "https://www.nytimes.com/live/2023/10/25/us/lewiston-maine-shooting",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=October 25, 2023 |title=Maine lawmakers react to Lewiston mass shootings|url=https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_b7cbba43f65f28bf6f68076259d5afc1|url-status=live|archive-url=https://web.archive.org/web/20231026044525/https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_b7cbba43f65f28bf6f68076259d5afc1 |archive-date=October 26, 2023 |access-date=October 25, 2023 |work=CNN}}</ref>",
+                      "url": "https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last=Robertson |first=Nick |date=October 26, 2023 |title=Maine Democrat calls for assault weapons ban after past opposition|url=https://thehill.com/homenews/house/4278353-maine-democrat-assault-weapons-ban-change/ |access-date=October 26, 2023 |work=The Hill (newspaper)|The Hill |language=en-US|archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026234139/https://thehill.com/homenews/house/4278353-maine-democrat-assault-weapons-ban-change/ |url-status=live }}</ref>",
+                      "url": "https://thehill.com/homenews/house/4278353-maine-democrat-assault-weapons-ban-change/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news|url=https://www.nytimes.com/live/2023/10/26/us/lewiston-maine-shooting/e39df081-83f5-5bc1-b8d4-f443f2071662 |title=Biden called several Maine lawmakers during the state dinner tonight, including Governor Janet Mills, Senators Angus King and Susan Collins, and Congressman Jared Golden. |date=October 25, 2023 |last=Rogers |first=Katie |work=The New York Times |access-date=October 25, 2023}}</ref>",
+                      "url": "https://www.nytimes.com/live/2023/10/26/us/lewiston-maine-shooting/e39df081-83f5-5bc1-b8d4-f443f2071662",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |last1=Carvajal |first1=Nikki |last2=Alvarez |first2=Priscilla |date=October 26, 2023 |title=Biden orders flags to be lowered after mass shooting|url=https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_2d75682573cc2d90a26c1016959f7d04 |access-date=October 26, 2023 |work=CNN |language=en |archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026180747/https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_2d75682573cc2d90a26c1016959f7d04 |url-status=live}}</ref>",
+                      "url": "https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/26/a-proclamation-on-honoring-the-victims-of-the-tragedy-in-lewiston-maine/ |title=A Proclamation on Honoring the Victims of the Tragedy in Lewiston, Maine |date=October 26, 2023 |access-date=October 27, 2023 |work=The White House |archive-date=October 27, 2023|archive-url=https://web.archive.org/web/20231027163745/https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/26/a-proclamation-on-honoring-the-victims-of-the-tragedy-in-lewiston-maine/ |url-status=live }}</ref>",
+                      "url": "https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/26/a-proclamation-on-honoring-the-victims-of-the-tragedy-in-lewiston-maine/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=October 26, 2023 |title=Biden says he's spoken with top Maine officials and is in \"mourning\" after the \"tragic mass shooting\"|url=https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_230a9fda1baf46f23ed742120279028e |access-date=October 26, 2023 |work=CNN |language=en|archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026180754/https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_230a9fda1baf46f23ed742120279028e |url-status=live}}</ref>",
+                      "url": "https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Perpetrator",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "'''Robert Russell Card II''' (April 4, 1983 – October 27, 2023) was a longtime resident of Bowdoin, Maine. and designated as a suspect the next day. Card was a sergeant first class in the United States Army Reserve and enlisted in December 2002. He was a List of United States Army careers|petroleum supply specialist and had no overseas or combat deployments.<ref name=\"Reuters\"/><ref name=\":2\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Ismay |first=John |date=2023-10-26 |title=Maine Shootings: Update from John Ismay |language=en-US |work=The New York Times |url=https://www.nytimes.com/live/2023/10/25/us/lewiston-maine-shooting/25f94dc8-a508-5c82-9597-a6afab381838 |access-date=2023-10-30 |issn=0362-4331 |archive-date=October 28, 2023 |archive-url=https://web.archive.org/web/20231028022838/https://www.nytimes.com/live/2023/10/25/us/lewiston-maine-shooting/25f94dc8-a508-5c82-9597-a6afab381838 |url-status=live }}</ref>",
+                  "url": "https://www.nytimes.com/live/2023/10/25/us/lewiston-maine-shooting/25f94dc8-a508-5c82-9597-a6afab381838",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"WCVB-TV/ABC News\">{{cite web |author=Tenser, Phil |date=October 26, 2023 |title=Robert Card sought in connection with Lewiston, Maine mass shootings |url=https://www.wcvb.com/article/robert-card-lewiston-maine-mass-shooting/45646303 |url-status=live |archive-url=https://web.archive.org/web/20231028194147/https://www.wcvb.com/article/robert-card-lewiston-maine-mass-shooting/45646303 |archive-date=October 28, 2023 |access-date=October 28, 2023 |work=WCVB-TV/ABC News (United States)|ABC News |language=en-US}}</ref>",
+                  "url": "https://www.wcvb.com/article/robert-card-lewiston-maine-mass-shooting/45646303",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://www.nytimes.com/2023/11/04/us/maine-gunman-manhunt-dead.html |title=Maine Gunman Was Most Likely Alive for Much of 2-Day Manhunt |date=November 4, 2023 |last1=Edmonds |first1=Colbi |last2=Bogel-Burroughs |first2=Nicholas |work=The New York Times |access-date=November 4, 2023}}</ref>",
+                  "url": "https://www.nytimes.com/2023/11/04/us/maine-gunman-manhunt-dead.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Tabachnick |first1=Cara |last2=Gualtieri |first2=Allison Elyse |last3=Tanyos |first3=Faris |date=October 27, 2023 |title=Maine shooting suspect Robert Card found dead, officials say |url=https://www.cbsnews.com/news/robert-card-found-dead-maine-mass-shooting-suspect-lewiston/ |url-status=live |archive-url=https://web.archive.org/web/20231028013348/https://www.cbsnews.com/news/robert-card-found-dead-maine-mass-shooting-suspect-lewiston/ |archive-date=October 28, 2023 |access-date=October 28, 2023 |work=CBS News}}</ref>",
+                  "url": "https://www.cbsnews.com/news/robert-card-found-dead-maine-mass-shooting-suspect-lewiston/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":1\">{{Cite news |last1=Ismay |first1=John |last2=Bogel-Burroughs |first2=Nicholas |last3=Thrush |first3=Glenn |last4=Mazzei |first4=Patricia |date=October 27, 2023 |title=What We Know About Robert Card, A Longtime Resident Of Bowdoin |url=https://www.nytimes.com/2023/10/25/us/maine-shooting-gunman-army-suspect.html |url-status=live |archive-url=https://web.archive.org/web/20231027002738/https://www.nytimes.com/2023/10/25/us/maine-shooting-gunman-army-suspect.html |archive-date=October 27, 2023 |access-date=October 27, 2023 |work=The New York Times}}</ref>",
+                  "url": "https://www.nytimes.com/2023/10/25/us/maine-shooting-gunman-army-suspect.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"WCVB-TV/ABC News\" /> He was identified by the police on October 25 as a person of interest<ref>{{Cite news |date=October 25, 2023 |title=Police are said to believe they know identity of shooting suspect|work=NBC News|url=https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249/rcrd23145?canonicalCard=true |url-status=live |access-date=October 25, 2023|archive-url=https://web.archive.org/web/20231026064509/https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249/rcrd23145?canonicalCard=true |archive-date=October 26, 2023}}</ref>",
+                  "url": "https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249/rcrd23145?canonicalCard=true",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Simeone |first=Jessica |date=October 25, 2023 |title=Law enforcement trying to 'eliminate the active killer or killers', former ATF agent says |work=NBC News|url=https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249/rcrd23139?canonicalCard=true |url-status=live|access-date=October 25, 2023|archive-url=https://web.archive.org/web/20231026122934/https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249/rcrd23139?canonicalCard=true |archive-date=October 26, 2023}}</ref>",
+                  "url": "https://www.nbcnews.com/news/us-news/live-blog/active-shooter-incident-reported-lewiston-maine-live-updates-rcna122249/rcrd23139?canonicalCard=true",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":2\">{{cite news |last1=Arkin |first1=Daniel |last2=Chan |first2=Melissa |last3=Abbruzzese |first3=Jason |date=October 26, 2023 |title=Lewiston police identify Robert Card as person of interest in fatal shootings |url=https://www.nbcnews.com/news/us-news/lewiston-maine-shooting-robert-card-what-know-rcna122262 |url-status=live |archive-url=https://web.archive.org/web/20231026041711/https://www.nbcnews.com/news/us-news/lewiston-maine-shooting-robert-card-what-know-rcna122262 |archive-date=October 26, 2023 |access-date=October 26, 2023 |work=NBC News}}</ref>",
+                  "url": "https://www.nbcnews.com/news/us-news/lewiston-maine-shooting-robert-card-what-know-rcna122262",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Massive manhunt underway for shooter; at least 16 dead, official says |newspaper=The Washington Post|url=https://www.washingtonpost.com/nation/2023/10/25/lewiston-maine-shooting-live-updates/}}</ref>",
+                  "url": "https://www.washingtonpost.com/nation/2023/10/25/lewiston-maine-shooting-live-updates/}}</ref>",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":1\" /><ref>{{cite news|last1=Barrett|first1=Devlin|last2=Stein|first2=Perry|last3=Berman |first3=Mark |last4=Horton |first4=Alex |date=October 26, 2023 |title=What we know about Robert Card, suspect sought in the Maine mass killings |newspaper=The Washington Post|url=https://www.washingtonpost.com/nation/2023/10/26/robert-card-maine-shooting-suspect/ |url-status=live|access-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026223128/https://www.washingtonpost.com/nation/2023/10/26/robert-card-maine-shooting-suspect/ |archive-date=October 26, 2023}}</ref>",
+                  "url": "https://www.washingtonpost.com/nation/2023/10/26/robert-card-maine-shooting-suspect/",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Reuters\">[https://www.reuters.com/world/us/maine-shooting-suspect-is-us-army-reserve-petroleum-supply-specialist-army-says-2023-10-26/ Maine shooting suspect is U.S. Army Reserve petroleum supply specialist, Army says], Reuters (October 26, 2023).</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": "5.s2",
+              "text": "Card attended Bowdoin Central School and later Mt. Ararat High School|Mount Ararat High School in nearby Topsham, Maine|Topsham. After graduating in 2001, he studied engineering at the University of Maine from 2001 to 2004 but did not complete his education. Card, known for his quiet and friendly demeanor, had a history of being dependable and causing no trouble for much of his life, according to his family.<ref name=\":2\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news|date=October 26, 2023|title=Lewiston shooting suspect's life, who a skilled marksman later struggled with mental health|url=https://www.centralmaine.com/2023/10/26/lewiston-shooting-suspect-a-skilled-marksman-who-played-cornhole-recently-struggled-with-mental-health/|access-date=October 26, 2023|work=centralmaine.com|language=en|archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026182334/https://www.centralmaine.com/2023/10/26/lewiston-shooting-suspect-a-skilled-marksman-who-played-cornhole-recently-struggled-with-mental-health/|url-status=live}}</ref>",
+                  "url": "https://www.centralmaine.com/2023/10/26/lewiston-shooting-suspect-a-skilled-marksman-who-played-cornhole-recently-struggled-with-mental-health/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=October 26, 2023|title=Lewiston shooting suspect's background|url=https://www.bostonglobe.com/2023/10/26/metro/robert-card-background/|access-date=October 26, 2023|work=centralmaine.com|language=en|archive-date=October 26, 2023|archive-url=https://web.archive.org/web/20231026173604/https://www.bostonglobe.com/2023/10/26/metro/robert-card-background/|url-status=live}}</ref>",
+                  "url": "https://www.bostonglobe.com/2023/10/26/metro/robert-card-background/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=October 26, 2023 |title=What we know about the suspect sought in the Maine mass killings|url=https://www.washingtonpost.com/nation/2023/10/26/robert-card-maine-shooting-suspect/|url-status=live|archive-url=https://web.archive.org/web/20231026204230/https://www.washingtonpost.com/nation/2023/10/26/robert-card-maine-shooting-suspect/|archive-date=October 26, 2023 |access-date=October 26, 2023 |newspaper=Washington Post |language=en}}</ref>",
+                  "url": "https://www.washingtonpost.com/nation/2023/10/26/robert-card-maine-shooting-suspect/",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=ProfoundDamage/> Before 2023, his only recorded interactions with law enforcement were a 2007 arrest for DUI, to which he pleaded guilty, and two speeding charges in 2001 and 2002.<ref>{{Cite news |last=St. Pierre |first=Ariana |date=October 26, 2023 |title=Who is Robert Card? Authorities searching for person of interest in connection with Lewiston mass shootings |url=https://wgme.com/news/local/who-is-robert-card-authorities-searching-for-person-of-interest-in-connection-with-lewiston-mass-shootings-maine-manhunt-underway-robert-card-gun-violence-schemengees-bar-and-grille-sparetime-recreationjust-in-time-recreation |url-status=live |archive-url=https://web.archive.org/web/20231026203321/https://www.centralmaine.com/2023/10/26/lewiston-shooting-suspect-a-skilled-marksman-who-played-cornhole-recently-struggled-with-mental-health/ |archive-date=October 26, 2023 |access-date=October 26, 2023 |work=WGME |language=en}}</ref>",
+                  "url": "https://wgme.com/news/local/who-is-robert-card-authorities-searching-for-person-of-interest-in-connection-with-lewiston-mass-shootings-maine-manhunt-underway-robert-card-gun-violence-schemengees-bar-and-grille-sparetime-recreationjust-in-time-recreation",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "5.s3",
+              "text": "In May 2023, Card's son and ex-wife reported his declining mental health to a Sagadahoc County, Maine|Sagadahoc County sheriff's deputy, associating his reports of auditory hallucinations to being fitted for hearing aids in February 2023. The Army Reserve specifically told law enforcement that he threatened to \"shoot up\" a military base in Saco, Maine. He was removed from training exercises, and the New York State Police responded and transported Card to West Point's Keller Army Community Hospital for psychological evaluation. He received two weeks of additional treatment at the Four Winds Psychiatric Hospital in Katonah, New York.<ref name=\"BBC News\" /><ref name=\"Times-Union\" /> Doctors prescribed Lithium (medication)|lithium but did not assess Card for a traumatic brain injury, according to his sister. After leaving the hospital, he discontinued the medication.<ref name=ProfoundDamage/>",
+              "references": [
+                {
+                  "text": "<ref name=\":2\" /> In July 2023, leaders of Card's unit (3rd Battalion, 304th Infantry Regiment) made a report to law enforcement about Card's alarming comments and erratic behavior while training at Camp Smith (New York)|Camp Smith (close to the U.S. Military Academy at West Point, New York).<ref>{{Cite web |last1=Sundby |first1=Alex |last2=Watson |first2=Eleanor |date=2023-10-31 |title=Army decided Maine shooting gunman Robert Card shouldn't have a weapon after erratic behavior in July |url=https://www.cbsnews.com/news/maine-shooting-robert-card-police-check-army/ |access-date=2024-12-10 |website=CBS News |language=en-US}}</ref>",
+                  "url": "https://www.cbsnews.com/news/maine-shooting-robert-card-police-check-army/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Times-Union\">{{Cite web |last1=Pantuso |first1=Phillip |last2=Solomon |first2=Joshua |date=2023-10-28 |title=State Police didn't pursue 'red flag' order for Maine shooting suspect |url=https://www.timesunion.com/state/article/maine-shooting-suspect-robert-card-wasn-t-18450627.php |access-date=2024-12-10 |website=Times Union |language=en}}</ref>",
+                  "url": "https://www.timesunion.com/state/article/maine-shooting-suspect-robert-card-wasn-t-18450627.php",
+                  "status_code": 401,
+                  "reason": "Unauthorized",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s4",
+              "text": "Card returned home on August 3, 2023, and the Army barred him from handling guns or ammunition, deeming him a \"non-deployable\" serviceman. That same day, a gun shop in Auburn, Maine, denied his access to purchase a Silencer (firearms)|silencer because he responded \"yes\" to the question \"Have you ever been adjudicated as a mental defective OR ever been committed to a mental institution?\" on the ATF Form 4473. In the subsequent months, Card had several angry and violent episodes. On one occasion, his mother found him crying on her front porch due to his delusions of being talked about. He also left his job as a recycling truck driver.<ref name=ProfoundDamage/>",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last1=Royzman |first1=Valerie |last2=Loftus |first2=Sawyer |date=2023-10-31 |title=Army barred Robert Card from handling guns 2 months before Lewiston mass shooting |url=http://www.bangordailynews.com/2023/10/31/news/army-prohibited-robert-card-handling-guns-before-lewiston-mass-shooting/ |access-date=2023-11-01 |website=Bangor Daily News |language=en-US |archive-date=November 1, 2023 |archive-url=https://web.archive.org/web/20231101115413/https://www.bangordailynews.com/2023/10/31/news/army-prohibited-robert-card-handling-guns-before-lewiston-mass-shooting/ |url-status=live }}</ref>",
+                  "url": "http://www.bangordailynews.com/2023/10/31/news/army-prohibited-robert-card-handling-guns-before-lewiston-mass-shooting/",
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last1=Salahieh |first1=Nouran |last2=Prokupecz |first2=Shimon |last3=Britzky |first3=Haley |date=2023-10-31 |title=The Army said the Maine gunman 'should not have a weapon' months before the mass shootings that left 18 dead |url=https://www.cnn.com/2023/10/31/us/maine-mass-shootings-warning-signs-tuesday/index.html |access-date=2024-12-10 |website=CNN |language=en}}</ref>",
+                  "url": "https://edition.cnn.com/2023/10/31/us/maine-mass-shootings-warning-signs-tuesday/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"The Boston Globe\">{{Cite news |last1=Ellement |first1=John R. |last2=McGrane |first2=Victoria |date=31 October 2023 |title=Newly Released Documents Detail Timeline Ahead of Lewiston, Maine, Shootings |work=The Boston Globe |url=https://www.bostonglobe.com/2023/10/31/metro/robert-card-timeline/ |access-date=1 November 2023}}</ref>",
+                  "url": "https://www.bostonglobe.com/2023/10/31/metro/robert-card-timeline/",
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "5.s5",
+              "text": "According to a police affidavit, Card's family members indicated Card believed he was being broadcast as a pedophile online by businesses and people including Just-In-Time, Schemengees, and a manager at Schemengees, who was one of the eight victims there that night.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Ohm |first=Rachel |date=October 31, 2023 |title=\"Lewiston gunman met ex at Schemengees, believed businesses were calling him a pedophile, affidavit says\" |work=Portland Press Herald |url=https://www.pressherald.com/2023/10/31/affidavit-lewiston-gunman-met-ex-at-schemengees-believed-businesses-were-calling-him-a-pedophile/}}</ref>",
+                  "url": "https://www.pressherald.com/2023/10/31/affidavit-lewiston-gunman-met-ex-at-schemengees-believed-businesses-were-calling-him-a-pedophile/}}</ref>",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Shooter's brain damage",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.2.s1",
+                  "text": "At the request of the Maine Chief Medical Examiner's office, a sample of Card's brain tissue was examined at Boston University's Boston University CTE Center and Brain Bank|CTE Center. The findings, released by Card's family, showed profound brain damage, including missing white matter; white matter with \"moderately severe\" damage; \"disorganized clumps\" of myelin (fatty sheaths surrounding axons); damage to axons; and scarring and Neuroinflammation|inflammation throughout the brain. Although the tissue did not show evidence of chronic traumatic encephalopathy (CTE), it did confirm that Card had traumatic brain injury that resembled the brain damage in veterans exposed to explosion|blasts. Despite never seeing combat, Card's role as a grenade instructor would have exposed him to thousands of blasts over eight years. Neurologist Ann McKee, the director of the CTE Center, stated: \"These findings align with our previous studies on the effects of blast injury in humans and experimental models. While I cannot say with certainty that these pathological findings underlie Mr. Card's behavioral changes in the last 10 months of life, based on our previous work, brain injury likely played a role in his symptoms.\"<ref name=CLFoundation/><ref name=ProfoundDamage/>",
+                  "references": [
+                    {
+                      "text": "<ref name=\"CLFoundation\">{{Cite web |title=Family of Robert Card II releases findings of his brain tissue analysis in effort to prevent future tragedies |url=https://concussionfoundation.org/news/press-release/family-of-Robert-Card-II-releases-findings-of-his-brain-tissue-analysis-in-effort-to-prevent-future-tragedies |access-date=2024-12-10 |website=Concussion Legacy Foundation |language=en-usa}}</ref>",
+                      "url": "https://concussionfoundation.org/news/press-release/family-of-Robert-Card-II-releases-findings-of-his-brain-tissue-analysis-in-effort-to-prevent-future-tragedies",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=ProfoundDamage>{{Cite news |last=Philipps |first=Dave |date=2024-03-07 |title=Profound Damage Found in Maine Gunman's Brain, Possibly From Blasts |url=https://www.nytimes.com/2024/03/06/us/maine-shooting-brain-injury.html |access-date=2024-03-07 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>",
+                      "url": "https://www.nytimes.com/2024/03/06/us/maine-shooting-brain-injury.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news|url=https://apnews.com/article/maine-shooting-lewiston-victims-commission-5ff6d30d8c3f445e8a5431d509cfc936|title=Evidence of traumatic brain injury in shooter who killed 18 in deadliest shooting in Maine history|last1=Sharp|first1=David|last2=Whittle|first2=Patrick|work=Associated Press|date=7 March 2024|access-date=7 March 2024}}</ref>",
+                      "url": "https://apnews.com/article/maine-shooting-lewiston-victims-commission-5ff6d30d8c3f445e8a5431d509cfc936",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "Following the shootings, a shelter-in-place order was implemented in Lewiston, and schools were placed on lockdown, along with schools across the southern Maine area. Auburn issued its own shelter-in-place order and told businesses to lock down as well. Classes at schools in the Lewiston Public Schools district, Central Maine Community College, and Bates College were canceled on October 26, as well as several additional school districts within a 50-mile radius. The shelter-in-place advisory was extended to Bowdoin, Maine|Bowdoin on October 26. Bates College also postponed its presidential inauguration, previously scheduled for October 27, until further notice. Additionally, extra security measures were taken along the Canada–U.S. border following an \"armed and dangerous\" alert issued by the Canada Border Services Agency.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last1=Smart |first1=Sara |last2=Sutton |first2=Joe |date=October 25, 2023 |title=Maine State Police ask residents to shelter in place as active shooter situation continues |work=CNN |url=https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_6ab69320d79a2e218cfd471ea4e003a3 |url-status=live |access-date=October 25, 2023 |archive-url=https://web.archive.org/web/20231026122003/https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_6ab69320d79a2e218cfd471ea4e003a3 |archive-date=October 26, 2023}}</ref>",
+                  "url": "https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Lynch |first=Jamiel |date=October 25, 2023 |title=City of Auburn issues shelter in place due to active shooter incident |work=CNN |url=https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_93a708794c48b313b834d65cb0b856c8 |url-status=live |access-date=October 25, 2023 |archive-url=https://web.archive.org/web/20231026121932/https://www.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23/h_93a708794c48b313b834d65cb0b856c8 |archive-date=October 26, 2023}}</ref>",
+                  "url": "https://edition.cnn.com/us/live-news/lewiston-maine-shootings-active-shooter-10-25-23",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Albeck-Ripka|first=Livia|date=October 25, 2023 |title=Jake Langlais, the superintendent of Lewiston Public Schools, said on X that classes would be cancelled on Thursday. |work=The New York Times |url=https://www.nytimes.com/live/2023/10/26/us/lewiston-maine-shooting/002be97c-0a65-5bd0-b4ab-6de02e3b09b3 |access-date=October 25, 2023}}</ref>",
+                  "url": "https://www.nytimes.com/live/2023/10/26/us/lewiston-maine-shooting/002be97c-0a65-5bd0-b4ab-6de02e3b09b3",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Jeong |first=Andrew |date=October 25, 2023 |title=Central Main Community College, located less than two miles from one of the reported scenes of the shootings, will be closed Thursday due to the incident reported in Lewiston, the school said on social media. |newspaper=The Washington Post |url=https://www.washingtonpost.com/nation/2023/10/25/lewiston-maine-shooting-live-updates/#link-XQAHWRQHCNFN3DNBLX7D3Q6MBQ |access-date=October 25, 2023}}</ref>",
+                  "url": "https://www.washingtonpost.com/nation/2023/10/25/lewiston-maine-shooting-live-updates/#link-XQAHWRQHCNFN3DNBLX7D3Q6MBQ",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Bryson Taylor |first=Derrick |date=October 26, 2023 |title=Many schools and public buildings are closed while the manhunt continues. |work=The New York Times |url=https://www.nytimes.com/2023/10/26/us/lewiston-closings-schools-maine.html |url-status=live |access-date=October 26, 2023 |archive-url=https://web.archive.org/web/20231026151014/https://www.nytimes.com/2023/10/26/us/lewiston-closings-schools-maine.html |archive-date=October 26, 2023}}</ref>",
+                  "url": "https://www.nytimes.com/2023/10/26/us/lewiston-closings-schools-maine.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=October 27, 2023 |title=Live updates: Lewiston, Maine, mass shooting; Manhunt for suspect Robert Card underway |language=en |work=CNN |url=https://www.cnn.com/us/live-news/lewiston-maine-mass-shootings-10-27-23/index.html|url-status=live |access-date=October 27, 2023 |archive-url=https://web.archive.org/web/20231027053758/https://www.cnn.com/us/live-news/lewiston-maine-mass-shootings-10-27-23/index.html |archive-date=October 27, 2023}}</ref>",
+                  "url": "https://edition.cnn.com/us/live-news/lewiston-maine-mass-shootings-10-27-23/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Benner |first=Katie |date=October 26, 2023 |title=Bates College postpones the inauguration of its new president after the shooting. |work=The New York Times |url=https://www.nytimes.com/live/2023/10/25/us/lewiston-maine-shooting/bates-college-postpones-the-inauguration-of-its-new-president-after-the-shooting |url-status=live|access-date=October 26, 2023 |archive-url=https://web.archive.org/web/20231026170902/https://www.nytimes.com/live/2023/10/25/us/lewiston-maine-shooting/bates-college-postpones-the-inauguration-of-its-new-president-after-the-shooting |archive-date=October 26, 2023}}</ref>",
+                  "url": "https://www.nytimes.com/live/2023/10/25/us/lewiston-maine-shooting/bates-college-postpones-the-inauguration-of-its-new-president-after-the-shooting",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last=Lau |first=Rebecca |title=Maine shooting: Canada's border agency issues suspect 'lookout' watch {{!}} Globalnews.ca |url=https://globalnews.ca/news/10050312/new-brunswick-police-monitoring-maine-mass-shooting-manhunt/ |access-date=October 29, 2023 |work=Global News |date=October 26, 2023 |archive-date=October 28, 2023 |archive-url=https://web.archive.org/web/20231028082725/https://globalnews.ca/news/10050312/new-brunswick-police-monitoring-maine-mass-shooting-manhunt/ |url-status=live }}</ref>",
+                  "url": "https://globalnews.ca/news/10050312/new-brunswick-police-monitoring-maine-mass-shooting-manhunt/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |last1=Sharp |first1=David |last2=Bumsted |first2=Robert |last3=Ramer |first3=Holly |last4=Balsamo |first4=Michael |date=2023-10-26 |title=Fearful Maine residents stay home amid massive search for suspect in killing of 18 people |url=https://apnews.com/article/lewiston-maine-shootings-49da6d06a8b5a15d3b619b3927bc33ff |access-date=2024-12-10 |website=AP News |language=en}}</ref>",
+                  "url": "https://apnews.com/article/lewiston-maine-shootings-49da6d06a8b5a15d3b619b3927bc33ff",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news |last=MacDonald |first=Michael |title=Canada Border Services Agency issues alert about man wanted for Maine mass shooting |url=https://www.cp24.com/news/canada-border-services-agency-issues-alert-about-man-wanted-for-maine-mass-shooting-1.6618194 |access-date=October 29, 2023 |work=CP24 |date=October 26, 2023 |language=en |archive-date=October 27, 2023 |archive-url=https://web.archive.org/web/20231027102943/https://www.cp24.com/news/canada-border-services-agency-issues-alert-about-man-wanted-for-maine-mass-shooting-1.6618194 |url-status=live }}</ref>",
+                  "url": "https://www.cp24.com/news/canada-border-services-agency-issues-alert-about-man-wanted-for-maine-mass-shooting-1.6618194",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "6.s2",
+              "text": "Shortly after the shooting, there was an increase in the number of individuals within the state looking to purchase a weapon. A gun store owner told reporters that he had done more business the day after the shooting than he had in the prior month. Although Deer hunting|deer season was scheduled to start the Saturday after the shooting, he believed most of the sales were safety-related. Prospective buyers allegedly waited in line for over an hour at one gun store.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Bonifant |first=Drew |date=October 27, 2023 |title=Gun stores in Maine see brisk business in wake of Lewiston shootings |url=https://www.pressherald.com/2023/10/27/gun-stores-in-maine-see-brisk-business-in-wake-of-lewiston-shootings/ |access-date=October 28, 2023 |website=Press Herald |archive-date=October 27, 2023 |archive-url=https://web.archive.org/web/20231027231455/https://www.pressherald.com/2023/10/27/gun-stores-in-maine-see-brisk-business-in-wake-of-lewiston-shootings/ |url-status=live }}</ref>",
+                  "url": "https://www.pressherald.com/2023/10/27/gun-stores-in-maine-see-brisk-business-in-wake-of-lewiston-shootings/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Social media",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.2.s1",
+                  "text": "In the days after the shootings, multiple outlets reported on Card's use of social media prior to the shootings. Card had used Twitter to like and retweet Far-right politics|far-right extremist views, including Transphobia|transphobic views by right-wing figures like Tucker Carlson and Donald Trump Jr.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |last=Wiggins |first=Christopher |date=October 27, 2023 |title=Maine Massacre Suspect's Anti-Transgender, Extremist Views Emerge Amid Pleas For Gun Control |url=https://www.advocate.com/crime/maine-massacre-suspect-transphobic-posts |access-date=October 28, 2023 |website=The Advocate (magazine)|The Advocate}}</ref>",
+                      "url": "https://www.advocate.com/crime/maine-massacre-suspect-transphobic-posts",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Owen |first=Greg |date=2023-10-27 |title=Suspected Maine mass shooter made anti-trans posts on social media |url=https://www.lgbtqnation.com/2023/10/suspect-maine-mass-shooter-made-anti-trans-posts-on-social-media/ |access-date=2023-10-28 |website=LGBTQ Nation}}</ref>",
+                      "url": "https://www.lgbtqnation.com/2023/10/suspect-maine-mass-shooter-made-anti-trans-posts-on-social-media/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Wiggins |first=Christopher |date=26 October 2023 |title=Maine Mass Shooter Liked Anti-Trans Posts Online |url=https://www.advocate.com/crime/maine-massacre-suspect-transphobic-posts |access-date=2023-10-28 |website=The Advocate |language=en}}</ref>",
+                      "url": "https://www.advocate.com/crime/maine-massacre-suspect-transphobic-posts",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.3",
+          "title": "Disinformation",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.3.s1",
+                  "text": "According to ''Wired (magazine)|Wired'', right after the shooting, social media platforms such as TikTok, Facebook, and Twitter were flooded with disinformation about Card. This included false claims that he had been arrested and was no longer at large. Some stated inaccurately, based on information about someone else with the same name, that Card was arrested in 2016 for possessing and disseminating sexually explicit materials.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite magazine |last=Gilbert |first=David |title=Maine Mass Shooting Disinformation Floods Social Media as Suspect Remains at Large |url=https://www.wired.com/story/maine-mass-shooting-disinformation/ |magazine=Wired |language=en-US |issn=1059-1028 |access-date=October 28, 2023 |archive-date=October 27, 2023 |archive-url=https://web.archive.org/web/20231027235914/https://www.wired.com/story/maine-mass-shooting-disinformation/ |url-status=live }}</ref>",
+                      "url": "https://www.wired.com/story/maine-mass-shooting-disinformation/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "magazine"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |last=Roscoe |first=Jules |date=October 26, 2023 |title='Verified' X Accounts Are Spreading Misinformation About Maine Shooter Still at Large |url=https://www.vice.com/en/article/bvjpy3/verified-x-accounts-are-spreading-misinformation-about-maine-shooter-still-at-large |access-date=October 28, 2023 |website=Vice |language=en |archive-date=October 28, 2023 |archive-url=https://web.archive.org/web/20231028054934/https://www.vice.com/en/article/bvjpy3/verified-x-accounts-are-spreading-misinformation-about-maine-shooter-still-at-large |url-status=live }}</ref>",
+                      "url": "https://www.vice.com/en/article/verified-x-accounts-are-spreading-misinformation-about-maine-shooter-still-at-large/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Findings of independent commission",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "7.s1",
+              "text": "Maine Governor Janet Mills established an independent commission to investigate the shooting. The seven-member commission, chaired by Daniel Wathen, reviewed thousands of pages of documents, gathered facts from many witnesses, and held public meetings. In August 2024, the commission issued a 215-page final report, announced at Lewiston City Hall (Lewiston, Maine)|Lewiston City Hall. The report concluded that both police and the Army Reserve missed opportunities to prevent the tragedy. The report found that Card's behavior provided sufficient evidence for the local sheriff's office to have obtained a \"yellow flag\" order to seize Card's guns in September 2023, yet failed to do so.<ref name=\"CBSRpt\" /> The report also concluded that the Army Reserves failed to provide appropriate healthcare for Card or to remove his access to weapons, even after a reservist sent a text message to an Army supervisor, saying, \"I believe he [Card]'s going to snap and do a mass shooting.\"<ref name=\"CBSRpt\" />",
+              "references": [
+                {
+                  "text": "<ref name=\"CBSRpt\">[https://www.cbsnews.com/news/lewiston-maine-mass-shootings-robert-card-army-police-could-have-intervened-final-report/ Army and police missed opportunities to potentially stop Maine mass shooter, report says], CBS News (August 20, 2024).</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "External links",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

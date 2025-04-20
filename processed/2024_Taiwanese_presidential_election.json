@@ -14,43 +14,43 @@
                 {
                   "text": "<ref>{{cite news|url=https://asia.nikkei.com/Politics/Taiwan-elections/Taiwan-sets-next-presidential-election-for-January-2024|title=Taiwan sets next presidential election for January 2024|work=Nikkei Asia|date=11 March 2023|access-date=18 March 2023|archive-date=31 December 2023|archive-url=https://web.archive.org/web/20231231151439/https://asia.nikkei.com/Politics/Taiwan-elections/Taiwan-sets-next-presidential-election-for-January-2024|url-status=live}}</ref>",
                   "url": "https://asia.nikkei.com/Politics/Taiwan-elections/Taiwan-sets-next-presidential-election-for-January-2024",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2023-03-10 |title=Taiwan sets Jan 13, 2024 for presidential, legislative elections |url=https://www.taiwannews.com.tw/en/news/4831353 |access-date=2023-08-08 |website=Taiwan News |archive-date=8 December 2023 |archive-url=https://web.archive.org/web/20231208045132/https://www.taiwannews.com.tw/en/news/4831353 |url-status=live }}</ref>",
                   "url": "https://www.taiwannews.com.tw/en/news/4831353",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-01-13 |title=China skeptic wins Taiwan presidency in snub to Beijing |url=https://www.politico.eu/article/william-lai-takes-early-lead-in-taiwan-presidential-race-in-snub-to-beijing/ |access-date=2024-01-13 |website=POLITICO |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113123001/https://www.politico.eu/article/william-lai-takes-early-lead-in-taiwan-presidential-race-in-snub-to-beijing/ |url-status=live }}</ref>",
                   "url": "https://www.politico.eu/article/william-lai-takes-early-lead-in-taiwan-presidential-race-in-snub-to-beijing/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Dominguez |first=Gabriel |date=2024-01-13 |title=Taiwan VP Lai Ching-te wins presidential vote as opposition concedes |url=https://www.japantimes.co.jp/news/2024/01/13/asia-pacific/politics/taiwan-presidential-election/ |access-date=2024-01-13 |website=The Japan Times |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113123001/https://www.japantimes.co.jp/news/2024/01/13/asia-pacific/politics/taiwan-presidential-election/ |url-status=live }}</ref>",
                   "url": "https://www.japantimes.co.jp/news/2024/01/13/asia-pacific/politics/taiwan-presidential-election/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-01-13 |title='Troublemaker' anti-China William Lai set to be Taiwan's president: Who is he |url=https://www.hindustantimes.com/world-news/taiwan-elections-william-lai-termed-troublemaker-by-china-set-to-be-taiwans-president-101705144149734.html |access-date=2024-01-13 |website=Hindustan Times |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113123001/https://www.hindustantimes.com/world-news/taiwan-elections-william-lai-termed-troublemaker-by-china-set-to-be-taiwans-president-101705144149734.html |url-status=live }}</ref>",
                   "url": "https://www.hindustantimes.com/world-news/taiwan-elections-william-lai-termed-troublemaker-by-china-set-to-be-taiwans-president-101705144149734.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last1=Lee |first1=Yimou |last2=Blanchard |first2=Ben |date=2024-05-20 |title=Lai Ching-te sworn in as Taiwan's new president |url=https://www.reuters.com/world/asia-pacific/lai-ching-te-sworn-taiwans-new-president-2024-05-20/ |access-date=2024-05-25 |website=Reuters}}</ref>",
                   "url": "https://www.reuters.com/world/asia-pacific/lai-ching-te-sworn-taiwans-new-president-2024-05-20/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 }
               ]
@@ -67,26 +67,26 @@
           "sentences": [
             {
               "id": "2.s1",
-              "text": ", the incumbent President of the Republic of China (Taiwan), was ineligible to seek re-election after serving two terms.]]\nTsai Ing-wen of the Democratic Progressive Party (DPP) became the first female president after winning the 2016 Taiwanese presidential election|2016 presidential election, defeating Kuomintang|KMT nominee Eric Chu. She 2020 Taiwanese presidential election|won a second term in 2020 and continued to serve until 20 May 2024. Tsai resigned as party chairperson after the DPP suffered losses in the 2022 Taiwanese local elections. She was replaced in an acting capacity by Chen Chi-mai. Tsai's Vice President Lai Ching-te ultimately became the party chairperson by acclamation in late 2022.",
+              "text": ", the incumbent President of the Republic of China (Taiwan), was ineligible to seek re-election after serving two terms.]]\nTsai Ing-wen of the Democratic Progressive Party (DPP) became the first female president after winning the 2016 Taiwanese presidential election|2016 presidential election, defeating Kuomintang|KMT nominee Eric Chu. She 2020 Taiwanese presidential election|won a second term in 2020 and continued to serve until 20 May 2024. Tsai resigned as party chairperson after the DPP suffered losses in the 2022 Taiwanese local elections. She was replaced in an acting capacity by Chen Chi-mai. Tsai's vice president, Lai Ching-te, ultimately became the party chairperson by acclamation in late 2022.",
               "references": [
                 {
                   "text": "<ref>{{Cite web |title=Taiwan's Tsai Ing-wen enters second term with a strong political mandate, but no room for complacency |url=https://www.brookings.edu/articles/taiwans-tsai-ing-wen-enters-second-term-with-a-strong-political-mandate-but-no-room-for-complacency/ |access-date=2023-12-09 |website=Brookings |language=en-US |archive-date=9 December 2023 |archive-url=https://web.archive.org/web/20231209040840/https://www.brookings.edu/articles/taiwans-tsai-ing-wen-enters-second-term-with-a-strong-political-mandate-but-no-room-for-complacency/ |url-status=live }}</ref>",
                   "url": "https://www.brookings.edu/articles/taiwans-tsai-ing-wen-enters-second-term-with-a-strong-political-mandate-but-no-room-for-complacency/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=中央通訊社 |date=2022-11-27 |title=九合一選舉綠退守南台灣 執政版圖、議會席次選舉數據一次看 {{!}} 政治 |url=https://www.cna.com.tw/news/aipl/202211275002.aspx |access-date=2023-12-09 |website=中央社 CNA |language=zh-Hant-TW |archive-date=9 December 2022 |archive-url=https://web.archive.org/web/20221209174237/https://www.cna.com.tw/news/aipl/202211275002.aspx |url-status=live }}</ref>",
                   "url": "https://www.cna.com.tw/news/aipl/202211275002.aspx",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |title=賴清德當選民進黨黨主席 「務實台獨者」的他會是下任台灣總統嗎？ |language=zh-hant |work=BBC News 中文 |url=https://www.bbc.com/zhongwen/trad/chinese-news-64261592 |access-date=2023-12-09 |archive-date=20 August 2023 |archive-url=https://web.archive.org/web/20230820075519/https://www.bbc.com/zhongwen/trad/chinese-news-64261592 |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/zhongwen/trad/chinese-news-64261592",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -102,33 +102,33 @@
               "sentences": [
                 {
                   "id": "2.2.s1",
-                  "text": "Candidates register with the Central Election Commission (Taiwan)|Central Election Commission. Under Article 23, independent candidates and smaller parties are also eligible to contest, registering as the candidates for president and Vice President by the way of joint signature shall, within five days after the public notice for election is issued, apply to the Central Election Commission to be the presentees recommended by way of joint signature and to receive a list of joint signers, and pay a deposit of NT$1,000,000. If the number of joint signers reaches 1.5% of the total electors in the latest Presidential and Vice Presidential Election within the time limit, which is 45 days under normal circumstances or 25 days in case of a by-election or a reelection, the presentees will be allowed to proceed with contesting in the election after the joint signature documents are examined. For the 2024 presidential election, the number of signatures required for independent candidates was approximately 290,000. The complete petition was to be submitted between 13 and 17 September 2023, and the signature collection period followed from 17 September to 2 November 2023. Presidential candidacies were formally registered between 20 and 24 November 2023. Lots for ballot positioning were drawn on 11 December; the Taiwan People's Party ticket was to be listed first, followed by the Democratic Progressive Party, then the Kuomintang.<ref name=\"lotspresentations\"/>",
+                  "text": "Candidates register with the Central Election Commission (Taiwan)|Central Election Commission. Under Article 23, independent candidates and smaller parties are also eligible to contest, registering as the candidates for president and vice president by the way of joint signature shall, within five days after the public notice for election is issued, apply to the Central Election Commission to be the presentees recommended by way of joint signature and to receive a list of joint signers, and pay a deposit of NT$1,000,000. If the number of joint signers reaches 1.5% of the total electors in the latest Presidential and Vice Presidential Election within the time limit, which is 45 days under normal circumstances or 25 days in case of a by-election or a reelection, the presentees will be allowed to proceed with contesting in the election after the joint signature documents are examined. For the 2024 presidential election, the number of signatures required for independent candidates was approximately 290,000. The complete petition was to be submitted between 13 and 17 September 2023, and the signature collection period followed from 17 September to 2 November 2023. Presidential candidacies were formally registered between 20 and 24 November 2023. Lots for ballot positioning were drawn on 11 December; the Taiwan People's Party ticket was to be listed first, followed by the Democratic Progressive Party, then the Kuomintang.<ref name=\"lotspresentations\"/>",
                   "references": [
                     {
                       "text": "<ref>{{Cite web |title=Presidential and Vice Presidential Election and Recall Act |url=https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=D0020053 |url-status=live |archive-url=https://web.archive.org/web/20190113232230/https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=D0020053 |archive-date=13 January 2019 |access-date=15 January 2019}}</ref>",
                       "url": "https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=D0020053",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Chung |first1=Yu-chen |date=28 August 2023 |title=Election 2024/Terry Gou jumps into 2024 presidential race as independent candidate |agency=Central News Agency |url=https://focustaiwan.tw/politics/202308280003 |access-date=29 August 2023 |quote=With the declaration of his intention to join the 2024 race as an independent, Gou will now be required to obtain the signatures of at least 1.5 percent of the electorate in the last legislative election, which would mean around 290,000 signatures, within 45 days of his formal application to run as an independent candidate, according to law. |archive-date=29 August 2023 |archive-url=https://web.archive.org/web/20230829014629/https://focustaiwan.tw/politics/202308280003 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202308280003",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Chung |first1=Yu-chen |date=28 August 2023 |title=Election 2024/Terry Gou announces presidency bid, touts business acumen as key asset |agency=Central News Agency |url=https://focustaiwan.tw/politics/202308280014 |access-date=29 August 2023 |quote=Independent presidential candidates are required to file an official application to run and collect the required signatures from Sept. 13-17. Those signatures are then collected from Sept. 19 to Nov. 2 and the Central Election Commission (CEC) announces whether the candidates collected enough signatures by Nov. 14. |archive-date=29 August 2023 |archive-url=https://web.archive.org/web/20230829014414/https://focustaiwan.tw/politics/202308280014 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202308280014",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Yeh |first1=Joseph |date=28 August 2023 |title=Election 2024/Terry Gou's decision to run for president 'deeply regrettable': KMT |agency=Central News Agency |url=https://focustaiwan.tw/politics/202308280005 |access-date=29 August 2023 |quote=The date for the registration of presidential candidates at the Central Election Commission is Nov. 20-24. |archive-date=29 August 2023 |archive-url=https://web.archive.org/web/20230829014415/https://focustaiwan.tw/politics/202308280005 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202308280005",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -150,43 +150,43 @@
                   "references": [
                     {
                       "text": "<ref name=\"PolicyForumCEC\">{{cite web | url=https://web.cec.gov.tw/central/cms/112news/41045 | title=總統副總統候選人電視政見發表會12月20日晚間7點登場，共舉辦4場 | website=Central Election Commission (Taiwan) | language=zh-hant | quote=...第16任總統副總統選舉競選活動...在112年12月20、26、28日舉辦3場總統候選人電視政見發表會，以及12月22日舉辦副總統候選人電視政見發表會... (year in ROC era) | date=2023-12-13 | access-date=28 December 2023 | archive-date=28 December 2023 | archive-url=https://web.archive.org/web/20231228133613/https://web.cec.gov.tw/central/cms/112news/41045 | url-status=live }}</ref>",
-                      "url": "https://web.cec.gov.tw/central/cms/112news/41045",
-                      "status_code": null,
+                      "url": "https://web.cec.gov.tw/central",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"PolicyForumRTI\">{{cite web | url=https://en.rti.org.tw/news/view/id/2010456 | title=Presidential and vice presidential public forum schedule announced | website=Radio Taiwan International | date=2023-12-20 | author=Mary Anne Sioco | quote=The first forum was broadcast on Formosa Television at 7 p.m. Wednesday (20 December 2023)..The forums allow the candidates to present their policies during three rounds of 10 minutes each. Although the forums are not debates, candidates still have room to question the other parties and defend their positions...The second and third rounds of the forum are scheduled for 2 p.m. on Dec. 26 and 7 p.m. on Dec. 28...Vice presidential candidates will also have a separate forum...at 7 p.m. on Dec. 22... | access-date=28 December 2023 | archive-date=28 December 2023 | archive-url=https://web.archive.org/web/20231228135114/https://en.rti.org.tw/news/view/id/2010456 | url-status=live }}</ref>",
                       "url": "https://en.rti.org.tw/news/view/id/2010456",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"PolicyForumRTIOld\">{{cite web | url=https://en.rti.org.tw/news/view/id/2010163 | title=Televised presidential candidate debates set for December | quote=The Central Election Commission (CEC) announced...The first broadcast will be on December 20 at 7:00 p.m., the second on December 26 at 2:00 p.m., and the third on December 28 at 7:00 p.m., with the vice presidential candidate speeches on December 22 at 7:00 p.m... | author=Filip Leskovsky | website=Radio Taiwan International | date=2023-10-23 | access-date=28 December 2023 | archive-date=28 December 2023 | archive-url=https://web.archive.org/web/20231228135114/https://en.rti.org.tw/news/view/id/2010163 | url-status=live }}</ref>",
                       "url": "https://en.rti.org.tw/news/view/id/2010163",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://asia.nikkei.com/Politics/Taiwan-s-Lai-to-election-rivals-Beijing-sees-all-of-us-as-pro-independence | title=Taiwan's Lai to election rivals - Beijing sees all of us as pro-independence | publisher=Nikkei Shimbun | quote=Taiwan's first televised debate among the three presidential candidates on Tuesday | date=2023-12-21 | access-date=28 December 2023 | archive-date=28 December 2023 | archive-url=https://web.archive.org/web/20231228133612/https://asia.nikkei.com/Politics/Taiwan-s-Lai-to-election-rivals-Beijing-sees-all-of-us-as-pro-independence | url-status=live }}</ref>",
                       "url": "https://asia.nikkei.com/Politics/Taiwan-s-Lai-to-election-rivals-Beijing-sees-all-of-us-as-pro-independence",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"PolicyForumCEC\"/><ref name=\"PolicyForumRTI\"/><ref name=\"PolicyForumRTIOld\"/>\n|-\n|30 December 2023\n|Presidential debate featuring all three candidates, jointly organized by 11 Taiwanese media corporations and hosted at Public Television Service (PTS) studio.<ref name=\"DebateCNA\">{{cite web | url=https://www.cna.com.tw/news/aipl/202312280027.aspx | title=總統候選人政見會最終場晚間7時登場 | quote=...公辦政見發表會結束後，由11家媒體共同主辦、在公視製播的電視辯論會，將於元旦連假進行，總統候選人電視辯論會30日下午2時展開；副總統候選人電視辯論會定明年元旦下午2時舉行... | website=Central News Agency (Taiwan) | language=zh-hant | date=2023-12-28 | access-date=28 December 2023 | archive-date=28 December 2023 | archive-url=https://web.archive.org/web/20231228133612/https://www.cna.com.tw/news/aipl/202312280027.aspx | url-status=live }}</ref>",
                       "url": "https://www.cna.com.tw/news/aipl/202312280027.aspx",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"DebateCNA\"/>\n|-\n|13 January 2024\n|Voting was held from 08:00 to 16:00, resulting in Lai Ching-te winning the election.<ref>{{cite web | url=https://www.taipeitimes.com/News/front/archives/2024/01/14/2003812068 | title=Lai leads DPP to historic third term | quote=Vice President William Lai (賴清德) won the presidential election last night, delivering the Democratic Progressive Party (DPP) a record third term in office. | website=Taipei Times | date=2024-01-14 | access-date=13 January 2024 | archive-date=13 January 2024 | archive-url=https://web.archive.org/web/20240113190830/https://www.taipeitimes.com/News/front/archives/2024/01/14/2003812068 | url-status=live }}</ref>",
                       "url": "https://www.taipeitimes.com/News/front/archives/2024/01/14/2003812068",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -215,49 +215,49 @@
                     {
                       "text": "<ref>{{Cite news |date=2022-11-26 |title=Taiwan's President Tsai Ing-wen quits as party chair after local elections |language=en-GB |work=BBC News |url=https://www.bbc.com/news/world-asia-63768538 |access-date=2023-11-10 |archive-date=13 December 2023 |archive-url=https://web.archive.org/web/20231213182728/https://www.bbc.com/news/world-asia-63768538 |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/world-asia-63768538",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Taiwan election: William Lai, labelled a troublemaker by China, leads poll |url=https://www.bbc.co.uk/news/live/world-asia-67954619 |access-date=2024-01-13 |website=BBC News |date=13 January 2024 |language=en-gb |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113114841/https://www.bbc.co.uk/news/live/world-asia-67954619 |url-status=live }}</ref>",
                       "url": "https://www.bbc.co.uk/news/live/world-asia-67954619",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |date=2023-01-16 |title=DPP Picks 'Worker for Taiwanese Independence' as New Leader |language=en |work=Bloomberg.com |url=https://www.bloomberg.com/news/articles/2023-01-16/dpp-picks-worker-for-taiwanese-independence-as-new-leader |access-date=2023-11-10 |archive-date=17 May 2023 |archive-url=https://web.archive.org/web/20230517104718/http://www.bloomberg.com/news/articles/2023-01-16/dpp-picks-worker-for-taiwanese-independence-as-new-leader |url-status=live }}</ref>",
                       "url": "https://www.bloomberg.com/news/articles/2023-01-16/dpp-picks-worker-for-taiwanese-independence-as-new-leader",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2019-11-17 |title=Tsai-Lai presidential ticket formally formed - Focus Taiwan |url=https://focustaiwan.tw/politics/201911170002 |access-date=2023-11-10 |website=Focus Taiwan - CNA English News |language=en-US |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110074145/https://focustaiwan.tw/politics/201911170002 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/201911170002",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://focustaiwan.tw/politics/202303150012|title=VP Lai runs in DPP primary, vows to safeguard Taiwan amid China threat|agency=Central News Agency|date=15 March 2023|access-date=31 March 2023|archive-date=31 March 2023|archive-url=https://web.archive.org/web/20230331000904/https://focustaiwan.tw/politics/202303150012|url-status=live}}</ref>",
                       "url": "https://focustaiwan.tw/politics/202303150012",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news|url=https://english.ftvnews.com.tw/news/2023317W0AEA|title=Registration for DPP presidential primary closes with Lai Ching-te as sole registrant|work=FTV News|date=17 March 2023|access-date=31 March 2023|archive-date=20 March 2023|archive-url=https://web.archive.org/web/20230320053218/https://english.ftvnews.com.tw/news/2023317W0AEA|url-status=live}}</ref>",
                       "url": "https://english.ftvnews.com.tw/news/2023317W0AEA",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Teng |first1=Pei-ju |title=Election 2024/VP Lai picked as DPP's candidate for 2024 presidential election |url=https://focustaiwan.tw/politics/202304120011 |access-date=18 June 2023 |agency=Central News Agency |date=12 April 2023 |archive-date=24 May 2023 |archive-url=https://web.archive.org/web/20230524014112/https://focustaiwan.tw/politics/202304120011 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202304120011",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -270,29 +270,29 @@
                     {
                       "text": "<ref>{{Cite web |date=2023-11-01 |title=Lai says Taiwan's U.S. envoy tops his list of potential running mates - Focus Taiwan |url=https://focustaiwan.tw/politics/202311010005 |access-date=2023-11-10 |website=Focus Taiwan - CNA English News |language=en-US |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110074145/https://focustaiwan.tw/politics/202311010005 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202311010005",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |last=中央通訊社 |date=2023-11-20 |title=蕭美琴請辭駐美代表 投入2024大選 |language=zh-Hant-TW |url=https://www.cna.com.tw/news/aipl/202311205002.aspx |access-date=2023-11-20 |archive-date=20 November 2023 |archive-url=https://web.archive.org/web/20231120032103/https://www.cna.com.tw/news/aipl/202311205002.aspx |url-status=live }}</ref>",
                       "url": "https://www.cna.com.tw/news/aipl/202311205002.aspx",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |title=William Lai names Taiwan's former US envoy as election running mate |language=en |url=https://www.aljazeera.com/news/2023/11/20/william-lai-names-taiwans-former-us-envoy-as-election-running-mate |access-date=2023-11-20 |archive-date=20 November 2023 |archive-url=https://web.archive.org/web/20231120110030/https://www.aljazeera.com/news/2023/11/20/william-lai-names-taiwans-former-us-envoy-as-election-running-mate |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2023/11/20/william-lai-names-taiwans-former-us-envoy-as-election-running-mate",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |date=2023-11-22 |title=Taiwan ruling party powers ahead as chaos engulfs opposition campaign |language=en |work=Reuters |url=https://www.reuters.com/world/asia-pacific/taiwan-ruling-party-powers-ahead-with-opposition-mired-bitter-dispute-2023-11-22/ |access-date=2023-12-10 |archive-date=10 December 2023 |archive-url=https://web.archive.org/web/20231210230800/https://www.reuters.com/world/asia-pacific/taiwan-ruling-party-powers-ahead-with-opposition-mired-bitter-dispute-2023-11-22/ |url-status=live }}</ref>",
                       "url": "https://www.reuters.com/world/asia-pacific/taiwan-ruling-party-powers-ahead-with-opposition-mired-bitter-dispute-2023-11-22/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "news"
                     }
                   ]
@@ -323,21 +323,21 @@
                     {
                       "text": "<ref>{{cite news |last1=Shih |first1=Hsiu-chuan |title=Election 2024/New Taipei Mayor Hou Yu-ih named as KMT presidential nominee |url=https://focustaiwan.tw/politics/202305170007 |access-date=18 June 2023 |agency=Central News Agency |date=17 May 2023 |archive-date=3 October 2023 |archive-url=https://web.archive.org/web/20231003145544/https://focustaiwan.tw/politics/202305170007 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202305170007",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2023-08-28 |title=Terry Gou's decision to run for president 'deeply regrettable': KMT - Focus Taiwan |url=https://focustaiwan.tw/politics/202308280005 |access-date=2023-11-08 |website=Focus Taiwan - CNA English News |language=en-US |archive-date=29 August 2023 |archive-url=https://web.archive.org/web/20230829071707/https://focustaiwan.tw/politics/202308280005 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202308280005",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Hsiao |first1=Alison |title=ELECTION 2024/KMT names media personality Jaw Shau-kong as Hou's running mate |url=https://focustaiwan.tw/politics/202311240007 |access-date=24 November 2023 |agency=Central News Agency |date=24 November 2023 |archive-date=24 November 2023 |archive-url=https://web.archive.org/web/20231124040527/https://focustaiwan.tw/politics/202311240007 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202311240007",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -369,21 +369,21 @@
                     {
                       "text": "<ref>{{cite news |last1=Kuo |first1=Chien-ta |last2=Wang |first2=Hung-kuo |last3=Ko |first3=Lin |title=Election 2024/Ko Wen-je registers for TPP presidential primary |url=https://focustaiwan.tw/politics/202305080019 |access-date=18 June 2023 |agency=Central News Agency |date=8 May 2023 |archive-date=18 June 2023 |archive-url=https://web.archive.org/web/20230618010303/https://focustaiwan.tw/politics/202305080019 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202305080019",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Lin |first1=Sean |last2=Kuo |first2=Chien-shen |title=Election 2024/TPP formally nominates Ko as its presidential candidate |url=https://focustaiwan.tw/politics/202305170008 |access-date=18 June 2023 |date=17 May 2023 |archive-date=18 June 2023 |archive-url=https://web.archive.org/web/20230618005625/https://focustaiwan.tw/politics/202305170008 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202305170008",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |first1=Sean |last1=Lin |title=ELECTION 2024/TPP's Ko registers presidential candidacy, names lawmaker Wu as running mate |url=https://focustaiwan.tw/politics/202311240006 |access-date=24 November 2023 |agency=Central News Agency |date=24 November 2023 |archive-date=24 November 2023 |archive-url=https://web.archive.org/web/20231124041155/https://focustaiwan.tw/politics/202311240006 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202311240006",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -415,7 +415,7 @@
                     {
                       "text": "<ref name=\"auto\">{{Cite web |date=2023-09-14 |title=Presidential aspirant Terry Gou announces running mate |url=https://focustaiwan.tw/politics/202309140002 |url-status=live |archive-url=https://web.archive.org/web/20231110082155/https://focustaiwan.tw/politics/202309140002 |archive-date=10 November 2023 |access-date=2023-11-10 |website=Focus Taiwan |language=en-US}}</ref>",
                       "url": "https://focustaiwan.tw/politics/202309140002",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -440,84 +440,84 @@
                             {
                               "text": "<ref>{{Cite news |last1=Blanchard |first1=Ben |last2=Lee |first2=Yimou |last3=Lee |first3=Yimou |date=2023-08-28 |title=Foxconn founder Terry Gou announces run for Taiwan presidency |language=en |work=Reuters |url=https://www.reuters.com/world/asia-pacific/foxconn-founder-terry-gou-announces-run-taiwan-presidency-2023-08-28/ |access-date=2023-11-10 |archive-date=7 November 2023 |archive-url=https://web.archive.org/web/20231107061510/https://www.reuters.com/world/asia-pacific/foxconn-founder-terry-gou-announces-run-taiwan-presidency-2023-08-28/ |url-status=live }}</ref>",
                               "url": "https://www.reuters.com/world/asia-pacific/foxconn-founder-terry-gou-announces-run-taiwan-presidency-2023-08-28/",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 401,
+                              "reason": "HTTP Forbidden",
                               "type": "news"
                             },
                             {
                               "text": "<ref>{{Cite web |date=2023-08-28 |title=Terry Gou's decision to run for president 'deeply regrettable': KMT - Focus Taiwan |url=https://focustaiwan.tw/politics/202308280005 |access-date=2023-11-10 |website=Focus Taiwan - CNA English News |language=en-US |archive-date=29 August 2023 |archive-url=https://web.archive.org/web/20230829071707/https://focustaiwan.tw/politics/202308280005 |url-status=live }}</ref>",
                               "url": "https://focustaiwan.tw/politics/202308280005",
-                              "status_code": null,
+                              "status_code": 200,
                               "reason": null,
                               "type": "web"
                             },
                             {
                               "text": "<ref>{{Cite news |last1=Blanchard |first1=Ben |last2=Lee |first2=Yimou |last3=Lee |first3=Yimou |date=2023-10-24 |title=Taiwan frontrunner assails China as Foxconn probe becomes election issue |language=en |work=Reuters |url=https://www.reuters.com/technology/taiwan-presidential-frontrunner-lambastes-china-over-foxconn-probe-2023-10-24/ |access-date=2023-11-10 |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110082154/https://www.reuters.com/technology/taiwan-presidential-frontrunner-lambastes-china-over-foxconn-probe-2023-10-24/ |url-status=live }}</ref>",
                               "url": "https://www.reuters.com/technology/taiwan-presidential-frontrunner-lambastes-china-over-foxconn-probe-2023-10-24/",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 401,
+                              "reason": "HTTP Forbidden",
                               "type": "news"
                             },
                             {
                               "text": "<ref>{{Cite news |date=2023-09-14 |title=Taiwan election: Foxconn founder Terry Gou picks Netflix actress as running mate |language=en-GB |work=BBC News |url=https://www.bbc.com/news/world-asia-66806123 |access-date=2023-11-10 |archive-date=5 November 2023 |archive-url=https://web.archive.org/web/20231105183320/https://www.bbc.com/news/world-asia-66806123 |url-status=live }}</ref>",
                               "url": "https://www.bbc.com/news/world-asia-66806123",
-                              "status_code": null,
+                              "status_code": 200,
                               "reason": null,
                               "type": "news"
                             },
                             {
                               "text": "<ref>{{Cite news |date=2023-09-14 |title=Foxconn Founder Taps Netflix Star as Running Mate in Taiwan Vote |language=en |work=Bloomberg.com |url=https://www.bloomberg.com/news/articles/2023-09-14/foxconn-founder-gou-picks-actress-as-running-mate-in-taiwan-election |access-date=2023-11-10 |archive-date=15 January 2024 |archive-url=https://web.archive.org/web/20240115153827/https://www.bloomberg.com/news/articles/2023-09-14/foxconn-founder-gou-picks-actress-as-running-mate-in-taiwan-election |url-status=live }}</ref>",
                               "url": "https://www.bloomberg.com/news/articles/2023-09-14/foxconn-founder-gou-picks-actress-as-running-mate-in-taiwan-election",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 403,
+                              "reason": "Forbidden",
                               "type": "news"
                             },
                             {
                               "text": "<ref>{{Cite web |date=2023-10-24 |title=Seven suspected of crimes connected to Gou signature drive |url=https://www.taipeitimes.com/News/front/archives/2023/10/24/2003808134 |access-date=2023-11-10 |website=Taipei Times |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110082154/https://www.taipeitimes.com/News/front/archives/2023/10/24/2003808134 |url-status=live }}</ref>",
                               "url": "https://www.taipeitimes.com/News/front/archives/2023/10/24/2003808134",
-                              "status_code": null,
+                              "status_code": 200,
                               "reason": null,
                               "type": "web"
                             },
                             {
                               "text": "<ref>{{Cite web |date=2023-11-08 |title=Taiwan prosecutors log at least 20 investigations into Terry Gou campaign |url=https://www.taiwannews.com.tw/en/news/5035937 |url-status=live |archive-url=https://web.archive.org/web/20231110082156/https://www.taiwannews.com.tw/en/news/5035937 |archive-date=10 November 2023 |access-date=2023-11-10 |website=Taiwan News}}</ref>",
                               "url": "https://www.taiwannews.com.tw/en/news/5035937",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 403,
+                              "reason": "Forbidden",
                               "type": "web"
                             },
                             {
                               "text": "<ref name=\"auto\"/> Gou denied these allegations, and claimed that individuals who were buying signatures were acting on their own accord and were not part of his official campaign. Gou submitted his signatures on 1 November 2023.<ref>{{Cite web |date=2023-11-02 |title=Independent presidential hopeful submits 1 million petition signatures - Focus Taiwan |url=https://focustaiwan.tw/politics/202311020013 |access-date=2023-11-10 |website=Focus Taiwan - CNA English News |language=en-US |archive-date=6 November 2023 |archive-url=https://web.archive.org/web/20231106082312/https://focustaiwan.tw/politics/202311020013 |url-status=live }}</ref>",
                               "url": "https://focustaiwan.tw/politics/202311020013",
-                              "status_code": null,
+                              "status_code": 200,
                               "reason": null,
                               "type": "web"
                             },
                             {
                               "text": "<ref>{{Cite news |last1=Kao |first1=Jeanny |last2=Lee |first2=Yimou |last3=Lee |first3=Yimou |date=2023-11-14 |title=Foxconn founder Terry Gou qualifies to run for Taiwan president |language=en |work=Reuters |url=https://www.reuters.com/world/asia-pacific/foxconn-founder-terry-gou-qualifies-run-taiwan-president-2023-11-14/ |access-date=2023-11-15 |archive-date=15 November 2023 |archive-url=https://web.archive.org/web/20231115050740/https://www.reuters.com/world/asia-pacific/foxconn-founder-terry-gou-qualifies-run-taiwan-president-2023-11-14/ |url-status=live }}</ref>",
                               "url": "https://www.reuters.com/world/asia-pacific/foxconn-founder-terry-gou-qualifies-run-taiwan-president-2023-11-14/",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 401,
+                              "reason": "HTTP Forbidden",
                               "type": "news"
                             },
                             {
                               "text": "<ref name=\"Gou dropout\">{{cite news |last1=Teng |first1=Pei-ju |date=24 November 2023 |title=ELECTION 2024/Business tycoon Terry Gou drops out of presidential race |url=https://focustaiwan.tw/politics/202311240013 |access-date=24 November 2023 |agency=Central News Agency |archive-date=24 November 2023 |archive-url=https://web.archive.org/web/20231124072715/https://focustaiwan.tw/politics/202311240013 |url-status=live }}</ref>",
                               "url": "https://focustaiwan.tw/politics/202311240013",
-                              "status_code": null,
+                              "status_code": 200,
                               "reason": null,
                               "type": "news"
                             },
                             {
                               "text": "<ref>{{Cite news |date=2023-11-24 |title=Foxconn Founder Gou Set to Drop Out of Taiwan Presidential Race |language=en |work=Bloomberg.com |url=https://www.bloomberg.com/news/articles/2023-11-24/terry-gou-set-to-quit-taiwan-presidential-race-people-say |access-date=2023-12-10 |archive-date=24 November 2023 |archive-url=https://web.archive.org/web/20231124060832/https://www.bloomberg.com/news/articles/2023-11-24/terry-gou-set-to-quit-taiwan-presidential-race-people-say |url-status=live }}</ref>",
                               "url": "https://www.bloomberg.com/news/articles/2023-11-24/terry-gou-set-to-quit-taiwan-presidential-race-people-say",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 403,
+                              "reason": "Forbidden",
                               "type": "news"
                             },
                             {
                               "text": "<ref>{{Cite web |last=自由時報電子報 |date=2023-11-24 |title=「人退、志不退」 郭台銘發表退選聲明 - 政治 - 自由時報電子報 |url=https://news.ltn.com.tw/news/politics/breakingnews/4500306 |access-date=2023-12-10 |website=news.ltn.com.tw |language=zh-Hant-TW |archive-date=24 November 2023 |archive-url=https://web.archive.org/web/20231124073445/https://news.ltn.com.tw/news/politics/breakingnews/4500306 |url-status=live }}</ref>",
                               "url": "https://news.ltn.com.tw/news/politics/breakingnews/4500306",
-                              "status_code": null,
+                              "status_code": 200,
                               "reason": null,
                               "type": "web"
                             }
@@ -540,8 +540,8 @@
                             {
                               "text": "<ref>{{Cite web |title=Former Control Yuan chief announces bid for Taiwan presidency |date=2023-03-29 |url=https://www.taiwannews.com.tw/en/news/4850424 |access-date=2023-11-10 |website=Taiwan News |archive-date=8 December 2023 |archive-url=https://web.archive.org/web/20231208045132/https://www.taiwannews.com.tw/en/news/4850424 |url-status=live }}</ref>",
                               "url": "https://www.taiwannews.com.tw/en/news/4850424",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 403,
+                              "reason": "Forbidden",
                               "type": "web"
                             }
                           ]
@@ -565,7 +565,7 @@
                         {
                           "text": "<ref>{{cite news |last1=Lin |first1=Sean |title=Election 2024/Terry Gou officially qualifies for presidential election |url=https://focustaiwan.tw/politics/202311140019 |access-date=15 November 2023 |agency=Central News Agency |date=14 November 2023 |archive-date=15 November 2023 |archive-url=https://web.archive.org/web/20231115020100/https://focustaiwan.tw/politics/202311140019 |url-status=live }} Republished as: {{cite news |title=Hon Hai founder Terry Gou qualifies to run for president |url=https://www.taipeitimes.com/News/taiwan/archives/2023/11/15/2003809201 |access-date=15 November 2023 |work=Taipei Times |date=15 November 2023 |archive-date=15 November 2023 |archive-url=https://web.archive.org/web/20231115051516/https://www.taipeitimes.com/News/taiwan/archives/2023/11/15/2003809201 |url-status=live }}</ref>",
                           "url": "https://focustaiwan.tw/politics/202311140019",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -592,42 +592,42 @@
                 {
                   "text": "<ref name=\"auto1\">{{Cite web |date=2023-11-07 |title=Presidential candidate choice 'only hurdle' left for joint ticket: Ko - Focus Taiwan |url=https://focustaiwan.tw/politics/202311070024 |access-date=2023-11-10 |website=Focus Taiwan - CNA English News |language=en-US |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110090910/https://focustaiwan.tw/politics/202311070024 |url-status=live }}</ref>",
                   "url": "https://focustaiwan.tw/politics/202311070024",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Taiwan presidential contender Lai takes big lead in opinion polls |url=https://asia.nikkei.com/Politics/Taiwan-presidential-contender-Lai-takes-big-lead-in-opinion-polls |access-date=2023-11-10 |website=Nikkei Asia |language=en-GB |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110032223/https://asia.nikkei.com/Politics/Taiwan-presidential-contender-Lai-takes-big-lead-in-opinion-polls |url-status=live }}</ref>",
                   "url": "https://asia.nikkei.com/Politics/Taiwan-presidential-contender-Lai-takes-big-lead-in-opinion-polls",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2023-08-12 |title=Taiwan's vice president leaves on Paraguay trip amid Chinese efforts to isolate the island |url=https://apnews.com/article/taiwan-paraguay-china-william-lai-7b3d148682afde782f5bd9351fa8054d |access-date=2023-11-10 |website=AP News |language=en |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110090914/https://apnews.com/article/taiwan-paraguay-china-william-lai-7b3d148682afde782f5bd9351fa8054d |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/taiwan-paraguay-china-william-lai-7b3d148682afde782f5bd9351fa8054d",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2023-08-18 |title=VP Lai returns to Taiwan after visits to U.S., Paraguay - Focus Taiwan |url=https://focustaiwan.tw/politics/202308180005 |access-date=2023-11-10 |website=Focus Taiwan - CNA English News |language=en-US |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110090916/https://focustaiwan.tw/politics/202308180005 |url-status=live }}</ref>",
                   "url": "https://focustaiwan.tw/politics/202308180005",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=He |first=Laura |date=2023-10-23 |title=Apple iPhone maker Foxconn being investigated in China as founder runs for Taiwan presidency |url=https://www.cnn.com/2023/10/23/economy/china-foxconn-investigation-taiwan-presidency-intl-hnk/index.html |access-date=2023-11-10 |website=CNN |language=en |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110090910/https://www.cnn.com/2023/10/23/economy/china-foxconn-investigation-taiwan-presidency-intl-hnk/index.html |url-status=live }}</ref>",
-                  "url": "https://www.cnn.com/2023/10/23/economy/china-foxconn-investigation-taiwan-presidency-intl-hnk/index.html",
-                  "status_code": null,
+                  "url": "https://edition.cnn.com/2023/10/23/economy/china-foxconn-investigation-taiwan-presidency-intl-hnk/index.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"auto3\">{{Cite web |last=Keating |first=Joshua |date=2024-01-06 |title=Why Taiwan is 2024's first big election to watch |url=https://www.vox.com/world-politics/2024/1/6/24026992/taiwan-china-president-war-xi-jinping-asia-semiconductors-chips |access-date=2024-01-13 |website=Vox |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113051845/https://www.vox.com/world-politics/2024/1/6/24026992/taiwan-china-president-war-xi-jinping-asia-semiconductors-chips |url-status=live }}</ref>",
                   "url": "https://www.vox.com/world-politics/2024/1/6/24026992/taiwan-china-president-war-xi-jinping-asia-semiconductors-chips",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -640,28 +640,28 @@
                 {
                   "text": "<ref name=\":2\">{{Cite web |date=2023-11-27 |title=Lai, Hsiao hold first campaign rally together |url=https://www.taipeitimes.com/News/taiwan/archives/2023/11/27/2003809772 |url-status=live |archive-url=https://web.archive.org/web/20240113051845/https://www.taipeitimes.com/News/taiwan/archives/2023/11/27/2003809772 |archive-date=13 January 2024 |access-date=2024-01-13 |website=Taipei Times}}</ref>",
                   "url": "https://www.taipeitimes.com/News/taiwan/archives/2023/11/27/2003809772",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Instagram |url=https://www.instagram.com/p/Cz5_wKthaax/?hl=en |access-date=2023-12-10 |website=Instagram}}</ref>",
                   "url": "https://www.instagram.com/p/Cz5_wKthaax/?hl=en",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Teng Pei-ju |date=2023-12-19 |title=Academics mobilize in support of DPP presidential ticket |url=https://focustaiwan.tw/politics/202312190024 |url-status=live |archive-url=https://web.archive.org/web/20231228163646/https://focustaiwan.tw/politics/202312190024 |archive-date=28 December 2023 |access-date=2024-01-13 |website=Focus Taiwan |language=en-US}}</ref>",
                   "url": "https://focustaiwan.tw/politics/202312190024",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":2\" /> As usual, temples were visited by party candidates so as to interact with voters.<ref>{{Citation |title=Health Care, Mental Health and Energy on Taiwan's Presidential Campaign Trail |work=TaiwanPlus |date=5 December 2023 |url=https://www.youtube.com/watch?v=pUG-HZiwuI0 |access-date=2024-01-13 |archive-url=https://web.archive.org/web/20240113052202/https://www.youtube.com/watch?v=pUG-HZiwuI0 |archive-date=13 January 2024 |url-status=live |language=en}}</ref>",
                   "url": "https://www.youtube.com/watch?v=pUG-HZiwuI0",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": null
                 }
@@ -677,91 +677,84 @@
               "sentences": [
                 {
                   "id": "4.2.s1",
-                  "text": "In late 2023, talks of a possible joint ticket between the KMT and TPP began. It was initially unclear if the KMT's Hou Yu-ih and the TPP's Ko Wen-je would join as a ticket, let alone who would be the nominee for president and vice president once a joint ticket was announced.{{failed verification|date=January 2024}} In November, Ko said that deciding who would lead the ticket as the presidential nominee was the 'only hurdle' remaining in forming the ticket. The order of the joint ticket was to be chosen based on opinion polls and publicly announced on 18 November, but the two sides were unable to come to an agreement on that date. On 18 November, the original deal collapsed following a dispute regarding the polling. The KMT and TPP were reportedly unable to come to a consensus surrounding the margins of error. Despite the initial collapse, there were still attempts to form a pan-blue coalition ticket. Terry Gou, who himself had run in the KMT primary, was informally invited to talks as well.''' ''' A televised press conference between Hou You-ih, Ko Wen-je, Terry Gou, as well as Eric Chu and Ma Ying-jeou took place on 23 November. The press conference did not yield any agreement between any of the involved parties, and was described as \"bizarre\". On 24 November, the deadline for candidate registration, each party announced their own vice presidential candidate, eliminating any chance of a pan-blue ticket.",
+                  "text": "In late 2023, talks of a possible joint ticket between the KMT and TPP began. It was initially unclear if the KMT's Hou Yu-ih and the TPP's Ko Wen-je would join as a ticket, let alone who would be the nominee for president and vice president once a joint ticket was announced.{{failed verification|date=January 2024}} In November, Ko said that deciding who would lead the ticket as the presidential nominee was the 'only hurdle' remaining in forming the ticket. The order of the joint ticket was to be chosen based on opinion polls and publicly announced on 18 November, but the two sides were unable to come to an agreement on that date. On 18 November, the original deal collapsed following a dispute regarding the polling. The KMT and TPP were reportedly unable to come to a consensus surrounding the margins of error. Despite the initial collapse, there were still attempts to form a coalition ticket. Terry Gou, who himself had run in the KMT primary, was informally invited to talks as well.''' ''' A televised press conference between Hou You-ih, Ko Wen-je, Terry Gou, as well as Eric Chu and Ma Ying-jeou took place on 23 November. The press conference did not yield any agreement between any of the involved parties, and was described as \"bizarre\". On 24 November, the deadline for candidate registration, each party announced their own vice presidential candidate, eliminating any chance of a joint ticket.<ref name=\":8\" />",
                   "references": [
                     {
                       "text": "<ref>{{Cite web |date=2023-10-13 |title=Opposition considers joint ticket for better chance of winning Taiwan election |url=https://www.scmp.com/news/china/politics/article/3237792/taiwans-kmt-and-tpp-discuss-forming-joint-ticket-presidential-election |access-date=2023-11-10 |website=South China Morning Post |language=en |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110081103/https://www.scmp.com/news/china/politics/article/3237792/taiwans-kmt-and-tpp-discuss-forming-joint-ticket-presidential-election |url-status=live }}</ref>",
                       "url": "https://www.scmp.com/news/china/politics/article/3237792/taiwans-kmt-and-tpp-discuss-forming-joint-ticket-presidential-election",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"auto1\"/> The DPP's Lai stated he would be able to take on the challenge of a joint ticket, and criticized the coalition plans, arguing the two parties do not share enough similarity in ideology.<ref>{{Cite web |date=2023-10-24 |title=Ko slams Hou's urgent call for joint ticket 'forced marriage' - Focus Taiwan |url=https://focustaiwan.tw/politics/202310240021 |access-date=2023-11-10 |website=Focus Taiwan - CNA English News |language=en-US |archive-date=10 November 2023 |archive-url=https://web.archive.org/web/20231110090922/https://focustaiwan.tw/politics/202310240021 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202310240021",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"auto1\"/> On 13 November, the KMT and TPP agreed to use polling to determine the composition of the joint presidential ticket.<ref name=\":0\">{{Cite web |date=2023-11-13 |title=KMT, TPP agree to use polls to determine joint presidential ticket - Focus Taiwan |url=https://focustaiwan.tw/politics/202311130021 |access-date=2023-11-15 |website=Focus Taiwan - CNA English News |language=en-US |archive-date=15 November 2023 |archive-url=https://web.archive.org/web/20231115050741/https://focustaiwan.tw/politics/202311130021 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202311130021",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Election 2024/KMT, TPP to form joint presidential ticket based upon polling results |url=https://focustaiwan.tw/politics/202311150008 |access-date=2023-11-15 |website=Focus Taiwan |date=15 November 2023 |language=en |archive-date=15 November 2023 |archive-url=https://web.archive.org/web/20231115055124/https://focustaiwan.tw/politics/202311150008 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202311150008",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |date=18 November 2023 |title=Election 2024/KMT, TPP back to stalemate on how to form joint presidential ticket |work=Focus Taiwan |url=https://focustaiwan.tw/politics/202311180005 |access-date=18 November 2023 |archive-date=30 November 2023 |archive-url=https://web.archive.org/web/20231130220107/https://focustaiwan.tw/politics/202311180005 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202311180005",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Taiwan's opposition coalition fails to pick candidate amid polling dispute |url=https://www.aljazeera.com/news/2023/11/18/taiwans-opposition-fails-to-agree-on-presidential-poll-results |access-date=2023-12-10 |website=Al Jazeera |language=en |archive-date=10 December 2023 |archive-url=https://web.archive.org/web/20231210233332/https://www.aljazeera.com/news/2023/11/18/taiwans-opposition-fails-to-agree-on-presidential-poll-results |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2023/11/18/taiwans-opposition-fails-to-agree-on-presidential-poll-results",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=黃驛淵 |date=2023-11-17 |title=【獨家】【藍白民調破局1】藍白漏夜交鋒5小時破局 侯營要求「讓6%」柯營氣跳腳 |url=https://www.mirrormedia.mg/story/20231118inv001 |access-date=2023-12-10 |website=鏡週刊 Mirror Media |language=zh-Hant |archive-date=10 December 2023 |archive-url=https://web.archive.org/web/20231210231831/https://www.mirrormedia.mg/story/20231118inv001 |url-status=live }}</ref>",
                       "url": "https://www.mirrormedia.mg/story/20231118inv001",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |last1=Buckley |first1=Chris |last2=Chien |first2=Amy Chang |date=2023-11-24 |title=Taiwan Opposition Cracks Apart, and Invites the Cameras In |language=en-US |work=The New York Times |url=https://www.nytimes.com/2023/11/24/world/asia/taiwan-president-opposition-collapse.html |access-date=2023-12-10 |issn=0362-4331 |archive-date=10 December 2023 |archive-url=https://web.archive.org/web/20231210231830/https://www.nytimes.com/2023/11/24/world/asia/taiwan-president-opposition-collapse.html |url-status=live }}</ref>",
                       "url": "https://www.nytimes.com/2023/11/24/world/asia/taiwan-president-opposition-collapse.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite news |last1=Lee |first1=Yimou |last2=Hamacher |first2=Fabian |last3=Lee |first3=Yimou |date=2023-11-23 |title=Taiwan opposition talks on presidential bid teeter after bitter live TV showdown |language=en |work=Reuters |url=https://www.reuters.com/world/asia-pacific/war-with-china-is-not-an-option-taiwan-ruling-party-vp-candidate-says-2023-11-23/ |access-date=2023-12-10 |archive-date=10 December 2023 |archive-url=https://web.archive.org/web/20231210231830/https://www.reuters.com/world/asia-pacific/war-with-china-is-not-an-option-taiwan-ruling-party-vp-candidate-says-2023-11-23/ |url-status=live }}</ref>",
                       "url": "https://www.reuters.com/world/asia-pacific/war-with-china-is-not-an-option-taiwan-ruling-party-vp-candidate-says-2023-11-23/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "news"
                     },
                     {
-                      "text": "<ref>{{Cite web |title=How the Taiwan Opposition Alliance Talks Fell Apart |url=https://thediplomat.com/2023/11/how-the-taiwan-opposition-alliance-talks-fell-apart/ |url-status=live |archive-url=https://web.archive.org/web/20240113025313/https://thediplomat.com/2023/11/how-the-taiwan-opposition-alliance-talks-fell-apart/ |archive-date=13 January 2024 |access-date=2024-01-13 |website=The Diplomat (magazine)|The Diplomat |language=en-US}}</ref>",
+                      "text": "<ref>{{Cite web |last=Hioe |first=Brian |title=How the Taiwan Opposition Alliance Talks Fell Apart |url=https://thediplomat.com/2023/11/how-the-taiwan-opposition-alliance-talks-fell-apart/ |url-status=live |archive-url=https://web.archive.org/web/20240113025313/https://thediplomat.com/2023/11/how-the-taiwan-opposition-alliance-talks-fell-apart/ |archive-date=13 January 2024 |access-date=2024-01-13 |website=The Diplomat (magazine)|The Diplomat |language=en-US}}</ref>",
                       "url": "https://thediplomat.com/2023/11/how-the-taiwan-opposition-alliance-talks-fell-apart/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
-                      "text": "<ref>{{Cite web |last=Hioe |first=Brian |date=2023-11-23 |title=Pan-Blue Unity Ticket Dissolves Spectacularly with Televised Spat Between Candidates |url=https://newbloommag.net/2023/11/23/pan-blue-ticket-spat/ |access-date=2023-12-10 |website=New Bloom Magazine |language=en-US |archive-date=10 December 2023 |archive-url=https://web.archive.org/web/20231210231830/https://newbloommag.net/2023/11/23/pan-blue-ticket-spat/ |url-status=live }}</ref>",
-                      "url": "https://newbloommag.net/2023/11/23/pan-blue-ticket-spat/",
-                      "status_code": null,
+                      "text": "<ref name=\":8\">{{Cite news |last=Wingfield-Hayes |first=Rupert |date=2023-11-23 |title=Taiwan's opposition drama ends with no deal |url=https://www.bbc.com/news/world-asia-67471139 |access-date=2025-03-29 |work=BBC}}</ref>",
+                      "url": "https://www.bbc.com/news/world-asia-67471139",
+                      "status_code": 200,
                       "reason": null,
-                      "type": "web"
-                    },
-                    {
-                      "text": "<ref>{{Cite web |last=Hioe |first=Brian |date=2023-11-24 |title=Hou and Ko Register Separate Runs, Gou Withdraws From Election |url=https://newbloommag.net/2023/11/24/hou-ko-gou-final/ |access-date=2023-12-10 |website=New Bloom Magazine |language=en-US |archive-date=10 December 2023 |archive-url=https://web.archive.org/web/20231210231830/https://newbloommag.net/2023/11/24/hou-ko-gou-final/ |url-status=live }}</ref>",
-                      "url": "https://newbloommag.net/2023/11/24/hou-ko-gou-final/",
-                      "status_code": null,
-                      "reason": null,
-                      "type": "web"
+                      "type": "news"
                     }
                   ]
                 }
@@ -789,35 +782,35 @@
                         {
                           "text": "<ref>{{Cite web |date=2023-11-12 |title=Presidential aspirants agree on renewables, diverge on nuclear energy - Focus Taiwan |url=https://focustaiwan.tw/politics/202311120006 |access-date=2024-01-13 |website=Focus Taiwan - CNA English News |language=en-US |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113052202/https://focustaiwan.tw/politics/202311120006 |url-status=live }}</ref>",
                           "url": "https://focustaiwan.tw/politics/202311120006",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"auto5\">{{Citation |title=Health Care, Mental Health and Energy on Taiwan's Presidential Campaign Trail |work=TaiwanPlus News |date=5 December 2023 |url=https://www.youtube.com/watch?v=pUG-HZiwuI0 |access-date=2024-01-13 |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113052202/https://www.youtube.com/watch?v=pUG-HZiwuI0 |url-status=live }}</ref>",
                           "url": "https://www.youtube.com/watch?v=pUG-HZiwuI0",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": null
                         },
                         {
                           "text": "<ref name=\"auto2\">{{Cite news |last1=Hawkins |first1=Amy |last2= |date=2024-01-08 |title=Taiwan election: who are the candidates and what is at stake? |url=https://www.theguardian.com/world/2024/jan/08/taiwan-election-who-candidates-what-stake |access-date=2024-01-13 |work=The Guardian |language=en-GB |issn=0261-3077 |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113054053/https://www.theguardian.com/world/2024/jan/08/taiwan-election-who-candidates-what-stake |url-status=live }}</ref>",
                           "url": "https://www.theguardian.com/world/2024/jan/08/taiwan-election-who-candidates-what-stake",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2023-12-14 |title=DPP's Lai promises to level up salaries in Taiwan - Focus Taiwan |url=https://focustaiwan.tw/politics/202312140006 |access-date=2024-01-13 |website=Focus Taiwan - CNA English News |language=en-US |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113055105/https://focustaiwan.tw/politics/202312140006 |url-status=live }}</ref>",
                           "url": "https://focustaiwan.tw/politics/202312140006",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2023-10-04 |title=William Lai vows to expand financial support to start-ups |url=https://www.taipeitimes.com/News/taiwan/archives/2023/10/04/2003807194 |access-date=2024-01-13 |website=Taipei Times |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113055105/https://www.taipeitimes.com/News/taiwan/archives/2023/10/04/2003807194 |url-status=live }}</ref>",
                           "url": "https://www.taipeitimes.com/News/taiwan/archives/2023/10/04/2003807194",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -840,35 +833,35 @@
                         {
                           "text": "<ref>{{Cite web |date=2023-12-26 |title=Civic groups pan parties' responses to gender-equality questionnaire - Focus Taiwan |url=https://focustaiwan.tw/politics/202312260011 |access-date=2024-01-13 |website=Focus Taiwan - CNA English News |language=en-US |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113052549/https://focustaiwan.tw/politics/202312260011 |url-status=live }}</ref>",
                           "url": "https://focustaiwan.tw/politics/202312260011",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2023-10-30 |title=Taiwan presidential frontrunner marches in LGBTQ+ Pride parade |url=https://www.taiwannews.com.tw/en/news/5029957 |access-date=2024-01-13 |website=Taiwan News |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113052549/https://www.taiwannews.com.tw/en/news/5029957 |url-status=live }}</ref>",
                           "url": "https://www.taiwannews.com.tw/en/news/5029957",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Hioe |first=Brian |date=2021-03-26 |title=Taiwan People's Party Comes Under Fire for Ties to Anti-Gay Group |url=https://newbloommag.net/2021/03/26/tpp-anti-gay-gtspa/ |access-date=2024-01-13 |website=New Bloom Magazine |language=en-US |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113052550/https://newbloommag.net/2021/03/26/tpp-anti-gay-gtspa/ |url-status=live }}</ref>",
                           "url": "https://newbloommag.net/2021/03/26/tpp-anti-gay-gtspa/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Citation |title=Two Presidential Hopefuls Pledge Support for Sexual Diversity |work=TaiwanPlus News |date=13 December 2023 |url=https://www.youtube.com/watch?v=JbAGtnedjV4 |access-date=2024-01-13 |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113052550/https://www.youtube.com/watch?v=JbAGtnedjV4 |url-status=live }}</ref>",
                           "url": "https://www.youtube.com/watch?v=JbAGtnedjV4",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": null
                         },
                         {
                           "text": "<ref>{{Cite web |last=Hioe |first=Brian |date=2024-01-11 |title=Hou Seeks to Attack Lai Over Capital Punishment |url=https://newbloommag.net/2024/01/11/hou-lai-capital-punishment/ |access-date=2024-01-13 |website=New Bloom Magazine |language=en-US |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113052549/https://newbloommag.net/2024/01/11/hou-lai-capital-punishment/ |url-status=live }}</ref>",
                           "url": "https://newbloommag.net/2024/01/11/hou-lai-capital-punishment/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -891,49 +884,49 @@
                         {
                           "text": "<ref>{{Cite news |title=中共二十大：「反台獨」寫入黨章後台灣是否「更危險」？ |url=https://www.bbc.com/zhongwen/trad/chinese-news-63382267 |access-date=2024-01-13 |work=BBC News 中文 |language=zh-hant |archive-date=6 November 2022 |archive-url=https://web.archive.org/web/20221106131631/https://www.bbc.com/zhongwen/trad/chinese-news-63382267 |url-status=live }}</ref>",
                           "url": "https://www.bbc.com/zhongwen/trad/chinese-news-63382267",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{Cite web |last1=Qin |first1=Amy |last2=Chien |first2=Amy Chang |date=2022-04-28 |title=「今日烏克蘭，明日台灣」？俄烏局勢帶給台灣人的啟示 |url=https://cn.nytimes.com/asia-pacific/20220302/ukraine-taiwan-china-russia/zh-hant/ |url-status=live |archive-url=https://web.archive.org/web/20230517025447/https://cn.nytimes.com/asia-pacific/20220302/ukraine-taiwan-china-russia/zh-hant/ |archive-date=17 May 2023 |access-date=2024-01-13 |website=The New York Times |language=zh-cmn-hant}}</ref>",
                           "url": "https://cn.nytimes.com/asia-pacific/20220302/ukraine-taiwan-china-russia/zh-hant/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=Gazis |first=Olivia |date=2023-02-03 |title=CIA Director William Burns: \"I wouldn't underestimate\" Xi's ambitions for Taiwan |url=https://www.cbsnews.com/news/cia-director-william-burns-i-wouldnt-underestimate-xis-ambitions-for-taiwan/ |url-status=live |archive-url=https://web.archive.org/web/20240113053334/https://www.cbsnews.com/news/cia-director-william-burns-i-wouldnt-underestimate-xis-ambitions-for-taiwan/ |archive-date=13 January 2024 |access-date=2024-01-13 |website=CBS News |language=en-US}}</ref>",
                           "url": "https://www.cbsnews.com/news/cia-director-william-burns-i-wouldnt-underestimate-xis-ambitions-for-taiwan/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=中央通訊社 |date=2023-04-06 |title=蔡麥歷史會晤 蔡英文感謝美支持、麥卡錫稱台美友誼是和平關鍵 {{!}} 政治 |url=https://www.cna.com.tw/news/aipl/202304060019.aspx |url-status=live |archive-url=https://web.archive.org/web/20230422182558/https://www.cna.com.tw/news/aipl/202304060019.aspx |archive-date=22 April 2023 |access-date=2024-01-13 |website=Central News Agency (Taiwan) |language=zh-Hant-TW}}</ref>",
                           "url": "https://www.cna.com.tw/news/aipl/202304060019.aspx",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2023-12-07 |title=KMT presidential nominee Hou pledges better ties with both U.S., China - Focus Taiwan |url=https://focustaiwan.tw/politics/202312070015 |access-date=2024-01-13 |website=Focus Taiwan - CNA English News |language=en-US |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113053335/https://focustaiwan.tw/politics/202312070015 |url-status=live }}</ref>",
                           "url": "https://focustaiwan.tw/politics/202312070015",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\":4\">{{Cite news |date=2023-08-15 |title=Can Taiwan's Next Leader Keep the Peace? |url=https://www.bloomberg.com/news/newsletters/2023-08-15/taiwan-vice-president-lai-ching-te-on-the-status-quo-with-china |access-date=2024-01-13 |work=Bloomberg.com |language=en |archive-date=6 September 2023 |archive-url=https://web.archive.org/web/20230906114456/https://www.bloomberg.com/news/newsletters/2023-08-15/taiwan-vice-president-lai-ching-te-on-the-status-quo-with-china |url-status=live }}</ref>",
                           "url": "https://www.bloomberg.com/news/newsletters/2023-08-15/taiwan-vice-president-lai-ching-te-on-the-status-quo-with-china",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref name=\":5\">{{Cite magazine |date=2023-11-21 |title=Taiwan's Presidential Frontrunner Faces a Balancing Act With China |url=https://time.com/6336441/taiwan-presidental-election-william-lai-profile/ |url-status=live |archive-url=https://web.archive.org/web/20240113133524/https://time.com/6336441/taiwan-presidental-election-william-lai-profile/ |archive-date=13 January 2024 |access-date=2024-01-13 |magazine=Time (magazine)|Time |language=en}}</ref>",
                           "url": "https://time.com/6336441/taiwan-presidental-election-william-lai-profile/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "magazine"
                         }
@@ -946,29 +939,29 @@
                         {
                           "text": "<ref>{{Cite web |date=25 August 2023 |title=Presidential hopeful Lai says Taiwan's sovereignty is 'a fact' |url=https://www.aljazeera.com/news/2023/8/25/taiwan-vice-president-emphasises-islands-autonomy |url-status=live |archive-url=https://web.archive.org/web/20240113054053/https://www.aljazeera.com/news/2023/8/25/taiwan-vice-president-emphasises-islands-autonomy |archive-date=13 January 2024 |access-date=2024-01-13 |website=Al Jazeera |language=en}}</ref>",
                           "url": "https://www.aljazeera.com/news/2023/8/25/taiwan-vice-president-emphasises-islands-autonomy",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"auto2\"/> Lai's past self-identification as a \"worker for Taiwanese independence\" led to criticism from both Hou and Ko; Lai argued that Taiwan is a sovereign nation under the name the Republic of China.<ref name=\"auto3\"/> Lai accused the opposition of befriending the Chinese Communist Party instead of countering them.<ref name=\"auto3\"/> China's Taiwan Affairs Council described the DPP ticket as a \"separatist duo\". TPP candidate Ko stated that Taiwan should be a bridge between the US and China, rather than what he described as a pawn. Outgoing President Tsai of the DPP highlighted China's one country two systems doctrine with Hong Kong as an example of what could happen if Taiwan were to reunify with mainland China. Polls showed most Taiwanese preferred the status quo.<ref>{{Citation |title=Why Taiwan's election matters to the world | date=5 January 2024 |url=https://www.youtube.com/watch?v=grwffyDS7yE |access-date=2024-01-13 |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113054053/https://www.youtube.com/watch?v=grwffyDS7yE |url-status=live }}</ref>",
                           "url": "https://www.youtube.com/watch?v=grwffyDS7yE",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": null
                         },
                         {
                           "text": "<ref>{{Cite web |date=2024-01-11 |title=Lai Ching-te warns against former Taiwan president's trust in Beijing |url=https://www.taiwannews.com.tw/en/news/5076150 |url-status=live |archive-url=https://web.archive.org/web/20240113054054/https://www.taiwannews.com.tw/en/news/5076150 |archive-date=13 January 2024 |access-date=2024-01-13 |website=Taiwan News}}</ref>",
                           "url": "https://www.taiwannews.com.tw/en/news/5076150",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |date=2023-12-04 |title=Tsai tells Taiwanese voters to think about Hong Kong's fate |url=https://www.taiwannews.com.tw/en/news/5051968 |url-status=live |archive-url=https://web.archive.org/web/20240113054053/https://www.taiwannews.com.tw/en/news/5051968 |archive-date=13 January 2024 |access-date=2024-01-13 |website=Taiwan News}}</ref>",
                           "url": "https://www.taiwannews.com.tw/en/news/5051968",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         }
                       ]
@@ -980,14 +973,14 @@
                         {
                           "text": "<ref>{{Cite news |date=2023-09-28 |title=Haikun: Taiwan unveils new submarine to fend off China |url=https://www.bbc.com/news/world-asia-66932808 |access-date=2024-01-13 |language=en-GB |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113160255/https://www.bbc.com/news/world-asia-66932808 |url-status=live }}</ref>",
                           "url": "https://www.bbc.com/news/world-asia-66932808",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref name=\":4\" /> In October, Lai said that Taiwan's armed forces must be able to safeguard the country.<ref name=\":5\" /> The Chinese government sanctioned five American-based companies for their sale of arms to Taiwan's military one week before the election.<ref>{{Cite web |date=2024-01-07 |title=China sanctions 5 US defense companies in response to US sanctions and arms sales to Taiwan |url=https://apnews.com/article/china-us-taiwan-sanctions-arms-sales-a2cc4dd00ad8982aa1c67594e1a1c19c |access-date=2024-01-13 |website=AP News |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113054726/https://apnews.com/article/china-us-taiwan-sanctions-arms-sales-a2cc4dd00ad8982aa1c67594e1a1c19c |url-status=live }}</ref>",
                           "url": "https://apnews.com/article/china-us-taiwan-sanctions-arms-sales-a2cc4dd00ad8982aa1c67594e1a1c19c",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         }
@@ -1012,14 +1005,14 @@
                     {
                       "text": "<ref name=\":6\">{{Cite web |last=Keoni Everington |date=2024-01-12 |title=Over 200 arrested for Chinese interference in Taiwan's elections |url=https://www.taiwannews.com.tw/en/news/5076809 |url-status=live |archive-url=https://web.archive.org/web/20240113091331/https://www.taiwannews.com.tw/en/news/5076809 |archive-date=13 January 2024 |access-date=2024-01-13 |website=Taiwan News}}</ref>",
                       "url": "https://www.taiwannews.com.tw/en/news/5076809",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2023-12-15 |title=Forty detained over voting interference |url=https://www.taipeitimes.com/News/front/archives/2023/12/15/2003810648 |access-date=2024-01-14 |website=Taipei Times |archive-date=15 December 2023 |archive-url=https://web.archive.org/web/20231215021030/https://www.taipeitimes.com/News/front/archives/2023/12/15/2003810648 |url-status=live }}</ref>",
                       "url": "https://www.taipeitimes.com/News/front/archives/2023/12/15/2003810648",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1040,21 +1033,21 @@
                         {
                           "text": "<ref name=\":6\" /> Ten Taiwanese soldiers were allegedly paid by China to make surrender videos, and one of them was reportedly offered millions to defect in a military helicopter.<ref name=\":3\">{{Cite web |last=Hioe |first=Brian |date=2024-01-05 |title=Taiwan confronts China's disinformation behemoth ahead of vote |url=https://www.codastory.com/authoritarian-tech/taiwan-election-disinformation-china/ |access-date=2024-01-14 |website=Coda Story |language=en-US |archive-date=14 January 2024 |archive-url=https://web.archive.org/web/20240114032934/https://www.codastory.com/authoritarian-tech/taiwan-election-disinformation-china/ |url-status=live }}</ref>",
                           "url": "https://www.codastory.com/authoritarian-tech/taiwan-election-disinformation-china/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite web |last=William Yang |date=2023-12-12 |title=China Ramps Up Efforts to Interfere in Taiwan's Coming Elections |url=https://www.voanews.com/a/china-ramps-up-efforts-to-interfere-in-taiwan-s-coming-elections/7395061.html |url-status=live |archive-url=https://web.archive.org/web/20240113091332/https://www.voanews.com/a/china-ramps-up-efforts-to-interfere-in-taiwan-s-coming-elections/7395061.html |archive-date=13 January 2024 |access-date=2024-01-13 |website=Voice of America |language=en}}</ref>",
                           "url": "https://www.voanews.com/a/china-ramps-up-efforts-to-interfere-in-taiwan-s-coming-elections/7395061.html",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{Cite news |last=Tessa Wong |date=2024-01-07 |title=Taiwan election: China sows doubt about US with disinformation |url=https://www.bbc.com/news/world-asia-67891869 |url-status=live |archive-url=https://web.archive.org/web/20240113091331/https://www.bbc.com/news/world-asia-67891869 |archive-date=13 January 2024 |access-date=2024-01-13 |work=BBC |language=en-GB}}</ref>",
                           "url": "https://www.bbc.com/news/world-asia-67891869",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -1079,21 +1072,21 @@
                     {
                       "text": "<ref name=\"DebateCNA\" /><ref>{{Cite web |title=Dates Set for Taiwan's Presidential Debates |url=https://www.taiwanplus.com/news/taiwan-news/politics/231209006/dates-set-for-taiwans-presidential-debates |access-date=2023-12-10 |website=TaiwanPlus |language=en |archive-date=11 December 2023 |archive-url=https://web.archive.org/web/20231211001118/https://www.taiwanplus.com/news/taiwan-news/politics/231209006/dates-set-for-taiwans-presidential-debates |url-status=live }}</ref>",
                       "url": "https://www.taiwanplus.com/news/taiwan-news/politics/231209006/dates-set-for-taiwans-presidential-debates",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":1\">{{Cite web |date=2023-12-08 |title=Taiwan's presidential candidates will hold a televised debate as the race heats up |url=https://apnews.com/article/taiwan-presidential-debate-china-04ccf19a683365c5f00e12453c0f73ff |access-date=2023-12-10 |website=AP News |language=en |archive-date=11 December 2023 |archive-url=https://web.archive.org/web/20231211001118/https://apnews.com/article/taiwan-presidential-debate-china-04ccf19a683365c5f00e12453c0f73ff |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/taiwan-presidential-debate-china-04ccf19a683365c5f00e12453c0f73ff",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"lotspresentations\">{{cite news |last1=Chung |first1=Yu-chen |title=Election 2024/Parties draw lots for placement on Taiwan's presidential ballot |url=https://focustaiwan.tw/politics/202312110006 |access-date=11 December 2023 |agency=Central News Agency |date=11 December 2023 |quote=Ko Wen-je (柯文哲) of the Taiwan People's Party (TPP) and his running mate Wu Hsin-ying (吳欣盈) secured the top position on the ballot, the CEC said after the draw was completed. Lai Ching-te (賴清德) and Hsiao Bi-khim (蕭美琴) of the ruling Democratic Progressive Party drew the second position, while Hou Yu-ih (侯友宜) and Jaw Shau-kong (趙少康) of the main opposition Kuomintang placed third, according to the CEC. ... As the campaign period heats up, the three presidential candidates will face off in a televised debate hosted by Public Television Service (PTS) on Dec. 30 at 2 p.m. Meanwhile, the vice presidential candidates are expected to take part in a similar live debate on Jan. 1 at 2 p.m., pending the TPP's confirmation of Wu's participation. In addition to the debates, the presidential candidates are scheduled to present their policies on live television in three consecutive broadcasts -- on Dec. 20 at 7 p.m., Dec. 26 at 2 p.m., and Dec. 28 at 7 p.m., according to the CEC. The vice presidential candidates will give a similar presentation on Dec. 22 at 7 p.m., the CEC said. |archive-date=11 December 2023 |archive-url=https://web.archive.org/web/20231211053109/https://focustaiwan.tw/politics/202312110006 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202312110006",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -1106,35 +1099,35 @@
                     {
                       "text": "<ref>{{Cite web |title=Presidential Candidates Debate Cross-Strait Policy, 1992 Consensus |url=https://www.taiwanplus.com/news/taiwan-news/politics/231230001/presidential-candidates-debate-cross-strait-policy-1992-consensus |access-date=2024-01-13 |website=TaiwanPlus |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113092337/https://www.taiwanplus.com/news/taiwan-news/politics/231230001/presidential-candidates-debate-cross-strait-policy-1992-consensus |url-status=live }}</ref>",
                       "url": "https://www.taiwanplus.com/news/taiwan-news/politics/231230001/presidential-candidates-debate-cross-strait-policy-1992-consensus",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Hioe |first=Brian |date=2023-12-22 |title=Lai and Hou Focus on Cross-Strait Relations, Ko on Appeals to Youth in First Presidential Policy Presentation |url=https://newbloommag.net/2023/12/23/2024-first-policy-presentation/ |access-date=2024-01-13 |website=New Bloom Magazine |language=en-US |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113092337/https://newbloommag.net/2023/12/23/2024-first-policy-presentation/ |url-status=live }}</ref>",
                       "url": "https://newbloommag.net/2023/12/23/2024-first-policy-presentation/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-01-08 |title=Taiwan holds first-ever policy presentation for political parties |url=https://focustaiwan.tw/politics/202401080020 |url-status=live |archive-url=https://web.archive.org/web/20240113092337/https://focustaiwan.tw/politics/202401080020 |archive-date=13 January 2024 |access-date=2024-01-13 |website=Focus Taiwan |language=en-US}}</ref>",
                       "url": "https://focustaiwan.tw/politics/202401080020",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Candidates Take the Stage for First Policy Forum |url=https://www.taiwanplus.com/news/taiwan-news/politics/231221008/candidates-take-the-stage-for-first-policy-forum |access-date=2024-01-13 |website=TaiwanPlus |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113092338/https://www.taiwanplus.com/news/taiwan-news/politics/231221008/candidates-take-the-stage-for-first-policy-forum |url-status=live }}</ref>",
                       "url": "https://www.taiwanplus.com/news/taiwan-news/politics/231221008/candidates-take-the-stage-for-first-policy-forum",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2023-12-30 |title=Taiwan's presidential candidates emphasize peace in relations with Beijing |url=https://apnews.com/article/taiwan-presidential-elections-china-8eb93b9e13705ecbbdb47d6e6723353b |access-date=2024-01-13 |website=AP News |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113092337/https://apnews.com/article/taiwan-presidential-elections-china-8eb93b9e13705ecbbdb47d6e6723353b |url-status=live }}</ref>",
                       "url": "https://apnews.com/article/taiwan-presidential-elections-china-8eb93b9e13705ecbbdb47d6e6723353b",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1147,28 +1140,28 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-01-01 |title=DPP record slated by KMT, TPP candidates at vice presidential debate |url=https://focustaiwan.tw/politics/202401010014 |url-status=live |archive-url=https://web.archive.org/web/20240113092929/https://focustaiwan.tw/politics/202401010014 |archive-date=13 January 2024 |access-date=2024-01-13 |website=Focus Taiwan |language=en-US}}</ref>",
                       "url": "https://focustaiwan.tw/politics/202401010014",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title='Sacred mountain' TSMC becomes a flash point in Taiwan's election, as opposition blames China tensions for pushing the chipmaker to invest overseas |url=https://fortune.com/asia/2024/01/02/sacred-mountain-tsmc-taiwan-election-vp-debate-chips-semiconductors-taylor-swift/ |access-date=2024-01-13 |website=Fortune Asia |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113092929/https://fortune.com/asia/2024/01/02/sacred-mountain-tsmc-taiwan-election-vp-debate-chips-semiconductors-taylor-swift/ |url-status=live }}</ref>",
                       "url": "https://fortune.com/asia/2024/01/02/sacred-mountain-tsmc-taiwan-election-vp-debate-chips-semiconductors-taylor-swift/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Taiwan's VP Candidates Debate Foreign Policy, Energy and Economics |url=https://www.taiwanplus.com/news/taiwan-talks/taiwan-china-cross-strait-tensions/240101010/taiwans-vp-candidates-debate-foreign-policy-energy-and-economics |access-date=2024-01-13 |website=TaiwanPlus |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113092929/https://www.taiwanplus.com/news/taiwan-talks/taiwan-china-cross-strait-tensions/240101010/taiwans-vp-candidates-debate-foreign-policy-energy-and-economics |url-status=live }}</ref>",
                       "url": "https://www.taiwanplus.com/news/taiwan-talks/taiwan-china-cross-strait-tensions/240101010/taiwans-vp-candidates-debate-foreign-policy-energy-and-economics",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Hioe |first=Brian |date=2023-12-25 |title=Vice Presidential Policy Presentation Sees Numerous Gaffes, Clear Win by Hsiao |url=https://newbloommag.net/2023/12/25/vp-policy-presentation/ |access-date=2024-01-13 |website=New Bloom Magazine |language=en-US |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113092929/https://newbloommag.net/2023/12/25/vp-policy-presentation/ |url-status=live }}</ref>",
                       "url": "https://newbloommag.net/2023/12/25/vp-policy-presentation/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1191,21 +1184,21 @@
                     {
                       "text": "<ref>{{Cite web |title=Taiwan elections latest: Early results stream in after polls close |url=https://asia.nikkei.com/Politics/Taiwan-elections/Taiwan-elections-latest-Early-results-stream-in-after-polls-close |access-date=2024-01-13 |website=Nikkei Asia |language=en-GB |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113093725/https://asia.nikkei.com/Politics/Taiwan-elections/Taiwan-elections-latest-Early-results-stream-in-after-polls-close |url-status=live }}</ref>",
                       "url": "https://asia.nikkei.com/Politics/Taiwan-elections/Taiwan-elections-latest-Early-results-stream-in-after-polls-close",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Citation |title=How China's intimidation looms over Taiwan's crucial election | date=11 January 2024 |url=https://www.youtube.com/watch?v=x-2_U515W6M |access-date=2024-01-13 |archive-url=https://web.archive.org/web/20240113093725/https://www.youtube.com/watch?v=x-2_U515W6M |archive-date=13 January 2024 |url-status=live |place=Canada |publisher=Global News |language=en}}</ref>",
                       "url": "https://www.youtube.com/watch?v=x-2_U515W6M",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": null
                     },
                     {
                       "text": "<ref name=\"auto3\"/> CNN stated the election 'could change the world'.<ref>{{Cite web |last=Gan |first=Nectar |date=2024-01-11 |title=This 2024 presidential election could change the world – and it's not happening in the US |url=https://www.cnn.com/2024/01/11/asia/taiwan-election-explainer-intl-hnk/index.html |access-date=2024-01-13 |website=CNN |language=en |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113093725/https://www.cnn.com/2024/01/11/asia/taiwan-election-explainer-intl-hnk/index.html |url-status=live }}</ref>",
-                      "url": "https://www.cnn.com/2024/01/11/asia/taiwan-election-explainer-intl-hnk/index.html",
-                      "status_code": null,
+                      "url": "https://edition.cnn.com/2024/01/11/asia/taiwan-election-explainer-intl-hnk/index.html",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1239,8 +1232,8 @@
                 {
                   "text": "<ref>{{Cite web |title=results |url=https://www.taiwanplus.com/taiwan-election-2024/results?title=President |url-status=live |archive-url=https://web.archive.org/web/20240113140733/https://www.taiwanplus.com/taiwan-election-2024/results?title=President |archive-date=13 January 2024 |access-date=2024-01-13 |website=TaiwanPlus}}</ref>",
                   "url": "https://www.taiwanplus.com/taiwan-election-2024/results?title=President",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -1271,14 +1264,14 @@
                 {
                   "text": "<ref>{{Cite web |date=13 January 2024 |title=KMT's Hou concedes defeat in Taiwan presidential election |url=https://focustaiwan.tw/politics/202401130010 |access-date=13 January 2024 |website=Focus Taiwan |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113122236/https://focustaiwan.tw/politics/202401130010 |url-status=live }}</ref>",
                   "url": "https://focustaiwan.tw/politics/202401130010",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=13 January 2024 |title=TPP's Ko urges supporters not to lose faith after election defeat |url=https://focustaiwan.tw/politics/202401130012 |access-date=13 January 2024 |website=Focus Taiwan |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113131918/https://focustaiwan.tw/politics/202401130012 |url-status=live }}</ref>",
                   "url": "https://focustaiwan.tw/politics/202401130012",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1291,14 +1284,14 @@
                 {
                   "text": "<ref>{{Cite web |date=15 January 2024 |title='Major reforms' needed for KMT to return to power: Ex-VP candidate |url=https://focustaiwan.tw/politics/202401150023 |url-status=live |archive-url=https://web.archive.org/web/20240116020514/https://focustaiwan.tw/politics/202401150023 |archive-date=16 January 2024 |access-date=16 January 2024 |website=Focus Taiwan}}</ref>",
                   "url": "https://focustaiwan.tw/politics/202401150023",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=17 January 2024 |title=Opposition split key to presidential election defeat: KMT |url=https://focustaiwan.tw/politics/202401170019 |access-date=17 January 2024 |website=Focus Taiwan |archive-date=17 January 2024 |archive-url=https://web.archive.org/web/20240117152050/https://focustaiwan.tw/politics/202401170019 |url-status=live }}</ref>",
                   "url": "https://focustaiwan.tw/politics/202401170019",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1311,14 +1304,14 @@
                 {
                   "text": "<ref name=\"ajlai\">{{Cite web |title=Taiwan ruling party's Lai wins presidential election |url=https://www.aljazeera.com/news/2024/1/13/taiwan-ruling-partys-lai-wins-presidential-election |access-date=2024-01-13 |website=Al Jazeera |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113140201/https://www.aljazeera.com/news/2024/1/13/taiwan-ruling-partys-lai-wins-presidential-election |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/1/13/taiwan-ruling-partys-lai-wins-presidential-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"cnnlai\">{{Cite web |date=13 January 2024 |title=Taiwan voters dismiss China warnings and hand ruling party a historic third consecutive presidential win |url=https://edition.cnn.com/2024/01/13/asia/taiwan-presidential-election-results-intl-hnk/index.html |url-status=live |archive-url=https://web.archive.org/web/20240113144224/https://edition.cnn.com/2024/01/13/asia/taiwan-presidential-election-results-intl-hnk/index.html |archive-date=13 January 2024 |access-date=2024-01-13 |website=CNN International}}</ref>",
                   "url": "https://edition.cnn.com/2024/01/13/asia/taiwan-presidential-election-results-intl-hnk/index.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1331,7 +1324,7 @@
                 {
                   "text": "<ref>{{cite web |title=The world is witness to Taiwan's democracy - Tsai Ing-wen |url=https://www.bbc.com/news/live/world-asia-67954619 |website=BBC |access-date=14 January 2024 |language=en |date=13 January 2024 |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113223750/https://www.bbc.com/news/live/world-asia-67954619 |url-status=live }}</ref>",
                   "url": "https://www.bbc.com/news/live/world-asia-67954619",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1344,7 +1337,7 @@
                 {
                   "text": "<ref>{{cite news |date=25 January 2024 |title=Taiwan: China put pressure on Philippines after Marcos' congratulations |url=https://www.gmanetwork.com/news/topstories/nation/895291/taiwan-china-put-pressure-on-philippines-after-marcos-congratulations/story/ |access-date=25 January 2024 |work=GMA Network |language=en}}</ref>",
                   "url": "https://www.gmanetwork.com/news/topstories/nation/895291/taiwan-china-put-pressure-on-philippines-after-marcos-congratulations/story/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -1371,8 +1364,8 @@
                     {
                       "text": "<ref>{{Cite web |last=Agence France Presse |date=13 January 2024 |title=China's Weibo Blocks Trending Taiwan Election Hashtag |url=https://www.barrons.com/news/china-s-weibo-blocks-trending-taiwan-election-hashtag-2f617283?refsec=topics_afp-news |url-status=live |archive-url=https://web.archive.org/web/20240113141515/https://www.barrons.com/news/china-s-weibo-blocks-trending-taiwan-election-hashtag-2f617283?refsec=topics_afp-news |archive-date=13 January 2024 |access-date=13 January 2024 |website=Barron's}}</ref>",
                       "url": "https://www.barrons.com/news/china-s-weibo-blocks-trending-taiwan-election-hashtag-2f617283?refsec=topics_afp-news",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -1384,14 +1377,14 @@
                     {
                       "text": "<ref name=\"bbclai\">{{Cite web |date=13 January 2024 |title=Taiwan elects William Lai president in historic election |url=https://www.bbc.com/news/world-asia-67920532 |access-date=13 January 2024 |website=BBC |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113152259/https://www.bbc.com/news/world-asia-67920532 |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/world-asia-67920532",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"cnnlai\"/> In response, the Taiwan-run Mainland Affairs Council urged Beijing to \"fully respect the election results and Taiwan's public opinion,\" and \"rationally assess\" the post-election situation.<ref>{{cite web |date=14 January 2024 |title=MAC urges China to 'respect' Taiwan's election results |url=https://focustaiwan.tw/cross-strait/202401140004 |url-status=live |archive-url=https://web.archive.org/web/20240114012559/https://focustaiwan.tw/cross-strait/202401140004 |archive-date=14 January 2024 |access-date=14 January 2024 |website=Focus Taiwan |language=en}}</ref>",
                       "url": "https://focustaiwan.tw/cross-strait/202401140004",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1404,21 +1397,21 @@
                     {
                       "text": "<ref>{{Cite web |date=15 January 2024 |title=Chinese Embassy in Tokyo criticizes Japan's message to Taiwanese president-elect |url=https://www3.nhk.or.jp/nhkworld/en/news/20240114_20/ |url-status=live |archive-url=https://web.archive.org/web/20240115153729/https://www3.nhk.or.jp/nhkworld/en/news/20240114_20/ |archive-date=15 January 2024 |access-date=15 January 2024 |website=NHK}}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240114_20/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=15 January 2024 |title=Taiwan election: China says US 'gravely wrong' to congratulate new leader |url=https://www.bbc.com/news/world-asia-67974541 |access-date=15 January 2024 |website=BBC |archive-date=15 January 2024 |archive-url=https://web.archive.org/web/20240115004920/https://www.bbc.com/news/world-asia-67974541 |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/news/world-asia-67974541",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=China deplores, opposes relevant countries issuing statements, \"expressing congratulations\" following elections in China's Taiwan region |url=https://english.news.cn/20240115/d099186603cf4f44a378f9f82126cc0d/c.html |publisher=Xinhua |archive-url=https://web.archive.org/web/20240115171648/https://english.news.cn/20240115/d099186603cf4f44a378f9f82126cc0d/c.html |archive-date=15 January 2024 |language=en |date=15 January 2024 |url-status=live}}</ref>",
                       "url": "https://english.news.cn/20240115/d099186603cf4f44a378f9f82126cc0d/c.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -1426,7 +1419,7 @@
                       "text": "<ref>{{cite news |title=Marcos congratulates Taiwan's President-elect Lai Ching-te; China summons PH envoy |url=https://www.cnnphilippines.com/news/2024/1/16/marcos-on-taiwan-presidential-election.html |access-date=16 January 2024 |work=CNN Philippines |date=16 January 2024 |language=en |archive-date=15 January 2024 |archive-url=https://web.archive.org/web/20240115235034/https://www.cnnphilippines.com/news/2024/1/16/marcos-on-taiwan-presidential-election.html |url-status=dead }}</ref>",
                       "url": "https://www.cnnphilippines.com/news/2024/1/16/marcos-on-taiwan-presidential-election.html",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Cannot connect to host www.cnnphilippines.com:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cnnphilippines.com'. (_ssl.c:1010)\")]",
                       "type": "news"
                     }
                   ]
@@ -1438,7 +1431,7 @@
                     {
                       "text": "<ref>{{Cite news |last=Asian News International |date=2024-01-13 |title=Taiwan tracks 8 Chinese military aircraft, 6 naval ships on election day |url=https://economictimes.indiatimes.com/news/defence/taiwan-tracks-8-chinese-military-aircraft-6-naval-ships-on-election-day/articleshow/106817129.cms?from=mdr |url-status=live |archive-url=https://web.archive.org/web/20240116041841/https://economictimes.indiatimes.com/news/defence/taiwan-tracks-8-chinese-military-aircraft-6-naval-ships-on-election-day/articleshow/106817129.cms?from=mdr |archive-date=16 January 2024 |access-date=2024-01-16 |work=The Economic Times |issn=0013-0389}}</ref>",
                       "url": "https://economictimes.indiatimes.com/news/defence/taiwan-tracks-8-chinese-military-aircraft-6-naval-ships-on-election-day/articleshow/106817129.cms?from=mdr",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
@@ -1446,7 +1439,7 @@
                       "text": "<ref>{{Cite news |last=Kuo |first=Lily |date=2024-01-14 |title=After attempts to meddle in Taiwan's elections fail, China takes stock |url=https://www.washingtonpost.com/world/2024/01/14/china-taiwan-election-2024/ |access-date=2024-01-16 |newspaper=The Washington Post}}</ref>",
                       "url": "https://www.washingtonpost.com/world/2024/01/14/china-taiwan-election-2024/",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     }
                   ]
@@ -1468,203 +1461,203 @@
                     {
                       "text": "<ref>{{Cite web |last=Siranush Ghazanchyan |title=Armenia has always supported One China principle – Foreign Ministry |url=https://en.armradio.am/2024/01/15/armenia-has-always-supported-one-china-principle-foreign-ministry/ |access-date=2024-05-20 |website=Public Radio of Armenia |language=en-US}}</ref>",
                       "url": "https://en.armradio.am/2024/01/15/armenia-has-always-supported-one-china-principle-foreign-ministry/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=14 January 2024 |title=Australia backs Taiwan exercising 'democratic rights' |url=https://www.canberratimes.com.au/story/8485687/australia-backs-taiwan-exercising-democratic-rights/ |access-date=13 January 2024 |website=The Canberra Times |archive-date=14 January 2024 |archive-url=https://web.archive.org/web/20240114033221/https://www.canberratimes.com.au/story/8485687/australia-backs-taiwan-exercising-democratic-rights/ |url-status=live }}</ref>",
                       "url": "https://www.canberratimes.com.au/story/8485687/australia-backs-taiwan-exercising-democratic-rights/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=15 January 2024 |title=Azerbaijan Affirms Unwavering Support for China's Territorial Integrity Amid Taiwan's Elections|url=https://caspiannews.com/news-detail/azerbaijan-affirms-unwavering-support-for-chinas-territorial-integrity-amid-taiwans-elections-2024-1-15-0/ |first=Yaver|last=Kazimbeyli| access-date=3 May 2024 |website=The Caspian News |archive-date=28 February 2024 |archive-url=https://web.archive.org/web/20240228051548/https://caspiannews.com/news-detail/azerbaijan-affirms-unwavering-support-for-chinas-territorial-integrity-amid-taiwans-elections-2024-1-15-0/ |url-status=live }}</ref>",
                       "url": "https://caspiannews.com/news-detail/azerbaijan-affirms-unwavering-support-for-chinas-territorial-integrity-amid-taiwans-elections-2024-1-15-0/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"ajworld\"/> \n*{{Flag|Cuba}}: Minister of Foreign Affairs Bruno Rodríguez Parrilla reiterated on X that Taiwan was an inalienable part of the territory of China and that this issue was an internal matter of the country.<ref>{{Cite web |last=Cubasi |date=2024-01-14 |title=Cuba ratifica su respaldo al principio de Una sola China |trans-title=Cuba ratifies its support for the One-China principle |url=https://www.periodico26.cu/index.php/es/de-cuba-2/16573-cuba-ratifica-su-respaldo-al-principio-de-una-sola-china |access-date=2024-05-20 |website=Periódico 26 |language=es}}</ref>",
                       "url": "https://www.periodico26.cu/index.php/es/de-cuba-2/16573-cuba-ratifica-su-respaldo-al-principio-de-una-sola-china",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"auto4\">{{Cite web |date=14 January 2024 |title=World reactions to Taiwan election |url=https://www.reuters.com/world/asia-pacific/world-reactions-taiwan-election-2024-01-14/ |access-date=14 January 2024 |website=Reuters}}</ref>",
                       "url": "https://www.reuters.com/world/asia-pacific/world-reactions-taiwan-election-2024-01-14/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"auto4\"/>\n*{{Flag|Indonesia}}: Ministry of Foreign Affairs (Indonesia)|Foreign Affairs Ministry spokesman Lalu Muhammad Iqbal said: \"Indonesia is closely observing the developments in Taiwan. Indonesia will consistently adhere to the One China Policy.\"<ref>{{Cite web |last=Jayanty Nada Shofa |date=January 14, 2024 |title=Taiwan Election: Indonesia Sticks to One China Policy |url=https://jakartaglobe.id/news/taiwan-election-indonesia-sticks-to-one-china-policy |website=Jakarta Globe}}</ref>",
                       "url": "https://jakartaglobe.id/news/taiwan-election-indonesia-sticks-to-one-china-policy",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-01-14 |title=Tehran reaffirms its support of One China policy |url=https://en.mehrnews.com/news/210784/Tehran-reaffirms-its-support-of-One-China-policy |access-date=2024-05-20 |website=Mehr News Agency |language=en}}</ref>",
                       "url": "https://en.mehrnews.com/news/210784/Tehran-reaffirms-its-support-of-One-China-policy",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=13 January 2024 |title=Japan voices hope Taiwan issues to be resolved 'peacefully' |url=https://english.kyodonews.net/news/2024/01/9f8ba1318f8f-japan-voices-hope-taiwan-issues-to-be-resolved-peacefully.html |access-date=13 January 2024 |website=Kyodo News |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113143835/https://english.kyodonews.net/news/2024/01/9f8ba1318f8f-japan-voices-hope-taiwan-issues-to-be-resolved-peacefully.html |url-status=live }}</ref>",
                       "url": "https://english.kyodonews.net/news/2024/01/9f8ba1318f8f-japan-voices-hope-taiwan-issues-to-be-resolved-peacefully.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Арайлым Темиргалиева |date=2024-01-14 |title=Kazakhstan supports 'one-China' principle - Foreign Office |url=https://en.inform.kz/news/kazakhstan-supports-one-china-principle-foreign-office-73502f/ |access-date=2024-05-20 |website=Kazinform |language=en}}</ref>",
                       "url": "https://en.inform.kz/news/kazakhstan-supports-one-china-principle-foreign-office-73502f/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"ajworld\"/>\n*{{flag|Nauru}}: Nauru, which One China|recognized the legitimacy of the Republic of China as the sole legitimate government of China, commended the successful conduct of the election. However, a day after the election it severed Nauru–Taiwan relations|its relations with the ROC and resumed its relations with the PRC.<ref>{{Cite news |last1=Davidson |first1=Helen |last2=Hawkins |first2=Amy |date=15 January 2024 |title=Nauru to sever diplomatic ties with Taiwan in favour of China |url=https://www.theguardian.com/world/2024/jan/15/nauru-to-sever-diplomatic-ties-with-taiwan-in-favour-of-china |access-date=15 January 2024 |work=The Guardian |archive-date=15 January 2024 |archive-url=https://web.archive.org/web/20240115063447/https://www.theguardian.com/world/2024/jan/15/nauru-to-sever-diplomatic-ties-with-taiwan-in-favour-of-china |url-status=live }}</ref>",
                       "url": "https://www.theguardian.com/world/2024/jan/15/nauru-to-sever-diplomatic-ties-with-taiwan-in-favour-of-china",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Indo-Asian News Service |date=January 14, 2024 |title=Prachanda says Nepal against Taiwan's independence, terms China 'reliable friend' |url=https://www.daijiworld.com/news/newsDisplay?newsID=1158392 |website=Daijiworld Media |language=en}}</ref>",
                       "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1158392",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":7\">{{Cite news |last=Shantanu Roy-Chaudhury |date=9 March 2024 |title=South Asia sides with China after Taiwan's elections |url=https://eastasiaforum.org/2024/03/09/south-asia-sides-with-china-after-taiwans-elections/ |work=East Asia Forum |publication-place=S Rajaratnam School of International Studies}}</ref>",
                       "url": "https://eastasiaforum.org/2024/03/09/south-asia-sides-with-china-after-taiwans-elections/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://x.com/DutchMFA/status/1746916909084180914 |title=Statement of the Dutch Ministry of Foreign Affairs on the elections in Taiwan |access-date=19 May 2024 |archive-date=19 May 2024 |archive-url=https://web.archive.org/20240519000000/https://x.com/DutchMFA/status/1746916909084180914 |url-status=live }}</ref>",
                       "url": "https://x.com/DutchMFA/status/1746916909084180914",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 400,
+                      "reason": "Bad Request",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Pakistan's policy on Taiwan is consistent, clear and principled: FO |url=https://www.radio.gov.pk/13-01-2024/pakistans-policy-on-taiwan-is-consistent-clear-and-principled-fo |access-date=2024-05-20 |website=Radio Pakistan |language=en}}</ref>",
                       "url": "https://www.radio.gov.pk/13-01-2024/pakistans-policy-on-taiwan-is-consistent-clear-and-principled-fo",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=El Presidente de Paraguay felicita a Lai por su triunfo en los comicios de Taiwán |trans-title=The President of Paraguay congratulates Lai for his victory in the elections in Taiwan |url=https://www.swissinfo.ch/spa/taiw%C3%A1n-elecciones-paraguay_el-presidente-de-paraguay-felicita-a-lai-por-su-triunfo-en-los-comicios-de-taiw%C3%A1n/49125042 |access-date=14 January 2024 |agency=SwissInfo |date=13 January 2024 |language=es |archive-date=14 January 2024 |archive-url=https://web.archive.org/web/20240114203805/https://www.swissinfo.ch/spa/taiw%C3%A1n-elecciones-paraguay_el-presidente-de-paraguay-felicita-a-lai-por-su-triunfo-en-los-comicios-de-taiw%C3%A1n/49125042 |url-status=live }}</ref>",
                       "url": "https://www.swissinfo.ch/spa/taiw%C3%A1n-elecciones-paraguay_el-presidente-de-paraguay-felicita-a-lai-por-su-triunfo-en-los-comicios-de-taiw%C3%A1n/49125042",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Cabico |first1=Gaea Katreena |title=Philippines reaffirms adherence to One-China Policy after Taiwan elections |url=https://qa.philstar.com/headlines/2024/01/14/2325786/philippines-reaffirms-adherence-one-china-policy-after-taiwan-elections |access-date=14 January 2024 |work=The Philippine Star |agency=Agence France-Presse |date=14 January 2024 |archive-date=14 January 2024 |archive-url=https://web.archive.org/web/20240114141228/https://qa.philstar.com/headlines/2024/01/14/2325786/philippines-reaffirms-adherence-one-china-policy-after-taiwan-elections |url-status=live }}</ref>",
                       "url": "https://qa.philstar.com/headlines/2024/01/14/2325786/philippines-reaffirms-adherence-one-china-policy-after-taiwan-elections",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=PH affirms One-China Policy following Taiwan polls |url=https://mb.com.ph/2024/1/14/ph-stresses-one-china-policy-following-taiwan-polls |access-date=14 January 2024 |work=Manila Bulletin |date=14 January 2024 |language=en |archive-date=15 January 2024 |archive-url=https://web.archive.org/web/20240115152740/https://mb.com.ph/2024/1/14/ph-stresses-one-china-policy-following-taiwan-polls |url-status=live }}</ref>",
                       "url": "https://mb.com.ph/2024/1/14/ph-stresses-one-china-policy-following-taiwan-polls",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Marcos congratulates Taiwan's President-elect Lai Ching-te, eyes stronger ties |url=https://www.cnnphilippines.com/news/2024/1/16/marcos-on-taiwan-presidential-election.html |access-date=16 January 2024 |work=CNN Philippines |date=16 January 2024 |language=en |archive-date=15 January 2024 |archive-url=https://web.archive.org/web/20240115235034/https://www.cnnphilippines.com/news/2024/1/16/marcos-on-taiwan-presidential-election.html |url-status=dead }}</ref>",
                       "url": "https://www.cnnphilippines.com/news/2024/1/16/marcos-on-taiwan-presidential-election.html",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Cannot connect to host www.cnnphilippines.com:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cnnphilippines.com'. (_ssl.c:1010)\")]",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Philippines reaffirms 'One China policy' after President Marcos congratulates Taiwan's Lai |url=https://news.abs-cbn.com/news/01/16/24/ph-reaffirms-one-china-policy-after-marcos-congratulates-taiwans-lai |access-date=16 January 2024 |work=ABS-CBN |date=16 January 2024 |language=en }}</ref>",
                       "url": "https://news.abs-cbn.com/news/01/16/24/ph-reaffirms-one-china-policy-after-marcos-congratulates-taiwans-lai",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Philippines Marcos says does not endorse Taiwan independence, seeks to avoid conflict |url=https://www.reuters.com/world/asia-pacific/philippines-marcos-says-does-not-endorse-taiwan-independence-seeks-avoid-2024-01-23/ |access-date=25 January 2024 |work=Reuters |date=23 January 2024}}</ref>",
                       "url": "https://www.reuters.com/world/asia-pacific/philippines-marcos-says-does-not-endorse-taiwan-independence-seeks-avoid-2024-01-23/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Pressure on China destabilizes region, Russia says following Taiwan elections |url=https://www3.nhk.or.jp/nhkworld/en/news/20240114_10/ |access-date=14 January 2024 |work=NHK World |publisher=Japan Broadcasting Corporation |date=14 January 2024 |language=en |archive-date=14 January 2024 |archive-url=https://web.archive.org/web/20240114040515/https://www3.nhk.or.jp/nhkworld/en/news/20240114_10/ |url-status=live }}</ref>",
                       "url": "https://www3.nhk.or.jp/nhkworld/en/news/20240114_10/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |title=Singapore congratulates Taiwan's William Lai on election victory |url=https://www.channelnewsasia.com/singapore/taiwan-election-singapore-mfa-congratulates-william-lai-president-victory-dpp-4046476 |website=CNA (TV network)|CNA |publisher=Mediacorp |access-date=14 January 2024 |archive-url=https://web.archive.org/web/20240114040731/https://www.channelnewsasia.com/singapore/taiwan-election-singapore-mfa-congratulates-william-lai-president-victory-dpp-4046476 |archive-date=14 January 2024 |language=en |date=14 January 2024 |url-status=live}}</ref>",
                       "url": "https://www.channelnewsasia.com/singapore/taiwan-election-singapore-mfa-congratulates-william-lai-president-victory-dpp-4046476",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |url=https://twitter.com/somalilandmfa/status/1746160301018411010 |title=Archived copy |access-date=15 January 2024 |archive-date=15 January 2024 |archive-url=https://web.archive.org/web/20240115010525/https://twitter.com/somalilandmfa/status/1746160301018411010 |url-status=live }}</ref>",
                       "url": "https://twitter.com/somalilandmfa/status/1746160301018411010",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 400,
+                      "reason": "Bad Request",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=S. Korea says it hopes for continued peace, stability across Taiwan Strait after presidential election |url=https://en.yna.co.kr/view/AEN20240114000851315 |website=Yonhap |access-date=14 January 2024 |language=en |date=14 January 2024 |archive-date=14 January 2024 |archive-url=https://web.archive.org/web/20240114055621/https://en.yna.co.kr/view/AEN20240114000851315 |url-status=live }}</ref>",
                       "url": "https://en.yna.co.kr/view/AEN20240114000851315",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":7\" />\n*{{Flag|Tajikistan}}: The Ministry of Foreign Affairs of the Republic of Tajikistan|Foreign Ministry released a statement that said: \"Recognizing Taiwan as an integral part of the territory of China, Tajikistan resolutely opposes any attempts at external interference in the internal affairs of this friendly country.\"<ref>{{Cite web |date=2024-01-15 |title=Tajikistan firmly pursues the one-China policy |url=https://old.asiaplustj.info/en/news/tajikistan/politics/20240115/tajikistan-firmly-pursues-the-one-china-policy |website=Asia-Plus}}</ref>",
                       "url": "https://old.asiaplustj.info/en/news/tajikistan/politics/20240115/tajikistan-firmly-pursues-the-one-china-policy",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"ajworld\">{{cite web |title=World reacts to Taiwan election as China says reunification 'inevitable' |url=https://www.aljazeera.com/news/2024/1/13/world-reacts-to-taiwan-election-as-china-says-reunification |website=Al Jazeera |access-date=14 January 2024 |language=en |date=14 January 2024 |archive-date=14 January 2024 |archive-url=https://web.archive.org/web/20240114025935/https://www.aljazeera.com/news/2024/1/13/world-reacts-to-taiwan-election-as-china-says-reunification |url-status=live }}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/1/13/world-reacts-to-taiwan-election-as-china-says-reunification",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"ajlai\"/> Secretary of State Antony Blinken congratulated Lai on his victory and praised Taiwan's \"robust democratic system and electoral process\", adding that the US was \"committed to maintaining cross-strait peace and stability\".<ref name=\"bbclai\"/> Speaker of the House of Representatives Mike Johnson also congratulated Lai and said that he would send a congressional delegation to Inauguration of Lai Ching-te|his inauguration.<ref>{{cite web |title=U.S, Japan, EU congratulate Taiwan on elections, emphasize cross-strait peace |url=https://focustaiwan.tw/politics/202401140005 |website=Focus Taiwan |access-date=14 January 2024 |language=en |date=14 January 2024 |archive-date=14 January 2024 |archive-url=https://web.archive.org/web/20240114015327/https://focustaiwan.tw/politics/202401140005 |url-status=live }}</ref>",
                       "url": "https://focustaiwan.tw/politics/202401140005",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=\"Taiwan is an integral part of China\" – Uzbekistan's MFA on presidential elections in Taiwan |url=https://kun.uz/en/news/2024/01/15/taiwan-is-an-integral-part-of-china-uzbekistans-mfa-on-presidential-elections-in-taiwan |access-date=2024-05-20 |website=:uz:Kun.uz |language=en}}</ref>",
                       "url": "https://kun.uz/en/news/2024/01/15/taiwan-is-an-integral-part-of-china-uzbekistans-mfa-on-presidential-elections-in-taiwan",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web|url=https://tuoitrenews.vn/news/politics/20240115/vietnam-reaffirms-adherence-to-one-china-policy-after-taiwan-election/77847.html|title=Vietnam reaffirms adherence to 'One China' policy after Taiwan election|newspaper=Tuổi Trẻ|date=2024-01-15|access-date=2024-01-17|archive-date=17 January 2024|archive-url=https://web.archive.org/web/20240117045608/https://tuoitrenews.vn/news/politics/20240115/vietnam-reaffirms-adherence-to-one-china-policy-after-taiwan-election/77847.html|url-status=live}}</ref>",
-                      "url": "https://tuoitrenews.vn/news/politics/20240115/vietnam-reaffirms-adherence-to-one-china-policy-after-taiwan-election/77847.html",
-                      "status_code": null,
+                      "url": "https://news.tuoitre.vn/vietnam-reaffirms-adherence-to-one-china-policy-after-taiwan-election-10377847.htm",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1687,8 +1680,8 @@
                     {
                       "text": "<ref>{{Cite web |date=13 January 2024 |title=EU Congratulates Taiwan Voters For 'Democratic Exercise' |url=https://www.barrons.com/news/eu-congratulates-taiwan-voters-for-democratic-exercise-b93789fa |access-date=13 January 2024 |website=Barron's |archive-date=13 January 2024 |archive-url=https://web.archive.org/web/20240113140640/https://www.barrons.com/news/eu-congratulates-taiwan-voters-for-democratic-exercise-b93789fa |url-status=live }}</ref>",
                       "url": "https://www.barrons.com/news/eu-congratulates-taiwan-voters-for-democratic-exercise-b93789fa",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]

@@ -14,22 +14,22 @@
                 {
                   "text": "<ref>{{Cite news |last=Ndebele |first=Lenin |date=31 October 2024 |title=Initial counting suggests Botswana may just get a new ruling party after 58 years |url=https://www.news24.com/news24/africa/news/initial-counting-suggests-botswana-may-just-get-a-new-ruling-party-after-58-years-20241031 |work=News24}}</ref>",
                   "url": "https://www.news24.com/news24/africa/news/initial-counting-suggests-botswana-may-just-get-a-new-ruling-party-after-58-years-20241031",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |date=2024-10-31 |title=Early Botswana Vote Tallies Point to Shock Loss For Ruling Party |url=https://www.bloomberg.com/news/articles/2024-10-31/botswana-election-early-tallies-point-to-shock-loss-for-ruling-party |access-date=2024-11-01 |work=Bloomberg.com |language=en}}</ref>",
                   "url": "https://www.bloomberg.com/news/articles/2024-10-31/botswana-election-early-tallies-point-to-shock-loss-for-ruling-party",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |last=du Plessis |first=Carien |date=31 October 2024 |title=Botswana: Early election count sparks opposition optimism |url=https://www.theafricareport.com/366666/botswana-early-election-count-sparks-opposition-optimism/ |work=The Africa Report}}</ref>",
                   "url": "https://www.theafricareport.com/366666/botswana-early-election-count-sparks-opposition-optimism/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -41,7 +41,7 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-11-01 |title=NEW REPUBLIC |url=https://www.mmegi.bw/news/new-republic/news |access-date=2024-11-01 |website=Mmegi Online |language=en}}</ref>",
                   "url": "https://www.mmegi.bw/news/new-republic/news",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -54,7 +54,7 @@
                 {
                   "text": "<ref>{{Cite web |title=Botswana election: Duma Boko – the politician who did the unthinkable |url=https://www.bbc.com/news/articles/cx2yx5nk1l0o?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_campaign=Social_Flow&at_campaign_type=owned&at_link_id=5F2B5D36-987B-11EF-AF2F-A1C2AD3A0A2C&at_format=link&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=BBCWorld&at_medium=social&at_link_type=web_link |access-date=2024-11-01 |website=www.bbc.com |language=en-GB}}</ref>",
                   "url": "https://www.bbc.com/news/articles/cx2yx5nk1l0o?xtor=AL-72-%5Bpartner%5D-%5Bbbc.news.twitter%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D&at_campaign=Social_Flow&at_campaign_type=owned&at_link_id=5F2B5D36-987B-11EF-AF2F-A1C2AD3A0A2C&at_format=link&at_ptr_name=twitter&at_bbc_team=editorial&at_link_origin=BBCWorld&at_medium=social&at_link_type=web_link",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -62,7 +62,7 @@
                   "text": "<ref>{{Cite web |title=Duma Boko sworn in as Botswana's new president |url=https://www.aa.com.tr/en/africa/duma-boko-sworn-in-as-botswana-s-new-president/3381189 |access-date=2024-11-01 |website=www.aa.com.tr}}</ref>",
                   "url": "https://www.aa.com.tr/en/africa/duma-boko-sworn-in-as-botswana-s-new-president/3381189",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 }
               ]
@@ -87,23 +87,23 @@
                   "references": [
                     {
                       "text": "<ref>{{Cite journal |last1=Seabo |first1=Batlang |last2=Nyenhuis |first2=Robert |date=2021-11-23 |title=Botswana's 2019 General Elections: A Referendum on General Ian Khama |url=https://www.cambridge.org/core/journals/african-studies-review/article/abs/botswanas-2019-general-elections-a-referendum-on-general-ian-khama/025D7A45D5F26B1A8045E91529DCAAB5#access-block |journal=African Studies Review |language=en |volume=64 |issue=4 |pages=854–883 |doi=10.1017/asr.2021.69 |s2cid=244539238 |issn=0002-0206}}</ref>",
-                      "url": "https://www.cambridge.org/core/journals/african-studies-review/article/abs/botswanas-2019-general-elections-a-referendum-on-general-ian-khama/025D7A45D5F26B1A8045E91529DCAAB5#access-block",
-                      "status_code": null,
+                      "url": "https://www.cambridge.org/core/journals/african-studies-review/article/abs/botswanas-2019-general-elections-a-referendum-on-general-ian-khama/025D7A45D5F26B1A8045E91529DCAAB5",
+                      "status_code": 200,
                       "reason": null,
                       "type": "journal"
                     },
                     {
                       "text": "<ref name=\":0\">{{Cite news |last=Chutel |first=Lynsey |date=2019-10-25 |title=Botswana Election Won by President, Despite Rift with Predecessor |url=https://www.nytimes.com/2019/10/25/world/africa/botswana-election-mokgweetsi-masisi.html |access-date=2024-02-23 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>",
                       "url": "https://www.nytimes.com/2019/10/25/world/africa/botswana-election-mokgweetsi-masisi.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\":1\">{{Cite news |date=26 November 2019 |title=Botswana opposition challenges election result in court |url=https://www.reuters.com/article/idUSKBN1Y00QO/ |work=Reuters}}</ref>",
                       "url": "https://www.reuters.com/article/idUSKBN1Y00QO/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "news"
                     }
                   ]
@@ -115,21 +115,21 @@
                     {
                       "text": "<ref>{{Cite news |last=Benza |first=Brian |date=25 October 2019 |title=Botswana's Masisi retains presidency as BDP wins election |url=https://www.reuters.com/article/us-botswana-election-idUSKBN1X40KS/ |work=Reuters}}</ref>",
                       "url": "https://www.reuters.com/article/us-botswana-election-idUSKBN1X40KS/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\":1\" /><ref>{{Cite web |title=Botswana: Freedom in the World 2020 Country Report |url=https://freedomhouse.org/country/botswana/freedom-world/2020 |access-date=2024-02-23 |website=Freedom House |language=en}}</ref>",
                       "url": "https://freedomhouse.org/country/botswana/freedom-world/2020",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |author=Staff Writer |date=2020-01-31 |title=Court of Appeal ends UDC petition case with dismissal |url=https://www.mmegi.bw/news/court-of-appeal-ends-udc-petition-case-with-dismissal/news |access-date=2024-02-23 |website=Mmegi Online |language=en}}</ref>",
                       "url": "https://www.mmegi.bw/news/court-of-appeal-ends-udc-petition-case-with-dismissal/news",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -152,7 +152,7 @@
                     {
                       "text": "<ref>{{Cite web |last=Admin |title=\"BPF is a member of UDC\" – Mohwasa |url=https://www.thegazette.news/news/bpf-is-a-member-of-udc-mohwasa/ |access-date=2023-01-12 |website=Botswana Gazette |date=5 October 2022 |language=en}}</ref>",
                       "url": "https://www.thegazette.news/news/bpf-is-a-member-of-udc-mohwasa/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -165,7 +165,7 @@
                     {
                       "text": "<ref>{{Cite web |last=Tlhankane |first=Mompati |date=2022-12-26 |title=Boko, Saleshando exchanges |url=https://www.mmegi.bw/news/boko-saleshando-exchanges/news |access-date=2023-01-12 |website=Mmegi Online |language=en}}</ref>",
                       "url": "https://www.mmegi.bw/news/boko-saleshando-exchanges/news",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -173,7 +173,7 @@
                       "text": "<ref>{{Cite web |title=KEORAPETSE NEW LOO|url=https://dailynews.gov.bw/news-detail/68042|access-date=2023-01-11|website=dailynews.gov.bw}}</ref>",
                       "url": "https://dailynews.gov.bw/news-detail/68042",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     }
                   ]
@@ -185,21 +185,21 @@
                     {
                       "text": "<ref>{{Cite web |last=Tlhankane |first=Mompati |date=27 February 2023 |title=BCP yet to officially ditch UDC |url=https://www.mmegi.bw/ampArticle/107185 |access-date=28 March 2023 |website=Mmegi|Mmegi Online}}</ref>",
                       "url": "https://www.mmegi.bw/ampArticle/107185",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web|date=2023-04-17|title=AP withdraws from cooperation talks|url=https://www.mmegi.bw/news/ap-withdraws-from-cooperation-talks/news|access-date=2023-04-18|website=Mmegi}}</ref>",
                       "url": "https://www.mmegi.bw/news/ap-withdraws-from-cooperation-talks/news",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Dube |first=Chakalisa |date=2023-07-31 |title=AP joins fight against vote 'rigging' |url=https://www.mmegi.bw/news/ap-joins-fight-against-vote-rigging/news |access-date=2023-10-13 |website=Mmegi Online |language=en-GB}}</ref>",
                       "url": "https://www.mmegi.bw/news/ap-joins-fight-against-vote-rigging/news",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -211,8 +211,8 @@
                   "references": [
                     {
                       "text": "<ref>{{Cite web |title=Botswana Congress Party |url=https://www.facebook.com/permalink.php?story_fbid=pfbid0mzrBGJNTFA6GHKrf9TFR6VCvMZDdiTN8zwB8Gf4KejMDt4aPupRuvULzh9rVmrNJl&id=100050397913844 |access-date=2023-06-06 |website=Facebook |language=en}}</ref>",
-                      "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0mzrBGJNTFA6GHKrf9TFR6VCvMZDdiTN8zwB8Gf4KejMDt4aPupRuvULzh9rVmrNJl&id=100050397913844",
-                      "status_code": null,
+                      "url": "https://www.facebook.com/login/?next=https://www.facebook.com/permalink.php?story_fbid%3Dpfbid0mzrBGJNTFA6GHKrf9TFR6VCvMZDdiTN8zwB8Gf4KejMDt4aPupRuvULzh9rVmrNJl%26id%3D100050397913844",
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -225,7 +225,7 @@
                     {
                       "text": "<ref>{{Cite web |title=BPF has decided to use own symbol come October elections |url=https://www.facebook.com/TheWeekendPostBW/posts/pfbid0oXo3VyjNfQrfUusNwgC526Bqdp7s62kAEPjXdDQtXko83mrwYf7M4wKM2JAZrpRl |access-date=2024-04-07 |website=Facebook}}</ref>",
                       "url": "https://www.facebook.com/TheWeekendPostBW/posts/pfbid0oXo3VyjNfQrfUusNwgC526Bqdp7s62kAEPjXdDQtXko83mrwYf7M4wKM2JAZrpRl",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -238,14 +238,14 @@
                     {
                       "text": "<ref>{{Cite web |title=Botswana votes with ruling party aiming to extend six decades of power |url=https://www.france24.com/en/live-news/20241030-botswana-votes-with-ruling-party-aiming-to-extend-six-decades-of-power |access-date=2024-10-30 |website=France 24}}</ref>",
                       "url": "https://www.france24.com/en/live-news/20241030-botswana-votes-with-ruling-party-aiming-to-extend-six-decades-of-power",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Botswana holds an election where the diamond trade has become a central issue |url=https://apnews.com/article/botswana-election-bdp-masisi-7ae583e904f30e4fe3df3e6de2ecefb6 |access-date=2024-10-30 |website=Associated Press}}</ref>",
                       "url": "https://apnews.com/article/botswana-election-bdp-masisi-7ae583e904f30e4fe3df3e6de2ecefb6",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -268,14 +268,14 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-03-12 |title=The rise and fall of Yandani Boko |url=https://thepatriot.co.bw/the-rise-and-fall-of-yandani-boko/ |access-date=2024-07-07 |website=The Patriot On Sunday |language=en}}</ref>",
                       "url": "https://thepatriot.co.bw/the-rise-and-fall-of-yandani-boko/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Basimanebotlhe |first=Tsaone |date=2024-03-18 |title=Boko's exit leaves workers stranded at Mahalapye East |url=https://www.mmegi.bw/news/bokos-exit-leaves-workers-stranded-at-mahalapye-east/news |access-date=2024-07-07 |website=Mmegi Online |language=en}}</ref>",
                       "url": "https://www.mmegi.bw/news/bokos-exit-leaves-workers-stranded-at-mahalapye-east/news",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -301,7 +301,7 @@
                   "text": "<ref>{{cite web |title=FAQs |url=https://www.parliament.gov.bw/index.php/frequently-asked-questions#q1 |website=Parliament of Botswana |access-date=21 April 2022}}</ref>",
                   "url": "https://www.parliament.gov.bw/index.php/frequently-asked-questions#q1",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 }
               ]
@@ -327,7 +327,7 @@
                   "text": "<ref>{{Cite web |title=History |url=https://www.parliament.gov.bw/index.php?option=com_content&view=article&id=6&Itemid=163 |access-date=2024-09-07 |website=www.parliament.gov.bw}}</ref>",
                   "url": "https://www.parliament.gov.bw/index.php?option=com_content&view=article&id=6&Itemid=163",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 }
               ]
@@ -347,7 +347,7 @@
                     {
                       "text": "<ref>{{Cite web|last=Mathala|first=Sharon|date=2023-02-15|title=Four new constituencies come 2024|url=https://www.mmegi.bw/news/four-new-constituencies-come-2024/news|access-date=2023-02-16|website=Mmegi Online|language=en}}</ref>",
                       "url": "https://www.mmegi.bw/news/four-new-constituencies-come-2024/news",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
@@ -355,7 +355,7 @@
                       "text": "<ref>{{Cite web|last=Galeragwe|first=Moshe|date=2023-02-12|title=DELIMITATION COMMISSION PRESENTS REPORT|url=https://dailynews.gov.bw/news-detail/71386|access-date=2023-02-16|website=dailynews.gov.bw}}</ref>",
                       "url": "https://dailynews.gov.bw/news-detail/71386",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "web"
                     }
                   ]
@@ -396,8 +396,8 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web |title=Botswana 1966 (rev. 2002) Constitution – Constitute |url=https://www.constituteproject.org/constitution/Botswana_2002#s1205 |access-date=2024-09-03 |website=www.constituteproject.org |language=en}}</ref>",
-                  "url": "https://www.constituteproject.org/constitution/Botswana_2002#s1205",
-                  "status_code": null,
+                  "url": "https://www.constituteproject.org/constitution/Botswana_2002",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -410,14 +410,14 @@
                 {
                   "text": "<ref>{{Cite web |last=Otlhogile |first=Bojosi |date=2024-05-06 |title=Why elections in October? |url=https://www.mmegi.bw/news/why-elections-in-october/news |url-access=subscription |access-date=2024-09-03 |website=Mmegi Online |language=en}}</ref>",
                   "url": "https://www.mmegi.bw/news/why-elections-in-october/news",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Makhaiza |first=Larona |date=2024-06-05 |title=Elections date hot topic in Parly |url=https://www.mmegi.bw/news/elections-date-hot-topic-in-parly/news |access-date=2024-09-03 |website=Mmegi Online |language=en}}</ref>",
                   "url": "https://www.mmegi.bw/news/elections-date-hot-topic-in-parly/news",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -431,14 +431,14 @@
                   "text": "<ref name=\":2\">{{Cite web |title=Botswana's president announces general elections on Oct. 30 |url=https://www.aa.com.tr/en/africa/botswanas-president-announces-general-elections-on-oct-30/3320378 |access-date=2024-09-03 |website=www.aa.com.tr}}</ref>",
                   "url": "https://www.aa.com.tr/en/africa/botswanas-president-announces-general-elections-on-oct-30/3320378",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=IEC Botswana – Elections |url=https://www.iec.gov.bw/index.php/elections.html/#process |access-date=2024-09-03 |website=www.iec.gov.bw}}</ref>",
                   "url": "https://www.iec.gov.bw/index.php/elections.html/#process",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 }
               ]
@@ -469,7 +469,7 @@
                 {
                   "text": "<ref>{{Cite web |title=Voter registration |url=https://aceproject.org/ace-en/topics/vr/vra/vra01 |access-date=2024-07-07 |website=ACE Electoral Knowledge Network}}</ref>",
                   "url": "https://aceproject.org/ace-en/topics/vr/vra/vra01",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -482,7 +482,7 @@
                 {
                   "text": "<ref>{{Cite web |title=Botswana begins voter registration for upcoming election despite challenges-Xinhua |url=https://english.news.cn/20240106/94a3e3ee5f7f4ae4b6cba633a85a2b07/c.html |access-date=2024-07-07 |website=english.news.cn}}</ref>",
                   "url": "https://english.news.cn/20240106/94a3e3ee5f7f4ae4b6cba633a85a2b07/c.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -490,13 +490,13 @@
                   "text": "<ref>{{Cite news |date=May 18, 2024 |title=SUPPLEMENTARY REGISTRATION STARTS MAY 20 |url=https://dailynews.gov.bw/news-detail/79579 |access-date=July 7, 2024 |work=DailyNews}}</ref>",
                   "url": "https://dailynews.gov.bw/news-detail/79579",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |title=IEC updates members of All-Party Conference on election readiness—BWgovernment |url=https://www.facebook.com/BotswanaGovernment/posts/pfbid0cRJUAoRf7AGK1msahPAA5fKyQST5VCkYDim4EchxkXCNwn3KfYHhLYnFRorh66ZGl |access-date=2024-07-07 |website=www.facebook.com}}</ref>",
                   "url": "https://www.facebook.com/BotswanaGovernment/posts/pfbid0cRJUAoRf7AGK1msahPAA5fKyQST5VCkYDim4EchxkXCNwn3KfYHhLYnFRorh66ZGl",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -517,14 +517,14 @@
                     {
                       "text": "<ref>{{Cite web |title=Botswana's voter registration suspended – SABC News |url=https://www.sabcnews.com/sabcnews/botswanas-voter-registration-suspended/ |access-date=2024-07-07 |language=en-US}}</ref>",
                       "url": "https://www.sabcnews.com/sabcnews/botswanas-voter-registration-suspended/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Mokwena |first=Potlako Bogatsu,Nicholas |date=2023-11-04 |title=IEC postpones voter registration process |url=https://guardiansun.co.bw/news/politics/iec-postpones-voter-registration-process |access-date=2024-07-07 |website=Guardian Sun |language=en}}</ref>",
                       "url": "https://guardiansun.co.bw/news/politics/iec-postpones-voter-registration-process",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -537,7 +537,7 @@
                     {
                       "text": "<ref>{{Cite web |last=TLHANKANE |first=MOMPATI |date=2023-11-01 |title=Voter registration postponed as IEC, UDC squabble |url=https://www.mmegi.bw/news/voter-registration-postponed-as-iec-udc-squabble/news |access-date=2024-07-07 |website=Mmegi Online |language=en}}</ref>",
                       "url": "https://www.mmegi.bw/news/voter-registration-postponed-as-iec-udc-squabble/news",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -550,7 +550,7 @@
                     {
                       "text": "<ref>{{Cite web |last=Mathonsi |first=Boikanyo |date=2023-12-19 |title=UDC displeased as CoA rules in favour of IEC |url=https://www.mmegi.bw/news/udc-displeased-as-coa-rules-in-favour-of-iec/news |access-date=2024-07-07 |website=Mmegi Online |language=en}}</ref>",
                       "url": "https://www.mmegi.bw/news/udc-displeased-as-coa-rules-in-favour-of-iec/news",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -597,13 +597,13 @@
                       "text": "<ref>{{Cite news |date=26 September 2024 |title=Presidential nominations Saturday |url=https://dailynews.gov.bw/news-detail/81985 |access-date=28 September 2024 |work=Daily News Botswana|DailyNews}}</ref>",
                       "url": "https://dailynews.gov.bw/news-detail/81985",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-09-30 |title=Botswana leader, 3 from opposition confirmed as presidential candidates |url=https://www.voanews.com/a/botswana-leader-3-from-opposition-confirmed-as-presidential-candidates-/7804891.html |access-date=2024-10-04 |website=Voice of America |language=en}}</ref>",
                       "url": "https://www.voanews.com/a/botswana-leader-3-from-opposition-confirmed-as-presidential-candidates-/7804891.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -635,14 +635,14 @@
                     {
                       "text": "<ref>{{cite news |url=https://www.weekendpost.co.bw/33919/news/balopi-set-to-quit-politics/ |title=Balopi set to quit politics |date=28 March 2022 |work=Weekend Post}}</ref>",
                       "url": "https://www.weekendpost.co.bw/33919/news/balopi-set-to-quit-politics/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 404,
+                      "reason": "Not Found",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |url=https://www.mmegi.bw/ampArticle/110279 |title=I won't contest but I remain BDP- Matsheka |date=17 October 2023 |work=Mmegi Online|Mmegi}}</ref>",
                       "url": "https://www.mmegi.bw/ampArticle/110279",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
@@ -650,14 +650,14 @@
                       "text": "<ref>{{cite news |url=https://dailynews.gov.bw/news-detail/69649 |title=Moatlhodi to retire from active politics|work=DailyNews}}</ref>",
                       "url": "https://dailynews.gov.bw/news-detail/69649",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |url=https://dailynews.gov.bw/news-detail/77452 |title=Molale bids constituents farewell|work=DailyNews}}</ref>",
                       "url": "https://dailynews.gov.bw/news-detail/77452",
                       "status_code": null,
-                      "reason": null,
+                      "reason": "Timeout",
                       "type": "news"
                     }
                   ]
@@ -690,7 +690,7 @@
                 {
                   "text": "<ref>{{Cite web |title=Botswana elections: Ruling party seeks to extend 58 years in power |url=https://www.aljazeera.com/news/2024/10/30/botswana-elections-ruling-party-seeks-to-extend-58-years-in-power |access-date=2024-10-30 |website=Al Jazeera}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/10/30/botswana-elections-ruling-party-seeks-to-extend-58-years-in-power",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -722,7 +722,7 @@
                 {
                   "text": "<ref>{{Cite news |title=Botswana's ruling party loses power after 58 years, early results show |url=https://www.aljazeera.com/news/2024/11/1/botswanas-ruling-party-loses-power-after-six-decades-early-results-show |access-date=1 November 2024 |work=Al Jazeera}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/11/1/botswanas-ruling-party-loses-power-after-six-decades-early-results-show",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
@@ -736,7 +736,7 @@
                 {
                   "text": "<ref>{{Cite web |last=IEC Botswana |date=14 October 2024 |title=Media Release: Summary of Information on Total Number of Botswana Registered to Vote in the 2024 General Elections |url=https://www.facebook.com/iecbotswana/posts/pfbid02xXWgjSbL9DjK3wNBCULd2YxSGTAkkJzSk2zapDKAiSjsuUYikm3fLyund3iaaMUJl |access-date=2 November 2024 |website=Facebook}}</ref>",
                   "url": "https://www.facebook.com/iecbotswana/posts/pfbid02xXWgjSbL9DjK3wNBCULd2YxSGTAkkJzSk2zapDKAiSjsuUYikm3fLyund3iaaMUJl",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -749,7 +749,7 @@
                 {
                   "text": "<ref>{{cite web|title=Election Indices |last=Gallagher |first=Michael |url=https://www.tcd.ie/Political_Science/about/people/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf |access-date=29 July 2024 |url-status=live |archive-url=http://web.archive.org/web/20240729233608/https://www.tcd.ie/Political_Science/about/people/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf |archive-date=29 July 2024 }}</ref>",
                   "url": "https://www.tcd.ie/Political_Science/about/people/michael_gallagher/ElSystems/Docts/ElectionIndices.pdf",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -772,28 +772,28 @@
                 {
                   "text": "<ref>{{cite news |last1=Benza |first1=Brian |title=Botswana's ruling party loses election, ending 58-year rule |url=https://www.reuters.com/world/africa/botswanas-ruling-party-loses-its-majority-this-weeks-election-mmegi-newspaper-2024-11-01/ |access-date=1 November 2024 |work=Reuters |date=1 November 2024}}</ref>",
                   "url": "https://www.reuters.com/world/africa/botswanas-ruling-party-loses-its-majority-this-weeks-election-mmegi-newspaper-2024-11-01/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Botswana: Incumbent president Masisi admits defeat |url=https://www.africanews.com/2024/11/01/8826742-botswana-incumbent-president-masisi-admits-defeat/ |access-date=1 November 2024 |work=Africanews |date=1 November 2024}}</ref>",
                   "url": "https://www.africanews.com/2024/11/01/8826742-botswana-incumbent-president-masisi-admits-defeat/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |title=Botswana president concedes election, ending governing party's six-decade rule |url=https://www.france24.com/en/africa/20241101-botswana-governing-party-losing-six-decade-rule-early-tallies-show |access-date=1 November 2024 |work=France 24 |date=1 November 2024}}</ref>",
                   "url": "https://www.france24.com/en/africa/20241101-botswana-governing-party-losing-six-decade-rule-early-tallies-show",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Boko sworn in as President |url=https://www.mmegi.bw/news/boko-sworn-in-as-president/news |access-date=3 November 2024 |website=Mmegi}}</ref>",
                   "url": "https://www.mmegi.bw/news/boko-sworn-in-as-president/news",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

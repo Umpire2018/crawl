@@ -14,21 +14,21 @@
                 {
                   "text": "<ref>{{Cite web |title=UN Climate Change Conference Baku - November 2024 |url=https://unfccc.int/cop29 |access-date=9 September 2024 |website=UNFCCC}}</ref>",
                   "url": "https://unfccc.int/cop29",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"Gayle 2024 s296\">{{Cite news |last=Gayle |first=Damien |date=5 January 2024 |title=Oil industry veteran to lead next round of Cop climate change summit |url=https://www.theguardian.com/environment/2024/jan/05/cop29-will-be-led-by-mukhtar-babayev-azerbaijan-ecology-minister-who-is-oil-industry-veteran |access-date=5 January 2024 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>",
                   "url": "https://www.theguardian.com/environment/2024/jan/05/cop29-will-be-led-by-mukhtar-babayev-azerbaijan-ecology-minister-who-is-oil-industry-veteran",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite news |last=McGrath |first=Matt |date=5 January 2024 |title=Climate change: Former oil executive Mukhtar Babayev to lead COP29 talks in Azerbaijan |url=https://www.bbc.com/news/science-environment-67895068 |access-date=6 January 2024 |work=BBC |language=en-GB}}</ref>",
                   "url": "https://www.bbc.com/news/science-environment-67895068",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -41,15 +41,15 @@
                 {
                   "text": "<ref>{{citation |url=https://www.nytimes.com/2024/11/23/climate/cop29-climate-talks-conclusion.html |newspaper=New York Times |title=Climate Talks End With a Bitter Fight and a Deal on Money |date=23 November 2024 |author=Max Bearak |access-date=2024-11-24}}</ref>",
                   "url": "https://www.nytimes.com/2024/11/23/climate/cop29-climate-talks-conclusion.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": null
                 },
                 {
                   "text": "<ref>{{citation |url=https://www.reuters.com/sustainability/sustainable-finance-reporting/cop29-agrees-deal-kick-start-global-carbon-credit-trading-2024-11-23/ |work=Reuters |title=COP29 agrees deal to kick-start global carbon credit trading |author1=Virginia Furness |author2=Kate Abnett |author3=Simon Jessop |date=23 November 2024 |access-date=2024-11-24}}.</ref>",
                   "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/cop29-agrees-deal-kick-start-global-carbon-credit-trading-2024-11-23/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": null
                 }
               ]
@@ -61,21 +61,21 @@
                 {
                   "text": "<ref name=\":03\">{{Cite news |date=2024 |title='Official Partners' of Azerbaijan's COP29 Climate Summit Linked To Ruling Aliyev Family and Their Inner Circle |url=https://www.occrp.org/en/project/know-your-host/official-partners-of-azerbaijans-cop29-climate-summit-linked-to-ruling-aliyev-family-and-their-inner-circle |work=OCCRP |access-date=2024-11-24}}</ref>",
                   "url": "https://www.occrp.org/en/project/know-your-host/official-partners-of-azerbaijans-cop29-climate-summit-linked-to-ruling-aliyev-family-and-their-inner-circle",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\":13\">{{Cite web |date=2024 |title=COP Co-Opted: How corruption and undue influence threaten multilateral climate action |url=https://acdatacollective.org/wp-content/uploads/2024/10/COP-Co-Opted-How-Corruption-and-Undue-Influence-Threaten-Multilateral-Climate-Action_FIN.pdf |website=Transparency International}}</ref>",
                   "url": "https://acdatacollective.org/wp-content/uploads/2024/10/COP-Co-Opted-How-Corruption-and-Undue-Influence-Threaten-Multilateral-Climate-Action_FIN.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":2\">{{Cite news |last=Kucera |first=Joshua |date=2024-11-10 |title=Azerbaijan Eyes Prestige Boost From Hosting COP29, Despite The Critics |url=https://www.rferl.org/a/cop29-azerbaijan-rights-problem-climate/33183450.html |work=Radio Free Europe/Radio Liberty |access-date=2024-11-24 |language=en}}</ref>",
                   "url": "https://www.rferl.org/a/cop29-azerbaijan-rights-problem-climate/33183450.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -98,7 +98,7 @@
                 {
                   "text": "<ref name=\"depo\">{{cite web |date=8 July 2016 |title=Paris Agreement |url=https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-7-d&chapter=27&clang=_en |access-date=24 November 2024 |publisher=United Nations Treaty Collection}}</ref>",
                   "url": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-7-d&chapter=27&clang=_en",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -118,7 +118,7 @@
                 {
                   "text": "<ref>{{cite news |last=Babayev |first=Mukhtar |date=12 March 2024 |title=As Cop29 president, I will build bridges between the diverging north and south to keep 1.5C in reach |url=https://www.theguardian.com/commentisfree/2024/mar/12/cop29-bridges-diverging-north-and-south-15c-in-reach |access-date=11 May 2024 |work=The Guardian}}</ref>",
                   "url": "https://www.theguardian.com/commentisfree/2024/mar/12/cop29-bridges-diverging-north-and-south-15c-in-reach",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -141,8 +141,8 @@
                 {
                   "text": "<ref name=\"reutersazwins\">{{cite news |last1=Abnett |first1=Kate |last2=Volcovici |first2=Valerie |title=Azerbaijan wins regional backing to host COP29 climate summit |url=https://www.reuters.com/business/environment/azerbaijan-says-overall-consensus-baku-hosting-cop29-2023-12-09/ |access-date=15 November 2024 |work=Reuters |date=10 December 2023}}</ref>",
                   "url": "https://www.reuters.com/business/environment/azerbaijan-says-overall-consensus-baku-hosting-cop29-2023-12-09/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "news"
                 }
               ]
@@ -154,36 +154,36 @@
                 {
                   "text": "<ref>{{citation |title=Statement on the Genocidal State of Azerbaijan Hosting COP29 |work=Lemkin Institute |url=https://www.lemkininstitute.com/statements-new-page/statement-on-the-genocidal-state-of-azerbaijan-hosting-cop29 |access-date=2024-09-18 |archive-url=http://web.archive.org/web/20240904170844/https://www.lemkininstitute.com/statements-new-page/statement-on-the-genocidal-state-of-azerbaijan-hosting-cop29 |archive-date=2024-09-04 |language=en}}</ref>",
                   "url": "https://www.lemkininstitute.com/statements-new-page/statement-on-the-genocidal-state-of-azerbaijan-hosting-cop29",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": null
                 },
                 {
                   "text": "<ref>{{citation |last1=Little |first1=Alex |title=Hold Azerbaijan accountable before it hosts the next UN Climate Conference |date=2024-04-22 |work=The Hill |url=https://thehill.com/opinion/energy-environment/4612690-hold-azerbaijan-accountable-before-it-hosts-the-next-un-climate-conference/ |access-date=2024-09-18 |language=en |last2=Contirbutor |first2=Opinion}}</ref>",
                   "url": "https://thehill.com/opinion/energy-environment/4612690-hold-azerbaijan-accountable-before-it-hosts-the-next-un-climate-conference/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": null
                 },
                 {
                   "text": "<ref name=\":03\"/><ref name=\":12\">{{Cite web |date=2024 |title=COP Co-Opted: How corruption and undue influence threaten multilateral climate action |url=https://acdatacollective.org/wp-content/uploads/2024/10/COP-Co-Opted-How-Corruption-and-Undue-Influence-Threaten-Multilateral-Climate-Action_FIN.pdf |website=Transparency International}}</ref>",
                   "url": "https://acdatacollective.org/wp-content/uploads/2024/10/COP-Co-Opted-How-Corruption-and-Undue-Influence-Threaten-Multilateral-Climate-Action_FIN.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{citation |last1=Civillini |first1=Matteo |title=Nagorno-Karabakh: Azerbaijan's green vision vs. war legacy |date=2024-05-15 |work=Climate Home News |url=https://www.climatechangenews.com/2024/05/15/in-nagorno-karabakh-azerbaijans-net-zero-vision-clashes-with-legacy-of-war/ |access-date=2024-09-18 |language=en-GB}}</ref>",
                   "url": "https://www.climatechangenews.com/2024/05/15/in-nagorno-karabakh-azerbaijans-net-zero-vision-clashes-with-legacy-of-war/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": null
                 },
                 {
                   "text": "<ref>{{citation |title=Why is oil-rich Azerbaijan hosting the UN's largest climate conference? - CIVILNET |date=2024-07-06 |work=CIVILNET |url=https://www.civilnet.am/en/news/784650/why-is-oil-rich-azerbaijan-hosting-the-uns-largest-climate-conference/ |access-date=2024-09-18 |language=en}}</ref>",
                   "url": "https://www.civilnet.am/en/news/784650/why-is-oil-rich-azerbaijan-hosting-the-uns-largest-climate-conference/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": null
                 }
               ]
@@ -195,36 +195,36 @@
                 {
                   "text": "<ref>{{citation |last1=Harvey |first1=Fiona |title=Azerbaijan accused of media crackdown before hosting Cop29 |date=2024-09-18 |work=The Guardian |url=https://www.theguardian.com/environment/article/2024/jun/12/azerbaijan-accused-of-media-crackdown-before-hosting-cop29 |access-date=2024-09-18 |language=en}}</ref>",
                   "url": "https://www.theguardian.com/environment/article/2024/jun/12/azerbaijan-accused-of-media-crackdown-before-hosting-cop29",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": null
                 },
                 {
                   "text": "<ref>{{citation |last1=Latschan |first1=Thomas |title=Azerbaijan: Repressive climate ahead of COP29 |date=2024-06-15 |work=Deutsche Welle |url=https://www.dw.com/en/azerbaijan-repressive-climate-ahead-of-cop29/a-69374216 |access-date=2024-09-18 |language=en}}</ref>",
-                  "url": "https://www.dw.com/en/azerbaijan-repressive-climate-ahead-of-cop29/a-69374216",
-                  "status_code": null,
+                  "url": "https://www.dw.com/en/azerbaijan-repressive-climate-ahead-of-climate-conference/a-69374216",
+                  "status_code": 200,
                   "reason": null,
                   "type": null
                 },
                 {
                   "text": "<ref>{{citation |last1=Gavin |first1=Gabriel |title=Good COP, bad COP: Azerbaijan's climate charm offensive is backfiring |date=2024-05-08 |work=POLITICO |url=https://www.politico.eu/article/good-cop-bad-cop-azerbaijans-climate-charm-offensive-is-backfiring/ |access-date=2024-09-18 |language=en |last2=Schonhardt |first2=Sara}}</ref>",
                   "url": "https://www.politico.eu/article/good-cop-bad-cop-azerbaijans-climate-charm-offensive-is-backfiring/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": null
                 },
                 {
                   "text": "<ref>{{citation |last1=Rubin |first1=Michael |title=Is COP29 Berlin 1936? &#124; American Enterprise Institute - AEI |date=2024-09-16 |work=American Enterprise Institute - AEI |url=https://www.aei.org/op-eds/is-cop29-berlin-1936/ |access-date=2024-09-18 |language=en-US}}</ref>",
                   "url": "https://www.aei.org/op-eds/is-cop29-berlin-1936/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": null
                 },
                 {
                   "text": "<ref name=\":03\"/><ref name=\":1\">{{Cite web |date=2024 |title=COP Co-Opted: How corruption and undue influence threaten multilateral climate action |url=https://acdatacollective.org/wp-content/uploads/2024/10/COP-Co-Opted-How-Corruption-and-Undue-Influence-Threaten-Multilateral-Climate-Action_FIN.pdf |website=Transparency International}}</ref>",
                   "url": "https://acdatacollective.org/wp-content/uploads/2024/10/COP-Co-Opted-How-Corruption-and-Undue-Influence-Threaten-Multilateral-Climate-Action_FIN.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 404,
+                  "reason": "Not Found",
                   "type": "web"
                 }
               ]
@@ -236,8 +236,8 @@
                 {
                   "text": "<ref>{{cite web |date=4 June 2024 |title=Global: Host Country Agreement with Azerbaijan for COP29 must guarantee human rights and be publicly available |url=https://www.amnesty.org/en/latest/news/2024/07/global-host-country-agreement-with-azerbaijan-for-cop29-must-guarantee-human-rights-and-be-publicly-available/ |access-date=17 October 2024 |website=Amnesty International}}</ref>",
                   "url": "https://www.amnesty.org/en/latest/news/2024/07/global-host-country-agreement-with-azerbaijan-for-cop29-must-guarantee-human-rights-and-be-publicly-available/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -249,7 +249,7 @@
                 {
                   "text": "<ref>{{cite news|last=MEGRELIDZE |first= SOPHIKO |title=Greta Thunberg protests against Azerbaijan hosting global climate summit |date=11 November 2024 |url=https://apnews.com/article/thunberg-rally-georgia-climate-azerbaijan-cop29-68a9669bd59c0cae02d22ee6316225bf |website=AP News |access-date=12 November 2024}}</ref>",
                   "url": "https://apnews.com/article/thunberg-rally-georgia-climate-azerbaijan-cop29-68a9669bd59c0cae02d22ee6316225bf",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -319,22 +319,22 @@
                 {
                   "text": "<ref>{{Cite web |date=10 October 2024 |title=UN Pre-COP29 climate conference kicks off in Baku |url=https://report.az/en/cop29/un-pre-cop29-climate-conference-kicks-off-in-baku/ |access-date=27 October 2024 |website=Report News Agency |language=en}}</ref>",
                   "url": "https://report.az/en/cop29/un-pre-cop29-climate-conference-kicks-off-in-baku/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=22 October 2024 |title=Pre-COP29 in Baku: Global leaders gather in Baku |url=https://www.euronews.com/2024/10/22/pre-cop29-global-leaders-meet-in-baku-to-tackle-climate-change-and-scale-up-finance-soluti |access-date=27 October 2024 |website=Euronews |language=en}}</ref>",
                   "url": "https://www.euronews.com/2024/10/22/pre-cop29-global-leaders-meet-in-baku-to-tackle-climate-change-and-scale-up-finance-soluti",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Norel-Wilson |first=Lucie |date=15 October 2024 |title=Pre-COP29 Takes Place in Azerbaijan |url=https://www.renewableinstitute.org/pre-cop29-takes-place-in-azerbaijan/ |access-date=27 October 2024 |website=Renewable Energy Institute |language=en-US}}</ref>",
                   "url": "https://www.renewableinstitute.org/pre-cop29-takes-place-in-azerbaijan/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 202,
+                  "reason": "Accepted",
                   "type": "web"
                 }
               ]
@@ -368,15 +368,15 @@
               "references": [
                 {
                   "text": "<ref name=\"Hughes 2024 m755\">{{cite web |last=Hughes |first=Rebecca Ann |date=17 January 2024 |title=Azerbaijan's COP29 committee comprises 28 men and no women |url=https://www.euronews.com/green/2024/01/17/excluding-women-from-decision-making-campaigners-condemn-azerbaijans-all-male-cop29-commit |access-date=19 January 2024 |website=Euro News}}</ref>",
-                  "url": "https://www.euronews.com/green/2024/01/17/excluding-women-from-decision-making-campaigners-condemn-azerbaijans-all-male-cop29-commit",
-                  "status_code": null,
+                  "url": "https://www.euronews.com/green/2024/01/19/excluding-women-from-decision-making-campaigners-condemn-azerbaijans-all-male-cop29-commit",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"Carrington 2024 o574\">{{cite web |last=Carrington |first=Damian |date=19 January 2024 |title=Women added to Cop29 climate summit committee after backlash |url=https://www.theguardian.com/environment/2024/jan/19/women-cop29-climate-summit-committee-backlash |access-date=19 January 2024 |website=The Guardian}}</ref>",
                   "url": "https://www.theguardian.com/environment/2024/jan/19/women-cop29-climate-summit-committee-backlash",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -399,7 +399,7 @@
                 {
                   "text": "<ref>{{cite news |last=Lo |first=Joe |title=Azerbaijan appoint state oil company veteran as Cop29 president |url=https://www.climatechangenews.com/2024/01/04/azerbaijan-appoint-state-oil-company-veteran-as-cop29-president/ |access-date=11 May 2024 |work=Climate Home News |date=4 January 2024 |language=en}}</ref>",
                   "url": "https://www.climatechangenews.com/2024/01/04/azerbaijan-appoint-state-oil-company-veteran-as-cop29-president/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
@@ -436,7 +436,7 @@
                 {
                   "text": "<ref>{{cite web |title=COP29 |url=https://unfccc.int/cop29 |publisher=UNFCCC |access-date=2024-11-10}}</ref>",
                   "url": "https://unfccc.int/cop29",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
@@ -466,21 +466,21 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-04-15 |title=COP29 to be held at Baku Olympic Stadium |url=https://report.az/en/cop29/cop29-to-be-held-at-baku-olympic-stadium-official/ |access-date=2024-11-10 |website=Report News Agency |language=en}}</ref>",
                   "url": "https://report.az/en/cop29/cop29-to-be-held-at-baku-olympic-stadium-official/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-11-05 |title=How Baku is preparing to host the world's biggest climate summit |url=https://www.euronews.com/2024/11/05/azerbaijan-gears-up-for-cop29-how-baku-is-preparing-to-host-the-worlds-biggest-climate-sum |access-date=2024-11-10 |website=Euronews |language=en}}</ref>",
                   "url": "https://www.euronews.com/2024/11/05/azerbaijan-gears-up-for-cop29-how-baku-is-preparing-to-host-the-worlds-biggest-climate-sum",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Preparations for COP29 in Baku almost complete |url=https://www.commonspace.eu/news/preparations-cop29-baku-almost-complete |access-date=2024-11-10 |website=commonspace.eu |language=en}}</ref>",
                   "url": "https://www.commonspace.eu/news/preparations-cop29-baku-almost-complete",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -493,7 +493,7 @@
                 {
                   "text": "<ref>{{Cite web |title=COP explained: Blue Zone versus Green Zone |url=https://socenv.org.uk/resource/cop-explained-blue-zone-versus-green-zone/ |access-date=2024-11-10 |website=Society for the Environment |language=en}}</ref>",
                   "url": "https://socenv.org.uk/resource/cop-explained-blue-zone-versus-green-zone/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -516,15 +516,15 @@
                 {
                   "text": "<ref>{{Cite web |last1=Larsen |first1=Gaia |last2=Waskow |first2=David |last3=Alayza |first3=Natalia |last4=Cogswell |first4=Nathan |last5=Boehm |first5=Sophie |last6=Srouji |first6=Jamal |last7=Fransen |first7=Taryn |last8=Carter |first8=Rebecca |last9=Swaby |first9=Gabrielle |last10=Chakrabarty |first10=Subrata |last11=Warszawski |first11=Nate |date=2024-10-29 |title=Will COP29 Unlock a New Era of Action? What to Watch at the 2024 Climate Summit |url=https://www.wri.org/insights/cop29-climate-summit-what-to-expect |website=www.wri.org |access-date=2024-11-24 |language=en}}</ref>",
                   "url": "https://www.wri.org/insights/cop29-climate-summit-what-to-expect",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"chathamhouse\">{{cite web |date=October 2024 |title=What is COP29 and why is it important? |url=https://www.chathamhouse.org/2024/10/what-cop29-and-why-it-important |access-date=2024-11-10 |publisher=Chatham House}}</ref>",
                   "url": "https://www.chathamhouse.org/2024/10/what-cop29-and-why-it-important",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -536,8 +536,8 @@
                 {
                   "text": "<ref>{{Cite web |date=14 November 2024 |title=COP29 climate talks: What finance deals have been announced? |url=https://www.reuters.com/sustainability/sustainable-finance-reporting/finance-business-deals-announced-cop29-climate-talks-2024-11-13/?utm_source=chatgpt.com <!--|url-status=live--> |access-date=18 November 2024 |website=Reuters}}</ref>",
                   "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/finance-business-deals-announced-cop29-climate-talks-2024-11-13/?utm_source=chatgpt.com",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 }
               ]
@@ -549,8 +549,8 @@
                 {
                   "text": "<ref>{{Cite web |last=Khan |first=Yusuf |date=12 November 2024 |title=U.N. Negotiators Take Key Step to Global Carbon Deal |url=https://www.wsj.com/articles/u-n-negotiators-take-key-step-to-global-carbon-deal-1e23433e <!--|url-status=live--> |access-date=18 November 2024 |website=The Wall Street Journal}}</ref>",
                   "url": "https://www.wsj.com/articles/u-n-negotiators-take-key-step-to-global-carbon-deal-1e23433e",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -562,7 +562,7 @@
                 {
                   "text": "<ref>{{cite news |title=Developing nations blast 'paltry' $300 billion deal approved at UN COP29 climate summit |date=24 November 2024 |url=https://www.france24.com/en/europe/20241124-developing-nations-blast-paltry-300-billion-deal-approved-at-un-climate-summit |access-date=24 November 2024}}</ref>",
                   "url": "https://www.france24.com/en/europe/20241124-developing-nations-blast-paltry-300-billion-deal-approved-at-un-climate-summit",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -575,15 +575,15 @@
                 {
                   "text": "<ref>{{cite web|url=https://www.climatechangenews.com/2024/11/20/cop29-bulletin-day-9-developing-nations-draw-super-red-line-on-climate-finance-goal/|title=COP29 Bulletin Day 9: Developing nations deride \"$200bn\" finance rumour |author=Climate Home News|page=|date=2024-11-20|access-date=2024-11-24}}</ref>",
                   "url": "https://www.climatechangenews.com/2024/11/20/cop29-bulletin-day-9-developing-nations-draw-super-red-line-on-climate-finance-goal/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web|url=https://www.yahoo.com/news/main-points-300-billion-climate-031825708.html|title=Main points of the $300 billion climate deal|author=AFP|page=|date=2024-11-24|access-date=2024-11-24}}</ref>",
                   "url": "https://www.yahoo.com/news/main-points-300-billion-climate-031825708.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
                   "type": "web"
                 }
               ]
@@ -605,8 +605,8 @@
                 {
                   "text": "<ref>{{cite web |title=COP29 and beyond: Energy transition ambition |date=6 November 2024 |url=https://www.e3g.org/news/cop-29-and-beyond-energy-transition-ambition/ |publisher=E3G |access-date=2024-11-10}}</ref>",
                   "url": "https://www.e3g.org/news/cop-29-and-beyond-energy-transition-ambition/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -628,7 +628,7 @@
                 {
                   "text": "<ref>{{Cite web |title=COP29 chief secretly filmed promoting fossil fuel deals |url=https://www.bbc.com/news/articles/crmzvdn9e18o |access-date=2024-11-10 |website=www.bbc.com |language=en-GB}}</ref>",
                   "url": "https://www.bbc.com/news/articles/crmzvdn9e18o",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -641,14 +641,14 @@
                 {
                   "text": "<ref>{{Cite web |date=2024 |title=Oil-rich nations 'pushback' against fossil fuel phaseout |url=https://www.ft.com/content/c1e13d08-9917-44d3-bd63-5916a320e451 |website=www.ft.com |access-date=2024-11-24}}</ref>",
                   "url": "https://www.ft.com/content/c1e13d08-9917-44d3-bd63-5916a320e451",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 406,
+                  "reason": "Not Acceptable",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=31 October 2024 |title=Papua New Guinea to boycott 'waste of time' UN climate summit |url=https://www.france24.com/en/live-news/20241031-papua-new-guinea-to-boycott-waste-of-time-un-climate-summit |access-date=2 November 2024 |website=France 24 |language=en}}</ref>",
                   "url": "https://www.france24.com/en/live-news/20241031-papua-new-guinea-to-boycott-waste-of-time-un-climate-summit",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -661,28 +661,28 @@
                 {
                   "text": "<ref>{{cite web |date=10 October 2024 |title=The Host Country Agreement between the UNFCCC and the Government of the Republic of Azerbaijan |url=https://www.hrw.org/sites/default/files/media_2024/10/HCA%20COP%2029%20Final%20EN%20Signed_.pdf |access-date=17 October 2024 |website=Human Rights Watch}}</ref>",
                   "url": "https://www.hrw.org/sites/default/files/media_2024/10/HCA%20COP%2029%20Final%20EN%20Signed_.pdf",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |last=Corbett |first=Jessica |date=10 October 2024 |title=COP29 Host Deal Revealed Amid Azerbaijan's 'Vicious Crackdown' on Critics |url=https://www.commondreams.org/news/cop29-azerbaijan |access-date=17 October 2024 |website=Common Dreams}}</ref>",
                   "url": "https://www.commondreams.org/news/cop29-azerbaijan",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |date=8 October 2024 |title='We Try to Stay Invisible': Azerbaijan's Escalating Crackdown on Critics and Civil Society |url=https://www.hrw.org/report/2024/10/08/we-try-stay-invisible/azerbaijans-escalating-crackdown-critics-and-civil-society |access-date=17 October 2024 |website=Human Rights Watch}}</ref>",
                   "url": "https://www.hrw.org/report/2024/10/08/we-try-stay-invisible/azerbaijans-escalating-crackdown-critics-and-civil-society",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |last=Tilianaki |first=Myrto |date=10 October 2024 |title=COP29 Host Country Agreement Lacks Rights Protections |url=https://www.hrw.org/news/2024/10/10/cop29-host-country-agreement-lacks-rights-protections |access-date=17 October 2024 |website=Human Rights Watch}}</ref>",
                   "url": "https://www.hrw.org/news/2024/10/10/cop29-host-country-agreement-lacks-rights-protections",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -695,8 +695,8 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-11-14 |title=Vegan row erupts at Cop climate summit – and the UN steps in |url=https://www.yahoo.com/news/vegan-row-erupts-cop-climate-111700887.html |access-date=2024-11-23 |website=Yahoo News |language=en-US}}</ref>",
                   "url": "https://www.yahoo.com/news/vegan-row-erupts-cop-climate-111700887.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
                   "type": "web"
                 }
               ]
@@ -708,7 +708,7 @@
                 {
                   "text": "<ref>{{Cite news |last=Carrington |first=Damian |date=2024-11-23 |title=Revealed: Saudi Arabia accused of modifying official Cop29 negotiating text |url=https://www.theguardian.com/environment/2024/nov/23/revealed-saudi-arabia-accused-of-modifying-official-cop29-negotiating-text |access-date=2024-11-25 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>",
                   "url": "https://www.theguardian.com/environment/2024/nov/23/revealed-saudi-arabia-accused-of-modifying-official-cop29-negotiating-text",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -721,8 +721,8 @@
                 {
                   "text": "<ref>{{Cite news |last=Bryan |first=Kenza |date=2024-11-20 |title=Azerbaijan blocks COP29.com in fossil fuel domain name war |url=https://www.ft.com/content/acd034cb-5f8f-40fe-9d41-cfa3a9d2ec25 |access-date=2025-02-24 |work=Financial Times}}</ref>",
                   "url": "https://www.ft.com/content/acd034cb-5f8f-40fe-9d41-cfa3a9d2ec25",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 406,
+                  "reason": "Not Acceptable",
                   "type": "news"
                 }
               ]
@@ -734,7 +734,7 @@
                 {
                   "text": "<ref>{{cite news|title=US lawmaker accuses Azerbaijan in near 'assault' at COP29 |date=19 November 2024 |url=https://www.france24.com/en/live-news/20241119-us-lawmaker-accuses-azerbaijan-in-near-assault-at-cop29 |website=France24 |access-date=27 November 2024}}</ref>",
                   "url": "https://www.france24.com/en/live-news/20241119-us-lawmaker-accuses-azerbaijan-in-near-assault-at-cop29",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }

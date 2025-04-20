@@ -1,0 +1,213 @@
+{
+  "title": "2025_Czech_parliamentary_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "Soon after the 2021 elections, the leader of the Mayors and Independents, Vít Rakušan, said that his party would run in the next elections as a single party rather than continue their alliance with the Pirate Party. According to internal Pirate Party analysis, the Mayors violated their joint agreement by asking their voters to give their candidates preference votes on the joint list, which resulted in just four Pirate MPs being elected.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|title=New Czech government set to sign coalition deal|url=https://www.intellinews.com/new-czech-government-set-to-sign-coalition-deal-226157/|website=Bne IntelliNews|date=7 November 2021|access-date=23 January 2025}}</ref>",
+                  "url": "https://www.intellinews.com/new-czech-government-set-to-sign-coalition-deal-226157/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "On 8 February 2023, Babiš announced he would limit his role within ANO. He would remain as an MP and the leader of the party, while Karel Havlíček (politician)|Karel Havlíček and Alena Schillerová would become the primary faces of the party, with Havlíček becoming leader of the shadow cabinet. Babiš described Havlíček as a future prime minister of the Czech Republic.",
+              "references": [
+                {
+                  "text": "<ref name=\"Novinky 8 12 23\">{{Cite web|first=Dáša|last=Šamanová|title=Babiš se stahuje do pozadí, předsedou ANO a poslancem přitom zůstává|url=https://www.novinky.cz/clanek/domaci-babis-zustava-poslancem-40422398 |website=Novinky.cz|access-date=8 February 2023|language=cs|publisher=Borgis}}</ref>",
+                  "url": "https://www.novinky.cz/clanek/domaci-babis-zustava-poslancem-40422398",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"iDNES 8 2 23\">{{Cite news|first=Josef|last=Kopecký|title=Babiš povede ANO v pozadí, vidět budou Schillerová a šéf stínové vlády Havlíček|url=https://www.idnes.cz/zpravy/domaci/vedeni-ano-prezidentska-volba-andrej-babis-poslanecky-mandat.A230208_060529_domaci_kop|newspaper=Mladá fronta Dnes|publisher=Mafra (company)|Mafra|date=8 February 2023|access-date=8 February 2023|language=cs}}</ref>",
+                  "url": "https://www.idnes.cz/nastaveni-souhlasu?url=https://www.idnes.cz/zpravy/domaci/vedeni-ano-prezidentska-volba-andrej-babis-poslanecky-mandat.A230208_060529_domaci_kop",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"HN 090623\">{{Cite news|first=Ondřej|last=Leinert|title=Babiš: Moje poslední volby? Asi v roce 2025. Vláda ničí naši práci, Fiala to neřídí a Válek by se měl léčit|url=https://archiv.hn.cz/c1-67213690-babis-moje-posledni-volby-asi-v-roce-2025-vlada-nici-nasi-praci-fiala-to-neridi-a-valek-by-se-mel-lecit|newspaper=Hospodářské noviny|date=9 June 2023|access-date=9 June 2023|language=cs|publisher=Economia}}</ref>",
+                  "url": "https://archiv.hn.cz/c1-67213690-babis-moje-posledni-volby-asi-v-roce-2025-vlada-nici-nasi-praci-fiala-to-neridi-a-valek-by-se-mel-lecit",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "On 21 March 2025, Freedom and Direct Democracy|SPD, Svobodní, Tricolour (political party)|Tricolour and Law, Respect, Expertise|PRO signed a memorandum agreeing on cooperation in the 2025 parliamentary election, on the SPD candidate list.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news|first=Marek|last=Veselý|title=Široké spojení na palubě SPD. Okamura se dohodl se Svobodnými, Trikolorou i Rajchlem|url=https://cnn.iprima.cz/siroke-spojeni-na-palube-spd-okamura-se-dohodl-se-svobodnymi-trikolorou-i-rajchlem-469491|website=Prima televize|date=21 March 2025|access-date=21 March 2025|language=cs|publisher=FTV Prima}}</ref>",
+                  "url": "https://cnn.iprima.cz/siroke-spojeni-na-palube-spd-okamura-se-dohodl-se-svobodnymi-trikolorou-i-rajchlem-469491",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s4",
+              "text": "On 31 March 2025, Stačilo! annouced Member of the European Parliament|MEP Kateřina Konečná as election leader, former MEP Jana Bobošíková as leader for the Central Bohemian Region, and party leader {{ill|Daniel Sterzik|cs}} as leader for the South Moravian Region.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news|first=Ivana|last=Syrovátková|title=Stačilo! povedou do voleb Konečná, Bobošíková nebo Vidlák. Hnutí slibuje dvouciferný výsledek|url=https://cnn.iprima.cz/stacilo-povedou-do-voleb-konecna-bobosikova-nebo-vidlak-hnuti-slibuje-dvouciferny-vysledek-470422|website=Prima televize|date=31 March 2025|access-date=31 March 2025|language=cs|publisher=FTV Prima|agency=Czech News Agency}}</ref>",
+                  "url": "https://cnn.iprima.cz/stacilo-povedou-do-voleb-konecna-bobosikova-nebo-vidlak-hnuti-slibuje-dvouciferny-vysledek-470422",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.2",
+          "title": "2024 European Parliament election",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.2.s1",
+                  "text": "Among the parliamentary opposition, ANO (political party)|ANO gained one mandate compared to the previous election, and Freedom and Direct Democracy|SPD lost one, just passing the parliamentary threshold. Most of the gains went to Populism|populist extra-parliamentary parties, with two MEPs each won by Far-left politics|far-left Stačilo! and the right-wing populist Přísaha and Motorists, whose leader Filip Turek (racing driver)|Filip Turek had faced Neo-Nazism|neo-nazism allegations just days before the election. The election also saw the worst result ever for Social Democracy (Czech Republic)|Social Democracy, which won just 1.8% of the vote, far below the threshold.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web|first=Tomáš|last=Svoboda|title=Volby ovládlo hnutí ANO, největšími skokany jsou Motoristé s Přísahou|url=https://www.seznamzpravy.cz/clanek/volby-eurovolby-volby-ovladlo-hnuti-ano-nejvetsimi-skokany-jsou-motoriste-s-prisahou-253551|website=Seznam Zprávy|date=9 June 2024|access-date=18 January 2025|language=cs}}</ref>",
+                      "url": "https://www.seznamzpravy.cz/clanek/volby-eurovolby-volby-ovladlo-hnuti-ano-nejvetsimi-skokany-jsou-motoriste-s-prisahou-253551",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|first1=Adam|last1=Musil|first2=Jakub|last2=Chodil|title=Eurovolby v Česku vyhrálo ANO. Pirátům může kvůli neúspěchu hrozit štěpení, míní odborníci |url=https://ct24.ceskatelevize.cz/clanek/domaci/cesi-si-zvolili-europoslance-nejuspesnejsi-bylo-ano-350093|website=ČT24|publisher=Czech Television|date=10 June 2024|access-date=18 January 2025|agency=Czech News Agency|language=cs}}</ref>",
+                      "url": "https://ct24.ceskatelevize.cz/clanek/domaci/cesi-si-zvolili-europoslance-nejuspesnejsi-bylo-ano-350093",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.3",
+          "title": "2024 regional and senate elections",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.3.s1",
+                  "text": "The 2024 Czech regional elections saw a near-total wipeout for the Pirate Party, the smallest party in the government coalition, which surpassed the threshold in just one out of 13 contested regions and lost all but four councillors nationwide. This led to the resignation of the party leadership and the party's departure from the Cabinet of Petr Fiala|Fiala cabinet.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web|title=Czech government undergoes a reshuffle after a party leaves but retains a majority in Parliament|url=https://apnews.com/article/czech-government-reshuffle-fiala-pirates-896ceaba8a6085498f7f4b40e252e54c|website=Associated Press|date=8 October 2024}}</ref>",
+                      "url": "https://apnews.com/article/czech-government-reshuffle-fiala-pirates-896ceaba8a6085498f7f4b40e252e54c",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.3.s2",
+                  "text": "The election was also successful for the Stačilo! coalition, which entered 12 out of 13 regional assemblies, winning 40 councillors.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web|first=Blanka|last=Freiwilligová|title=Stačilo! bodovalo v 11 krajích. A nemusí jít o konečný počet|url=https://www.novinky.cz/clanek/volby-stacilo-bodovalo-v-11-krajich-a-nemusi-jit-o-konecny-pocet-40490015|website=Novinky.cz|date=22 September 2024|access-date=18 January 2025|language=cs|publisher=Borgis}}</ref>",
+                      "url": "https://www.novinky.cz/clanek/volby-stacilo-bodovalo-v-11-krajich-a-nemusi-jit-o-konecny-pocet-40490015",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Pre-election composition",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "{| class=\"wikitable sortable\" style=\"text-align:right\"\n|+Results by party\n|colspan=7|\n|-\n!colspan=2|Party\n!Seats\n!+/–\n|-\n|bgcolor=\"{{party color|ANO (political party)}}\"| ||align=left|ANO (political party)|ANO||71||–7\n|-\n|bgcolor=\"{{party color|Civic Democratic Party (Czech Republic)}}\"| ||align=left|Civic Democratic Party (Czech Republic)|Civic Democratic Party||34||+9\n|-\n|bgcolor=\"{{party color|Mayors and Independents}}\"| ||align=left|Mayors and Independents||33||+27\n|-\n|bgcolor=\"{{party color|Christian and Democratic Union – Czechoslovak People's Party}}\"| ||align=left|KDU-ČSL||23||+13\n|-\n|bgcolor=\"{{party color|Freedom and Direct Democracy}}\"| ||align=left|Freedom and Direct Democracy||20||–2\n|-\n|bgcolor=\"{{party color|TOP 09}}\"| ||align=left|TOP 09||14||+7\n|-\n|bgcolor=\"{{party color|Czech Pirate Party}}\"| ||align=left|Czech Pirate Party||4||–18\n|-\n|bgcolor={{party color|Independents}}| ||align=left|Independents||1||+1\n|}",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|title=Seznam Zvolenych Poslancu Strany Spolu v KRAJÍCH - Predikce|url=https://www.e15.cz/volby-snemovna/vysledky-voleb-2021/strana-spolu?strana=13|website=E15.cz|date=9 October 2021|access-date=10 October 2021 |language=cs|publisher=Czech News Center}}</ref>",
+                  "url": "https://www.e15.cz/volby-snemovna/vysledky-voleb-2021/strana-spolu?strana=13",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|title=Seznam Zvolenych Poslancu Strany PIRSTAN v KRAJÍCH - Predikce|url=https://www.e15.cz/volby-snemovna/vysledky-voleb-2021/strana-pirstan?strana=17|website=E15.cz|date=9 October 2021|access-date=10 October 2021|language=cs|publisher=Czech News Center}}</ref>",
+                  "url": "https://www.e15.cz/volby-snemovna/vysledky-voleb-2021/strana-pirstan?strana=17",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Opinion polls",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "4.2",
+          "title": "Party polling",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

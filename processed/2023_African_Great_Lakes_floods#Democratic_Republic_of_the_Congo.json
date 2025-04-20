@@ -1,0 +1,327 @@
+{
+  "title": "2023_African_Great_Lakes_floods#Democratic_Republic_of_the_Congo",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background.",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "Frequent heavy rains causing damage and casualties between March and May are common in East Africa – in May 2020 around 80 people were killed by floods in Rwanda. Floods and droughts have increased in Rwanda over a 30-year period. Rwanda's weather authority attributes the unusual rainfall patterns to climate change.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Rwanda |url=https://climateknowledgeportal.worldbank.org/country/rwanda/vulnerability |website=Climate Knowledge Portal Worldbank}}</ref>",
+                  "url": "https://climateknowledgeportal.worldbank.org/country/rwanda/vulnerability",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"bbcnews\">{{Cite news |date=3 May 2023 |title=Rwanda floods and landslides kill more than 100 people |language=en-GB |work=BBC News |url=https://www.bbc.com/news/world-africa-65469374}}</ref>",
+                  "url": "https://www.bbc.com/news/world-africa-65469374}}</ref>",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "In 2023, several rounds of heavy rain saturated the ground, increasing the likelihood of flooding. Between January and April 2023, the Ministry of Emergency Management reported that weather-related disasters caused 60 fatalities, destroyed over 1,205 homes and damaged 5,000 acres of land across Rwanda. On 2 May, the Rwanda Meteorology Agency predicted above-average forecast rainfall for the next 10 days.",
+              "references": [
+                {
+                  "text": "<ref name=\":1\">{{Cite web |date=3 May 2023 |title=Floods from heavy rainfall kill at least 129 in Rwanda |url=https://apnews.com/article/rwanda-deadly-floods-109-killed-868f117db85661a73f6d0f532e2b8451 |website=Associated Press|first=Ignatius|last=Ssuuna |language=en}}</ref>",
+                  "url": "https://apnews.com/article/rwanda-deadly-floods-109-killed-868f117db85661a73f6d0f532e2b8451",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":3\">{{Cite web |last=Nkurunziza |first=Michel |date=3 May 2023 |title=Over 100 dead as rain ravages Northern, Western provinces |url=https://www.newtimes.co.rw/article/7168/news/environment/over-100-dead-as-rain-ravages-northern-western-provinces |website=The New Times |language=en}}</ref>",
+                  "url": "https://www.newtimes.co.rw/article/7168/news/environment/over-100-dead-as-rain-ravages-northern-western-provinces",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Democratic Republic of the Congo",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "At least 440 people were killed and over 2,500 others were left missing by floods in the villages of Bushushu and Nyamukubi in South Kivu, Democratic Republic of the Congo since 5 May. In response to the flooding, President of the Democratic Republic of the Congo Félix Tshisekedi announced a national day of mourning for 8 May. Two landslides hit North Kivu Province, killing ten people in Lubero and at least six people at the Rubaya mines|Songambele mine, and leaving dozens of miners missing. 100 workers were at the mine at the time of the landslide.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|url=https://reliefweb.int/report/democratic-republic-congo/unicef-drc-humanitarian-situation-report-no-1-flooding-kalehe-territory-13-may-2023|title=UNICEF DRC Humanitarian Situation Report No. 1 (Flooding in Kalehe Territory): 13 May 2023|date=15 May 2023|publisher=Reliefweb}}</ref>",
+                  "url": "https://reliefweb.int/report/democratic-republic-congo/unicef-drc-humanitarian-situation-report-no-1-flooding-kalehe-territory-13-may-2023",
+                  "status_code": 202,
+                  "reason": "Accepted",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"ALJAZEERA\"/><ref>{{cite web|url=https://www.aljazeera.com/news/2023/5/5/at-least-72-bodies-recovered-in-flooded-villages-in-east-dr-congo|title=At least 176 people killed in eastern DR Congo floods|work=Al Jazeera|date=5 May 2023}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/5/5/at-least-72-bodies-recovered-in-flooded-villages-in-east-dr-congo",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"ALJAZEERA\">{{Cite web |date=7 May 2023 |title=DR Congo floods death toll surpasses 400 |url=https://www.aljazeera.com/news/2023/5/7/dr-congo-floods-death-toll-surpasses-200 |website=Al Jazeera}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/5/7/dr-congo-floods-death-toll-surpasses-200",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|title=DR Congo – Many Feared Missing After Landslide in North Kivu|url=https://floodlist.com/africa/dr-congo-landslide-north-kivu-may-2023|date=9 May 2023|website=floodlist.com}}</ref>",
+                  "url": "https://floodlist.com/africa/dr-congo-landslide-north-kivu-may-2023",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=At least 16 people killed in multiple landslides in eastern DRC |url=https://www.aljazeera.com/news/2023/5/10/at-least-sixteen-killed-in-landslide-in-eastern-dr-congo |access-date=19 May 2023 |website=www.aljazeera.com |language=en}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/5/10/at-least-sixteen-killed-in-landslide-in-eastern-dr-congo",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Rwanda",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "Particularly heavy rain started around 16:00 UTC (6 p.m. local time) on 2 May 2023 and continued throughout the night, killing at least 135 people. Landslides also caused roads to be closed on 2 May. At least one person was missing, 110 people were injured and 20,000 people were displaced. The most affected areas in Rwanda were Rutsiro District|Rutsiro, Nyabihu District|Nyabihu, Rubavu District|Rubavu, and Ngororero District|Ngororero. According to Francois Habitegeko|François Habitegeko, the governor of Rwanda's Western Province, Rwanda|Western Province, people were crushed by the collapse of several houses; landslides made the main roads in the area impassable and flooded fields. Most of the deaths in Western Province were near Lake Kivu. Landslides and flooding destroyed 26 bridges and 17-20 roads, 12 power stations, eight water treatment plants, five health centers, two health posts, and a hospital. 5,100-5,963 homes were destroyed and an additional 2,500 were damaged.",
+              "references": [
+                {
+                  "text": "<ref name=\":0\" /><ref name=\"Statesman\">{{Cite news |title=135 killed, over 20K displaced in recent flooding, landslides in Rwanda |url=https://www.thestatesman.com/world/135-killed-over-20k-displaced-in-recent-flooding-landslides-in-rwanda-1503181246.html |work=The Statesman}}</ref>",
+                  "url": "https://www.thestatesman.com/world/135-killed-over-20k-displaced-in-recent-flooding-landslides-in-rwanda-1503181246.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=22 people killed in Somalia floods|url=https://guardian.ng/news/22-people-killed-in-somalia-floods/|date=14 May 2023 |work=The Guardian (Nigeria)|The Guardian}}</ref>",
+                  "url": "https://guardian.ng/news/22-people-killed-in-somalia-floods/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":0a\">{{Cite web |date=2023-05-03 |title=Death toll from Rwanda flash floods rises to 127 |url=https://www.aljazeera.com/news/2023/5/3/at-least-55-killed-in-rwanda-flash-floods |access-date=2024-02-03 |website=Al Jazeera |language=en}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2023/5/3/at-least-55-killed-in-rwanda-flash-floods",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Statesman\" /> The Sebeya River burst its banks.<ref name=\":0\">{{Cite news |last=Girinema |first=Philbert |date=3 May 2023 |title=Heavy rain, floods kill at least 109 in Rwanda, six in Uganda |language=en |work=Reuters |url=https://www.reuters.com/world/africa/floods-heavy-rains-kill-least-55-rwanda-state-broadcaster-2023-05-03/ }}</ref>",
+                  "url": "https://www.reuters.com/world/africa/floods-heavy-rains-kill-least-55-rwanda-state-broadcaster-2023-05-03/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":0\" /> The Karongi District|Karongi district was also affected, with forecasts indicating that Rulindo District|Rurindo, Gakenke District|Gakenke and Gicumbi District|Gicumbi Districts were also likely to experience similarly heavy rains in the following days.<ref>{{Cite web |date=2023-05-04 |title=Rwanda's devastating floods, landslides deaths rise to 130 |url=https://www.theeastafrican.co.ke/tea/news/east-africa/rwanda-floods-death-toll-rises-4222646 |access-date=2024-02-03 |website=The East African |language=en}}</ref>",
+                  "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/rwanda-floods-death-toll-rises-4222646",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":2\">{{Cite web |date=3 May 2023 |title=Over 100 killed in Rwanda floods |url=https://www.monitor.co.ug/uganda/news/over-100-killed-in-rwanda-floods-4221646 |website=Daily Monitor |language=en}}</ref>",
+                  "url": "https://www.monitor.co.ug/uganda/news/over-100-killed-in-rwanda-floods-4221646",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Rwanda – Dozens Dead After Floods and Landslides in Western and Northern Provinces – FloodList |url=https://floodlist.com/africa/rwanda-floods-may-2023 |website=floodlist.com}}</ref>",
+                  "url": "https://floodlist.com/africa/rwanda-floods-may-2023",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":2\" /> 4,100 livestock were killed as well.<ref name=\":3\" /> Floods also affected Rwanda's Northern Province, Rwanda|Northern and Southern Province, Rwanda|Southern Provinces.<ref name=\":2\" /><ref>{{Cite web |date=3 May 2023 |title=Over 100 dead as heavy rainfall triggers devastating floods in Rwanda |url=https://www.hindustantimes.com/world-news/over-100-dead-as-heavy-rainfall-triggers-devastating-floods-in-rwanda-101683118535675.html |website=Hindustan Times |language=en}}</ref>",
+                  "url": "https://www.hindustantimes.com/world-news/over-100-dead-as-heavy-rainfall-triggers-devastating-floods-in-rwanda-101683118535675.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Statesman\"/><ref>{{Cite web |date=May 4, 2023 |title=Rwanda Floods Kill 130, Destroy Over 5,000 Houses |url=https://www.usnews.com/news/world/articles/2023-05-04/rwanda-floods-kill-130-destroy-over-5-000-houses |website=US News & World Report |agency=Reuters}}</ref>",
+                  "url": "https://www.usnews.com/news/world/articles/2023-05-04/rwanda-floods-kill-130-destroy-over-5-000-houses",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "Marie-Solange Kayisire, the Minister of Emergency Management, said that relief efforts started immediately. However, continued disruptions by heavy rain hampered efforts to help bury victims of the floods and to provide supplies to victims whose homes were inundated. According to Governor Habitegeko, some people were rescued and transported to hospitals.<ref name=\":0\" /> The Red Cross assisted with relief efforts.<ref name=\":0\" /> Kayisire called on local residents to increase patrols, especially at night.<ref name=\":2\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=3 May 2023 |title=Flooding, landslides kill over 100 people in Rwanda |url=https://www.dw.com/en/flooding-landslides-kill-over-100-people-in-rwanda/a-65502678 |website=Deutsche Welle |language=en}}</ref>",
+                  "url": "https://www.dw.com/en/flooding-landslides-kill-over-100-people-in-rwanda/a-65502678",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "Rwandan Prime Minister Édouard Ngirente|Edouard Ngirente attended a burial service in Rubavu District on May 4, where he said that authorities would \"continue to ensure that you [victims] have shelter and basic needs\".",
+              "references": [
+                {
+                  "text": "<ref name=\":0a\" /><ref>{{Cite web |date=2023-05-04 |title=Survivor of Rwanda Floods: 'We Struggled to Cling to Anything' |url=https://www.voanews.com/a/survivor-of-rwanda-floods-we-struggled-to-cling-to-anything-nearby-/7079340.html |access-date=2024-02-03 |website=Voice of America |language=en}}</ref>",
+                  "url": "https://www.voanews.com/a/survivor-of-rwanda-floods-we-struggled-to-cling-to-anything-nearby-/7079340.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s4",
+              "text": "The Government established a command center. to coordinate relief efforts by deploying a team of rescue officials from affected provinces The ministry of emergency and Management, The ministry of local government and the police and provided medical treatment for those who were affected, provided food and shelter  The humanitarian organization like Humanitarian OpenStreetMap Team|HOT, through Open Street Map Rwanda supported with tools like FMTM and youth involvement in data collection to facilitate the Districts in future data driven decision making, Red Cross|Red Cross Rwanda Organizations provided funds for The rapid response from Food and Agriculture Organization|FAO, World Food Programme|WFP, World Health Organization|WHO. The emergency relief coordinator Martin Griffiths has allocated $1.5 millions from the Central Emergency Response Fund|central emergency response fund CFRF  to support the government led response",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Nkurunziza |first=Michel |date=2023-05-04 |title=Rwanda Sets Up Command Centre to Coordinate Flood Disaster Interventions |url=https://allafrica.com/stories/202305040024.html |access-date=2024-02-05 |work=The New Times |language=en}}</ref>",
+                  "url": "https://allafrica.com/stories/202305040024.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Nkurunziza |first=Michel |date=2023-05-03 |title=Rwanda sets up command centre to coordinate flood disaster interventions |url=https://www.newtimes.co.rw/article/7181/news/environment/rwanda-sets-up-command-centre-to-coordinate-flood-disaster-interventions |access-date=2024-02-05 |website=The New Times |language=en}}</ref>",
+                  "url": "https://www.newtimes.co.rw/article/7181/news/environment/rwanda-sets-up-command-centre-to-coordinate-flood-disaster-interventions",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Princewill |first=Duarte Mendonca, Nimi |date=2023-05-03 |title=Floods in western Rwanda kill at least 127 people |url=https://www.cnn.com/2023/05/03/africa/floods-kill-109-rwanda-intl/index.html |access-date=2024-02-05 |website=CNN |language=en}}</ref>",
+                  "url": "https://edition.cnn.com/2023/05/03/africa/floods-kill-109-rwanda-intl/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=IFRC GO |url=https://go.ifrc.org/field-reports/16427 |access-date=2024-02-05 |website=go.ifrc.org}}</ref>",
+                  "url": "https://go.ifrc.org/field-reports/16427",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Allocation summary {{!}} CERF |url=https://cerf.un.org/what-we-do/allocation/2023/summary/23-RR-RWA-59581 |access-date=2024-02-05 |website=cerf.un.org}}</ref>",
+                  "url": "https://cerf.un.org/what-we-do/allocation/2023/summary/23-RR-RWA-59581",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-09-08 |title=Rwanda: Floods and Landslides - May 2023 {{!}} ReliefWeb |url=https://reliefweb.int/disaster/fl-2023-000064-rwa |access-date=2024-02-05 |website=reliefweb.int |language=en}}</ref>",
+                  "url": "https://reliefweb.int/disaster/fl-2023-000064-rwa",
+                  "status_code": 202,
+                  "reason": "Accepted",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s5",
+              "text": "Many flood victims were buried in mass burials.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=65 killed as heavy rains trigger floods, landslides |url=https://www.aljazeera.com/news/2020/5/8/rwanda-dozens-killed-as-heavy-rains-trigger-floods-landslides |access-date=2024-02-03 |website=Al Jazeera |language=en}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2020/5/8/rwanda-dozens-killed-as-heavy-rains-trigger-floods-landslides",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Uganda",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "From 24 April to 3 May, at least 18 people were killed in Uganda, including five members of a family who were killed in a landslide; three were injured and three were left missing by floods. Heavy rain caused flooding and landslides in Kasese District|Kasese, Mbale District|Mbale and Rukungiri Districts. Many houses were damaged or destroyed in the country. On 17 May, the National Environment Management Authority of Uganda said that 23 people died and 16 were injured due to landslides and floods in Ntokoro and Kigezi Districts. The Katonga River flooded and submerged Uganda's major trans-national road.",
+              "references": [
+                {
+                  "text": "<ref name=\"Uganda floods\">{{Cite web |title=Uganda – Deadly Floods and Landslides in Kasese, Mbale and Rukungiri|url=https://floodlist.com/africa/uganda-floods-kasese-mbale-rukungiri-april-2023|date=3 May 2023 |website=floodlist.com}}</ref>",
+                  "url": "https://floodlist.com/africa/uganda-floods-kasese-mbale-rukungiri-april-2023",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|author=Caroline Kimeu|title=More than 400 people now confirmed dead after flooding in DRC|url=https://www.theguardian.com/world/2023/may/09/confirmed-dead-flooding-drc-democratic-republic-congo|date=9 May 2023|newspaper=The Guardian}}</ref>",
+                  "url": "https://www.theguardian.com/world/2023/may/09/confirmed-dead-flooding-drc-democratic-republic-congo",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://erccportal.jrc.ec.europa.eu/ECHO-Products/Maps#/maps/4495|title=ECHO Daily Map of 17 May 2023. 17 May 2023 - Uganda - Floods and landslides.|website=Emergency Response Coordination Centre|date=17 May 2023|access-date=19 May 2023}}</ref>",
+                  "url": "https://erccportal.jrc.ec.europa.eu/ECHO-Products/Maps",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

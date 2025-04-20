@@ -5,11 +5,22 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "aiohttp>=3.11.12",
+    "aiohttp[speedups]>=3.11.12",
     "bs4>=0.0.2",
+    "huggingface-hub[cli]>=0.30.2",
     "loguru>=0.7.3",
     "mwparserfromhell>=0.6.6",
     "pydantic>=2.10.6",
     "pywikibot>=9.6.2",
     "sqlmodel>=0.0.22",
 ]
+
+[dependency-groups]
+dev = [
+    "pre-commit>=4.1.0",
+    "ruff>=0.9.6",
+]
+
+[tool.ruff.lint]
+# 启用导入排序规则
+select = ["I001"]

@@ -1,0 +1,323 @@
+{
+  "title": "2024_Minas_Gerais_road_crash",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "On 21 December 2024, a multiple-vehicle collision involving a passenger bus, a car and a Road train#B-double|B-double road train occurred in Lajinha, a district of Teófilo Otoni, Minas Gerais, Brazil, on the BR-116 (Brazil highway)|BR-116 highway. Thirty-nine people died, and seven others were injured. It is the deadliest traffic accident on federal Transport in Brazil#Highways|highways in Brazil since 2007, when such numbers began to be monitored.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Bartholomew |first=Jem |date=21 December 2024 |title=At least 38 people killed as bus and truck collide in Brazil |url=https://www.theguardian.com/world/2024/dec/21/at-least-22-people-killed-in-tragic-bus-crash-in-brazil |work=The Guardian }}</ref>",
+                  "url": "https://www.theguardian.com/world/2024/dec/21/at-least-22-people-killed-in-tragic-bus-crash-in-brazil",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=22 December 2024 |title=Death toll rises to 38 in major road crash in Brazil |url=https://english.news.cn/20241222/b8027d01f43f4b898ef869092bd8b1cc/c.html |url-status= |work=Xinhua News Agency }}</ref>",
+                  "url": "https://english.news.cn/20241222/b8027d01f43f4b898ef869092bd8b1cc/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=21 December 2024 |title='Terrible tragedy': At least 38 killed in bus crash in Brazil |url=https://news.sky.com/story/terrible-tragedy-at-least-38-killed-in-bus-crash-in-brazil-13278236 |url-status=live |work=Sky News |archive-date=21 December 2024 |access-date=22 December 2024 |archive-url=https://web.archive.org/web/20241221223715/https://news.sky.com/story/terrible-tragedy-at-least-38-killed-in-bus-crash-in-brazil-13278236 }}</ref>",
+                  "url": "https://news.sky.com/story/terrible-tragedy-at-least-38-killed-in-bus-crash-in-brazil-13278236",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Araújo |first=Alex |date=10 January 2025 |title=Corpos das 39 pessoas que morreram em acidente com ônibus em Minas Gerais são identificados |trans-title=Bodies of 39 people who died in bus accident in Minas Gerais are identified|url=https://g1.globo.com/mg/minas-gerais/noticia/2025/01/10/corpos-das-39-pessoas-que-morreram-em-acidente-com-onibus-em-minas-gerais-sao-identificados.ghtml |work=G1 (website)|G1|language=pt-br }}</ref>",
+                  "url": "https://g1.globo.com/mg/minas-gerais/noticia/2025/01/10/corpos-das-39-pessoas-que-morreram-em-acidente-com-onibus-em-minas-gerais-sao-identificados.ghtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last1=Carvalho |first1=Júlia |last2=Tenente |first2=Luiza |date=21 December 2024 |title=Acidente em MG é a maior tragédia em rodovias federais desde 2007, início da série histórica da PRF |trans-title=Accident in MG is the biggest tragedy on federal highways since 2007, the beginning of the PRF's historical series |url=https://g1.globo.com/mg/vales-mg/noticia/2024/12/21/acidente-em-mg-e-a-maior-tragedia-em-rodovias-federais-pelo-menos-desde-2007-inicio-da-serie-historica-da-prf.ghtml |work=G1 (website)|G1 |language=pt-br }}</ref>",
+                  "url": "https://g1.globo.com/mg/vales-mg/noticia/2024/12/21/acidente-em-mg-e-a-maior-tragedia-em-rodovias-federais-pelo-menos-desde-2007-inicio-da-serie-historica-da-prf.ghtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The BR-116 (Brazil highway)|BR-116 highway is described as the road with the most deaths in Brazil. With an extensive road network and a busy flow of heavy trucks, especially in granite-producing regions in northern Minas Gerais, serious crashes are frequent, including during the intense Christmas and holiday season|end-of-year season. Experts say the highway suffers from road traffic safety|structural problems and insufficient inspection. The ''Rodovia Régis Bittencourt'' ({{Lit|Régis Bittencourt Highway}}), and in particular the Taboão da Serra–Curitiba section, is nicknamed the \"Slaughter alley|Highway of Death\" ({{Lang|pt-BR|Rodovia da Morte}}) due to its high number of lethal accidents.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=1 February 2023 |title=Conheça a história da rodovia Régis Bittencourt que liga São Paulo ao Sul do Brasil |trans-title=Learn about the history of the Régis Bittencourt highway that connects São Paulo to southern Brazil |url=https://www.otaboanense.com.br/conheca-a-historia-da-rodovia-regis-bittencourt-que-liga-as-cidades-da-regiao/ |website=O Taboanense |access-date=23 December 2024 |archive-date=2 February 2023 |archive-url=https://web.archive.org/web/20230202173746/https://www.otaboanense.com.br/conheca-a-historia-da-rodovia-regis-bittencourt-que-liga-as-cidades-da-regiao/ |url-status=live }}</ref>",
+                  "url": "https://www.otaboanense.com.br/conheca-a-historia-da-rodovia-regis-bittencourt-que-liga-as-cidades-da-regiao/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "According to data from the {{Interlanguage link|National Transport Confederation|pt|Confederação Nacional do Transporte}} (CNT), the Federative units of Brazil|state of Minas Gerais has the most crashes and fatal victims on Brazilian highways. The {{Interlanguage link|National Department of Transport Infrastructure|pt|Departamento Nacional de Infraestrutura de Transportes}} (DNIT) said that the Radar speed sign|speed limit radar near the crash site was removed after the end of the contract with the company responsible for the equipment.",
+              "references": [
+                {
+                  "text": "<ref name=\"BBC\">{{Cite web |date=21 December 2024 |title=Por que BR-116, palco do acidente que matou 41 em Minas, é a rodovia mais letal do Brasil — e o que pode ser feito |trans-title=Why BR-116, the scene of the accident that killed 41 in Minas Gerais, is the deadliest highway in Brazil — and what can be done about it |url=https://www.bbc.com/portuguese/articles/cj90793z4zjo |website=BBC News|BBC News Brasil |language=pt-br }}</ref>",
+                  "url": "https://www.bbc.com/portuguese/articles/cj90793z4zjo",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=21 December 2024 |title=Radar em trecho de acidente na BR-116 foi retirado após término de contrato |trans-title=Radar in accident section on BR-116 was removed after contract termination |url=https://www.cnnbrasil.com.br/nacional/sudeste/mg/radar-em-trecho-de-acidente-na-br116-foi-retirado-apos-termino-de-contrato/ |website=CNN Brasil |language=pt-br }}</ref>",
+                  "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/radar-em-trecho-de-acidente-na-br116-foi-retirado-apos-termino-de-contrato/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "In addition, the country had a history of deadly bus crashes in the decade before: in 2015, a 2015 Santa Catarina bus accident|tourist bus fell into a ravine in Joinville, Santa Catarina (state)|Santa Catarina, resulting in at least 51 casualties; in 2020, 41 people died, and 10 others were injured after a :pt:Acidente rodoviário de Taguaí|collision between a bus and a truck near Taguaí, São Paulo (state)|São Paulo, on the SP-249 (São Paulo highway)|SP-249 List of state highways in São Paulo|state highway.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |url=https://www.estadao.com.br/amp/brasil/acidente-em-minas-e-o-terceiro-mais-grave-envolvendo-coletivos-rodoviarios-nos-ultimos-20-anos/ |title=Acidente em Minas é o terceiro mais grave envolvendo coletivos rodoviários nos últimos 20 anos |first=José Maria |last=Tomazela |date=21 December 2024 |website=O Estado de S. Paulo|Estadão |trans-title=Accident in Minas Gerais is the third most serious involving public transport in the last 20 years |lang=pt-br }}</ref>",
+                  "url": "https://www.estadao.com.br/amp/brasil/acidente-em-minas-e-o-terceiro-mais-grave-envolvendo-coletivos-rodoviarios-nos-ultimos-20-anos/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |url=https://brasil.elpais.com/brasil/2020-11-25/acidente-com-onibus-e-caminhao-deixa-dezenas-de-mortos-no-interior-de-sao-paulo.html |title=Acidente com ônibus e caminhão deixa 41 mortos no interior de São Paulo |trans-title=Accident with bus and truck leaves 41 dead in the interior of São Paulo |website=El País |first=Diogo |last=Magri |date=25 November 2020 |access-date=24 December 2024 |archive-date=24 July 2024 |archive-url=https://web.archive.org/web/20240724040316/https://brasil.elpais.com/brasil/2020-11-25/acidente-com-onibus-e-caminhao-deixa-dezenas-de-mortos-no-interior-de-sao-paulo.html |url-status=live }}</ref>",
+                  "url": "https://brasil.elpais.com/brasil/2020-11-25/acidente-com-onibus-e-caminhao-deixa-dezenas-de-mortos-no-interior-de-sao-paulo.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Collision",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "Initial reporting by firefighters claimed that a passenger bus travelling on the BR-116 highway from São Paulo to Bahia{{efn|Divergent domestic sources suggested that the planned destination of the bus was either Vitória da Conquista or Elísio Medrado. However, according to the Federal Highway Police (Brazil)|Federal Highway Police, the collision likely occurred when a granite block fell from the truck and hit the bus, which consequently lost control and caught fire. Afterward, a Fiat Argo car collided with the back of the truck. Its occupants were trapped underneath the vehicle, but survived. The bodies of most of the fatalities were found to be charred.",
+              "references": [
+                {
+                  "text": "<ref name=uol /><ref name=\"BBC\" />}} had a Blowout (tire)|tire blowout, causing it to lose control and collide with an oncoming Road train#B-double|B-double truck at around 4 a.m. local time.<ref name=\"PessoaAP\" /><ref name=\"Reuters\">{{cite news |last= |first= |title=More than 30 dead in Brazil bus and truck collision |newspaper=Reuters |location= |pages= |language= |publisher= |date=21 December 2024 |url=https://www.reuters.com/world/americas/more-than-20-dead-bus-truck-collision-brazil-2024-12-21/ |access-date= }}</ref>",
+                  "url": "https://www.reuters.com/world/americas/more-than-20-dead-bus-truck-collision-brazil-2024-12-21/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Globo\">{{Cite web |url=https://g1.globo.com/google/amp/fantastico/noticia/2024/12/22/sobreviventes-do-acidente-na-br-116-em-mg-dao-relato-exclusivo.ghtml |title=Exclusivo: sobreviventes do acidente na BR-116 dizem que pneu do ônibus estourou |trans-title=Exclusive: survivors of the accident on BR-116 say that the bus tire burst |date=22 December 2024 |website=G1 (website)|G1 |language=pt-br }}</ref>",
+                  "url": "https://g1.globo.com/google/amp/fantastico/noticia/2024/12/22/sobreviventes-do-acidente-na-br-116-em-mg-dao-relato-exclusivo.ghtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Reuters\" /> They also reported the bus had a right-rear tire burst.<ref name=\"Globo\" /> A survivor on the bus said the vehicle that originally left São Paulo was replaced en route by the one that ended up crashing.<ref>{{cite web |title=Sobrevivente do acidente em MG relata medo com a volta: 'Tô em pânico'|language=pt-br|trans-title=Survivor of accident in MG reports fear of returning: 'I'm in panic' |date=24 December 2024|website=Universo Online|UOL|url=https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/12/24/sobrevivente-do-acidente-em-mg-relata-medo-com-a-volta-to-em-panico.amp.htm}}</ref>",
+                  "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/12/24/sobrevivente-do-acidente-em-mg-relata-medo-com-a-volta-to-em-panico.amp.htm%7D%7D%3C/ref%3E/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=uol>{{Cite news |date=21 December 2024 |title=O que sabemos sobre as causas do grave acidente com mais de 30 mortos em MG |trans-title=What we know about the causes of the serious accident with more than 30 deaths in MG |url=https://www.cnnbrasil.com.br/nacional/sudeste/mg/o-que-sabemos-sobre-as-causas-do-grave-acidente-com-mortos-em-mg/ |work=CNN Brasil |language=pt-br }}</ref>",
+                  "url": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/o-que-sabemos-sobre-as-causas-do-grave-acidente-com-mortos-em-mg/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "Police believe the truck driver, whose Driving licence in Brazil|license was suspended after refusing to take a breathalyzer test two years prior, fled the crash scene without injuries. Receipts showed the truck he drove had left Ceará toward Espírito Santo. Police also said the weight of the granite block exceeded the permitted limit. The moment of the impact and the explosion was captured by a closed-circuit television camera.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |date=21 December 2024 |title=Motorista de carreta de acidente em MG fugiu para o Espírito Santo, diz PRF |url=https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/12/21/motorista-de-carreta-de-acidente-em-minas-fugiu-para-o-es-segundo-prf.htm |work=Universo Online|UOL |language=pt-br |trans-title=Truck driver involved in accident in Minas Gerais fled to Espírito Santo, says PRF }}</ref>",
+                  "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/12/21/motorista-de-carreta-de-acidente-em-minas-fugiu-para-o-es-segundo-prf.htm",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=22 December 2024 |title=Acidente em MG: Motorista de carreta estava com CNH suspensa |url=https://pleno.news/brasil/cidades/acidente-em-mg-motorista-de-carreta-estava-com-cnh-suspensa.html?amp=1 |work=Pleno.news |language=pt-br |trans-title=Accident in MG: Truck driver had his license suspended }}</ref>",
+                  "url": "https://pleno.news/brasil/cidades/acidente-em-mg-motorista-de-carreta-estava-com-cnh-suspensa.html?amp=1",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/12/22/carga-de-carreta-em-acidente-em-mg-estava-acima-do-peso-diz-policia.amp.htm |title=Carga de carreta em acidente em MG estava acima do peso, diz polícia |website=Universo Online|UOL |date=22 December 2024 |trans-title=Truck load in accident in Minas Gerais was overweight, says police |language=pt-br }}</ref>",
+                  "url": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/12/22/carga-de-carreta-em-acidente-em-mg-estava-acima-do-peso-diz-policia.amp.htm",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=22 December 2024 |title=Câmera de segurança registra momento exato de acidente em MG, que deixou 41 mortos; VÍDEO |url=https://g1.globo.com/google/amp/mg/vales-mg/noticia/2024/12/22/video-camera-de-seguranca-registra-momento-exato-de-acidente-em-mg-que-deixou-41-mortos.ghtml |trans-title=Security camera records exact moment of accident in MG, which left 41 dead; VIDEO |first=Caroline |last=Del Piero |website=G1 (website)|G1 |language=pt-br }}</ref>",
+                  "url": "https://g1.globo.com/google/amp/mg/vales-mg/noticia/2024/12/22/video-camera-de-seguranca-registra-momento-exato-de-acidente-em-mg-que-deixou-41-mortos.ghtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Aftermath",
+      "content": [
+        {
+          "id": "4.1",
+          "title": "Reactions",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.1.s1",
+                  "text": "Governor of Minas Gerais Romeu Zema promised \"full mobilization\" to assist the victims.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"PessoaAP\">{{Cite news |last=Pessoa |first=Gabriela Sá |date=21 December 2024 |title=38 people die in a crash between a passenger bus and a truck in Brazil |url=https://apnews.com/article/brazil-minas-gerais-bus-crash-b521a7fc2626f6b1faaa177d8b8c0fdd |work=Associated Press }}</ref>",
+                      "url": "https://apnews.com/article/brazil-minas-gerais-bus-crash-b521a7fc2626f6b1faaa177d8b8c0fdd",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{Cite news |date=21 December 2024 |title=At least 32 people killed as bus and truck collide in Brazil |url=https://www.aljazeera.com/news/2024/12/21/crash-between-passenger-bus-and-truck-kills-at-least-30-in-brazil |url-status= |work=Al Jazeera Media Network|Al Jazeera }}</ref>",
+                      "url": "https://www.aljazeera.com/news/2024/12/21/crash-between-passenger-bus-and-truck-kills-at-least-30-in-brazil",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.1.s2",
+                  "text": "Emtram, the transport company that operated the bus involved, issued a note regretting the crash and offering assistance to the affected people.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite news |last1=Bazani |first1=Adamo |last2=Sena |first2=Yuri |last3=Ferrari |first3=Arthur |date=22 December 2024 |title=Sobe o número de mortos em acidente com ônibus na BR-116, em Teófilo Otoni (MG) |trans-title=Death toll rises in bus accident on BR-116, in Teofilo Otoni (MG) |url=https://diariodotransporte.com.br/2024/12/22/sobe-o-numero-de-mortos-emacidente-com-onibus-na-br-116-em-teofilo-otoni-mg/ |work=Diário do Transporte |language=pt-br }}</ref>",
+                      "url": "https://diariodotransporte.com.br/2024/12/22/sobe-o-numero-de-mortos-emacidente-com-onibus-na-br-116-em-teofilo-otoni-mg/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Surrender of the truck driver and arrest",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "Two days later, on 23 December, the suspected truck driver, Arilton Bastos Alves, turned himself in to local police.\nAfter being heard, he was not immediately held in custody, because the request for his preventive detention was judicially rejected, as it was no longer possible to detain him ''in flagrante delicto|in flagrante''.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |url=https://noticias.r7.com/minas-gerais/motorista-suspeito-de-causar-acidente-com-onibus-em-mg-se-entrega-a-policia-23122024/ |first=Lucas |last=Eugênio |title=Motorista suspeito de causar acidente com ônibus em MG se entrega à polícia |trans-title=Driver suspected of causing bus accident in MG surrenders to the police |date=23 December 2024 |website=R7.com|R7 |language=pt-br }}</ref>",
+                      "url": "https://noticias.r7.com/minas-gerais/motorista-suspeito-de-causar-acidente-com-onibus-em-mg-se-entrega-a-policia-23122024/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url=https://g1.globo.com/mg/vales-mg/noticia/2024/12/23/motorista-de-caminhao-suspeito-de-causar-acidente-na-br-116-e-liberado.ghtml |title=Caminhoneiro suspeito de causar acidente na BR-116 é liberado |trans-title=Truck driver suspected of causing accident on BR-116 is released |last=Milagres |first=Leonardo |date=23 December 2024 |website=G1 (website)|G1 |language=pt-br }}</ref>",
+                      "url": "https://g1.globo.com/mg/vales-mg/noticia/2024/12/23/motorista-de-caminhao-suspeito-de-causar-acidente-na-br-116-e-liberado.ghtml",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.2.s2",
+                  "text": "On 21 January 2025, the driver was finally arrested. A drug test carried out on December 23 found cocaine and MDMA|ecstasy in his system, as well as 3,4-Methylenedioxyamphetamine|MDA, alprazolam and venlafaxine.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |url= https://g1.globo.com/mg/minas-gerais/noticia/2025/01/21/motorista-de-carreta-envolvida-em-acidente-que-matou-39-pessoas-na-br-116-e-preso-no-espirito-santo.ghtml |title= Motorista de carreta envolvida em acidente que matou 39 pessoas na BR-116 é preso no Espírito Santo |trans-title= Truck driver involved in accident that killed 39 people on BR-116 is arrested in Espírito Santo |last=|first=|date=21 January 2025 |website=G1 (website)|G1 |language=pt-br }}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url= https://g1.globo.com/google/amp/mg/minas-gerais/noticia/2025/01/21/motorista-de-carreta-envolvido-em-acidente-com-39-mortes-em-mg-usou-cocaina-e-ecstasy-conclui-exame.ghtml |title= Motorista de carreta envolvido em acidente com 39 mortes em MG usou cocaína e ecstasy, conclui exame |trans-title= Truck driver involved in accident with 39 deaths in MG used cocaine and ecstasy, concludes test |last=Mansur|first=Rafaela|date=21 January 2025 |website=G1 (website)|G1 |language=pt-br }}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Notes",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

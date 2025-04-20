@@ -1,0 +1,344 @@
+{
+  "title": "2023_Latvian_presidential_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "Indirect '''presidential elections''' were held in Latvia on 31 May 2023 to elect the President of Latvia, who is the country's head of state.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=1 December 2016 |title=Latvia {{!}} Whitehouse Communications |url=https://whitehousecomms.com/project-brexit/country/latvia/ |access-date=21 December 2022 |website=whitehousecomms.com |language=en-GB}}</ref>",
+                  "url": "https://whitehousecomms.com/project-brexit/country/latvia/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Valsts prezidenta vēlēšanas notiks 31. maijā; Levita pārvēlēšanas izredzes – vēl neskaidras |url=https://www.lsm.lv/raksts/zinas/latvija/16.03.2023-valsts-prezidenta-velesanas-notiks-31-maija-levita-parvelesanas-izredzes-vel-neskaidras.a501145/ |access-date=18 March 2023 |date=16 March 2023 |language=lv}}</ref>",
+                  "url": "https://www.lsm.lv/raksts/zinas/latvija/16.03.2023-valsts-prezidenta-velesanas-notiks-31-maija-levita-parvelesanas-izredzes-vel-neskaidras.a501145/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "1.s2",
+              "text": "Edgars Rinkēvičs|Rinkēvičs was elected President of Latvia on 31 May 2023 after three rounds of voting by the Saeima – the Parliament of Latvia. He was sworn in as president on 8 July.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last= |date=31 May 2023 |title=Edgars Rinkevics elected president of Latvia |language=en |work=Reuters |url=https://www.reuters.com/world/europe/edgars-rinkevics-elected-president-latvia-2023-05-31/ |access-date=31 May 2023}}</ref>",
+                  "url": "https://www.reuters.com/world/europe/edgars-rinkevics-elected-president-latvia-2023-05-31/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"LSMPresident\">{{Cite web |date=31 May 2023 |title=Edgars Rinkēvičs elected President of Latvia |url=https://eng.lsm.lv/article/politics/president/31.05.2023-edgars-rinkevics-elected-president-of-latvia.a510815/ |access-date=31 May 2023 |website=Latvian Public Broadcasting}}</ref>",
+                  "url": "https://eng.lsm.lv/article/politics/president/31.05.2023-edgars-rinkevics-elected-president-of-latvia.a510815/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "In late 2022, political scientist and historian Gatis Krūmiņš stated that the 2023 presidential election could cause friction in the Second Kariņš cabinet and potentially lead to its downfall due to disagreements on who should be the presidential candidate. Ultimately failing to reach agreement on a candidate, the three government parties – New Unity, the United List (Latvia)|United List, and the National Alliance (Latvia)|National Alliance – presented two presidential candidates, both in April 2023. The United List named their candidate; the founder of the party alliance, entrepreneur Uldis Pīlēns,",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Political scientist: Kariņš could have longest and shortest governments in modern Latvian history |url=https://eng.lsm.lv/article/politics/politics/political-scientist-karins-could-have-longest-and-shortest-governments-in-modern-latvian-history.a483717/ |access-date=21 December 2022 |website=eng.lsm.lv |language=en}}</ref>",
+                  "url": "https://eng.lsm.lv/article/politics/politics/political-scientist-karins-could-have-longest-and-shortest-governments-in-modern-latvian-history.a483717/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"pilens\"/> while New Unity and the National Alliance (Latvia)|National Alliance endorsed the reelection of the incumbent president, Egils Levits.<ref name=\"levits\">{{Cite web|url=https://eng.lsm.lv/article/politics/president/19.04.2023-levits-confirms-presidential-run.a505448/|title=Levits confirms presidential run|publisher=Public Broadcasting of Latvia|language=en|date=19 April 2023|access-date=30 April 2023}}</ref>",
+                  "url": "https://eng.lsm.lv/article/politics/president/19.04.2023-levits-confirms-presidential-run.a505448/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Voting system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "Before the first round of the presidential election, the political parties represented in the Saeima nominate their candidate.",
+              "references": [
+                {
+                  "text": "<ref name=\"Factbox\">{{Cite web |title=FACTBOX – Presidential Election Procedure In Latvia |url=https://www.urdupoint.com/en/world/factbox-presidential-election-procedure-in-633072.html |access-date=29 May 2019 |website=UrduPoint}}</ref>",
+                  "url": "https://www.urdupoint.com/en/world/factbox-presidential-election-procedure-in-633072.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Candidates",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "In the fall of 2022, entrepreneur Uldis Pīlēns was the Prime Minister of Latvia|Prime Minister candidate of the United List (Latvia)|United List, a party alliance that he founded. He, however, did not run in the 2022 Latvian parliamentary election. Pīlēns confirmed his presidential run on 11 April 2023. Alongside the announcement of his candidacy, he was endorsed by the United List, who will also be officially nominating him in the elections in the Saeima. Subsequently, his candidacy was also endorsed by Latvia First, whose stated main priority is to prevent the reelection of the incumbent president, Egils Levits.<ref name=\"pilens\"/>",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/uznemejs-pilens-bus-apvienota-saraksta-premjera-amata-kandidats-bet-saeimas-velesanas-nekandides.a466151/|title=Uzņēmējs Pīlēns būs \"Apvienotā saraksta\" premjera amata kandidāts, bet Saeimas vēlēšanās nekandidēs|last=Līcīte|first=Madara|language=lv|publisher=Public Broadcasting of Latvia|date=20 July 2022|access-date=30 April 2023}}</ref>",
+                  "url": "https://www.lsm.lv/raksts/zinas/latvija/uznemejs-pilens-bus-apvienota-saraksta-premjera-amata-kandidats-bet-saeimas-velesanas-nekandides.a466151/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "The incumbent President of Latvia since 2019, Egils Levits, announced his candidacy on 19 April 2023 at a joint press conference with Prime Minister Krišjānis Kariņš of the New Unity party alliance, who voiced his support for Levits' reelection. The National Alliance (Latvia)|National Alliance had previously stated that they would both support and officially nominate Levits for the election in the Saeima.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://eng.lsm.lv/article/politics/politics/18.04.2023-national-alliance-supports-potential-second-term-for-president-levits.a505245/|title=National Alliance supports potential second term for President Levits|publisher=Public Broadcasting of Latvia|language=en|date=18 April 2023|access-date=30 April 2023}}</ref>",
+                  "url": "https://eng.lsm.lv/article/politics/politics/18.04.2023-national-alliance-supports-potential-second-term-for-president-levits.a505245/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/17.04.2023-nacionala-apvieniba-virzis-levitu-parvelesanai-par-valsts-prezidentu.a505213/|title=Nacionālā apvienība virzīs Levitu pārvēlēšanai par Valsts prezidentu|last=Līcīte|first=Madara|language=lv|publisher=Public Broadcasting of Latvia|date=17 April 2023|access-date=30 April 2023}}</ref>",
+                  "url": "https://www.lsm.lv/raksts/zinas/latvija/17.04.2023-nacionala-apvieniba-virzis-levitu-parvelesanai-par-valsts-prezidentu.a505213/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "Official nominations for the presidency in the Saeima began on 10 May, where Pīlēns was the first to submit his candidacy. On the same day, however, Levits unexpectedly withdrew his candidacy, citing a \"currently developing de facto coalition among pro-Kremlin-oriented and oligarch-linked political forces\". He also encouraged the only other candidate at the time, Uldis Pīlēns, to also step aside in order for the government coalition to find and put forward one common candidate. On 11 May, The Progressives announced its presidential candidate as diaspora activist Elīna Pinto, and on the same day Edgars Rinkēvičs, the then Minister of Foreign Affairs of Latvia, announced his candidacy, with New Unity unanimously supporting it.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://eng.lsm.lv/article/politics/president/10.05.2023-pilens-presidential-candidacy-officially-submitted.a508061/|title=Pīlēns' presidential candidacy officially submitted|publisher=Public Broadcasting of Latvia|language=en|date=10 May 2023|access-date=11 May 2023}}</ref>",
+                  "url": "https://eng.lsm.lv/article/politics/president/10.05.2023-pilens-presidential-candidacy-officially-submitted.a508061/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Public Broadcasting of Latvia\">{{Cite web|url=https://eng.lsm.lv/article/politics/president/10.05.2023-levits-will-not-run-for-second-term-as-latvian-president.a508133/|title=Levits will not run for second term as Latvian President|publisher=Public Broadcasting of Latvia|language=en|date=10 May 2023|access-date=11 May 2023}}</ref>",
+                  "url": "https://eng.lsm.lv/article/politics/president/10.05.2023-levits-will-not-run-for-second-term-as-latvian-president.a508133/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"lsm.lv\">{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/10.05.2023-levits-tomer-nekandides-uz-otru-terminu-valsts-prezidenta-amata.a508129/|title=Levits tomēr nekandidēs uz otru termiņu Valsts prezidenta amatā|publisher=Public Broadcasting of Latvia|language=lv|date=10 May 2023|access-date=11 May 2023}}</ref>",
+                  "url": "https://www.lsm.lv/raksts/zinas/latvija/10.05.2023-levits-tomer-nekandides-uz-otru-terminu-valsts-prezidenta-amata.a508129/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"BBN\">{{cite web |title=Progressive Party's presidential candidate – European official Elīna Pinto |url=https://bnn-news.com/progressive-partys-presidential-candidate-european-official-elina-pinto-245604 |website=Baltic News Network |date=11 May 2023 |publisher=The Baltic News Network |access-date=31 May 2023}}</ref>",
+                  "url": "https://bnn-news.com/progressive-partys-presidential-candidate-european-official-elina-pinto-245604",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"ABCNews2023\">{{cite web |last1=Tanner |first1=Jari |title=Latvia's foreign minister to run in presidential election |url=https://abcnews.go.com/International/wireStory/latvias-foreign-minister-run-presidential-election-99258039 |website=ABC News |publisher=American Broadcasting Company |access-date=31 May 2023}}</ref>",
+                  "url": "https://abcnews.go.com/International/wireStory/latvias-foreign-minister-run-presidential-election-99258039",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s4",
+              "text": "{| class=\"vertical-align-top wikitable\"\n! scope=colgroup colspan=2 | Candidate\n! scope=col | Party\n! scope=col | Endorsing party\n! scope=col | Candidacy announced\n! scope=col | References\n|-\n| \n| '''Uldis Pīlēns'''<br>{{small|Entrepreneur, founder of United List (Latvia)|United List}}\n| Independent politician|Independent{{efn|name=notea|Pīlēns is the founder and informal leader of United List (Latvia)|United List, but is officially an independent}}\n| United List (Latvia)|United List<br>(also supported by Latvia First)\n| 11 April 2023\n| style=\"text-align:center\" | \n|-\n| \n| '''Elīna Pinto'''<br>{{small|Civic and Latvian diaspora|diaspora activist}}\n| Independent politician|Independent\n| The Progressives (Latvia)|The Progressives\n| 11 May 2023\n| style=\"text-align:center\" | \n|-\n| \n| '''Edgars Rinkēvičs'''<br>{{small|Ministry of Foreign Affairs (Latvia)|Minister of Foreign Affairs of Latvia (2011–2023)}}\n| New Unity\n| New Unity\n| 11 May 2023\n| style=\"text-align:center\" | \n|-\n|}",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://jauns.lv/raksts/zinas/554299-uldis-pilens-skaidro-kapec-velas-klut-par-valsts-prezidentu|title= Uldis Pīlēns skaidro, kāpēc vēlas kļūt par Valsts prezidentu|publisher=jauns.lv|date=13 April 2023|access-date=30 April 2023|language=lv|quote=Man nav oficiālas saistības ar partiju, neesmu arī AS valdē, ko veido trīs partijas|trans-quote=I do not have an official connection with the party, I also do not sit on the board of AS, which consists of three parties}}</ref>",
+                  "url": "https://jauns.lv/raksts/zinas/554299-uldis-pilens-skaidro-kapec-velas-klut-par-valsts-prezidentu",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"pilens\">{{Cite web |title= Pīlēns kandidēs uz Valsts prezidenta amatu  |url=https://www.delfi.lv/news/national/politics/pilens-kandides-uz-valsts-prezidenta-amatu.d?id=55416414 |access-date=12 April 2023 |date=11 April 2023 |website=Delfi (web portal)|Delfi}}</ref>",
+                  "url": "https://www.delfi.lv/news/national/politics/pilens-kandides-uz-valsts-prezidenta-amatu.d?id=55416414",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"slesers\">{{Cite web |title=Šlesers pārliecināts, ka par Pīlēnu nobalsos visas opozīcijas partijas|url=https://jauns.lv/raksts/zinas/554249-slesers-parliecinats-ka-par-pilenu-nobalsos-visas-opozicijas-partijas|publisher=Jauns.lv|language=lv|date=12 April 2023|access-date=18 April 2023}}</ref>",
+                  "url": "https://jauns.lv/raksts/zinas/554249-slesers-parliecinats-ka-par-pilenu-nobalsos-visas-opozicijas-partijas",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/11.05.2023-progresivie-prezidenta-amatam-virza-biedribas-esilv-vaditaju-elinu-pinto.a508060/|title=\"Progresīvie\" prezidenta amatam virza biedrības \"esiLV\" vadītāju Elīnu Pinto|publisher=Public Broadcasting of Latvia|language=lv|date=11 May 2023|access-date=11 May 2023}}</ref>",
+                  "url": "https://www.lsm.lv/raksts/zinas/latvija/11.05.2023-progresivie-prezidenta-amatam-virza-biedribas-esilv-vaditaju-elinu-pinto.a508060/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.lsm.lv/raksts/zinas/latvija/11.05.2023-jauna-vienotiba-prezidenta-amatam-virza-rinkevicu.a508226/|title=\"Jaunā Vienotība\" prezidenta amatam virza Rinkēviču|last=Līcīte|first=Madara|publisher=Public Broadcasting of Latvia|language=lv|date=11 May 2023|access-date=11 May 2023}}</ref>",
+                  "url": "https://www.lsm.lv/raksts/zinas/latvija/11.05.2023-jauna-vienotiba-prezidenta-amatam-virza-rinkevicu.a508226/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Withdrawn candidates",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Results",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "|electorate=100\n|electorate2=100\n|electorate3=100\n|source=\n}}",
+              "references": [
+                {
+                  "text": "<ref name=\"LSMPresident\"/><ref name=\"Balsojums\">{{cite web | url=https://titania.saeima.lv/LIVS14/saeimalivs_lmp.nsf/0/A6FD83B30943D24FC22589C0002CBC17?OpenDocument | title=Balsojums }}</ref>",
+                  "url": "https://titania.saeima.lv/LIVS14/saeimalivs_lmp.nsf/0/A6FD83B30943D24FC22589C0002CBC17?OpenDocument",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "Rinkēvičs inauguration as president took place on the 8th of July.",
+              "references": [
+                {
+                  "text": "<ref name=\"BBC2023\">{{cite news |last1=Mackintosh |first1=Thomas |title=Latvia swears in Edgars Rinkevics as EU's first openly gay president |url=https://www.bbc.com/news/world-europe-66141706 |access-date=8 July 2023 |publisher=British Broadcasting Corporation |date=8 July 2023 }}</ref>",
+                  "url": "https://www.bbc.com/news/world-europe-66141706",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Reactions",
+          "content": [
+            {
+              "id": "6.2.1",
+              "title": "In Latvia",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "6.2.1.s1",
+                      "text": "Immediately after being elected, Rinkēvičs gave a speech in which he thanked the Saeima for having trust in him and stated he would do everything in his power so Latvia \"blossoms\" and has a unified society. He said he was ready to cooperate with the Saeima and government, and in a later press conference stated he would not change Latvia's foreign policy.",
+                      "references": [
+                        {
+                          "text": "<ref name=\"LSMPresident\"/>\nIncumbent president Egils Levits congratulated Rinkēvičs, stating he was \"sure that Latvia will be in safe hands for the next four years\" and wishing him good luck. Rinkēvičs was also congratulated by Latvia's European commissioner and former Prime Minister Valdis Dombrovskis, who described him as a statesman who has honorably served Latvia's interests internationally.<ref name=\"Congratulations\">{{cite web |title=International congratulations for President-elect Rinkēvičs |url=https://eng.lsm.lv/article/politics/president/31.05.2023-international-congratulations-for-president-elect-rinkevics.a510908/ |website=Public Broadcasting of Latvia |access-date=31 May 2023}}</ref>",
+                          "url": "https://eng.lsm.lv/article/politics/president/31.05.2023-international-congratulations-for-president-elect-rinkevics.a510908/",
+                          "status_code": 403,
+                          "reason": "Forbidden",
+                          "type": "web"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6.2.2",
+              "title": "Abroad",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Notes",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

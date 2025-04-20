@@ -1,0 +1,1059 @@
+{
+  "title": "2023_Ecuadorian_general_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "Snap election|Snap general elections were held in Ecuador on 20 August 2023 to elect the President of Ecuador, members of the National Assembly (Ecuador)|National Assembly, and to decide on two referendums. The elections were triggered by the invocation of {{Lang|es|muerte cruzada}}, which 2023 Ecuadorian political crisis|dissolved the National Assembly (Ecuador)|National Assembly on 17 May 2023. A run-off election was held on 15 October 2023 to elect the President after no candidate secured the required threshold to win in the first round. Incumbent president Guillermo Lasso was eligible for a second term, but he announced on 18 May that he would not seek re-election in response to his impeachment.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|date=22 February 2022|title=Lasso quisiera gobernar nuevamente en 2025|url=https://radiolacalle.com/guillermo-lasso-no-descarta-una-reeleccion-en-2025/|access-date=19 March 2022|website=Radio La Calle |language=es|archive-date=22 February 2022|archive-url=https://web.archive.org/web/20220222213523/https://radiolacalle.com/guillermo-lasso-no-descarta-una-reeleccion-en-2025/|url-status=live}}</ref>",
+                  "url": "https://radiolacalle.com/guillermo-lasso-no-descarta-una-reeleccion-en-2025/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|date=22 February 2022|title=Guillermo Lasso no descarta buscar la reelección en el 2025 – Radio Pichincha|url=https://www.pichinchacomunicaciones.com.ec/presidente-lasso-no-descarta-buscar-la-reeleccion-en-el-2025/|access-date=19 March 2022|website=Pichincha Comunicaciones EP |language=es|archive-date=23 February 2022|archive-url=https://web.archive.org/web/20220223043618/https://www.pichinchacomunicaciones.com.ec/presidente-lasso-no-descarta-buscar-la-reeleccion-en-el-2025/|url-status=dead }}</ref>",
+                  "url": "https://www.pichinchacomunicaciones.com.ec/presidente-lasso-no-descarta-buscar-la-reeleccion-en-el-2025/",
+                  "status_code": null,
+                  "reason": "Cannot connect to host www.pichinchacomunicaciones.com.ec:443 ssl:default [Could not contact DNS servers]",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=not>{{cite news|title=Presidente Guillermo Lasso reveló que no será candidato en estas elecciones |url=https://www.eltelegrafo.com.ec/noticias/actualidad/44/presidente-guillermo-lasso-revelo-que-no-sera-candidato-en-estas-elecciones|access-date=19 May 2023|work=El Telégrafo |date=19 May 2023|archive-date=19 May 2023|archive-url=https://web.archive.org/web/20230519142505/https://www.eltelegrafo.com.ec/noticias/actualidad/44/presidente-guillermo-lasso-revelo-que-no-sera-candidato-en-estas-elecciones|url-status=live}}</ref>",
+                  "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/44/presidente-guillermo-lasso-revelo-que-no-sera-candidato-en-estas-elecciones",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=stand>{{cite news|title=After dissolving legislature, Ecuador's president says he's leaving, too|url=https://www.washingtonpost.com/world/2023/05/19/guillermo-lasso-interview-ecuador/|last1=Torres|first1=Arturo|last2=Schmidt|first2=Samantha|date=19 May 2023|newspaper=The Washington Post|access-date=19 May 2023|archive-date=10 August 2023|archive-url=https://web.archive.org/web/20230810164116/https://www.washingtonpost.com/world/2023/05/19/guillermo-lasso-interview-ecuador/|url-status=live}}</ref>",
+                  "url": "https://www.washingtonpost.com/world/2023/05/19/guillermo-lasso-interview-ecuador/",
+                  "status_code": null,
+                  "reason": "Timeout",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "1.s2",
+              "text": "The officials elected{{emdash}}to both the executive and legislative branches{{emdash}}will serve the remainder of the current presidential and legislative terms (2021–2025), beginning on 25 November 2023. A regular election for a full four-year term is expected to take place in early 2025. 2023 Ecuadorian Yasuní National Park oil exploitation referendum|A national referendum on Yasuní National Park#Oil reserves|oil exploitation in the Yasuní National Park and a local referendum on Mining|metallic mining in the Chocó Andino area were held on the same day. Assassination of Fernando Villavicencio|The assassination of presidential candidate Fernando Villavicencio—11 days before the first round—made international headlines.<ref name=Fernando />",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|title=Ecuador deberá vivir un proceso eleccionario en pocos meses. ¿Guillermo Lasso se puede presentar a elecciones?|url=https://www.eluniverso.com/noticias/politica/ecuador-debera-vivir-un-proceso-eleccionario-en-pocos-meses-guillermo-lasso-se-puede-lanzar-a-la-reeleccion-nota/ |access-date=18 May 2023|work=El Universo|date=17 May 2023|archive-date=22 May 2023|archive-url=https://web.archive.org/web/20230522164241/https://www.eluniverso.com/noticias/politica/ecuador-debera-vivir-un-proceso-eleccionario-en-pocos-meses-guillermo-lasso-se-puede-lanzar-a-la-reeleccion-nota/|url-status=live }}</ref>",
+                  "url": "https://www.eluniverso.com/noticias/politica/ecuador-debera-vivir-un-proceso-eleccionario-en-pocos-meses-guillermo-lasso-se-puede-lanzar-a-la-reeleccion-nota/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=refone>{{Cite web|date=2023-06-01|title=Ecuador Makes History: Vote to Keep the Oil in the Ground in Yasuní Underway {{!}} Amazon Watch|url=https://amazonwatch.org/news/2023/0601-ecuador-makes-history-vote-to-keep-the-oil-in-the-ground-in-yasuni-underway|access-date=2023-06-27|language=en-US|archive-date=27 June 2023|archive-url=https://web.archive.org/web/20230627201340/https://amazonwatch.org/news/2023/0601-ecuador-makes-history-vote-to-keep-the-oil-in-the-ground-in-yasuni-underway|url-status=live}}</ref>",
+                  "url": "https://amazonwatch.org/news/2023/0601-ecuador-makes-history-vote-to-keep-the-oil-in-the-ground-in-yasuni-underway",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|date=2023-06-04|title=In Ecuador biosphere, battle lines form over mining plans|url=https://www.france24.com/en/live-news/20230604-in-ecuador-biosphere-battle-lines-form-over-mining-plans|access-date=2023-06-27|website=France 24|language=en|archive-date=27 June 2023|archive-url=https://web.archive.org/web/20230627201339/https://www.france24.com/en/live-news/20230604-in-ecuador-biosphere-battle-lines-form-over-mining-plans|url-status=live}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20230604-in-ecuador-biosphere-battle-lines-form-over-mining-plans",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=reftwo>{{Cite web|title=BNamericas – Ecuador mining referendum to be held same da...|url=https://www.bnamericas.com/en/news/ecuador-mining-referendum-to-be-held-same-day-as-general-elections|access-date=2023-06-27|website=BNamericas.com|language=en|archive-date=27 June 2023|archive-url=https://web.archive.org/web/20230627200406/https://www.bnamericas.com/en/news/ecuador-mining-referendum-to-be-held-same-day-as-general-elections|url-status=live}}</ref>",
+                  "url": "https://www.bnamericas.com/en/news/ecuador-mining-referendum-to-be-held-same-day-as-general-elections",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "1.s3",
+              "text": "Advancing to the 15 October run-off, Luisa González of the Citizen Revolution Movement secured first place with 33% of the vote, while Daniel Noboa of the National Democratic Action (Ecuador)|National Democratic Action came in second with 24%. At 35 years old, he became the youngest president in Ecuador's history.",
+              "references": [
+                {
+                  "text": "<ref name=WaPo/><ref name=reutersresults/> Noboa's second-place finish was considered surprising and an Upset (competition)#Politics|upset, with his debate performance seen as a key factor in his rise in popularity.<ref name=aol/> Noboa ultimately defeated González in the runoff election, securing 52% of the vote, a result similar to Guillermo Lasso's victory in 2021.<ref>{{cite news|title=Daniel Noboa, presidente electo de Ecuador con el 87% de actas escrutadas|url=https://www.metroecuador.com.ec/noticias/2023/10/16/daniel-noboa-el-presidente-electo-de-ecuador-con-el-87-de-actas-escrutadas/|access-date=15 October 2023|work=Metro Ecuador|date=15 October 2023|archive-date=16 October 2023|archive-url=https://web.archive.org/web/20231016054017/https://www.metroecuador.com.ec/noticias/2023/10/16/daniel-noboa-el-presidente-electo-de-ecuador-con-el-87-de-actas-escrutadas/|url-status=live}}</ref>",
+                  "url": "https://www.metroecuador.com.ec/noticias/2023/10/16/daniel-noboa-el-presidente-electo-de-ecuador-con-el-87-de-actas-escrutadas/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=youngest>{{cite news|title=Daniel Noboa elected Ecuador's youngest president|url=https://www.bbc.com/news/world-latin-america-67119415|access-date=15 October 2023|work=BBC|date=15 October 2023|archive-date=16 October 2023|archive-url=https://web.archive.org/web/20231016024830/https://www.bbc.com/news/world-latin-america-67119415|url-status=live}}</ref>",
+                  "url": "https://www.bbc.com/news/world-latin-america-67119415",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|title=Noboa wins Ecuador presidential race, pledges to rebuild country|url=https://www.reuters.com/world/americas/ecuadoreans-weigh-economic-security-pledges-presidential-ballot-2023-10-15/|access-date=15 October 2023|work=Reuters|date=15 October 2023|archive-date=16 October 2023|archive-url=https://web.archive.org/web/20231016023558/https://www.reuters.com/world/americas/ecuadoreans-weigh-economic-security-pledges-presidential-ballot-2023-10-15/|url-status=live}}</ref>",
+                  "url": "https://www.reuters.com/world/americas/ecuadoreans-weigh-economic-security-pledges-presidential-ballot-2023-10-15/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "{{main|2023 Ecuadorian political crisis}}\n{{multiple image\n|align=right\n|direction=horizontal \n|header=\n|width1=130\n|width2=145\n|image1=Papeletas electorales 2023.jpg\n|caption1=Voting sheets used for the general elections. \n|image2=Elecciones en circunscripción 4 cantón Daule elecciones 2023.jpg\n|caption2=Voting stations used for the elections.\n}}\nOn 17 May 2023, a day after he presented his defense in an impeachment process against him, President Lasso invoked the {{Lang|es|muerte cruzada}} mechanism provided for in Article 148 of the 2008 Constitution of Ecuador|2008 Constitution to 2023 Ecuadorian political crisis|dissolve the National Assembly (Ecuador)|National Assembly, bringing forward legislative and presidential elections.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news|last=Valencia|first=Alexandra|date=17 May 2023|title=Ecuador president dissolves legislature, bringing elections forward|language=en |work=Reuters|url=https://www.reuters.com/world/americas/ecuador-president-dissolves-legislature-bringing-elections-forward-2023-05-17/|access-date=17 May 2023|archive-date=18 May 2023|archive-url=https://web.archive.org/web/20230518214809/https://www.reuters.com/world/americas/ecuador-president-dissolves-legislature-bringing-elections-forward-2023-05-17/|url-status=live}}</ref>",
+                  "url": "https://www.reuters.com/world/americas/ecuador-president-dissolves-legislature-bringing-elections-forward-2023-05-17/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "On 18 May, Diana Atamaint, the president of the National Electoral Council (Ecuador)|National Electoral Council (CNE), announced 20 August 2023 as the tentative date for the legislative election and the first round of the presidential vote. The CNE had until 24 May to finalize the electoral calendar.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|title=CNE tiene el 20 de agosto como fecha tentativa para realizar las elecciones generales anticipadas |url=https://www.eluniverso.com/noticias/politica/cne-tiene-el-20-de-agosto-como-fecha-tentativa-para-realizar-las-elecciones-generales-anticipadas-nota/|access-date=18 May 2023|work=El Universo|date=18 May 2023|archive-date=18 May 2023|archive-url=https://web.archive.org/web/20230518160951/https://www.eluniverso.com/noticias/politica/cne-tiene-el-20-de-agosto-como-fecha-tentativa-para-realizar-las-elecciones-generales-anticipadas-nota/|url-status=live}}</ref>",
+                  "url": "https://www.eluniverso.com/noticias/politica/cne-tiene-el-20-de-agosto-como-fecha-tentativa-para-realizar-las-elecciones-generales-anticipadas-nota/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "On 13 June, Luisa González was en route to register her presidential candidacy with the National Electoral Council with her supporters and president of the Citizen Revolution movement, Marcela Aguiñaga, when they were attacked with pepper spray and tear gas by the National Police of Ecuador|National Police. She was treated at a Quito medical center after flushing her eyes from the pepper spray. The National Police claimed to have used chemical agents to protect security and public order because of the hostile behavior of González's supporters.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=http://quepasamedia.com/noticias/denuncian-ataque-un-con-gas-lacrimogeno-a-una-precandidata-a-la-presidencia-en-ecuador/|title=Denuncian ataque un con gas lacrimógeno a una precandidata a la Presidencia en Ecuador|accessdate=2023-06-13|date=2023-06-13|publisher=Qué Pasa|language=es|archive-date=13 June 2023|archive-url=https://web.archive.org/web/20230613212912/https://quepasamedia.com/noticias/denuncian-ataque-un-con-gas-lacrimogeno-a-una-precandidata-a-la-presidencia-en-ecuador/|url-status=dead}}</ref>",
+                  "url": "http://quepasamedia.com/noticias/denuncian-ataque-un-con-gas-lacrimogeno-a-una-precandidata-a-la-presidencia-en-ecuador/",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news|url=https://www.ecuavisa.com/noticias/politica/luisa-gonzalez-cne-elecciones-2023-FK5369106|title=Luisa González recibe gas pimienta en inscripción en el CNE|newspaper=www.ecuavisa.com|accessdate=2023-06-13|date=2023-06-13|language=es|publisher=Ecuavisa|author1=Redacción|archive-date=21 June 2023|archive-url=https://web.archive.org/web/20230621202112/https://www.ecuavisa.com/noticias/politica/luisa-gonzalez-cne-elecciones-2023-FK5369106|url-status=live}}</ref>",
+                  "url": "https://www.ecuavisa.com/noticias/politica/luisa-gonzalez-cne-elecciones-2023-FK5369106",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.vistazo.com/politica/nacional/revolucion-ciudadana-denuncia-agresion-durante-la-inscripcion-del-binomio-presidencial-CK5369477|title=Revolución Ciudadana denuncia agresión durante la inscripción del binomio presidencial|accessdate=2023-06-13|publisher=www.vistazo.com|language=es-EC|archive-date=14 June 2023|archive-url=https://web.archive.org/web/20230614110955/https://www.vistazo.com/politica/nacional/revolucion-ciudadana-denuncia-agresion-durante-la-inscripcion-del-binomio-presidencial-CK5369477|url-status=live}}</ref>",
+                  "url": "https://www.vistazo.com/politica/nacional/revolucion-ciudadana-denuncia-agresion-durante-la-inscripcion-del-binomio-presidencial-CK5369477",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s4",
+              "text": "Less than two weeks before the election, on 9 August 2023, candidate Fernando Villavicencio was Assassination of Fernando Villavicencio|assassinated after a campaign rally in Quito at the age of 59. He is the first presidential candidate to have been assassinated in the country since Abdón Calderón Muñoz|Abdon Calderon Muñoz's assassination in 1978. The assassination of Villavicencio made international news, prompting condemnation of the attack and condolences by foreign countries as well as the Organization of American States, who called for an investigation. He was replaced on the ballot by a fellow journalist, Christian Zurita, keeping Villavicencio's running mate Andrea González.",
+              "references": [
+                {
+                  "text": "<ref name=FVA>{{cite web|url=https://www.eltiempo.com/mundo/latinoamerica/fernando-villavicencio-asesinan-al-candidato-presidencial-de-ecuador-794674|title=Asesina al candidato a la presidencia de Ecuador Fernando Villavicencio|publisher=El Tiempo|language=Spanish|date=9 August 2023|access-date=10 August 2023|archive-date=10 August 2023|archive-url=https://web.archive.org/web/20230810002409/https://www.eltiempo.com/mundo/latinoamerica/fernando-villavicencio-asesinan-al-candidato-presidencial-de-ecuador-794674|url-status=live}}</ref>",
+                  "url": "https://www.eltiempo.com/mundo/latinoamerica/fernando-villavicencio-asesinan-al-candidato-presidencial-de-ecuador-794674",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.eltelegrafo.com.ec/noticias/actualidad/44/fernando-villavicencio-sufrio-ataque-armado|title=Fernando Villavicencio fue asesinado en un ataque armado, según Ministro del Interior|date=9 August 2023 |accessdate=10 August 2023|publisher=El Telégrafo|language=Spanish|archive-date=10 August 2023|archive-url=https://web.archive.org/web/20230810164058/https://www.eltelegrafo.com.ec/noticias/actualidad/44/fernando-villavicencio-sufrio-ataque-armado|url-status=live}}</ref>",
+                  "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/44/fernando-villavicencio-sufrio-ataque-armado",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Collyns |first=Dan |date=2023-08-10 |title=Ecuadorian presidential candidate Fernando Villavicencio assassinated |language=en-GB |work=The Guardian |url=https://www.theguardian.com/world/2023/aug/10/ecuador-presidential-candidate-fernando-villavicencio-killed |access-date=2023-08-18 |issn=0261-3077 |archive-date=10 August 2023 |archive-url=https://web.archive.org/web/20230810005116/https://www.theguardian.com/world/2023/aug/10/ecuador-presidential-candidate-fernando-villavicencio-killed |url-status=live }}</ref>",
+                  "url": "https://www.theguardian.com/world/2023/aug/10/ecuador-presidential-candidate-fernando-villavicencio-killed",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite web|access-date=17 October 2023|author=|date=10 August 2023|language=en|title=Ecuadorian presidential candidate Fernando Villavicencio assassinated|url=https://www.theguardian.com/world/2023/aug/10/ecuador-presidential-candidate-fernando-villavicencio-killed|website=the Guardian}}<!-- auto-translated by Module:CS1 translator -->.</ref>",
+                  "url": "https://www.theguardian.com/world/2023/aug/10/ecuador-presidential-candidate-fernando-villavicencio-killed",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=Time>{{Cite magazine |date=2023-08-14 |title=Ecuadorian Journalist to Take Assassinated Candidate's Place on Presidential Ticket |url=https://time.com/6304491/ecuador-presidential-elections-journalist-candidate/|access-date=2023-08-14|magazine=Time|language=en|archive-date=14 August 2023|archive-url=https://web.archive.org/web/20230814081804/https://time.com/6304491/ecuador-presidential-elections-journalist-candidate/|url-status=live }}</ref>",
+                  "url": "https://time.com/6304491/ecuador-presidential-elections-journalist-candidate/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "magazine"
+                }
+              ]
+            },
+            {
+              "id": "2.s5",
+              "text": "The general election has been perceived to be largely overshadowed by Narco-state|narco politics and violent crime.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |last=Collyns |first=Dan |date=2023-10-14 |title='People are dying in the street': Ecuador election overshadowed by violent crime |language=en-GB |work=The Guardian |url=https://www.theguardian.com/world/2023/oct/14/ecuador-presidential-election-violence-crime |access-date=2023-10-15 |issn=0261-3077 |archive-date=15 October 2023 |archive-url=https://web.archive.org/web/20231015071102/https://www.theguardian.com/world/2023/oct/14/ecuador-presidential-election-violence-crime |url-status=live }}</ref>",
+                  "url": "https://www.theguardian.com/world/2023/oct/14/ecuador-presidential-election-violence-crime",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=2023-08-18 |title=Ecuador election: Narco politics rule ahead of polls |language=en-GB|work=BBC News|url=https://www.bbc.com/news/world-latin-america-66540765|access-date=2023-08-18|archive-date=18 August 2023|archive-url=https://web.archive.org/web/20230818085749/https://www.bbc.com/news/world-latin-america-66540765|url-status=live}}</ref>",
+                  "url": "https://www.bbc.com/news/world-latin-america-66540765",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The president is elected using a modified two-round system, with a candidate required to get over 50% of the vote, or get over 40% of the vote and be 10 points ahead of their nearest rival, to be elected in the first round.",
+              "references": [
+                {
+                  "text": "<ref name=\"guide\"/> The president is limited to two consecutive four-year terms.<ref name=\"guide\">{{Cite web|url=https://www.electionguide.org/elections/id/2265/|title=IFES Election Guide &#124; Elections: Ecuador Pres 2013|website=www.electionguide.org|access-date=23 June 2023|archive-date=31 March 2019|archive-url=https://web.archive.org/web/20190331044326/http://www.electionguide.org/elections/id/2265/|url-status=live}}</ref>",
+                  "url": "https://www.electionguide.org/elections/id/2265/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"PDBA\">{{Cite web|url=https://pdba.georgetown.edu/ElecSys/Ecuador/ecuador.html|title=Ecuador: Sistemas Electorales / Electoral Systems|website=pdba.georgetown.edu|access-date=23 June 2023|archive-date=19 April 2023|archive-url=https://web.archive.org/web/20230419091911/https://pdba.georgetown.edu/ElecSys/Ecuador/ecuador.html|url-status=live}}</ref>",
+                  "url": "https://pdba.georgetown.edu/ElecSys/Ecuador/ecuador.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "Members of the National Assembly (Ecuador)|National Assembly are elected by three methods. Members of the National Assembly are limited to two four-year terms, regardless if they are consecutive or not.<ref name=\"IJBs7\"/> There are gender quotas for the party lists, meaning there is Zipper system|alternation between men and women. There are no quotas for minority representation.<ref name=\"PDBA\"/>",
+              "references": [
+                {
+                  "text": "<ref name=\"PDBA\"/> Fifteen are elected by closed list proportional representation in a nationwide constituency.<ref name=\"57lkF\"/> Six are elected by overseas voters (two each from Canada/United States, Latin America/Caribbean/Africa and Asia/Europe/Oceania).<ref name=\"57lkF\"/> The remaining 116 members are elected from multi-member constituencies by closed list proportional representation, with all seats allocated using the Webster/Sainte-Laguë method|Webster method.<ref name=\"57lkF\">{{Cite web|title=La Asamblea aprobó reformas al Código de la Democracia|url=http://www.elcomercio.com/actualidad/reformas-elecciones-asamblea-codigo-democracia.html|access-date=15 January 2021|website=El Comercio| archive-date = 28 January 2021|archive-url=https://web.archive.org/web/20210128084532/https://www.elcomercio.com/actualidad/reformas-elecciones-asamblea-codigo-democracia.html|url-status=live}}</ref>",
+                  "url": "http://www.elcomercio.com/actualidad/reformas-elecciones-asamblea-codigo-democracia.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"IJBs7\">{{Cite web|title=Electores no podrán votar por candidatos de distintas listas|url=http://www.elcomercio.com/actualidad/cne-electores-vota-candidatos-listas.html|access-date=15 January 2021|website=El Comercio|archive-date=9 January 2021|archive-url=https://web.archive.org/web/20210109054952/https://www.elcomercio.com/actualidad/cne-electores-vota-candidatos-listas.html|url-status=live}}</ref>",
+                  "url": "http://www.elcomercio.com/actualidad/cne-electores-vota-candidatos-listas.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Presidential candidates",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "declined to run on 19 May 2023]]\nA day after the dissolution of the National Assembly on 17 May 2023, former Vice President of Ecuador|Vice President Otto Sonnenholzner announced his candidacy for the presidency, with his campaign being endorsed by Actuemos Alliance and the Democratic Left (Ecuador)|Democratic Left Party. however, the party declined to nominate a candidate and instead endorsed businessman Jan Topić's candidacy on 21 May.<ref name=psc/>",
+              "references": [
+                {
+                  "text": "<ref name=Otto/> That same day, former National Assembly member and journalist Fernando Villavicencio announced his campaign with the support of the Movimiento Construye Party.<ref name=Fernando/> On 19 May, President Lasso announced in an interview with ''The Washington Post'' that he would not run in the 2023 election.<ref name=not/><ref name=stand/> Former Mayor of Guayaquil and 1992 Ecuadorian general election|1992 and 1996 Ecuadorian general election|1996 presidential candidate Jaime Nebot expressed interest in running under the Social Christian Party (Ecuador)|Social Christian Party;<ref>{{cite web|url=https://www.emol.com/noticias/Internacional/2023/05/20/1095615/crisis-ecuador-candidatos-reemplazante-lasso.html|title=Crisis en Ecuador: Los candidatos que asoman para competir en la elección presidencial y reemplazar a Lasso|date=20 May 2023|publisher=EMOL|accessdate=22 May 2023|archive-date=22 May 2023|archive-url=https://web.archive.org/web/20230522142215/https://www.emol.com/noticias/Internacional/2023/05/20/1095615/crisis-ecuador-candidatos-reemplazante-lasso.html|url-status=live}}</ref>",
+                  "url": "https://www.emol.com/noticias/Internacional/2023/05/20/1095615/crisis-ecuador-candidatos-reemplazante-lasso.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://www.vistazo.com/politica/nacional/estos-son-los-posibles-candidatos-a-presidente-del-ecuador-hay-exasambleistas-entre-las-opciones-YE5161346|title=Estos son los posibles candidatos a presidente del Ecuador: hay exasambleístas entre las opciones|publisher=Vistazo|accessdate=22 May 2023|archive-date=22 May 2023|archive-url=https://web.archive.org/web/20230522142218/https://www.vistazo.com/politica/nacional/estos-son-los-posibles-candidatos-a-presidente-del-ecuador-hay-exasambleistas-entre-las-opciones-YE5161346|url-status=live}}</ref>",
+                  "url": "https://www.vistazo.com/politica/nacional/estos-son-los-posibles-candidatos-a-presidente-del-ecuador-hay-exasambleistas-entre-las-opciones-YE5161346",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "On 6 June, President Lasso's party Creating Opportunities announced that they would not endorse a presidential candidate. On 8 June, Quito-based businessman and 2021 presidential candidate Xavier Hervas announced his candidacy and was endorsed by the RETO Movement.<ref name=Xavier/> On 10 June, the Rafael Correa-funded Citizen Revolution Movement party sought to nominate former Vice President Jorge Glas as their nominee; Glas declined the nomination, however.<ref name=Glas/> 2021 presidential runner-up Andrés Arauz also declined to run and instead sought the vice presidential candidacy.<ref name=\":0\"/> The party instead nominated former Assemblywoman Luisa González as its presidential nominee and Arauz as her running mate.<ref name=\":0\"/>",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web|url=https://www.teleamazonas.com/creo-no-presentara-candidatos-presidencia-asamblea/|title=CREO no presentará candidatos a la Presidencia ni a la Asamblea|accessdate=2023-06-15|date=2023-06-06|publisher=Teleamazonas|language=es|archive-date=23 June 2023|archive-url=https://web.archive.org/web/20230623184643/https://www.teleamazonas.com/creo-no-presentara-candidatos-presidencia-asamblea/|url-status=live}}</ref>",
+                  "url": "https://www.teleamazonas.com/creo-no-presentara-candidatos-presidencia-asamblea/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "On 13 July 2023, the National Electoral Council (CNE) officially confirmed the eight candidacies of Armijos, González, Hervas, Noboa Azín, Pérez Guartambel, Sonnenholzner, Topić and Villavicencio. The CNE also said that the official campaign period would run from 13 July until 20 August.<ref name=CTEcon/>",
+              "references": [
+                {
+                  "text": "<ref name=CTEcon>{{Cite web|url=https://www.eltelegrafo.com.ec/noticias/actualidad/44/campana-electoral-para-binomios-presidenciales-arrancara-este-13-de-julio|title=Campaña electoral para binomios presidenciales arrancará el jueves, 13 de julio de 2023|accessdate=2023-07-13|publisher=El Telégrafo|date=2023-07-13|language=Spanish|archive-date=13 July 2023|archive-url=https://web.archive.org/web/20230713131411/https://www.eltelegrafo.com.ec/noticias/actualidad/44/campana-electoral-para-binomios-presidenciales-arrancara-este-13-de-julio|url-status=live}}</ref>",
+                  "url": "https://www.eltelegrafo.com.ec/noticias/nacionales/44/campana-electoral-para-binomios-presidenciales-arrancara-este-13-de-julio",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Advanced to runoff",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "<!--Candidates are listed in alphabetical order not by campaign date announcement-->\n{|class=\"wikitable sortable\" style=\"text-align:center;\"\n!scope=\"col\" colspan=2|Name\n!Born\n!class=\"unsortable\" |Experience\n!Home province\n!Running mate \n!Campaign\n!Ref\n|-\n|data-sort-value=\"Gonzalez, Luisa\"|<br/>'''Luisa González'''\n|style=\"background:{{party color|Citizen Revolution}};\" |\n|{{dts|1977|11|22|format=dmy}}<br>(age {{age nts|1977|11|22|2023|8|20|format=dmy}})<br/>Quito, Pichincha Province|Pichincha\n|'''Member of the National Assembly (Ecuador)|National Assembly'''<br>(2021–2023 Ecuadorian political crisis|2023)<br>Cabinet of Ecuador|Secretary of Public Administration<br>(2017)\n|Manabí Province|Manabí\n|'''Andrés Arauz|Andrés Arauz Galarza'''\n|{{small|'''Endorsed by:'''}}<br>Citizen Revolution Movement|RC<hr/>{{small|'''Announced:'''}}<br>{{dts|2023|6|10|format=dmy}}\n|\n|-\n|data-sort-value=\"Noboa, Daniel\"|<br/>'''Daniel Noboa'''\n|style=\"background:#63267D;\"|\n|{{dts|1987|11|30|format=dmy}}<br>(age {{age nts|1987|11|30|2023|8|20|format=dmy}})<br/>Miami, Florida, United States|U.S.\n|'''Member of the National Assembly (Ecuador)|National Assembly'''<br>(2021–2023 Ecuadorian political crisis|2023)<br>Founder of DNA Entertainment Group\n|Santa Elena Province|Santa Elena\n|'''Verónica Abad Rojas'''\n|{{small|'''Endorsed by:'''}}<br>National Democratic Action (Ecuador)|ADN{{efn|Alliance is composed of People, Equality and Democracy and Mover (political party)|Mover}}<hr/>{{small|'''Announced:'''}}<br>{{dts|2023|5|24|format=dmy}}\n|\n|}\n{{Notelist}}",
+                  "references": [
+                    {
+                      "text": "<ref name=ecuavisa>{{Cite web|date=2023-05-23|title=Elecciones Ecuador 2023: entre Andrés Arauz, Carlos Rabascal y Luisa González está el candidato del correísmo a la Presidencia|url=https://www.ecuavisa.com/noticias/politica/elecciones-ecuador-2023-entre-andres-arauz-carlos-rabascal-y-luisa-gonzalez-esta-el-candidato-del-correismo-a-la-presidencia-XY5221321|access-date=2023-05-28|website=Ecuavisa|language=es-EC |archive-date=27 May 2023|archive-url=https://web.archive.org/web/20230527113434/https://www.ecuavisa.com/noticias/politica/elecciones-ecuador-2023-entre-andres-arauz-carlos-rabascal-y-luisa-gonzalez-esta-el-candidato-del-correismo-a-la-presidencia-XY5221321|url-status=live}}</ref>",
+                      "url": "https://www.ecuavisa.com/noticias/politica/elecciones-ecuador-2023-entre-andres-arauz-carlos-rabascal-y-luisa-gonzalez-esta-el-candidato-del-correismo-a-la-presidencia-XY5221321",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":0\">{{Cite web|date=2023-06-10|title=Revolución Ciudadana define a Luisa González y Andrés Arauz como su binomio tras la declinación de Jorge Glas |url=https://www.eluniverso.com/noticias/politica/jorge-glas-y-luisa-gonzalez-el-binomio-presidencial-de-la-revolucion-ciudadana-nota/|access-date=2023-06-10 |website=El Universo |language=es|archive-date=10 June 2023|archive-url=https://web.archive.org/web/20230610223812/https://www.eluniverso.com/noticias/politica/jorge-glas-y-luisa-gonzalez-el-binomio-presidencial-de-la-revolucion-ciudadana-nota/|url-status=live}}</ref>",
+                      "url": "https://www.eluniverso.com/noticias/politica/jorge-glas-y-luisa-gonzalez-el-binomio-presidencial-de-la-revolucion-ciudadana-nota/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=Noboa>{{cite web |title=Daniel Noboa anuncia su candidatura a la presidencia: \"Soy un hombre de proyectos que no se rinde\" |url=https://www.vistazo.com/politica/nacional/daniel-noboa-anuncia-su-candidatura-a-la-presidencia-soy-un-hombre-de-proyectos-que-no-se-rinde-EF5236251 |website=Vistazo |access-date=27 May 2023 |archive-date=27 May 2023 |archive-url=https://web.archive.org/web/20230527174648/https://www.vistazo.com/politica/nacional/daniel-noboa-anuncia-su-candidatura-a-la-presidencia-soy-un-hombre-de-proyectos-que-no-se-rinde-EF5236251 |url-status=live }}</ref>",
+                      "url": "https://www.vistazo.com/politica/nacional/daniel-noboa-anuncia-su-candidatura-a-la-presidencia-soy-un-hombre-de-proyectos-que-no-se-rinde-EF5236251",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Eliminated in first round",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.3.s1",
+                  "text": "<!--Candidates are listed in alphabetical order not by campaign date announcement-->\n{|class=\"wikitable sortable\" style=\"text-align:center;\"\n!scope=\"col\" colspan=2|Name\n!Born\n!class=\"unsortable\"|Experience\n!Home province\n!Running mate \n!Campaign\n!Ref\n|-\n| data-sort-value=\"Armijos Velasco, Bolivar\"|<br/>'''Bolívar Armijos Velasco|Bolívar Armijos'''\n| style=\"background:black;\"|\n|{{dts|1976|1|9|format=dmy}}<br>(age {{age nts|1976|1|9|2023|8|20|format=dmy}})<br/>San Lorenzo Canton|San Lorenzo, Esmeraldas Province|Esmeraldas\n|'''President of CONAGOPARE'''<br>(2014–2019)\n|Esmeraldas Province|Esmeraldas\n|'''Linda Romero Espinoza'''\n|{{small|'''Endorsed by:'''}}<br>AMIGO Movement|AMIGO<hr/>{{small|'''Announced:'''}}<br>{{dts|2023|5|29|format=dmy}}\n|\n|-\n|data-sort-value=\"Hervas, Xavier\"|<br/>'''Xavier Hervas'''\n|style=\"background:{{party color|RETO Movement}};\"|\n|{{dts|1972|10|7|format=dmy}}<br>(age {{age nts|1972|10|7|2023|8|20|format=dmy}})<br/>Guayaquil, Guayas Province|Guayas\n|'''President of NovaAlimentos S.A.'''<br>Candidate for president (2021 Ecuadorian general election|2021)\n|Pichincha Province|Pichincha\n|'''Luz Marina Vega Conejo'''\n|{{small|'''Endorsed by:'''}}<br><br>RETO Movement|RETO<hr/>{{small|'''Announced:'''}}<br>{{dts|2023|6|8|format=dmy}}\n|\n|-\n|data-sort-value=\"Perez Guartambel, Yaku\"|<br/>'''Yaku Pérez Guartambel'''\n|style=\"background:{{party color|Popular Unity (Ecuador)}};\"|\n|{{dts|1969|2|26|format=dmy}}<br>(age {{age nts|1969|2|26|2023|8|20|format=dmy}})<br/>Cuenca, Ecuador|Cuenca, Azuay Province|Azuay\n|'''Provincial Prefect of Azuay Province'''<br>(2019–2020)<br>President of ECUARUNARI<br>(2013–2019)<br>Candidate for president (2021 Ecuadorian general election|2021)\n|Azuay Province|Azuay\n|'''Nory Pinela Morán'''\n|{{small|'''Endorsed by:'''}}<br> Claro Que Se<br>Puede{{efn|Alliance is composed of Popular Unity (Ecuador)|Popular Unity, Socialist Party – Broad Front of Ecuador and Democracia Sí}}<br> Pachakutik<hr/>{{small|'''Announced:'''}}<br>{{dts|2023|5|25|format=dmy}}\n|\n|-\n|data-sort-value=\"Sonnenholzner, Otto\"|<br/>'''Otto Sonnenholzner'''\n|style=\"background:{{party color|Advance (Ecuador)}};\"|\n|{{dts|1983|3|19|format=dmy}}<br>(age {{age nts|1983|3|19|2023|8|20|format=dmy}})<br/>Guayaquil, Guayas Province|Guayas\n|'''Vice President of Ecuador'''<br>(2018–2020)\n|Guayas Province|Guayas\n|'''Erika Paredes Sánchez'''\n|{{small|'''Endorsed by:'''}}<br> Actuemos{{efn|Alliance is composed of Advance (Ecuador)|Avanza and SUMA Party|SUMA}}<br> Democratic Left (Ecuador)|Democratic Left<hr/>{{small|'''Announced:'''}}<br>{{dts|2023|5|18|format=dmy}}\n|\n|-\n|data-sort-value=\"Topic, Jan\"|<br/>'''Jan Topić'''\n|style=\"background:#FFD600;\"|\n|{{dts|1983|4|23|format=dmy}}<br>(age {{age nts|1983|4|23|2023|8|20|format=dmy}})<br/>Guayaquil, Guayas Province|Guayas\n|'''President of Telconet'''<br>(2010–present)\n|Guayas Province|Guayas\n|'''Diana Jácome Silva'''\n|{{small|'''Endorsed by:'''}}<br> Por Un País<br>Sin Miedo{{efn|Alliance is composed of Christian Social Party (Ecuador)|Christian Social Party ''(logo pictured)'', Patriotic Society Party and Democratic Center (Ecuador)|Democratic Center}}<hr/>{{small|'''Announced:'''}}<br>{{dts|2023|5|21|format=dmy}}\n|<ref name=psc/>\n|-\n|data-sort-value=\"Zurita, Christian\"|<br/>'''Christian Zurita'''\n|style=\"background:{{party color|Movimiento Construye}};\"|\n|{{dts|1970|4|4|format=dmy}}<br>(age {{age nts|1970|4|4|2023|8|20|format=dmy}})<br/>Quito, Pichincha Province|Pichincha\n|'''Investigative journalist'''\n|Pichincha Province|Pichincha\n|'''Andrea González Náder'''\n|{{small|'''Endorsed by:'''}}<br> Movimiento Construye|MC25{{Efn|Replacement candidate following assassination of Fernando Villavicencio|group=lower-alpha}}<hr/>{{small|'''Announced:'''}}<br>{{dts|2023|8|13|format=dmy}}\n|<ref name=Time/>\n|}\n{{Notelist}}",
+                  "references": [
+                    {
+                      "text": "<ref name=Bolivar>{{cite web|url=https://www.eluniverso.com/noticias/politica/binomio-armijos-romero-aceptan-precandidaturas-a-la-presidencia-de-la-republica-para-los-comicios-de-agosto-proximo-nota/|title=Binomio Armijos-Romero acepta precandidatura a la Presidencia de la República para los comicios de agosto próximo|publisher=El Universo|accessdate=20 June 2023|date=8 June 2023|language=Spanish|archive-date=10 June 2023|archive-url=https://web.archive.org/web/20230610172553/https://www.eluniverso.com/noticias/politica/binomio-armijos-romero-aceptan-precandidaturas-a-la-presidencia-de-la-republica-para-los-comicios-de-agosto-proximo-nota/|url-status=live}}</ref>",
+                      "url": "https://www.eluniverso.com/noticias/politica/binomio-armijos-romero-aceptan-precandidaturas-a-la-presidencia-de-la-republica-para-los-comicios-de-agosto-proximo-nota/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=Xavier>{{cite web|url=https://www.lahora.com.ec/pais/binomio-presidencial-xavier-hervas-luz-marina-vega-queda-en-firme-cne-nego-objecion-de-la-revolucion-ciudadana/|title=Binomio presidencial Xavier Hervas-Luz Marina Vega queda en firme; CNE negó objeción de la Revolución Ciudadana|publisher=La Hora|accessdate=20 June 2023|date=19 June 2023|language=Spanish|archive-date=20 June 2023|archive-url=https://web.archive.org/web/20230620090700/https://www.lahora.com.ec/pais/binomio-presidencial-xavier-hervas-luz-marina-vega-queda-en-firme-cne-nego-objecion-de-la-revolucion-ciudadana/|url-status=live}}</ref>",
+                      "url": "https://www.lahora.com.ec/pais/binomio-presidencial-xavier-hervas-luz-marina-vega-queda-en-firme-cne-nego-objecion-de-la-revolucion-ciudadana/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=Yaku>{{cite web|url=https://www.planv.com.ec/historias/politica/yaku-perez-y-gustavo-larrea-consolidan-un-acuerdo-politico-entre-somos-agua-y|title=YAKU PÉREZ Y GUSTAVO LARREA CONSOLIDAN UN ACUERDO POLÍTICO ENTRE SOMOS AGUA Y DEMOCRACIA SÍ|publisher=PlanV|accessdate=18 May 2023|archive-date=17 May 2023|archive-url=https://web.archive.org/web/20230517153803/https://www.planv.com.ec/historias/politica/yaku-perez-y-gustavo-larrea-consolidan-un-acuerdo-politico-entre-somos-agua-y|url-status=live}}</ref>",
+                      "url": "https://www.planv.com.ec/historias/politica/yaku-perez-y-gustavo-larrea-consolidan-un-acuerdo-politico-entre-somos-agua-y",
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=Otto>{{cite web |title=Más actores políticos anuncian su intención de candidatizarse para presidente de Ecuador |url=https://www.vistazo.com/politica/nacional/mas-actores-politicos-anuncian-su-intencion-de-candidatizarse-para-presidente-de-ecuador-HN5168933|accessdate=18 May 2023|publisher=Vistazo|archive-date=19 May 2023|archive-url=https://web.archive.org/web/20230519085827/https://www.vistazo.com/politica/nacional/mas-actores-politicos-anuncian-su-intencion-de-candidatizarse-para-presidente-de-ecuador-HN5168933|url-status=live}}</ref>",
+                      "url": "https://www.vistazo.com/politica/nacional/mas-actores-politicos-anuncian-su-intencion-de-candidatizarse-para-presidente-de-ecuador-HN5168933",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "4.3.2",
+              "title": "Assassinated prior to election",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "4.3.2.s1",
+                      "text": "{| class=\"wikitable sortable\" style=\"text-align:center;\"\n!scope=\"col\" colspan=2|Name\n!Personal\n! class=\"unsortable\"|Experience\n!Home province\n!Running mate \n!Campaign\n!Ref\n|-\n|data-sort-value=\"Villavicencio, Fernando\"|<br/>'''Fernando Villavicencio'''\n|style=\"background:{{party color|Movimiento Construye}};\"|\n|{{dts|1963|10|11|format=dmy}}<br>–<br>{{dts|2023|8|9|format=dmy}}<br>(aged {{age nts|1963|10|11|2023|8|9|format=dmy}})\n|'''Member of the National Assembly (Ecuador)|National Assembly'''<br>(2021–2023 Ecuadorian political crisis|2023)\n|Pichincha Province|Pichincha\n|'''Andrea González Náder'''\n|{{small|'''Endorsed by:'''}}<br> Movimiento Construye|MC25<hr/>{{small|'''Announced:'''}}<br>{{dts|2023|5|17|format=dmy}}<hr/>{{small|'''Assassination of Fernando Villavicencio|Assassinated:'''}}<br>{{dts|2023|8|9|format=dmy}}\n|<ref name=FVA/>\n|}\n{{Notelist}}",
+                      "references": [
+                        {
+                          "text": "<ref name=Fernando>{{cite web|date=17 May 2023 |title=Fernando Villavicencio, el primer político que habla de una candidatura presidencial tras la muerte cruzada|url=https://www.eluniverso.com/noticias/politica/muerte-cruzada-fernando-villavicencio-candidatura-presidencial-nota/|accessdate=18 May 2023 |publisher=El Universo|language=es|archive-date=18 May 2023|archive-url=https://web.archive.org/web/20230518003951/https://www.eluniverso.com/noticias/politica/muerte-cruzada-fernando-villavicencio-candidatura-presidencial-nota/|url-status=live}}</ref>",
+                          "url": "https://www.eluniverso.com/noticias/politica/muerte-cruzada-fernando-villavicencio-candidatura-presidencial-nota/",
+                          "status_code": 200,
+                          "reason": null,
+                          "type": "web"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.4",
+          "title": "Declined",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.4.s1",
+                  "text": "*Andrés Arauz, President of the Citizen Revolution Movement (2020–2021) and 2021 Ecuadorian general election|2021 presidential candidate ''(running for vice president)''.\n*Jorge Glas, Vice President of Ecuador (2013–2018) ''(endorsed González)''.\n*Leonidas Iza, President of the Confederation of Indigenous Nationalities of Ecuador (since 2021).\n*Pedro José Freile, Director of the Inter-American Development Bank Ecuador Division (2004–2005), leader of the AMIGO Movement (2020–2022) and 2021 Ecuadorian general election|2021 presidential candidate ''(endorsed Topić)''.\n*Guillermo Lasso, Incumbent president of Ecuador (since 2021) and founder of Creating Opportunities|CREO.\n*Jaime Nebot, Mayor of Guayaquil (2000–2019), member of the National Congress (Ecuador)|National Congress (1990–1992, 1998–2000), Governor of Guayas Province (1984–1988) and 1992 Ecuadorian general election|1992 and 1996 Ecuadorian general election|1996 presidential candidate ''(party endorsed Topić)''.\n*Salvador Quishpe, member of the National Assembly (Ecuador)|National Assembly (2021–2023), Provincial Prefect of Zamora-Chinchipe Province (2009–2019), member of the National Congress (Ecuador)|National Congress (2003–2008).\n*Carlos Rabascall, journalist and 2021 Ecuadorian general election|2021 vice presidential candidate.<ref name=ecuavisa/><ref name=:0/>",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=\"Soy un soldado de este proyecto; yo estaré en donde la historia me asigne\": Andrés Arauz|url=https://www.lahora.com.ec/pais/andres-arauz-muerte-cruzada-candidato/|access-date=19 May 2023|website=La Hora|language=es|archive-date=19 May 2023|archive-url=https://web.archive.org/web/20230519025731/https://www.lahora.com.ec/pais/andres-arauz-muerte-cruzada-candidato/ |url-status=live }}</ref>",
+                      "url": "https://www.lahora.com.ec/pais/andres-arauz-muerte-cruzada-candidato/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|date=2023-05-23|title=Andrés Arauz: Mi interés no es la candidatura, es la Presidencia del Ecuador|url=https://www.eluniverso.com/noticias/politica/andres-arauz-mi-interes-no-es-la-candidatura-es-la-presidencia-del-ecuador-nota/|access-date=2023-05-23|website=El Universo|language=es|archive-date=23 May 2023|archive-url=https://web.archive.org/web/20230523135948/https://www.eluniverso.com/noticias/politica/andres-arauz-mi-interes-no-es-la-candidatura-es-la-presidencia-del-ecuador-nota/|url-status=live }}</ref>",
+                      "url": "https://www.eluniverso.com/noticias/politica/andres-arauz-mi-interes-no-es-la-candidatura-es-la-presidencia-del-ecuador-nota/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":0\"/>\n*Dalton Bacigalupo Buenaventura, member of the National Assembly (Ecuador)|National Assembly (2021–2023).<ref>{{Cite web|url=https://www.eluniverso.com/noticias/politica/izquierda-democratica-respaldara-la-precandidatura-de-otto-sonnenholzner-a-la-presidencia-nota/|title=Izquierda Democrática respaldará la precandidatura de Otto Sonnenholzner a la presidencia|access-date=2023-05-31|date=2023-05-31|website=El Universo|language=es|archive-date=31 May 2023|archive-url=https://web.archive.org/web/20230531183746/https://www.eluniverso.com/noticias/politica/izquierda-democratica-respaldara-la-precandidatura-de-otto-sonnenholzner-a-la-presidencia-nota/|url-status=live}}</ref>",
+                      "url": "https://www.eluniverso.com/noticias/politica/izquierda-democratica-respaldara-la-precandidatura-de-otto-sonnenholzner-a-la-presidencia-nota/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=Glas>{{Cite web|title=Jorge Glas declina ser candidato presidencial del correísmo |url=https://www.dw.com/es/exvicepresidente-jorge-glas-declina-ser-candidato-presidencial-del-corre%C3%ADsmo-en-ecuador/a-65880784|access-date=2023-06-10|website=DW |date=June 10, 2023 |language=es|archive-date=10 June 2023|archive-url=https://web.archive.org/web/20230610223801/https://www.dw.com/es/exvicepresidente-jorge-glas-declina-ser-candidato-presidencial-del-corre%C3%ADsmo-en-ecuador/a-65880784|url-status=live}}</ref>",
+                      "url": "https://www.dw.com/es/exvicepresidente-jorge-glas-declina-ser-candidato-presidencial-del-corre%C3%ADsmo-en-ecuador/a-65880784",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|author1=Alejandro Caceres|date=2023-05-24|title=Marlon Santi propone a Leonidas Iza como candidato presidencial|url=https://www.elcomercio.com/actualidad/politica/pachakutik-leonidas-iza-candidato-presidencia-ecuador.html|access-date=2023-05-25|website=El Comercio|language=es-EC|archive-date=26 May 2023 |archive-url=https://web.archive.org/web/20230526012618/https://www.elcomercio.com/actualidad/politica/pachakutik-leonidas-iza-candidato-presidencia-ecuador.html|url-status=live}}</ref>",
+                      "url": "https://www.elcomercio.com/actualidad/politica/pachakutik-leonidas-iza-candidato-presidencia-ecuador.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|date=2023-06-02|title=Leonidas Iza retira su precandidatura presidencial para los comicios anticipados de agosto|url=https://www.eluniverso.com/noticias/politica/leonidas-iza-retira-su-precandidatura-presidencial-para-los-comicios-anticipados-de-agosto-nota/|access-date=2023-06-04|website=El Universo|language=es|archive-date=4 June 2023|archive-url=https://web.archive.org/web/20230604011357/https://www.eluniverso.com/noticias/politica/leonidas-iza-retira-su-precandidatura-presidencial-para-los-comicios-anticipados-de-agosto-nota/|url-status=live}}</ref>",
+                      "url": "https://www.eluniverso.com/noticias/politica/leonidas-iza-retira-su-precandidatura-presidencial-para-los-comicios-anticipados-de-agosto-nota/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url=https://www.eluniverso.com/noticias/politica/pedro-freile-apoya-la-candidatura-de-jan-topic-a-la-presidencia-de-la-republica-nota/|title=Pedro Freile apoya la candidatura de Jan Topic a la Presidencia de la República|date=22 May 2023|website=El Universo|access-date=23 May 2023|archive-date=22 May 2023|archive-url=https://web.archive.org/web/20230522170424/https://www.eluniverso.com/noticias/politica/pedro-freile-apoya-la-candidatura-de-jan-topic-a-la-presidencia-de-la-republica-nota/|url-status=live}}</ref>",
+                      "url": "https://www.eluniverso.com/noticias/politica/pedro-freile-apoya-la-candidatura-de-jan-topic-a-la-presidencia-de-la-republica-nota/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=not/><ref name=stand/>\n*Eduardo Maruri, businessman, member of the Ecuadorian Constituent Assembly (2007) and president of Barcelona S.C. (2007–2010) ''(endorsed Sonnenholzner)''.<ref>{{Cite web|date=2023-05-26|title=Centro Democrático tiene al empresario guayaquileño Eduardo Maruri como su opción para la presidencia de la República|url=https://www.eluniverso.com/noticias/politica/centro-democratico-tiene-al-empresario-guayaquileno-eduardo-maruri-como-su-opcion-para-la-presidencia-de-la-republica-nota/|access-date=2023-05-28|website=El Universo|language=es|archive-date=28 May 2023|archive-url=https://web.archive.org/web/20230528081819/https://www.eluniverso.com/noticias/politica/centro-democratico-tiene-al-empresario-guayaquileno-eduardo-maruri-como-su-opcion-para-la-presidencia-de-la-republica-nota/|url-status=live }}</ref>",
+                      "url": "https://www.eluniverso.com/noticias/politica/centro-democratico-tiene-al-empresario-guayaquileno-eduardo-maruri-como-su-opcion-para-la-presidencia-de-la-republica-nota/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|date=2023-06-07|title=Elecciones Ecuador 2023: Eduardo Maruri renuncia a sus aspiraciones presidenciales y apoyará a Sonnenholzner|url=https://www.ecuavisa.com/noticias/politica/eduardo-maruri-elecciones-ecuador-EA5332107|access-date=2023-06-07|website=Ecuavisa|language=es-EC|archive-date=7 June 2023|archive-url=https://web.archive.org/web/20230607192326/https://www.ecuavisa.com/noticias/politica/eduardo-maruri-elecciones-ecuador-EA5332107|url-status=live}}</ref>",
+                      "url": "https://www.ecuavisa.com/noticias/politica/eduardo-maruri-elecciones-ecuador-EA5332107",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=psc>{{Cite web|url=https://www.expreso.ec/actualidad/psc-decide-presentar-candidato-presidencial-respalda-jan-topic-161173.html|title=El PSC decide no presentar candidato presidencial y respalda a Jan Topic|access-date=2023-05-21|website=www.expreso.ec|archive-date=24 May 2023|archive-url=https://web.archive.org/web/20230524091804/https://www.expreso.ec/actualidad/psc-decide-presentar-candidato-presidencial-respalda-jan-topic-161173.html|url-status=live}}</ref>",
+                      "url": "https://www.expreso.ec/actualidad/psc-decide-presentar-candidato-presidencial-respalda-jan-topic-161173.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":7\">{{Cite web|url=https://www.elcomercio.com/actualidad/politica/pachakutik-no-presentara-candidato-presidencial-elecciones-anticipadas.html|title=Pachakutik no presentará candidato presidencial en las elecciones anticipadas|access-date=2023-06-07|author=Kevin Puga|date=2023-06-07|website=El Comercio|language=es-EC|archive-date=8 June 2023|archive-url=https://web.archive.org/web/20230608115722/https://www.elcomercio.com/actualidad/politica/pachakutik-no-presentara-candidato-presidencial-elecciones-anticipadas.html|url-status=live}}</ref>",
+                      "url": "https://www.elcomercio.com/actualidad/politica/pachakutik-no-presentara-candidato-presidencial-elecciones-anticipadas.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Opinion polls",
+      "content": [
+        {
+          "id": "5.1",
+          "title": "Run-off",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.1.s1",
+                  "text": "{|class=\"wikitable\" style=\"text-align:center;font-size:85%;line-height:13px\"\n|-style=\"height:30px;background-color:#8B8B8B\"\n!rowspan=2|Date\n! rowspan=\"2\" |Participants\n! rowspan=\"2\" |Pollster\n!rowspan=2|Margin<br>of error\n!Daniel Noboa\n!Luisa González\n!rowspan=2|Blank\n!rowspan=2|Null\n!rowspan=2|Undecided\n|-\n| bgcolor=\"#63267D\" |\n| bgcolor=\"{{party color|Citizen Revolution}}\" |\n|-\n| rowspan=\"2\" |14 October \n| rowspan=\"2\" |16,486\n| rowspan=\"2\" |Omar Maluk\n| rowspan=\"2\" |3%\n| style=\"background:#63267D ; color:white;\" |'''50.9%'''\n|49.1%\n| colspan=\"3\" | ---\n|-\n| style=\"background:#63267D ; color:white;\" | '''47.8%'''\n|46.1%\n| colspan=\"2\" |6.1%\n| --\n|-\n|15 October [projection]\n| rowspan=\"3\" |1,200\n| rowspan=\"3\" |CIT Peru\n| rowspan=\"3\" |2.8%\n|49.14%\n| style=\"background:{{Party color|Citizen Revolution}}; color:white;\" | '''50.86%'''\n| colspan=\"3\" rowspan=\"2\" | ---\n|-\n| rowspan=\"2\" |12 October \n| style=\"background:#63267D ; color:white;\" |'''50.42%'''\n|49.52%\n|-\n| style=\"background:#63267D ; color:white;\" |'''45.00%'''\n|44.02%\n| colspan=\"2\" |10.8%\n| --\n|-\n|10 October\n|1,485\n|Dado Duro EC\n|2.8%\n|38.6%\n| style=\"background:{{Party color|Citizen Revolution}}; color:white;\" |'''39.6%'''\n| colspan=\"2\" |12.4%\n|9.3%\n|-\n| rowspan=\"2\" |9 October\n| rowspan=\"2\" |1,000\n| rowspan=\"2\" |Negocios & Estratégias\n| rowspan=\"2\" |3.1%\n|49.94%\n| style=\"background:{{Party color|Citizen Revolution}}; color:white;\" |'''50.06%'''\n| colspan=\"3\" | ---\n|-\n|43.9%\n| style=\"background:{{Party color|Citizen Revolution}}; color:white;\" |'''44%'''\n| colspan=\"3\" |12.1%\n|-\n|8 October \n|5,420\n|Comunicaliza\n|1.33%\n| style=\"background:#63267D ; color:white;\" |'''41.4%'''\n|36.2%\n| colspan=\"2\" |9.2%\n|13.2%\n|-\n|6 October \n| colspan=\"8\" |Six suspects in the assassination of Fernando Villavicencio are killed in Guayaquil Penitentiary\n|-\n|5 October \n|11,235\n|Omar Maluk\n|3%\n|48.9%\n| style=\"background:{{Party color|Citizen Revolution}}; color:white;\" |'''51.1%'''\n| colspan=\"3\" | ---\n|-\n|4 October \n|3,750\n|NEO Consulta\n|1.6%\n|48.9%\n| style=\"background:{{Party color|Citizen Revolution}}; color:white;\" |'''51.1%'''\n| colspan=\"3\" | ---\n|-\n|4 October \n|3,000\n|Negocios & Estratégias \n|1.8%\n| style=\"background:#63267D ; color:white;\" |'''44%'''\n|42.8%\n| colspan=\"2\" |5.3%\n|7.8%\n|-\n|1 October\n| || colspan=\"7\" |Official second round presidential debate is held in Quito\n|-\n|15 September \n|5,032\n|Comunicaliza\n|1.38%\n| style=\"background:#63267D ; color:white;\" |'''43.1%'''\n|35.1%\n| colspan=\"2\" |9.5% \n|12.3%\n|-\n|15 September \n|8,000\n|Omar Maluk\n|2%\n| style=\"background:#63267D ; color:white;\" |'''52.3%'''\n|47.7%\n| colspan=\"3\" | ---\n|-\n|10 September\n|5,381\n|Comunicaliza\n|1.3%\n| style=\"background:#63267D ; color:white;\" |'''39.7%'''\n|34.0%\n| colspan=\"2\" |11.8%\n|14.4%\n|-\n| rowspan=\"2\" |6 September\n| rowspan=\"2\" |3,040\n| rowspan=\"2\" |Click Report\n| rowspan=\"2\" |3%\n| style=\"background:#63267D ; color:white;\" |'''55.2%'''\n|44.8%\n| colspan=\"3\" | –-\n|-\n| style=\"background:#63267D ; color:white;\" |'''45.8%'''\n|37.2%\n|12.5%\n|4.5%\n| –\n|-\n| rowspan=\"2\" |5 September\n| rowspan=\"2\" |2,100\n| rowspan=\"2\" |NEO Consulta\n| rowspan=\"2\" |2.1%\n|49.6%\n| style=\"background:{{Party color|Citizen Revolution}}; color:white;\" |'''50.4%'''\n| colspan=\"3\" | –-\n|-\n|42.0%\n| style=\"background:{{Party color|Citizen Revolution}}; color:white;\" |'''42.7%'''\n|8.6%\n|6.7%\n| –\n|-\n|2 September\n|6,002\n|Comunicaliza\n|1.3%\n| style=\"background:#63267D ; color:white;\" |'''43.1%'''\n|35.4%\n| colspan=\"2\" |8.6%\n|12.9%\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=MALUK RESEARCH |url=https://malukresearch.com/ |access-date=2023-10-16 |language=es |archive-date=14 October 2023 |archive-url=https://web.archive.org/web/20231014234905/https://malukresearch.com/ |url-status=live }}</ref>",
+                      "url": "https://malukresearch.com/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Log in or sign up to view |url=https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3Dpfbid0coDLeLnERkz2f7yEXVeU6L7Coz56LxQrWYejnttj1Pzwz6dwDVEPyLHQbyHwoNXKl%26id%3D610819198&refsrc=deprecated&_rdr |access-date=2023-10-16 |website=m.facebook.com |language=en |archive-date=17 October 2023 |archive-url=https://web.archive.org/web/20231017171521/https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3Dpfbid0coDLeLnERkz2f7yEXVeU6L7Coz56LxQrWYejnttj1Pzwz6dwDVEPyLHQbyHwoNXKl%26id%3D610819198&refsrc=deprecated&_rdr |url-status=live }}</ref>",
+                      "url": "https://m.facebook.com/login.php?next=https://m.facebook.com/story.php?story_fbid%3Dpfbid0coDLeLnERkz2f7yEXVeU6L7Coz56LxQrWYejnttj1Pzwz6dwDVEPyLHQbyHwoNXKl%26id%3D610819198&refsrc=deprecated&_rdr",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-10-14 |title=CIT PERÚ: candidatos de elecciones en Ecuador obtienen empate técnico tras simulacro de votación |url=https://lanoticia.com.pe/cit-peru-candidatos-de-elecciones-en-ecuador-obtienen-empate-tecnico-tras-simulacro-de-votacion/ |access-date=2023-10-15 |website=La Noticia |language=es-PE |archive-date=15 October 2023 |archive-url=https://web.archive.org/web/20231015072653/https://lanoticia.com.pe/cit-peru-candidatos-de-elecciones-en-ecuador-obtienen-empate-tecnico-tras-simulacro-de-votacion/ |url-status=live }}</ref>",
+                      "url": "https://lanoticia.com.pe/cit-peru-candidatos-de-elecciones-en-ecuador-obtienen-empate-tecnico-tras-simulacro-de-votacion/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Existe un empate técnico, la diferencia se encuentra dentro del rango de error por lo que no se puede proyectar un ganador. |url=https://twitter.com/PortalMrX1/status/1712518380668751944?t=oaaCHdJy7Q7l76dM0VTAlA&s=19 |access-date=2023-10-12 |website=X (formerly Twitter) |language=en}}</ref>",
+                      "url": "https://twitter.com/PortalMrX1/status/1712518380668751944?t=oaaCHdJy7Q7l76dM0VTAlA&s=19",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Log in or sign up to view |url=https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3Dpfbid02ZUfwFAohQQwBJMVZTHqUPPAdNyarcNCCGzFyF6FRzLXMjKLJjgcNZgpx4a2ewBfAl%26id%3D602987226%26sfnsn%3Dscwspmo&refsrc=deprecated&_rdr |access-date=2023-10-11 |website=m.facebook.com |language=en |archive-date=12 October 2023 |archive-url=https://web.archive.org/web/20231012040107/https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3Dpfbid02ZUfwFAohQQwBJMVZTHqUPPAdNyarcNCCGzFyF6FRzLXMjKLJjgcNZgpx4a2ewBfAl&id=602987226&sfnsn=scwspmo&refsrc=deprecated&_rdr |url-status=live }}</ref>",
+                      "url": "https://m.facebook.com/login.php?next=https://m.facebook.com/story.php?story_fbid%3Dpfbid02ZUfwFAohQQwBJMVZTHqUPPAdNyarcNCCGzFyF6FRzLXMjKLJjgcNZgpx4a2ewBfAl%26id%3D602987226%26sfnsn%3Dscwspmo&refsrc=deprecated&_rdr",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Citation |title=La campaña para culpar a Correa beneficia a González, quien ha aumentado en intención de voto. |url=https://www.youtube.com/watch?v=inJn6jmg_es |access-date=2023-10-11 |language=en |archive-date=12 October 2023 |archive-url=https://web.archive.org/web/20231012040109/https://www.youtube.com/watch?v=inJn6jmg_es&gl=US&hl=en |url-status=live }}</ref>",
+                      "url": "https://www.youtube.com/watch?v=inJn6jmg_es",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": null
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Log in or sign up to view |url=https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3Dpfbid02ZthTTkr7eJ3by5dAbD2frufCq5pAoZvQWtxE9B8VSruGhoL32UeRy23CfeiNDjj2l%26id%3D100086842857650%26sfnsn%3Dscwspmo&refsrc=deprecated&_rdr |access-date=2023-10-12 |website=m.facebook.com |language=en |archive-date=16 October 2023 |archive-url=https://web.archive.org/web/20231016054017/https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3Dpfbid02ZthTTkr7eJ3by5dAbD2frufCq5pAoZvQWtxE9B8VSruGhoL32UeRy23CfeiNDjj2l%26id%3D100086842857650%26sfnsn%3Dscwspmo&refsrc=deprecated&_rdr |url-status=live }}</ref>",
+                      "url": "https://m.facebook.com/login.php?next=https://m.facebook.com/story.php?story_fbid%3Dpfbid02ZthTTkr7eJ3by5dAbD2frufCq5pAoZvQWtxE9B8VSruGhoL32UeRy23CfeiNDjj2l%26id%3D100086842857650%26sfnsn%3Dscwspmo&refsrc=deprecated&_rdr",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite tweet|url=https://twitter.com/omarmaluk/status/1713685997764943906?t=hwitRXW0mXJndHCkrsfpeA&s=19|title=A los seguidores que les interesa el cierre de mi encuesta del día de ayer 14 de Octubre la pueden ver en la web http://malukresearch.com ya que pasó el proceso electoral y la prohibición de no difundir desde el 5 de octubre del 2023. Gracias a todos ustedes por vuestra amable solidaridad y apoyo.|number=1713685997764943906|user=omarmaluk|first=Omar MaLuk|last=SaLem|trans-title=Followers who are interested in the closing of my survey from yesterday, October 14, can see it on the website malukresearch.com since the electoral process and the prohibition of not disseminating from October 5, 2023 have passed. Thank you all you for your kind solidarity and support.}}</ref>",
+                      "url": "https://twitter.com/omarmaluk/status/1713685997764943906?t=hwitRXW0mXJndHCkrsfpeA&s=19",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "tweet"
+                    },
+                    {
+                      "text": "<ref>{{Cite tweet|url=https://twitter.com/jimmyjairala/status/1709987784541278710?t=DCwxiPyprE8bkgFM99P-Tg&s=19|title=Última encuesta de @omarmaluk cerrada anoche, da cuenta de un \"empate técnico\" entre @LuisaGonzalezEc y @DanielNoboaOk por haber una diferencia dentro del margen de error. Hoy es el último día de difusión de mediciones. @UnCafeConJJ|trans-title=Last survey of @omarmaluk closed last night, shows a \"technical tie\" between @LuisaGonzalezEc and @DanielNoboaOk due to there being a difference within the margin of error. Today is the last day of dissemination of measurements. @UnCafeConJJ|number=1709987784541278710|user=jimmyjairala|first=Jimmy|last=Jairala}}</ref>",
+                      "url": "https://twitter.com/jimmyjairala/status/1709987784541278710?t=DCwxiPyprE8bkgFM99P-Tg&s=19",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "tweet"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |title=Log in or sign up to view |url=https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3Dpfbid023eztuSCMAiU1QBBX6Sj77DCxcuVmMKuBKFxCo2LgjiooPm3Xv7MaqW2TqrG2asPwl%26id%3D100068274248351&refsrc=deprecated&_rdr |access-date=2023-10-06 |website=m.facebook.com |language=en |archive-date=16 October 2023 |archive-url=https://web.archive.org/web/20231016054018/https://m.facebook.com/login.php?next=https%3A%2F%2Fm.facebook.com%2Fstory.php%3Fstory_fbid%3Dpfbid023eztuSCMAiU1QBBX6Sj77DCxcuVmMKuBKFxCo2LgjiooPm3Xv7MaqW2TqrG2asPwl%26id%3D100068274248351&refsrc=deprecated&_rdr |url-status=live }}</ref>",
+                      "url": "https://m.facebook.com/login.php?next=https://m.facebook.com/story.php?story_fbid%3Dpfbid023eztuSCMAiU1QBBX6Sj77DCxcuVmMKuBKFxCo2LgjiooPm3Xv7MaqW2TqrG2asPwl%26id%3D100068274248351&refsrc=deprecated&_rdr",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite tweet |title=#EleccionesEcuador2023  Ficha técnica y gráfico principal del estudio Quo Vadis de intención de voto efectuado entre el 02 y el 04 de octubre de 2023 por nuestra firma, Negocios & Estrategias.🧵4/4 |url=https://twitter.com/mrjohnkeating/status/1709980857644048418?s=20|access-date=2023-10-13|trans-title=#EleccionesEcuador2023 Technical sheet and main graph of the Quo Vadis study of voting intention carried out between October 2 and 4, 2023 by our firm, Negocios & Strategies. 🧵 4/4|user=mrjohnkeating|first=Iván|last=Sierra|number=1709980857644048418}}</ref>",
+                      "url": "https://twitter.com/mrjohnkeating/status/1709980857644048418?s=20",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "tweet"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url=https://twitter.com/amarchante/status/1703588435322118364|title=Comunicaliza Poll|publisher=Couminicaliza|language=Spanish|accessdate=18 September 2023|date=18 September 2023|archive-date=2 October 2023|archive-url=https://web.archive.org/web/20231002182150/https://twitter.com/amarchante/status/1703588435322118364|url-status=live}}</ref>",
+                      "url": "https://twitter.com/amarchante/status/1703588435322118364",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url=https://twitter.com/omarmaluk/status/1702463740736664004|title=Omar Maluk|accessdate=21 September 2023|publisher=Omar Maluk|language=es|archive-date=2 October 2023|archive-url=https://web.archive.org/web/20231002182150/https://twitter.com/omarmaluk/status/1702463740736664004|url-status=live}}</ref>",
+                      "url": "https://twitter.com/omarmaluk/status/1702463740736664004",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url=https://twitter.com/carlosferrin/status/1701787978434015683?t=0AGDN6oFfBG2jBa2O4Uy1A&s=19|title=Comunicaliza Poll|accessdate=13 September 2023|publisher=Comunicaliza|language=es}}</ref>",
+                      "url": "https://twitter.com/carlosferrin/status/1701787978434015683?t=0AGDN6oFfBG2jBa2O4Uy1A&s=19",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url=https://twitter.com/jimmyjairala/status/1700150201908871362?t=jEq1h7B50c_3T2iYhoouJA&s=09|title=Click Report Poll|accessdate=8 September 2023|publisher=Twitter|language=Spanish}}</ref>",
+                      "url": "https://twitter.com/jimmyjairala/status/1700150201908871362?t=jEq1h7B50c_3T2iYhoouJA&s=09",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://twitter.com/jimmyjairala/status/1699552777335173484|title=NEO Consulta Poll|accessdate=7 September 2023|language=Spanish|publisher=NEO|archive-date=7 September 2023|archive-url=https://web.archive.org/web/20230907033055/https://twitter.com/jimmyjairala/status/1699552777335173484|url-status=live}}</ref>",
+                      "url": "https://twitter.com/jimmyjairala/status/1699552777335173484",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web|url=https://twitter.com/matiasabadm/status/1698382531890971023|title=Comunicaliza Poll|publisher=Couminicaliza|language=Spanish|accessdate=7 September 2023|date=2 September 2023}}</ref>",
+                      "url": "https://twitter.com/matiasabadm/status/1698382531890971023",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "First round",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.2.s1",
+                  "text": "{|class=\"wikitable\" style=\"text-align:center;font-size:85%;line-height:13px\"\n|-style=\"height:30px;background-color:#8B8B8B\"\n!rowspan=2|Date\n!rowspan=2|Pollster\n!rowspan=2|Participants\n!rowspan=2|Margin of error\n!Daniel Noboa|Noboa \n!Luisa González|González\n!Otto Sonnenholzner|Sonnenholzner\n!Yaku Pérez|Pérez\n!Fernando Villavicencio|Villavicencio\n!Christian Zurita|Zurita\n!Xavier Hervas|Hervas\n!Jan Topić|Topić\n!Bolívar Armijos Velasco|Armijos\n!rowspan=2|Blank\n!rowspan=2|Null\n!rowspan=2|Undecided\n|-\n| bgcolor=\"#63267D\" |\n| bgcolor=\"{{party color|Citizen Revolution}}\" |\n|bgcolor=\"{{party color|Advance (Ecuador)}}\"|\n|bgcolor=\"{{party color|Popular Unity (Ecuador)}}\"|\n|bgcolor=\"{{party color|Movimiento Construye}}\"|\n|bgcolor=\"{{party color|Movimiento Construye}}\"|\n|bgcolor=\"#0041B3\"|\n|bgcolor=\"{{party color|Social Christian Party (Ecuador)}}\"|\n|bgcolor=\"black\"|\n|-\n|-style=\"background:#EFEFEF;\"\n|20 August \n|'''Election'''\n|{{N/A}}\n|{{N/A}}\n|'''23.47%'''\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''33.61%'''\n|7.06%\n|3.97%\n|{{N/A}}\n|16.37%\n|0.49%\n|14.67%\n|0.36%\n|2.04\n|6.77\n|{{n/a}}\n|-\n|11–12 August\n|Comunicaliza\n|3,641\n|1.62%\n|3.3%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''24.9%'''\n|8.2%\n|5.8%\n|{{n/a}}\n|14.5%\n|1.6%\n|'''21.7%'''\n|0.3%\n|colspan=\"2\"|9.5%\n|10.2%\n|-style=\"background:lightyellow;\" \n|style=\"border-right-style:hidden; background:lightyellow;\"|9 August \n| colspan=\"15\" style=\"border-right-style:hidden;\" |Fernando Villavicencio is Assassination of Fernando Villavicencio|assassinated at a campaign rally in Quito and replaced by Christian Zurita|Zurita\n|-\n|rowspan=\"2\"| 9 August\n|rowspan=\"2\"|Cedatos\n|rowspan=\"2\"|1,803\n|rowspan=\"2\"|3.1%\n|3.7%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''35.4%'''\n|7.5%\n|11.9%\n|'''18.4%'''\n|–\n|4.1%\n|18%\n|0.9%\n|–\n|–\n|–\n|-\n|2.5%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''24%'''\n|5.1%\n|8.1%\n|'''12.5%'''\n|–\n|2.8%\n|12.2%\n|0.6%\n|11.9%\n|2.8%\n|17.5%\n|-\n|6 August\n|Click Report\n|3,040\n|3%\n|6.8%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''29.3%'''\n|9.2%\n|'''14.4%'''\n|7.5%\n|–\n|6.8%\n|9.6%\n|6.8%\n|16.9%\n|3.2%\n|–\n|-\n|5 August\n|Telcodata\n|2,490\n|1.96%\n|4%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''29%'''\n|'''16%'''\n|10%\n|12%\n|–\n|5%\n|9%\n|1%\n|colspan=\"2\"|11%\n|5%\n|-\n|2 August\n|Telcodata\n|6,631\n|1.2%\n|2.1%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''29.8%'''\n|7.7%\n|8.8%\n|7.4%\n|–\n|2.2%\n|'''10.1%'''\n|0.3%\n|colspan=\"2\"| 7.5%\n|23.9%\n|-\n|27 July\n|Tracking\n|1,250\n|5%\n|3.2%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''23.2%'''\n|'''19.4%'''\n|10.1%\n|9.2%\n|–\n|4.5%\n|3.8%\n|0.7%\n|14.1%\n|2.6%\n|9.2%\n|-\n|26 July\n|Comunicaliza\n|3,539\n|1.7%\n|4.2%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''28.6%'''\n|'''12.6%'''\n|8.1%\n|9.2%\n|–\n|4.4%\n|4.4%\n|0.5%\n|colspan=\"2\"|13.6%\n|14.5%\n|-\n|23 July \n| colspan=\"15\" |Agustín Intriago, Mayor of Manta, is assassinated.\n|-\n|20 July\n|Estrategas Infinity\n|1,549\n|2.5%\n|3.1%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''30.9%'''\n|'''11.9%'''\n|10.0%\n|7.8%\n|–\n|5.0%\n|5.2%\n|0.3%\n|11.9%\n|3.0%\n|11.0%\n|-\n|18 July\n|Cedatos\n|1,300\n|3.1%\n|4.4%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''26.6%'''\n|7.5%\n|12.5%\n|'''13.2%'''\n|–\n|6.0%\n|3.2%\n|0.5%\n|2.6%\n|16.1%\n|7.6%\n|-\n|9 July\n|Numma\n|1,604\n|2.7%\n|6.4%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''33.8%'''\n|'''17.5%'''\n|15.1%\n|10.2%\n|–\n|6.9%\n|8.5%\n|1.6%\n|–\n|–\n|–\n|-\n|3–9 July\n|Tracking\n|1,250\n|5%\n|4.6%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''24.2%'''\n|'''15.2%'''\n|11.5%\n|8.0%\n|–\n|5.4%\n|4.5%\n|0.6%\n|colspan=\"2\"|10.3%\n|15.3%\n|-\n|rowspan=\"2\"|20 June–8 July\n|rowspan=\"2\"|Omar Maluk\n|rowspan=\"2\"|7,106\n|rowspan=\"2\"|3%\n|4.4%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''40.1%'''\n|'''14.7%'''\n|13.6%\n|9.1%\n|–\n|10.3%\n|7.1%\n|0.6%\n|–\n|–\n|–\n|-\n|3.7%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''33.8%'''\n|'''12.4%'''\n|11.5%\n|7.7%\n|–\n|8.7%\n|6.0%\n|0.5%\n|5.9%\n|colspan=2|9.8%\n|-\n|5–6 July\n|Comunicaliza\n|3,314\n|1.7%\n|4.5%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''26.8%'''\n|'''12.8%'''\n|10.3%\n|9.3%\n|–\n|6.5%\n|3.0%\n|0.1%\n|colspan=2|12.1%\n|14.1%\n|-\n|{{nowrap|26 June–3 July}}\n|Metria\n|1,200\n|2.8%\n|3.1%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''37.8%'''\n|'''18.2%'''\n|11.0%\n|7.5%\n|–\n|1.7%\n|6.5%\n|›1%\n|10.1%\n|–\n|4.0%\n|-\n|rowspan=3|22–26 June\n|rowspan=3|Negocios & Estrategias\n|rowspan=3|3,524\n|rowspan=3|1.7%\n|4%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''52%'''\n|14%\n|13%\n|4%\n|–\n|9%\n|5%\n|0%\n|–\n|–\n|–\n|-\n|3%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''41%'''\n|'''11%'''\n|10%\n|7%\n|–\n|3%\n|4%\n|0%\n| colspan=\"2\" align=\"center\" | 21%\n|–\n|-\n|1%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''30%'''\n|'''8%'''\n|'''8%'''\n|5%\n|–\n|2%\n|2%\n|0%\n|colspan=\"2\" align=\"center\"|6%\n|38%\n|-\n|rowspan=\"2\"|23–26 June\n|rowspan=\"2\"|Mercanalis\n|rowspan=\"2\"|4,000\n|rowspan=\"2\"|3%\n|7%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''38%'''\n|9%\n|12%\n|10%\n|–\n|8%\n|'''14%'''\n|2%\n|–\n|–\n|–\n|-\n|5%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''27%'''\n|6%\n|9%\n|7%\n|–\n|5%\n|'''10%'''\n|1%\n|12%\n|18%\n|–\n|-\n|{{nowrap|20–24 June}}\n|Data Encuesta\n|4,200\n|3.4%\n|5.2%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''28.1%'''\n|9.6%\n|'''16.6%'''\n|9.3%\n|–\n|7.3%\n|14.8%\n|–\n|–\n|–\n|9.1%\n|-\n|19–20 June\n|Estrategas Infinity\n|3,645\n|1.62%\n|4.3%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''28.0%'''\n|'''9.9%'''\n|8.8%\n|8.3%\n|–\n|6.1%\n|2.5%\n|0.5%\n|3.9%\n|15.9%\n|11.8%\n|-\n|16–18 June\n|Comunicaliza\n|3,656\n|1.62%\n|3.8%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''25.9%'''\n|'''11.2%'''\n|10.3%\n|8.0%\n|–\n|6.2%\n|2.6%\n|0.4%\n|colspan=2|13.2%\n|18.4%\n|-\n|5–9 June\n|Data Encuesta\n|4,800\n|3.4%\n|4.2%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''27.8%'''\n|7.6%\n|'''14.8%'''\n|7.1%\n|–\n|6.2%\n|14.2%\n|–\n|–\n|–\n|17.9%\n|}\n{{hidden begin|titlestyle=background:#cff|title=Precandidates polling|contentstyle=border:solid 1px silver; padding:8px; background:white;}}\n{|class=\"wikitable\" style=\"text-align:center;font-size:85%;line-height:13px\"\n|-style=\"height:30px; background-color:#8B8B8B\"\n!rowspan=2|Date\n!rowspan=2|Pollster\n!rowspan=2|Participants\n!rowspan=2|Margin<br>of error\n!Guillermo Lasso<br>(Creating Opportunities|CREO)\n!Andrés Arauz<br>(Citizen Revolution Movement|RC)\n!Rafael Correa<br>(Citizen Revolution Movement|RC)\n!Luisa González<br>(Citizen Revolution Movement|RC)\n!Carlos Rabascall<br>(Citizen Revolution Movement|RC)\n!Leonidas Iza<br>(Pachakutik|MUPP)\n!Jaime Nebot<br>(Partido Social Cristiano (Ecuador)|PSC)\n!Jan Topić<br>(Social Christian Party (Ecuador)|PSC–Patriotic Society Party|PSP–Democratic Center (Ecuador)|CD)\n!Yaku Pérez<br>(Popular Unity (Ecuador)|UP–Ecuadorian Socialist Party|PSE–DSÍ)\n!Fernando Villavicencio<br>(MC25)\n!Otto Sonnenholzner<br>(Advance (Ecuador)|Avanza–SUMA Party|SUMA)\n!Xavier Hervas<br>(RETO)\n!Daniel Noboa<br>(PID–Movimiento MOVER|MOVER)\n!rowspan=2|Others\n!rowspan=2|Null\n!rowspan=2|Blank\n!rowspan=2|Undecided\n|-\n|bgcolor={{party color|CREO Movement}}|\n|bgcolor={{party color|Citizen Revolution}}|\n|bgcolor={{party color|Citizen Revolution}}|\n|bgcolor={{party color|Citizen Revolution}}|\n|bgcolor={{party color|Citizen Revolution}}|\n|bgcolor={{party color|Pachakutik}}|\n|bgcolor=#FFD600|\n|bgcolor=#FFD600|\n|bgcolor={{party color|Popular Unity (Ecuador)}}|\n|bgcolor=#0041B3|\n|bgcolor={{party color|Advance (Ecuador)}}|\n|bgcolor=#4682B4|\n|bgcolor=\"yellow\"|\n|-\n|6/2\n|Estrategas Infinity\n|1,518\n|3.4%\n|5.8%\n|style=\"background:{{party color|Citizen Revolution}};color:white;\"|'''27.2%'''\n|–\n|–\n|–\n|9.2%\n|–\n|3.2%\n|14.1%\n|9.3%\n|9.9%\n|–\n|5.3%\n|4.6%\n|colspan=\"2\" align=\"center\"|11.4%\n|–\n|-\n|rowspan=\"3\"|5/29\n|rowspan=\"3\"|Cedatos\n|rowspan=\"3\"|2.400\n|rowspan=\"3\"|1.3%\n|–\n|–\n|–\n|2.6%\n|–\n|9.1%\n|–\n|4.0%\n|style=\"background:#C32148;color:white ;\"|'''13.2%'''\n|6.5%\n|7.2%\n|–\n|4.9%\n|1.1%\n|34.2%\n|4.7%\n|12.5%\n|-\n|–\n|–\n|–\n|–\n|2.7%\n|6.3%\n|–\n|4.5%\n|style=\"background:#C32148;color:white;\"|'''12.6%'''\n|6.8%\n|7.2%\n|–\n|5.2%\n|1.2%\n|34.2%\n|4.6%\n|14.8%\n|-\n|4.3%\n|style=\"background:{{party color|Citizen Revolution}};color:white;\"|'''18.6%'''\n|–\n|–\n|–\n|6.7%\n|–\n|3.8%\n|11.4%\n|5.9%\n|5.7%\n|–\n|4.8%\n|–\n|23.7%\n|4.4%\n|10.9%\n|-\n|'''5/17'''\n!colspan=\"20\"|'''President Guillermo Lasso decrees \"muerte cruzada\", 2023 Ecuadorian political crisis|dissolving the National Assembly of Ecuador|National Assembly and calling snap elections.'''\n|-\n|4/21\n|IMASEN\n|1,500\n|2.5%\n|2.0%\n|–\n|style=\"background:{{party color|Citizen Revolution}};color:white;\"|'''32.3%'''\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|2.0%\n|–\n|8.1%\n|19.3%\n|–\n|36.3%\n|-\n|rowspan=\"2\"|3/19\n|rowspan=\"2\"|Clima Social\n|rowspan=\"2\"|5.600\n|rowspan=\"2\"|1.3%\n|1.8%\n|style=\"background:{{party color|Citizen Revolution}};color:white;\"|'''16.5%'''\n|–\n|–\n|–\n|8.4%\n|1.7%\n|–\n|7.4%\n|2.5%\n|2.0%\n|6.0%\n|–\n|18.1%\n|25.6%\n|–\n|10.1%\n|-\n|2.3%\n|–\n|style=\"background:{{party color|Citizen Revolution}};color:white;\"|'''40.4%'''\n|–\n|–\n|4.4%\n|0.62%\n| –\n|4.0%\n|2.2%\n|1.4%\n|5.0%\n|–\n|13.1%\n|19.7%\n|–\n|6.9%\n|}\n{{Hidden end}}",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://www.as-coa.org/sites/default/files/imce_files/Encuesta%20Nacional%20-%2012.08.2023%20vy.pdf|title=Encuestas|publisher=ASCOA|accessdate=16 August 2023|language=Spanish|archive-date=16 August 2023|archive-url=https://web.archive.org/web/20230816101138/https://www.as-coa.org/sites/default/files/imce_files/Encuesta%20Nacional%20-%2012.08.2023%20vy.pdf|url-status=live}}</ref>",
+                      "url": "https://www.as-coa.org/sites/default/files/imce_files/Encuesta%20Nacional%20-%2012.08.2023%20vy.pdf",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://cedatos.com/2023/08/10/estudio-opinion-elecciones-presidenciales-cerrado-a-agosto-9-2023/|title=ESTUDIO OPINIÓN – ELECCIONES PRESIDENCIALES – cerrado a Agosto 9, 2023|date=11 August 2023|publisher=Cedatos|accessdate=14 August 2023|language=Spanish|archive-date=13 August 2023|archive-url=https://web.archive.org/web/20230813205740/https://cedatos.com/2023/08/10/estudio-opinion-elecciones-presidenciales-cerrado-a-agosto-9-2023/|url-status=live}}</ref>",
+                      "url": "https://cedatos.com/2023/08/10/estudio-opinion-elecciones-presidenciales-cerrado-a-agosto-9-2023/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.primicias.ec/noticias/elecciones-presidenciales-2023/encuestas-electorales-candidatos-intencion-voto/|title=Según encuestas, la única certeza es que el correísmo encabeza lid presidencial|publisher=Primicias|accessdate=11 August 2023|language=Spanish|archive-date=11 August 2023|archive-url=https://web.archive.org/web/20230811094449/https://www.primicias.ec/noticias/elecciones-presidenciales-2023/encuestas-electorales-candidatos-intencion-voto/|url-status=live}}</ref>",
+                      "url": "https://www.primicias.ec/noticias/elecciones-presidenciales-2023/encuestas-electorales-candidatos-intencion-voto/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=Telcodata/>\n|6,600\n|1.2%\n|2.0%\n| style=\"background:{{party color|Citizen Revolution}};color:white;\" |'''30.5%'''\n|6.5%\n|7.7%\n|6.8%\n|–\n|1.6%\n|'''13.1%'''\n|0.2%\n|colspan=\"2\"|7.6%\n|23.8%\n|-\n|2 August\n|IPSOS<ref name=Telcodata>{{cite web|url=https://www.youtube.com/watch?v=Yk2HfUPTvWg|title=Lo que DEBES saber sobre las ELECCIONES y la JUSTICIA|publisher=IPSOS|accessdate=8 August 2023|archive-date=7 August 2023|archive-url=https://web.archive.org/web/20230807190858/https://www.youtube.com/watch?app=desktop&v=Yk2HfUPTvWg|url-status=live}}</ref>",
+                      "url": "https://www.youtube.com/watch?v=Yk2HfUPTvWg",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://twitter.com/LouisAlexandre_/status/1687201299446808576?t=69bIiY9EpL5EogYkBEpJgA&s=19|title=Telcodata Poll|publisher=Louis Alexandre|accessdate=3 August 2023|archive-date=3 August 2023|archive-url=https://web.archive.org/web/20230803204916/https://twitter.com/LouisAlexandre_/status/1687201299446808576?t=69bIiY9EpL5EogYkBEpJgA&s=19|url-status=live}}</ref>",
+                      "url": "https://twitter.com/LouisAlexandre_/status/1687201299446808576?t=69bIiY9EpL5EogYkBEpJgA&s=19",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.youtube.com/watch?v=KV5ixvXodJ0|title=¿Habrá SEGUNDA vuelta? Esto dicen las ENCUESTAS|publisher=Cafe la Posta|accessdate=28 July 2023|archive-date=28 July 2023|archive-url=https://web.archive.org/web/20230728151133/https://www.youtube.com/watch?v=KV5ixvXodJ0|url-status=live}}</ref>",
+                      "url": "https://www.youtube.com/watch?v=KV5ixvXodJ0",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://twitter.com/LaDefensaEc/status/1684388170949873669?t=R_UPhhY1BtljSwwfT96r_g&s=19|title=Comunicaliza Presidential poll|publisher=Twitter|accessdate=27 July 2023|archive-date=27 July 2023|archive-url=https://web.archive.org/web/20230727133851/https://twitter.com/LaDefensaEc/status/1684388170949873669?t=R_UPhhY1BtljSwwfT96r_g&s=19|url-status=live}}</ref>",
+                      "url": "https://twitter.com/LaDefensaEc/status/1684388170949873669?t=R_UPhhY1BtljSwwfT96r_g&s=19",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.radiopichincha.com/nueva-encuesta-ubica-a-luisa-gonzalez-como-favorita-para-ganar-las-elecciones/|title=Nueva encuesta ubica a Luisa González como favorita para ganar las elecciones|date=27 July 2023|publisher=Radio Pichincha|accessdate=28 July 2023|archive-date=28 July 2023|archive-url=https://web.archive.org/web/20230728032528/https://www.radiopichincha.com/nueva-encuesta-ubica-a-luisa-gonzalez-como-favorita-para-ganar-las-elecciones/|url-status=live}}</ref>",
+                      "url": "https://www.radiopichincha.com/nueva-encuesta-ubica-a-luisa-gonzalez-como-favorita-para-ganar-las-elecciones/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.larepublica.ec/blog/2023/07/20/villavicencio-iria-a-segunda-vuelta-con-luisa-si-las-elecciones-fueran-hoy-segun-cedatos/|title=Villavicencio iría a segunda vuelta con Luisa, si las elecciones fueran hoy, según Cedatos|date=21 July 2023|publisher=La Republica|accessdate=26 July 2023|language=Spanish|archive-date=25 July 2023|archive-url=https://web.archive.org/web/20230725135710/https://www.larepublica.ec/blog/2023/07/20/villavicencio-iria-a-segunda-vuelta-con-luisa-si-las-elecciones-fueran-hoy-segun-cedatos/|url-status=live}}</ref>",
+                      "url": "https://www.larepublica.ec/blog/2023/07/20/villavicencio-iria-a-segunda-vuelta-con-luisa-si-las-elecciones-fueran-hoy-segun-cedatos/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.radiopichincha.com/candidata-luisa-gonzalez-lidera-intencion-de-voto-segun-encuesta-numma/|title=Candidata Luisa González lidera intención de voto, según encuesta Numma|date=21 July 2023|publisher=Radio Pichincha|accessdate=24 July 2023|language=Spanish|archive-date=23 July 2023|archive-url=https://web.archive.org/web/20230723021702/https://www.radiopichincha.com/candidata-luisa-gonzalez-lidera-intencion-de-voto-segun-encuesta-numma/|url-status=live}}</ref>",
+                      "url": "https://www.radiopichincha.com/candidata-luisa-gonzalez-lidera-intencion-de-voto-segun-encuesta-numma/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.facebook.com/photo/?fbid=593434712993023&set=a.494109039592258|title=Tracking Poll|publisher=Facebook|accessdate=17 July 2023|archive-date=17 July 2023|archive-url=https://web.archive.org/web/20230717162821/https://www.facebook.com/photo/?fbid=593434712993023&set=a.494109039592258|url-status=live}}</ref>",
+                      "url": "https://www.facebook.com/login/?next=https://www.facebook.com/photo/?fbid%3D593434712993023%26set%3Da.494109039592258",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://twitter.com/omarmaluk/status/1678253773796327425|title=Omar Maluk Poll|accessdate=8 July 2023|publisher=Twitter|archive-date=11 July 2023|archive-url=https://web.archive.org/web/20230711160640/https://twitter.com/omarmaluk/status/1678253773796327425|url-status=live}}</ref>",
+                      "url": "https://twitter.com/omarmaluk/status/1678253773796327425",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://twitter.com/LaDefensaEc/status/1677125243687632898?t=QkzIvN0xbonAIeEFKtn5KA&s=19|title=Comunicaliza poll|accessdate=6 July 2023|publisher=La Defensa Ecuador}}</ref>",
+                      "url": "https://twitter.com/LaDefensaEc/status/1677125243687632898?t=QkzIvN0xbonAIeEFKtn5KA&s=19",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.youtube.com/watch?v=aMdJDJtwtMk|title=Metria poll|publisher=Metria|accessdate=3 July 2023|archive-date=11 July 2023|archive-url=https://web.archive.org/web/20230711160641/https://www.youtube.com/watch?v=aMdJDJtwtMk|url-status=live}}</ref>",
+                      "url": "https://www.youtube.com/watch?v=aMdJDJtwtMk",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.youtube.com/watch?v=9_9OGukDGAQ|title=Negocios & Estrategias poll|publisher=Negocios & Estrategias|accessdate=26 June 2023|archive-date=3 July 2023|archive-url=https://web.archive.org/web/20230703161232/https://www.youtube.com/watch?v=9_9OGukDGAQ|url-status=live}}</ref>",
+                      "url": "https://www.youtube.com/watch?v=9_9OGukDGAQ",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://twitter.com/AmericaElige/status/1676762542507700227|title=Ecuador, presidential election, Negocio & Estrategias poll|publisher=Negocio & Estrategias|accessdate=26 June 2023|archive-date=13 July 2023|archive-url=https://web.archive.org/web/20230713102826/https://twitter.com/AmericaElige/status/1676762542507700227|url-status=live}}</ref>",
+                      "url": "https://twitter.com/AmericaElige/status/1676762542507700227",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.facebook.com/mercanalis/videos/1428123288041296|title=Mercanalis poll|publisher=Mercanalis|accessdate=26 June 2023|archive-date=7 July 2023|archive-url=https://web.archive.org/web/20230707162202/https://www.facebook.com/mercanalis/videos/1428123288041296|url-status=live}}</ref>",
+                      "url": "https://www.facebook.com/mercanalis/videos/1428123288041296",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.facebook.com/photo/?fbid=3510585789171636&set=a.1947011178862446|title=Data Encuesta poll|publisher=Data Encuesta|accessdate=24 June 2023|archive-date=3 July 2023|archive-url=https://web.archive.org/web/20230703161232/https://www.facebook.com/photo/?fbid=3510585789171636&set=a.1947011178862446|url-status=live}}</ref>",
+                      "url": "https://www.facebook.com/login/?next=https://www.facebook.com/photo/?fbid%3D3510585789171636%26set%3Da.1947011178862446",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://twitter.com/tinoelectoral/status/1674201925766594561?t=A45ESlZZTT8mIV_bl7gArA&s=19|title=Data Encuesta poll|publisher=Tinoelectoral|accessdate=24 June 2023}}</ref>",
+                      "url": "https://twitter.com/tinoelectoral/status/1674201925766594561?t=A45ESlZZTT8mIV_bl7gArA&s=19",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://drive.google.com/file/d/1n6q6B7tMXdisi0bP-6nhph1ISzuy9uMJ/view?usp=sharing|title=Estrategas Infinity presidential poll|accessdate=June 27, 2023|publisher=Estrategas Infinity|archive-date=26 June 2023|archive-url=https://web.archive.org/web/20230626234012/https://drive.google.com/file/d/1n6q6B7tMXdisi0bP-6nhph1ISzuy9uMJ/view?usp=sharing|url-status=live}}</ref>",
+                      "url": "https://drive.google.com/file/d/1n6q6B7tMXdisi0bP-6nhph1ISzuy9uMJ/view?usp=sharing",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.facebook.com/mauricio.alfaromontero/videos/622482566515729/|title=Alfaromontero|publisher=Amarchante|accessdate=23 June 2023|archive-date=10 August 2023|archive-url=https://web.archive.org/web/20230810164620/https://www.facebook.com/mauricio.alfaromontero/videos/622482566515729/|url-status=live}}</ref>",
+                      "url": "https://www.facebook.com/mauricio.alfaromontero/videos/622482566515729/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.facebook.com/diariopinion/posts/pfbid0xaQCsJBd8iM3KCCi9eiPeq6448k3ryNXYam8HM7xL32hwTfLt8GvcQ1Aoc9MZARel|title=Data Encuesta Poll|publisher=Diari Opinion|accessdate=23 June 2023|archive-date=23 June 2023|archive-url=https://web.archive.org/web/20230623174156/https://www.facebook.com/diariopinion/posts/pfbid0xaQCsJBd8iM3KCCi9eiPeq6448k3ryNXYam8HM7xL32hwTfLt8GvcQ1Aoc9MZARel|url-status=live}}</ref>",
+                      "url": "https://www.facebook.com/diariopinion/posts/pfbid0xaQCsJBd8iM3KCCi9eiPeq6448k3ryNXYam8HM7xL32hwTfLt8GvcQ1Aoc9MZARel",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://drive.google.com/file/d/12vhu5oj8GszeUuVp2Rwpj6uXMZzsGBc9/view?usp=sharing|title=Estrategas Infinity Poll|publisher=Estrategas Infinity|accessdate=23 June 2023|archive-date=13 June 2023|archive-url=https://web.archive.org/web/20230613022046/https://drive.google.com/file/d/12vhu5oj8GszeUuVp2Rwpj6uXMZzsGBc9/view?usp=sharing|url-status=live}}</ref>",
+                      "url": "https://drive.google.com/file/d/12vhu5oj8GszeUuVp2Rwpj6uXMZzsGBc9/view?usp=sharing",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://twitter.com/CarlosVerareal/status/1665095780795928576?cxt=HHwWgMC-tczyzZsuAAAA|title=Cedatos poll|publisher=Carlos Verareal|accessdate=23 June 2023|archive-date=13 June 2023|archive-url=https://web.archive.org/web/20230613022047/https://twitter.com/CarlosVerareal/status/1665095780795928576?cxt=HHwWgMC-tczyzZsuAAAA|url-status=live}}</ref>",
+                      "url": "https://twitter.com/CarlosVerareal/status/1665095780795928576?cxt=HHwWgMC-tczyzZsuAAAA",
+                      "status_code": 400,
+                      "reason": "Bad Request",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|access-date=2023-06-08|language=es|title=ESTUDIO DE OPINIÓN PÚBLICA ECUADOR OP NACIONAL Informe gráfico Abril 2023|url=https://www.planv.com.ec/sites/default/files/informe_nacional_ecuadorvf0523.pdf|website=planv/|archive-date=12 June 2023|archive-url=https://web.archive.org/web/20230612134509/https://www.planv.com.ec/sites/default/files/informe_nacional_ecuadorvf0523.pdf|url-status=live}}<!--auto-translated by Module:CS1 translator--></ref>",
+                      "url": "https://www.planv.com.ec/sites/default/files/informe_nacional_ecuadorvf0523.pdf",
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.canva.com/design/DAFfYNOQ0GE/FOX5zyoHusw-rl6A7ryXyQ/view|title=Clima Social Poll|accessdate=23 June 2023|publisher=Canva|archive-url=https://web.archive.org/web/20230613022047/https://www.canva.com/design/DAFfYNOQ0GE/FOX5zyoHusw-rl6A7ryXyQ/view?utm_content=DAFfYNOQ0GE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1 |archive-date=13 June 2023 }}</ref>",
+                      "url": "https://www.canva.com/design/DAFfYNOQ0GE/FOX5zyoHusw-rl6A7ryXyQ/view",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Results",
+      "content": [
+        {
+          "id": "6.1",
+          "title": "President",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "National Assembly",
+          "content": [
+            {
+              "sentences": []
+            },
+            {
+              "id": "6.2.2",
+              "title": "Parliamentary results by province",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Aftermath",
+      "content": [
+        {
+          "id": "7.1",
+          "title": "First round",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.1.s1",
+                  "text": "On 20 August, Luisa González advanced to the run-off election after finishing in first place, winning 33% of the vote. She was noted by commentators as a protege to former President Rafael Correa. His debate performance days before the election was seen as a key factor in his second place finish. Violence, political stability and the assassination of Fernando Villavicencio were heavily noted a key factors for voters.",
+                  "references": [
+                    {
+                      "text": "<ref name=reutersresults/> Her first place finish was predicted.<ref name=CNN>{{cite web|url=https://www.cnn.com/videos/world/2023/08/21/exp-ecuador-election-luisa-gonzalez-daniel-noboa-runoff-rafael-romo-lklv-082101aseg1-cnni-world.cnn|title=Luisa Gonzalez will face Daniel Noboa in Ecuador's presidential runoff election|date=21 August 2023|publisher=CNN|accessdate=21 August 2023|archive-date=21 August 2023|archive-url=https://web.archive.org/web/20230821145247/https://www.cnn.com/videos/world/2023/08/21/exp-ecuador-election-luisa-gonzalez-daniel-noboa-runoff-rafael-romo-lklv-082101aseg1-cnni-world.cnn|url-status=live}}</ref>",
+                      "url": "https://edition.cnn.com/videos/world/2023/08/21/exp-ecuador-election-luisa-gonzalez-daniel-noboa-runoff-rafael-romo-lklv-082101aseg1-cnni-world.cnn",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=reutersresults/> Also advancing to the run-off was businessman Daniel Noboa, whose second place finish was seen as a surprise as his polling numbers were low in the days before the election.<ref name=WaPo>{{cite news|url=https://www.washingtonpost.com/world/2023/08/21/ecuador-presidential-election-candidate-killed/2e6d37e6-3fe4-11ee-9677-53cc50eb3f77_story.html|title=A presidential runoff is likely in Ecuador between an ally of ex-president and a banana tycoon's son|newspaper=The Washington Post|accessdate=21 August 2023|archive-date=25 August 2023|archive-url=https://web.archive.org/web/20230825191703/https://www.washingtonpost.com/world/2023/08/21/ecuador-presidential-election-candidate-killed/2e6d37e6-3fe4-11ee-9677-53cc50eb3f77_story.html|url-status=live}}</ref>",
+                      "url": "https://www.washingtonpost.com/world/2023/08/21/ecuador-presidential-election-candidate-killed/2e6d37e6-3fe4-11ee-9677-53cc50eb3f77_story.html",
+                      "status_code": null,
+                      "reason": "Timeout",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=aol>{{cite web|url=https://www.aol.com/news/factbox-ecuadors-gonzalez-noboa-second-035037573.html|title=Factbox-Ecuador's Gonzalez and Noboa go to second round in presidential vote|date=21 August 2023|publisher=AOL|accessdate=21 August 2023|archive-date=21 August 2023|archive-url=https://web.archive.org/web/20230821145808/https://www.aol.com/news/factbox-ecuadors-gonzalez-noboa-second-035037573.html|url-status=live}}</ref>",
+                      "url": "https://www.aol.com/news/factbox-ecuadors-gonzalez-noboa-second-035037573.html",
+                      "status_code": 429,
+                      "reason": "Too Many Requests",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=WaPo/> If González would have been elected, she would have been the first woman to be elected president.<ref name=\"Daniel-Luisa\" /> In contrast, if Noboa was elected, he would be the youngest president in Ecuador's history, at 35 years old when he took office.<ref name=\"Daniel-Luisa\">{{Cite web|url=https://www.eluniverso.com/noticias/politica/segunda-vuelta-2023-ecuador-tendra-a-la-primera-mujer-presidenta-electa-en-las-urnas-o-al-presidente-mas-joven-de-la-historia-nota/|title=Segunda vuelta 2023: Ecuador tendrá a la primera mujer presidenta electa en las urnas o al presidente más joven de la historia|accessdate=9 October 2023|date=20 August 2023|publisher=El Universo|language=es|archive-date=11 October 2023|archive-url=https://web.archive.org/web/20231011220214/https://www.eluniverso.com/noticias/politica/segunda-vuelta-2023-ecuador-tendra-a-la-primera-mujer-presidenta-electa-en-las-urnas-o-al-presidente-mas-joven-de-la-historia-nota/|url-status=live}}</ref>",
+                      "url": "https://www.eluniverso.com/noticias/politica/segunda-vuelta-2023-ecuador-tendra-a-la-primera-mujer-presidenta-electa-en-las-urnas-o-al-presidente-mas-joven-de-la-historia-nota/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.1.s2",
+                  "text": "In the National Assembly (Ecuador)|National Assembly, the Citizen Revolution Movement won the most votes, coming in the first place at nearly 40% of the popular vote. Also on the ballot were votes on a 2023 Ecuadorian Yasuní National Park oil exploitation referendum|referendum on Yasuní National Park#Oil reserves|oil exploitation in the Yasuní National Park and a local one on metallic mining in the Chocó Andino.",
+                  "references": [
+                    {
+                      "text": "<ref name=reutersresults/> In second place, Villavicencio's Movimiento Construye won 20% of the popular vote.<ref name=reutersresults>{{cite web|url=https://www.msn.com/en-gb/news/world/ecuador-candidate-backed-by-correa-will-face-banana-heir-in-second-round/ar-AA1fxUKk|title=Ecuador candidate backed by Correa will face banana heir in second round|publisher=Reuters|accessdate=21 August 2023|archive-date=16 October 2023|archive-url=https://web.archive.org/web/20231016054528/https://www.msn.com/en-gb/news/world/ecuador-candidate-backed-by-correa-will-face-banana-heir-in-second-round/ar-AA1fxUKk|url-status=live}}</ref>",
+                      "url": "https://www.msn.com/ko-kr",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=refone/><ref name=reftwo/> Voters voted to approve both measures, banning both oil exploitation in the Yasuní National Park, and metallic mining in the Chocó Andino.<ref>{{cite web|url=https://elecciones2023.cne.gob.ec/Consultas/choco|title=Consulta Popular Chocó Andino / Pichincha / Quito|publisher=CNE|accessdate=21 August 2023|archive-date=20 August 2023|archive-url=https://web.archive.org/web/20230820222121/https://elecciones2023.cne.gob.ec/Consultas/choco|url-status=live}}</ref>",
+                      "url": "https://elecciones2023.cne.gob.ec/Consultas/choco",
+                      "status_code": null,
+                      "reason": "Cannot connect to host elecciones2023.cne.gob.ec:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'elecciones2023.cne.gob.ec'. (_ssl.c:1010)\")]",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://elecciones2023.cne.gob.ec/Consultas/yasuni|title=Consulta Popular Yasuní|publisher=CNE|accessdate=21 August 2023|archive-date=20 August 2023|archive-url=https://web.archive.org/web/20230820222122/https://elecciones2023.cne.gob.ec/Consultas/yasuni|url-status=live}}</ref>",
+                      "url": "https://elecciones2023.cne.gob.ec/Consultas/yasuni",
+                      "status_code": null,
+                      "reason": "Cannot connect to host elecciones2023.cne.gob.ec:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'elecciones2023.cne.gob.ec'. (_ssl.c:1010)\")]",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "7.1.s3",
+                  "text": "During the first round of the election, the overseas votes had several complications and a final count could not be established. CNE President Diana Atamaint said that the delay in counting the oversea ballots were attributed to \"cyber attacks\" and that new security measures were being implemented to deter further attacks. Demonstrations were held both outside the CNE headquarters in Quito and in several cities abroad, demanding a repeat vote. As a result, on 25 August, the CNE decided to annul the results of the oversea ballots, ordering a repeat of the legislative votes on the day of the runoff.",
+                  "references": [
+                    {
+                      "text": "<ref name=repeat/> Several citizens{{who|date=October 2023}} criticized the delay in counting overseas ballots with the Organization of American States vowing to assist in addressing the problem.<ref>{{cite web|url=https://www.lahora.com.ec/pais/oea-voto-telematico-extranjeros-ecuador-votaciones-anticipadas/|title=La OEA exhortó al CNE a solucionar \"de manera expedita\" los problemas en el voto telemático|publisher=La Hora|accessdate=11 September 2023|language=Spanish|archive-date=25 August 2023|archive-url=https://web.archive.org/web/20230825033816/https://www.lahora.com.ec/pais/oea-voto-telematico-extranjeros-ecuador-votaciones-anticipadas/|url-status=live}}</ref>",
+                      "url": "https://www.lahora.com.ec/pais/oea-voto-telematico-extranjeros-ecuador-votaciones-anticipadas/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.elnacional.com/mundo/sistema-de-voto-telematico-en-el-exterior-de-ecuador-sufrio-ciberataques/|title=El sistema de voto telemático en el exterior de Ecuador sufrió ciberataques|publisher=El Nacional|accessdate=11 September 2023|language=Spanish|archive-date=22 August 2023|archive-url=https://web.archive.org/web/20230822234842/https://www.elnacional.com/mundo/sistema-de-voto-telematico-en-el-exterior-de-ecuador-sufrio-ciberataques/|url-status=live}}</ref>",
+                      "url": "https://www.elnacional.com/mundo/sistema-de-voto-telematico-en-el-exterior-de-ecuador-sufrio-ciberataques/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://www.expreso.ec/actualidad/voto-exterior-ecuatorianos-genova-alistan-protesta-cne-170946.html|title=Elections 2023: Ecuadorians in Genoa prepare a march for their right to vote|publisher=Expresso|accessdate=11 September 2023|archive-date=5 September 2023|archive-url=https://web.archive.org/web/20230905165820/https://www.expreso.ec/actualidad/voto-exterior-ecuatorianos-genova-alistan-protesta-cne-170946.html|url-status=live}}</ref>",
+                      "url": "https://www.expreso.ec/actualidad/voto-exterior-ecuatorianos-genova-alistan-protesta-cne-170946.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=repeat>{{cite news|url=https://elcomercio.pe/mundo/latinoamerica/elecciones-ecuador-2023-consejo-nacional-electoral-aprueba-repetir-las-elecciones-legislativas-en-el-exterior-de-forma-presencial-cne-voto-telematico-asamblea-nacional-ultimas-noticia/|title=Ecuador approves repeating legislative elections abroad in person|newspaper=El Comercio|date=30 August 2023|accessdate=11 September 2023|language=Spanish|archive-date=5 September 2023|archive-url=https://web.archive.org/web/20230905165817/https://elcomercio.pe/mundo/latinoamerica/elecciones-ecuador-2023-consejo-nacional-electoral-aprueba-repetir-las-elecciones-legislativas-en-el-exterior-de-forma-presencial-cne-voto-telematico-asamblea-nacional-ultimas-noticia/|url-status=live}}</ref>",
+                      "url": "https://elcomercio.pe/mundo/latinoamerica/elecciones-ecuador-2023-consejo-nacional-electoral-aprueba-repetir-las-elecciones-legislativas-en-el-exterior-de-forma-presencial-cne-voto-telematico-asamblea-nacional-ultimas-noticia/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7.2",
+          "title": "Second round",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "7.2.s1",
+                  "text": "González, the runner-up in the second round of the presidential election, conceded to Noboa, saying \"the candidate they [Noboa's voters] chose has won and as Ecuadoreans we also embrace them\". At age 35, Noboa became the youngest person elected to the presidency. He vowed \"to return peace to the country, to give education to the youth again, to be able to provide employment to the many people who are looking for it\".<ref name=vow/>",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news|last1=Glatsky|first1=Genevieve|title=Daniel Noboa, Scion of a Banana Empire, Wins Ecuador's Presidency|url=https://www.nytimes.com/2023/10/15/world/americas/ecuador-election-president.html|work=The New York Times|date=15 October 2023 |access-date=15 October 2023|archive-date=15 October 2023|archive-url=https://web.archive.org/web/20231015092119/https://www.nytimes.com/2023/10/15/world/americas/ecuador-election-president.html|url-status=live}}</ref>",
+                      "url": "https://www.nytimes.com/2023/10/15/world/americas/ecuador-election-president.html",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=youngest/> Following his victory, Noboa thanked voters for believing in \"a new political project, a young political project, an improbable political project\".<ref name=vow>{{cite web|url=https://www.msn.com/en-us/news/world/daniel-noboa-political-neophyte-and-heir-to-banana-empire-elected-president-in-ecuador/ar-AA1ihIOr|title=Daniel Noboa, political neophyte and heir to banana empire, elected president in Ecuador|publisher=MSN|accessdate=16 October 2023|archive-date=17 October 2023|archive-url=https://web.archive.org/web/20231017102232/https://www.msn.com/en-us/news/world/daniel-noboa-political-neophyte-and-heir-to-banana-empire-elected-president-in-ecuador/ar-AA1ihIOr|url-status=live}}</ref>",
+                      "url": "https://www.msn.com/ko-kr",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

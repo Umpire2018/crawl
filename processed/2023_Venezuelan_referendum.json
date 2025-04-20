@@ -1,0 +1,629 @@
+{
+  "title": "2023_Venezuelan_referendum",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "A Referendum|consultative referendum was initiated by the government of Nicolás Maduro regarding Venezuela's claim over the Guayana Esequiba, whose Guyana–Venezuela territorial dispute|territory is disputed with, and controlled by, neighboring Guyana. The referendum took place on 3 December 2023 in Venezuela. The population of the territory in question was not consulted and did not vote as voting only took place within Venezuela.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |date=2023-10-20 |title=Venezuela sets referendum date on territory dispute with Guyana |language=en |work=Reuters |url=https://www.reuters.com/world/americas/venezuela-sets-referendum-date-territory-dispute-with-guyana-2023-10-20/ |access-date=2023-11-06 |archive-date=7 November 2023 |archive-url=https://web.archive.org/web/20231107045924/https://www.reuters.com/world/americas/venezuela-sets-referendum-date-territory-dispute-with-guyana-2023-10-20/ |url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/world/americas/venezuela-sets-referendum-date-territory-dispute-with-guyana-2023-10-20/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "1.s2",
+              "text": "The referendum consisted of five questions concerning various aspects of Venezuela's claim to territory controlled and administered by Guyana, including rejection of the International Court of Justice's jurisdiction over the dispute, the establishment of a Guayana Esequiba state, and granting its population immediate Venezuelan citizenship. The referendum was one of the contributing factors for the Guyana–Venezuela crisis (2023–present)|Guyana–Venezuela crisis.",
+              "references": [
+                {
+                  "text": "<ref name=\"van den Berg\">{{cite news |last1=van den Berg |first1=Stephanie |title=Venezuela tells World Court referendum to go ahead despite Guyana resistance |url=https://www.reuters.com/world/americas/venezuela-tells-world-court-referendum-go-ahead-despite-guyana-resistance-2023-11-15/ |access-date=30 November 2023 |work=Reuters |date=15 November 2023 |language=en |archive-date=28 November 2023 |archive-url=https://web.archive.org/web/20231128023227/https://www.reuters.com/world/americas/venezuela-tells-world-court-referendum-go-ahead-despite-guyana-resistance-2023-11-15/ |url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/world/americas/venezuela-tells-world-court-referendum-go-ahead-despite-guyana-resistance-2023-11-15/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":3\">{{Cite web |last=Paredes |first=Norberto |date=2023-12-01 |title=Esequibo: 5 claves para entender el controvertido referendo en Venezuela sobre la región que le disputa a Guyana |url=https://www.bbc.com/mundo/articles/cpwp6zz89l6o |url-status=live |archive-url=https://web.archive.org/web/20231201143504/https://www.bbc.com/mundo/articles/cpwp6zz89l6o |archive-date=1 December 2023 |access-date=2023-12-04 |website=BBC News |language=es}}</ref>",
+                  "url": "https://www.bbc.com/mundo/articles/cpwp6zz89l6o",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "1.s3",
+              "text": "According to the Venezuelan government, more than 95% of Venezuelans who voted selected \"yes\" on each of the five questions on the ballot. International analysts and media reported that turnout had been remarkably low and that the Venezuelan government had falsified the results.",
+              "references": [
+                {
+                  "text": "<ref name=\":4\">{{Cite web |last=Shortell |first=David |date=2023-12-04 |title=Venezuelans approve takeover of oil-rich region of Guyana in referendum |url=https://www.cnn.com/2023/12/04/americas/venezuelans-approve-takeover-of-oil-rich-region-of-guyana-in-referendum/index.html |access-date=2023-12-04 |website=CNN |language=en |quote=In a news conference announcing preliminary results from the first tranche of counted votes, the Venezuelan National Electoral Council said voters chose \"yes\" more than 95% of the time on each of five questions on the ballot. |archive-date=4 December 2023 |archive-url=https://web.archive.org/web/20231204043413/https://www.cnn.com/2023/12/04/americas/venezuelans-approve-takeover-of-oil-rich-region-of-guyana-in-referendum/index.html |url-status=live }}</ref>",
+                  "url": "https://edition.cnn.com/2023/12/04/americas/venezuelans-approve-takeover-of-oil-rich-region-of-guyana-in-referendum/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":8\">{{cite news |url=https://www.theguardian.com/world/2023/dec/04/maduro-venezuela-guyana-essequibo-referendum-vote-turnout |title=Maduro vote to claim Guyana's territory backfires as Venezuelans stay home |author=Luke Taylor |newspaper=The Guardian |date=4 December 2023 |access-date=5 December 2023 |archive-date=5 December 2023 |archive-url=https://web.archive.org/web/20231205053546/https://www.theguardian.com/world/2023/dec/04/maduro-venezuela-guyana-essequibo-referendum-vote-turnout |url-status=live }}</ref>",
+                  "url": "https://www.theguardian.com/world/2023/dec/04/maduro-venezuela-guyana-essequibo-referendum-vote-turnout",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "1.s4",
+              "text": "Following the poor turnout, the chief prosecutor of Venezuela, Tarek William Saab, accused Venezuelan opposition|opposition leaders of sabotaging the referendum and issued arrest warrants for 15 of them, with charges such as treason and conspiracy. This appeared to be a further attempt to suppress political opposition ahead of the 2024 Venezuelan presidential election|2024 presidential election, despite free and fair elections being agreed with the US as a condition for lifting sanctions.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |url=https://www.nytimes.com/2023/12/06/world/americas/venezuela-opposition-arrest-orders.html |title=Venezuela Orders Arrest of Top Opposition Figures, Claiming Treason |newspaper=The New York Times |author1=Genevieve Glatsky |author2=Isayen Herrera |date=6 December 2023 |access-date=7 December 2023 |archive-date=14 December 2023 |archive-url=https://web.archive.org/web/20231214092211/https://www.nytimes.com/2023/12/06/world/americas/venezuela-opposition-arrest-orders.html?searchResultPosition=2 |url-status=live }}</ref>",
+                  "url": "https://www.nytimes.com/2023/12/06/world/americas/venezuela-opposition-arrest-orders.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The territory controlled and administered by Guyana and claimed by Venezuela is a {{convert|159500|km2|abbr=on}} region west of the Essequibo River. In 1814, the British acquired the area as a result of a treaty with the Netherlands. Following the establishment of Gran Colombia in 1819, territorial disputes began between Gran Colombia, later Venezuela, who annexed Essequibo, and the British, who appointed Robert Hermann Schomburgk to define the western boundary in 1835. His \"Schomburgk Line|Schomburgk line\" established the boundary<ref name=\"paredes\" /> and coincided with the position of Essequibo according to the older maps of the Dutch. In 1841 the government of José Antonio Páez denounced, instead, the incursion of Venezuelan territory by the British Empire.",
+              "references": [
+                {
+                  "text": "<ref name=\"case\">[https://books.google.com/books?id=sNkMAAAAYAAJ ''British Guiana Boundary: Arbitration with the United States of Venezuela. The Case (and Appendix) on Behalf of the Government of Her Britannic Majesty''] {{Webarchive|url=https://web.archive.org/web/20230408075005/https://books.google.com/books?id=sNkMAAAAYAAJ |date=8 April 2023 }} Volume 7. Printed at the Foreign office, by Harrison and sons, 1898.</ref>",
+                  "url": "https://web.archive.org/web/20230408075005/https://books.google.com/books?id=sNkMAAAAYAAJ",
+                  "status_code": 403,
+                  "reason": "Blocked: Archive.org URL",
+                  "type": null
+                },
+                {
+                  "text": "<ref name=\"paredes\" /> Portions of the area were formerly under the control of the Dutch empire as part of the Essequibo (colony)|Essequibo colony.<ref>Jacob Roggeveen, \"Het Brandende Veen\", 1675; van Bouchenroeder, 1797, Nationaal Archief, inv. nr. 1489.</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "Subsequently, gold was discovered in the Yuruarí River basin in 1876. In 1895, Venezuela sought the support of the United States and advocated for the country to intervene in the dispute through the Monroe Doctrine. to the border dispute. It was the belief that the resulting decision was a compromise between the great powers of the time.<ref name=\"paredes\" />",
+              "references": [
+                {
+                  "text": "<ref name=\"paredes\" /> The United States House of Representatives proposed Resolution 252 to Congress, which recommended the dispute be resolved by international arbitration following pressure from American president Grover Cleveland.<ref name=\"paredes\" /> During the Venezuelan crisis of 1895, the Schomburgk Line was proposed as a border between Venezuela and British Guiana but neither of the parties agreed on the exact boundary. With the Treaty of Washington in 1897, however, the United Kingdom of Great Britain and Venezuela both agreed to arbitration with the expectation that the Paris Arbitral Award|arbitral ruling in Paris would ultimately be a \"''full, perfect, and final settlement''\"<ref>{{Cite web |url=http://peacemaker.un.org/sites/peacemaker.un.org/files/GB-VE_970202_Treaty%20of%20Arbitration.pdf |title=Treaty of arbitration between Venezuela and Great Britain, signed at Washington and dated the second day of February, 1897 |access-date=30 October 2013 |archive-date=1 November 2013 |archive-url=https://web.archive.org/web/20131101020005/http://peacemaker.un.org/sites/peacemaker.un.org/files/GB-VE_970202_Treaty%20of%20Arbitration.pdf |url-status=live }}</ref>",
+                  "url": "http://peacemaker.un.org/sites/peacemaker.un.org/files/GB-VE_970202_Treaty%20of%20Arbitration.pdf",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "The region's status is subject to the Geneva Agreement (1966)|Geneva Agreement of 1966, signed by the governments of the United Kingdom, Venezuela, and British Guiana. The agreement stipulated that the parties involved will agree to find a peaceful, practical, and satisfactory resolution to the dispute. Venezuela argues that the 1966 agreement nullified the results of the original arbitration that established the Schomburgk line as the border between Venezuela and Guyana. Venezuela's claim to the territory it calls \"Guayana Esequiba\" is one of the only issues that receives unified support from both Chavismo|chavistas and the Venezuelan opposition.<ref name=\":3\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |url=https://www.icj-cij.org/public/files/case-related/171/171-20201218-SUM-01-00-EN.pdf |title=Summary of the Judgement of 18 December 2020 |access-date=30 November 2023 |archive-date=28 May 2023 |archive-url=https://web.archive.org/web/20230528063959/https://www.icj-cij.org/public/files/case-related/171/171-20201218-SUM-01-00-EN.pdf |url-status=live }}</ref>",
+                  "url": "https://www.icj-cij.org/public/files/case-related/171/171-20201218-SUM-01-00-EN.pdf",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"arraez\">{{cite news |last1=Garcia Cano |first1=Regina |last2=Arraez |first2=Juan |title=Venezuela's planned vote over territory dispute leaves Guyana residents on edge |url=https://abcnews.go.com/International/wireStory/venezuelas-planned-vote-territory-dispute-leaves-guyana-residents-105238454 |access-date=30 November 2023 |work=ABC News |agency=A. B. C. News |date=29 November 2023 |language=en |archive-date=29 November 2023 |archive-url=https://web.archive.org/web/20231129225250/https://abcnews.go.com/International/wireStory/venezuelas-planned-vote-territory-dispute-leaves-guyana-residents-105238454 |url-status=live }}</ref>",
+                  "url": "https://abcnews.go.com/International/wireStory/venezuelas-planned-vote-territory-dispute-leaves-guyana-residents-105238454",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s4",
+              "text": "Venezuela insists on following the terms of the 1966 agreement and achieving a solution through dialogue. Venezuela believes that the principle of ''uti possidetis'' would apply in the situation.",
+              "references": [
+                {
+                  "text": "<ref name=\"paredes\" /> Guyana's leadership rejects direct dialogue with Venezuela on the matter and President of Guyana Irfaan Ali insists on a resolution done through the International Court of Justice (ICJ). Venezuela, in turn, does not recognize the legitimacy of the ICJ in resolving the dispute.<ref name=\"paredes\" /> In 2023, the President of Venezuela sent a letter to the Secretary-General of the United Nations to ask him to mediate the dispute.<ref name=\"paredes\">{{cite news |last1=Paredes |first1=Norberto |title=Esequibo: por qué se agudizó la disputa por la zona que enfrenta a Guyana y Venezuela desde hace casi dos siglos |url=https://www.bbc.com/mundo/articles/c28vrmj73m0o |access-date=30 November 2023 |work=BBC News Mundo |publisher=British Broadcasting Corporation |date=4 October 2023 |language=es |archive-date=27 November 2023 |archive-url=https://web.archive.org/web/20231127071408/https://www.bbc.com/mundo/articles/c28vrmj73m0o |url-status=live }}</ref>",
+                  "url": "https://www.bbc.com/mundo/articles/c28vrmj73m0o",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Questions",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The following questions were approved by the National Electoral Council (Venezuela)|National Electoral Council on 23 October 2023 and approved by the Constitutional Chamber of the Supreme Court of Justice of Venezuela|Supreme Justice Court on 1 November 2023:",
+              "references": [
+                {
+                  "text": "<ref name=\"Chabrol 2023\">{{Cite web |last=Chabrol |first=Denis |date=2023-10-23 |title=Venezuelan electoral council approves five questions for referendum on Essequibo |url=https://demerarawaves.com/2023/10/23/venezuelan-electoral-council-approves-five-questions-for-referendum-on-essequibo/ |access-date=2023-11-03 |website=Demerara Waves Online News- Guyana |language=en-US |archive-date=3 November 2023 |archive-url=https://web.archive.org/web/20231103082209/https://demerarawaves.com/2023/10/23/venezuelan-electoral-council-approves-five-questions-for-referendum-on-essequibo/ |url-status=live }}</ref>",
+                  "url": "https://demerarawaves.com/2023/10/23/venezuelan-electoral-council-approves-five-questions-for-referendum-on-essequibo/",
+                  "status_code": 202,
+                  "reason": "Accepted",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Conduct",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "On 19 November, a referendum rehearsal was held in Venezuela. On 29 November, an electoral rehearsal was also organized for high school students between the ages of 12 and 18. It was announced that more than 350,000 military personnel would guard the electoral process nationwide.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|access-date=2023-12-03|date=2023-11-19|title=Venezuela realiza con \"éxito\" simulacro de referendo por zona en disputa con Guyana|url=https://www.france24.com/es/minuto-a-minuto/20231119-venezuela-realiza-con-%C3%A9xito-simulacro-de-referendo-por-zona-en-disputa-con-guyana|website=France24|archive-date=19 November 2023|archive-url=https://web.archive.org/web/20231119203110/http://www.france24.com/es/minuto-a-minuto/20231119-venezuela-realiza-con-%C3%A9xito-simulacro-de-referendo-por-zona-en-disputa-con-guyana|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                  "url": "https://www.france24.com/es/minuto-a-minuto/20231119-venezuela-realiza-con-%C3%A9xito-simulacro-de-referendo-por-zona-en-disputa-con-guyana",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|access-date=2023-12-03|date=2023-11-29|language=es|title=Bachilleres participan en referendo \"simbólico\" sobre el Esequibo|url=https://alnavio.es/bachilleres-participan-en-referendo-simbolico-sobre-el-esequibo-promovido-por-el-gobierno/|website=ALnavío|archive-date=2 December 2023|archive-url=https://web.archive.org/web/20231202013248/https://alnavio.es/bachilleres-participan-en-referendo-simbolico-sobre-el-esequibo-promovido-por-el-gobierno/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                  "url": "https://alnavio.es/bachilleres-participan-en-referendo-simbolico-sobre-el-esequibo-promovido-por-el-gobierno/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news|access-date=3 December 2023|date=29 November 2023|periodical=El Nacional (Venezuela)|El Nacional|title=Bachilleres participan en simulacro electoral sobre el Esequibo|url=https://www.elnacional.com/venezuela/bachilleres-participan-en-un-simulacro-electoral-sobre-el-esequibo/|archive-date=30 November 2023|archive-url=https://web.archive.org/web/20231130175431/https://www.elnacional.com/venezuela/bachilleres-participan-en-un-simulacro-electoral-sobre-el-esequibo/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                  "url": "https://www.elnacional.com/venezuela/bachilleres-participan-en-un-simulacro-electoral-sobre-el-esequibo/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|access-date=4 December 2023|date=29 November 2023|periodical=El Nacional (Venezuela)|El Nacional|title=Más de 350.000 militares custodiarán el referendo sobre el Esequibo|url=https://www.elnacional.com/venezuela/mas-de-350-000-militares-custodiaran-el-referendo-sobre-el-esequibo/#google_vignette|archive-date=30 November 2023|archive-url=https://web.archive.org/web/20231130030858/https://www.elnacional.com/venezuela/mas-de-350-000-militares-custodiaran-el-referendo-sobre-el-esequibo/#google_vignette|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                  "url": "https://www.elnacional.com/venezuela/mas-de-350-000-militares-custodiaran-el-referendo-sobre-el-esequibo/#google_vignette",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "During the referendum on 3 December, low turnout and presence at polling stations were reported.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|date=2023-12-03|title=FOTOS {{!}} Se registra poca afluencia de electores en el referendo no vinculante sobre el Esequibo|url=https://monitoreamos.com/venezuela/fotos-se-registra-poca-afluencia-de-electores-en-el-referendo-no-vinculante-sobre-el-esequibo|website=Monitoreamos|access-date=4 December 2023|archive-date=6 December 2023|archive-url=https://web.archive.org/web/20231206233942/https://monitoreamos.com/venezuela/fotos-se-registra-poca-afluencia-de-electores-en-el-referendo-no-vinculante-sobre-el-esequibo|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                  "url": "https://monitoreamos.com/venezuela/fotos-se-registra-poca-afluencia-de-electores-en-el-referendo-no-vinculante-sobre-el-esequibo",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|date=2023-12-03|title=Referéndum consultivo comienza con una escasa afluencia de electores en los centros|url=https://runrun.es/noticias/514134/referendum-consultivo-comienza-con-una-escasa-afluencia-de-electores-en-los-centros/|website=Runrunes|access-date=4 December 2023|archive-date=6 December 2023|archive-url=https://web.archive.org/web/20231206233919/https://runrun.es/noticias/514134/referendum-consultivo-comienza-con-una-escasa-afluencia-de-electores-en-los-centros/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                  "url": "https://runrun.es/noticias/514134/referendum-consultivo-comienza-con-una-escasa-afluencia-de-electores-en-los-centros/",
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |date=2023-12-03 |title=Poca afluencia de venezolanos en el referendo del Esequibo convocado por Maduro |url=https://www.abc.es/internacional/poca-afluencia-venezolanos-referendo-esequibo-convocado-maduro-20231203225157-nt.html |website=ABC (newspaper)|ABC |access-date=4 December 2023 |archive-date=6 December 2023 |archive-url=https://web.archive.org/web/20231206234034/https://www.abc.es/internacional/poca-afluencia-venezolanos-referendo-esequibo-convocado-maduro-20231203225157-nt.html |url-status=live }}<!-- auto-translated by Module:CS1 translator --></ref>",
+                  "url": "https://www.abc.es/internacional/poca-afluencia-venezolanos-referendo-esequibo-convocado-maduro-20231203225157-nt.html",
+                  "status_code": 406,
+                  "reason": "Not Acceptable",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|date=2023-12-03|title=Poca afluencia de votantes domina el referendo por el Esequibo|url=https://www.diariolasamericas.com/america-latina/poca-afluencia-votantes-domina-el-referendo-el-esequibo-n5347602|website=Diario Las Américas|access-date=4 December 2023|archive-date=5 December 2023|archive-url=https://web.archive.org/web/20231205171927/https://www.diariolasamericas.com/america-latina/poca-afluencia-votantes-domina-el-referendo-el-esequibo-n5347602|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                  "url": "https://www.diariolasamericas.com/america-latina/poca-afluencia-votantes-domina-el-referendo-el-esequibo-n5347602",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "The National Electoral Council (Venezuela)|National Electoral Council of Venezuela (CNE) declared that voters chose \"yes\" more than 95% of the time on each of five questions on the ballot,",
+              "references": [
+                {
+                  "text": "<ref name=\":4\" /> saying that there was a total of 10,554,320 votes, without specifying if it was the number of voters or of answered questions.<ref name=\":6\">{{Cite news |date=4 December 2023 |title=Capriles cifra en 89,8% la abstención en el referendo sobre disputa con Guyana |language=es |work=El Nacional (Venezuela)|El Nacional |url=https://www.elnacional.com/venezuela/capriles-cifra-en-898-la-abstencion-en-el-referendo/}}</ref>",
+                  "url": "https://www.elnacional.com/venezuela/capriles-cifra-en-898-la-abstencion-en-el-referendo/}}</ref>",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\":7\">{{Cite web |date=2023-12-04 |title=Capriles cifra en 89,8 % la abstención en el referendo venezolano sobre disputa con Guyana |url=https://www.swissinfo.ch/spa/venezuela-guyana_capriles-cifra-en-89-8---la-abstenci%C3%B3n-en-el-referendo-venezolano-sobre-disputa-con-guyana/49028048 |access-date=2023-12-04 |website=Swissinfo |language=es |archive-date=5 December 2023 |archive-url=https://web.archive.org/web/20231205172302/https://www.swissinfo.ch/spa/venezuela-guyana_capriles-cifra-en-89-8---la-abstenci%C3%B3n-en-el-referendo-venezolano-sobre-disputa-con-guyana/49028048 |url-status=live }}</ref>",
+                  "url": "https://www.swissinfo.ch/spa/capriles-cifra-en-89-8-la-abstenci%C3%B3n-en-el-referendo-venezolano-sobre-disputa-con-guyana/49028048",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s4",
+              "text": "International analysts and media reported that turnout had been remarkably low and that the Venezuelan government had falsified the results. The CNE published and later deleted a table showing around 2 million votes for each of the five questions, suggesting that the votes were counted instead of the voters.<ref name=\":8\" /> Opposition politician Henrique Capriles, who also voted in the referendum, declared that the turnout was around 10.2%, saying that each voter had five choices, which would mean that 2,110,864 people participated.<ref name=\":6\" /><ref name=\":7\" /> Nevertheless, there existed five votes per ballot for each individual.",
+              "references": [
+                {
+                  "text": "<ref name=\":8\" /><ref>{{Cite web |last= |title=\"Catástrofe\", \"descontento\", \"abstención\": Analistas ponen la lupa al referendo de Maduro sobre el Esequibo |url=https://www.ntn24.com/noticias-politica/catastrofe-descontento-abstencion-analistas-ponen-la-lupa-al-referendo-de-maduro-sobre-el-esequibo-459975 |access-date=2023-12-12 |website=NTN24 |language=es |archive-date=4 December 2023 |archive-url=https://web.archive.org/web/20231204172611/https://www.ntn24.com/noticias-politica/catastrofe-descontento-abstencion-analistas-ponen-la-lupa-al-referendo-de-maduro-sobre-el-esequibo-459975 |url-status=live }}</ref>",
+                  "url": "https://www.ntn24.com/noticias-politica/catastrofe-descontento-abstencion-analistas-ponen-la-lupa-al-referendo-de-maduro-sobre-el-esequibo-459975",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Results",
+      "content": [
+        {
+          "id": "5.1",
+          "title": "Question 1",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "5.1.s1",
+                  "text": "{{Referendum\n| title = Do you agree to reject by all means in accordance with the law, the line fraudulently interposed by the 1899 Paris Arbitration Award, which seeks to deprive us of our Guayana Esequiba?\n| yes = 10,315,485\n| yespct = 98.00\n| no = 210,329\n| nopct = 2.00\n| invalid = 29,278\n| invalidpct = 0.28\n| total = \n| electorate = 20,694,124\n| turnoutpct = 51.01\n| source = [https://www2.cne.gob.ve/rc2023 CNE] (99.89% declared)\n}}",
+                  "references": [
+                    {
+                      "text": "<ref name=result1>{{cite web|date=2023-12-03|title=Pese a los pocos votantes, el régimen de Maduro reportó \"millones\" de sufragios por el \"sí\" en el referéndum consultivo|url=https://www.infobae.com/venezuela/2023/12/04/pese-a-los-pocos-votantes-el-regimen-de-maduro-reporto-millones-de-sufragios-por-el-si-en-el-referendum-consultivo/|website=Infobae|access-date=7 December 2023|archive-date=5 December 2023|archive-url=https://web.archive.org/web/20231205102203/https://www.infobae.com/venezuela/2023/12/04/pese-a-los-pocos-votantes-el-regimen-de-maduro-reporto-millones-de-sufragios-por-el-si-en-el-referendum-consultivo/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://www.infobae.com/venezuela/2023/12/04/pese-a-los-pocos-votantes-el-regimen-de-maduro-reporto-millones-de-sufragios-por-el-si-en-el-referendum-consultivo/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=result2>{{cite web|date=2023-12-03|title=Venezuela aprueba referendo no vinculante sobre el Esequibo|url=https://www.dw.com/es/venezuela-aprueba-referendo-no-vinculante-sobre-el-esequibo/a-67621498|website=DW|access-date=7 December 2023|archive-date=4 December 2023|archive-url=https://web.archive.org/web/20231204154744/https://www.dw.com/es/venezuela-aprueba-referendo-no-vinculante-sobre-el-esequibo/a-67621498|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://www.dw.com/es/venezuela-aprueba-referendo-no-vinculante-sobre-el-esequibo/a-67621498",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Question 2",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "5.3",
+          "title": "Question 3",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "5.4",
+          "title": "Question 4",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "5.5",
+          "title": "Question 5",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Reactions",
+      "content": [
+        {
+          "id": "6.1",
+          "title": "International",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.1.s1",
+                  "text": "The proposed questions were condemned by the Guyanese government, which appealed to the International Court of Justice for intervention against Venezuela. The Venezuelan ambassador to Guyana, Carlos Amador Pérez Silva, was summoned by Guyana to express the nation's \"deep concern\" over the proposed referendum.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"barrons\">{{cite news |title=Guyana Summons Venezuelan Ambassador In Border Spat |url=https://www.barrons.com/news/guyana-summons-venezuelan-ambassador-in-border-spat-86493c67 |access-date=30 November 2023 |work=Barrons |agency=AFP-Agence France Presse |date=24 September 2023 |archive-date=5 December 2023 |archive-url=https://web.archive.org/web/20231205172323/https://www.barrons.com/news/guyana-summons-venezuelan-ambassador-in-border-spat-86493c67 |url-status=live }}</ref>",
+                      "url": "https://www.barrons.com/news/guyana-summons-venezuelan-ambassador-in-border-spat-86493c67",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.1.s2",
+                  "text": "The Commonwealth of Nations Secretary-General Patricia Scotland condemned the referendum proposal on grounds of territorial sovereignty. The leadership of the Caribbean Community voiced support for Guyana, stating that the referendum would have no bearing on international law and stating that international law prohibits an individual nation's unilateral seizure of another's territory.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |title=Statement by the Commonwealth Secretary-General on the escalation of the Guyana-Venezuela border dispute |url=https://thecommonwealth.org/news/statement-commonwealth-secretary-general-escalation-guyana-venezuela-border-dispute |access-date=2023-11-03 |website=Commonwealth |language=en |archive-date=3 November 2023 |archive-url=https://web.archive.org/web/20231103082209/https://thecommonwealth.org/news/statement-commonwealth-secretary-general-escalation-guyana-venezuela-border-dispute |url-status=live }}</ref>",
+                      "url": "https://thecommonwealth.org/news/statement-commonwealth-secretary-general-escalation-guyana-venezuela-border-dispute",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=2023-10-26 |title=Caricom urges respect for international law |url=https://www.jamaicaobserver.com/news/caricom-urges-respect-for-international-law/ |access-date=2023-11-03 |website=Jamaica Observer |language=en-US |archive-date=3 November 2023 |archive-url=https://web.archive.org/web/20231103082208/https://www.jamaicaobserver.com/news/caricom-urges-respect-for-international-law/ |url-status=live }}</ref>",
+                      "url": "https://www.jamaicaobserver.com/2023/10/25/caricom-urges-respect-for-international-law/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Chabrol |first1=Denis |title=CARICOM says Venezuela's referendum has no bearing on international law |url=https://demerarawaves.com/2023/10/25/caricom-says-venezuelas-referendum-has-no-bearing-on-international-law/ |access-date=30 November 2023 |work=Demerara Waves Online News- Guyana |date=25 October 2023 |archive-date=3 November 2023 |archive-url=https://web.archive.org/web/20231103114237/http://demerarawaves.com/2023/10/25/caricom-says-venezuelas-referendum-has-no-bearing-on-international-law/ |url-status=live }}</ref>",
+                      "url": "https://demerarawaves.com/2023/10/25/caricom-says-venezuelas-referendum-has-no-bearing-on-international-law/",
+                      "status_code": 202,
+                      "reason": "Accepted",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.1.s3",
+                  "text": "In response to the escalating tensions in the region, Brazil increased its military presence along its northern border in November 2023.",
+                  "references": [
+                    {
+                      "text": "<ref name=\":2\">{{cite news |title=Brazil increases northern border military presence amid Venezuela-Guyana spat -ministry |url=https://www.reuters.com/world/americas/brazil-increases-northern-border-military-presence-amid-venezuela-guyana-spat-2023-11-29/ |access-date=30 November 2023 |work=Reuters |date=29 November 2023 |language=en |archive-date=30 November 2023 |archive-url=https://web.archive.org/web/20231130010804/https://www.reuters.com/world/americas/brazil-increases-northern-border-military-presence-amid-venezuela-guyana-spat-2023-11-29/ |url-status=live }}</ref>",
+                      "url": "https://www.reuters.com/world/americas/brazil-increases-northern-border-military-presence-amid-venezuela-guyana-spat-2023-11-29/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.1.s4",
+                  "text": "The Secretary General of the Organization of American States (OAS), Luis Almagro, issued a statement condemning the consultation, considering that \"it is illegal according to the Geneva Agreement (1966)|1966 Geneva Agreement\". In the communiqué, Almagro reiterated that both countries had the responsibility to resolve the dispute peacefully.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news|access-date=4 November 2023|last1=Peralta|date=27 October 2023|first1=Patricio|title=Crece tensión entre Guyana y Venezuela por cuestionado referendo sobre el Esequibo|url=https://www.france24.com/es/am%C3%A9rica-latina/20231026-crece-tensi%C3%B3n-entre-guyana-y-venezuela-por-cuestionado-referendo-sobre-el-esequibo|work=France 24|archive-date=4 November 2023|archive-url=https://web.archive.org/web/20231104173303/https://www.france24.com/es/am%C3%A9rica-latina/20231026-crece-tensi%C3%B3n-entre-guyana-y-venezuela-por-cuestionado-referendo-sobre-el-esequibo|url-status=live|language=es}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20231026-crece-tensi%C3%B3n-entre-guyana-y-venezuela-por-cuestionado-referendo-sobre-el-esequibo",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6.2",
+          "title": "Domestic",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "6.2.s1",
+                  "text": "Within Venezuela, the Episcopal Conference of Venezuela asked that the referendum not be \"manipulated by purely political interests or as a means of pressure on citizens\", advocating that the conflict between Guyana and Venezuela to be resolved within the framework of \"dialogue and law\", peacefully and not escalate into a larger dispute.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|access-date=2023-12-03|date=2023-11-24|first=Ronny|last=Rodríguez Rosas|title=Obispos piden \"no manipular\" con referendo del Esequibo|url=http://efectococuyo.com/politica/obispos-piden-no-manipular-con-referendo-del-esequibo/|website=Efecto Cocuyo|archive-date=30 November 2023|archive-url=https://web.archive.org/web/20231130113133/https://efectococuyo.com/politica/obispos-piden-no-manipular-con-referendo-del-esequibo/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://efectococuyo.com/politica/obispos-piden-no-manipular-con-referendo-del-esequibo/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|access-date=2023-12-03|date=2023-11-23|title=Obispos de Venezuela: No manipular el referéndum con fines políticos o de presión|url=https://www.vaticannews.va/es/iglesia/news/2023-11/venezuela-obispos-referendum-territorio-esequibo-guyana.html|website=Vatican News|archive-date=4 December 2023|archive-url=https://web.archive.org/web/20231204013929/https://www.vaticannews.va/es/iglesia/news/2023-11/venezuela-obispos-referendum-territorio-esequibo-guyana.html|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://www.vaticannews.va/es/iglesia/news/2023-11/venezuela-obispos-referendum-territorio-esequibo-guyana.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.2.s2",
+                  "text": "The Unitary Platform opposition coalition called on the population to decide \"freely\" and making use of their \"free will\" whether to participate in the referendum and how to answer to its questions. Opposition politicians Juan Guaidó and Leopoldo López rejected the referendum, as did opposition parties such as Popular Will and Justice First. Opposition presidential candidate María Corina Machado assured that sovereignty was not consulted, but exercised, and asked to suspend the referendum in order to form a national team to file a claim at the International Court of Justice (ICJ). Guaidó stated that \"Sovereignty, like rights, are exercised and defended. You do not consult them, you do not beg for them\", Through a public statement, Justice First condemned the intention to \"politically instrumentalize a matter that corresponds to national sovereignty\",",
+                  "references": [
+                    {
+                      "text": "<ref name=\":5\">{{Cite web |date=2023-11-13 |title=Oposición de Venezuela llama a los ciudadanos a decidir \"libremente\" sobre preguntas del referendo sobre el Esequibo |url=https://www.vozdeamerica.com/a/oposicion-de-venezuela-llama-a-los-ciudadanos-a-pronunciarse-libremente-en-el-referendo-sobre-el-esequibo/7353020.html |url-status=live |archive-url=https://web.archive.org/web/20231115181119/https://www.vozdeamerica.com/a/oposicion-de-venezuela-llama-a-los-ciudadanos-a-pronunciarse-libremente-en-el-referendo-sobre-el-esequibo/7353020.html |archive-date=15 November 2023 |access-date=2023-12-04 |website=Voz de América |language=es}}</ref>",
+                      "url": "https://www.vozdeamerica.com/a/oposicion-de-venezuela-llama-a-los-ciudadanos-a-pronunciarse-libremente-en-el-referendo-sobre-el-esequibo/7353020.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":22\">{{cite web|access-date=2023-12-12|date=2023-11-10|title=Guaidó sobre el referéndum sobre el Esequibo: \"La soberanía, como los derechos, se ejercen y se defienden. No los consultas, no los mendigas\"|url=https://albertonews.com/nacionales/guaido-sobre-el-referendum-sobre-el-esequibo-la-soberania-como-los-derechos-se-ejercen-y-se-defienden-no-los-consultas-no-los-mendigas/|website=Alberto News|archive-date=14 December 2023|archive-url=https://web.archive.org/web/20231214092213/https://albertonews.com/nacionales/guaido-sobre-el-referendum-sobre-el-esequibo-la-soberania-como-los-derechos-se-ejercen-y-se-defienden-no-los-consultas-no-los-mendigas/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://albertonews.com/nacionales/guaido-sobre-el-referendum-sobre-el-esequibo-la-soberania-como-los-derechos-se-ejercen-y-se-defienden-no-los-consultas-no-los-mendigas/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":32\">{{cite web|access-date=2023-12-12|date=2023-12-04|first=Dayana|last=Prieto|title=Leopoldo López: \"El referéndum fue un rotundo fracaso\"|url=https://evtv.online/destacados/el-citizen-leopoldo-lopez-si-se-comparan-las-primarias-con-el-referendum-uno-fue-un-rotundo-exito-y-el-otro-un-fracaso-del-poder-el-estado/|website=EVTV|archive-date=14 December 2023|archive-url=https://web.archive.org/web/20231214092220/https://evtv.online/destacados/el-citizen-leopoldo-lopez-si-se-comparan-las-primarias-con-el-referendum-uno-fue-un-rotundo-exito-y-el-otro-un-fracaso-del-poder-el-estado/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://evtv.online/destacados/el-citizen-leopoldo-lopez-si-se-comparan-las-primarias-con-el-referendum-uno-fue-un-rotundo-exito-y-el-otro-un-fracaso-del-poder-el-estado/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":9\">{{cite web|access-date=2023-12-12|date=2023-12-05|first=Martín|last=Higueras|title=Maduro busca olvidar sus problemas en Venezuela elevando la tensión con Guyana|url=https://www.libertaddigital.com/internacional/latinoamerica/2023-12-05/maduro-busca-olvidar-sus-problemas-en-venezuela-elevando-la-tension-con-guyana-7076741/|website=Libertad Digital|archive-date=6 December 2023|archive-url=https://web.archive.org/web/20231206143534/https://www.libertaddigital.com/internacional/latinoamerica/2023-12-05/maduro-busca-olvidar-sus-problemas-en-venezuela-elevando-la-tension-con-guyana-7076741/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://www.libertaddigital.com/internacional/latinoamerica/2023-12-05/maduro-busca-olvidar-sus-problemas-en-venezuela-elevando-la-tension-con-guyana-7076741/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |date=2023-11-22 |title=Venezuela: María Corina Machado dice que el referendo por el Esequibo es un \"error\" y considera que \"debe suspenderse\" |url=https://www.vozdeamerica.com/a/venezuela-maria-corina-machado-dice-que-el-referendo-por-el-esequibo-es-un-error-y-considera-que-debe-suspenderse-/7365933.html |url-status=live |archive-url=https://web.archive.org/web/20231125015641/https://www.vozdeamerica.com/a/venezuela-maria-corina-machado-dice-que-el-referendo-por-el-esequibo-es-un-error-y-considera-que-debe-suspenderse-/7365933.html |archive-date=25 November 2023 |access-date=3 December 2023 |website=Voz de América}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://www.vozdeamerica.com/a/venezuela-maria-corina-machado-dice-que-el-referendo-por-el-esequibo-es-un-error-y-considera-que-debe-suspenderse-/7365933.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":22\" /> while López said that \"The referendum was a failure for the dictatorship\".<ref name=\":32\" />  Juan Pablo Guanipa, politician of the Justice First party, also rejected the referendum, declaring \"it is a referendum that they organize for everything, except to defend\".<ref>{{cite web |date=2023-12-03 |title=Juan Pablo Guanipa rechazó la consulta del Esequibo: \"es un referendo que hacen para todo, menos para defender\" – Monitoreamos |url=https://monitoreamos.com/venezuela/juan-pablo-guanipa-rechazo-la-consulta-del-esequibo-es-un-referendo-que-hacen-para-todo-menos-para-defender |url-status=live |archive-url=https://web.archive.org/web/20231204153450/https://monitoreamos.com/venezuela/juan-pablo-guanipa-rechazo-la-consulta-del-esequibo-es-un-referendo-que-hacen-para-todo-menos-para-defender |archive-date=4 December 2023 |access-date=4 December 2023 |website=Monitoreamos}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://monitoreamos.com/venezuela/juan-pablo-guanipa-rechazo-la-consulta-del-esequibo-es-un-referendo-que-hacen-para-todo-menos-para-defender",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |date=2 December 2023 |title=Juan Pablo Guanipa afirma que el referendo es \"para todo, menos para defender el Esequibo\" |periodical=El Nacional (Venezuela)|El Nacional |url=https://www.elnacional.com/venezuela/juan-pablo-guanipa-afirma-que-el-referendo-es-para-todo-menos-para-defender |access-date=3 December 2023}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://www.elnacional.com/venezuela/juan-pablo-guanipa-afirma-que-el-referendo-es-para-todo-menos-para-defender",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":9\" /> and a statement published by Popular Will read: \"The territorial integrity of a country must be defined by means of the exercise of the State's authority and backed by the legitimacy granted by international laws and historical tradition\", besides denouncing that public employees were being forced to vote in the referendum.<ref>{{cite web|access-date=2023-12-12|date=2023-12-01|title=VP rechaza referendo Esequibo y denuncia que empleados públicos son obligados a votar|url=https://noticierodigital.com/2023/12/vp-rechaza-referendo-esequibo-y-denuncia-que-empleados-publicos-son-obligados-a-votar/|website=Noticiero Digital|archive-date=14 December 2023|archive-url=https://web.archive.org/web/20231214092216/https://noticierodigital.com/2023/12/vp-rechaza-referendo-esequibo-y-denuncia-que-empleados-publicos-son-obligados-a-votar/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://noticierodigital.com/2023/12/vp-rechaza-referendo-esequibo-y-denuncia-que-empleados-publicos-son-obligados-a-votar/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.2.s3",
+                  "text": "On the other hand, Democratic Action (Venezuela)|Democratic Action politician, {{ill|Carlos Prosperi|es}}, declared that he would participate in the referendum, inviting to participate in it. Henrique Capriles, former presidential candidate (2012 and 2013) and from Justice First, also announced that he would participate in the process, although he rejected its politicization. Manuel Rosales, also a former presidential candidate (2006), also called to vote in the referendum. The Venezuelan government accused the opposition of calling to boycotting the referendum and of violating Negotiations during the Venezuelan crisis|agreements signed in Barbados, which included the ratification of Venezuela's \"historical, sovereign and inalienable rights\" over the Essequibo territory.<ref name=\":5\" />",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|access-date=2023-12-03|date=2023-11-27|title=Carlos Prosperi reaparece en redes para apoyar el referendo sobre el Esequibo|url=https://talcualdigital.com/carlos-prosperi-reaparece-en-redes-para-apoyar-el-referendo-sobre-el-esequibo/|website=Tal Cual (Venezuela)|Tal Cual|archive-date=28 November 2023|archive-url=https://web.archive.org/web/20231128150809/https://talcualdigital.com/carlos-prosperi-reaparece-en-redes-para-apoyar-el-referendo-sobre-el-esequibo/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://talcualdigital.com/carlos-prosperi-reaparece-en-redes-para-apoyar-el-referendo-sobre-el-esequibo/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|access-date=2023-12-03|date=2023-11-29|last=TalCual|title=Capriles aseguró que votar en el referendo sobre el Esequibo no es apoyar a Maduro|url=https://talcualdigital.com/capriles-aseguro-que-votar-en-el-referendo-sobre-el-esequibo-no-es-apoyar-a-maduro/|website=Tal Cual (Venezuela)|Tal Cual|archive-date=30 November 2023|archive-url=https://web.archive.org/web/20231130045024/https://talcualdigital.com/capriles-aseguro-que-votar-en-el-referendo-sobre-el-esequibo-no-es-apoyar-a-maduro/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://talcualdigital.com/capriles-aseguro-que-votar-en-el-referendo-sobre-el-esequibo-no-es-apoyar-a-maduro/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|date=29 November 2023|title=Capriles participará en la consulta sobre el Esequibo: \"Esto no se trata de Maduro\"|url=https://www.elnacional.com/venezuela/capriles-participara-en-la-consulta-sobre-el-esequibo-esto-no-se-trata-de-maduro/|website=El Nacional (Venezuela)|El Nacional|access-date=3 December 2023|archive-date=29 November 2023|archive-url=https://web.archive.org/web/20231129220307/https://www.elnacional.com/venezuela/capriles-participara-en-la-consulta-sobre-el-esequibo-esto-no-se-trata-de-maduro/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://www.elnacional.com/venezuela/capriles-participara-en-la-consulta-sobre-el-esequibo-esto-no-se-trata-de-maduro/",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|title=Manuel Rosales llama a votar en el referendo sobre el Esequibo|url=https://eltiempove.com/manuel-rosales-llama-a-votar-en-el-referendo-sobre-el-esequibo/|website=29 de noviembre de 2023|access-date=3 December 2023|archive-date=3 December 2023|archive-url=https://web.archive.org/web/20231203200042/https://eltiempove.com/manuel-rosales-llama-a-votar-en-el-referendo-sobre-el-esequibo/|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://eltiempove.com/manuel-rosales-llama-a-votar-en-el-referendo-sobre-el-esequibo/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.2.s4",
+                  "text": "The Communist Party of Venezuela (PCV), one of the parties Interventions of political parties in Venezuela|banned by the Maduro government, described the referendum as the \"old strategy of the bourgeoisie [that tries] to instill patriotic and chauvinist feelings in a good part of the population (...) making people believe that in our country there is no more important problem to solve\", which would serve the State to suspend the 2024 Venezuelan presidential election|2024 presidential elections.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news|access-date=29 November 2023|date=28 November 2023|title=PCV se pronunció ante el referendo consultivo sobre el territorio Esequibo|url=https://www.aporrea.org/actualidad/n388252.html|work=Aporrea|archive-date=28 November 2023|archive-url=https://web.archive.org/web/20231128215411/https://www.aporrea.org/actualidad/n388252.html|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://www.aporrea.org/actualidad/n388252.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "6.2.s5",
+                  "text": "Former Chavista officials Andrés Izarra and Rafael Ramírez (politician)|Rafael Ramírez considered the referendum a failure. Ramírez described the process as \"a thunderous failure\",",
+                  "references": [
+                    {
+                      "text": "<ref name=\":0\">{{cite news|date=3 December 2023|periodical=El Nacional (Venezuela)|El Nacional|title=Andrés Izarra y Rafael Ramírez fustigaron al referendo: \"es un estruendoso fracaso\"|url=https://www.elnacional.com/venezuela/andres-izarra-y-rafael-ramirez-fustigaron-al-referendo-es-un-estruendoso-fracaso/}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://www.elnacional.com/venezuela/andres-izarra-y-rafael-ramirez-fustigaron-al-referendo-es-un-estruendoso-fracaso/}}<!--",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\":1\">{{cite web|date=3 December 2023|title=Rafael Ramírez aseguró que el referendo del Esequibo es \"un estruendoso fracaso del madurismo\" – Monitoreamos|url=https://monitoreamos.com/venezuela/rafael-ramirez-aseguro-que-el-referendo-del-esequibo-es-un-estruendoso-fracaso-del-madurismo|website=Monitoreamos|access-date=4 December 2023|archive-date=4 December 2023|archive-url=https://web.archive.org/web/20231204153446/https://monitoreamos.com/venezuela/rafael-ramirez-aseguro-que-el-referendo-del-esequibo-es-un-estruendoso-fracaso-del-madurismo|url-status=live}}<!-- auto-translated by Module:CS1 translator --></ref>",
+                      "url": "https://monitoreamos.com/venezuela/rafael-ramirez-aseguro-que-el-referendo-del-esequibo-es-un-estruendoso-fracaso-del-madurismo",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=\":1\" /> while Izarra pointed out that pre-referendum polls estimated a turnout of approximately 20%, a figure that Izarra said was an overestimate.<ref name=\":0\" /> After the referendum, Venezuelan political scientist {{interlanguage link|Nicmer Evans|es}} declared that the figures caused \"irreparable damage\" to the credibility of the Electoral Power, the National Electoral Council (Venezuela)|National Electoral Council.<ref>{{Cite web |date=2023-12-04 |title=Poder Electoral aclara que más de 10 millones de personas participaron en referendo sobre el Esequibo |url=https://www.vozdeamerica.com/a/poder-electoral-venezuela-aclara-que-mas-de-10-millones-de-personas-participaron-en-el-referendo-sobre-el-esequibo/7383680.html |access-date=2023-12-05 |website=Voz de América |language=es |archive-date=5 December 2023 |archive-url=https://web.archive.org/web/20231205172412/https://www.vozdeamerica.com/a/poder-electoral-venezuela-aclara-que-mas-de-10-millones-de-personas-participaron-en-el-referendo-sobre-el-esequibo/7383680.html |url-status=live }}</ref>",
+                      "url": "https://www.vozdeamerica.com/a/poder-electoral-venezuela-aclara-que-mas-de-10-millones-de-personas-participaron-en-el-referendo-sobre-el-esequibo/7383680.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

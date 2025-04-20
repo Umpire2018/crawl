@@ -14,7 +14,7 @@
                 {
                   "text": "<ref name=\"eluniverso\">{{cite web |date=6 April 2024 |title=Policía saca a Jorge Glas de la Embajada de México en Quito |trans-title=Police remove Jorge Glas from the Mexican Embassy in Quito |url=https://www.eluniverso.com/noticias/politica/policia-saca-a-jorge-glas-de-la-embajada-de-mexico-en-quito-nota/ |access-date=6 April 2024 |website=El Universo |language=es |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406043842/https://www.eluniverso.com/noticias/politica/policia-saca-a-jorge-glas-de-la-embajada-de-mexico-en-quito-nota/ |url-status=live}}</ref>",
                   "url": "https://www.eluniverso.com/noticias/politica/policia-saca-a-jorge-glas-de-la-embajada-de-mexico-en-quito-nota/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -26,22 +26,22 @@
               "references": [
                 {
                   "text": "<ref name=\"cnn\">{{cite web |last1=Gutiérrez |first1=Fidel |last2=Chen |first2=Heather |last3=Shortell |first3=David |date=6 April 2024 |title='Outrage against international law': Mexico breaks diplomatic ties with Ecuador over embassy raid |url=https://www.cnn.com/2024/04/06/americas/ecuador-vice-president-arrest-mexico-embassy-diplomatic-tensions-intl-hnk/index.html |url-status=live |archive-url=https://web.archive.org/web/20240407193744/https://www.cnn.com/2024/04/06/americas/ecuador-vice-president-arrest-mexico-embassy-diplomatic-tensions-intl-hnk/index.html |archive-date=7 April 2024 |access-date=6 April 2024 |website=CNN}}</ref>",
-                  "url": "https://www.cnn.com/2024/04/06/americas/ecuador-vice-president-arrest-mexico-embassy-diplomatic-tensions-intl-hnk/index.html",
-                  "status_code": null,
+                  "url": "https://edition.cnn.com/2024/04/06/americas/ecuador-vice-president-arrest-mexico-embassy-diplomatic-tensions-intl-hnk/index.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"cnn\"/><ref>{{Cite web |date=6 April 2024 |title=Nicaragua kutter forbindelsen med Ecuador etter omstridt ambassadeaksjon |trans-title=Nicaragua cuts ties with Ecuador after disputed embassy action |url=https://www.adressa.no/nyheter/utenriks/i/769MMB/nicaragua-kutter-forbindelsen-med-ecuador-etter-omstridt-ambassadeaksjon |access-date=7 April 2024 |website=Adresseavisen |language=no |archive-date=7 April 2024 |archive-url=https://web.archive.org/web/20240407044405/https://www.adressa.no/nyheter/utenriks/i/769MMB/nicaragua-kutter-forbindelsen-med-ecuador-etter-omstridt-ambassadeaksjon |url-status=live}}</ref>",
                   "url": "https://www.adressa.no/nyheter/utenriks/i/769MMB/nicaragua-kutter-forbindelsen-med-ecuador-etter-omstridt-ambassadeaksjon",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=16 April 2024 |title=Venezuela closes embassy in Ecuador to protest raid on Mexican embassy in Quito |url=https://www.nbcnews.com/news/latino/venezuela-closes-embassy-ecuador-protest-raid-mexican-embassy-quito-rcna147427 |access-date=16 April 2024 |website=NBC News |language=en |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416232224/https://www.nbcnews.com/news/latino/venezuela-closes-embassy-ecuador-protest-raid-mexican-embassy-quito-rcna147427 |url-status=live }}</ref>",
                   "url": "https://www.nbcnews.com/news/latino/venezuela-closes-embassy-ecuador-protest-raid-mexican-embassy-quito-rcna147427",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -64,28 +64,28 @@
                 {
                   "text": "<ref>{{Cite web |last=Mella |first=Carolina |date=1 March 2024 |title=La Cancillería de Ecuador pide entrar en la Embajada de México para capturar al ex vicepresidente Jorge Glas |trans-title=The Ecuadorian Foreign Ministry requests entry to the Mexican Embassy to capture ex-vice president Jorge Glas |url=https://elpais.com/america/2024-03-01/la-cancilleria-de-ecuador-pide-entrar-en-la-embajada-de-mexico-para-capturar-a-jorge-glas.html |access-date=6 April 2024 |website=El País América |language=es |archive-date=17 March 2024 |archive-url=https://web.archive.org/web/20240317101100/https://elpais.com/america/2024-03-01/la-cancilleria-de-ecuador-pide-entrar-en-la-embajada-de-mexico-para-capturar-a-jorge-glas.html |url-status=live}}</ref>",
                   "url": "https://elpais.com/america/2024-03-01/la-cancilleria-de-ecuador-pide-entrar-en-la-embajada-de-mexico-para-capturar-a-jorge-glas.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=6 April 2024 |title=Quién es Jorge Glas, el exvicepresidente en el centro de la ruptura diplomática de México con su país |trans-title=Jorge Glas, the ex-vice president of Ecuador at the center of Mexico's diplomatic rupture with his country |url=https://www.bbc.com/mundo/articles/crg4gjnp22eo |access-date=6 April 2024 |website=BBC News Mundo |language=es |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406134625/https://www.bbc.com/mundo/articles/crg4gjnp22eo |url-status=live}}</ref>",
                   "url": "https://www.bbc.com/mundo/articles/crg4gjnp22eo",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Valencia |first=Alexandra |date=22 December 2023 |title=Former Ecuador VP asks for asylum in Mexico -lawyer |url=https://www.reuters.com/world/americas/former-ecuador-vp-asks-asylum-mexico-lawyer-2023-12-22/ |url-access=registration |access-date=6 April 2024 |website=Reuters}}</ref>",
                   "url": "https://www.reuters.com/world/americas/former-ecuador-vp-asks-asylum-mexico-lawyer-2023-12-22/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://elpais.com/america/2024-03-01/la-cancilleria-de-ecuador-pide-entrar-en-la-embajada-de-mexico-para-capturar-a-jorge-glas.html|title=La Cancillería de Ecuador pide entrar en la Embajada de México para capturar al ex vicepresidente Jorge Glas|access-date=6 April 2024|last=Mella|first=Carolina|date=1 March 2024|work=El País América|language=es|archive-date=17 March 2024|archive-url=https://web.archive.org/web/20240317101100/https://elpais.com/america/2024-03-01/la-cancilleria-de-ecuador-pide-entrar-en-la-embajada-de-mexico-para-capturar-a-jorge-glas.html|url-status=live}}</ref>",
                   "url": "https://elpais.com/america/2024-03-01/la-cancilleria-de-ecuador-pide-entrar-en-la-embajada-de-mexico-para-capturar-a-jorge-glas.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -98,21 +98,21 @@
                 {
                   "text": "<ref>{{Cite web|url=https://www.extra.ec/noticia/actualidad/jorge-glas-cancilleria-confirma-solicito-ingreso-embajada-mexico-detenerlo-100342.html|title=Jorge Glas: Cancillería confirma que solicitó ingreso a Embajada de México para detenerlo|access-date=23 April 2024|work=Diario Extra|language=es|archive-date=23 April 2024|archive-url=https://web.archive.org/web/20240423213350/https://www.extra.ec/noticia/actualidad/jorge-glas-cancilleria-confirma-solicito-ingreso-embajada-mexico-detenerlo-100342.html|url-status=live}}</ref>",
                   "url": "https://www.extra.ec/noticia/actualidad/jorge-glas-cancilleria-confirma-solicito-ingreso-embajada-mexico-detenerlo-100342.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://www.extra.ec/noticia/actualidad/jorge-glas-cancilleria-confirma-solicito-ingreso-embajada-mexico-detenerlo-100342.html|title=Jorge Glas: Cancillería confirma que solicitó ingreso a Embajada de México para detenerlo|access-date=23 April 2024|work=Diario Extra|language=es|archive-date=23 April 2024|archive-url=https://web.archive.org/web/20240423213350/https://www.extra.ec/noticia/actualidad/jorge-glas-cancilleria-confirma-solicito-ingreso-embajada-mexico-detenerlo-100342.html|url-status=live}}</ref>",
                   "url": "https://www.extra.ec/noticia/actualidad/jorge-glas-cancilleria-confirma-solicito-ingreso-embajada-mexico-detenerlo-100342.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=primicias/> implying the assassination had affected the election results.<ref>{{Cite web|url=https://www.aljazeera.com/news/2024/4/5/amid-diplomatic-spat-mexico-grants-former-ecuadorian-vice-president-asylum|title=Amid diplomatic spat, Mexico grants former Ecuadorian vice president asylum|website=Al Jazeera|access-date=7 April 2024|archive-date=6 April 2024|archive-url=https://web.archive.org/web/20240406212849/https://www.aljazeera.com/news/2024/4/5/amid-diplomatic-spat-mexico-grants-former-ecuadorian-vice-president-asylum|url-status=live}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/4/5/amid-diplomatic-spat-mexico-grants-former-ecuadorian-vice-president-asylum",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -125,35 +125,35 @@
                 {
                   "text": "<ref name=\"primicias\">{{Cite web |date=4 April 2024 |title=Esto fue lo que dijo el presidente López Obrador que molestó a Daniel Noboa |trans-title=This is what President López Obrador said that annoyed Daniel Noboa |url=https://www.primicias.ec/noticias/politica/lopez-obrador-daniel-noboa-declaraciones-mexico-ecuador/ |access-date=6 April 2024 |website=Primicias |language=es |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406045110/https://www.primicias.ec/noticias/politica/lopez-obrador-daniel-noboa-declaraciones-mexico-ecuador/ |url-status=live}}</ref>",
                   "url": "https://www.primicias.ec/noticias/politica/lopez-obrador-daniel-noboa-declaraciones-mexico-ecuador/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last= |first= |date=4 April 2024 |title=Ecuador declara persona 'non grata' a embajadora de México tras declaración de AMLO |trans-title=Ecuador declares Mexico's ambassador persona non grata after AMLO's statement |url=https://www.forbes.com.mx/ecuador-declara-persona-non-grata-a-embajadora-de-mexico/ |access-date=6 April 2024 |website=Forbes México |language=es |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406014125/https://www.forbes.com.mx/ecuador-declara-persona-non-grata-a-embajadora-de-mexico/ |url-status=live}}</ref>",
                   "url": "https://www.forbes.com.mx/ecuador-declara-persona-non-grata-a-embajadora-de-mexico/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"DW1\">{{Cite web |date=5 April 2024 |title=México concede asilo político a exvicepresidente ecuatoriano |trans-title=Mexico grants political asylum to Ecuadorian ex-vice president |url=https://www.dw.com/es/m%C3%A9xico-concede-asilo-pol%C3%ADtico-a-exvicepresidente-ecuatoriano-acusado-de-corrupci%C3%B3n/a-68754381 |access-date=6 April 2024 |website=DW Español |language=es |archive-date=5 April 2024 |archive-url=https://web.archive.org/web/20240405235426/https://www.dw.com/es/m%C3%A9xico-concede-asilo-pol%C3%ADtico-a-exvicepresidente-ecuatoriano-acusado-de-corrupci%C3%B3n/a-68754381 |url-status=live}}</ref>",
                   "url": "https://www.dw.com/es/m%C3%A9xico-concede-asilo-pol%C3%ADtico-a-exvicepresidente-ecuatoriano-acusado-de-corrupci%C3%B3n/a-68754381",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=5 April 2024 |title=AMLO: México suspende relaciones diplomáticas con Ecuador tras ingreso a embajada en Quito |trans-title=AMLO: Mexico suspends diplomatic relations with Ecuador after raid on embassy in Quito |url=https://www.eluniverso.com/noticias/internacional/mexico-suspende-relaciones-diplomaticas-con-ecuador-tras-ingreso-a-embajada-en-quito-nota/ |access-date=6 April 2024 |website=El Universo |language=es |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406054209/https://www.eluniverso.com/noticias/internacional/mexico-suspende-relaciones-diplomaticas-con-ecuador-tras-ingreso-a-embajada-en-quito-nota/ |url-status=live}}</ref>",
                   "url": "https://www.eluniverso.com/noticias/internacional/mexico-suspende-relaciones-diplomaticas-con-ecuador-tras-ingreso-a-embajada-en-quito-nota/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Vélez |first=Roger |date=6 April 2024 |title=México rompe relaciones diplomáticas con Ecuador, tras irrupción policial en Embajada |trans-title=Mexico breaks diplomatic relations with Ecuador after police raid on the Embassy |url=https://www.primicias.ec/noticias/politica/mexico-policia-ecuador-roberto-canseco-embajada/ |access-date=6 April 2024 |website=Primicias |language=es |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406045205/https://www.primicias.ec/noticias/politica/mexico-policia-ecuador-roberto-canseco-embajada/ |url-status=live}}</ref>",
                   "url": "https://www.primicias.ec/noticias/politica/mexico-policia-ecuador-roberto-canseco-embajada/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -176,21 +176,21 @@
                 {
                   "text": "<ref name=\"La Hora\">{{cite news |date=5 April 2024 |title=Jorge Glas es capturado por la Policía dentro de la Embajada de México, en Quito |trans-title=Jorge Glas is captured by the Police inside the Mexican Embassy in Quito |url=https://www.lahora.com.ec/pais/policia-jorge-glas-mexico-captura/ |access-date=7 April 2024 |work=La Hora |language=es |archive-date=7 April 2024 |archive-url=https://web.archive.org/web/20240407012103/https://www.lahora.com.ec/pais/policia-jorge-glas-mexico-captura/ |url-status=live}}</ref>",
                   "url": "https://www.lahora.com.ec/pais/policia-jorge-glas-mexico-captura/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |title=Mexico withdraws diplomats from its embassy in Ecuador after raid |url=https://www.aljazeera.com/news/2024/4/7/mexico-withdraws-diplomats-from-its-embassy-in-ecuador-after-raid |access-date=8 April 2024 |website=Al Jazeera |language=en |archive-date=7 April 2024 |archive-url=https://web.archive.org/web/20240407200814/https://www.aljazeera.com/news/2024/4/7/mexico-withdraws-diplomats-from-its-embassy-in-ecuador-after-raid |url-status=live}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/4/7/mexico-withdraws-diplomats-from-its-embassy-in-ecuador-after-raid",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"ap\">{{cite web |date=6 April 2024 |title=Mexico severs diplomatic ties with Ecuador after police storm its embassy to arrest politician |url=https://apnews.com/article/mexico-ecuador-diplomatic-crisis-de5aa3a638b54fdfa3474c8ee25ca57e |access-date=7 April 2024 |work=AP News|first1=Regina |last1=Garcia Cano|first2=Gabriela|last2=Molina |language=en |archive-date=7 April 2024 |archive-url=https://web.archive.org/web/20240407003623/https://apnews.com/article/mexico-ecuador-diplomatic-crisis-de5aa3a638b54fdfa3474c8ee25ca57e |url-status=live}}</ref>",
                   "url": "https://apnews.com/article/mexico-ecuador-diplomatic-crisis-de5aa3a638b54fdfa3474c8ee25ca57e",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -203,7 +203,7 @@
                 {
                   "text": "<ref>{{cite news |last1=López-Castro |first1=Fernanda |date=6 April 2024 |title=Él es Roberto Canseco, el jefe de Cancillería sometido por la policía que defendió la embajada de México en Ecuador |trans-title=Roberto Canseco, the head of the Foreign Ministry subdued by the police who defended the Mexican embassy in Ecuador |url=https://www.infobae.com/mexico/2024/04/06/el-es-roberto-canseco-el-jefe-de-cancilleria-agredido-por-la-policia-que-defendio-la-embajada-de-mexico-en-ecuador/ |access-date=9 April 2024 |work=Infobae |language=es |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409042652/https://www.infobae.com/mexico/2024/04/06/el-es-roberto-canseco-el-jefe-de-cancilleria-agredido-por-la-policia-que-defendio-la-embajada-de-mexico-en-ecuador/ |url-status=live}}</ref>",
                   "url": "https://www.infobae.com/mexico/2024/04/06/el-es-roberto-canseco-el-jefe-de-cancilleria-agredido-por-la-policia-que-defendio-la-embajada-de-mexico-en-ecuador/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -230,7 +230,7 @@
                     {
                       "text": "<ref>{{cite web |date=9 April 2024 |title=Ecuadorians wanted an action man. President Noboa has fulfilled that role — embassy raid included |url=https://apnews.com/article/ecuador-mexico-embassy-raid-crime-noboa-voters-0abd04431a9ac83d561bcfdc4a8557bd |access-date=9 April 2024 |work=AP News|first1=Regina |last1=Garcia Cano|first2=Gabriela|last2=Molina |archive-date=8 April 2024 |archive-url=https://web.archive.org/web/20240408232914/https://apnews.com/article/ecuador-mexico-embassy-raid-crime-noboa-voters-0abd04431a9ac83d561bcfdc4a8557bd |url-status=live}}</ref>",
                       "url": "https://apnews.com/article/ecuador-mexico-embassy-raid-crime-noboa-voters-0abd04431a9ac83d561bcfdc4a8557bd",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -253,7 +253,7 @@
                     {
                       "text": "<ref name=\"ap\"/> After the news spread of the raid, on the same day, President López Obrador announced on Twitter|X (Twitter) the severing of all diplomatic relations with Ecuador. Mexico also announced plans to take Ecuador to the International Court of Justice for violations of international law.<ref>{{cite web |date=6 April 2024 |title=México rompe relaciones con Ecuador tras irrupción policial en Embajada mexicana en Quito |trans-title=Mexico breaks relations with Ecuador after police raid on the Mexican Embassy in Quito |url=https://spanish.news.cn/20240406/2a4d574073bc49769ff3a98d884b3d23/c.html |access-date=6 April 2024 |website=Xinhua Español |language=es |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406060614/http://spanish.news.cn/20240406/2a4d574073bc49769ff3a98d884b3d23/c.html |url-status=live}}</ref>",
                       "url": "https://spanish.news.cn/20240406/2a4d574073bc49769ff3a98d884b3d23/c.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -266,7 +266,7 @@
                     {
                       "text": "<ref name=\"aj2\">{{cite news |date=10 April 2024 |title=Mexico releases footage of Ecuador police storming its embassy in Quito |url=https://www.aljazeera.com/news/2024/4/9/mexico-releases-footage-of-ecuador-police-storming-its-embassy-in-quito |access-date=10 April 2024 |work=Al Jazeera |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409225522/https://www.aljazeera.com/news/2024/4/9/mexico-releases-footage-of-ecuador-police-storming-its-embassy-in-quito |url-status=live}}</ref>",
                       "url": "https://www.aljazeera.com/news/2024/4/9/mexico-releases-footage-of-ecuador-police-storming-its-embassy-in-quito",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -290,8 +290,8 @@
               "references": [
                 {
                   "text": "<ref name=\"gt\">{{cite news |date=7 May 2024 |title=Gesto de Alicia Bárcena causa tenso momento con canciller de Ecuador |url=https://www.elsoldemexico.com.mx/mexico/politica/gesto-de-alicia-barcena-causa-tenso-momento-con-canciller-de-ecuador-11881033.html |access-date=27 May 2024 |work=El Sol de México |language=es |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527175002/https://www.elsoldemexico.com.mx/mexico/politica/gesto-de-alicia-barcena-causa-tenso-momento-con-canciller-de-ecuador-11881033.html |url-status=live }}</ref>",
-                  "url": "https://www.elsoldemexico.com.mx/mexico/politica/gesto-de-alicia-barcena-causa-tenso-momento-con-canciller-de-ecuador-11881033.html",
-                  "status_code": null,
+                  "url": "https://oem.com.mx/elsoldemexico/mexico/gesto-de-alicia-barcena-causa-tenso-momento-con-canciller-de-ecuador-13123795",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -304,21 +304,21 @@
                 {
                   "text": "<ref name=\"aljazeera\">{{cite news |date=9 April 2024 |title=Ecuador ex-VP Jorge Glas hospitalised after capture from Mexico embassy |url=https://www.aljazeera.com/news/2024/4/9/ecuador-ex-vp-jorge-glas-hospitalised-after-capture-from-mexico-embassy |access-date=9 April 2024 |work=Al Jazeera |language=en |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409092005/https://www.aljazeera.com/news/2024/4/9/ecuador-ex-vp-jorge-glas-hospitalised-after-capture-from-mexico-embassy |url-status=live}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/4/9/ecuador-ex-vp-jorge-glas-hospitalised-after-capture-from-mexico-embassy",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"aj2\"/> but began a hunger strike on 10 April.<ref>{{cite news |date=11 April 2024 |title=Ecuador's former vice president goes on hunger strike in prison, as fallout over raid on Mexican embassy grows |url=https://edition.cnn.com/2024/04/10/americas/ecuador-jorge-glas-hunger-strike-intl-latam/index.html?iid=cnn_buildContentRecirc_end_recirc |access-date=14 April 2024 |work=CNN |language=en}}</ref>",
                   "url": "https://edition.cnn.com/2024/04/10/americas/ecuador-jorge-glas-hunger-strike-intl-latam/index.html?iid=cnn_buildContentRecirc_end_recirc",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=12 April 2024 |title=Ecuadorian tribunal deems arrest of former Vice President Glas illegal |url=https://www.aljazeera.com/news/2024/4/13/ecuadorian-tribunal-deems-arrest-of-former-vice-president-glas-illegal |access-date=13 April 2024 |work=Al Jazeera |language=en |archive-date=13 April 2024 |archive-url=https://web.archive.org/web/20240413020711/https://www.aljazeera.com/news/2024/4/13/ecuadorian-tribunal-deems-arrest-of-former-vice-president-glas-illegal |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/4/13/ecuadorian-tribunal-deems-arrest-of-former-vice-president-glas-illegal",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -331,21 +331,21 @@
                 {
                   "text": "<ref>{{cite news |last=Meléndez |first=José |date=8 April 2024 |title=Ecuador y Colombia convocan a sesiones urgentes de la OEA tras irrupción a embajada de México en Quito |trans-title=Ecuador and Colombia call urgent meetings of the OAS after raid on the Mexican embassy in Quito |url=https://www.eluniversal.com.mx/mundo/a-solicitud-del-gobierno-de-noboa-oea-debatira-el-martes-el-conflicto-mexico-ecuador/ |access-date=8 April 2024 |work=El Universal |language=es |archive-date=8 April 2024 |archive-url=https://web.archive.org/web/20240408000615/https://www.eluniversal.com.mx/mundo/a-solicitud-del-gobierno-de-noboa-oea-debatira-el-martes-el-conflicto-mexico-ecuador/ |url-status=live}}</ref>",
                   "url": "https://www.eluniversal.com.mx/mundo/a-solicitud-del-gobierno-de-noboa-oea-debatira-el-martes-el-conflicto-mexico-ecuador/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"CNN01\">{{cite news |date=10 April 2024 |title=OEA condena la intrusión en la Embajada de México en Ecuador |trans-title=OAS condemns the intrusion into the Mexican Embassy in Ecuador |url=https://cnnespanol.cnn.com/2024/04/10/oea-condena-intrusion-embajada-mexico-ecuador-orix/ |url-status=live |archive-url=https://web.archive.org/web/20240411143329/https://cnnespanol.cnn.com/2024/04/10/oea-condena-intrusion-embajada-mexico-ecuador-orix/ |archive-date=11 April 2024 |access-date=10 April 2024 |work=CNN Español |language=es}}</ref>",
                   "url": "https://cnnespanol.cnn.com/2024/04/10/oea-condena-intrusion-embajada-mexico-ecuador-orix/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |date=10 April 2024 |title=CP/RES. 1253 (2494/24): The Intrusion of the Ecuadorian Police into the Embassy of Mexico in Violation of the Vienna Convention on Diplomatic Relations, and the Institution of Diplomatic Asylum |url=http://scm.oas.org/doc_public/english/hist_24/CP49532E03.docx |url-status=live |archive-url=https://web.archive.org/web/20240411142908/http://scm.oas.org/doc_public/english/hist_24/CP49532E03.docx |archive-date=11 April 2024 |access-date=10 April 2024 |website=Organization of American States}}</ref>",
                   "url": "http://scm.oas.org/doc_public/english/hist_24/CP49532E03.docx",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -358,7 +358,7 @@
                 {
                   "text": "<ref>{{cite news |last1=Zerega |first1=Georgina |last2=Vidal Liy |first2=Macarena |title=Mexico seeks regional support for ICJ lawsuit against Ecuador over Jorge Glas embassy raid |url=https://english.elpais.com/international/2024-04-10/mexico-seeks-regional-support-for-icj-lawsuit-against-ecuador-over-jorge-glas-embassy-raid.html |access-date=10 April 2024 |newspaper=El País |date=10 April 2024 |archive-date=10 April 2024 |archive-url=https://web.archive.org/web/20240410122448/https://english.elpais.com/international/2024-04-10/mexico-seeks-regional-support-for-icj-lawsuit-against-ecuador-over-jorge-glas-embassy-raid.html |url-status=live }}</ref>",
                   "url": "https://english.elpais.com/international/2024-04-10/mexico-seeks-regional-support-for-icj-lawsuit-against-ecuador-over-jorge-glas-embassy-raid.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -381,29 +381,29 @@
                 {
                   "text": "<ref>{{cite news |date=11 April 2024 |title=Mexico calling on UN to expel Ecuador over embassy raid |url=https://www.voanews.com/a/mexico-urges-un-to-expel-ecuador-over-embassy-raid/7566188.html |url-status=live |archive-url=https://web.archive.org/web/20240411185012/https://www.voanews.com/a/mexico-urges-un-to-expel-ecuador-over-embassy-raid/7566188.html |archive-date=11 April 2024 |access-date=11 April 2024 |work=VOA News}}</ref>",
                   "url": "https://www.voanews.com/a/mexico-urges-un-to-expel-ecuador-over-embassy-raid/7566188.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=11 April 2024 |title=Mexico takes Ecuador to ICJ over embassy raid |url=https://www.news24.com/news24/world/news/mexico-takes-ecuador-to-icj-over-embassy-raid-20240411 |url-status=live |archive-url=https://web.archive.org/web/20240411184808/https://www.news24.com/news24/world/news/mexico-takes-ecuador-to-icj-over-embassy-raid-20240411 |archive-date=11 April 2024 |access-date=11 April 2024 |work=News 24}}</ref>",
                   "url": "https://www.news24.com/news24/world/news/mexico-takes-ecuador-to-icj-over-embassy-raid-20240411",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |date=11 April 2024 |title=Mexico institutes proceedings against Ecuador and requests the Court to indicate provisional measures |url=https://www.icj-cij.org/sites/default/files/case-related/194/194-20240411-pre-01-00-en.pdf |access-date=11 April 2024 |publisher=International Court of Justice}}</ref>",
                   "url": "https://www.icj-cij.org/sites/default/files/case-related/194/194-20240411-pre-01-00-en.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=ICJProvisionalMeasures>{{cite web |title=Mexico vs. Ecuador: Request for the indication of provisional measures |url=https://www.icj-cij.org/sites/default/files/case-related/194/194-20240523-pre-01-00-en.pdf |publisher=International Court of Justice press release |date=23 May 2024 |access-date=23 May 2024}}</ref>",
                   "url": "https://www.icj-cij.org/sites/default/files/case-related/194/194-20240523-pre-01-00-en.pdf",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
@@ -429,7 +429,7 @@
                 {
                   "text": "<ref name=ReutersMay23/> However, the ICJ reaffirmed \"the fundamental importance of the principles enshrined in the Vienna Convention on Diplomatic Relations\" regarding the inviolability of diplomatic premises.<ref>{{cite news |title=Corte Internacional de Justicia desestima pedido de México de medidas cautelares contra Ecuador |url=https://www.eluniversal.com.mx/mundo/corte-internacional-de-justicia-desestima-pedido-de-mexico-de-medidas-provisorias-contra-ecuador/ |access-date=23 May 2024 |work=El Universal |trans-title=ICJ dismisses Mexico's request for provisional measures against Ecuador |date=23 May 2024 |archive-date=23 May 2024 |archive-url=https://web.archive.org/web/20240523152546/https://www.eluniversal.com.mx/mundo/corte-internacional-de-justicia-desestima-pedido-de-mexico-de-medidas-provisorias-contra-ecuador/ |url-status=live }}</ref>",
                   "url": "https://www.eluniversal.com.mx/mundo/corte-internacional-de-justicia-desestima-pedido-de-mexico-de-medidas-provisorias-contra-ecuador/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -459,57 +459,57 @@
                     {
                       "text": "<ref name=\"Guardian20240408\">{{cite news |last=Phillips |first=Tom |title=UN chief joins condemnation of Ecuadorian raid on Mexican embassy |url=https://www.theguardian.com/world/2024/apr/07/latin-american-governments-condemn-ecuador-after-police-raid-mexican-embassy |access-date=8 April 2024 |work=The Guardian |date=8 April 2024 |archive-date=8 April 2024 |archive-url=https://web.archive.org/web/20240408014659/https://www.theguardian.com/world/2024/apr/07/latin-american-governments-condemn-ecuador-after-police-raid-mexican-embassy |url-status=live}}</ref>",
                       "url": "https://www.theguardian.com/world/2024/apr/07/latin-american-governments-condemn-ecuador-after-police-raid-mexican-embassy",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=6 April 2024 |title=Comunicado de Prensa: Situación en Ecuador |trans-title=Press Release: Situation in Ecuador |url=https://www.cancilleria.gob.ar/es/actualidad/noticias/comunicado-de-prensa-situacion-en-ecuador |access-date=6 April 2024 |website=Ministry of Foreign Affairs, International Trade and Worship|Ministerio de Relaciones Exteriores, Comercio Internacional y Culto |language=es |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406174458/https://www.cancilleria.gob.ar/es/actualidad/noticias/comunicado-de-prensa-situacion-en-ecuador |url-status=live}}</ref>",
                       "url": "https://www.cancilleria.gob.ar/es/actualidad/noticias/comunicado-de-prensa-situacion-en-ecuador",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |url=https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/ingresso-de-forcas-policiais-equatorianas-na-embaixada-do-mexico-em-quito |title=Ingresso de forças policiais equatorianas na Embaixada do México em Quito |newspaper=Ministério das Relações Exteriores |date=6 April 2024 |accessdate=13 April 2024 |archive-date=12 April 2024 |archive-url=https://web.archive.org/web/20240412142316/https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/ingresso-de-forcas-policiais-equatorianas-na-embaixada-do-mexico-em-quito |url-status=live }}</ref>",
                       "url": "https://www.gov.br/mre/pt-br/canais_atendimento/imprensa/notas-a-imprensa/ingresso-de-forcas-policiais-equatorianas-na-embaixada-do-mexico-em-quito",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite news |last=Neira |first=Cristian |date=6 April 2024 |title=Chile expresa su \"más enérgica condena\" a irrupción de Ecuador en embajada de México |trans-title=Chile expresses its \"strongest condemnation\" of Ecuador's invasion of the Mexican embassy |url=https://www.eldesconcierto.cl/nacional/2024/04/06/chile-expresa-su-mas-energica-condena-a-irrupcion-de-ecuador-en-embajada-de-mexico.html |url-status=live |archive-url=https://web.archive.org/web/20240411143345/https://www.eldesconcierto.cl/nacional/2024/04/06/chile-expresa-su-mas-energica-condena-a-irrupcion-de-ecuador-en-embajada-de-mexico.html |archive-date=11 April 2024 |access-date=8 April 2024 |work=El Desconcierto |language=es}}</ref>",
-                      "url": "https://www.eldesconcierto.cl/nacional/2024/04/06/chile-expresa-su-mas-energica-condena-a-irrupcion-de-ecuador-en-embajada-de-mexico.html",
-                      "status_code": null,
+                      "url": "https://eldesconcierto.cl/2024/04/06/chile-expresa-su-mas-energica-condena-a-irrupcion-de-ecuador-en-embajada-de-mexico",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |date=6 April 2024 |title=Colombia pedirá a la CIDH \"medidas cautelares\" a favor del exvicepresidente Glas |trans-title=Colombia will ask the Inter-American Court for \"precautionary measures\" on behalf of ex-vice president Glas |url=https://www.lahora.com.ec/pais/colombia-pedira-cidh-medidas-cautelares-favor-exvicepres-glas/ |access-date=6 April 2024 |website=La Hora |publisher= |language=es |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406151134/https://www.lahora.com.ec/pais/colombia-pedira-cidh-medidas-cautelares-favor-exvicepres-glas/ |url-status=live}}</ref>",
                       "url": "https://www.lahora.com.ec/pais/colombia-pedira-cidh-medidas-cautelares-favor-exvicepres-glas/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=6 April 2024 |title=Nicaragua brinda apoyo pleno a México y denuncia la barbarie política neofascista del Gobierno de Ecuador |trans-title=Nicaragua offers full support to Mexico and denounces the neo-fascist political barbarism of the Government of Ecuador |url=https://canal2tv.com/nacionales/nicaragua-apoyo-mexico-ecuador/ |access-date=6 April 2024 |website=Canal 2 |language=es |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406192558/https://canal2tv.com/nacionales/nicaragua-apoyo-mexico-ecuador/ |url-status=live}}</ref>",
                       "url": "https://canal2tv.com/nacionales/nicaragua-apoyo-mexico-ecuador/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"ap\"/>\n* {{flagdeco|Uruguay}} Uruguay: The Ministry of Foreign Relations (Uruguay)|Ministry of Foreign Relations issued a statement in which it expressed its regret over the events and called for full observance of the Caracas Convention, highlighting that diplomatic asylum should not be granted in cases of common crimes.<ref>{{cite web |date=6 April 2024 |title=Sobre la situación en Ecuador |trans-title=About the situation in Ecuador |url=https://www.gub.uy/ministerio-relaciones-exteriores/comunicacion/comunicados/sobre-situacion-ecuador |access-date=8 April 2024 |website=Ministry of Foreign Relations (Uruguay)|Ministerio de Relaciones Exteriores |language=es |archive-date=8 April 2024 |archive-url=https://web.archive.org/web/20240408210217/https://www.gub.uy/ministerio-relaciones-exteriores/comunicacion/comunicados/sobre-situacion-ecuador |url-status=live}}</ref>",
                       "url": "https://www.gub.uy/ministerio-relaciones-exteriores/comunicacion/comunicados/sobre-situacion-ecuador",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Suter |first=Tara |date=16 April 2024 |title=Venezuela closes embassy in Ecuador following Mexican Embassy raid |url=https://thehill.com/policy/international/4598526-venezuela-orders-embassy-shut-in-ecuador-following-mexican-embassy-raid/ |access-date=17 April 2024 |website=The Hill |language=en-US}}</ref>",
                       "url": "https://thehill.com/policy/international/4598526-venezuela-orders-embassy-shut-in-ecuador-following-mexican-embassy-raid/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]
@@ -531,43 +531,43 @@
                     {
                       "text": "<ref>{{Cite web |date=7 April 2024 |title=La UE condena asalto a la embajada mexicana en Ecuador |trans-title=The EU condemns the assault on the Mexican embassy in Ecuador |url=https://www.dw.com/es/la-ue-se-sum%C3%B3-a-las-condenas-por-asalto-a-la-embajada-mexicana-en-ecuador/a-68762353 |access-date=7 April 2024 |website=DW Español |language=es |archive-date=8 April 2024 |archive-url=https://web.archive.org/web/20240408012738/https://www.dw.com/es/la-ue-se-sum%C3%B3-a-las-condenas-por-asalto-a-la-embajada-mexicana-en-ecuador/a-68762353 |url-status=live}}</ref>",
                       "url": "https://www.dw.com/es/la-ue-se-sum%C3%B3-a-las-condenas-por-asalto-a-la-embajada-mexicana-en-ecuador/a-68762353",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"CNN01\"/> it also called for dialogue between both parties and expressed its solidarity with the Mexican diplomats.<ref>{{cite web |date=6 April 2024 |title=OEA rechaza incidente en embajada de México en Ecuador y propone reunión de su Consejo Permanente |trans-title=OAS rejects incident at the Mexican embassy in Ecuador and proposes a meeting of its Permanent Council |url=https://www.vozdeamerica.com/a/oea-rechaza-incidente-embajada-mexico-ecuador-jorge-glas/7559491.html |access-date=6 April 2024 |website=Voz de América |language=es |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406181330/https://www.vozdeamerica.com/a/oea-rechaza-incidente-embajada-mexico-ecuador-jorge-glas/7559491.html |url-status=live}}</ref>",
                       "url": "https://www.vozdeamerica.com/a/oea-rechaza-incidente-embajada-mexico-ecuador-jorge-glas/7559491.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |date=6 April 2024 |title=Statement from the OAS General Secretariat on Events in Ecuador |url=https://www.oas.org/en/media_center/press_release.asp?sCodigo=E-020/24 |url-status=live |archive-url=https://web.archive.org/web/20240406214230/https://www.oas.org/en/media_center/press_release.asp?sCodigo=E-020/24 |archive-date=6 April 2024 |access-date=6 April 2024 |work=Organization of American States |publisher=}}</ref>",
                       "url": "https://www.oas.org/en/media_center/press_release.asp?sCodigo=E-020/24",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=CIDH condena \"intrusión\" a embajada de México y urge a Ecuador medidas de protección para Glas |url=https://www.proceso.com.mx/nacional/2024/4/15/cidh-condena-intrusion-embajada-de-mexico-urge-ecuador-medidas-de-proteccion-para-glas-327273.html |access-date=16 April 2024 |work=Proceso |date=15 April 2024 |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416025106/https://www.proceso.com.mx/nacional/2024/4/15/cidh-condena-intrusion-embajada-de-mexico-urge-ecuador-medidas-de-proteccion-para-glas-327273.html |url-status=live }}</ref>",
                       "url": "https://www.proceso.com.mx/nacional/2024/4/15/cidh-condena-intrusion-embajada-de-mexico-urge-ecuador-medidas-de-proteccion-para-glas-327273.html",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |title=IACHR Asks Ecuador to Fulfil Its International Obligations |url=https://www.oas.org/en/IACHR/jsForm/?File=/en/iachr/media_center/PReleases/2024/074.asp |publisher=Inter-American Commission on Human Rights |access-date=16 April 2024 |date=15 April 2024 |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416192848/https://www.oas.org/en/IACHR/jsForm/?File=/en/iachr/media_center/PReleases/2024/074.asp |url-status=live }}</ref>",
                       "url": "https://www.oas.org/en/IACHR/jsForm/?File=/en/iachr/media_center/PReleases/2024/074.asp",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |date=7 April 2024 |title=Statement attributable to the Spokesman for the Secretary-General on raid of Mexico's embassy in Ecuador |url=https://www.un.org/sg/en/content/sg/statement/2024-04-06/statement-attributable-the-spokesman-for-the-secretary-general%C2%A0-raid-of-mexicos-embassy-ecuador |access-date=7 April 2024 |website=United Nations: Office of the Secretary-General |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409145501/https://www.un.org/sg/en/content/sg/statement/2024-04-06/statement-attributable-the-spokesman-for-the-secretary-general%C2%A0-raid-of-mexicos-embassy-ecuador |url-status=live}}</ref>",
                       "url": "https://www.un.org/sg/en/content/sg/statement/2024-04-06/statement-attributable-the-spokesman-for-the-secretary-general%C2%A0-raid-of-mexicos-embassy-ecuador",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     }
                   ]

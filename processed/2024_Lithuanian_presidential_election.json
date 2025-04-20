@@ -14,22 +14,22 @@
                 {
                   "text": "<ref name=LRT>{{cite web|url=https://www.lrt.lt/en/news-in-english/19/1995960/lithuania-to-hold-multiple-citizenship-referendum-in-2024|title=Lithuania to hold multiple citizenship referendum in 2024|website=LRT|date=23 May 2023|access-date=14 December 2023|archive-date=27 January 2024|archive-url=https://web.archive.org/web/20240127121743/https://www.lrt.lt/en/news-in-english/19/1995960/lithuania-to-hold-multiple-citizenship-referendum-in-2024|url-status=live}}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/1995960/lithuania-to-hold-multiple-citizenship-referendum-in-2024",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news | last=Vaišvilaitė-Braziulienė | first=Justina | title=Eight candidates to vie for president – election watchdog | work=Delfi | date=8 April 2024 | url=https://www.delfi.lt/en/politics/eight-candidates-to-vie-for-president-election-watchdog-96308707 | language=lt | access-date=9 April 2024 | archive-date=9 April 2024 | archive-url=https://web.archive.org/web/20240409155203/https://www.delfi.lt/en/politics/eight-candidates-to-vie-for-president-election-watchdog-96308707 | url-status=live }}</ref>",
                   "url": "https://www.delfi.lt/en/politics/eight-candidates-to-vie-for-president-election-watchdog-96308707",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"EL9\">{{cite news |title=VRK registravo likusius kandidatus prezidento rinkimams: dėl šalies vadovo posto varžysis 8 politikai |url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/04/09/news/vrk-registravo-likusius-kandidatus-prezidento-rinkimams-del-salies-vadovo-posto-varzysis-8-politikai-31339272 |access-date=9 April 2024 |work=Lietuvos rytas |agency=ELTA |date=9 April 2024 |language=lt |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527185257/https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/04/09/news/vrk-registravo-likusius-kandidatus-prezidento-rinkimams-del-salies-vadovo-posto-varzysis-8-politikai-31339272 |url-status=live }}</ref>",
                   "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/04/09/news/vrk-registravo-likusius-kandidatus-prezidento-rinkimams-del-salies-vadovo-posto-varzysis-8-politikai-31339272",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -41,7 +41,7 @@
                 {
                   "text": "<ref name=\"ap\">{{Cite web |title=Lithuanians vote in a presidential election as anxieties rise over Russia and the war in Ukraine |url=https://apnews.com/article/lithuania-presidential-election-gitanas-nauseda-fcb8f81f23033f63ce780b1ffe477185 |access-date=12 May 2024 |website=Associated Press |date=12 May 2024 |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527185257/https://apnews.com/article/lithuania-presidential-election-gitanas-nauseda-fcb8f81f23033f63ce780b1ffe477185 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/lithuania-presidential-election-gitanas-nauseda-fcb8f81f23033f63ce780b1ffe477185",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -64,8 +64,8 @@
                 {
                   "text": "<ref name=\"Powers\">{{Cite web |url=https://www.lrp.lt/en/institution/presidential-functions/35145 |title=Presidential Functions {{!}} President of the Republic of Lithuania |access-date=7 April 2024 |archive-date=25 December 2021 |archive-url=https://web.archive.org/web/20211225160609/https://www.lrp.lt/en/institution/presidential-functions/35145 |url-status=live }}</ref>",
                   "url": "https://www.lrp.lt/en/institution/presidential-functions/35145",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -77,14 +77,14 @@
                 {
                   "text": "<ref name=\"Constitution\">{{Cite web |url=https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.21892?jfwid=-wd7z8ivg5 |title=Constitution of the Republic of Lithuania – Seimas site |access-date=7 April 2024 |archive-date=25 December 2021 |archive-url=https://web.archive.org/web/20211225160604/https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.21892?jfwid=-wd7z8ivg5 |url-status=live }}</ref>",
                   "url": "https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/TAIS.21892?jfwid=-wd7z8ivg5",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"galios\">{{cite web |last1=Jastramskis |first1=Mažvydas |title=Ką gali Lietuvos prezidentas? |url=https://www.prezidentogalios.lt/ka-gali-lietuvos-prezidentas |website=Prezidentogalios.lt |language=lt |date=3 April 2024 |access-date=7 April 2024 |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527185258/https://www.prezidentogalios.lt/ka-gali-lietuvos-prezidentas |url-status=live }}</ref>",
                   "url": "https://www.prezidentogalios.lt/ka-gali-lietuvos-prezidentas",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -106,8 +106,8 @@
               "references": [
                 {
                   "text": "<ref>{{cite web|url=http://www.electionguide.org/elections/id/3146/|title=Lithuania: Election for President|website=IFES Election Guide|access-date=7 October 2023|archive-date=10 August 2020|archive-url=https://web.archive.org/web/20200810085209/https://www.electionguide.org/elections/id/3146/|url-status=live}}</ref>",
-                  "url": "http://www.electionguide.org/elections/id/3146/",
-                  "status_code": null,
+                  "url": "https://www.electionguide.org/elections/id/3146/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -120,14 +120,14 @@
                 {
                   "text": "<ref>{{cite web |title=Lietuvos Respublikos Prezidentas |url=https://www.vle.lt/straipsnis/lietuvos-respublikos-prezidentas/ |website=Visuotinė lietuvių enciklopedija |language=Lithuanian |access-date=24 October 2023 |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527190216/https://www.vle.lt/straipsnis/lietuvos-respublikos-prezidentas/ |url-status=live }}</ref>",
                   "url": "https://www.vle.lt/straipsnis/lietuvos-respublikos-prezidentas/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news | last=Andrukaitytė | first=Milena | title=VRK patvirtino, kad Šimonytė surinko parašus prezidento rinkimams | work=LRT | date=7 March 2024 | url=https://www.lrt.lt/naujienos/lietuvoje/2/2216459/vrk-patvirtino-kad-simonyte-surinko-parasus-prezidento-rinkimams | language=lt | access-date=27 March 2024 | archive-date=27 May 2024 | archive-url=https://web.archive.org/web/20240527190611/https://www.lrt.lt/naujienos/lietuvoje/2/2216459/vrk-patvirtino-kad-simonyte-surinko-parasus-prezidento-rinkimams | url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2216459/vrk-patvirtino-kad-simonyte-surinko-parasus-prezidento-rinkimams",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -150,15 +150,15 @@
                 {
                   "text": "<ref>{{cite news |last1=Jurčenkaitė |first1=Indrė |title=L.Matjošaitytė: parašų rinkimas prezidento rinkimuose gerina rekordus |url=https://www.15min.lt/naujiena/aktualu/lietuva/l-matjosaityte-parasu-rinkimas-prezidento-rinkimuose-gerina-rekordus-56-1105518 |work=15min |language=lt |date=2019-02-20 |access-date=18 October 2023 |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527190614/https://www.15min.lt/naujiena/aktualu/lietuva/l-matjosaityte-parasu-rinkimas-prezidento-rinkimuose-gerina-rekordus-56-1105518 |url-status=live }}</ref>",
                   "url": "https://www.15min.lt/naujiena/aktualu/lietuva/l-matjosaityte-parasu-rinkimas-prezidento-rinkimuose-gerina-rekordus-56-1105518",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |title=Politinės kampanijos dalyviai |url=https://www.vrk.lt/politines-kampanijos-dalyviai-2024-pr?srcUrl=/politKamp/1644/dalyviai/dalyviai.html |website=Central Electoral Commission of Lithuania |language=Lithuanian |date=2024 |access-date=22 January 2024 |archive-date=4 February 2024 |archive-url=https://web.archive.org/web/20240204111453/https://www.vrk.lt/politines-kampanijos-dalyviai-2024-pr?srcUrl=/politKamp/1644/dalyviai/dalyviai.html |url-status=live }}</ref>",
                   "url": "https://www.vrk.lt/politines-kampanijos-dalyviai-2024-pr?srcUrl=/politKamp/1644/dalyviai/dalyviai.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -170,183 +170,183 @@
                 {
                   "text": "<ref name=\"table-ref\">{{cite web |title=Kandidatai į Respublikos Prezidentus |url=https://www.vrk.lt/en/kandidatai-i-respublikos-prezidentus-2024-pr |publisher=Central Electoral Commission |access-date=12 April 2024 |language=lt}}</ref>",
                   "url": "https://www.vrk.lt/en/kandidatai-i-respublikos-prezidentus-2024-pr",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"table-ref\" />\n! {{tooltip|Signatures<br>collected|All declared candidates for president had to gather 20 thousand signatures physically or online in order to be registered. Filing dates are displayed below.}}\n! Campaign<br>links\n! {{refh}}\n|-\n| style=\"background:lavender;\" |'''Giedrimas Jeglinskas'''<br />({{age nts|1979|04|22}})<br />Independent\n|style=\"background-color:{{party color|Independent politician}};\" |\n| \n| style=\"background-color:#0A1172;\" |\n|'''Union of Democrats \"For Lithuania\"|DSVL'''\n|Senior Fellow at Atlantic Council (2022–present)<br>Assistant Secretary General of NATO for Executive Management (2019–2022)<br>Vice-Minister Ministry of National Defence (Lithuania)|of Defence (2017–2019)<br>Vice President in Corporate Banking at Citigroup (2010–2017)\n|22,890<hr>{{start and end dates|2024|2|21|2024|3|28|df=y}}\n|([https://jeglinskas.lt/ Website])\n|<ref name=\"BNS 4.9\">{{cite news |last1=Skėrytė |first1=Jūratė |title=Kandidatais į prezidentus patvirtinti aštuoni politikai |work=BNS |url=https://www.bns.lt/topic/1912/news/70967257/ |language=lt |access-date=9 April 2024 |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527192403/https://www.bns.lt/topic/1912/news/70967257/ |url-status=live }}</ref>",
-                  "url": "https://www.bns.lt/topic/1912/news/70967257/",
-                  "status_code": null,
+                  "url": "https://bns.lt",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |last1=Gaučaitė-Znutienė |first1=Modesta |title=Demokratų sąjungos \"Vardan Lietuvos\" kandidatas į prezidentus – Giedrimas Jeglinskas |url=https://www.lrt.lt/naujienos/lietuvoje/2/2122603/demokratu-sajungos-vardan-lietuvos-kandidatas-i-prezidentus-giedrimas-jeglinskas |work=LRT |language=lt |date=2023-11-11 |access-date=11 November 2023 |archive-date=11 November 2023 |archive-url=https://web.archive.org/web/20231111124123/https://www.lrt.lt/naujienos/lietuvoje/2/2122603/demokratu-sajungos-vardan-lietuvos-kandidatas-i-prezidentus-giedrimas-jeglinskas |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2122603/demokratu-sajungos-vardan-lietuvos-kandidatas-i-prezidentus-giedrimas-jeglinskas",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web | title=Biography: Giedrimas Jeglinskas, Assistant Secretary General for Executive Management | website=NATO | date=23 November 2020 | url=https://www.nato.int/cps/en/natohq/who_is_who_169844.htm | access-date=21 December 2023 | archive-date=27 May 2024 | archive-url=https://web.archive.org/web/20240527192354/https://www.nato.int/cps/en/natohq/who_is_who_169844.htm | url-status=live }}</ref>",
                   "url": "https://www.nato.int/cps/en/natohq/who_is_who_169844.htm",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web | title=Giedrimas Jeglinskas | website=Atlantic Council | date=28 December 2023 | url=https://www.atlanticcouncil.org/expert/giedrimas-jeglinskas/ | access-date=10 February 2024 | archive-date=2 February 2024 | archive-url=https://web.archive.org/web/20240202091800/https://www.atlanticcouncil.org/expert/giedrimas-jeglinskas/ | url-status=live }}</ref>",
                   "url": "https://www.atlanticcouncil.org/expert/giedrimas-jeglinskas/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\";21\">{{cite web |title=Dalis būsimųjų kandidatų į Prezidentus netrukus pradės rinkti rinkėjų parašus |url=https://www.vrk.lt/naujienos/-/content/10180/1/dalis-busimuju-kandidatu-i-prezidentus-netrukus-prades-rinkti-rinkeju-parasus |publisher=Central Electoral Commission |access-date=20 February 2024 |language=lt}}</ref>",
                   "url": "https://www.vrk.lt/naujienos/-/content/10180/1/dalis-busimuju-kandidatu-i-prezidentus-netrukus-prades-rinkti-rinkeju-parasus",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"Die0\">{{cite news | title=VRK baigė tikrinti kandidatų į prezidentus surinktus rinkėjų parašus: sąraše – aštuoni kandidatai | work=DIENA.lt | date=2024-04-08 | url=https://www.diena.lt/naujienos/lietuva/politika/vrk-baige-tikrinti-kandidatu-i-prezidentus-surinktus-rinkeju-parasus-sarase-8-kandidatai-1168720 | language=lt | access-date=2024-04-08 | archive-date=8 April 2024 | archive-url=https://web.archive.org/web/20240408190451/https://www.diena.lt/naujienos/lietuva/politika/vrk-baige-tikrinti-kandidatu-i-prezidentus-surinktus-rinkeju-parasus-sarase-8-kandidatai-1168720 | url-status=live }}</ref>",
-                  "url": "https://www.diena.lt/naujienos/lietuva/politika/vrk-baige-tikrinti-kandidatu-i-prezidentus-surinktus-rinkeju-parasus-sarase-8-kandidatai-1168720",
-                  "status_code": null,
+                  "url": "https://diena.lt/naujienos/lietuva/politika/vrk-baige-tikrinti-kandidatu-i-prezidentus-surinktus-rinkeju-parasus-sarase-8-kandidatai-1168720",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"BNS 4.9\" /><br>{{hidden||<ref>{{cite news | title=Paaiškėjo Darbo partijos kandidatas prezidento rinkimuose | work=Delfi | date=22 January 2024 | url=https://www.delfi.lt/news/daily/lithuania/paaiskejo-darbo-partijos-kandidatas-prezidento-rinkimuose-95684449 | language=lt | access-date=22 January 2024 | archive-date=22 January 2024 | archive-url=https://web.archive.org/web/20240122233814/https://www.delfi.lt/news/daily/lithuania/paaiskejo-darbo-partijos-kandidatas-prezidento-rinkimuose-95684449 | url-status=live }}</ref>",
                   "url": "https://www.delfi.lt/news/daily/lithuania/paaiskejo-darbo-partijos-kandidatas-prezidento-rinkimuose-95684449",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\";21\" /><ref>{{cite news | title=Prezidento posto siekiančio Mazuronio komanda surinktus parašus pristatė VRK | work=Delfi | agency=Elta | date=27 March 2024 | url=https://www.delfi.lt/news/daily/politics/prezidento-posto-siekiancio-mazuronio-komanda-surinktus-parasus-pristate-vrk-96228245 | language=lt | access-date=27 March 2024 | archive-date=27 March 2024 | archive-url=https://web.archive.org/web/20240327170607/https://www.delfi.lt/news/daily/politics/prezidento-posto-siekiancio-mazuronio-komanda-surinktus-parasus-pristate-vrk-96228245 | url-status=live }}</ref>",
                   "url": "https://www.delfi.lt/news/daily/politics/prezidento-posto-siekiancio-mazuronio-komanda-surinktus-parasus-pristate-vrk-96228245",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"Die0\" />}}\n|-\n|rowspan=\"2\" style=\"background:lavender;\" |'''Gitanas Nausėda'''<br />({{age nts|1964|05|19}})<br />Independent<br>({{abr|fmr.|formerly}}: Communist Party of the Soviet Union|CPSU/Communist Party of Lithuania|LKP)\n|rowspan=\"2\" style=\"background-color:{{party color|Independent politician}};\" |\n|rowspan=\"2\"|\n| style=\"background-color:{{party color|Social Democratic Party of Lithuania}};\" |\n|{{small|Social Democratic Party of Lithuania|LSDP}}\n|rowspan=\"2\"|President of Lithuania (2019–current)<br>Chief Economist to the Chairman of SEB bankas (2008–2018)<br>Director of Monetary Policy at the Bank of Lithuania (1996–2000)\n|rowspan=\"2\"|36,584<hr>{{start and end dates|2024|2|21|2024|3|25|df=y}}\n|rowspan=\"2\"|([https://prezidentasnauseda.lt Website])\n|rowspan=\"2\"|<ref name=\"Česė\">{{cite news | last=Česėkaitė | first=Ditė | title=VRK registravo tirs kandidatus į Prezidentus | work=Alkas | date=4 April 2024 | url=https://alkas.lt/2024/04/04/vrk-registravo-tirs-kandidatus-i-prezidentus/ | language=lt | access-date=4 April 2024 | archive-date=4 April 2024 | archive-url=https://web.archive.org/web/20240404150617/https://alkas.lt/2024/04/04/vrk-registravo-tirs-kandidatus-i-prezidentus/ | url-status=live }}</ref>",
                   "url": "https://alkas.lt/2024/04/04/vrk-registravo-tirs-kandidatus-i-prezidentus/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web |last1=Gaučaitė-Znutienė |first1=Modesta |title=Gitanas Nausėda sieks antros kadencijos prezidento poste |url=https://www.lrt.lt/naujienos/lietuvoje/2/2143408/gitanas-nauseda-sieks-antros-kadencijos-prezidento-poste |website=LRT |language=Lithuanian |date=2023-12-07 |access-date=7 December 2023 |archive-date=7 December 2023 |archive-url=https://web.archive.org/web/20231207180946/https://www.lrt.lt/naujienos/lietuvoje/2/2143408/gitanas-nauseda-sieks-antros-kadencijos-prezidento-poste |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2143408/gitanas-nauseda-sieks-antros-kadencijos-prezidento-poste",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\";21\" /><ref>{{cite news | last=Plikūnė | first=Dalia | title=Nausėdos komanda VRK pristatė rėmėjų parašus | work=Delfi | date=25 March 2024 | url=https://www.delfi.lt/news/politics/nausedos-komanda-vrk-pristate-remeju-parasus-96205617 | language=lt | access-date=27 March 2024 | archive-date=27 March 2024 | archive-url=https://web.archive.org/web/20240327170606/https://www.delfi.lt/news/politics/nausedos-komanda-vrk-pristate-remeju-parasus-96205617 | url-status=live }}</ref>",
                   "url": "https://www.delfi.lt/news/politics/nausedos-komanda-vrk-pristate-remeju-parasus-96205617",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\":1\">{{cite news |last1=Gaučaitė-Znutienė |first1=Modesta |title=Socialdemokratų sprendimas remti Nausėdą nuvylė Sysą: \"Aš neagituosiu ir nebalsuosiu už jį\" |url=https://www.lrt.lt/naujienos/lietuvoje/2/2186542/socialdemokratu-sprendimas-remti-nauseda-nuvyle-sysa-as-neagituosiu-ir-nebalsuosiu-uz-ji |work=LRT |language=Lithuanian |date=3 February 2024 |access-date=4 February 2024 |archive-date=4 February 2024 |archive-url=https://web.archive.org/web/20240204081915/https://www.lrt.lt/naujienos/lietuvoje/2/2186542/socialdemokratu-sprendimas-remti-nauseda-nuvyle-sysa-as-neagituosiu-ir-nebalsuosiu-uz-ji |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2186542/socialdemokratu-sprendimas-remti-nauseda-nuvyle-sysa-as-neagituosiu-ir-nebalsuosiu-uz-ji",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"ma2\">{{cite news | title=Regionų partija rems Nausėdos kandidatūrą prezidento rinkimuose | work=tv3 | date=2 March 2024 | url=https://www.tv3.lt/naujiena/lietuva/regionu-partija-rems-nausedos-kandidatura-prezidento-rinkimuose-n1321950 | language=lt | access-date=2 March 2024 | archive-date=2 March 2024 | archive-url=https://web.archive.org/web/20240302144840/https://www.tv3.lt/naujiena/lietuva/regionu-partija-rems-nausedos-kandidatura-prezidento-rinkimuose-n1321950 | url-status=live }}</ref>",
                   "url": "https://www.tv3.lt/naujiena/lietuva/regionu-partija-rems-nausedos-kandidatura-prezidento-rinkimuose-n1321950",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"Česė\" /><br>{{hidden||<ref>{{cite news |last1=Pankūnė |first1=Dainora |title=TS-LKD Šimonytę pasitiko plojimais: teigia, kad demokratijos šventė jau atšvęsta |url=https://www.delfi.lt/news/daily/lithuania/ts-lkd-simonyte-pasitiko-plojimais-teigia-kad-demokratijos-svente-jau-atsvesta.d?id=94704177 |work=Delfi |language=lt |date=2023-10-04 |access-date=18 October 2023 |archive-date=18 October 2023 |archive-url=https://web.archive.org/web/20231018100707/https://www.delfi.lt/news/daily/lithuania/ts-lkd-simonyte-pasitiko-plojimais-teigia-kad-demokratijos-svente-jau-atsvesta.d?id=94704177 |url-status=live }}</ref>",
                   "url": "https://www.delfi.lt/news/daily/lithuania/ts-lkd-simonyte-pasitiko-plojimais-teigia-kad-demokratijos-svente-jau-atsvesta.d?id=94704177",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\";21\" /><ref>{{cite news | last=Jačauskas | first=Ignas | title=Prezidento posto sieksianti Šimonytė surinko per 33 tūkst. parašų, stabdo jų rinkimą | work=LRT | date=26 February 2024 | url=https://www.lrt.lt/naujienos/lietuvoje/2/2206776/prezidento-posto-sieksianti-simonyte-surinko-per-33-tukst-parasu-stabdo-ju-rinkima | language=lt | access-date=27 March 2024 | archive-date=27 March 2024 | archive-url=https://web.archive.org/web/20240327170604/https://www.lrt.lt/naujienos/lietuvoje/2/2206776/prezidento-posto-sieksianti-simonyte-surinko-per-33-tukst-parasu-stabdo-ju-rinkima | url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2206776/prezidento-posto-sieksianti-simonyte-surinko-per-33-tukst-parasu-stabdo-ju-rinkima",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"BNS 4.9\" /><br>{{hidden||<ref>{{cite web |last1=Vaitkus |first1=Eduardas |title=Įstatymo diktatūra – vienintelis Lietuvos sėkmės raktas |url=https://sc.bns.lt/view/item/468602 |website=Baltic News Service |language=lt |date=2023-09-06 |access-date=18 October 2023 |archive-date=24 October 2023 |archive-url=https://web.archive.org/web/20231024120720/https://sc.bns.lt/view/item/468602 |url-status=live }}</ref>",
                   "url": "https://sc.bns.lt/view/item/468602",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\";21\" /><ref name=\"Die0\" />}}\n|-\n| rowspan=\"5\" style=\"background:lavender;\" |'''Ignas Vėgėlė'''<br />({{age nts|1975|7|22}})<br />Independent<br>({{abr|fmr.|formerly}}: Christian Democratic Union (Lithuania)|KDS/Lithuanian Christian Democrats|LKD)\n| rowspan=\"5\" style=\"background-color:{{party color|Independent politician}};\" |\n| rowspan=\"5\" |\n| style=\"background-color:{{party color|People and Justice Union}};\" |\n|{{small|<s>People and Justice Union|TTS</s>}}{{NoteTag|1=TTS originally endorsed Vėgėlė in the election,<ref>{{cite news | title=Gražulio vadovaujama partija prezidento rinkimuose ketina remti Vėgėlės kandidatūrą | work=Delfi | date=11 September 2023 | url=https://www.delfi.lt/news/daily/lithuania/grazulio-vadovaujama-partija-prezidento-rinkimuose-ketina-remti-vegeles-kandidatura.d?id=94485719 | language=lt | access-date=9 December 2023 | archive-date=9 December 2023 | archive-url=https://web.archive.org/web/20231209145900/https://www.delfi.lt/news/daily/lithuania/grazulio-vadovaujama-partija-prezidento-rinkimuose-ketina-remti-vegeles-kandidatura.d?id=94485719 | url-status=live }}</ref>",
                   "url": "https://www.delfi.lt/news/daily/lithuania/grazulio-vadovaujama-partija-prezidento-rinkimuose-ketina-remti-vegeles-kandidatura.d?id=94485719",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web | title=Tautos ir teisingumo sąjungą prezidento rinkimuose atstovaus P. Gražulis | website=Kauno diena | date=11 February 2024 | url=https://kauno.diena.lt/naujienos/lietuva/politika/tautos-ir-teisingumo-sajunga-prezidento-rinkimuose-atstovaus-p-grazulis-1160595 | language=lt | access-date=15 February 2024 | archive-date=15 February 2024 | archive-url=https://web.archive.org/web/20240215163937/https://kauno.diena.lt/naujienos/lietuva/politika/tautos-ir-teisingumo-sajunga-prezidento-rinkimuose-atstovaus-p-grazulis-1160595 | url-status=live }}</ref>",
                   "url": "https://kauno.diena.lt/naujienos/lietuva/politika/tautos-ir-teisingumo-sajunga-prezidento-rinkimuose-atstovaus-p-grazulis-1160595",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"BNS 4.9\" /><br>{{hidden||<ref>{{cite web |last1=Bakaitė |first1=Jurga |title=Kandidatų gretos didėja – Vėgėlė skelbia apie dalyvavimą prezidento rinkimuose |url=https://www.lrt.lt/naujienos/lietuvoje/2/2137259/kandidatu-gretos-dideja-vegele-skelbia-apie-dalyvavima-prezidento-rinkimuose |website=LRT |language=Lithuanian |date=2023-11-29 |access-date=29 November 2023 |archive-date=29 November 2023 |archive-url=https://web.archive.org/web/20231129211008/https://www.lrt.lt/naujienos/lietuvoje/2/2137259/kandidatu-gretos-dideja-vegele-skelbia-apie-dalyvavima-prezidento-rinkimuose |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2137259/kandidatu-gretos-dideja-vegele-skelbia-apie-dalyvavima-prezidento-rinkimuose",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Lietuvos krikščioniškosios demokratijos partija prezidento rinkimuose rems I.Vėgėlę |url=https://www.15min.lt/naujiena/aktualu/lietuva/lietuvos-krikscioniskosios-demokratijos-partija-prezidento-rinkimuose-rems-i-vegele-56-2179218 |website=15min.lt |language=Lithuanian |date=22 January 2024 |access-date=22 January 2024 |archive-date=22 January 2024 |archive-url=https://web.archive.org/web/20240122082155/https://www.15min.lt/naujiena/aktualu/lietuva/lietuvos-krikscioniskosios-demokratijos-partija-prezidento-rinkimuose-rems-i-vegele-56-2179218 |url-status=live }}</ref>",
                   "url": "https://www.15min.lt/naujiena/aktualu/lietuva/lietuvos-krikscioniskosios-demokratijos-partija-prezidento-rinkimuose-rems-i-vegele-56-2179218",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Krikščionių sąjunga remia I. Vėgėlės kandidatūrą prezidento rinkimuose |url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/02/03/news/smurtas-kauno-progimnazijoje-kelia-siurpa-berniuka-sumuse-chuliganai-perdave-linkejimus-nuo-mokytojo-30362593 |website=Lrytas |language=Lithuanian |date=1 February 2024 |access-date=3 February 2024 |archive-date=3 February 2024 |archive-url=https://web.archive.org/web/20240203215914/https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/02/03/news/smurtas-kauno-progimnazijoje-kelia-siurpa-berniuka-sumuse-chuliganai-perdave-linkejimus-nuo-mokytojo-30362593 |url-status=live }}</ref>",
                   "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/02/03/news/smurtas-kauno-progimnazijoje-kelia-siurpa-berniuka-sumuse-chuliganai-perdave-linkejimus-nuo-mokytojo-30362593",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news | title=Partijos \"Laisvė ir teisingumas\" pirmininku išrinktas A. Zuokas, prezidento rinkimuose rems I. Vėgėlę | work=Lrytas.lt | date=3 February 2024 | url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/02/03/news/partijos-laisve-ir-teisingumas-pirmininku-isrinktas-a-zuokas-30391972 | language=lt | access-date=4 February 2024 | archive-date=4 February 2024 | archive-url=https://web.archive.org/web/20240204080352/https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/02/03/news/partijos-laisve-ir-teisingumas-pirmininku-isrinktas-a-zuokas-30391972 | url-status=live }}</ref>",
                   "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/02/03/news/partijos-laisve-ir-teisingumas-pirmininku-isrinktas-a-zuokas-30391972",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\";21\" /><ref name=\"Die0\" />}}\n|-\n| style=\"background-color:#1C4328;\" |\n|{{small|Lithuanian Christian Democracy Party|LKDP}}\n|-\n| style=\"background-color:{{party color|Christian Union (Lithuania)}};\" |\n|{{small|Christian Union (Lithuania)|KS}}\n|-\n| style=\"background-color:{{party color|Freedom and Justice}};\" |\n|{{small|Freedom and Justice|PLT}}\n|-\n| style=\"background-color:{{party color|Lithuanian Farmers and Greens Union}};\" |\n|{{Small|Lithuanian Farmers and Greens Union|LVŽS}}{{NoteTag|name=\"Ve29\"}}\n|-\n| style=\"background:lavender;\" |'''Dainius Žalimas'''<br />({{age nts|1973|05|22}})<br />Independent<br>({{abr|fmr.|formerly}}: Homeland Union|TS)\n| style=\"background-color:{{party color|Independent politician}};\" |\n| \n| style=\"background-color:{{Party color|Freedom Party (Lithuania)}};\" |\n|'''Freedom Party (Lithuania)|LP'''\n|Dean of the Faculty of the Law of Vytautas Magnus University (2021–present)<br>Constitutional Court of Lithuania|President of Constitutional Court of Lithuania (2014–2021)<br>Justice of the Constitutional Court of Lithuania (2011–2021)<br>Advisor to the Minister of Ministry of National Defence (Lithuania)|Defense (1998–2011)\n|22,156<hr>{{start and end dates|2024|2|21|2024|3|28|df=y}}\n|([https://www.dainiuszalimas.lt Website])\n|<ref name=\"Česė\" /><br>{{hidden||<ref>{{cite news| url=https://www.lrt.lt/naujienos/lietuvoje/2/2124339/dainius-zalimas-paskelbe-dalyvausiantis-prezidento-rinkimuose-su-laisves-partija| title=Dainius Žalimas paskelbė dalyvausiantis prezidento rinkimuose su Laisvės partija| date=14 November 2023| access-date=14 November 2023| archive-date=14 November 2023| archive-url=https://web.archive.org/web/20231114191306/https://www.lrt.lt/naujienos/lietuvoje/2/2124339/dainius-zalimas-paskelbe-dalyvausiantis-prezidento-rinkimuose-su-laisves-partija| url-status=live}}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2124339/dainius-zalimas-paskelbe-dalyvausiantis-prezidento-rinkimuose-su-laisves-partija",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\";21\" />}}\n|-\n| style=\"background:lavender;\" |'''Remigijus Žemaitaitis'''<br />({{age nts|1982|05|30}})<br />Dawn of Nemunas|NA<br>({{abr|fmr.|formerly}}: Order and Justice|TT/Freedom and Justice|PLT)\n| style=\"background-color:{{party color|Dawn of Nemunas}};\" |\n| \n| style=\"background-color:{{Party color|Dawn of Nemunas}};\" |\n|'''Dawn of Nemunas|NA'''\n|Member of the Seimas (2009–2024)\n|24,972<hr>{{start and end dates|2024|2|21|2024|3|27|df=y}}\n|\n|<ref name=\"BNS 4.9\" /><br>{{hidden||<ref>{{cite news | last=Jaruševičiūtė-Mockuvienė | first=Gailė | title=Žemaitaitis skelbia kandidatuosiantis prezidento rinkimuose | work=LRT | date=22 January 2024 | url=https://www.lrt.lt/naujienos/lietuvoje/2/2176620/zemaitaitis-skelbia-kandidatuosiantis-prezidento-rinkimuose | language=lt | access-date=20 February 2024 | archive-date=13 February 2024 | archive-url=https://web.archive.org/web/20240213003634/https://www.lrt.lt/naujienos/lietuvoje/2/2176620/zemaitaitis-skelbia-kandidatuosiantis-prezidento-rinkimuose | url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2176620/zemaitaitis-skelbia-kandidatuosiantis-prezidento-rinkimuose",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\";21\" /><ref>{{cite news | title=Prezidento rinkimuose kandidatuojančio Žemaitaičio atstovai VRK pristatė surinktus parašus | work=Delfi | agency=Elta | date=27 March 2024 | url=https://www.delfi.lt/news/daily/politics/prezidento-rinkimuose-kandidatuojancio-zemaitaicio-atstovai-vrk-pristate-surinktus-parasus-96226183 | language=lt | access-date=27 March 2024 | archive-date=27 March 2024 | archive-url=https://web.archive.org/web/20240327170605/https://www.delfi.lt/news/daily/politics/prezidento-rinkimuose-kandidatuojancio-zemaitaicio-atstovai-vrk-pristate-surinktus-parasus-96226183 | url-status=live }}</ref>",
                   "url": "https://www.delfi.lt/news/daily/politics/prezidento-rinkimuose-kandidatuojancio-zemaitaicio-atstovai-vrk-pristate-surinktus-parasus-96226183",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 }
               ]
@@ -370,7 +370,7 @@
                         {
                           "text": "<ref>{{cite news | title=VRK atšaukė Verygos dalyvavimą prezidento rinkimuose | work=LRT | date=29 March 2024 | url=https://www.lrt.lt/naujienos/lietuvoje/2/2238202/vrk-gavo-verygos-prasyma-atsaukti-jo-pareiskinius-dokumentus | language=lt | access-date=30 March 2024 | archive-date=30 March 2024 | archive-url=https://web.archive.org/web/20240330163537/https://www.lrt.lt/naujienos/lietuvoje/2/2238202/vrk-gavo-verygos-prasyma-atsaukti-jo-pareiskinius-dokumentus | url-status=live }}</ref>",
                           "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2238202/vrk-gavo-verygos-prasyma-atsaukti-jo-pareiskinius-dokumentus",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -383,91 +383,91 @@
                         {
                           "text": "<ref name=\"sig-pre\">{{cite web |title=Parašų rinkimas už kandidatus į Prezidentus baigėsi. Kiek iš viso surinkta? |url=https://www.vrk.lt/naujienos/-/content/10180/1/parasu-rinkimas-uz-kandidatus-i-prezidentus-baigesi |publisher=Central Electoral Commission |language=lt |date=28 March 2024}}</ref>",
                           "url": "https://www.vrk.lt/naujienos/-/content/10180/1/parasu-rinkimas-uz-kandidatus-i-prezidentus-baigesi",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\"Ri\">{{cite news | title=VRK išdavė parašų rinkimo lapus dar vienam kandidatui į prezidentus A. Rimkui | work=Lrytas.lt | date=22 February 2024 | url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/02/22/news/vrk-isdave-parasu-rinkimo-lapus-dar-vienam-kandidatui-i-prezidentus-a-rimkui-30681614 | language=lt | access-date=22 February 2024 | archive-date=22 February 2024 | archive-url=https://web.archive.org/web/20240222105556/https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/02/22/news/vrk-isdave-parasu-rinkimo-lapus-dar-vienam-kandidatui-i-prezidentus-a-rimkui-30681614 | url-status=live }}</ref>",
                           "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/02/22/news/vrk-isdave-parasu-rinkimo-lapus-dar-vienam-kandidatui-i-prezidentus-a-rimkui-30681614",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news | title=Psichiatras iš Šiaulių siekia tapti šalies vadovu: 9 tūkst. eurų užstato atgauti nesitiki | work=tv3.lt | date=3 March 2024 | url=https://www.tv3.lt/naujiena/video/psichiatras-is-siauliu-siekia-tapti-salies-vadovu-9-tukst-euru-uzstato-atgauti-nesitiki-n1321150 | language=lt | access-date=9 April 2024 | archive-date=9 April 2024 | archive-url=https://web.archive.org/web/20240409195230/https://www.tv3.lt/naujiena/video/psichiatras-is-siauliu-siekia-tapti-salies-vadovu-9-tukst-euru-uzstato-atgauti-nesitiki-n1321150 | url-status=live }}</ref>",
                           "url": "https://www.tv3.lt/naujiena/video/psichiatras-is-siauliu-siekia-tapti-salies-vadovu-9-tukst-euru-uzstato-atgauti-nesitiki-n1321150",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref name=\"e978\">{{cite news | title=Keturiolika prezidento posto prisimatavimų | work=:Kauno diena | date=22 February 2024 | url=https://kauno.diena.lt/naujienos/lietuva/politika/keturiolika-prezidento-posto-prisimatavimu-1161955 | language=lt | access-date=26 February 2024 | archive-date=26 February 2024 | archive-url=https://web.archive.org/web/20240226175543/https://kauno.diena.lt/naujienos/lietuva/politika/keturiolika-prezidento-posto-prisimatavimu-1161955 | url-status=live }}</ref>",
                           "url": "https://kauno.diena.lt/naujienos/lietuva/politika/keturiolika-prezidento-posto-prisimatavimu-1161955",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite web | title=2024 m. balandžio 9 d. 12.30 val. vyks Vyriausiosios rinkimų komisijos posėdis | publisher=Lietuvos Respublikos vyriausioji rinkimų komisija | website=YouTube | date=9 April 2024 | url=https://www.youtube.com/watch?v=ICkYG12MK8s | access-date=9 April 2024 | archive-date=9 April 2024 | archive-url=https://web.archive.org/web/20240409155203/https://www.youtube.com/watch?v=ICkYG12MK8s | url-status=live }}</ref>",
                           "url": "https://www.youtube.com/watch?v=ICkYG12MK8s",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{cite news |title=Buvęs Lietuvos kariuomenės vadas Tutkus sieks prezidento posto |url=https://www.delfi.lt/news/daily/lithuania/buves-lietuvos-kariuomenes-vadas-tutkus-sieks-prezidento-posto.d?id=94707571 |work=Delfi |language=lt |date=2023-10-05 |access-date=18 October 2023 |archive-date=22 October 2023 |archive-url=https://web.archive.org/web/20231022155700/https://www.delfi.lt/news/daily/lithuania/buves-lietuvos-kariuomenes-vadas-tutkus-sieks-prezidento-posto.d?id=94707571 |url-status=live }}</ref>",
                           "url": "https://www.delfi.lt/news/daily/lithuania/buves-lietuvos-kariuomenes-vadas-tutkus-sieks-prezidento-posto.d?id=94707571",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite web |last1=Tutkus |first1=Valdas |title=Valdas Tutkus – Principinės Programinės Nuostatos |url=https://www.kartusuvyciu.lt/valdas-tutkus-principin4s-programin4s-nuostatos/ |website=Partija \"Kartu su Vyčiu\" |language=Lithuanian |date=2023-11-15 |access-date=7 December 2023 |archive-date=7 December 2023 |archive-url=https://web.archive.org/web/20231207180815/https://www.kartusuvyciu.lt/valdas-tutkus-principin4s-programin4s-nuostatos/ |url-status=live }}</ref>",
                           "url": "https://www.kartusuvyciu.lt/valdas-tutkus-principin4s-programin4s-nuostatos/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 404,
+                          "reason": "Not Found",
                           "type": "web"
                         },
                         {
                           "text": "<ref name=\";21\" /><ref>{{cite news | title=V.Tutkus VRK pranešė atsiimantis dokumentus dalyvauti prezidento rinkimuose | work=15min | date=2 April 2024 | url=https://www.15min.lt/naujiena/aktualu/lietuva/v-tutkus-vrk-pranese-atsiimantis-dokumentus-dalyvauti-prezidento-rinkimuose-56-2217916 | language=lt | access-date=3 April 2024 | archive-date=2 April 2024 | archive-url=https://web.archive.org/web/20240402213129/https://www.15min.lt/naujiena/aktualu/lietuva/v-tutkus-vrk-pranese-atsiimantis-dokumentus-dalyvauti-prezidento-rinkimuose-56-2217916 | url-status=live }}</ref>",
                           "url": "https://www.15min.lt/naujiena/aktualu/lietuva/v-tutkus-vrk-pranese-atsiimantis-dokumentus-dalyvauti-prezidento-rinkimuose-56-2217916",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref name=\"lr29\">{{cite news | title=Iš prezidento rinkimų pasitraukęs A. Veryga: nesijaučiu, kad kažką apgavome | work=Lrytas.lt | date=29 March 2024 | url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/03/29/news/is-prezidento-rinkimu-pasitraukes-a-veryga-nesijauciu-kad-kazka-apgavome-31197964 | language=lt | access-date=30 March 2024 | archive-date=30 March 2024 | archive-url=https://web.archive.org/web/20240330163543/https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/03/29/news/is-prezidento-rinkimu-pasitraukes-a-veryga-nesijauciu-kad-kazka-apgavome-31197964 | url-status=live }}</ref>",
                           "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/03/29/news/is-prezidento-rinkimu-pasitraukes-a-veryga-nesijauciu-kad-kazka-apgavome-31197964",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |title=\"Valstiečiai\" į prezidentus kelia Aurelijų Verygą: nebijo būti pirmuoju partiniu kandidatu |url=https://www.15min.lt/naujiena/aktualu/lietuva/valstieciai-i-prezidentus-kelia-a-veryga-56-2090536 |work=15min |language=lt |date=2023-08-01 |access-date=18 October 2023 |archive-date=17 November 2023 |archive-url=https://web.archive.org/web/20231117195614/https://www.15min.lt/naujiena/aktualu/lietuva/valstieciai-i-prezidentus-kelia-a-veryga-56-2090536 |url-status=live }}</ref>",
                           "url": "https://www.15min.lt/naujiena/aktualu/lietuva/valstieciai-i-prezidentus-kelia-a-veryga-56-2090536",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref name=\";21\" /><ref name=\"lr29\" />\n|-\n| <br />'''{{interlanguage link|Gintautas Kniukšta|lt}}'''\n| {{dts|1960|10|25|format=dmy}}<br>(age {{age nts|1960|10|25<!--|2024|5|12-->}})<br />{{ill|Rudaičiai|lt}}, Klaipėda District Municipality|Klaipėda dist. mun.\n| style=\"background-color:{{party color|Independent politician}};\" |\n|{{Abbrlink|ind.|Independent politician}}\n|Editor-in-chief of \"ŠIANDIEN\" (2017–current)<br>Member of the Seimas (2000–2004)\n|{{date|15 Feb 2024}}\n|{{start and end dates|2024|3|8|2024|3|28|df=y}}\n|766\n|{{date|29 Mar 2024}}\n|<ref>{{cite news | title=Prezidento rinkimuose panoro dalyvauti ir Gintautas Kniukšta | work=15min | date=15 February 2024 | url=https://www.15min.lt/naujiena/aktualu/lietuva/gintautas-kniukstas-dalyvaus-prezidento-rinkimuose-56-2192984 | language=lt | access-date=15 February 2024 | archive-date=15 February 2024 | archive-url=https://web.archive.org/web/20240215143805/https://www.15min.lt/naujiena/aktualu/lietuva/gintautas-kniukstas-dalyvaus-prezidento-rinkimuose-56-2192984 | url-status=live }}</ref>",
                           "url": "https://www.15min.lt/naujiena/aktualu/lietuva/gintautas-kniukstas-dalyvaus-prezidento-rinkimuose-56-2192984",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite web | title=2024 m. kovo 7 d. 10 val. vyks Vyriausiosios rinkimų komisijos posėdis | publisher=Lietuvos Respublikos vyriausioji rinkimų komisija | website=YouTube | date=6 March 2024 | url=https://www.youtube.com/watch?v=zIQM4LQ9KXo | access-date=7 March 2024 | archive-date=2 April 2024 | archive-url=https://web.archive.org/web/20240402201635/https://www.youtube.com/watch?v=zIQM4LQ9KXo | url-status=live }}</ref>",
                           "url": "https://www.youtube.com/watch?v=zIQM4LQ9KXo",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{cite news | title=G. Kniukšta traukiasi iš prezidento rinkimų: reikiamo parašų skaičiaus nesurinko dar du kandidatai (atnaujinta) | work=Atvira Klaipėda | date=28 March 2024 | url=https://www.atviraklaipeda.lt/2024/03/28/gintautas-kniuksta-traukiasi-is-prezidento-rinkimu-nesurinko-reikiamo-parasu-skaiciaus/ | access-date=1 April 2024 | archive-date=1 April 2024 | archive-url=https://web.archive.org/web/20240401161227/https://www.atviraklaipeda.lt/2024/03/28/gintautas-kniuksta-traukiasi-is-prezidento-rinkimu-nesurinko-reikiamo-parasu-skaiciaus/ | url-status=live }}</ref>",
                           "url": "https://www.atviraklaipeda.lt/2024/03/28/gintautas-kniuksta-traukiasi-is-prezidento-rinkimu-nesurinko-reikiamo-parasu-skaiciaus/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -490,14 +490,14 @@
                         {
                           "text": "<ref>{{cite news | title=100 dienų iki prezidento rinkimų, registruota 10 kandidatų, liks 9 | work=FM99 | date=2 February 2024 | url=http://fm99.lt/100-dienu-iki-prezidento-rinkimu-registruota-10-kandidatu-liks-9/ | language=lt | access-date=3 February 2024 | archive-date=4 February 2024 | archive-url=https://web.archive.org/web/20240204073244/http://fm99.lt/100-dienu-iki-prezidento-rinkimu-registruota-10-kandidatu-liks-9/ | url-status=live }}</ref>",
                           "url": "http://fm99.lt/100-dienu-iki-prezidento-rinkimu-registruota-10-kandidatu-liks-9/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news | last=Kvedaraitė | first=Vilija | title=Alytiškis Žilvinas Treigys registruotas kandidatu į prezidentus | work=FM99 | date=19 February 2024 | url=https://fm99.lt/alytiskis-zilvinas-treigys-registruotas-kandidatu-i-prezidentus/ | language=lt | access-date=20 February 2024 | archive-date=20 February 2024 | archive-url=https://web.archive.org/web/20240220174821/https://fm99.lt/alytiskis-zilvinas-treigys-registruotas-kandidatu-i-prezidentus/ | url-status=live }}</ref>",
                           "url": "https://fm99.lt/alytiskis-zilvinas-treigys-registruotas-kandidatu-i-prezidentus/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -510,43 +510,43 @@
                         {
                           "text": "<ref name=\"two+one\">{{cite news | last=Lyberytė | first=Augustė | title=Sąrašas tik ilgėja – paaiškėjo dar vienas kandidatas į prezidentus | work=Delfi | date=8 December 2023 | url=https://www.delfi.lt/news/daily/lithuania/sarasas-tik-ilgeja-paaiskejo-dar-vienas-kandidatas-i-prezidentus.d?id=95318367 | language=lt | access-date=9 December 2023 | archive-date=8 December 2023 | archive-url=https://web.archive.org/web/20231208151007/https://www.delfi.lt/news/daily/lithuania/sarasas-tik-ilgeja-paaiskejo-dar-vienas-kandidatas-i-prezidentus.d?id=95318367 | url-status=live }}</ref>",
                           "url": "https://www.delfi.lt/news/daily/lithuania/sarasas-tik-ilgeja-paaiskejo-dar-vienas-kandidatas-i-prezidentus.d?id=95318367",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite web | title=DĖL LR PREZIDENTO RINKIMŲ | website=Centristai.lt | url=https://www.centristai.lt/del-lr-prezidento-rinkimu/ | language=lt | access-date=10 February 2024 | archive-date=3 March 2024 | archive-url=https://web.archive.org/web/20240303142851/https://www.centristai.lt/del-lr-prezidento-rinkimu/ | url-status=dead }}</ref>",
                           "url": "https://www.centristai.lt/del-lr-prezidento-rinkimu/",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 404,
+                          "reason": "Not Found",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{cite news | title=Trumpėja siekiančiųjų tapti prezidentu sąrašas – iš kovos iškrito Andrulėnas | work=LRT | date=12 March 2024 | url=https://www.lrt.lt/naujienos/lietuvoje/2/2219995/trumpeja-siekianciuju-tapti-prezidentu-sarasas-is-kovos-iskrito-andrulenas | language=lt | access-date=12 March 2024 | archive-date=12 March 2024 | archive-url=https://web.archive.org/web/20240312101215/https://www.lrt.lt/naujienos/lietuvoje/2/2219995/trumpeja-siekianciuju-tapti-prezidentu-sarasas-is-kovos-iskrito-andrulenas | url-status=live }}</ref>",
                           "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2219995/trumpeja-siekianciuju-tapti-prezidentu-sarasas-is-kovos-iskrito-andrulenas",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news | title=Alytiškis ryžosi siekti prezidento posto: \"Tai drąsus žingsnis, bet idėjų turiu daug\" | work=AlytusPlius | date=2024-02-19 | url=https://alytusplius.lt/naujienos/alytiskis-ryzosi-siekti-prezidento-posto-tai-drasus-zingsnis-bet-ideju-turiu-daug | language=lt | access-date=2024-02-20 | archive-date=20 February 2024 | archive-url=https://web.archive.org/web/20240220113219/https://alytusplius.lt/naujienos/alytiskis-ryzosi-siekti-prezidento-posto-tai-drasus-zingsnis-bet-ideju-turiu-daug | url-status=live }}</ref>",
-                          "url": "https://alytusplius.lt/naujienos/alytiskis-ryzosi-siekti-prezidento-posto-tai-drasus-zingsnis-bet-ideju-turiu-daug",
-                          "status_code": null,
+                          "url": "https://alytusplius.lt/alytiskis-ryzosi-siekti-prezidento-posto-tai-drasus-zingsnis-bet-ideju-turiu-daug/",
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news | title=Alytiškiai kandidato į prezidentus iš savo miesto neturės | work=Dainavos žodis | date=7 March 2024 | url=https://www.dainavoszodis.lt/2024/03/07/alytiskiai-kandidato-i-prezidentus-is-savo-miesto-netures/ | language=lt | access-date=27 March 2024 | archive-date=27 March 2024 | archive-url=https://web.archive.org/web/20240327174132/https://www.dainavoszodis.lt/2024/03/07/alytiskiai-kandidato-i-prezidentus-is-savo-miesto-netures/ | url-status=live }}</ref>",
                           "url": "https://www.dainavoszodis.lt/2024/03/07/alytiskiai-kandidato-i-prezidentus-is-savo-miesto-netures/",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news | title=VRK: dalyvauti prezidento rinkimuose užsiregistravęs asmuo persigalvojo per naktį | work=Lrytas.lt | date=3 February 2024 | url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/02/03/news/vrk-dalyvauti-prezidento-rinkimuose-uzsiregistraves-asmuo-persigalvojo-per-nakti-30394041 | language=lt | access-date=3 February 2024 | archive-date=3 February 2024 | archive-url=https://web.archive.org/web/20240203175307/https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/02/03/news/vrk-dalyvauti-prezidento-rinkimuose-uzsiregistraves-asmuo-persigalvojo-per-nakti-30394041 | url-status=live }}</ref>",
                           "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/02/03/news/vrk-dalyvauti-prezidento-rinkimuose-uzsiregistraves-asmuo-persigalvojo-per-nakti-30394041",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         }
                       ]
@@ -568,14 +568,14 @@
                         {
                           "text": "<ref>{{cite web |title=Asmenys, kuriuos atsisakyta registruoti rinkimų politinės kampanijos dalyviais |url=https://www.vrk.lt/en/asmenys-kuriuos-atsisakyta-registruoti-rinkimu-politines-kampanijos-dalyviais-2024-pr |publisher=Central Electoral Commission |access-date=16 December 2023 |language=lt |archive-date=16 December 2023 |archive-url=https://web.archive.org/web/20231216184135/https://www.vrk.lt/en/asmenys-kuriuos-atsisakyta-registruoti-rinkimu-politines-kampanijos-dalyviais-2024-pr |url-status=live }}</ref>",
                           "url": "https://www.vrk.lt/en/asmenys-kuriuos-atsisakyta-registruoti-rinkimu-politines-kampanijos-dalyviais-2024-pr",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         },
                         {
                           "text": "<ref>{{cite news | title=Jonas Jankauskas neregistruotas dalyvauti Prezidento rinkimuose | work=15min.lt | date=20 February 2024 | url=https://www.15min.lt/naujiena/aktualu/lietuva/jonas-jankauskas-neregistruotas-dalyvauti-respublikos-prezidento-rinkimuose-56-2194996 | language=lt | access-date=20 February 2024 | archive-date=20 February 2024 | archive-url=https://web.archive.org/web/20240220151003/https://www.15min.lt/naujiena/aktualu/lietuva/jonas-jankauskas-neregistruotas-dalyvauti-respublikos-prezidento-rinkimuose-56-2194996 | url-status=live }}</ref>",
                           "url": "https://www.15min.lt/naujiena/aktualu/lietuva/jonas-jankauskas-neregistruotas-dalyvauti-respublikos-prezidento-rinkimuose-56-2194996",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -588,7 +588,7 @@
                         {
                           "text": "<ref>{{cite news |title=Atsisakyta registruoti Petrą Gražulį Prezidento rinkimų politinės kampanijos dalyviu |url=https://www.15min.lt/naujiena/aktualu/lietuva/atsisakyta-registruoti-petra-grazuli-respublikos-prezidento-rinkimu-politines-kampanijos-dalyviu-56-2193910 |work=15min.lt |language=lt |date=19 February 2024 |access-date=19 February 2024 |archive-date=19 February 2024 |archive-url=https://web.archive.org/web/20240219094656/https://www.15min.lt/naujiena/aktualu/lietuva/atsisakyta-registruoti-petra-grazuli-respublikos-prezidento-rinkimu-politines-kampanijos-dalyviu-56-2193910 |url-status=live }}</ref>",
                           "url": "https://www.15min.lt/naujiena/aktualu/lietuva/atsisakyta-registruoti-petra-grazuli-respublikos-prezidento-rinkimu-politines-kampanijos-dalyviu-56-2193910",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         }
@@ -620,36 +620,36 @@
                         {
                           "text": "<ref>{{cite news |last1=Lyberytė |first1=Augustė |title=\"Laisvė ir teisingumas\" kelia Paulausko kandidatūrą į šalies vadovo postą |url=https://www.lrt.lt/naujienos/lietuvoje/2/2137077/laisve-ir-teisingumas-kelia-paulausko-kandidatura-i-salies-vadovo-posta |work=LRT |language=Lithuanian |date=2023-11-29 |access-date=29 November 2023 |archive-date=29 November 2023 |archive-url=https://web.archive.org/web/20231129194020/https://www.lrt.lt/naujienos/lietuvoje/2/2137077/laisve-ir-teisingumas-kelia-paulausko-kandidatura-i-salies-vadovo-posta |url-status=live }}</ref>",
                           "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2137077/laisve-ir-teisingumas-kelia-paulausko-kandidatura-i-salies-vadovo-posta",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news | title=Paulauskas atsisakė kandidatuoti į prezidento postą: siūlys partijai remti advokatą Vėgelę | work=LRT | date=31 January 2024 | url=https://www.lrt.lt/naujienos/lietuvoje/2/2184058/paulauskas-atsisake-kandidatuoti-i-prezidento-posta-siulys-partijai-remti-advokata-vegele | language=lt | access-date=1 February 2024 | archive-date=1 February 2024 | archive-url=https://web.archive.org/web/20240201090339/https://www.lrt.lt/naujienos/lietuvoje/2/2184058/paulauskas-atsisake-kandidatuoti-i-prezidento-posta-siulys-partijai-remti-advokata-vegele | url-status=live }}</ref>",
                           "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2184058/paulauskas-atsisake-kandidatuoti-i-prezidento-posta-siulys-partijai-remti-advokata-vegele",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news | last=Jurčenkaitė | first=Indrė | title=Dėl Regionų partijos kandidato – nežinia: apsigalvojo dėl Varaškos? | work=DELFI | date=19 December 2023 | url=https://www.delfi.lt/news/daily/lithuania/del-regionu-partijos-kandidato-nezinia-apsigalvojo-del-varaskos.d?id=95416585 | language=lt | access-date=19 December 2023 | archive-date=19 December 2023 | archive-url=https://web.archive.org/web/20231219141625/https://www.delfi.lt/news/daily/lithuania/del-regionu-partijos-kandidato-nezinia-apsigalvojo-del-varaskos.d?id=95416585 | url-status=live }}</ref>",
                           "url": "https://www.delfi.lt/news/daily/lithuania/del-regionu-partijos-kandidato-nezinia-apsigalvojo-del-varaskos.d?id=95416585",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite news |last1=Alonderytė-Kazlauskė |first1=Erika |title=Kazlų Rūdos meras Varaška kandidatuos prezidento rinkimuose |url=https://www.lrt.lt/naujienos/lietuvoje/2/2083868/kazlu-rudos-meras-varaska-kandidatuos-prezidento-rinkimuose |work=LRT |language=lt |date=24 September 2023 |access-date=18 October 2023 |archive-date=28 September 2023 |archive-url=https://web.archive.org/web/20230928072720/https://www.lrt.lt/naujienos/lietuvoje/2/2083868/kazlu-rudos-meras-varaska-kandidatuos-prezidento-rinkimuose |url-status=live }}</ref>",
                           "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2083868/kazlu-rudos-meras-varaska-kandidatuos-prezidento-rinkimuose",
-                          "status_code": null,
+                          "status_code": 200,
                           "reason": null,
                           "type": "news"
                         },
                         {
                           "text": "<ref>{{cite web |last1=Majauskaitė |first1=Raminta |title=Varaška traukiasi iš prezidento rinkimų: Regionų partijos parama buvo apsimestinė |url=https://www.delfi.lt/news/lithuania/varaska-traukiasi-is-prezidento-rinkimu-regionu-partijos-parama-buvo-apsimestine-95673893 |website=Delfi |language=Lithuanian |date=21 January 2024 |access-date=22 January 2024 |archive-date=15 March 2024 |archive-url=https://web.archive.org/web/20240315212039/https://www.delfi.lt/news/lithuania/varaska-traukiasi-is-prezidento-rinkimu-regionu-partijos-parama-buvo-apsimestine-95673893 |url-status=live }}</ref>",
                           "url": "https://www.delfi.lt/news/lithuania/varaska-traukiasi-is-prezidento-rinkimu-regionu-partijos-parama-buvo-apsimestine-95673893",
-                          "status_code": null,
-                          "reason": null,
+                          "status_code": 403,
+                          "reason": "Forbidden",
                           "type": "web"
                         }
                       ]
@@ -675,15 +675,15 @@
                             {
                               "text": "<ref name=\":1\" />\n* Vilija Blinkevičiūtė, Member of the European Parliament, party chairwoman, 2004 Lithuanian presidential election|2004 presidential candidate<ref name=\"socdems\">{{cite news |last1=Černiauskaitė |first1=Agnė |title=Aiškėja LSDP kandidatai į prezidentus: vienas juokėsi, dalis nustebo, o kitas jau galvoja apie pergalę |url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2023/09/22/news/aiskeja-lsdp-kandidatai-i-prezidentus-vienas-juokesi-dalis-nustebo-o-kitas-jau-galvoja-apie-pergale-28460061 |work=Lrytas |language=lt |date=2023-09-22 |access-date=18 October 2023 |archive-date=4 October 2023 |archive-url=https://web.archive.org/web/20231004173232/https://www.lrytas.lt/lietuvosdiena/aktualijos/2023/09/22/news/aiskeja-lsdp-kandidatai-i-prezidentus-vienas-juokesi-dalis-nustebo-o-kitas-jau-galvoja-apie-pergale-28460061 |url-status=live }}</ref>",
                               "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2023/09/22/news/aiskeja-lsdp-kandidatai-i-prezidentus-vienas-juokesi-dalis-nustebo-o-kitas-jau-galvoja-apie-pergale-28460061",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 403,
+                              "reason": "Forbidden",
                               "type": "news"
                             },
                             {
                               "text": "<ref name=\"t5\" />\n* Gintautas Paluckas, Member of the Seimas, former party chairman<ref name=\"socdems\" /><ref name=\"t5\" />\n* Vytenis Andriukaitis, former EU Commissioner, 2019 Lithuanian presidential election|2019, 2002–03 Lithuanian presidential election|2002–03, 1997–98 Lithuanian presidential election|1997–98 presidential candidate<ref name=\"socdems\" /><ref name=\"t5\" />\n* Juozas Olekas, Lithuania (European Parliament constituency)|Member of the European Parliament<ref name=\"t5\">{{cite news | last=Ignatavičius | first=Tadas | title=Socialdemokratų stovykloje – sumaištis: įžvelgia ir šansą, ir klastą | work=Lietuvos rytas | date=9 December 2023 | url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2023/12/09/news/socialdemokratu-stovykloje-sumaistis-izvelgia-ir-sansa-ir-klasta-29515747 | language=lt | access-date=15 December 2023 | archive-date=16 December 2023 | archive-url=https://web.archive.org/web/20231216003613/https://www.lrytas.lt/lietuvosdiena/aktualijos/2023/12/09/news/socialdemokratu-stovykloje-sumaistis-izvelgia-ir-sansa-ir-klasta-29515747 | url-status=live }}</ref>",
                               "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2023/12/09/news/socialdemokratu-stovykloje-sumaistis-izvelgia-ir-sansa-ir-klasta-29515747",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 403,
+                              "reason": "Forbidden",
                               "type": "news"
                             }
                           ]
@@ -705,14 +705,14 @@
                             {
                               "text": "<ref>{{cite news |last1=Skėrytė |first1=Jūratė |title=Nelikus konkurentų Šimonytė tapo TS-LKD kandidate į prezidentus |url=https://www.lrt.lt/naujienos/lietuvoje/2/2092460/nelikus-konkurentu-simonyte-tapo-ts-lkd-kandidate-i-prezidentus |work=LRT |language=lt |date=2023-10-04 |access-date=18 October 2023 |archive-date=11 October 2023 |archive-url=https://web.archive.org/web/20231011182652/https://www.lrt.lt/naujienos/lietuvoje/2/2092460/nelikus-konkurentu-simonyte-tapo-ts-lkd-kandidate-i-prezidentus |url-status=live }}</ref>",
                               "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2092460/nelikus-konkurentu-simonyte-tapo-ts-lkd-kandidate-i-prezidentus",
-                              "status_code": null,
+                              "status_code": 200,
                               "reason": null,
                               "type": "news"
                             },
                             {
                               "text": "<ref name=\"tslkd\">{{cite news |last1=Lyberytė |first1=Augustė |title=Dauguma TS-LKD skyrių prezidento rinkimuose siūlo dalyvauti Šimonytei, Landsbergiui, Navickienei |url=https://www.lrt.lt/naujienos/lietuvoje/2/2084141/dauguma-ts-lkd-skyriu-prezidento-rinkimuose-siulo-dalyvauti-simonytei-landsbergiui-navickienei |work=LRT |language=lt |date=2023-09-25 |access-date=18 October 2023 |archive-date=5 October 2023 |archive-url=https://web.archive.org/web/20231005070405/https://www.lrt.lt/naujienos/lietuvoje/2/2084141/dauguma-ts-lkd-skyriu-prezidento-rinkimuose-siulo-dalyvauti-simonytei-landsbergiui-navickienei |url-status=live }}</ref>",
                               "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2084141/dauguma-ts-lkd-skyriu-prezidento-rinkimuose-siulo-dalyvauti-simonytei-landsbergiui-navickienei",
-                              "status_code": null,
+                              "status_code": 200,
                               "reason": null,
                               "type": "news"
                             }
@@ -735,7 +735,7 @@
                             {
                               "text": "<ref name=\"labour\">{{cite news |last1=Jaruševičiūtė-Mockuvienė |first1=Gailė |title=Darbo partijos skyriai į prezidentus siūlo Mazuronį ir Bukauską |url=https://www.lrt.lt/naujienos/lietuvoje/2/2089441/darbo-partijos-skyriai-i-prezidentus-siulo-mazuroni-ir-bukauska |work=LRT |language=lt |date=2023-10-01 |access-date=18 October 2023 |archive-date=8 October 2023 |archive-url=https://web.archive.org/web/20231008225826/https://www.lrt.lt/naujienos/lietuvoje/2/2089441/darbo-partijos-skyriai-i-prezidentus-siulo-mazuroni-ir-bukauska |url-status=live }}</ref>",
                               "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2089441/darbo-partijos-skyriai-i-prezidentus-siulo-mazuroni-ir-bukauska",
-                              "status_code": null,
+                              "status_code": 200,
                               "reason": null,
                               "type": "news"
                             }
@@ -758,22 +758,22 @@
                             {
                               "text": "<ref name=\"CN\">{{cite news | url=https://www.lrt.lt/naujienos/lietuvoje/2/2136520/i-prezidentus-nekandidatuosianti-cmilyte-nielsen-rinkimai-nebus-labai-idomus-cia-gana-aiskus-favoritas | title=Į prezidentus nekandidatuosianti Čmilytė-Nielsen: Rinkimai nebus labai įdomūs – čia gana aiškus favoritas | work=LRT | language=lt | date=28 November 2023 | access-date=29 November 2023 | archive-date=28 November 2023 | archive-url=https://web.archive.org/web/20231128210046/https://www.lrt.lt/naujienos/lietuvoje/2/2136520/i-prezidentus-nekandidatuosianti-cmilyte-nielsen-rinkimai-nebus-labai-idomus-cia-gana-aiskus-favoritas | url-status=live }}</ref>",
                               "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2136520/i-prezidentus-nekandidatuosianti-cmilyte-nielsen-rinkimai-nebus-labai-idomus-cia-gana-aiskus-favoritas",
-                              "status_code": null,
+                              "status_code": 200,
                               "reason": null,
                               "type": "news"
                             },
                             {
                               "text": "<ref>{{cite news |title=Čmilytė-Nielsen sako, kad liberalų skyriai siūlo jos kandidatūrą prezidento rinkimuose |url=https://www.lrt.lt/naujienos/lietuvoje/2/2125104/cmilyte-nielsen-sako-kad-liberalu-skyriai-siulo-jos-kandidatura-prezidento-rinkimuose |access-date=29 November 2023 |work=LRT |date=15 November 2023 |language=lt |archive-date=2 December 2023 |archive-url=https://web.archive.org/web/20231202151354/https://www.lrt.lt/naujienos/lietuvoje/2/2125104/cmilyte-nielsen-sako-kad-liberalu-skyriai-siulo-jos-kandidatura-prezidento-rinkimuose |url-status=live }}</ref>",
                               "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2125104/cmilyte-nielsen-sako-kad-liberalu-skyriai-siulo-jos-kandidatura-prezidento-rinkimuose",
-                              "status_code": null,
+                              "status_code": 200,
                               "reason": null,
                               "type": "news"
                             },
                             {
                               "text": "<ref name=\"CN\" />\n* Petras Auštrevičius, Lithuania (European Parliament constituency)|Member of the European Parliament, 2004 Lithuanian presidential election|2004 presidential candidate<ref>{{cite web | url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2023/11/28/news/po-lrytas-lt-publikacijos-p-austreviciaus-laiskas-bendrazygiams-papiktine-kolegu-zodziai-vercia-imtis-veiksmu-29354781 | title=Po lrytas.lt publikacijos – P. Auštrevičiaus laiškas bendražygiams: Papiktinę kolegų žodžiai verčia imtis veiksmų | access-date=29 November 2023 | archive-date=2 December 2023 | archive-url=https://web.archive.org/web/20231202151354/https://www.lrytas.lt/lietuvosdiena/aktualijos/2023/11/28/news/po-lrytas-lt-publikacijos-p-austreviciaus-laiskas-bendrazygiams-papiktine-kolegu-zodziai-vercia-imtis-veiksmu-29354781 | url-status=live }}</ref>",
                               "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2023/11/28/news/po-lrytas-lt-publikacijos-p-austreviciaus-laiskas-bendrazygiams-papiktine-kolegu-zodziai-vercia-imtis-veiksmu-29354781",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 403,
+                              "reason": "Forbidden",
                               "type": "web"
                             }
                           ]
@@ -795,8 +795,8 @@
                             {
                               "text": "<ref>{{cite news | last=Juozapaitis | first=Lukas | title=Regionų partijos lyderiai: remiame Varašką, nes norime koncentruotis į kitus darbus | work=DELFI | date=24 September 2023 | url=https://www.delfi.lt/news/daily/lithuania/regionu-partijos-lyderiai-remiame-varaska-nes-norime-koncentruotis-i-kitus-darbus.d?id=94608197 | language=lt | access-date=20 December 2023 | archive-date=20 December 2023 | archive-url=https://web.archive.org/web/20231220163118/https://www.delfi.lt/news/daily/lithuania/regionu-partijos-lyderiai-remiame-varaska-nes-norime-koncentruotis-i-kitus-darbus.d?id=94608197 | url-status=live }}</ref>",
                               "url": "https://www.delfi.lt/news/daily/lithuania/regionu-partijos-lyderiai-remiame-varaska-nes-norime-koncentruotis-i-kitus-darbus.d?id=94608197",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 403,
+                              "reason": "Forbidden",
                               "type": "news"
                             }
                           ]
@@ -808,15 +808,15 @@
                             {
                               "text": "<ref>{{cite news | last=Černiauskaitė | first=Agnė | title=Ž. Pinskuvienė prezidento rinkimuose nedalyvaus: partija priėmė sprendimą | work=Lrytas.lt | date=29 January 2024 | url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/01/29/news/z-pinskuviene-prezidento-rinkimuose-nedalyvaus-partija-prieme-sprendima-30291509 | language=lt | access-date=30 January 2024 | archive-date=30 January 2024 | archive-url=https://web.archive.org/web/20240130082622/https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/01/29/news/z-pinskuviene-prezidento-rinkimuose-nedalyvaus-partija-prieme-sprendima-30291509 | url-status=live }}</ref>",
                               "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/01/29/news/z-pinskuviene-prezidento-rinkimuose-nedalyvaus-partija-prieme-sprendima-30291509",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 403,
+                              "reason": "Forbidden",
                               "type": "news"
                             },
                             {
                               "text": "<ref name=\"ma2\" />\n* Živilė Pinskuvienė, Mayor of Širvintos District Municipality|Širvintos (withdrew)<ref>{{cite web | title=Ž. Pinskuvienė: sprendimas dėl kandidatavimo Prezidento rinkimuose priimtas | website=MadeinVilnius.lt | date=24 January 2024 | url=https://madeinvilnius.lt/naujienos/lietuvos-naujienos/z-pinskuviene-sprendimas-del-kandidatavimo-prezidento-rinkimuose-priimtas/ | language=lt | access-date=24 January 2024 | archive-date=24 January 2024 | archive-url=https://web.archive.org/web/20240124160221/https://madeinvilnius.lt/naujienos/lietuvos-naujienos/z-pinskuviene-sprendimas-del-kandidatavimo-prezidento-rinkimuose-priimtas/ | url-status=live }}</ref>",
                               "url": "https://madeinvilnius.lt/naujienos/lietuvos-naujienos/z-pinskuviene-sprendimas-del-kandidatavimo-prezidento-rinkimuose-priimtas/",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 403,
+                              "reason": "Forbidden",
                               "type": "web"
                             }
                           ]
@@ -838,22 +838,22 @@
                             {
                               "text": "<ref>{{cite news | url=https://www.vz.lt/verslo-aplinka/2023/11/11/vardan-lietuvos-rinks-kandidata-i-prezidentus-ts-lkd--i-europarlamenta | title=\"Vardan Lietuvos\" rinks kandidatą į prezidentus, TS-LKD – į europarlamentą | access-date=24 November 2023 | archive-date=24 November 2023 | archive-url=https://web.archive.org/web/20231124145956/https://www.vz.lt/verslo-aplinka/2023/11/11/vardan-lietuvos-rinks-kandidata-i-prezidentus-ts-lkd--i-europarlamenta | url-status=live }}</ref>",
                               "url": "https://www.vz.lt/verslo-aplinka/2023/11/11/vardan-lietuvos-rinks-kandidata-i-prezidentus-ts-lkd--i-europarlamenta",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 403,
+                              "reason": "Forbidden",
                               "type": "news"
                             },
                             {
                               "text": "<ref name=\"dem\">{{cite news |title=DEMOKRATAI RENGIASI KELTI KANDIDATUS Į PREZIDENTUS: S. SKVERNELIS NENORI KARTOTI ISTORIJOS |url=https://kauno.diena.lt/naujienos/lietuva/politika/demokratai-rengiasi-kelti-kandidatus-i-prezidentus-s-skvernelis-nenori-kartoti-istorijos-1142799 |work=Kauno diena |language=lt |date=2023-10-06 |access-date=29 November 2023 |archive-date=2 December 2023 |archive-url=https://web.archive.org/web/20231202151353/https://kauno.diena.lt/naujienos/lietuva/politika/demokratai-rengiasi-kelti-kandidatus-i-prezidentus-s-skvernelis-nenori-kartoti-istorijos-1142799 |url-status=live }}</ref>",
                               "url": "https://kauno.diena.lt/naujienos/lietuva/politika/demokratai-rengiasi-kelti-kandidatus-i-prezidentus-s-skvernelis-nenori-kartoti-istorijos-1142799",
-                              "status_code": null,
+                              "status_code": 200,
                               "reason": null,
                               "type": "news"
                             },
                             {
                               "text": "<ref name=\"VLfive\">{{cite web | title=Tarp \"Vardan Lietuvos\" kandidatų į prezidento rinkimus – ir buvęs premjeras Butkevičius | website=DELFI | date=7 November 2023 | url=https://www.delfi.lt/news/daily/lithuania/tarp-vardan-lietuvos-kandidatu-i-prezidento-rinkimus-ir-buves-premjeras-butkevicius.d?id=94993687 | language=lt | access-date=20 December 2023 | archive-date=20 December 2023 | archive-url=https://web.archive.org/web/20231220170110/https://www.delfi.lt/news/daily/lithuania/tarp-vardan-lietuvos-kandidatu-i-prezidento-rinkimus-ir-buves-premjeras-butkevicius.d?id=94993687 | url-status=live }}</ref>",
                               "url": "https://www.delfi.lt/news/daily/lithuania/tarp-vardan-lietuvos-kandidatu-i-prezidento-rinkimus-ir-buves-premjeras-butkevicius.d?id=94993687",
-                              "status_code": null,
-                              "reason": null,
+                              "status_code": 403,
+                              "reason": "Forbidden",
                               "type": "web"
                             }
                           ]
@@ -879,29 +879,29 @@
                     {
                       "text": "<ref name=\"tslkd\" /><ref>{{cite news |title=Viešas prašymas Grybauskaitei – renka parašus ir ragina dalyvauti rinkimuose, bet prezidentės biuras gesina aistras |url=https://www.lrt.lt/naujienos/lietuvoje/2/2059589/viesas-prasymas-grybauskaitei-renka-parasus-ir-ragina-dalyvauti-rinkimuose-bet-prezidentes-biuras-gesina-aistras |date=2023-08-21 |access-date=18 October 2023 |archive-date=17 November 2023 |archive-url=https://web.archive.org/web/20231117195609/https://www.lrt.lt/naujienos/lietuvoje/2/2059589/viesas-prasymas-grybauskaitei-renka-parasus-ir-ragina-dalyvauti-rinkimuose-bet-prezidentes-biuras-gesina-aistras |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2059589/viesas-prasymas-grybauskaitei-renka-parasus-ir-ragina-dalyvauti-rinkimuose-bet-prezidentes-biuras-gesina-aistras",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news | title=R. Paksas nedalyvaus artimiausiuose rinkimuose: neatmeta varianto ateityje grįžti į politiką | website=Etaplius | date=13 November 2023 | url=https://etaplius.lt/naujiena/r-paksas-nedalyvaus-artimiausiuose-rinkimuose-neatmeta-varianto-ateityje-grizti-i-politika | access-date=18 December 2023 | archive-date=18 December 2023 | archive-url=https://web.archive.org/web/20231218205611/https://etaplius.lt/naujiena/r-paksas-nedalyvaus-artimiausiuose-rinkimuose-neatmeta-varianto-ateityje-grizti-i-politika | url-status=live }}</ref>",
-                      "url": "https://etaplius.lt/naujiena/r-paksas-nedalyvaus-artimiausiuose-rinkimuose-neatmeta-varianto-ateityje-grizti-i-politika",
-                      "status_code": null,
+                      "url": "https://www.etaplius.lt/naujiena/r-paksas-nedalyvaus-artimiausiuose-rinkimuose-neatmeta-varianto-ateityje-grizti-i-politika",
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |last1=Paleckis |first1=Rimvydas |title=A. Valinskas atskleidė, ką D. Grybauskaitė ragino kandidatuoti į prezidentus |url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/05/20/news/a-valinskas-atskleide-ka-d-grybauskaite-ragino-kandidatuoti-i-prezidentus-31975985 |website=Lrytas |language=lt |date=20 May 2024 |access-date=20 May 2024 |archive-date=20 May 2024 |archive-url=https://web.archive.org/web/20240520173257/https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/05/20/news/a-valinskas-atskleide-ka-d-grybauskaite-ragino-kandidatuoti-i-prezidentus-31975985 |url-status=live }}</ref>",
                       "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/05/20/news/a-valinskas-atskleide-ka-d-grybauskaite-ragino-kandidatuoti-i-prezidentus-31975985",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Jaruševičiūtė-Mockuvienė |first1=Gailė |title=Tomaszewskis jau pasisakė apie Seimo ir prezidento rinkimus |url=https://www.delfi.lt/news/daily/lithuania/tomaszewskis-jau-pasisake-apie-seimo-ir-prezidento-rinkimus.d?id=95196797#cxrecs_s |work=Delfi |language=Lithuanian |date=2023-11-27 |access-date=27 November 2023 |archive-date=27 November 2023 |archive-url=https://web.archive.org/web/20231127122504/https://www.delfi.lt/news/daily/lithuania/tomaszewskis-jau-pasisake-apie-seimo-ir-prezidento-rinkimus.d?id=95196797#cxrecs_s |url-status=live }}</ref>",
                       "url": "https://www.delfi.lt/news/daily/lithuania/tomaszewskis-jau-pasisake-apie-seimo-ir-prezidento-rinkimus.d?id=95196797#cxrecs_s",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -923,7 +923,7 @@
                     {
                       "text": "<ref>{{cite news | last=Andrukaitytė | first=Milena | title=MP Gražulis stripped of mandate, to be barred from election for 10 years | work=LRT | date=18 December 2023 | url=https://www.lrt.lt/en/news-in-english/19/2153162/mp-grazulis-stripped-of-mandate-to-be-barred-from-election-for-10-years | access-date=18 December 2023 | archive-date=18 December 2023 | archive-url=https://web.archive.org/web/20231218145107/https://www.lrt.lt/en/news-in-english/19/2153162/mp-grazulis-stripped-of-mandate-to-be-barred-from-election-for-10-years | url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/en/news-in-english/19/2153162/mp-grazulis-stripped-of-mandate-to-be-barred-from-election-for-10-years",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -948,28 +948,28 @@
                 {
                   "text": "<ref>{{cite web |last1=Valiauskaitė |first1=Aistė |title='Eurovision for politicians': Lithuania's 2024 presidential election holds little suspense |url=https://www.lrt.lt/en/news-in-english/19/2160069/eurovision-for-politicians-lithuania-s-2024-presidential-election-holds-little-suspense |website=LRT |language=Lithuanian |date=2 January 2024 |access-date=17 January 2024 |archive-date=17 January 2024 |archive-url=https://web.archive.org/web/20240117114205/https://www.lrt.lt/en/news-in-english/19/2160069/eurovision-for-politicians-lithuania-s-2024-presidential-election-holds-little-suspense |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2160069/eurovision-for-politicians-lithuania-s-2024-presidential-election-holds-little-suspense",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":2\" /><ref>{{cite web |title=LRT forumas 2024-04-15 |url=https://www.youtube.com/watch?v=9An0ma0AeHg |website=YouTube |publisher=LRT |access-date=16 April 2024 |date=15 April 2024 |archive-date=16 April 2024 |archive-url=https://web.archive.org/web/20240416221952/https://www.youtube.com/watch?v=9An0ma0AeHg |url-status=live }}</ref>",
                   "url": "https://www.youtube.com/watch?v=9An0ma0AeHg",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news | last=Gaučaitė-Znutienė | first=Modesta | title=Intriga – ne laimėtojas, o kas mes iššūkį antrame ture: Nausėdą erzintų ne Šimonytė, o Vėgėlės šešėlis | work=LRT | date=26 February 2024 | url=https://www.lrt.lt/naujienos/lietuvoje/2/2200702/intriga-ne-laimetojas-o-kas-mes-issuki-antrame-ture-nauseda-erzintu-ne-simonyte-o-vegeles-seselis | language=lt | access-date=9 April 2024 | archive-date=9 April 2024 | archive-url=https://web.archive.org/web/20240409155203/https://www.lrt.lt/naujienos/lietuvoje/2/2200702/intriga-ne-laimetojas-o-kas-mes-issuki-antrame-ture-nauseda-erzintu-ne-simonyte-o-vegeles-seselis | url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2200702/intriga-ne-laimetojas-o-kas-mes-issuki-antrame-ture-nauseda-erzintu-ne-simonyte-o-vegeles-seselis",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news | title=Lithuania's president set for runoff in re-election bid amid security concerns | work=TVP | date=13 May 2024 | url=https://tvpworld.com/77498573/lithuanias-president-set-for-runoff-in-re-election-bid-amid-security-concerns | access-date=14 May 2024 | archive-date=14 May 2024 | archive-url=https://web.archive.org/web/20240514054625/https://tvpworld.com/77498573/lithuanias-president-set-for-runoff-in-re-election-bid-amid-security-concerns | url-status=live }}</ref>",
                   "url": "https://tvpworld.com/77498573/lithuanias-president-set-for-runoff-in-re-election-bid-amid-security-concerns",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -982,63 +982,63 @@
                 {
                   "text": "<ref>{{cite web |last1=Broga |first1=Karolis |title=Universal conscription has become election issue, says LVŽS leader |url=https://www.delfi.lt/en/politics/universal-conscription-has-become-election-issue-says-lvzs-leader-95541457 |website=Delfi |language=Lithuanian |date=5 January 2024 |access-date=17 January 2024 |archive-date=17 January 2024 |archive-url=https://web.archive.org/web/20240117114205/https://www.delfi.lt/en/politics/universal-conscription-has-become-election-issue-says-lvzs-leader-95541457 |url-status=live }}</ref>",
                   "url": "https://www.delfi.lt/en/politics/universal-conscription-has-become-election-issue-says-lvzs-leader-95541457",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |last1=Bakaitė |first1=Jurga |title=Veryga skelbia, koks būtų prezidentas: pažadėjo ginti \"tradicines vertybes\" |url=https://www.lrt.lt/naujienos/lietuvoje/2/2146900/veryga-skelbia-koks-butu-prezidentas-pazadejo-ginti-tradicines-vertybes |website=LRT |language=Lithuanian |date=11 December 2023 |quote=A. Veryga sakė matantis, kad dauguma gyventojų nusivylė dabartine valdžia.  „Aš matau, kad dauguma gyventojų nusivylė ir nurašė dabartinės politikos formuotojus. Pasitikėjimas Vyriausybe yra rekordinėse žemumose. Piliečių nuomonė ignoruojama. Mūsų žmonės vis rečiau pasiryžta kurti šeimas. Pamažu nykstame kaip valstybė\", – sakė jis. |access-date=17 January 2024 |archive-date=17 January 2024 |archive-url=https://web.archive.org/web/20240117114205/https://www.lrt.lt/naujienos/lietuvoje/2/2146900/veryga-skelbia-koks-butu-prezidentas-pazadejo-ginti-tradicines-vertybes |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2146900/veryga-skelbia-koks-butu-prezidentas-pazadejo-ginti-tradicines-vertybes",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite news | title=Concern about Russia dominates as Lithuanians vote | work=VOA | date=12 May 2024 | url=https://www.voanews.com/a/concern-about-russia-dominates-as-lithuanians-vote-/7607770.html | access-date=13 May 2024 | archive-date=13 May 2024 | archive-url=https://web.archive.org/web/20240513050607/https://www.voanews.com/a/concern-about-russia-dominates-as-lithuanians-vote-/7607770.html | url-status=live }}</ref>",
                   "url": "https://www.voanews.com/a/concern-about-russia-dominates-as-lithuanians-vote-/7607770.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news | last=Jakučionis | first=Saulius | title=Parliament commission indicts Lithuanian president in 'whistleblower case' | work=LRT | date=26 March 2024 | url=https://www.lrt.lt/en/news-in-english/19/2234671/parliament-commission-indicts-lithuanian-president-in-whistleblower-case | access-date=11 April 2024 | archive-date=5 April 2024 | archive-url=https://web.archive.org/web/20240405180021/https://www.lrt.lt/en/news-in-english/19/2234671/parliament-commission-indicts-lithuanian-president-in-whistleblower-case | url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2234671/parliament-commission-indicts-lithuanian-president-in-whistleblower-case",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news | last=Voveriūnaitė | first=Simona | title=Nausėdos situacija primena 20 metų senumo istoriją: ekspertas išskyrė skirtumus | work=Delfi | date=6 April 2024 | url=https://www.delfi.lt/news/daily/politics/nausedos-situacija-primena-20-metu-senumo-istorija-ekspertas-isskyre-skirtumus-96286255 | language=lt | access-date=11 April 2024 | archive-date=6 April 2024 | archive-url=https://web.archive.org/web/20240406105205/https://www.delfi.lt/news/daily/politics/nausedos-situacija-primena-20-metu-senumo-istorija-ekspertas-isskyre-skirtumus-96286255 | url-status=live }}</ref>",
                   "url": "https://www.delfi.lt/news/daily/politics/nausedos-situacija-primena-20-metu-senumo-istorija-ekspertas-isskyre-skirtumus-96286255",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news | last=Gaučaitė-Znutienė | first=Modesta | title=Bakas tikina, kad Nausėdos aplinkoje buvo dešimtys su Rusija ir Baltarusija susijusių žmonių | work=LRT | date=27 March 2024 | url=https://www.lrt.lt/naujienos/lietuvoje/2/2235323/bakas-tikina-kad-nausedos-aplinkoje-buvo-desimtys-su-rusija-ir-baltarusija-susijusiu-zmoniu | language=lt | access-date=11 April 2024 | archive-date=5 April 2024 | archive-url=https://web.archive.org/web/20240405180042/https://www.lrt.lt/naujienos/lietuvoje/2/2235323/bakas-tikina-kad-nausedos-aplinkoje-buvo-desimtys-su-rusija-ir-baltarusija-susijusiu-zmoniu | url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2235323/bakas-tikina-kad-nausedos-aplinkoje-buvo-desimtys-su-rusija-ir-baltarusija-susijusiu-zmoniu",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\":2\">{{cite web |title=Politologė kandidato į prezidentus Vėgėlės retorikoje įžvelgia populizmą: gelbės tautą nuo \"piktojo elito\" |url=https://www.lrt.lt/naujienos/lietuvoje/2/2139694/politologe-kandidato-i-prezidentus-vegeles-retorikoje-izvelgia-populizma-gelbes-tauta-nuo-piktojo-elito |website=LRT |language=Lithuanian |date=1 December 2023 |access-date=17 January 2024 |archive-date=17 January 2024 |archive-url=https://web.archive.org/web/20240117114206/https://www.lrt.lt/naujienos/lietuvoje/2/2139694/politologe-kandidato-i-prezidentus-vegeles-retorikoje-izvelgia-populizma-gelbes-tauta-nuo-piktojo-elito |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2139694/politologe-kandidato-i-prezidentus-vegeles-retorikoje-izvelgia-populizma-gelbes-tauta-nuo-piktojo-elito",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |title=Ingrida Šimonytė teigia, kad būtų kitokia prezidentė nei Gitanas Nausėda |url=https://ve.lt/gyvenimas/ingrida-simonyte-teigia-kad-butu-kitokia-prezidente-nei-gitanas-nauseda |website=Vakarų ekspresas |language=Lithuanian |date=4 November 2023 |access-date=17 January 2024 |archive-date=17 January 2024 |archive-url=https://web.archive.org/web/20240117181300/https://ve.lt/gyvenimas/ingrida-simonyte-teigia-kad-butu-kitokia-prezidente-nei-gitanas-nauseda |url-status=live }}</ref>",
                   "url": "https://ve.lt/gyvenimas/ingrida-simonyte-teigia-kad-butu-kitokia-prezidente-nei-gitanas-nauseda",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"facebook\"/><ref>{{cite news | title=Lithuanians go to polls in presidential election | work=TVP | date=12 May 2024 | url=https://tvpworld.com/77486738/lithuanians-go-to-polls-in-presidential-election | access-date=14 May 2024 | archive-date=14 May 2024 | archive-url=https://web.archive.org/web/20240514054625/https://tvpworld.com/77486738/lithuanians-go-to-polls-in-presidential-election | url-status=live }}</ref>",
                   "url": "https://tvpworld.com/77486738/lithuanians-go-to-polls-in-presidential-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -1051,7 +1051,7 @@
                 {
                   "text": "<ref>{{cite news | title=Nausėda and Šimonytė make it to runoffs in rerun of 2019 presidential election | work=LRT | date=13 May 2024 | url=https://www.lrt.lt/en/news-in-english/19/2270543/nauseda-and-simonyte-make-it-to-runoffs-in-rerun-of-2019-presidential-election | access-date=14 May 2024 | archive-date=14 May 2024 | archive-url=https://web.archive.org/web/20240514051554/https://www.lrt.lt/en/news-in-english/19/2270543/nauseda-and-simonyte-make-it-to-runoffs-in-rerun-of-2019-presidential-election | url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2270543/nauseda-and-simonyte-make-it-to-runoffs-in-rerun-of-2019-presidential-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -1072,7 +1072,7 @@
                     {
                       "text": "<ref>{{cite web |last1=Vilikanskytė |first1=Milda |title=Nuo savo kišenės iki verslininkų: kas remia kandidatus prezidento rinkimuose |url=https://www.lrt.lt/naujienos/lietuvoje/2/2240662/nuo-savo-kisenes-iki-verslininku-kas-remia-kandidatus-i-prezidento-rinkimuose |website=LRT |language=lt |date=2 April 2024 |access-date=2 April 2024 |archive-date=2 April 2024 |archive-url=https://web.archive.org/web/20240402232347/https://www.lrt.lt/naujienos/lietuvoje/2/2240662/nuo-savo-kisenes-iki-verslininku-kas-remia-kandidatus-i-prezidento-rinkimuose |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2240662/nuo-savo-kisenes-iki-verslininku-kas-remia-kandidatus-i-prezidento-rinkimuose",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -1104,113 +1104,113 @@
                     {
                       "text": "<ref name=\"Official Results\">{{cite web |title=2024 m. gegužės 12 d. Respublikos Prezidento rinkimai (I turas) |url=https://rezultatai.vrk.lt/?srcUrl=/rinkimai/1504/1/2070/rezultatai/lt/rezultataiPreRezultatai.html |date=13 May 2024 |access-date=1 July 2024 |language=lt}}</ref>",
                       "url": "https://rezultatai.vrk.lt/?srcUrl=/rinkimai/1504/1/2070/rezultatai/lt/rezultataiPreRezultatai.html",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"V2-3\">{{cite news | title=Apklausa: G. Nausėda lieka prezidentinių reitingų lyderiu | work=Klaipėdos diena | agency=BNS | date=10 April 2024 | url=https://klaipeda.diena.lt/naujienos/lietuva/politika/apklausa-g-nauseda-lieka-prezidentiniu-reitingu-lyderiu-1169019 | language=lt | access-date=10 April 2024 | archive-date=9 May 2024 | archive-url=https://web.archive.org/web/20240509130425/https://klaipeda.diena.lt/naujienos/lietuva/politika/apklausa-g-nauseda-lieka-prezidentiniu-reitingu-lyderiu-1169019 | url-status=live }}</ref>",
                       "url": "https://klaipeda.diena.lt/naujienos/lietuva/politika/apklausa-g-nauseda-lieka-prezidentiniu-reitingu-lyderiu-1169019",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web | url=https://www.alfa.lt/aktualijos/lietuva/prezidento-rinkimu-pokyciai-kandidatu-reitingu-lenteleje-sociologe-teigia-kad-tai-bumerango-efektas/327210/ | title=Prezidento rinkimų pokyčiai kandidatų reitingų lentelėje: Sociologė teigia, kad tai \"bumerango efektas\" | access-date=16 April 2024 | archive-date=16 April 2024 | archive-url=https://web.archive.org/web/20240416220101/https://www.alfa.lt/aktualijos/lietuva/prezidento-rinkimu-pokyciai-kandidatu-reitingu-lenteleje-sociologe-teigia-kad-tai-bumerango-efektas/327210/ | url-status=live }}</ref>",
                       "url": "https://www.alfa.lt/aktualijos/lietuva/prezidento-rinkimu-pokyciai-kandidatu-reitingu-lenteleje-sociologe-teigia-kad-tai-bumerango-efektas/327210/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news | title=Naujausiuose reitinguose – piliečių žinutė G. Nausėdai ir rimtas perspėjimas konservatoriams | work=Lietuvos rytas | date=5 April 2024 | url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/04/05/news/naujausiuose-reitinguose-pilieciu-zinute-g-nausedai-ir-rimtas-perspejimas-konservatoriams-31280241 | language=lt | access-date=5 April 2024 | archive-date=5 April 2024 | archive-url=https://web.archive.org/web/20240405050339/https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/04/05/news/naujausiuose-reitinguose-pilieciu-zinute-g-nausedai-ir-rimtas-perspejimas-konservatoriams-31280241 | url-status=live }}</ref>",
                       "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/04/05/news/naujausiuose-reitinguose-pilieciu-zinute-g-nausedai-ir-rimtas-perspejimas-konservatoriams-31280241",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |title=Prezidentiniuose reitinguose Nausėda atitrūko nuo konkurentų: ekspertės teigimu, intriga išlieka |url=https://www.lrt.lt/naujienos/lietuvoje/2/2233028/prezidentiniuose-reitinguose-nauseda-atitruko-nuo-konkurentu-ekspertes-teigimu-intriga-islieka |website=LRT |language=lt |date=25 March 2024 |access-date=27 March 2024 |archive-date=27 March 2024 |archive-url=https://web.archive.org/web/20240327121158/https://www.lrt.lt/naujienos/lietuvoje/2/2233028/prezidentiniuose-reitinguose-nauseda-atitruko-nuo-konkurentu-ekspertes-teigimu-intriga-islieka |url-status=live }}</ref>",
                       "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2233028/prezidentiniuose-reitinguose-nauseda-atitruko-nuo-konkurentu-ekspertes-teigimu-intriga-islieka",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web | last=Voveriūnaitė | first=Simona | title=Prezidentinių reitingų intriga: dar nematytas rekordas ir arši dvikova | website=Delfi | date=15 March 2024 | url=https://www.delfi.lt/news/daily/lithuania/prezidentiniu-reitingu-intriga-dar-nematytas-rekordas-ir-arsi-dvikova-96118221 | language=lt | access-date=15 March 2024 | archive-date=15 March 2024 | archive-url=https://web.archive.org/web/20240315062114/https://www.delfi.lt/news/daily/lithuania/prezidentiniu-reitingu-intriga-dar-nematytas-rekordas-ir-arsi-dvikova-96118221 | url-status=live }}</ref>",
                       "url": "https://www.delfi.lt/news/daily/lithuania/prezidentiniu-reitingu-intriga-dar-nematytas-rekordas-ir-arsi-dvikova-96118221",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\"V2-3\" />\n|{{abbr|S|Spinter tyrimai}}||1,017\n| colspan=\"2\" |{{sort|0.1|{{NoteTag|name=\":2\"}}}}\n| style=\"background:#DDDDDD; width:40px;\" |'''28.5%'''\n|12.8%\n|1.7%\n| style=\"background:#DDDDDD; width:40px;\" |'''13.4%'''\n|4.3%\n|4.7%\n| colspan=\"3\" |{{sort|0.1|{{NoteTag|name=\":2\"}}}}\n|3.0%\n|2.6%\n| colspan=\"6\" {{n/a}}\n|5.8%\n|15.1%\n|8.1%\n|- class=\"sortbottom\" style=\"background:lightyellow;\"\n|style=\"font-size:80%\"|{{sort|z|15 February 2024}}\n| colspan=\"25\" |Gintautas Kniukšta declares his candidacy\n|- class=\"sortbottom\" style=\"background:lightyellow;\"\n|style=\"font-size:80%\"|{{sort|z|13 February 2024}}\n| colspan=\"25\" |Arūnas Rimkus declares his candidacy\n|-\n|{{sort|189|February 2024<!--Likely also 8–17, but not specified-->}}<ref name=\"Beniušis\">{{cite news | last=Beniušis | first=Vaidotas | title=Pasikinkęs socdemus G.Nausėda spurtuoja: tyrimas atskleidžia naują rinkimų paveikslą | work=15min.lt | date=4 March 2024 | url=https://www.15min.lt/naujiena/aktualu/lietuva/g-nauseda-spurtuoja-tyrimas-atskleidzia-nauja-rinkimu-paveiksla-56-2200676 | language=lt | access-date=4 March 2024 | archive-date=4 March 2024 | archive-url=https://web.archive.org/web/20240304193630/https://www.15min.lt/naujiena/aktualu/lietuva/g-nauseda-spurtuoja-tyrimas-atskleidzia-nauja-rinkimu-paveiksla-56-2200676 | url-status=live }}</ref>",
                       "url": "https://www.15min.lt/naujiena/aktualu/lietuva/g-nauseda-spurtuoja-tyrimas-atskleidzia-nauja-rinkimu-paveiksla-56-2200676",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"Beniušis\"/>\n|rowspan=\"2\" |{{abbr|V|Vilmorus}}||1,002 || \n|0.2%\n|2.4%\n| style=\"background:#DDDDDD; width:40px;\" |'''37.4%'''\n| style=\"background:{{party color|Homeland Union (2020)}}; width:40px;\" |'''11.5%'''\n|1.6%\n|11.3%\n|2.0%\n|6.0%\n|0%\n|2.7%\n|3.4%\n|16.6%\n|5.0%\n|-\n|{{sort|191|{{start and end dates|2024|2|8|2024|2|17|df=y}}}}<ref>{{cite news | title=Ką atskleidė naujausi reitingai: rinkimų scenoje – keli pagrindiniai veikėjai ir būrys statistų | work=Lietuvos rytas | date=1 March 2024 | url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/03/01/news/ka-atskleide-naujausi-reitingai-rinkimu-scenoje-keli-pagrindiniai-veikejai-ir-burys-statistu-30788760 | language=lt | access-date=2 March 2024 | archive-date=2 March 2024 | archive-url=https://web.archive.org/web/20240302175041/https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/03/01/news/ka-atskleide-naujausi-reitingai-rinkimu-scenoje-keli-pagrindiniai-veikejai-ir-burys-statistu-30788760 | url-status=live }}</ref>",
                       "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2024/03/01/news/ka-atskleide-naujausi-reitingai-rinkimu-scenoje-keli-pagrindiniai-veikejai-ir-burys-statistu-30788760",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news | last=Broga | first=Karolis | title=Nausėda is favourite candidate in presidential elections, Vėgėlė his closest rival | work=Delfi | date=20 February 2024 | url=https://www.delfi.lt/en/politics/nauseda-is-favourite-candidate-in-presidential-elections-vegele-his-closest-rival-95917767 | language=lt | access-date=20 February 2024 | archive-date=20 February 2024 | archive-url=https://web.archive.org/web/20240220130431/https://www.delfi.lt/en/politics/nauseda-is-favourite-candidate-in-presidential-elections-vegele-his-closest-rival-95917767 | url-status=live }}</ref>",
                       "url": "https://www.delfi.lt/en/politics/nauseda-is-favourite-candidate-in-presidential-elections-vegele-his-closest-rival-95917767",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite web |title=Prezidento reitinguose lyderiu išlieka G. Nausėda |url=https://www.15min.lt/naujiena/aktualu/lietuva/prezidento-reitinguose-lyderiu-islieka-gnauseda-delfisprinter-tyrimu-apklausa-56-2192498 |website=15min.lt |language=Lithuanian |date=15 February 2024 |access-date=15 February 2024 |archive-date=15 February 2024 |archive-url=https://web.archive.org/web/20240215093831/https://www.15min.lt/naujiena/aktualu/lietuva/prezidento-reitinguose-lyderiu-islieka-gnauseda-delfisprinter-tyrimu-apklausa-56-2192498 |url-status=live }}</ref>",
                       "url": "https://www.15min.lt/naujiena/aktualu/lietuva/prezidento-reitinguose-lyderiu-islieka-gnauseda-delfisprinter-tyrimu-apklausa-56-2192498",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |title=Prezidento reitinguose lyderiu išlieka G. Nausėda |url=https://www.15min.lt/naujiena/aktualu/lietuva/prezidento-reitinguose-lyderiu-islieka-g-nauseda-56-2174408 |website=15min.lt |language=Lithuanian |date=12 January 2024 |access-date=12 January 2024 |archive-date=12 January 2024 |archive-url=https://web.archive.org/web/20240112161347/https://www.15min.lt/naujiena/aktualu/lietuva/prezidento-reitinguose-lyderiu-islieka-g-nauseda-56-2174408 |url-status=live }}</ref>",
                       "url": "https://www.15min.lt/naujiena/aktualu/lietuva/prezidento-reitinguose-lyderiu-islieka-g-nauseda-56-2174408",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |last1=Jurčenkaitė |first1=Indrė |title=Prezidentiniai reitingai: naujos pavardės ir reikšmingi pokyčiai |url=https://www.delfi.lt/news/daily/lithuania/prezidentiniai-reitingai-naujos-pavardes-ir-reiksmingi-pokyciai.d?id=95364077 |website=Delfi |language=Lithuanian |date=2023-12-14 |access-date=14 December 2023 |archive-date=14 December 2023 |archive-url=https://web.archive.org/web/20231214045203/https://www.delfi.lt/news/daily/lithuania/prezidentiniai-reitingai-naujos-pavardes-ir-reiksmingi-pokyciai.d?id=95364077 |url-status=live }}</ref>",
                       "url": "https://www.delfi.lt/news/daily/lithuania/prezidentiniai-reitingai-naujos-pavardes-ir-reiksmingi-pokyciai.d?id=95364077",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite web |last1=Jaruševičiūtė-Mockuvienė |first1=Gailė |title=Prezidentiniai reitingai: užtikrintai pirmaujantis Nausėda ir nuo lyderių trejetuko atsiliekanti Šimonytė |url=https://www.delfi.lt/news/daily/lithuania/prezidentiniai-reitingai-uztikrintai-pirmaujantis-nauseda-ir-nuo-lyderiu-trejetuko-atsiliekanti-simonyte.d?id=95467695 |website=Delfi |language=Lithuanian |date=2023-12-24 |access-date=24 December 2023 |archive-date=24 December 2023 |archive-url=https://web.archive.org/web/20231224145700/https://www.delfi.lt/news/daily/lithuania/prezidentiniai-reitingai-uztikrintai-pirmaujantis-nauseda-ir-nuo-lyderiu-trejetuko-atsiliekanti-simonyte.d?id=95467695 |url-status=live }}</ref>",
                       "url": "https://www.delfi.lt/news/daily/lithuania/prezidentiniai-reitingai-uztikrintai-pirmaujantis-nauseda-ir-nuo-lyderiu-trejetuko-atsiliekanti-simonyte.d?id=95467695",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |last1=Voveriūnaitė |first1=Simona |title=Prezidentinių reitingų intriga: fiksuojami reikšmingi poslinkiai |url=https://www.delfi.lt/news/daily/lithuania/prezidentiniu-reitingu-intriga-fiksuojami-reiksmingi-poslinkiai.d?id=95019695 |work=Delfi |language=Lithuanian |date=2023-11-14 |access-date=14 November 2023 |archive-date=14 November 2023 |archive-url=https://web.archive.org/web/20231114084703/https://www.delfi.lt/news/daily/lithuania/prezidentiniu-reitingu-intriga-fiksuojami-reiksmingi-poslinkiai.d?id=95019695 |url-status=live }}</ref>",
                       "url": "https://www.delfi.lt/news/daily/lithuania/prezidentiniu-reitingu-intriga-fiksuojami-reiksmingi-poslinkiai.d?id=95019695",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news | url=https://www.delfi.lt/news/daily/lithuania/prezidentiniai-reitingai-didziausia-intriga-del-antrojo-turo.d?id=94830109 | title=Prezidentiniai reitingai: Didžiausia intriga – dėl antrojo turo | access-date=27 November 2023 | archive-date=2 December 2023 | archive-url=https://web.archive.org/web/20231202151355/https://www.delfi.lt/news/daily/lithuania/prezidentiniai-reitingai-didziausia-intriga-del-antrojo-turo.d?id=94830109 | url-status=live }}</ref>",
                       "url": "https://www.delfi.lt/news/daily/lithuania/prezidentiniai-reitingai-didziausia-intriga-del-antrojo-turo.d?id=94830109",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news | title=Prezidentiniai reitingai: D. Grybauskaitės palaikymas didėja, tačiau užtikrintas lyderis – G. Nausėda | work=Lietuvos rytas | date=23 September 2023 | url=https://www.lrytas.lt/lietuvosdiena/aktualijos/2023/09/23/news/prezidentiniai-reitingai-d-grybauskaites-palaikymas-dideja-taciau-uztikrintas-lyderis-g-nauseda-28478647 | language=lt | access-date=20 December 2023 | archive-date=20 December 2023 | archive-url=https://web.archive.org/web/20231220161703/https://www.lrytas.lt/lietuvosdiena/aktualijos/2023/09/23/news/prezidentiniai-reitingai-d-grybauskaites-palaikymas-dideja-taciau-uztikrintas-lyderis-g-nauseda-28478647 | url-status=live }}</ref>",
                       "url": "https://www.lrytas.lt/lietuvosdiena/aktualijos/2023/09/23/news/prezidentiniai-reitingai-d-grybauskaites-palaikymas-dideja-taciau-uztikrintas-lyderis-g-nauseda-28478647",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 403,
+                      "reason": "Forbidden",
                       "type": "news"
                     }
                   ]
@@ -1249,21 +1249,21 @@
                 {
                   "text": "<ref>{{Cite web |title=Over 91,000 Lithuanian voters cast ballots in 2 days of early voting |url=https://www.lrt.lt/en/news-in-english/19/2268606/over-91-000-lithuanian-voters-cast-ballots-in-2-days-of-early-voting |access-date=2024-05-14 |website=LRT |date=9 May 2024 |language=en |archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514061012/https://www.lrt.lt/en/news-in-english/19/2268606/over-91-000-lithuanian-voters-cast-ballots-in-2-days-of-early-voting |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2268606/over-91-000-lithuanian-voters-cast-ballots-in-2-days-of-early-voting",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Home voting begins in Lithuania's presidential election and citizenship referendum |url=https://www.lrt.lt/en/news-in-english/19/2269628/home-voting-begins-in-lithuania-s-presidential-election-and-citizenship-referendum |access-date=2024-05-14 |website=LRT |date=10 May 2024 |language=en |archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514061001/https://www.lrt.lt/en/news-in-english/19/2269628/home-voting-begins-in-lithuania-s-presidential-election-and-citizenship-referendum |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2269628/home-voting-begins-in-lithuania-s-presidential-election-and-citizenship-referendum",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"ap\" /> This led Ignas Vėgėlė to criticize what he called a \"lack of transparency\" due to their absence. Two thousand other monitors were allowed to observe the election.<ref>{{Cite web |title=Lithuania's election chief rejects criticism over absence of OSCE observers |url=https://www.lrt.lt/en/news-in-english/19/2271855/lithuania-s-election-chief-rejects-criticism-over-absence-of-osce-observers |access-date=2024-05-14 |website=LRT |date=13 May 2024 |language=en |archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514060556/https://www.lrt.lt/en/news-in-english/19/2271855/lithuania-s-election-chief-rejects-criticism-over-absence-of-osce-observers |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2271855/lithuania-s-election-chief-rejects-criticism-over-absence-of-osce-observers",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1276,28 +1276,28 @@
                 {
                   "text": "<ref>{{Cite web |title=Early voting starts in Lithuania's presidential run-off |url=https://www.lrt.lt/en/news-in-english/19/2278158/early-voting-starts-in-lithuania-s-presidential-run-off |access-date=2024-05-21 |website=LRT |date=21 May 2024 |language=en |archive-date=21 May 2024 |archive-url=https://web.archive.org/web/20240521153843/https://www.lrt.lt/en/news-in-english/19/2278158/early-voting-starts-in-lithuania-s-presidential-run-off |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2278158/early-voting-starts-in-lithuania-s-presidential-run-off",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Home voting starts in Lithuania's presidential run-off |url=https://www.lrt.lt/en/news-in-english/19/2280993/home-voting-starts-in-lithuania-s-presidential-run-off |access-date=2024-05-25 |website=LRT |date=24 May 2024 |language=en |archive-date=24 May 2024 |archive-url=https://web.archive.org/web/20240524190439/https://www.lrt.lt/en/news-in-english/19/2280993/home-voting-starts-in-lithuania-s-presidential-run-off |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2280993/home-voting-starts-in-lithuania-s-presidential-run-off",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Presidential election run-off underway in Lithuania |url=https://www.lrt.lt/en/news-in-english/19/2278660/presidential-election-run-off-underway-in-lithuania |access-date=2024-05-26 |website=LRT |date=26 May 2024 |language=en |archive-date=26 May 2024 |archive-url=https://web.archive.org/web/20240526130439/https://www.lrt.lt/en/news-in-english/19/2278660/presidential-election-run-off-underway-in-lithuania |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2278660/presidential-election-run-off-underway-in-lithuania",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"facebook\">{{Cite web |title=Lithuanians vote in presidential runoff amid security fears over Russia |url=https://www.france24.com/en/europe/20240526-lithuanians-vote-in-presidential-runoff-amid-security-fears-over-russia |access-date=2024-05-26 |website=France 24 |date=26 May 2024 |language=en |archive-date=26 May 2024 |archive-url=https://web.archive.org/web/20240526153535/https://www.france24.com/en/europe/20240526-lithuanians-vote-in-presidential-runoff-amid-security-fears-over-russia |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/europe/20240526-lithuanians-vote-in-presidential-runoff-amid-security-fears-over-russia",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1320,28 +1320,28 @@
                 {
                   "text": "<ref>{{Cite web |date=2024-05-13 |title=Lithuanian president is the front-runner as country heads to runoff vote in two weeks |url=https://apnews.com/article/lithuania-president-election-russia-ukraine-nato-95037574444eb542e309794ff33e0775 |access-date=2024-05-13 |website=AP News |language=en |archive-date=13 May 2024 |archive-url=https://web.archive.org/web/20240513171633/https://apnews.com/article/lithuania-president-election-russia-ukraine-nato-95037574444eb542e309794ff33e0775 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/lithuania-president-election-russia-ukraine-nato-95037574444eb542e309794ff33e0775",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Lithuania: Nauseda and Simonyte head to presidential run-off |url=https://www.dw.com/en/lithuania-nauseda-and-simonyte-head-to-presidential-run-off/a-69055624 |access-date=2024-05-13 |website=Deutsche Welle |language=en |archive-date=13 May 2024 |archive-url=https://web.archive.org/web/20240513171633/https://www.dw.com/en/lithuania-nauseda-and-simonyte-head-to-presidential-run-off/a-69055624 |url-status=live }}</ref>",
                   "url": "https://www.dw.com/en/lithuania-nauseda-and-simonyte-head-to-presidential-run-off/a-69055624",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Nausėda and Šimonytė make it to runoffs in rerun of 2019 presidential election |url=https://www.lrt.lt/en/news-in-english/19/2270543/nauseda-and-simonyte-make-it-to-runoffs-in-rerun-of-2019-presidential-election |access-date=2024-05-14 |website=LRT |date=13 May 2024 |language=en |archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514060023/https://www.lrt.lt/en/news-in-english/19/2270543/nauseda-and-simonyte-make-it-to-runoffs-in-rerun-of-2019-presidential-election |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2270543/nauseda-and-simonyte-make-it-to-runoffs-in-rerun-of-2019-presidential-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"turnout\">{{Cite web |title=Lithuania sees nearly 60% turnout in presidential election, highest since 1997 |url=https://tvpworld.com/77494452/lithuania-sees-nearly-60-turnout-in-presidential-election-highest-since-1997 |access-date=2024-05-14 |website=TVP |language=en |archive-date=14 May 2024 |archive-url=https://web.archive.org/web/20240514052839/https://tvpworld.com/77494452/lithuania-sees-nearly-60-turnout-in-presidential-election-highest-since-1997 |url-status=live }}</ref>",
                   "url": "https://tvpworld.com/77494452/lithuania-sees-nearly-60-turnout-in-presidential-election-highest-since-1997",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1354,21 +1354,21 @@
                 {
                   "text": "<ref>{{cite web |last1=Lyberytė |first1=Augustė |title=Vėgėlė antrame rinkimų ture reiškia paramą Nausėdai |url=https://www.lrt.lt/naujienos/lietuvoje/2/2280982/vegele-antrame-rinkimu-ture-reiskia-parama-nausedai |website=LRT |language=lt |date=24 May 2024 |access-date=24 May 2024 |archive-date=24 May 2024 |archive-url=https://web.archive.org/web/20240524072247/https://www.lrt.lt/naujienos/lietuvoje/2/2280982/vegele-antrame-rinkimu-ture-reiskia-parama-nausedai |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2280982/vegele-antrame-rinkimu-ture-reiskia-parama-nausedai",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |last1=Jakučionis |first1=Saulius |last2=Venckūnas |first2=Vilmantas |title=Prasideda antrasis rinkimų turas – daugelis į jį nepatekusių kandidatų nenutarė, ką rems |url=https://www.lrt.lt/naujienos/lietuvoje/2/2277517/prasideda-antrasis-rinkimu-turas-daugelis-i-ji-nepatekusiu-kandidatu-nenutare-ka-rems |website=LRT |language=lt |date=21 May 2024 |access-date=21 May 2024 |archive-date=21 May 2024 |archive-url=https://web.archive.org/web/20240521060314/https://www.lrt.lt/naujienos/lietuvoje/2/2277517/prasideda-antrasis-rinkimu-turas-daugelis-i-ji-nepatekusiu-kandidatu-nenutare-ka-rems |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/naujienos/lietuvoje/2/2277517/prasideda-antrasis-rinkimu-turas-daugelis-i-ji-nepatekusiu-kandidatu-nenutare-ka-rems",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"ajvictory\" /> This was the highest majority for a presidential runoff in Lithuania.<ref>{{Cite web |date=2024-05-28 |title=Easy win and easier second term – what do Lithuanian presidential election results mean |url=https://www.lrt.lt/en/news-in-english/19/2282730/easy-win-and-easier-second-term-what-do-lithuanian-presidential-election-results-mean |access-date=2024-05-28 |website=LRT |language=en |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527093842/https://www.lrt.lt/en/news-in-english/19/2282730/easy-win-and-easier-second-term-what-do-lithuanian-presidential-election-results-mean |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2282730/easy-win-and-easier-second-term-what-do-lithuanian-presidential-election-results-mean",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1381,8 +1381,8 @@
                 {
                   "text": "<ref>{{cite web |title=2024 m. gegužės 26 d. Respublikos Prezidento rinkimai (II turas) |url=https://www.vrk.lt/2024-prezidento/rezultatai?srcUrl=/rinkimai/1504/2/2068/rezultatai/lt/rezultataiPreLietuvoje.html |access-date=1 July 2024 |language=Lithuanian}}</ref>",
                   "url": "https://www.vrk.lt/2024-prezidento/rezultatai?srcUrl=/rinkimai/1504/2/2068/rezultatai/lt/rezultataiPreLietuvoje.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 }
               ]
@@ -1404,14 +1404,14 @@
                 {
                   "text": "<ref name=\"ajvictory\">{{Cite web |title=Lithuania's Gitanas Nauseda declares victory in presidential election |url=https://www.aljazeera.com/news/2024/5/26/lithuanias-gitanas-nauseda-declares-victory-in-presidential-election |access-date=2024-05-27 |website=Al Jazeera |language=en |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527060010/https://www.aljazeera.com/news/2024/5/26/lithuanias-gitanas-nauseda-declares-victory-in-presidential-election |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/5/26/lithuanias-gitanas-nauseda-declares-victory-in-presidential-election",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Nausėda claims landslide victory in Lithuania's presidential run-off |url=https://www.lrt.lt/en/news-in-english/19/2278660/presidential-election-run-off-underway-in-lithuania |access-date=2024-05-27 |website=LRT |date=27 May 2024 |language=en |archive-date=26 May 2024 |archive-url=https://web.archive.org/web/20240526043625/https://www.lrt.lt/en/news-in-english/19/2278660/presidential-election-run-off-underway-in-lithuania |url-status=live }}</ref>",
                   "url": "https://www.lrt.lt/en/news-in-english/19/2278660/presidential-election-run-off-underway-in-lithuania",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -1434,14 +1434,14 @@
                 {
                   "text": "<ref>{{Cite web |title=Polish president congratulates Lithuanian counterpart on re-election |url=https://tvpworld.com/77755290/polish-president-congratulates-lithuanian-counterpart-on-reelection |access-date=2024-05-27 |website=TVP |date=27 May 2024 |language=en |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527093013/https://tvpworld.com/77755290/polish-president-congratulates-lithuanian-counterpart-on-reelection |url-status=live }}</ref>",
                   "url": "https://tvpworld.com/77755290/polish-president-congratulates-lithuanian-counterpart-on-reelection",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Lithuania's incumbent president declares victory in runoff vote |url=https://kyivindependent.com/nauseda-claims-landslide-victory-in-lithuanian-presidential-election/ |access-date=2024-05-27 |website=The Kyiv Independent |date=27 May 2024 |language=en |archive-date=27 May 2024 |archive-url=https://web.archive.org/web/20240527072901/https://kyivindependent.com/nauseda-claims-landslide-victory-in-lithuanian-presidential-election/ |url-status=live }}</ref>",
                   "url": "https://kyivindependent.com/nauseda-claims-landslide-victory-in-lithuanian-presidential-election/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

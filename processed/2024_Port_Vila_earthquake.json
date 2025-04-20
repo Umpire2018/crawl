@@ -1,0 +1,630 @@
+{
+  "title": "2024_Port_Vila_earthquake",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "At 12:47:26{{nbsp}}Time in Vanuatu|VUT (01:47:26{{nbsp}}Coordinated Universal Time|UTC) on 17{{nbsp}}December 2024, a {{M|w|link=y}} 7.3 earthquake struck near Port Vila, the capital of Vanuatu. At least 14 people died while 265 others were injured.<ref name=\"OCHA1226\"/> Extensive damage occurred in Port Vila and surrounding areas. The earthquake also generated a {{cvt|25|cm|in|0}} tsunami.<ref name=\"Needham\" />",
+              "references": [
+                {
+                  "text": "<ref name=\"dw\">{{Cite news |agency=Associated Press, Agence France-Presse, Reuters |title=Vanuatu rocked by major earthquake |url=https://www.dw.com/en/vanuatu-rocked-by-major-earthquake/a-71076632 |access-date=17 December 2024 |publisher=DW News |language=en |archive-date=17 December 2024 |archive-url=https://web.archive.org/web/20241217074430/https://www.dw.com/en/vanuatu-rocked-by-major-earthquake/a-71076632 |url-status=live }}</ref>",
+                  "url": "https://www.dw.com/en/vanuatu-rocked-by-major-earthquake/a-71076632",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Tectonic setting",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": ")]]\nThe primary feature of the Vanuatuan archipelago, located on its west-southwest, is the New Hebrides Trench, the Convergent boundary|convergent boundary between the Australian plate|Australian and New Hebrides plates. Along the Wadati–Benioff zone, earthquake activity has been observed as shallow, intermediate, and Deep-focus earthquake|deep-focus events at depths of up to {{cvt|700|km}}. Volcanic activity is also present along this north-northwest trending and northeast-Strike and dip|dipping subduction|subduction zone. This subduction zone is one of the most active plate boundaries globally, moving at a rate of approximately {{cvt|170|mm|in|0}} per year.",
+              "references": [
+                {
+                  "text": "<ref>{{Citation |last=Yeats |first=R. |title=Active Faults of the World |date=2012 |page=478 |url=https://books.google.com/books?id=aQUgAwAAQBAJ |publisher=Cambridge University Press |isbn=978-0521190855}}</ref>",
+                  "url": "https://books.google.co.kr/books?id=aQUgAwAAQBAJ&redir_esc=y",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": null
+                },
+                {
+                  "text": "<ref name=\":0\">{{Cite web |title=Vanuatu quake in world's most active zone |url=https://www.fbcnews.com.fj/news/vanuatu-quake-in-worlds-most-active-zone/ |access-date=19 December 2024 |website=Fiji Broadcasting Corporation |archive-date=19 December 2024 |archive-url=https://web.archive.org/web/20241219004539/https://www.fbcnews.com.fj/news/vanuatu-quake-in-worlds-most-active-zone/ |url-status=live }}</ref>",
+                  "url": "https://www.fbcnews.com.fj/news/vanuatu-quake-in-worlds-most-active-zone/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "While much of the island arc experiences intermediate-depth earthquakes along a Wadati–Benioff zone that dips steeply at 70°, the area adjacent to the d'Entrecasteaux Ridge|D'entrecasteaux Ridge does not. There is a corresponding gap in seismicity that occurs below {{cvt|50|km}} where it enters the subduction zone from the west. According to the NUVEL-1 global relative plate motion model, convergence is occurring at roughly {{cvt|8|cm}} per year. The uncertainty, which also affects the Tonga Arc, is due to the influence of Divergent boundary|spreading at the North Fiji Basin. Of the 58 {{M|w|7.0|link=y}} or greater events that occurred between 1909 and 2001, few were studied.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite book |last=Frolich |first=C. |title=Deep Earthquakes |date=2006 |publisher=Cambridge University Press |isbn=978-0805836523 |pages=399–401}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "book"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Earthquake",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The earthquake struck some {{convert|8|km}} off the western coast of Efate. Shaking was estimated to have lasted for around 30 seconds. Over 300 aftershocks were recorded, with the strongest measuring {{M|w|6.1}} on 22 December. The earthquake with its current depth was significantly smaller than {{M|w|8}} earthquakes typically responsible for generating damaging tsunamis.<ref name=\":0\" />",
+              "references": [
+                {
+                  "text": "<ref name=\"ANSS\"/> The United States Geological Survey (USGS) placed the earthquake at {{M|w|7.3}} with a depth of {{convert|54.4|km}}. The focal mechanism indicated Fault (geology)#Oblique-slip faults|oblique-normal faulting. Together with the hypocenter|hypocentral depth, this implied faulting within the Subduction|subducting Australian plate. The USGS proposed two finite fault models: one depicting rupture on a northwest-trending fault with a shallow west-southwest dip, and the other on an east-northeast fault with a near-vertical dip. Both rupture models indicated a maximum slip of {{cvt|3|m}}.<ref name=\"ANSS\">{{cite anss |M 7.3 – 24 km WNW of Port-Vila, Vanuatu|2024 |pt24352000 }}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "anss"
+                },
+                {
+                  "text": "<ref name=\"abc\">{{Cite news |date=17 December 2024 |title=Why earthquakes are more common in places such as Vanuatu |url=https://www.abc.net.au/news/2024-12-17/why-earthquakes-are-common-in-vanuatu/104738148 |access-date=17 December 2024 |work=ABC Australia}}</ref>",
+                  "url": "https://www.abc.net.au/news/2024-12-17/why-earthquakes-are-common-in-vanuatu/104738148",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"rnzlive2\">{{Cite news|date=18 December 2024|title=Live: Rescue efforts continue in Vanuatu, international assistance begins to arrive|url=https://www.rnz.co.nz/news/national/537080/live-rescue-efforts-continue-in-vanuatu-international-assistance-begins-to-arrive|access-date=18 December 2024|work=Radio New Zealand|archive-date=18 December 2024|archive-url=https://web.archive.org/web/20241218174824/https://www.rnz.co.nz/news/national/537080/live-rescue-efforts-continue-in-vanuatu-international-assistance-begins-to-arrive|url-status=live}}</ref>",
+                  "url": "https://www.rnz.co.nz/news/national/537080/second-nz-rescue-plane-arrives-in-vanuatu-as-one-breaks-down",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"aftershock6.1\">{{Cite news |date=22 December 2024 |title=Large earthquake hits battered Vanuatu |url=https://www.france24.com/en/live-news/20241221-strong-quake-strikes-off-battered-vanuatu |access-date=22 December 2024 |work=France 24}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20241221-strong-quake-strikes-off-battered-vanuatu",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Impact",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "At least 14 people were confirmed dead, while 265 others were injured and many others were still missing as of 23 December. Of the casualties, two of the fatalities were Chinese, one death and three of the injuries were Thai, and another fatality was French. Two children were also among the dead. including 245 which were completely or partially destroyed, although former Prime Minister Ishmael Kalsakau claimed that almost every single house on the island of Efate suffered damage. The United States, France, New Zealand and Australia said that their diplomatic personnel in Vanuatu were in safe condition. Many landslides occurred, including some that blocked roads and buried a wharf in the city. Two bridges also collapsed. The earthquake struck at a time when the center of Port Vila was busy with lunchtime shoppers.",
+              "references": [
+                {
+                  "text": "<ref name=\"OCHA1226\">{{cite web|title=Pacific Humanitarian Team - Vanuatu: Earthquake - Situation Report (26 December 2024)|url=https://reliefweb.int/report/vanuatu/pacific-humanitarian-team-vanuatu-earthquake-situation-report-26-december-2024|author=OCHA|publisher=ReliefWeb|date=26 December 2024|access-date=26 December 2024}}</ref>",
+                  "url": "https://reliefweb.int/report/vanuatu/pacific-humanitarian-team-vanuatu-earthquake-situation-report-26-december-2024",
+                  "status_code": 202,
+                  "reason": "Accepted",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news|title=Flooding, landslide fears as severe weather predicted on Christmas Day for earthquake-struck Vanuatu|url=https://home.nzcity.co.nz/news/article.aspx?id=413278|date=23 December 2024|access-date=23 December 2024|website=NZCity}}</ref>",
+                  "url": "https://home.nzcity.co.nz/news/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Needham\">{{Cite news |last1=Needham |first1=Kirsty |last2=Hsu |first2=Cordelia |date=18 December 2024 |title=Vanuatu earthquake death toll rises to 14 as rescuers search for survivors |url=https://www.reuters.com/business/environment/vanuatu-earthquake-death-toll-rises-14-rescuers-continue-search-2024-12-17/ |access-date=18 December 2024 |work=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/business/environment/vanuatu-earthquake-death-toll-rises-14-rescuers-continue-search-2024-12-17/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |last=Tangsathaporn|first=Poramet|date=19 December 2024 |title=One Thai killed, three injured in Vanuatu earthquake |url=https://www.bangkokpost.com/thailand/general/2922941/one-thai-killed-three-injured-in-vanuatu-earthquake |access-date=19 December 2024 |work=The Bangkok Post}}</ref>",
+                  "url": "https://www.bangkokpost.com/thailand/general/2922941/one-thai-killed-three-injured-in-vanuatu-earthquake",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news|date=19 December 2024 |title=Fears Vanuatu health system could be overwhelmed as disease risks rise after quake |url=https://www.theguardian.com/world/2024/dec/19/earthquake-vanuatu-health-system-overwhelmed-disease-risks-rise |access-date=19 December 2024 |work=The Guardian}}</ref>",
+                  "url": "https://www.theguardian.com/world/2024/dec/19/earthquake-vanuatu-health-system-overwhelmed-disease-risks-rise",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"malapoa\"/> Thousands of homes collapsed or suffered damage,<ref>{{cite web|date=5 January 2025|title=Port Vila Efate Earthquake Recovery and Resilience Plan 2024|url=https://reliefweb.int/report/vanuatu/port-vila-efate-earthquake-recovery-and-resilience-plan-2024|access-date=6 January 2025|work=Government of Vanuatu|publisher=ReliefWeb}}</ref>",
+                  "url": "https://reliefweb.int/report/vanuatu/port-vila-efate-earthquake-recovery-and-resilience-plan-2024",
+                  "status_code": 202,
+                  "reason": "Accepted",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite report|date=7 January 2025|title=Pacific Humanitarian Team - Vanuatu: Earthquake - Situation Report (7 January 2025)|url=https://reliefweb.int/report/vanuatu/pacific-humanitarian-team-vanuatu-earthquake-situation-report-7-january-2025|access-date=7 January 2025|work=OCHA|publisher=ReliefWeb}}</ref>",
+                  "url": "https://reliefweb.int/report/vanuatu/pacific-humanitarian-team-vanuatu-earthquake-situation-report-7-january-2025",
+                  "status_code": 202,
+                  "reason": "Accepted",
+                  "type": "report"
+                },
+                {
+                  "text": "<ref name=\"rnzlive2\"/> In Port Vila, at least 10 buildings collapsed, including some in a Progressive collapse|pancaking manner.<ref name=\"australia\" /> A building housing the List of ambassadors of the United States to Vanuatu|United States, List of high commissioners of the United Kingdom to Vanuatu|United Kingdom, French and List of high commissioners of New Zealand to Vanuatu|New Zealand embassies and high commissions collapsed on its ground floor.<ref name=\"rnz\" /><ref>{{Cite news |last=Pal |first=Alasdair |date=17 December 2024 |title=Magnitude 7.4 earthquake in Vanuatu damages US embassy |url=https://www.reuters.com/world/asia-pacific/magnitude-74-earthquake-strikes-port-vila-vanuatu-says-usgs-2024-12-17/ |access-date=17 December 2024 |work=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/world/asia-pacific/magnitude-74-earthquake-strikes-port-vila-vanuatu-says-usgs-2024-12-17/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=17 December 2024 |title=US embassy in Vanuatu suffers 'considerable damage' as powerful quake strikes Pacific nation |url=https://edition.cnn.com/2024/12/16/world/earthquake-vanuatu-intl-hnk/index.html |access-date=17 December 2024 |work=CNN}}</ref>",
+                  "url": "https://edition.cnn.com/2024/12/16/world/earthquake-vanuatu-intl-hnk/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"pbs\"/><ref>{{Cite news |date=18 December 2024 |title=Vanuatu hit by second earthquake as Australia prepares to deploy 'immediate' assistance |url=https://www.sbs.com.au/news/article/vanuatu-hit-by-second-earthquake-as-australia-prepares-to-deploy-immediate-assistance/roxp6jrko |access-date=18 December 2024 |work=SBS |archive-date=17 December 2024 |archive-url=https://web.archive.org/web/20241217215413/https://www.sbs.com.au/news/article/vanuatu-hit-by-second-earthquake-as-australia-prepares-to-deploy-immediate-assistance/roxp6jrko |url-status=live }}</ref>",
+                  "url": "https://www.sbs.com.au/news/article/vanuatu-hit-by-second-earthquake-as-australia-prepares-to-deploy-immediate-assistance/roxp6jrko",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"abc2\" /><ref>{{Cite news |date=17 December 2024 |title=Bodies Seen In Vanuatu Capital After Major Earthquake: Witness |url=https://www.barrons.com/articles/bodies-seen-in-vanuatu-capital-after-major-earthquake-witness-d2cf6dba |access-date=17 December 2024 |work=Agence France-Presse |publisher=Barron's}}</ref>",
+                  "url": "https://www.barrons.com/articles/bodies-seen-in-vanuatu-capital-after-major-earthquake-witness-d2cf6dba",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=19 December 2024 |title=Number of dead and missing still unclear as first aid arrives in quake-hit Pacific nation of Vanuatu |url=https://apnews.com/article/vanuatu-earthquake-pacific-port-vila-rescue-1a4ce87db29567875d148a46edbce671 |access-date=19 December 2024 |work=Associated Press |archive-date=19 December 2024 |archive-url=https://web.archive.org/web/20241219074911/https://apnews.com/article/vanuatu-earthquake-pacific-port-vila-rescue-1a4ce87db29567875d148a46edbce671 |url-status=live }}</ref>",
+                  "url": "https://apnews.com/article/vanuatu-earthquake-pacific-port-vila-rescue-1a4ce87db29567875d148a46edbce671",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "A landslide struck the international shipping terminal of Port Vila, while the runway and control tower of Bauerfield International Airport was damaged, Two reservoirs and the Port Vila Central Hospital were also damaged, forcing the transfer of patients to a military camp. Landslides were also reported in outlying villages and islands, while three bridges were damaged to a point that they were at high risk of collapsing in case of heavy rain. The earthquake also triggered landslides that blocked airfields in surrounding islands and damaged water supplies. The Port Vila Market was severely damaged and was later demolished.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |date=18 December 2024 |title=Government coordinates repatriation efforts |url=https://www.fbcnews.com.fj/news/government-coordinates-repatriation-efforts/ |access-date=18 December 2024 |work=FBC |archive-date=18 December 2024 |archive-url=https://web.archive.org/web/20241218011858/https://www.fbcnews.com.fj/news/government-coordinates-repatriation-efforts/ |url-status=live }}</ref>",
+                  "url": "https://www.fbcnews.com.fj/news/government-coordinates-repatriation-efforts/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Graham-McLay\" /> leading to the cancellation of multiple flights<ref name=\"bbc1\" /> and its closure to non-humanitarian flights for 72 hours.<ref name=\"rescue\"/> Another landslide buried a bus, resulting in multiple deaths.<ref name=\"f24\">{{Cite news |date=17 December 2024 |title=Powerful earthquake hits Pacific island of Vanuatu, bodies seen in street |url=https://www.france24.com/en/asia-pacific/20241217-quake-vanuatu |access-date=17 December 2024 |work=France 24}}</ref>",
+                  "url": "https://www.france24.com/en/asia-pacific/20241217-quake-vanuatu",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=17 December 2024 |title=6 unconfirmed deaths as 'violent' 7.4-magnitude quake rocks Vanuatu |url=https://www.freemalaysiatoday.com/category/world/2024/12/17/6-unconfirmed-deaths-as-violent-7-4-magnitude-quake-rocks-vanuatu/ |access-date=17 December 2024 |work=Free Malaysia Today}}</ref>",
+                  "url": "https://www.freemalaysiatoday.com/category/world/2024/12/17/6-unconfirmed-deaths-as-violent-7-4-magnitude-quake-rocks-vanuatu/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"pbs\"/> Two power lines were also damaged.<ref>{{Cite news |date=18 December 2024 |title=First Australian crews en route to Vanuatu to assist rescuers after earthquake |url=https://www.abc.net.au/news/2024-12-18/australian-rescue-crews-head-to-vanuatu-as-death-toll-rises/104741374 |access-date=18 December 2024 |work=ABC Australia |archive-date=18 December 2024 |archive-url=https://web.archive.org/web/20241218083837/https://www.abc.net.au/news/2024-12-18/australian-rescue-crews-head-to-vanuatu-as-death-toll-rises/104741374 |url-status=live }}</ref>",
+                  "url": "https://www.abc.net.au/news/2024-12-18/australian-rescue-crews-head-to-vanuatu-as-death-toll-rises/104741374",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=19 December 2024 |title=International rescuers join search for Vanuatu quake survivors |url=https://www.france24.com/en/live-news/20241219-rescuers-fly-in-to-join-search-for-vanuatu-quake-survivors |access-date=18 December 2024 |work=France 24}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20241219-rescuers-fly-in-to-join-search-for-vanuatu-quake-survivors",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>https://www.abc.net.au/pacific/programs/nesia-daily/nesia-daily/104928980</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": null
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "A {{cvt|25|cm}} tsunami was observed. The submarine cable providing internet service to Vanuatu was damaged, causing outages. Websites of Vanuatuan government agencies went offline, while communication lines for police and related authorities were rendered unserviceable. The Mass media in Vanuatu|Vanuatu Broadcasting and Television Corporation went off air due to damage to Broadcasting House. The Red Cross|Vanuatu Red Cross Society building was also damaged. leading to an increase in diarrhoea cases. Extensive crop damage was recorded in Mataso due to landslides that buried gardens, sparking concerns over food shortages. Some residents in Port Vila were too scared to return to their homes due to aftershocks, with some families erecting tents in open places to sleep outside due to fear of further earthquakes. In Malorua, closest to the epicenter, six buildings were damaged and 20 hectares of land were affected by landslides. A landslide destroyed multiple homes and caused water outages in Mele Maat.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=17 December 2024 |title=TSUNAMI MESSAGE NUMBER 3 |url=https://tsunami.gov/events/PHEB/2024/12/17/24352000/3/WEPA40/WEPA40.txt |url-status=live |archive-url=https://web.archive.org/web/20241217033636/https://www.tsunami.gov/events/PHEB/2024/12/17/24352000/3/WEPA40/WEPA40.txt |archive-date=17 December 2024 |access-date=17 December 2024 |publisher=National Tsunami Warning Center |language=en}}</ref>",
+                  "url": "https://tsunami.gov/events/PHEB/2024/12/17/24352000/3/WEPA40/WEPA40.txt",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"pbs\">{{Cite news |date=18 December 2024 |title=Vanuatu 7.3 earthquake leaves capital without water, as death toll expected to rise |url=https://www.pbs.org/newshour/world/vanuatu-7-3-earthquake-leaves-capital-without-water-as-death-toll-expected-to-rise |access-date=18 December 2024 |work=PBS |archive-date=18 December 2024 |archive-url=https://web.archive.org/web/20241218155940/https://www.pbs.org/newshour/world/vanuatu-7-3-earthquake-leaves-capital-without-water-as-death-toll-expected-to-rise |url-status=live }}</ref>",
+                  "url": "https://www.pbs.org/newshour/world/vanuatu-7-3-earthquake-leaves-capital-without-water-as-death-toll-expected-to-rise",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"aj\">{{Cite news |date=17 December 2024 |title=Magnitude 7.4 earthquake strikes near Vanuatu capital |url=https://www.aljazeera.com/news/2024/12/17/magnitude-7-4-earthquake-strikes-near-vanuatu-capital |access-date=17 December 2024 |work=Al Jazeera}}</ref>",
+                  "url": "https://www.aljazeera.com/news/2024/12/17/magnitude-7-4-earthquake-strikes-near-vanuatu-capital",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"broadcast\" /> Despite connectivity issues, people were able to go online through Starlink.<ref>{{Cite news |first=Rashika |last=Kumar |title=Fijians struggle for updates as Qereqeretabua pledges continued efforts to get information |url=https://www.fijivillage.com/news/Fijians-struggle-for-updates-as-Qereqeretabua-pledges-continued-efforts-to-get-information-85r4fx/ |access-date=17 December 2024 |website=FijiVillage |language=en}}</ref>",
+                  "url": "https://www.fijivillage.com/news/Fijians-struggle-for-updates-as-Qereqeretabua-pledges-continued-efforts-to-get-information-85r4fx/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"rnz\" /> Power and water outages occurred in the city,<ref name=\"abc2\">{{Cite news |last1=Dingwall |first1=Doug |last2=Sas |first2=Nick |last3=Dziedzic |first3=Stephen |date=17 December 2024 |title=Fears death toll could rise from Vanuatu's magnitude-7.3 earthquake near Port Vila |url=https://www.abc.net.au/news/2024-12-17/tsunami-threat-earthquake-vanuatu/104736282 |access-date=17 December 2024 |work=ABC Australia}}</ref>",
+                  "url": "https://www.abc.net.au/news/2024-12-17/vanuatu-port-vila-earthquake-death-toll-could-rise/104736282?future=true&",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"rescue\"/> The main utilities provider, UNELCO, said it could take two weeks to fully restore water supplies.<ref>{{Cite news |date=19 December 2024 |title=Vanuatu quake: Number of dead still unclear as first aid arrives |url=https://www.1news.co.nz/2024/12/19/vanuatu-quake-number-of-dead-still-unclear-as-first-aid-arrives/ |access-date=18 December 2024 |work=1news}}</ref>",
+                  "url": "https://www.1news.co.nz/2024/12/19/vanuatu-quake-number-of-dead-still-unclear-as-first-aid-arrives/",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"ABC Australia\">{{Cite news |date=23 December 2024 |title=Flooding, landslide fears as severe weather predicted on Christmas Day for earthquake-struck Vanuatu |url=https://www.abc.net.au/news/2024-12-23/vanuatu-earthquake-severe-weather-flooding-landslides/104758062 |access-date=24 December 2024 |work=ABC Australia }}</ref>",
+                  "url": "https://www.abc.net.au/news/2024-12-23/vanuatu-earthquake-severe-weather-flooding-landslides/104758062",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2024-12-23 |title=Vanuatu residents traumatised by quake afraid to return to homes |url=https://www.rnz.co.nz/international/pacific-news/537429/vanuatu-residents-traumatised-by-quake-afraid-to-return-to-homes |access-date=2024-12-23 |website=RNZ |language=en-nz}}</ref>",
+                  "url": "https://www.rnz.co.nz/international/pacific-news/537429/vanuatu-residents-traumatised-by-quake-afraid-to-return-to-homes",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news|publisher=ReliefWeb|title=Damage Assessment in Malorua District, Shefa Province, Vanuatu as of 20 December 2024|author=UNOSAT|url=https://reliefweb.int/report/vanuatu/damage-assessment-malorua-district-shefa-province-vanuatu-20-december-2024|date=23 December 2024|access-date=23 December 2024}}</ref>",
+                  "url": "https://reliefweb.int/report/vanuatu/damage-assessment-malorua-district-shefa-province-vanuatu-20-december-2024",
+                  "status_code": 202,
+                  "reason": "Accepted",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|publisher=ReliefWeb|title=Families reeling from shock: A 7.3 magnitude earthquake devastates the lives of families and children in Vanuatu|author=UNICEF|url=https://reliefweb.int/report/vanuatu/families-reeling-shock-73-magnitude-earthquake-devastates-lives-families-and-children-vanuatu|date=23 December 2024|access-date=23 December 2024}}</ref>",
+                  "url": "https://reliefweb.int/report/vanuatu/families-reeling-shock-73-magnitude-earthquake-devastates-lives-families-and-children-vanuatu",
+                  "status_code": 202,
+                  "reason": "Accepted",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "4.s4",
+              "text": "The USGS estimated that the earthquake could cause economic losses measuring between 1–10% of Vanuatu's GDP. The United Nations Office for the Coordination of Humanitarian Affairs estimated that 116,000 people had been directly affected by the earthquake, equivalent to a third of Vanuatu's population. Among them were 14,000 children. At least 2,435 people were displaced, The Recovery Operation Centre estimated that the amount needed to recover from the earthquake reached 29 billion Vanuatu vatu|vatu (US$231.7 million). It also estimated that around 6,000 workers from 200 businesses operating in downtown Port Vila were affected. The education ministry said 45 schools were damaged, including Malapoa College, with rebuilding costs estimated at more than US$8 million. Save the Children said nearly 13,000 children required temporary learning solutions. A survey by the Vanuatu Chamber of Commerce found that the extended closure of downtown Port-Vila had left 900 people unemployed.",
+              "references": [
+                {
+                  "text": "<ref name=\"rnz\">{{Cite news |date=17 December 2024 |title=Vanuatu 7.3 magnitude earthquake: First reports of damage |url=https://www.rnz.co.nz/news/world/536953/vanuatu-7-point-3-magnitude-earthquake-first-reports-of-damage |access-date=17 December 2024 |work=Radio New Zealand}}</ref>",
+                  "url": "https://www.rnz.co.nz/news/world/536953/vanuatu-7-point-3-magnitude-earthquake-first-reports-of-damage",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=17 December 2024 |title=Buildings 'pancaked' in Vanuatu as 7.4 magnitude earthquake rocks Pacific nation |url=https://www.scmp.com/news/asia/australasia/article/3291135/buildings-pancaked-vanuatu-74-magnitude-earthquake-rocks-pacific-nation |access-date=17 December 2024 |work=South China Morning Post}}</ref>",
+                  "url": "https://www.scmp.com/news/asia/australasia/article/3291135/buildings-pancaked-vanuatu-74-magnitude-earthquake-rocks-pacific-nation",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=18 December 2024 |title=Vanuatu earthquake death toll rises to 14 as rescuers search for survivors |url=https://www.aljazeera.com/news/2024/12/18/vanuatu-earthquake-death-toll-rises-to-fourteen-as-rescuers-scramble-for-survivors |access-date=18 December 2024 |work=Al Jazeera |archive-date=18 December 2024 |archive-url=https://web.archive.org/web/20241218030106/https://www.aljazeera.com/news/2024/12/18/vanuatu-earthquake-death-toll-rises-to-fourteen-as-rescuers-scramble-for-survivors |url-status=live }}</ref>",
+                  "url": "https://www.aljazeera.com/news/2024/12/18/vanuatu-earthquake-death-toll-rises-to-fourteen-as-rescuers-scramble-for-survivors",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=20 December 2024 |title=Rescuers extend search for Vanuatu quake survivors |url=https://www.france24.com/en/live-news/20241220-rescuers-extend-search-for-vanuatu-quake-survivors |access-date=20 December 2024 |work=France 24 }}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20241220-rescuers-extend-search-for-vanuatu-quake-survivors",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"OCHA1226\"/> while 20,000 were without water.<ref>{{Cite news |date=20 December 2024 |title=What to know about Vanuatu, the Pacific island nation struggling to recover from a massive quake |url=https://apnews.com/article/vanuatu-earthquake-pacific-australia-china-recovery-5ad23ef3f4c869285475825234dd5b3e |access-date=20 December 2024 |work=Associated Press |archive-date=20 December 2024 |archive-url=https://web.archive.org/web/20241220084541/https://apnews.com/article/vanuatu-earthquake-pacific-australia-china-recovery-5ad23ef3f4c869285475825234dd5b3e |url-status=live }}</ref>",
+                  "url": "https://apnews.com/article/vanuatu-earthquake-pacific-australia-china-recovery-5ad23ef3f4c869285475825234dd5b3e",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"29b\">{{Cite news |date=6 January 2025 |title=More money comes in for Vanuatu |url=https://www.rnz.co.nz/international/pacific-news/538252/more-money-comes-in-for-vanuatu |access-date=6 January 2025 |work=Radio New Zealand}}</ref>",
+                  "url": "https://www.rnz.co.nz/international/pacific-news/538252/more-money-comes-in-for-vanuatu",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=17 January 2025 |title=Vanuatu one month on: aftershocks, a no-go zone and anxiety |url=https://www.rnz.co.nz/international/pacific-news/539227/vanuatu-one-month-on-aftershocks-a-no-go-zone-and-anxiety |access-date=17 January 2025 |work=Radio New Zealand}}</ref>",
+                  "url": "https://www.rnz.co.nz/international/pacific-news/539227/vanuatu-one-month-on-aftershocks-a-no-go-zone-and-anxiety",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"malapoa\">{{Cite news |date=10 January 2025 |title=Port Vila faces potential exodus, after devastating earthquake |url=https://www.rnz.co.nz/international/pacific-news/538645/port-vila-faces-potential-exodus-after-devastating-earthquake |access-date=10 January 2025 |work=Radio New Zealand}}</ref>",
+                  "url": "https://www.rnz.co.nz/international/pacific-news/538645/port-vila-faces-potential-exodus-after-devastating-earthquake",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Dingwall |first1=Doug |first2=Leah |last2=Lowonbu|title=Vanuatu's new parliament elects Jotham Napat as PM as nation begins post-earthquake reconstruction |url=https://www.abc.net.au/news/2025-02-11/vanuatu-new-pm-political-instability-earthquake/104905242 |access-date=11 February 2025 |work=ABC News (Australia)|ABC News |date=11 February 2025}}</ref>",
+                  "url": "https://www.abc.net.au/news/2025-02-11/vanuatu-new-pm-political-instability-earthquake/104905242",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Response",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "A tsunami warning was issued by the Pacific Tsunami Warning Centre covering Vanuatu, Fiji, the Kermadec Islands, Kiribati, New Caledonia, Papua New Guinea, the Solomon Islands, Tuvalu and Wallis and Futuna, This was lifted on 14:14{{nbsp}}VUT. The Vanuatu National Disaster Management Office told residents of coastal areas to flee to higher ground. A mass casualty triage centre was set up outside the emergency ward of Port Vila Central Hospital. Officials are currently assessing the extent of the destruction and prioritizing rescue efforts.",
+              "references": [
+                {
+                  "text": "<ref name=\"aj\" /> with waves expected to reach {{cvt|1|m}}.<ref>{{Cite news |title=Major quake crushes buildings in Vanuatu capital, bodies seen |url=https://www.france24.com/en/live-news/20241217-bodies-seen-in-street-as-major-quake-hits-vanuatu |access-date=17 December 2024 |work=Agence France-Presse |publisher=France 24}}</ref>",
+                  "url": "https://www.france24.com/en/live-news/20241217-bodies-seen-in-street-as-major-quake-hits-vanuatu",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"bbc1\">{{Cite news |date=17 December 2024 |title=Strong 7.3 magnitude earthquake hits Vanuatu |url=https://www.bbc.com/news/articles/c9wlylr4nrdo |access-date=17 December 2024 |work=BBC}}</ref>",
+                  "url": "https://www.bbc.com/news/articles/c9wlylr4nrdo",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"abc2\" /> Authorities in the country were placed on high alert with one local journalist telling ''Fijian Broadcasting Corporation|FBC News'' that the Vanuatu Mobile Forces (VMF) and government emergency workers were immediately mobilized to assist those affected, adding that \"government officials are dealing with several casualties.\"<ref>{{Cite news |first=Kreetika |last=Kumar|title=One fatality confirmed in Vanuatu; Fiji keeping tabs |url=https://www.fbcnews.com.fj/news/one-fatality-confirmed-in-vanuatu-fiji-keeping-tabs/ |access-date=17 December 2024 |website=Fiji Broadcasting Corporation}}</ref>",
+                  "url": "https://www.fbcnews.com.fj/news/one-fatality-confirmed-in-vanuatu-fiji-keeping-tabs/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"abc2\" /> The central business district of Port Vila was closed off, while a boil water notice was declared over the city.<ref name=\"boil\">{{Cite news |title=Rescue teams continue hunt for survivors after Vanuatu earthquake |url=https://www.rnz.co.nz/news/world/537167/rescue-teams-continue-hunt-for-survivors-after-vanuatu-earthquake |access-date=19 December 2024 |website=Radio New Zealand |archive-date=19 December 2024 |archive-url=https://web.archive.org/web/20241219060257/https://www.rnz.co.nz/news/world/537167/rescue-teams-continue-hunt-for-survivors-after-vanuatu-earthquake |url-status=live }}</ref>",
+                  "url": "https://www.rnz.co.nz/news/world/537167/rescue-teams-continue-hunt-for-survivors-after-vanuatu-earthquake",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"broadcast\">{{Cite news |first=Kreetika |last=Kumar |title=Broadcasting disrupted as Vanuatu faces earthquake fallout |url=https://www.fbcnews.com.fj/news/broadcasting-disrupted-as-vanuatu-faces-earthquake-fallout/ |access-date=17 December 2024 |website=Fiji Broadcasting Corporation}}</ref>",
+                  "url": "https://www.fbcnews.com.fj/news/broadcasting-disrupted-as-vanuatu-faces-earthquake-fallout/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "5.s2",
+              "text": "A seven-day state of emergency and a nighttime curfew was declared by Prime Minister Charlot Salwai, who also requested international assistance. Australia, France, New Zealand and the United States deployed humanitarian equipment and personnel to Vanuatu. Australia said it was assisting efforts to reopen Port Vila's airport. Fiji also offered support and deployed personnel. However with the airport in Port Vila inaccessible, Fijian personnel and humanitarian assistance were deployed via Santo International Airport in Espiritu Santo island. From there, teams travelled to affected areas by marine vessels. Around 700 Australian citizens in Vanuatu were repatriated by the Royal Australian Air Force, The French military evacuated 20 New Caledonian children. On 18 December, a Lockheed C-130 Hercules of the Royal New Zealand Air Force carrying an urban search and rescue team to Vanuatu was diverted to Nouméa in New Caledonia due to an engine fire warning. China also sent 35 tons of humanitarian aid. The British High Commission in Vanuatu donated £400,000 (US$496,880) in humanitarian aid to UNICEF Pacific.<ref name=\"29b\"/>",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |title=Rescuers race to find survivors as 14 dead after Vanuatu earthquake |url=https://www.bbc.com/news/articles/cy4pdw1nzp9o |access-date=18 December 2024 |website=BBC |archive-date=18 December 2024 |archive-url=https://web.archive.org/web/20241218025258/https://www.bbc.com/news/articles/cy4pdw1nzp9o |url-status=live }}</ref>",
+                  "url": "https://www.bbc.com/news/articles/cy4pdw1nzp9o",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"Graham-McLay\">{{Cite news |first=Charlotte |last=Graham-McLay |title=14 dead and hundreds injured in magnitude 7.3 quake in Vanuatu. Some people are trapped in rubble |url=https://apnews.com/article/vanuatu-pacific-earthquake-ocean-3e4cc1e02bc0ec62d5931b00286688ed |access-date=18 December 2024 |work=Associated Press |archive-date=17 December 2024 |archive-url=https://web.archive.org/web/20241217052941/https://apnews.com/article/vanuatu-pacific-earthquake-ocean-3e4cc1e02bc0ec62d5931b00286688ed |url-status=live }}</ref>",
+                  "url": "https://apnews.com/article/vanuatu-pacific-earthquake-ocean-3e4cc1e02bc0ec62d5931b00286688ed",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"rnzlive\">{{Cite news |date=17 December 2024 |title=Live: Large 7.3 magnitude earthquake strikes near Vanuatu |url=https://www.rnz.co.nz/news/national/536941/live-large-7-point-3-magnitude-earthquake-strikes-near-vanuatu |url-status=live |archive-url=https://web.archive.org/web/20241217052833/https://www.rnz.co.nz/news/national/536941/live-large-7-point-3-magnitude-earthquake-strikes-near-vanuatu |archive-date=17 December 2024 |access-date=17 December 2024 |work=Radio New Zealand}}</ref>",
+                  "url": "https://www.rnz.co.nz/news/national/536941/live-large-7-point-3-magnitude-earthquake-strikes-near-vanuatu",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"australia\">{{Cite news |date=17 December 2024 |title=Australia sends 'immediate' search and rescue assistance to Vanuatu following powerful earthquake |url=https://www.abc.net.au/news/2024-12-18/vanuatu-locals-survey-damage-after-earthquake/104738368 |url-status=live |archive-url=https://web.archive.org/web/20241217144945/https://www.abc.net.au/news/2024-12-18/vanuatu-locals-survey-damage-after-earthquake/104738368 |archive-date=17 December 2024 |access-date=17 December 2024 |work=ABC Australia}}</ref>",
+                  "url": "https://www.abc.net.au/news/2024-12-18/vanuatu-locals-survey-damage-after-earthquake/104738368",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"rescue\">{{Cite news |title=Vanuatu earthquake: NZ rescue crews head to quake-hit nation as search for survivors continues |url=https://www.rnz.co.nz/news/national/537071/vanuatu-earthquake-nz-rescue-crews-head-to-quake-hit-nation-as-search-for-survivors-continues |access-date=18 December 2024 |website=Radio New Zealand}}</ref>",
+                  "url": "https://www.rnz.co.nz/news/national/537071/vanuatu-earthquake-nz-rescue-crews-head-to-quake-hit-nation-as-search-for-survivors-continues",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=19 December 2024 |title=Cyclone threat looms as Vanuatu struggles with earthquake aftermath |url=https://www.abc.net.au/news/2024-12-19/cyclone-threat-looms-vanuatu-struggles-with-earthquake-aftermath/104747732 |access-date=19 December 2024 |work=ABC Australia |archive-date=19 December 2024 |archive-url=https://web.archive.org/web/20241219073625/https://www.abc.net.au/news/2024-12-19/cyclone-threat-looms-vanuatu-struggles-with-earthquake-aftermath/104747732 |url-status=live }}</ref>",
+                  "url": "https://www.abc.net.au/news/2024-12-19/cyclone-threat-looms-vanuatu-struggles-with-earthquake-aftermath/104747732",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Tuvuki |first=Simione |title=Military joins recovery efforts |url=https://www.fbcnews.com.fj/news/military-joins-recovery-efforts/ |access-date=22 December 2024 |website=Fiji Broadcasting Corporation |archive-date=21 December 2024 |archive-url=https://web.archive.org/web/20241221062916/https://www.fbcnews.com.fj/news/military-joins-recovery-efforts/ |url-status=live }}</ref>",
+                  "url": "https://www.fbcnews.com.fj/news/military-joins-recovery-efforts/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Mala |first=Riya |title=Fiji ready to assist Vanuatu after devastating earthquake |url=https://www.fbcnews.com.fj/news/fiji-ready-to-assist-vanuatu-after-devastating-earthquake/ |access-date=19 December 2024 |website=Fiji Broadcasting Corporation |archive-date=18 December 2024 |archive-url=https://web.archive.org/web/20241218195019/https://www.fbcnews.com.fj/news/fiji-ready-to-assist-vanuatu-after-devastating-earthquake/ |url-status=live }}</ref>",
+                  "url": "https://www.fbcnews.com.fj/news/fiji-ready-to-assist-vanuatu-after-devastating-earthquake/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Fiji in contact with AUS and NZ to provide assistance in Vanuatu – PM |url=https://www.fijivillage.com/news/Fiji-in-contact-with-AUS-and-NZ-to-provide-assistance-in-Vanuatu---PM-r4fx85/ |access-date=19 December 2024 |website=FijiVillage |language=en |archive-date=19 December 2024 |archive-url=https://web.archive.org/web/20241219005631/https://www.fijivillage.com/news/Fiji-in-contact-with-AUS-and-NZ-to-provide-assistance-in-Vanuatu---PM-r4fx85/ |url-status=live }}</ref>",
+                  "url": "https://www.fijivillage.com/news/Fiji-in-contact-with-AUS-and-NZ-to-provide-assistance-in-Vanuatu---PM-r4fx85/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"ABC Australia\"/> while 81 New Zealanders and 12 other nationals were evacuated by the New Zealand Defence Force.<ref>{{Cite news |title=Vanuatu quake: 'The whole ground started to wave' |url=https://www.1news.co.nz/2024/12/20/vanuatu-quake-the-whole-ground-started-to-wave/ |access-date=20 December 2024 |work=1News }}</ref>",
+                  "url": "https://www.1news.co.nz/2024/12/20/vanuatu-quake-the-whole-ground-started-to-wave/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |title=Quake-shocked New Caledonian children repatriated from Vanuatu |url=https://www.rnz.co.nz/news/world/537312/quake-shocked-new-caledonian-children-repatriated-from-vanuatu |access-date=21 December 2024 |work=Radio New Zealand |archive-date=20 December 2024 |archive-url=https://web.archive.org/web/20241220180453/https://www.rnz.co.nz/news/world/537312/quake-shocked-new-caledonian-children-repatriated-from-vanuatu |url-status=live }}</ref>",
+                  "url": "https://www.rnz.co.nz/news/world/537312/quake-shocked-new-caledonian-children-repatriated-from-vanuatu",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |title=Vanuatu quake: NZDF Hercules diverted after engine fire warning |url=https://www.rnz.co.nz/news/national/537074/vanuatu-quake-nzdf-hercules-diverted-after-engine-fire-warning |access-date=18 December 2024 |work=Radio New Zealand |archive-date=18 December 2024 |archive-url=https://web.archive.org/web/20241218120218/https://www.rnz.co.nz/news/national/537074/vanuatu-quake-nzdf-hercules-diverted-after-engine-fire-warning |url-status=live }}</ref>",
+                  "url": "https://www.rnz.co.nz/news/national/537074/vanuatu-quake-nzdf-hercules-diverted-after-engine-fire-warning",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite news |title=Chinese emergency relief supplies arrive in Vanuatu |url=https://en.apa.az/asia/chinese-emergency-relief-supplies-arrive-in-vanuatu-457087 |access-date=2 January 2025 |work=APA.az }}</ref>",
+                  "url": "https://en.apa.az/asia/chinese-emergency-relief-supplies-arrive-in-vanuatu-457087",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "5.s3",
+              "text": "On 20 December 2024, over seven tonnes of aid were delivered by New Zealand. This alongside the deployment of an urban search and rescue team, Ministry of Health (New Zealand)|Ministry of Health staff, as well as New Zealand Red Cross personnel, with the latter providing satellite phones and Starlink devices. On 22 December, Port Vila airport resumed commercial operations.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2024-12-20 |title=Immediate response still the focus in Vanuatu, but move to rebuild coming, High Commissioner says |url=https://www.rnz.co.nz/news/national/537252/immediate-response-still-the-focus-in-vanuatu-but-move-to-rebuild-coming-high-commissioner-says |access-date=2024-12-20 |work=Radio New Zealand |language=en-nz}}</ref>",
+                  "url": "https://www.rnz.co.nz/news/national/537252/immediate-response-still-the-focus-in-vanuatu-but-move-to-rebuild-coming-high-commissioner-says",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2024-12-20 |title='They're struggling': The 3300 Ni-Vanuatu in New Zealand |url=https://www.rnz.co.nz/news/national/537302/they-re-struggling-the-3300-ni-vanuatu-in-new-zealand |access-date=2024-12-20 |work=Radio New Zealand |language=en-nz}}</ref>",
+                  "url": "https://www.rnz.co.nz/news/national/537302/they-re-struggling-the-3300-ni-vanuatu-in-new-zealand",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2024-12-22 |title=Commercial flights resume for quake-hit Vanuatu |url=https://www.1news.co.nz/2024/12/22/commercial-flights-resume-for-quake-hit-vanuatu/ |access-date=2024-12-22 |work=1News |language=en-nz}}</ref>",
+                  "url": "https://www.1news.co.nz/2024/12/22/commercial-flights-resume-for-quake-hit-vanuatu/",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "5.s4",
+              "text": "The 2025 Vanuatuan general election originally scheduled on 14 January was moved to 16 January due to the earthquake. On 17 April 2025, Minister of Foreign Affairs (New Zealand)|NZ Foreign Minister Winston Peters announced that New Zealand would contribute NZ$10 million to Vanuatuan earthquake recovery efforts.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |date=10 January 2025 |title=Vanuatu snap election to be contested by 217 candidates |url=https://www.rnz.co.nz/international/pacific-news/538610/vanuatu-snap-election-to-be-contested-by-217-candidates |access-date=10 January 2025 |work=Radio New Zealand}}</ref>",
+                  "url": "https://www.rnz.co.nz/international/pacific-news/538610/vanuatu-snap-election-to-be-contested-by-217-candidates",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=NZ helps Vanuatu post-earthquake |url=https://www.rnz.co.nz/national/programmes/morningreport/audio/2018983627/nz-helps-vanuatu-post-quake |access-date=18 April 2025 |work=Radio New Zealand |date=17 April 2025 |archive-url=https://web.archive.org/web/20250418024737/https://www.rnz.co.nz/national/programmes/morningreport/audio/2018983627/nz-helps-vanuatu-post-quake |archive-date=18 April 2025 |url-status=live}}</ref>",
+                  "url": "https://www.rnz.co.nz/national/programmes/morningreport/audio/2018983627/nz-helps-vanuatu-post-quake",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "External links",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

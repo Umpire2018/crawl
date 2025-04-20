@@ -1,0 +1,906 @@
+{
+  "title": "2025_Moldovan_parliamentary_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "The next parliamentary elections in Moldova are to be held on 28 September 2025.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=16 Apr 2025 |title=Alegerile parlamentare vor avea loc pe 28 septembrie |url=https://tribuna.md/2025/04/16/alegerile-parlamentare-vor-avea-loc-pe-28-septembrie/ |access-date=16 Apr 2025 |website=tribuna.md}}</ref>",
+                  "url": "https://tribuna.md/2025/04/16/alegerile-parlamentare-vor-avea-loc-pe-28-septembrie/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The 2021 Moldovan parliamentary election|last parliamentary election in Moldova was held on 11 July 2021, resulting in a landslide victory for the Pro-Europeanism|pro-European Party of Action and Solidarity (PAS), led by President Maia Sandu. PAS secured 63 out of 101 seats, allowing it to form a single-party majority government. The election marked a significant shift towards Moldova–European Union relations|European integration, as PAS defeated the Bloc of Communists and Socialists, a pro-Russian electoral alliance.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite news |title=Pro-Western party wins Moldova election, preliminary data shows |url=https://www.reuters.com/world/moldovans-elect-new-parliament-amid-concerns-over-graft-stalled-reforms-2021-07-11/ |archive-url=http://web.archive.org/web/20231117133610/https://www.reuters.com/world/moldovans-elect-new-parliament-amid-concerns-over-graft-stalled-reforms-2021-07-11/ |archive-date=2023-11-17 |access-date=2025-02-20 |work=Reuters |language=en-US}}</ref>",
+                  "url": "https://www.reuters.com/world/moldovans-elect-new-parliament-amid-concerns-over-graft-stalled-reforms-2021-07-11/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "Since coming to power, the Party of Action and Solidarity|PAS-led government has pursued anti-corruption measures, judicial reforms, and European Union integration. Pro-Russian opposition forces have organized protests against the government’s economic policies.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Moldova: Start of Formal Accession Negotiations with the EU |url=https://dgap.org/en/research/publications/moldova-start-formal-accession-negotiations-eu |access-date=2025-02-20 |website=DGAP }}</ref>",
+                  "url": "https://dgap.org/en/research/publications/moldova-start-formal-accession-negotiations-eu",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-02-20 |title=Pro-Russia protesters take to streets in Moldova to denounce new government |url=https://www.france24.com/en/europe/20230220-pro-russia-protesters-take-to-streets-in-moldova |access-date=2025-02-20 |website=France 24 |language=en}}</ref>",
+                  "url": "https://www.france24.com/en/europe/20230220-pro-russia-protesters-take-to-streets-in-moldova",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "In the 2024 Moldovan presidential election|2024 presidential election, incumbent Maia Sandu was re-elected with 55.3% of the vote, defeating pro-Russian candidate Alexandr Stoianoglo. The election was overshadowed by allegations of Russian interference, with authorities seizing illegal propaganda materials. Alongside the election, Moldova held a 2024 Moldovan European Union membership referendum|referendum on EU integration, which narrowly passed with 50.4% support.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |last=Balmforth |first=Tom |last2=Tanas |first2=Alexander |date=November 4, 2024 |title=Moldova's pro-Western Sandu claims election win after meddling allegations |url=https://www.reuters.com/world/europe/moldova-holds-presidential-runoff-election-amid-claims-russian-meddling-2024-11-03/ |website=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/world/europe/moldova-holds-presidential-runoff-election-amid-claims-russian-meddling-2024-11-03/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Luxmoore |first=Matthew |date=October 21, 2024 |title=In Moldova, a Pro-Russian Oligarch With a Criminal Past Tries to Derail Path to Europe |url=https://www.wsj.com/world/europe/in-moldova-a-pro-russian-oligarch-with-a-criminal-past-tries-to-derail-path-to-europe-a000bf12? |website=The Wall Street Journal}}</ref>",
+                  "url": "https://www.wsj.com/world/europe/in-moldova-a-pro-russian-oligarch-with-a-criminal-past-tries-to-derail-path-to-europe-a000bf12?",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news |date=2024-10-21 |title=Moldova narrowly votes for EU membership amid claims of 'unprecedented' Russian interference |url=https://www.abc.net.au/news/2024-10-22/moldova-votes-for-eu-membership-amid-russian-meddling-claims/104500056 |access-date=2025-02-20 |work=ABC News |language=en-AU}}</ref>",
+                  "url": "https://www.abc.net.au/news/2024-10-22/moldova-votes-for-eu-membership-amid-russian-meddling-claims/104500056",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "2.s4",
+              "text": "Moldova is grappling with major security and economic challenges, notably including energy security issues due to disrupted Russia in the European energy sector|gas supplies from Russia. The Russian invasion of Ukraine|2022 Russian invasion of neighboring Ukraine has  triggering a massive influx of refugees into Moldova. These difficulties have amplified the significance of the 2025 parliamentary elections; for President Sandu, according to Euronews, the election would be \"a final battle\" on Moldova's road to European Union|EU membership.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2024-12-31 |title='No heating, no light': Moldovans fear looming energy shortage as Russia halts gas supplies |url=https://apnews.com/article/moldova-energy-crisis-russia-transnistria-gas-europe-3cb90f12ad5274bda67f99a1c4619abf |access-date=2025-02-20 |website=AP News |language=en}}</ref>",
+                  "url": "https://apnews.com/article/moldova-energy-crisis-russia-transnistria-gas-europe-3cb90f12ad5274bda67f99a1c4619abf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Balmforth |first=Tom |last2=Tanas |first2=Alexander |date=November 4, 2024 |title=Moldova's Sandu promises to bring change after narrow runoff win |url=https://www.reuters.com/world/europe/moldovas-sandu-says-she-will-press-change-after-narrow-runoff-win-2024-11-04/ |website=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/world/europe/moldovas-sandu-says-she-will-press-change-after-narrow-runoff-win-2024-11-04/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2024-12-31 |title=From Germany to Romania: Elections that will define Europe in 2025 |url=https://www.euronews.com/my-europe/2024/12/31/from-germany-to-romania-the-elections-that-will-define-europe-in-2025 |access-date=2025-02-20 |website=euronews |language=en}}</ref>",
+                  "url": "https://www.euronews.com/my-europe/2024/12/31/from-germany-to-romania-the-elections-that-will-define-europe-in-2025",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "The 101 members of Parliament of Moldova|Parliament are elected by party-list proportional representation in a single nationwide constituency. The electoral threshold at the national level varies according to the type of list; for parties or individual organizations it is 5%; for an electoral bloc it is 7%. For independent candidates, the threshold is 2%.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=CE325/2022 |url=https://www.legis.md/cautare/getResults?doc_id=134589&lang=ro |archive-url=http://web.archive.org/web/20240913105927/https://www.legis.md/cautare/getResults?doc_id=134589&lang=ro |archive-date=2024-09-13 |access-date=2025-04-16 |website=www.legis.md |language=ro}}</ref>",
+                  "url": "https://www.legis.md/cautare/getResults?doc_id=134589&lang=ro",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Campaign",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "4.s1",
+              "text": "According to Moldova’s intelligence chief, Alexandru Musteata, the election is expected to face significant interference from Russia. He warned that Moscow is likely to employ the tactics used during the 2024 Moldovan presidential election|2024 presidential election and the 2024 Moldovan European Union membership referendum|EU referendum, including disinformation campaigns, financial support for Russophilia|pro-Russian parties, and other covert efforts to destabilize Moldova’s democratic process. The Moldovan government has expressed its determination to counter these threats.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2024-12-13 |title=Moldovan spy chief: Russia will try to interfere in 2025 parliamentary election, too |url=https://www.politico.eu/article/moldovan-spy-chief-russia-will-try-interfere-parliamentary-elections-next-year-alexandru-musteata/ |access-date=2025-02-21 |website=POLITICO |language=en-GB}}</ref>",
+                  "url": "https://www.politico.eu/article/moldovan-spy-chief-russia-will-try-interfere-parliamentary-elections-next-year-alexandru-musteata/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s2",
+              "text": "Moldovan opposition leader Alexandr Stoianoglo, who lost the 2024 Moldovan presidential election|2024 presidential election to President Maia Sandu, announced{{when|date=April 2025}} the formation of a new coalition to challenge the pro-Western ruling majority. The coalition, called Alternative (political bloc)|Alternative, unites three political parties led by Chisinau Mayor Ion Ceban, former Prime Minister Ion Chicu, and former lawmaker Mark Tkachuk.",
+              "references": [
+                {
+                  "text": "<ref name=\":1\">{{Cite web |last=Tanas |first=Alexander |date=February 1, 2025 |title=Moldovan opposition leader forms coalition to challenge Sandu at parliament election |url=https://www.reuters.com/world/europe/moldovan-opposition-leader-forms-coalition-challenge-sandu-parliament-election-2025-01-31/ |website=Reuters}}</ref>",
+                  "url": "https://www.reuters.com/world/europe/moldovan-opposition-leader-forms-coalition-challenge-sandu-parliament-election-2025-01-31/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "4.s3",
+              "text": "While Stoianoglo campaigns on a foreign policy that includes both Russia and the West, he has leaned toward Russophilia|Russia, with his past presidential candidacy backed by the pro-Moscow Party of Socialists of the Republic of Moldova|PSRM. Meanwhile, tensions between Moldova and Russia remain high, with accusations of Russia attempting to interfere in past elections and of worsening Moldova's 2025 Moldovan energy crisis|energy crisis.<ref name=\":1\" />",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2024-10-30 |title=Sandu and Stoianoglo face off in crucial Moldova presidential runoff |url=https://www.euronews.com/my-europe/2024/10/30/moldovas-presidential-race-pro-eu-and-russia-friendly-candidates-face-off-in-crucial-runof |access-date=2025-02-21 |website=euronews |language=en}}</ref>",
+                  "url": "https://www.euronews.com/my-europe/2024/10/30/moldovas-presidential-race-pro-eu-and-russia-friendly-candidates-face-off-in-crucial-runof",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Parties and coalitions",
+      "content": [
+        {
+          "id": "5.1",
+          "title": "Parliamentary parties",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "5.2",
+          "title": "Main extra-parliamentary parties and coalitions",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Opinion polls",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "{| class=\"wikitable sortable\" style=\"text-align:center;font-size:90%;line-height:14px;\"\n! rowspan=\"4\" |Pollster\n! rowspan=\"4\" |Fieldwork date\n! rowspan=\"4\" |Sample<br>size\n! rowspan=\"3\" |Party of Action and Solidarity|PAS\n! colspan=\"2\" rowspan=\"2\" |Bloc of Communists and Socialists|BCS\n! colspan=\"3\" |Victory (political bloc)|Victory\n! rowspan=\"3\" |Our Party (Moldova)|PN\n! colspan=\"3\" rowspan=\"2\" |{{Interlanguage link|Together (political bloc)|lt=Together|ro|Blocul „Împreună”}}\n! rowspan=\"3\" |European Social Democratic Party|PSDE\n! rowspan=\"3\" |Democracy at Home Party|DA\n! rowspan=\"3\" |We Build Europe at Home Party|PACE\n! colspan=\"3\" rowspan=\"2\" |Alternative (political bloc)|Alternative\n! rowspan=\"3\" |Alliance for the Union of Romanians|AUR\n! rowspan=\"3\" |National Unity Party (Moldova)|PUN\n! rowspan=\"3\" |Liberal Democratic Party of Moldova|PLDM\n! rowspan=\"3\" |National Moldavian Party (2023)|PNM\n! rowspan=\"3\" |Heart of Moldova Republican Party|PRIM\n! rowspan=\"4\" |List of political parties in Moldova|Others\n! rowspan=\"4\" |Lead\n|- style=\"background-color:#E9E9E9\"\n! colspan=\"2\" style=\"width:35px;\" |Chance. Duties. Realization.|ȘOR\n! rowspan=\"2\" style=\"width:35px;\" |Revival Party (Moldova)|PR\n|- style=\"background-color:#E9E9E9\"\n! style=\"width:35px;\" |Party of Socialists of the Republic of Moldova|PSRM\n! style=\"width:35px;\" |Party of Communists of the Republic of Moldova|PCRM\n! style=\"width:35px;\" |Șor Party|ȘOR{{efn|In June 2023, this party was declared unconstitutional by the Constitutional Court of Moldova and has been banned ever since.}}\n! style=\"width:35px;\" |Chance (Moldova)|Șansă{{efn|Deregistered as a political party due to its supposed links with the fugitive Ilan Șor and allegations of unlawful financing.}}\n! style=\"width:35px;\" |Dignity and Truth Platform|PPDA\n! style=\"width:35px;\" |{{ill|Party of Change (Moldova)|ro|Partidul Schimbării|lt=PS}}\n! style=\"width:35px;\" |Coalition for Unity and Prosperity|CUB\n! style=\"width:35px;\" |Common Action Party – Civil Congress|CC\n! style=\"width:35px;\" |Party of Development and Consolidation of Moldova|PDCM\n! style=\"width:35px;\" |National Alternative Movement|MAN\n|-\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Party of Action and Solidarity}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Party of Socialists of the Republic of Moldova}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Party of Communists of the Republic of Moldova}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Șor Party}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Chance (Moldova)}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Revival Party (Moldova)}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Our Party (Moldova)}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Dignity and Truth Platform Party}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:#00aeef;\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Coalition for Unity and Prosperity}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|European Social Democratic Party}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Democracy at Home Party}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|We Build Europe at Home Party}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Common Action Political Party — Civil Congress}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Party of Development and Consolidation of Moldova}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|National Alternative Movement}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Alliance for the Union of Romanians}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|National Unity Party (Moldova)}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Liberal Democratic Party of Moldova}};\" |\n! class=\"unsortable\" style=\"color:inherit;background:#0046AE;\" |\n! class=\"unsortable\" style=\"color:inherit;background:{{party color|Heart of Moldova Republican Party}};\" |\n|-\n|ATES Research Group\n|data-sort-value=\"2025-04-13\"|5–13 Apr 2025\n|1,130\n|style=\"background:#ffe973\"|'''41.7'''\n|'''15.4'''\n|3.9\n|colspan=\"3\"|'''9.2'''\n|'''7.9'''\n|colspan=\"3\"|2.4\n|2.3\n|2.3\n|–\n|colspan=\"3\"|'''10.3'''\n|–\n|–\n|0.2\n|0.2\n|2.6\n|1.9{{efn|Future of Moldova Party – 1.2}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''26.3'''\n|-\n|IMAS\n|data-sort-value=\"2025-04-08\"|26 Mar – 8 Apr 2025\n|1,113\n|style=\"background:#ffe973\"|'''33.1'''\n|'''17.7'''\n|3.5\n| colspan=\"3\" |'''11.6'''\n|'''8.8'''\n| colspan=\"2\" |1.9\n|0.2\n|1.0\n|1.1\n|–\n| colspan=\"3\" |'''12.0'''\n|–\n|–\n|0.3\n|0.4\n|3.9\n|4.5{{efn|Future of Moldova Party – 3.5, Respect Moldova – 0.5}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''15.4'''\n|-\n|iData\n|data-sort-value=\"2025-03-25\"|14–25 Mar 2025\n|1,007\n|style=\"background:#ffe973\"|'''35.0'''<br />{{font|size=85%|text=45}}\n|'''16.0'''<br />{{font|size=85%|text=21}}\n|3.2<br />{{font|size=85%|text=0}}\n| colspan=\"3\" |'''15.0'''<br />{{font|size=85%|text=19}}\n|'''5.0'''<br />{{font|size=85%|text=6}}\n| colspan=\"2\" |1.3<br />{{font|size=85%|text=0}}\n|0.9<br />{{font|size=85%|text=0}}\n|4.5<br />{{font|size=85%|text=0}}\n|0.5<br />{{font|size=85%|text=0}}\n|–\n| colspan=\"3\" |'''7.8'''<br />{{font|size=85%|text=10{{dubious|reason=for three or more parties it is 11%|date=April 2025}}}}\n|–\n|–\n|0.3<br />{{font|size=85%|text=0}}\n|0.1<br />{{font|size=85%|text=0}}\n|2.7<br />{{font|size=85%|text=0}}\n|0.8{{efn|Future of Moldova Party – 0.8}}<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''19.0'''\n|-\n|iData\n|data-sort-value=\"2025-02-24\"|13–24 Feb 2025\n|1,005\n|style=\"background:#ffe973\"|'''37.3'''<br />{{font|size=85%|text=45}}\n|'''18.2'''<br />{{font|size=85%|text=22}}\n|'''5.9'''<br />{{font|size=85%|text=7}}\n|colspan=\"3\"|'''16.2'''<br />{{font|size=85%|text=19}}\n|'''7.0'''<br />{{font|size=85%|text=8}}\n|colspan=\"2\"|1.8<br />{{font|size=85%|text=0}}\n|1.4<br />{{font|size=85%|text=0}}\n|2.1<br />{{font|size=85%|text=0}}\n|0.4<br />{{font|size=85%|text=0}}\n|–\n|colspan=\"3\"|5.3<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|1.0<br />{{font|size=85%|text=0}}\n|3.4<br />{{font|size=85%|text=0}}\n|–\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''19.1'''\n|-\n|Intellect Group\n|data-sort-value=\"2025-02-21\"|13–21 Feb 2025\n|1,179\n|style=\"background:#ffe973\"|'''43.6'''\n|'''20.5'''\n|2.1\n|colspan=\"2\"|6.6\n|–\n|'''9.2'''\n|colspan=\"3\"|1.8\n|–\n|–\n|–\n|colspan=\"3\"|'''11.6'''\n|–\n|–\n|–\n|–\n|4.2\n|0.3\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''23.1'''\n|-\n|IMAS\n|data-sort-value=\"2025-02-01\"|15 Jan – 1 Feb 2025\n|1,130\n|style=\"background:#ffe973\"|'''33.6'''\n|colspan=\"2\"|'''28.2'''\n|colspan=\"3\"|'''11.8'''\n|'''10.0'''\n|colspan=\"2\"|1.5\n|0.7\n|0.6\n|1.2\n|–\n|–\n|2.4\n|2.8\n|–\n|–\n|0.4\n|0.3\n|'''5.3'''\n|1.2{{efn|Respect Moldova – 0.3}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''5.4'''\n|-\n|\n|data-sort-value=\"2025-01-31\"|31 Jan 2025\n|colspan=\"26\"|'''National Alternative Movement, Party of Development and Consolidation of Moldova, Common Action Party – Civil Congress|Civil Congress and Alexandr Stoianoglo form the Alternative (political bloc)|Alternative political bloc.'''\n|-\n|iData-IPP\n|data-sort-value=\"2024-12-08\"|2–8 Dec 2024\n|1,006\n|style=\"background:#ffe973\"|'''44.0'''<br />{{font|size=85%|text=49}}\n|'''20.4'''<br />{{font|size=85%|text=23}}\n|2.4<br />{{font|size=85%|text=0}}\n|colspan=\"3\"|'''13.9'''<br />{{font|size=85%|text=15}}\n|'''6.9'''<br />{{font|size=85%|text=8}}\n|colspan=\"2\"|1.6<br />{{font|size=85%|text=0}}\n|1.2<br />{{font|size=85%|text=0}}\n|0.8<br />{{font|size=85%|text=0}}\n|0.1<br />{{font|size=85%|text=0}}\n|–\n|–\n|1.9<br />{{font|size=85%|text=0}}\n|'''5.3'''<br />{{font|size=85%|text=6}}\n|–\n|–\n|–\n|0.1<br />{{font|size=85%|text=0}}\n|1.3<br />{{font|size=85%|text=0}}\n|0.1{{efn|Respect Moldova – 0.1}}<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''23.6'''\n|-\n|IMAS\n|data-sort-value=\"2024-07-21\"|15 Nov – 01 Dec 2024\n|1,030\n|style=\"background:#ffe973\"|'''37.0'''\n|colspan=\"2\"|'''30.2'''\n|colspan=\"3\"|'''8.7'''\n|'''9.8'''\n|colspan=\"3\"|1.8\n|0.6\n|1.0\n|–\n|–\n|2.7\n|1.9\n|–\n|–\n|0.4\n|0.3\n|4.1\n|1.5{{efn|Respect Moldova – 0.5, CUB – 0,4}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''6.8'''\n|-\n|CBS Research–Watchdog\n|data-sort-value=\"2024-10-16\"|11–16 Oct 2024\n|1,034\n|style=\"background:#ffe973\"|'''58.3'''\n|'''15.9'''\n|2.9\n|colspan=\"3\"|'''7.7'''\n|'''7.7'''\n|colspan=\"3\"|0.9\n|0.9\n|–\n|–\n|–\n|1.1\n|0.5\n|–\n|–\n|–\n|–\n|–\n|4.3{{efn|Future of Moldova Party – 2.7}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''42.4'''\n|-\n|Intellect Group\n|data-sort-value=\"2024-10-15\"|13–15 Oct 2024\n|985\n|style=\"background:#ffe973\"|'''40.2'''\n|'''16.6'''\n|4.4\n|colspan=\"2\"|'''12.7'''\n|–\n|'''14.8'''\n|colspan=\"3\"|–\n|–\n|–\n|–\n|–\n|–\n|4.7\n|–\n|–\n|–\n|–\n|–\n|6.5\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''23.6'''\n|-\n|iData-IPP\n|data-sort-value=\"2024-10-10\"|19 Sep–10 Oct 2024\n|1,100\n|style=\"background:#ffe973\"|'''36.0'''\n|'''15.8'''\n|3.3\n|colspan=\"3\"|'''17.6'''\n|'''13.6'''\n|colspan=\"2\"|2.3\n|1.9\n|2.4\n|–\n|–\n|–\n|3.2\n|1.6\n|–\n|–\n|1.2\n|–\n|–\n|1.1{{efn|Future of Moldova Party – 0.9, Liberal Party (Moldova)|Liberal Party – 0.1, Respect Moldova – 0.1}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''20.2'''\n|-\n|CBS Research–Watchdog\n|data-sort-value=\"2024-09-22\"|17–22 Sep 2024\n|1,021\n|style=\"background:#ffe973\"|'''51.9'''\n|'''12.5'''\n|'''6.3'''\n|colspan=\"3\"|'''12.0'''\n|'''6.1'''\n|colspan=\"3\"|2.1\n|2.8\n|–\n|–\n|–\n|1.6\n|1.4\n|–\n|–\n|–\n|–\n|–\n|3.4{{efn|Future of Moldova Party – 1.7}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''39.4'''\n|-\n|iData\n|data-sort-value=\"2024-09-18\"|13–18 Sep 2024\n|1,021\n|style=\"background:#ffe973\"|'''37.6'''<br />{{font|size=85%|text=46}}\n|'''15.4'''<br />{{font|size=85%|text=18}}\n|1.8<br />{{font|size=85%|text=0}}\n|colspan=\"3\"|'''17.5'''<br />{{font|size=85%|text=21}}\n|'''13.4'''<br />{{font|size=85%|text=16}}\n|colspan=\"2\"|1.3<br />{{font|size=85%|text=0}}\n|1.5<br />{{font|size=85%|text=0}}\n|1.6<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|4.6<br />{{font|size=85%|text=0}}\n|4.1<br />{{font|size=85%|text=0}}\n|–\n|–\n|0.3<br />{{font|size=85%|text=0}}\n|0.1<br />{{font|size=85%|text=0}}\n|–\n|0.8{{efn|Liberal Party (Moldova)|Liberal Party – 0.1, Independents – 0.7}}<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''20.1'''\n|-\n|iData\n|data-sort-value=\"2024-08-25\"|19–25 Aug 2024\n|1,004\n|style=\"background:#ffe973\"|'''37.0'''<br />{{font|size=85%|text=46}}\n|'''16.1'''<br />{{font|size=85%|text=20}}\n|4.1<br />{{font|size=85%|text=0}}\n|colspan=\"3\"|'''17.1'''<br />{{font|size=85%|text=21}}\n|'''11.2'''<br />{{font|size=85%|text=14}}\n|colspan=\"3\"|1.6<br />{{font|size=85%|text=0}}\n|2.5<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|3.5<br />{{font|size=85%|text=0}}\n|2.2<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|4.3<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''19.9'''\n|-\n|CBS Research–Watchdog\n|data-sort-value=\"2024-08-23\"|20–23 Aug 2024\n|1,011\n|style=\"background:#ffe973\"|'''44.8'''\n|'''15.9'''\n|'''6.8'''\n|colspan=\"3\"|'''12.7'''\n|'''5.5'''\n|colspan=\"3\"|2.1\n|4.4\n|–\n|–\n|–\n|2.7\n|1.3\n|–\n|–\n|–\n|–\n|–\n|3.8{{efn|Future of Moldova Party – 2.7}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''28.9'''\n|-\n|IMAS\n|data-sort-value=\"2024-07-21\"|8–21 Jul 2024\n|1,093\n|style=\"background:#ffe973\"|'''41.1'''\n|colspan=\"2\"|'''25.4'''\n|colspan=\"3\"|'''13.7'''\n|'''7.1'''\n|colspan=\"3\"|1.5\n|1.1\n|1.5\n|–\n|–\n|3.8\n|1.9\n|–\n|–\n|1.1\n|0.6\n|–\n|1.2{{efn|Respect Moldova – 0.7}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''15.7'''\n|-\n|CBS-AXA\n|data-sort-value=\"2024-07-18\"|28 Jun–18 Jul 2024\n|1,119\n|style=\"background:#ffe973\"|'''40.8'''\n|colspan=\"2\"|'''22.1'''\n|colspan=\"3\"|'''12.8'''\n|'''8.1'''\n|colspan=\"3\"|1.4\n|1.4\n|–\n|–\n|–\n|3.2\n|3.8\n|0.6\n|–\n|1.1\n|1.1\n|–\n|3.5{{efn|Future of Moldova Party – 1.5, People's Power Party – 0.6, Liberal Party (Moldova)|Liberal Party – 0.6}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''18.7'''\n|-\n|IRI\n|data-sort-value=\"2024-06-13\"|23 May–13 Jun 2024\n|1,225\n|style=\"background:#ffe973\"|'''44.0'''\n|'''20.0'''\n|4.0\n|colspan=\"2\"|'''12.0'''\n|–\n|'''5.3'''\n|1.3\n|–\n|<1.3\n|–\n|1.3\n|–\n|–\n|'''6.7'''\n|4.0\n|–\n|–\n|1.3\n|–\n|–\n|2.7\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''24.0'''\n|-\n|iData\n|data-sort-value=\"2024-05-27\"|22–27 May 2024\n|1,022\n|style=\"background:#ffe973\"|'''38.2'''<br />{{font|size=85%|text=49}}\n|'''19.5'''<br />{{font|size=85%|text=25}}\n|3.7<br />{{font|size=85%|text=0}}\n|colspan=\"3\"|'''20.4'''<br />{{font|size=85%|text=27}}\n|3.4<br />{{font|size=85%|text=0}}\n|colspan=\"3\"|4.9<br />{{font|size=85%|text=0}}\n|2.8<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|4.2<br />{{font|size=85%|text=0}}\n|1.8<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|1.0<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''17.8'''\n|-\n|IMAS\n|data-sort-value=\"2024-05-19\"|2–19 May 2024\n|1,088\n|style=\"background:#ffe973\"|'''42.5'''\n|colspan=\"2\"|'''28.2'''\n|colspan=\"3\"|'''14.7'''\n|4.4\n|colspan=\"3\"|1.0\n|1.0\n|1.5\n|–\n|–\n|3.2\n|1.9\n|–\n|–\n|0.6\n|0.4\n|–\n|0.7{{efn|Respect Moldova – 0.6}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''14.3'''\n|-\n|iData\n|data-sort-value=\"2024-04-26\"|22–26 Apr 2024\n|1,006\n|style=\"background:#ffe973\"|'''37.8'''<br />{{font|size=85%|text=50}}\n|'''19.7'''<br />{{font|size=85%|text=26}}\n|4.5<br />{{font|size=85%|text=0}}\n|–\n|'''19.1'''<br />{{font|size=85%|text=25}}\n|–\n|4.5<br />{{font|size=85%|text=0}}\n|colspan=\"3\"|3.6<br />{{font|size=85%|text=0}}\n|2.8<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|4.7<br />{{font|size=85%|text=0}}\n|1.6<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|1.6<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''18.7'''\n|-\n|\n|data-sort-value=\"2024-04-21\"|21 Apr 2024\n|colspan=\"26\"|'''Chance (Moldova)|Chance, Revival Party (Moldova)|Revival, Alternative and Salvation Force of Moldova and Victory Party (Moldova)|Victory form \"Victory\" political bloc.'''\n|-\n|\n|data-sort-value=\"2024-04-14\"|14 Apr 2024\n|colspan=\"26\"|'''Dignity and Truth Platform, Party of Change (Moldova)|Party of Change, Coalition for Unity and Prosperity and League of Cities and Communes form \"Together\" political bloc.'''\n|-\n|CBS-AXA–WatchDog\n|data-sort-value=\"2024-04-13\"|6–13 Apr 2024\n|1,008\n|style=\"background:#ffe973\"|'''41.6'''\n|'''22.6'''\n|'''6.8'''\n|–\n|'''8.5'''\n|3.2\n|4.2\n|colspan=\"3\"|3.5\n|3.2\n|–\n|–\n|–\n|2.0\n|2.5\n|–\n|–\n|–\n|–\n|–\n|2.0\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''19.0'''\n|-\n|iData\n|data-sort-value=\"2024-03-24\"|18–24 Mar 2024\n|1,131\n|style=\"background:#ffe973\"|'''36.3'''<br />{{font|size=85%|text=45}}\n|'''20.0'''<br />{{font|size=85%|text=24}}\n|'''7.6'''<br />{{font|size=85%|text=9}}\n|–\n|'''18.8'''<br />{{font|size=85%|text=23}}\n|2.7<br />{{font|size=85%|text=0}}\n|4.7<br />{{font|size=85%|text=0}}\n|1.9<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|–\n|3.3<br />{{font|size=85%|text=0}}\n|1.6<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|3.1<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''16.3'''\n|-\n|IMAS\n|data-sort-value=\"2024-02-27\"|9–27 Feb 2024\n|1,091\n|style=\"background:#ffe973\"|'''38.4'''\n|colspan=\"2\"|'''28.7'''\n|–\n|'''14.5'''\n|1.0\n|4.6\n|1.6\n|–\n|0.5\n|0.8\n|1.5\n|–\n|–\n|4.0\n|2.2\n|–\n|–\n|0.8\n|0.3\n|–\n|1.1{{efn|Respect Moldova – 0.4}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''9.7'''\n|-\n|International Republican Institute|IRI\n|data-sort-value=\"2024-02-22\"|27 Jan–22 Feb 2024\n|1,247\n|style=\"background:#ffe973\"|'''37.0'''\n|'''23.3'''\n|'''5.5'''\n|–\n|'''13.7'''\n|–\n|4.1\n|1.4\n|–\n|1.4\n|–\n|1.4\n|–\n|–\n|4.1\n|'''5.5'''\n|–\n|–\n|1.4\n|–\n|–\n|1.8\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''13.7'''\n|-\n|CBS Research\n|data-sort-value=\"2024-02-12\"|7–12 Feb 2024\n|1,104\n|style=\"background:#ffe973\"|'''34.3'''\n|colspan=\"2\"|'''29.3'''\n|–\n|'''10.1'''\n|2.1\n|4.7\n|1.5\n|0.9\n|1.7\n|2.3\n|2.6\n|–\n|0.3\n|3.8\n|1.5\n|–\n|–\n|1.8\n|0.5\n|–\n|3.0\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''5.0'''\n|-\n|iData\n|data-sort-value=\"2024-01-30\"|26–30 Jan 2024\n|1,011\n|style=\"background:#ffe973\"|'''37.2'''<br />{{font|size=85%|text=49}}\n|'''20.3'''<br />{{font|size=85%|text=27}}\n|3.2<br />{{font|size=85%|text=0}}\n|–\n|'''19.2'''<br />{{font|size=85%|text=25}}\n|3.6<br />{{font|size=85%|text=0}}\n|3.1<br />{{font|size=85%|text=0}}\n|1.2<br />{{font|size=85%|text=0}}\n|–\n|0.9<br />{{font|size=85%|text=0}}\n|2.8<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|2.9<br />{{font|size=85%|text=0}}\n|4.7<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|0.9<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''16.9'''\n|-\n|IMAS\n|data-sort-value=\"2023-12-16\"|29 Nov–16 Dec 2023\n|954\n|style=\"background:#ffe973\"|'''34.7'''\n|colspan=\"2\"|'''30.4'''\n|–\n|'''13.5'''\n|0.7\n|'''5.7'''\n|2.0\n|–\n|0.7\n|1.1\n|0.6\n|–\n|–\n|3.8\n|4.8\n|–\n|–\n|0.7\n|–\n|–\n|1.4{{efn|Respect Moldova – 0.3}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''4.3'''\n|-\n|iData\n|data-sort-value=\"2023-12-15\"|2–15 Dec 2023\n|997\n|style=\"background:#ffe973\"|'''35.5'''<br />{{font|size=85%|text=45}}\n|'''19.0'''<br />{{font|size=85%|text=24}}\n|2.7<br />{{font|size=85%|text=0}}\n|–\n|'''17.8'''<br />{{font|size=85%|text=23}}\n|2.1<br />{{font|size=85%|text=0}}\n|4.0<br />{{font|size=85%|text=0}}\n|2.4<br />{{font|size=85%|text=0}}\n|0.1<br />{{font|size=85%|text=0}}\n|1.3<br />{{font|size=85%|text=0}}\n|2.5<br />{{font|size=85%|text=0}}\n|1.2<br />{{font|size=85%|text=0}}\n|–\n|–\n|3.7<br />{{font|size=85%|text=0}}\n|'''7.2'''<br />{{font|size=85%|text=9}}\n|–\n|–\n|0.4<br />{{font|size=85%|text=0}}\n|–\n|–\n|0.1{{efn|Alliance of Liberals and Democrats for Europe – 0.1}}<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''16.5'''\n|- style=\"background:#EFEFEF\"\n|2023 Moldovan local elections|'''2023 local elections'''\n|data-sort-value=\"2023-11-05\"|5 Nov 2023\n|1,147,317\n|style=\"background:#ffe973\"|'''32.9'''\n|'''23.6'''\n|4.3\n|–\n|–\n|3.2\n|4.1\n|3.6\n|–\n|–\n|'''8.1'''\n|0.5\n|–\n|–\n|'''5.3'''\n|1.8\n|–\n|–\n|–\n|–\n|–\n|12.6\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''9.3'''\n|-\n|iData\n|data-sort-value=\"2023-10-29\"|22–29 Oct 2023\n|1,322\n|style=\"background:#ffe973\"|'''35.6'''<br />{{font|size=85%|text=44}}\n|'''19.3'''<br />{{font|size=85%|text=23}}\n|2.8<br />{{font|size=85%|text=0}}\n|–\n|'''18.3'''<br />{{font|size=85%|text=22}}\n|1.0<br />{{font|size=85%|text=0}}\n|4.6<br />{{font|size=85%|text=0}}\n|2.1<br />{{font|size=85%|text=0}}\n|–\n|0.9<br />{{font|size=85%|text=0}}\n|3.3<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|'''5.1'''<br />{{font|size=85%|text=6}}\n|'''5.2'''<br />{{font|size=85%|text=6}}\n|–\n|–\n|0.6<br />{{font|size=85%|text=0}}\n|–\n|–\n|1.0<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''16.3'''\n|-\n|iData\n|data-sort-value=\"2023-09-30\"|24–30 Sep 2023\n|1,002\n|style=\"background:#ffe973\"|'''45.4'''<br />{{font|size=85%|text=56}}\n|colspan=\"2\"|'''31.6'''<br />{{font|size=85%|text=39}}\n|–\n|3.8<br />{{font|size=85%|text=0}}\n|0.6<br />{{font|size=85%|text=0}}\n|3.8<br />{{font|size=85%|text=0}}\n|1.6<br />{{font|size=85%|text=0}}\n|0.2<br />{{font|size=85%|text=0}}\n|0.8<br />{{font|size=85%|text=0}}\n|1.8<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|'''5.0'''<br />{{font|size=85%|text=6}}\n|4.2<br />{{font|size=85%|text=0}}\n|–\n|–\n|0.2<br />{{font|size=85%|text=0}}\n|–\n|–\n|1.0<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''13.8'''\n|-\n|IMAS\n|data-sort-value=\"2023-09-24\"|2–24 Sep 2023\n|822\n|style=\"background:#ffe973\"|'''39.1'''\n|colspan=\"2\"|'''30.1'''\n|–\n|–\n|'''5.3'''\n|'''9.5'''\n|1.1\n|–\n|0.3\n|0.5\n|1.7\n|0.2\n|–\n|4.4\n|2.3\n|0.2\n|–\n|0.3\n|0.2\n|–\n|4.8\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''9.0'''\n|-\n|\n|data-sort-value=\"2023-09-17\"|17 Sep 2023\n|colspan=\"26\"|'''National Unity Party (Moldova)|National Unity Party merges into the Liberal Democratic Party of Moldova.'''\n|-\n|iData\n|data-sort-value=\"2023-09-07\"|31 Aug–7 Sep 2023\n|1,021\n|style=\"background:#ffe973\"|'''49.4'''<br />{{font|size=85%|text=59}}\n|colspan=\"2\"|'''29.6'''<br />{{font|size=85%|text=35}}\n|–\n|2.2<br />{{font|size=85%|text=0}}\n|0.6<br />{{font|size=85%|text=0}}\n|3.4<br />{{font|size=85%|text=0}}\n|1.8<br />{{font|size=85%|text=0}}\n|–\n|0.6<br />{{font|size=85%|text=0}}\n|1.0<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|'''5.6'''<br />{{font|size=85%|text=7}}\n|3.0<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|0.6\n|–\n|2.2{{efn|Ecologist Green Party (Moldova)|Ecologist Green Party – 0.8}}<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''19.8'''\n|-\n|CBS-AXA–IPP\n|data-sort-value=\"2023-08-23\"|9–23 Aug 2023\n|1,215\n|style=\"background:#ffe973\"|'''42.6'''\n|'''23.6'''\n|'''6.4'''\n|'''15.2'''\n|–\n|{{efn|Included with ȘOR.}}\n|1.9\n|2.7\n|0.5\n|0.5\n|2.1\n|–\n|–\n|0.5\n|1.8\n|1.1\n|–\n|–\n|0.5\n|–\n|–\n|0.6\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''12.6'''\n|-\n|IRI\n|data-sort-value=\"2023-08-01\"|11 Jul–1 Aug 2023\n|1,199\n|style=\"background:#ffe973\"|'''41.2'''\n|'''16.2'''\n|4.4\n|2.9\n|'''14.7'''\n|–\n|2.9\n|1.5\n|–\n|–\n|–\n|–\n|–\n|1.5\n|4.4\n|4.4\n|–\n|–\n|1.5\n|–\n|–\n|4.4\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''25.0'''\n|-\n|CBS-AXA–IPRE\n|data-sort-value=\"2023-06-28\"|13–28 Jun 2023\n|1,120\n|style=\"background:#ffe973\"|'''44.0'''\n|colspan=\"2\"|'''25.7'''\n|'''15.5'''\n|–\n|–\n|4.5\n|1.7\n|0.2\n|0.3\n|1.6\n|–\n|–\n|–\n|1.1\n|1.3\n|0.5\n|–\n|1.3\n|0.5\n|–\n|1.9{{efn|Working People's Party (Moldova)|Working People's Party – 0.8, Liberal Party (Moldova)|Liberal Party – 0.8}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''18.3'''\n|-\n|\n|data-sort-value=\"2023-06-19\"|19 Jun 2023\n|colspan=\"26\"|'''The Șor Party was outlawed by the Constitutional Court of Moldova|Constitutional Court.'''\n|-\n|Intellect Group\n|data-sort-value=\"2023-06-19\"|15–19 Jun 2023\n|1,056\n|style=\"background:#ffe973\"|'''38.1'''\n|'''16.0'''\n|'''9.6'''\n|'''22.6'''\n|–\n|–\n|4.7\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|3.4\n|4.8\n|–\n|–\n|–\n|–\n|–\n|0.8\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''15.5'''\n|-\n|CBS-AXA–WatchDog\n|data-sort-value=\"2023-06-19\"|10–19 Jun 2023\n|1,121\n|style=\"background:#ffe973\"|'''44.3'''\n|colspan=\"2\"|'''21.5'''\n|'''13.6'''\n|–\n|–\n|4.1\n|1.9\n|1.3\n|0.7\n|1.5\n|–\n|1.1\n|–\n|4.0\n|3.7\n|–\n|–\n|–\n|0.3\n|–\n|2.0\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''22.8'''\n|-\n|iData\n|data-sort-value=\"2023-05-30\"|23–30 May 2023\n|1,032\n|style=\"background:#ffe973\"|'''38.5'''<br />{{font|size=85%|text=44}}\n|colspan=\"2\"|'''24.2'''<br />{{font|size=85%|text=28}}\n|'''25.1'''<br />{{font|size=85%|text=29}}\n|–\n|–\n|1.9<br />{{font|size=85%|text=0}}\n|1.4<br />{{font|size=85%|text=0}}\n|–\n|1.1<br />{{font|size=85%|text=0}}\n|0.8<br />{{font|size=85%|text=0}}\n|–\n|0.6\n|–\n|2.7<br />{{font|size=85%|text=0}}\n|2.1<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|1.6<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''13.4'''\n|-\n|iData\n|data-sort-value=\"2023-05-08\"|27 Apr–8 May 2023\n|1,049\n|style=\"background:#ffe973\"|'''36.8'''<br />{{font|size=85%|text=43}}\n|colspan=\"2\"|'''25.9'''<br />{{font|size=85%|text=31}}\n|'''22.8'''<br />{{font|size=85%|text=27}}\n|–\n|–\n|3.5<br />{{font|size=85%|text=0}}\n|1.3<br />{{font|size=85%|text=0}}\n|–\n|1.3<br />{{font|size=85%|text=0}}\n|1.2<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|3.8<br />{{font|size=85%|text=0}}\n|1.8<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|1.6<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''10.9'''\n|-\n|CBS-AXA–WatchDog\n|data-sort-value=\"2023-04-13\"|4–13 Apr 2023\n|1,015\n|style=\"background:#ffe973\"|'''47.1'''\n|colspan=\"2\"|'''26.6'''\n|'''10.1'''\n|–\n|–\n|2.6\n|1.5\n|0.6\n|0.8\n|1.8\n|–\n|1.2\n|–\n|3.5\n|2.4\n|–\n|–\n|–\n|0.5\n|–\n|1.2\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''20.5'''\n|-\n|iData\n|data-sort-value=\"2023-03-26\"|15–26 Mar 2023\n|1,065\n|style=\"background:#ffe973\"|'''38.4'''<br />{{font|size=85%|text=45}}\n|colspan=\"2\"|'''27.1'''<br />{{font|size=85%|text=32}}\n|'''16.1'''<br />{{font|size=85%|text=18}}\n|–\n|–\n|1.9<br />{{font|size=85%|text=0}}\n|2.8<br />{{font|size=85%|text=0}}\n|–\n|1.1<br />{{font|size=85%|text=0}}\n|1.3<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|2.7<br />{{font|size=85%|text=0}}\n|'''5.4'''<br />{{font|size=85%|text=6}}\n|–\n|–\n|–\n|–\n|–\n|3.3<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''11.3'''\n|-\n|CBS-AXA–WatchDog\n|data-sort-value=\"2023-03-03\"|24 Feb–3 Mar 2023\n|1,000\n|style=\"background:#ffe973\"|'''46.5'''\n|colspan=\"2\"|'''31.7'''\n|'''10.4'''\n|–\n|–\n|2.8\n|1.1\n|0.6\n|0.5\n|–\n|–\n|–\n|–\n|2.3\n|2.0\n|–\n|–\n|–\n|–\n|–\n|2.0\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''14.8'''\n|-\n|iData\n|data-sort-value=\"2023-02-24\"|15–24 Feb 2023\n|1,040\n|style=\"background:#ffe973\"|'''34.5'''<br />{{font|size=85%|text=42}}\n|colspan=\"2\"|'''29.4'''<br />{{font|size=85%|text=35}}\n|'''20.6'''<br />{{font|size=85%|text=24}}\n|–\n|–\n|2.3<br />{{font|size=85%|text=0}}\n|1.8<br />{{font|size=85%|text=0}}\n|–\n|–\n|1.4<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|2.1<br />{{font|size=85%|text=0}}\n|4.8<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|3.1<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''5.1'''\n|-\n|IMAS\n|data-sort-value=\"2023-02-23\"|6–23 Feb 2023\n|1,100\n|'''32.3'''\n|colspan=\"2\" style=\"background:#DB6E61\"|'''34.4'''\n|'''14.6'''\n|–\n|–\n|'''5.4'''\n|1.6\n|–\n|0.5\n|0.2\n|1.8\n|0.7\n|–\n|3.1\n|4.6\n|0.4\n|0.1\n|–\n|–\n|–\n|0.3\n|style=\"background:{{party color|Party of Socialists of the Republic of Moldova}}; color:white;\"|'''2.1'''\n|-\n|Intellect Group\n|data-sort-value=\"2023-02-22\"|12–22 Feb 2023\n|1,198\n|style=\"background:#ffe973\"|'''38.3'''<br />{{font|size=85%|text=44}}\n|'''18.4'''<br />{{font|size=85%|text=21}}\n|'''10.4'''<br />{{font|size=85%|text=12}}\n|'''20.7'''<br />{{font|size=85%|text=24}}\n|–\n|–\n|4.9<br />{{font|size=85%|text=0}}\n|–\n|–\n|1.5<br />{{font|size=85%|text=0}}\n|–\n|–\n|1.2<br />{{font|size=85%|text=0}}\n|–\n|–\n|4.3<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|0.3<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''17.6'''\n|-\n|Magenta Consulting–Friedrich Naumann Foundation|FNF\n|data-sort-value=\"2023-02-06\"|11 Jan–6 Feb 2023\n|1,421\n|style=\"background:#ffe973\"|'''40.9'''\n|'''21.6'''\n|4.5\n|'''17.0'''\n|–\n|–\n|2.3\n|1.1\n|–\n|1.1\n|–\n|–\n|–\n|–\n|1.1\n|4.5\n|–\n|–\n|–\n|–\n|–\n|3.4\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''19.3'''\n|-\n|CBS-AXA–WatchDog\n|data-sort-value=\"2023-01-26\"|17–26 Jan 2023\n|1,001\n|style=\"background:#ffe973\"|'''33.1'''\n|colspan=\"2\"|'''31.1'''\n|'''16.0'''\n|–\n|–\n|3.1\n|2.6\n|1.8\n|1.3\n|–\n|–\n|–\n|0.2\n|2.3\n|4.1\n|2.2\n|–\n|–\n|–\n|–\n|2.2\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''2.0'''\n|-\n|iData\n|data-sort-value=\"2022-12-26\"|15–26 Dec 2022\n|1,006\n|style=\"background:#ffe973\"|'''34.7'''<br />{{font|size=85%|text=39}}\n|colspan=\"2\"|'''34.0'''<br />{{font|size=85%|text=38}}\n|'''16.5'''<br />{{font|size=85%|text=18}}\n|–\n|–\n|0.6<br />{{font|size=85%|text=0}}\n|3.2<br />{{font|size=85%|text=0}}\n|0.1<br />{{font|size=85%|text=0}}\n|–\n|0.7<br />{{font|size=85%|text=0}}\n|0.4<br />{{font|size=85%|text=0}}\n|–\n|0.1<br />{{font|size=85%|text=0}}\n|1.7<br />{{font|size=85%|text=0}}\n|'''5.6'''<br />{{font|size=85%|text=6}}\n|0.4<br />{{font|size=85%|text=0}}\n|–\n|0.1<br />{{font|size=85%|text=0}}\n|–\n|–\n|0.3{{efn|Ecologist Green Party (Moldova)|Ecologist Green Party – 0.3}}<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''0.7'''\n|-\n|Intellect Group\n|data-sort-value=\"2022-12-20\"|1–20 Dec 2022\n|1,209\n|style=\"background:#ffe973\"|'''41.55'''<br />{{font|size=85%|text=46}}\n|'''18.73'''<br />{{font|size=85%|text=21}}\n|'''6.90'''<br />{{font|size=85%|text=8}}\n|'''24.08'''<br />{{font|size=85%|text=26}}\n|–\n|–\n|3.94<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|4.37<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|0.43<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''17.47'''\n|-\n|IMAS\n|data-sort-value=\"2022-11-29\"|10–29 Nov 2022\n|1,100\n|style=\"background:#ffe973\"|'''34.8'''\n|colspan=\"2\"|'''33.7'''\n|'''16.9'''\n|–\n|–\n|3.1\n|1.4\n|–\n|0.3\n|1.1\n|1.5\n|–\n|–\n|2.6\n|3.1\n|0.3\n|0.3\n|–\n|–\n|–\n|0.9\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''1.1'''\n|-\n|IDIS–CBS Research–ISPRI\n|data-sort-value=\"2022-11-23\"|16–23 Nov 2022\n|1,015\n|style=\"background:#ffe973\"|'''36.5'''\n|'''28.9'''\n|'''6.8'''\n|'''13.3'''\n|–\n|–\n|3.3\n|3.3\n|1.3\n|–\n|2.2\n|–\n|–\n|–\n|–\n|2.2\n|–\n|0.4\n|–\n|–\n|–\n|0.5\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''7.6'''\n|-\n|IRI\n|data-sort-value=\"2022-11-15\"|1 Oct–15 Nov 2022\n|1,233\n|style=\"background:#ffe973\"|'''36.4'''\n|'''22.7'''\n|'''7.6'''\n|'''15.2'''\n|–\n|–\n|3.0\n|1.5\n|–\n|–\n|1.5\n|1.5\n|–\n|–\n|–\n|4.5\n|–\n|–\n|–\n|–\n|–\n|6.1\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''13.7'''\n|-\n|CBS Research/IPP\n|data-sort-value=\"2022-11-10\"|29 Oct–10 Nov 2022\n|1,134\n|style=\"background:#ffe973\"|'''40.6'''\n|'''27.4'''\n|'''6.4'''\n|'''16.7'''\n|–\n|–\n|–\n|1.8\n|0.5\n|–\n|1.8\n|–\n|–\n|0.7\n|0.7\n|1.0\n|–\n|0.7\n|–\n|–\n|–\n|1.5\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''13.2'''\n|-\n|IDIS–CBS Research–ISPRI\n|data-sort-value=\"2022-10-11\"|29 Sep–11 Oct 2022\n|1,066\n|style=\"background:#ffe973\"|'''38.7'''\n|'''30.8'''\n|'''6.1'''\n|'''12.8'''\n|–\n|–\n|2.3\n|2.8\n|–\n|–\n|1.4\n|–\n|–\n|0.5\n|1.0\n|1.0\n|–\n|–\n|0.4\n|–\n|–\n|2.3\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''7.9'''\n|-\n|iData\n|data-sort-value=\"2022-10-10\"|4–10 Oct 2022\n|1,020\n|style=\"background:#ffe973\"|'''31.4'''<br />{{font|size=85%|text=34}}\n|'''22.8'''<br />{{font|size=85%|text=25}}\n|'''6.1'''<br />{{font|size=85%|text=7}}\n|'''27.2'''<br />{{font|size=85%|text=30}}\n|–\n|–\n|1.1<br />{{font|size=85%|text=0}}\n|'''5.1'''<br />{{font|size=85%|text=5}}\n|–\n|–\n|–\n|–\n|1.8<br />{{font|size=85%|text=0}}\n|–\n|1.1<br />{{font|size=85%|text=0}}\n|2.1<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|1.4<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''4.3'''\n|-\n|Intellect Group\n|data-sort-value=\"2022-09-25\"|16 Apr–25 Sep 2022\n|1,087\n|style=\"background:#ffe973\"|'''33.4'''\n|'''29.8'''\n|'''14.1'''\n|'''16.3'''\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|6.4\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''3.6'''\n|-\n|iData\n|data-sort-value=\"2022-09-12\"|3–12 Sep 2022\n|1,012\n|'''29.7'''<br />{{font|size=85%|text=34}}\n|colspan=\"2\" style=\"background:#DB6E61\"|'''31.9'''<br />{{font|size=85%|text=37}}\n|'''25.6'''<br />{{font|size=85%|text=30}}\n|–\n|–\n|1.2<br />{{font|size=85%|text=0}}\n|4.4<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|–\n|1.8<br />{{font|size=85%|text=0}}\n|3.5<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|1.8<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Socialists of the Republic of Moldova}}; color:white;\"|'''2.2'''\n|-\n|IMAS\n|data-sort-value=\"2022-07-18\"|6–18 Jul 2022\n|1,007\n|'''30.7'''\n|colspan=\"2\" style=\"background:#DB6E61\"|'''42.5'''\n|'''15.5'''\n|–\n|–\n|3.4\n|1.6\n|–\n|–\n|1.4\n|2.0\n|–\n|–\n|1.1\n|–\n|0.5\n|0.4\n|–\n|–\n|–\n|0.9\n|style=\"background:{{party color|Party of Socialists of the Republic of Moldova}}; color:white;\"|'''11.8'''\n|-\n|iData\n|data-sort-value=\"2022-06-23\"|15–23 June 2022\n|1,095\n|'''33.1'''<br />{{font|size=85%|text=37}}\n|colspan=\"2\" style=\"background:#DB6E61\"|'''38.5'''<br />{{font|size=85%|text=43}}\n|'''18.7'''<br />{{font|size=85%|text=21}}\n|–\n|–\n|2.6<br />{{font|size=85%|text=0}}\n|2.9<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|0.9<br />{{font|size=85%|text=0}}\n|–\n|–\n|2.0<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|–\n|1.2<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Socialists of the Republic of Moldova}}; color:white;\"|'''5.4'''\n|-\n|iData\n|data-sort-value=\"2022-05-28\"|13–28 May 2022\n|1,012\n|'''35.9'''<br />{{font|size=85%|text=40}}\n|colspan=\"2\" style=\"background:#DB6E61\"|'''36.9'''<br />{{font|size=85%|text=41}}\n|'''17.9'''<br />{{font|size=85%|text=20}}\n|–\n|–\n|1.1<br />{{font|size=85%|text=0}}\n|4.9<br />{{font|size=85%|text=0}}\n|–\n|–\n|0.4<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|2.3<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|–\n|0.6<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Socialists of the Republic of Moldova}}; color:white;\"|'''1.0'''\n|-\n|CBS Research\n|data-sort-value=\"2022-05-06\"|27 Apr–6 May 2022\n|1,111\n|style=\"background:#ffe973\"|'''39.7'''\n|'''30.7'''\n|'''7.1'''\n|'''10.6'''\n|–\n|–\n|1.5\n|2.2\n|0.5\n|–\n|1.5\n|–\n|–\n|–\n|–\n|2.9\n|1.2\n|0.1\n|–\n|–\n|–\n|1.4{{efn|Liberal Party (Moldova)|Liberal Party – 0.3}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''7.0'''\n|-\n|iData\n|data-sort-value=\"2022-04-18\"|7–18 Apr 2022\n|1,053\n|style=\"background:#ffe973\"|'''38.4'''<br />{{font|size=85%|text=41}}\n|colspan=\"2\"|37.7<br />{{font|size=85%|text=40}}\n|'''18.2'''<br />{{font|size=85%|text=20}}\n|–\n|–\n|1.6<br />{{font|size=85%|text=0}}\n|2.5<br />{{font|size=85%|text=0}}\n|–\n|–\n|0.4<br />{{font|size=85%|text=0}}\n|0.1<br />{{font|size=85%|text=0}}\n|–\n|–\n|0.4<br />{{font|size=85%|text=0}}\n|–\n|0.1<br />{{font|size=85%|text=0}}\n|0.3<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|0.0<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''0.7'''\n|-\n|IMAS\n|data-sort-value=\"2022-04-18\"|4–18 Apr 2022\n|1,109\n|style=\"background:#ffe973\"|'''38.7'''\n|colspan=\"2\"|'''36.5'''\n|'''14.7'''\n|–\n|–\n|4.4\n|0.9\n|–\n|–\n|0.4\n|2.3\n|–\n|–\n|0.8\n|–\n|0.7\n|–\n|–\n|–\n|–\n|0.6\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''2.2'''\n|-\n|Intellect Group\n|data-sort-value=\"2022-04-10\"|7–10 Apr 2022\n|1,089\n|'''34.4'''<br />{{font|size=85%|text=38}}\n|colspan=\"2\" style=\"background:#DB6E61\"|'''44.9'''<br />{{font|size=85%|text=49}}\n|'''12.5'''<br />{{font|size=85%|text=14}}\n|–\n|–\n|c. 2.0<br />{{font|size=85%|text=0}}\n|c. 1.0<br />{{font|size=85%|text=0}}\n|–\n|–\n|c. 1.0<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|3.8<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|c. 0.5<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Socialists of the Republic of Moldova}}; color:white;\"|'''10.6'''\n|-\n|IRI\n|data-sort-value=\"2022-03-30\"|9 Feb–30 Mar 2022\n|1,306\n|style=\"background:#ffe973\"|'''46.7'''\n|'''28.9'''\n|'''6.7'''\n|'''8.9'''\n|–\n|–\n|–\n|<2.2\n|–\n|–\n|<2.2\n|–\n|–\n|<2.2\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|4.5\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''17.8'''\n|-\n|iData\n|data-sort-value=\"2022-03-28\"|28 Mar 2022\n|1,084\n|style=\"background:#ffe973\"|'''40.0'''<br />{{font|size=85%|text=44}}\n|colspan=\"2\"|'''33.7'''<br />{{font|size=85%|text=37}}\n|'''18.9'''<br />{{font|size=85%|text=20}}\n|–\n|–\n|1.4<br />{{font|size=85%|text=0}}\n|1.4<br />{{font|size=85%|text=0}}\n|–\n|–\n|0.7<br />{{font|size=85%|text=0}}\n|1.0<br />{{font|size=85%|text=0}}\n|–\n|0.3<br />{{font|size=85%|text=0}}\n|0.7<br />{{font|size=85%|text=0}}\n|–\n|–\n|0.3<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|1.5<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''6.3'''\n|-\n|iData\n|data-sort-value=\"2022-02-24\"|15–24 Feb 2022\n|1,007\n|style=\"background:#ffe973\"|'''32.6'''<br />{{font|size=85%|text=37}}\n|'''29.4'''<br />{{font|size=85%|text=43}}\n|'''8.9'''\n|'''18.9'''<br />{{font|size=85%|text=21}}\n|–\n|–\n|–\n|4.7<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|1.1<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|2.3<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|2.3<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''3.3'''\n|-\n|IMAS\n|data-sort-value=\"2022-02-14\"|24 Jan–14 Feb 2022\n|1,123\n|35.2\n|colspan=\"2\" style=\"background:#DB6E61\"|'''36.1'''\n|'''15.7'''\n|–\n|–\n|'''5.8'''\n|1.2\n|–\n|–\n|1.2\n|1.8\n|–\n|–\n|0.7\n|–\n|0.5\n|0.5\n|–\n|–\n|–\n|1.3\n|style=\"background:{{party color|Party of Socialists of the Republic of Moldova}}; color:white;\"|'''0.9'''\n|-\n|IDIS–CBS Research–ISPRI\n|data-sort-value=\"2022-02-05\"|25 Jan–5 Feb 2022\n|1,134\n|36.0\n|colspan=\"2\" style=\"background:#DB6E61\"|'''40.0'''\n|'''12.9'''\n|–\n|–\n|3.2\n|2.3\n|0.5\n|–\n|1.1\n|–\n|–\n|–\n|–\n|2.0\n|–\n|0.4\n|–\n|–\n|–\n|1.4{{efn|Liberal Party (Moldova)|Liberal Party – 0.2}}\n|style=\"background:{{party color|Party of Socialists of the Republic of Moldova}}; color:white;\"|'''4.0'''\n|-\n|iData\n|data-sort-value=\"2022-01-23\"|11–23 Jan 2022\n|999\n|style=\"background:#ffe973\"|'''39.2'''<br />{{font|size=85%|text=43}}\n|'''25.8'''<br />{{font|size=85%|text=33}}\n|4.5<br />{{font|size=85%|text=0}}\n|'''16.8'''<br />{{font|size=85%|text=19}}\n|–\n|–\n|1.5<br />{{font|size=85%|text=0}}\n|'''5.4'''<br />{{font|size=85%|text=6}}\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|1.4<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|–\n|–\n|5.4<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''8.9'''\n|-\n|iData\n|data-sort-value=\"2021-12-19\"|12–19 Dec 2021\n|1,021\n|style=\"background:#ffe973\"|'''43.8'''\n|'''22.7'''\n|'''5.8'''\n|'''16.5'''\n|–\n|–\n|3.8\n|'''5.9'''\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|1.5\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''15.3'''\n|-\n|TSZSZSPP\n|data-sort-value=\"2021-12-18\"|14–18 Dec 2021\n|355\n|style=\"background:#ffe973\"|'''53.79'''<br />{{font|size=85%|text=64}}\n|colspan=\"2\"|'''27.02'''<br />{{font|size=85%|text=31}}\n|'''5.58'''<br />{{font|size=85%|text=6}}\n|–\n|–\n|4.06<br />{{font|size=85%|text=0}}\n|2.28<br />{{font|size=85%|text=0}}\n|0.13<br />{{font|size=85%|text=0}}\n|–\n|1.76<br />{{font|size=85%|text=0}}\n|1.41<br />{{font|size=85%|text=0}}\n|1.24\n|0.73<br />{{font|size=85%|text=0}}\n|0.38<br />{{font|size=85%|text=0}}\n|–\n|0.45<br />{{font|size=85%|text=0}}\n|0.41<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|0.76{{efn|New Historical Option – 0.33, Hope – 0.15, People's Power Party – 0.07, Working People's Party (Moldova) – 0.06, Party of Law and Justice – 0.05, We – 0.04, Party of Regions of Moldova – 0.03, Ecologist Green Party (Moldova)|Ecologist Green Party – 0.02, Patriots of Moldova – 0.01}}<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''26.77'''\n|-\n|IDIS–CBS Research–ISPRI\n|data-sort-value=\"2021-12-15\"|4–15 Dec 2021\n|1,055\n|37.7\n|colspan=\"2\" style=\"background:#DB6E61\"|'''37.8'''\n|'''12.6'''\n|–\n|–\n|3.7\n|3.8\n|–\n|–\n|0.6\n|–\n|–\n|–\n|–\n|–\n|–\n|0.9\n|–\n|–\n|–\n|2.9{{efn|Liberal Party (Moldova)|Liberal Party – 0.2}}\n|style=\"background:{{party color|Party of Socialists of the Republic of Moldova}}; color:white;\"|'''0.1'''\n|-\n|iData\n|data-sort-value=\"2021-11-25\"|15–25 Nov 2021\n|1,047\n|style=\"background:#ffe973\"|'''45.5'''\n|colspan=\"2\"|'''31.5'''\n|'''9.8'''\n|–\n|–\n|4.1\n|4.5\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|4.5\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''14.0'''\n|-\n|TSZSZSPP\n|data-sort-value=\"2021-11-20\"|16–20 Nov 2021\n|350\n|style=\"background:#ffe973\"|'''53.69'''<br />{{font|size=85%|text=64}}\n|colspan=\"2\"|'''27.03'''<br />{{font|size=85%|text=31}}\n|'''5.59'''<br />{{font|size=85%|text=6}}\n|–\n|–\n|4.07<br />{{font|size=85%|text=0}}\n|2.29<br />{{font|size=85%|text=0}}\n|0.14<br />{{font|size=85%|text=0}}\n|–\n|1.77<br />{{font|size=85%|text=0}}\n|1.42<br />{{font|size=85%|text=0}}\n|1.25<br />{{font|size=85%|text=0}}\n|0.74<br />{{font|size=85%|text=0}}\n|0.39<br />{{font|size=85%|text=0}}\n|–\n|0.46<br />{{font|size=85%|text=0}}\n|0.42<br />{{font|size=85%|text=0}}\n|–\n|–\n|–\n|0.74{{efn|New Historical Option – 0.23, Hope – 0.16, People's Power Party – 0.08, Working People's Party (Moldova) – 0.07, Party of Law and Justice – 0.06, We – 0.05, Party of Regions of Moldova – 0.04, Ecologist Green Party (Moldova)|Ecologist Green Party – 0.03, Patriots of Moldova – 0.02}}<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''26.66'''\n|-\n|IMAS\n|data-sort-value=\"2021-11-15\"|23 Oct–15 Nov 2021\n|834\n|style=\"background:#ffe973\"|'''38.6'''\n|colspan=\"2\"|'''36.9'''\n|'''10.8'''\n|–\n|–\n|'''6.1'''\n|1.7\n|–\n|–\n|1.6\n|2.2\n|–\n|0.7\n|–\n|–\n|0.7\n|0.3\n|–\n|–\n|–\n|0.3\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''1.7'''\n|-\n|IRI\n|data-sort-value=\"2021-11-01\"|16 Sep–1 Nov 2021\n|1,619\n|style=\"background:#ffe973\"|'''56.3'''\n|'''21.9'''\n|'''7.8'''\n|4.7\n|–\n|–\n|3.1\n|1.6\n|–\n|–\n|1.6\n|1.6\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|1.6\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''26.4'''\n|-\n|iData\n|data-sort-value=\"2021-10-18\"|3–18 Oct 2021\n|834\n|style=\"background:#ffe973\"|'''51.5'''\n|colspan=\"2\"|'''27.5'''\n|'''6.7'''\n|–\n|–\n|'''5.7'''\n|4.2\n|–\n|–\n|–\n|0.7\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|3.8\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''23.9'''\n|-\n|iData\n|data-sort-value=\"2021-09-24\"|12–24 Sep 2021\n|1,086\n|style=\"background:#ffe973\"|'''50.5'''\n|colspan=\"2\"|'''29.3'''\n|'''10.3'''\n|–\n|–\n|3.0\n|4.1\n|0.4\n|–\n|–\n|–\n|–\n|–\n|–\n|–\n|1.3\n|0.3\n|–\n|–\n|–\n|0.7{{efn|People's Power Party – 0.4}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''21.2'''\n|-\n|colspan=\"28\" style=\"background:#A0A0A0\"|\n|- style=\"background:#EFEFEF;\"\n|'''''2021 Moldovan parliamentary election|2021 parliamentary election'''''\n|data-sort-value=\"2021-07-11\"|''11 Jul 2021''\n|''1,467,205''\n|style=\"background:#ffe973\"|'''''52.80'''''<br />{{font|size=85%|text=63}}\n|colspan=\"2\"|'''''27.17'''''<br />{{font|size=85%|text=32}}\n|'''''5.74'''''<br />{{font|size=85%|text=6}}\n|–\n|\n|''4.10''<br />{{font|size=85%|text=0}}\n|''2.33''<br />{{font|size=85%|text=0}}\n|''0.17''<br />{{font|size=85%|text=0}}\n|–\n|''1.81''<br />{{font|size=85%|text=0}}\n|''1.45''<br />{{font|size=85%|text=0}}\n|''1.28''<br />{{font|size=85%|text=0}}\n|''0.77''<br />{{font|size=85%|text=0}}\n|''0.43''<br />{{font|size=85%|text=0}}\n|–\n|''0.49''<br />{{font|size=85%|text=0}}\n|''0.45''<br />{{font|size=85%|text=0}}\n|–\n|–\n|\n|''1.01''<br />{{font|size=85%|text=0}}\n|style=\"background:{{party color|Party of Action and Solidarity}};\"|'''''25.63'''''\n|-\n|colspan=\"28\" style=\"background:#A0A0A0\"|\n|}",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=O nouă zi – un nou sondaj: În Parlament ar accede trei forțe; Peste 23% sunt indeciși |url=https://tribuna.md/2025/04/16/o-noua-zi-un-nou-sondaj-in-parlament-ar-accede-trei-forte-peste-23-sunt-indecisi/ |date=16 Apr 2025 |access-date=16 Apr 2025 |website=tribuna.md}}</ref>",
+                  "url": "https://tribuna.md/2025/04/16/o-noua-zi-un-nou-sondaj-in-parlament-ar-accede-trei-forte-peste-23-sunt-indecisi/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Partidul PAS, favorit în cazul unor alegeri parlamentare anticipate. Socialiștii și Blocul Alternativa completează topul preferințelor |url=https://agora.md/2025/04/16/partidul-pas-favorit-in-cazul-unor-alegeri-parlamentare-anticipate-socialistii-si-blocul-alternativa-completeaza-topul-preferintelor |date=16 Apr 2025 |access-date=18 Apr 2025}}</ref>",
+                  "url": "https://agora.md/2025/04/16/partidul-pas-favorit-in-cazul-unor-alegeri-parlamentare-anticipate-socialistii-si-blocul-alternativa-completeaza-topul-preferintelor",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Sondaj IMAS: Cinci partide ar accede în Parlament dacă duminica viitoare ar avea loc alegeri anticipate |url=https://noi.md/md/societate/sondaj-imas-cinci-partide-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-anticipate |access-date=2025-04-15 |website=noi.md |language=ru}}</ref>",
+                  "url": "https://noi.md/md/societate/sondaj-imas-cinci-partide-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-anticipate",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=SONDAJ // Trei PARTIDE și două blocuri electorale în viitorul Parlament. PAS este aproape să-și asigure din nou MAJORITATEA parlamentară |url=https://www.ziarulnational.md/ultima-ora-trei-partide-si-doua-blocuri-electorale-in-viitorul-parlament-pas-este-aproape-sa-si-asigure-din-nou-majoritatea-parlamentara/ |access-date=2025-03-26 |website=www.ziarulnational.md}}</ref>",
+                  "url": "https://www.ziarulnational.md/ultima-ora-trei-partide-si-doua-blocuri-electorale-in-viitorul-parlament-pas-este-aproape-sa-si-asigure-din-nou-majoritatea-parlamentara/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=iData: PAS, PSRM și Blocul Victorie ar obține cele mai multe voturi, dacă ar avea loc alegeri parlamentare |url=https://agora.md/2025/02/26/idata-pas-psrm-si-blocul-victorie-ar-obtine-cele-mai-multe-voturi-daca-ar-avea-loc-alegeri-parlamentare |date=2025-02-26}}</ref>",
+                  "url": "https://agora.md/2025/02/26/idata-pas-psrm-si-blocul-victorie-ar-obtine-cele-mai-multe-voturi-daca-ar-avea-loc-alegeri-parlamentare",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Trei partide și un bloc politic ar intra în Parlament în caz de alegeri. O fracțiune ar avea putere majoritară (SONDAJ) |url=https://agora.md/2025/02/25/trei-partide-si-un-bloc-politic-ar-intra-in-parlament-in-caz-de-alegeri-o-fractiune-ar-avea-putere-majoritara-sondaj |date=2025-02-25 |access-date=2025-02-26}} </ref>",
+                  "url": "https://agora.md/2025/02/25/trei-partide-si-un-bloc-politic-ar-intra-in-parlament-in-caz-de-alegeri-o-fractiune-ar-avea-putere-majoritara-sondaj",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Patru partide ar obține mandate de deputat în cazul unor alegeri parlamentare anticipate (SONDAJ) |url=https://agora.md/2025/02/05/patru-partide-ar-obtine-mandate-de-deputat-in-cazul-unor-alegeri-parlamentare-anticipate-sondaj |date=2025-02-05 |access-date=2025-02-05}}</ref>",
+                  "url": "https://agora.md/2025/02/05/patru-partide-ar-obtine-mandate-de-deputat-in-cazul-unor-alegeri-parlamentare-anticipate-sondaj",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2025-01-31 |title=Ceban, Stoianoglo, Chicu și Tkaciuk creează blocul politic Alternativa |url=https://www.ipn.md/ro/ceban-stoianoglo-chicu-si-tkaciuk-creeaza-blocul-politic-alternativa-7965_1111404.html |access-date=2025-01-31 |website=IPN |language=ro}}</ref>",
+                  "url": "https://www.ipn.md/ro/ceban-stoianoglo-chicu-si-tkaciuk-creeaza-blocul-politic-alternativa-7965_1111404.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=SONDAJ // Cinci PARTIDE în viitorul Parlament, în cazul unor alegeri anticipate. PAS și-ar asigura 49 de mandate de deputat, fără voturile din diasporă și stânga Nistrului. Două formațiuni NOI ar urma să acceadă în Legislativ |url=https://www.ziarulnational.md/ultima-ora-cinci-partide-in-viitorul-parlament-in-cazul-alegerilor-anticipate-pas-si-ar-asigura-49-de-mandate-de-deputat-fara-voturile-din-diaspora-si-stanga-nistrului-doua-partide-noi-ar-urma-sa-acceada-in-legislativ/ |date=2024-12-11 |access-date=2024-12-16}}</ref>",
+                  "url": "https://www.ziarulnational.md/ultima-ora-cinci-partide-in-viitorul-parlament-in-cazul-alegerilor-anticipate-pas-si-ar-asigura-49-de-mandate-de-deputat-fara-voturile-din-diaspora-si-stanga-nistrului-doua-partide-noi-ar-urma-sa-acceada-in-legislativ/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=(sondaj IMAS) Culorile politice din viitorul Parlament: Patru partide, cu mandate de deputați, unul stă la ușa forului legislativ|url=https://unimedia.info/ro/news/bf8d5406afb2c8cf/sondaj-imas-culorile-politice-din-viitorul-parlament-patru-partide-cu-mandate-de-deputati-unul-sta-la-usa-forului-legislativ.html|date=2024-12-04 |website=UNIMEDIA |language=ro}}</ref>",
+                  "url": "https://unimedia.info/ro/news/bf8d5406afb2c8cf/sondaj-imas-culorile-politice-din-viitorul-parlament-patru-partide-cu-mandate-de-deputati-unul-sta-la-usa-forului-legislativ.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=SONDAJ // Doar două PARTIDE ar accede în viitorul Parlament al R. Moldova, iar alte două formațiuni sunt la limita pragului electoral. Numărul INDECIȘILOR depășește 29% |url=https://www.ziarulnational.md/sondaj-doar-doua-partide-ar-accede-in-viitorul-parlament-al-r-moldova-iar-alte-doua-formatiuni-sunt-la-limita-pragului-electoral-numarul-indecisilor-depaseste-29/ |date=17 October 2024 |access-date=18 October 2024}}</ref>",
+                  "url": "https://www.ziarulnational.md/sondaj-doar-doua-partide-ar-accede-in-viitorul-parlament-al-r-moldova-iar-alte-doua-formatiuni-sunt-la-limita-pragului-electoral-numarul-indecisilor-depaseste-29/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Intellect Group: PAS rămâne lider pe scena politică |url=http://oficial.md/politica/intellect-group-pas-ramane-lider-pe-scena-politica |date=16 October 2024 |access-date=17 October 2024}}</ref>",
+                  "url": "http://oficial.md/politica/intellect-group-pas-ramane-lider-pe-scena-politica",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=BOP // PAS, cu cel mai mare rating, dar și antirating la eventuale parlamentare: Patru partide ar accede în viitorul Parlament, iar blocul fugarului Șot ar fi pe locul doi |url=https://www.ziarulnational.md/bop-pas-cu-cel-mai-mare-rating-dar-si-antirating-la-eventuale-parlamentare-patru-partide-ar-accede-in-viitorul-parlament-iar-blocul-fugarului-sot-ar-fi-pe-locul-doi/ |date=2024-10-17 |access-date=2024-10-18}}</ref>",
+                  "url": "https://www.ziarulnational.md/bop-pas-cu-cel-mai-mare-rating-dar-si-antirating-la-eventuale-parlamentare-patru-partide-ar-accede-in-viitorul-parlament-iar-blocul-fugarului-sot-ar-fi-pe-locul-doi/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Moldova, iData poll |url=https://x.com/EuropeElects/status/1847277784726479189 |date=2024-10-18 |access-date=2024-10-18}}</ref>",
+                  "url": "https://x.com/EuropeElects/status/1847277784726479189",
+                  "status_code": 400,
+                  "reason": "Bad Request",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Cine sunt favoriții în cursa alegerilor prezidențiale și a celor parlamentare |url=https://watchdog.md/polls/208313/cine-sunt-favoritii-in-cursa-alegerilor-prezidentiale-si-a-celor-parlamentare/ |date=7 October 2024 |access-date=8 October 2024}}</ref>",
+                  "url": "https://watchdog.md/polls/208313/cine-sunt-favoritii-in-cursa-alegerilor-prezidentiale-si-a-celor-parlamentare/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Cum ar vota moldovenii dacă duminica viitoare ar avea loc alegeri parlamentare – SONDAJ |url=https://ziar.md/cum-ar-vota-moldovenii-daca-duminica-viitoare-ar-avea-loc-alegeri-parlamentare-sondaj/ |website=ziar.md – Tot ce merită să știi |date=2024-09-23 |access-date=2024-09-25}}</ref>",
+                  "url": "https://ziar.md/cum-ar-vota-moldovenii-daca-duminica-viitoare-ar-avea-loc-alegeri-parlamentare-sondaj/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Sondaj iDATA/ Pe cine ar vota moldovenii la alegerile prezidențiale și cum ar răspunde la referendum. Maia Sandu, pe primul loc în topul încrederii cetățenilor |url=https://www.zdg.md/stiri/sondaj-idata-pe-cine-ar-vota-moldovenii-la-alegerile-prezidentiale-si-cum-ar-raspunde-la-referendum-maia-sandu-pe-primul-loc-in-topul-increderii-cetatenilor/ |date=2024-09-03 |access-date=2024-09-07 |website=Ziarul de Gardă |language=ro-RO}}</ref>",
+                  "url": "https://www.zdg.md/stiri/sondaj-idata-pe-cine-ar-vota-moldovenii-la-alegerile-prezidentiale-si-cum-ar-raspunde-la-referendum-maia-sandu-pe-primul-loc-in-topul-increderii-cetatenilor/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.ziarulnational.md/maia-sandu-favorita-intr-un-alt-sondaj-la-castigarea-mandatului-de-sef-al-statului-cati-cetateni-ar-spune-da-la-referendumul-privind-integrarea-europeana-a-r-moldova-si-cate-partide-ar-trece-pragul-electoral/ |title=Maia Sandu, favorită la câștigarea mandatului de șef al statului într-un alt sondaj: Câți cetățeni ar spune \"DA\" la referendumul privind integrarea europeană a R. Moldova și câte partide ar trece pragul electoral |website=Ziarul National | date=2024-09-03 |accessdate=2024-09-15 |lang=ro}}</ref>",
+                  "url": "https://www.ziarulnational.md/maia-sandu-favorita-intr-un-alt-sondaj-la-castigarea-mandatului-de-sef-al-statului-cati-cetateni-ar-spune-da-la-referendumul-privind-integrarea-europeana-a-r-moldova-si-cate-partide-ar-trece-pragul-electoral/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Preferințele electorale în cazul alegerilor prezidențiale și parlamentare rezultatele unui sondaj de opinie/ |url=https://watchdog.md/polls/208281/preferintele-electorale-in-cazul-alegerilor-prezidentiale-si-parlamentare-rezultatele-unui-sondaj-de-opinie/ |date=30 August 2024}}</ref>",
+                  "url": "https://watchdog.md/polls/208281/preferintele-electorale-in-cazul-alegerilor-prezidentiale-si-parlamentare-rezultatele-unui-sondaj-de-opinie/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Sondaj IMAS. Patru formațiuni ar accede în Parlament, în caz de anticipate: PAS, BCS, Victorie și Partidul Nostru |url=https://unimedia.info/ro/news/800cbd6474ae3835/sondaj-imas-patru-formatiuni-ar-accede-in-parlament-in-caz-de-anticipate-pas-bcs-victorie-si-partidul-nostru.html |date=2024-07-25 |access-date=2024-07-25 |website=UNIMEDIA |language=ro}}</ref>",
+                  "url": "https://unimedia.info/ro/news/800cbd6474ae3835/sondaj-imas-patru-formatiuni-ar-accede-in-parlament-in-caz-de-anticipate-pas-bcs-victorie-si-partidul-nostru.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://protv.md/actualitate/daca-duminica-viitoare-ar-avea-loc-alegeri-parlamentare-4-forma%C8%9Biuni-politice-ar-accede-in-legislativ-ce-arata-datele-unui-sondaj-realizat-de-cbs-axa-video---2695251.html |title=Dacă duminica viitoare ar avea loc alegeri parlamentare, 4 formațiuni politice ar accede în legislativ. Ce arată datele unui sondaj realizat de CBS-AXA – VIDEO |website=protv.md |accessdate=2024-08-01 |lang=ro}}</ref>",
+                  "url": "https://protv.md/actualitate/daca-duminica-viitoare-ar-avea-loc-alegeri-parlamentare-4-forma%C8%9Biuni-politice-ar-accede-in-legislativ-ce-arata-datele-unui-sondaj-realizat-de-cbs-axa-video---2695251.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://www.ziarulnational.md/iri-patru-partide-in-urmatorul-parlament-pas-ar-castiga-alegerile-si-ar-avea-un-rezultat-cat-urmatoarele-trei-clasate-la-un-loc/ |title=IRI // Patru partide în următorul Parlament. PAS ar câștiga ALEGERILE și ar avea un rezultat cât următoarele trei clasate la un loc |website=Ziarul National |accessdate=2024-07-16 |lang=ro}}</ref>",
+                  "url": "https://www.ziarulnational.md/iri-patru-partide-in-urmatorul-parlament-pas-ar-castiga-alegerile-si-ar-avea-un-rezultat-cat-urmatoarele-trei-clasate-la-un-loc/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://tribuna.md/2024/07/16/sondaj-patru-partide-ar-accede-in-parlament-in-caz-de-alegeri/ |title=SONDAJ: PATRU PARTIDE AR ACCEDE ÎN PARLAMENT, ÎN CAZ DE ALEGERI  |website=tribuna.md |accessdate=2024-07-16 |lang=ro}}</ref>",
+                  "url": "https://tribuna.md/2024/07/16/sondaj-patru-partide-ar-accede-in-parlament-in-caz-de-alegeri/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://www.ziarulnational.md/ultima-ora-pas-sanse-mari-sa-aiba-majoritate-si-in-urmatorul-parlament-partidul-lui-dodon-a-fost-depasit-de-noua-miza-a-kremlinului-in-r-moldova-iar-in-viitorul-legislativ-ar-putea-accede-si-blocul-impreuna/ |title=PAS, șanse mari să aibă MAJORITATE și în următorul Parlament. Partidul lui Dodon a fost DEPĂȘIT de noua miză a Kremlinului în R. Moldova, iar în viitorul Legislativ ar putea accede și Blocul \"Împreună\" |website=Ziarul National |accessdate=2024-06-08 |lang=ro}}</ref>",
+                  "url": "https://www.ziarulnational.md/ultima-ora-pas-sanse-mari-sa-aiba-majoritate-si-in-urmatorul-parlament-partidul-lui-dodon-a-fost-depasit-de-noua-miza-a-kremlinului-in-r-moldova-iar-in-viitorul-legislativ-ar-putea-accede-si-blocul-impreuna/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=barometrul socio-politic |url=https://imas.md/pic/archives/44/%5bimas%5d%20barometrul%20socio-politic_mai%202024.pdf |access-date=2024-05-23 |language=ro}}</ref>",
+                  "url": "https://imas.md/pic/archives/44/%5Bimas%5D%20barometrul%20socio-politic_mai%202024.pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.ziarulnational.md/sondaj-pas-ar-putea-detine-majoritatea-si-in-viitorul-parlament-psrm-si-partidul-sansa-vor-avea-cate-26-respectiv-25-de-deputati-blocul-impreuna-ar-depasi-man-ul-lui-ceban/ |title=SIMULARE // PAS ar putea deține MAJORITATEA și în viitorul Parlament. PSRM și Partidul \"Sansă\" ar putea avea câte 26, respectiv 25 de deputați. Blocul \"Împreună\" ar depăși MAN-ul lui Ceban |website=Ziarul National |accessdate=2024-05-03 |lang=ro}}</ref>",
+                  "url": "https://www.ziarulnational.md/sondaj-pas-ar-putea-detine-majoritatea-si-in-viitorul-parlament-psrm-si-partidul-sansa-vor-avea-cate-26-respectiv-25-de-deputati-blocul-impreuna-ar-depasi-man-ul-lui-ceban/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.intellinews.com/moldova-s-pro-russian-opposition-forms-new-political-bloc-at-moscow-meeting-322242/ |title=Moldova's pro-Russian opposition forms new political bloc at Moscow meeting |date=23 April 2024 |accessdate=2024-05-04|lang=en}}</ref>",
+                  "url": "https://www.intellinews.com/moldova-s-pro-russian-opposition-forms-new-political-bloc-at-moscow-meeting-322242/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite news|url=https://moldova.europalibera.org/a/patru-partide-pro-europene-din-republica-moldova-anunta-formarea-blocului-impreuna/32905834.html |title=Patru partide pro-europene din Republica Moldova anunță formarea blocului \"Împreună\" |newspaper=Radio Europa Liberă |accessdate=2024-05-03|lang=ro |last1=Benea |first1=Radu }}</ref>",
+                  "url": "https://moldova.europalibera.org/a/patru-partide-pro-europene-din-republica-moldova-anunta-formarea-blocului-impreuna/32905834.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://watchdog.md/polls/208121/comunitatea-watchdog-md-si-cbs-research-au-prezentat-rezultatele-unui-sondaj-de-opinie-privind-perceptia-preferintelor-politice-si-impactul-dezinformarii/ |title=Studiu-sociologic-1_compressed.pdf |website=Comunitatea Watchdog |accessdate=2024-04-16 |lang=ro}}</ref>",
+                  "url": "https://watchdog.md/polls/208121/comunitatea-watchdog-md-si-cbs-research-au-prezentat-rezultatele-unui-sondaj-de-opinie-privind-perceptia-preferintelor-politice-si-impactul-dezinformarii/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://ultimelestiri.md/politica/sondaj-partidele-ce-ar-intra-in-parlament-in-urma-alegerilor-anticipate/ |title=Sondaj: Partidele ce ar intra în Parlament în urma alegerilor anticipate |date=28 March 2024 |website=ultimelestiri.md |accessdate=2024-03-30 |lang=ro}}</ref>",
+                  "url": "https://ultimelestiri.md/politica/sondaj-partidele-ce-ar-intra-in-parlament-in-urma-alegerilor-anticipate/",
+                  "status_code": null,
+                  "reason": "Cannot connect to host ultimelestiri.md:443 ssl:default [Timeout while contacting DNS servers]",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=barometrul socio-politic |url=https://imas.md/pic/archives/43/%5bimas%5d%20barometrul%20socio-politic_februarie%202024.pdf |access-date=2024-03-26 |language=ro}}</ref>",
+                  "url": "https://imas.md/pic/archives/43/%5Bimas%5D%20barometrul%20socio-politic_februarie%202024.pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.iri.org/resources/national-survey-of-moldova-jan-feb-2024/|title=National Survey of Moldova: Jan–Feb 2024|date=28 March 2024 |website=International Republican Institute |accessdate=2024-04-04|lang=en}}</ref>",
+                  "url": "https://www.iri.org/resources/national-survey-of-moldova-jan-feb-2024/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2024-04-06 |title=Ce partide ar accede in Parlament, daca duminica viitoare ar avea loc alegeri parlamentare. Ce arata datele unui sondaj – Video |url=https://protv.md/actualitate/ce-partide-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-parlamentare-ce-arata-datele-unui-sondaj-video---2683214.html |access-date=2024-04-04 |website=protv.md |language=ro}}</ref>",
+                  "url": "https://protv.md/actualitate/ce-partide-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-parlamentare-ce-arata-datele-unui-sondaj-video---2683214.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2024-02-01 |title=Sondaj iData: Partidul Șansă, în top 3 partide care ar accede în Parlament, dacă duminica ar avea lor alegeri anticipate |url=https://unimedia.info/ro/comunicate/524777e24c2b8a15/sondaj-idata-partidul-sansa-in-top-3-partide-care-ar-accede-in-parlament-daca-duminica-ar-avea-lor-alegeri-anticipate.html |access-date=2024-04-04 |website=Unimedia |language=ro}}</ref>",
+                  "url": "https://unimedia.info/ro/comunicate/524777e24c2b8a15/sondaj-idata-partidul-sansa-in-top-3-partide-care-ar-accede-in-parlament-daca-duminica-ar-avea-lor-alegeri-anticipate.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=barometrul socio-politic |url=https://imas.md/pic/archives/42/[imas]%20barometrul%20socio-politic_decembrie%202023.pdf |access-date=2024-04-04 |language=ro}}</ref>",
+                  "url": "https://imas.md/pic/archives/42/%5Bimas%5D%20barometrul%20socio-politic_decembrie%202023.pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Sondaj // Patru formațiuni în viitorul Parlament al R. Moldova, în cazul unor alegeri anticipate. PAS ar obține 45 de fotolii în Legislativ, fără voturile din Diasporǎ |url=https://www.ziarulnational.md/ultima-ora-patru-formatiuni-in-viitorul-parlament-al-r-moldova-in-cazul-unor-alegeri-anticipate-pas-ar-obtine-45-de-fotolii-in-legislativ/ |access-date=2024-04-04 |website=www.ziarulnational.md}}</ref>",
+                  "url": "https://www.ziarulnational.md/ultima-ora-patru-formatiuni-in-viitorul-parlament-al-r-moldova-in-cazul-unor-alegeri-anticipate-pas-ar-obtine-45-de-fotolii-in-legislativ/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-11-02 |title=Parlamentul s-ar colora în cinci culori în cazul unui scrutin. Care sunt partidele care acced în Legislativ (SONDAJ) |url=https://agora.md/2023/11/02/parlamentul-s-ar-colora-in-cinci-culori-in-cazul-unui-scrutin-care-sunt-partidele-care-acced-in-legislativ-sondaj |access-date=2024-04-04 |website=AGORA |language=ro}}</ref>",
+                  "url": "https://agora.md/2023/11/02/parlamentul-s-ar-colora-in-cinci-culori-in-cazul-unui-scrutin-care-sunt-partidele-care-acced-in-legislativ-sondaj",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://diez.md/2023/10/04/sondaj-daca-duminica-viitoare-vor-avea-loc-alegeri-trei-partide-ar-accede-in-parlament-pas-ar-lua-majoritatea-mandatelor/ |title=(sondaj) Dacă duminica viitoare vor avea loc alegeri, trei partide ar accede în Parlament. PAS ar lua majoritatea mandatelor |date=4 October 2023 |website=diez.md |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://diez.md/2023/10/04/sondaj-daca-duminica-viitoare-vor-avea-loc-alegeri-trei-partide-ar-accede-in-parlament-pas-ar-lua-majoritatea-mandatelor/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-09-28 |title=Unde au migrat alegătorii PȘor? Iată ce partide ar intra în Parlament, potrivit sondajului IMAS |url=https://unimedia.info/ro/news/9548cf58f924e805/unde-au-migrat-alegatorii-psor-iata-ce-partide-ar-intra-in-parlament-potrivit-sondajului-imas.html |access-date=2024-04-04 |website=Unimedia |language=ro}}</ref>",
+                  "url": "https://unimedia.info/ro/news/9548cf58f924e805/unde-au-migrat-alegatorii-psor-iata-ce-partide-ar-intra-in-parlament-potrivit-sondajului-imas.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.zdg.md/importante/s-a-incheiat-ultima-etapa-a-fuziunii-pldm-cu-pun-formatiunea-politica-condusa-de-vlad-filat-are-patru-vicepresedinti-noi/ |title=S-a încheiat ultima etapă a fuziunii PLDM cu PUN. Formațiunea politică condusă de Vlad Filat are patru vicepreședinți noi |date=17 September 2023 |accessdate=2024-09-26|lang=ro}}</ref>",
+                  "url": "https://www.zdg.md/importante/s-a-incheiat-ultima-etapa-a-fuziunii-pldm-cu-pun-formatiunea-politica-condusa-de-vlad-filat-are-patru-vicepresedinti-noi/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://paranteze.com/news/sondaj-idata:-cum-ar-arata-parlamentul-daca-maine-ar-fi-alegeri |title=Sondaj iData: Cum ar arăta Parlamentul dacă mâine ar fi alegeri |website=paranteze.md |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://paranteze.com/news/sondaj-idata:-cum-ar-arata-parlamentul-daca-maine-ar-fi-alegeri",
+                  "status_code": 406,
+                  "reason": "Not Acceptable",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Barometrul Opiniei Publice, septembrie 2023 |url=https://ipp.md/2023-09/barometrul-opiniei-publice-septembrie-2023/ |access-date=2024-04-04 |website=ipp.md |language=ro}}</ref>",
+                  "url": "https://ipp.md/2023-09/barometrul-opiniei-publice-septembrie-2023/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://www.iri.org/resources/national-poll-moldova-july-august-2023/ |title=National Poll Moldova July–August 2023 |date=11 September 2023 |website=International Republican Institute |accessdate=2024-04-04 |lang=en}}</ref>",
+                  "url": "https://www.iri.org/resources/national-poll-moldova-july-august-2023/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-07-11 |title=Sondaj IPRE: Sandu, urmată de Dodon și Ceban. Cum ar vota moldovenii, dacă duminica viitoare ar avea loc alegeri prezidențiale |url=https://protv.md/politic/trei-partide-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-anticipate-ce-arata-datele-unui-sondaj-foto---2660097.html |access-date=2024-04-04 |website=PRO TV |language=ro}}</ref>",
+                  "url": "https://protv.md/politic/trei-partide-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-anticipate-ce-arata-datele-unui-sondaj-foto---2660097.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://primul.md/partidul-sor-continua-sa-creasca-in-intentiile-de-vot-ale-cetatenilor-sondaj/ |title=Partidul \"ȘOR\" este al doilea în preferințele de vot ale moldovenilor |website=primul.md |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://primul.md/partidul-sor-continua-sa-creasca-in-intentiile-de-vot-ale-cetatenilor-sondaj/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://tv8.md/2023/27/06/infografic-sondaj-watch-dog-trei-partide-ar-ajunge-in-legislativ-in-cazul-unor-alegeri-parlamentare-preferintele-cetatenilor/233080 |title=/INFOGRAFIC/ Sondaj WatchDog: Trei partide ar ajunge în Legislativ în cazul unor alegeri parlamentare. Preferințele cetățenilor |website=tv8.md |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://tv8.md/2023/27/06/infografic-sondaj-watch-dog-trei-partide-ar-ajunge-in-legislativ-in-cazul-unor-alegeri-parlamentare-preferintele-cetatenilor/233080",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://www.rfi.ro/politica-156590-sondaj-maia-sandu-conduce-detasat-topul-increderii-populatiei-rmoldova-foto |title=Sondaj: Maia Sandu conduce detașat în topul încrederii populației R.Moldova (FOTO) |author=Valeria Viţu |website=rfi.ro |accessdate=2023-06-11 |lang=ro}}</ref>",
+                  "url": "https://www.rfi.ro/politica-156590-sondaj-maia-sandu-conduce-detasat-topul-increderii-populatiei-rmoldova-foto",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://twitter.com/EuropeElects/status/1667110378545741826|title=Moldova, iData poll|website=twitter.com|accessdate=2024-04-04|lang=ro}}</ref>",
+                  "url": "https://twitter.com/EuropeElects/status/1667110378545741826",
+                  "status_code": 400,
+                  "reason": "Bad Request",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://diez.md/2023/05/15/sondaj-in-cazul-unor-alegeri-parlamentare-in-moldova-trei-formatiuni-politice-ar-intra-in-parlament/ |title=(sondaj) În cazul unor alegeri parlamentare în Moldova, trei formațiuni politice ar intra în Parlament |author=Petru Beșleaga |website=diez.md |accessdate=2023-04-16 |lang=ro}}</ref>",
+                  "url": "https://diez.md/2023/05/15/sondaj-in-cazul-unor-alegeri-parlamentare-in-moldova-trei-formatiuni-politice-ar-intra-in-parlament/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://tvrmoldova.md/article/f201cf1ea28d384e/pas-ar-avea-cele-mai-multe-mandate-de-deputat-iar-maia-sandu-ar-castiga-detasat-primul-tur-daca-duminica-viitoare-ar-avea-loc-alegeri.html |title=Sondaj. PAS ar avea cele mai multe mandate de deputat, iar Maia Sandu ar câștiga detașat primul tur, dacă duminica viitoare ar avea loc alegeri |publisher=TVR Moldova |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://tvrmoldova.md/article/f201cf1ea28d384e/pas-ar-avea-cele-mai-multe-mandate-de-deputat-iar-maia-sandu-ar-castiga-detasat-primul-tur-daca-duminica-viitoare-ar-avea-loc-alegeri.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://www.stiripesurse.ro/sondaj-in-republica-moldova-cetatenii-moldoveni-aleg-drumul-european-partidul-de-guvernamant-de-la-chisinau-continua-sa-se-mentina-pe-prima-pozitie_2861490.html |title=Sondaj în Republica Moldova. Cetățenii moldoveni aleg drumul european! Partidul de guvernământ de la Chișinău continuă să se mențină pe prima poziție |author=Bogadan Antonescu |date=3 April 2023 |website=stiripesurse.ro |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://www.stiripesurse.ro/sondaj-in-republica-moldova-cetatenii-moldoveni-aleg-drumul-european-partidul-de-guvernamant-de-la-chisinau-continua-sa-se-mentina-pe-prima-pozitie_2861490.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://tv8.md/2023/09/03/sondaj-watch-dog-trei-partide-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri/224318 |title=Sondaj WatchDog: Trei partide ar accede în Parlament, dacă duminica viitoare ar avea loc alegeri |website=tv8.md |accessdate=2023-03-10 |lang=ro}}</ref>",
+                  "url": "https://tv8.md/2023/09/03/sondaj-watch-dog-trei-partide-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri/224318",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite tweet |number=1631621214438301696 |title=Moldova, iData poll |user=EuropeElects |date=2023-03-03 |accessdate=2024-04-04 |lang=en}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "tweet"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://unimedia.info/ro/news/b721719175b01b20/sondajul-idata-partidul-sor-ar-obtine-24-de-mandate-de-deputat-in-viitorul-parlament.html|title=Sondaj iData: Partidul \"ȘOR\" ar obține 24 de mandate de deputat în viitorul Parlament|date=2023-02-27|accessdate=2024-04-04|lang=ro}}</ref>",
+                  "url": "https://unimedia.info/ro/news/b721719175b01b20/sondajul-idata-partidul-sor-ar-obtine-24-de-mandate-de-deputat-in-viitorul-parlament.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://psnews.ro/sondaj-daca-duminica-viitoare-ar-avea-loc-alegeri-in-parlamentul-r-moldova-ar-accede-trei-formatiuni-749930/ |title=Sondaj Dacă duminica viitoare ar avea loc alegeri, în Parlamentul R. Moldova ar accede trei formațiuni |date=2023-02-23 |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://psnews.ro/sondaj-daca-duminica-viitoare-ar-avea-loc-alegeri-in-parlamentul-r-moldova-ar-accede-trei-formatiuni-749930/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://realitatea.md/sondaj-opozitia-castiga-majoritatea-parlamentara-in-cazul-unui-scrutin-anticipat/ |title=Sondaj: Opoziția câștigă majoritatea parlamentară, în cazul unui scrutin anticipat |website=realitatea.md |date=24 February 2023 |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://realitatea.md/sondaj-opozitia-castiga-majoritatea-parlamentara-in-cazul-unui-scrutin-anticipat/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://twitter.com/EuropeElects/status/1629569710164525057 |title=Moldova, Intellect poll |website=twitter.com |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://twitter.com/EuropeElects/status/1629569710164525057",
+                  "status_code": 400,
+                  "reason": "Bad Request",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://tvrmoldova.md/article/d110661005153a90/sondaj-trei-partide-ar-accede-in-parlament-in-cazul-unor-alegeri-aproape-50-din-populatie-sustine-integrarea-republicii-moldova-in-ue.html |title=Sondaj. Trei partide ar accede în Parlament în cazul unor alegeri, aproape 50% din populație susține integrarea Republicii Moldova în UE|publisher=TVR Moldova|accessdate=2024-04-04|lang=ro}}</ref>",
+                  "url": "https://tvrmoldova.md/article/d110661005153a90/sondaj-trei-partide-ar-accede-in-parlament-in-cazul-unor-alegeri-aproape-50-din-populatie-sustine-integrarea-republicii-moldova-in-ue.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://www.youtube.com/watch?v=sw5YgbMjAzo |title=Fundația Friedrich Naumann: \"Studiu Social-Politic și Mediul de Afaceri\"|date=13 March 2023 |website=IPN|accessdate=2024-04-04|lang=ro}}</ref>",
+                  "url": "https://www.youtube.com/watch?v=sw5YgbMjAzo",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://cdn.g4media.ro/wp-content/uploads/2023/02/DOC-20230203-WA0003..pdf |title=Sondaj Socio-Politic Republica Moldova Ianuarie 2023 |website=watchdog.md |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://cdn.g4media.ro/wp-content/uploads/2023/02/DOC-20230203-WA0003..pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://tv8.md/2022/29/12/sondaj-patru-partide-ar-putea-ajunge-in-viitorul-parlament-care-formatiuni-ar-fi-sub-pragul-electoral/219238 |title=Sondaj: Patru partide ar putea ajunge în viitorul Parlament. Care formațiuni ar fi sub pragul electoral |website=tv8.md |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://tv8.md/2022/29/12/sondaj-patru-partide-ar-putea-ajunge-in-viitorul-parlament-care-formatiuni-ar-fi-sub-pragul-electoral/219238",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://unimedia.info/ro/news/72f52aca64268812/sondaj-partidul-sor-ar-intra-in-parlament-cu-26-de-mandate.html |title=Sondaj: Partidul \"Șor\" ar intra în Parlament cu 26 de mandate |date=30 December 2022 |website=unimedia.info |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://unimedia.info/ro/news/72f52aca64268812/sondaj-partidul-sor-ar-intra-in-parlament-cu-26-de-mandate.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://unimedia.info/ro/news/9c3702aa8de35832/sondaj-imas-pas-a-scazut-la-un-nivel-cu-bcs-iar-unii-alegatori-ar-alege-man-partidul-lui-ion-ceban-care-lipsea-din-lista-studiului.html |title=Sondaj IMAS: PAS a scăzut la un nivel cu BCS, iar unii alegători ar vota MAN, partidul lui Ion Ceban, care lipsea din lista studiului |date=2022-12-06 |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://unimedia.info/ro/news/9c3702aa8de35832/sondaj-imas-pas-a-scazut-la-un-nivel-cu-bcs-iar-unii-alegatori-ar-alege-man-partidul-lui-ion-ceban-care-lipsea-din-lista-studiului.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://tvrmoldova.md/article/f7b9c376f4bc3ba6/sondaj-pas-conduce-in-optiunile-de-vot-ale-cetatenilor-republicii-moldova-ce-alte-partide-ar-intra-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri.html |title=Sondaj. PAS conduce în opțiunile de vot ale cetățenilor Republicii Moldova. Ce alte partide ar intra în Parlament, dacă duminica viitoare ar avea loc alegeri |publisher=TVR Moldova |accessdate=2024-04-04 |language=ro}}</ref>",
+                  "url": "https://tvrmoldova.md/article/f7b9c376f4bc3ba6/sondaj-pas-conduce-in-optiunile-de-vot-ale-cetatenilor-republicii-moldova-ce-alte-partide-ar-intra-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://www.iri.org/resources/public-opinion-survey-residents-of-moldova-october-november-2022/ |title=Public Opinion Survey: Residents of Moldova October–November 2022 |date=9 December 2022 |website=International Republican Institute |accessdate=2024-04-04 |lang=en}}</ref>",
+                  "url": "https://www.iri.org/resources/public-opinion-survey-residents-of-moldova-october-november-2022/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://moldova.europalibera.org/a/bop-2022-sandu-continu%C4%83-s%C4%83-se-bucure-de-%C3%AEncrederea-moldovenilor-iar-%C3%AEn-parlament-ar-accede-trei-partide/32156941.html |title=BOP 2022: Sandu continuă să se bucure de încrederea moldovenilor, iar în Parlament ar accede trei partide |website=Radio Europa Liberă Moldova |accessdate=2024-04-04 |language=ro}}</ref>",
+                  "url": "https://moldova.europalibera.org/a/bop-2022-sandu-continu%C4%83-s%C4%83-se-bucure-de-%C3%AEncrederea-moldovenilor-iar-%C3%AEn-parlament-ar-accede-trei-partide/32156941.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://www.ziarulnational.md/ultima-ora-trei-partide-in-urmatorul-parlament-al-r-moldova-daca-duminica-ar-avea-loc-alegeri-anticipate-pas-revine-pe-primul-loc/ |title=Sondaj // Patru Partide în următorul Parlament al R. Moldova, dacă duminică ar avea loc alegeri anticipate. PAS revine pe primul loc |website=Ziarul National |accessdate=2022-10-29 |language=ro}}</ref>",
+                  "url": "https://www.ziarulnational.md/ultima-ora-trei-partide-in-urmatorul-parlament-al-r-moldova-daca-duminica-ar-avea-loc-alegeri-anticipate-pas-revine-pe-primul-loc/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://realitatea.md/sondaj-in-caz-de-anticipate-moldovenii-si-ar-da-voturile-pentru-trei-partide-sor-inregistreaza-cea-mai-mare-crestere/ |title=Sondaj În caz de anticipate, moldovenii și-ar da voturile pentru trei partide. ȘOR înregistrează cea mai mare creștere |date=13 October 2022 |website=realitatea.md |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://realitatea.md/sondaj-in-caz-de-anticipate-moldovenii-si-ar-da-voturile-pentru-trei-partide-sor-inregistreaza-cea-mai-mare-crestere/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web|url=https://unimedia.info/ro/news/6f3a89f593b7587c/sondaj-idata-platforma-da-ar-obtine-cel-putin-5-mandate-de-deputat-daca-duminica-ar-avea-loc-alegeri-parlamentare.html|title=Sondaj iData: Platforma DA ar obține cel puțin 5 mandate de deputat, dacă duminică ar avea loc alegeri parlamentare|date=13 October 2022 |website=unimedia.info|accessdate=2024-04-04|lang=ro}}</ref>",
+                  "url": "https://unimedia.info/ro/news/6f3a89f593b7587c/sondaj-idata-platforma-da-ar-obtine-cel-putin-5-mandate-de-deputat-daca-duminica-ar-avea-loc-alegeri-parlamentare.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://24h.md/sondaj-pas-cel-mai-sustinut-partid/ |title=(Sondaj) PAS – cel mai susținut partid |date=28 September 2022 |website=24h.md |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://24h.md/sondaj-pas-cel-mai-sustinut-partid/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://www.zdg.md/importante/sondaj-idata-partidele-care-ajung-in-parlament-daca-duminica-ar-avea-loc-alegeri-parlamentare-anticipate-o-cincime-din-respondenti-ar-vota-pentru-bcs-distributia-mandatelor-in-legislativ/ |title=artidele care ajung în Parlament dacă duminică ar avea loc alegeri parlamentare anticipate: o cincime din respondenți ar vota pentru BCS. Distribuția mandatelor în Legislativ |date=16 September 2022 |website=zgd.md |accessdate=2022-10-08 |lang=ro}}</ref>",
+                  "url": "https://www.zdg.md/importante/sondaj-idata-partidele-care-ajung-in-parlament-daca-duminica-ar-avea-loc-alegeri-parlamentare-anticipate-o-cincime-din-respondenti-ar-vota-pentru-bcs-distributia-mandatelor-in-legislativ/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://twitter.com/EuropeElects/status/1549768026110787586/photo/1 |title=Europe Elects: Moldova IMAS poll |date=2022-07-20 |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://twitter.com/EuropeElects/status/1549768026110787586/photo/1",
+                  "status_code": 400,
+                  "reason": "Bad Request",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://unimedia.info/ro/news/faca2f746586d9f4/sondaj-idata-cum-ar-vota-moldovenii-daca-duminica-ar-fi-alegeri-parlamentare-ce-partide-si-cate-mandate-ar-detine.html |title=Sondaj iData. Cum ar vota moldovenii, dacă duminică ar fi alegeri parlamentare: Ce partide și câte mandate ar deține |date=29 June 2022 |website=unimedia.info |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://unimedia.info/ro/news/faca2f746586d9f4/sondaj-idata-cum-ar-vota-moldovenii-daca-duminica-ar-fi-alegeri-parlamentare-ce-partide-si-cate-mandate-ar-detine.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://tv8.md/2022/31/05/sondaj-ce-partide-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri/201741 |title=Sondaj: Ce partide ar accede în Parlament dacă duminica viitoare ar avea loc alegeri |website=tv8.md |accessdate=2024-04-04 |lang=en}}</ref>",
+                  "url": "https://tv8.md/2022/31/05/sondaj-ce-partide-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri/201741",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://protv.md/politic/patru-formatiuni-politice-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-potrivit-unui-sondaj-watch-dog-si-cbs-research-vezi-care-sunt-acestea-foto---2608638.html |title=Patru formatiuni politice ar accede in Parlament, daca duminica viitoare ar avea loc alegeri, potrivit unui sondaj WatchDog si CBS Research. Vezi care sunt acestea – FOTO |website=protv.md |date=2022-05-10 |accessdate=2024-08-01 |lang=ro}}</ref>",
+                  "url": "https://protv.md/politic/patru-formatiuni-politice-ar-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-potrivit-unui-sondaj-watch-dog-si-cbs-research-vezi-care-sunt-acestea-foto---2608638.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":12\">{{Cite web |url=https://tv8.md/ru/2022/21/04/sondaj-ce-partide-ar-vota-moldovenii-daca-duminica-viitoare-ar-avea-loc-alegeri-parlamentare/198561 |title=Sondaj: Ce partide ar vota moldovenii dacă duminica viitoare ar avea loc alegeri parlamentare |website=tv8.md |accessdate=2024-04-04 |lang=en}}</ref>",
+                  "url": "https://tv8.md/ru/2022/21/04/sondaj-ce-partide-ar-vota-moldovenii-daca-duminica-viitoare-ar-avea-loc-alegeri-parlamentare/198561",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":11\">{{Cite web |url=https://unimedia.info/ro/news/618d56b0fc92897c/sondaj-imas-pas-ar-pierde-majoritatea-legislativa-si-coboara-la-nivelul-bcs-cum-ar-arata-parlamentul-in-caz-de-anticipate.html |title=Sondaj IMAS: PAS ar pierde majoritatea legislativă și coboară la nivelul BCS: Cum ar arăta Parlamentul, în caz de anticipate |website=Unimedia |date=2022-04-20 |accessdate=2024-04-04 |lang=ro}}</ref>",
+                  "url": "https://unimedia.info/ro/news/618d56b0fc92897c/sondaj-imas-pas-ar-pierde-majoritatea-legislativa-si-coboara-la-nivelul-bcs-cum-ar-arata-parlamentul-in-caz-de-anticipate.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://agora.md/stiri/101167/sondaj-intellect-group-bcs-pas-si-partidul-sor-ar-intra-in-parlament-daca-duminica-viitoare-ar-fi-alegeri-cum-s-ar-imparti-mandatele |title=Sondaj Intellect Group: BCS, PAS și Partidul Șor ar intra în Parlament, dacă duminica viitoare ar fi alegeri. Cum s-ar împărți mandatele |website=AGORA |accessdate=2022-04-13 |lang=ro}}</ref>",
+                  "url": "https://agora.md/stiri/101167/sondaj-intellect-group-bcs-pas-si-partidul-sor-ar-intra-in-parlament-daca-duminica-viitoare-ar-fi-alegeri-cum-s-ar-imparti-mandatele",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://www.iri.org/resources/public-opinion-surveyresidents-of-moldova/ |title=Public Opinion Survey: Residents of Moldova |date=26 April 2022 |website=International Republican Institute |accessdate=2024-04-04 |lang=en}}</ref>",
+                  "url": "https://www.iri.org/resources/public-opinion-surveyresidents-of-moldova/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |access-date=2022-03-28 |language=en |website=tv8.md |title=Sondaj: Ce partide ar vota moldovenii dacă duminica viitoare ar avea loc alegeri parlamentare |url=https://tv8.md/ru/2022/28/03/sondaj-ce-partide-ar-vota-moldovenii-daca-duminica-viitoare-ar-avea-loc-alegeri-parlamentare/196469}}</ref>",
+                  "url": "https://tv8.md/ru/2022/28/03/sondaj-ce-partide-ar-vota-moldovenii-daca-duminica-viitoare-ar-avea-loc-alegeri-parlamentare/196469}}</ref>",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |access-date=2022-03-02 |language=en |website=tv8.md |title=/SONDAJ/ Ce partide ar ajunge în Parlament, dacă duminica viitoare ar avea loc alegeri anticipate |url=https://tv8.md/ru/2022/02/03/sondaj-ce-partide-ar-ajunge-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-anticipate/194045}}</ref>",
+                  "url": "https://tv8.md/ru/2022/02/03/sondaj-ce-partide-ar-ajunge-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-anticipate/194045}}</ref>",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://adevarul.ro/moldova/politica/partidul-Sor-crestere-spectaculoasa-sondaje-formatiunea-si-a-triplat-scorul-electoral-1_62136e0f5163ec4271428062/index.html |title=Partidul \"ȘOR\", creștere spectaculoasă în sondaje. Formațiunea și-a triplat scorul electoral |website=adevarul.ro |date=2022-02-21 |accessdate=2024-04-04 |language=en}}</ref>",
+                  "url": "https://adevarul.ro/stiri-externe/republica-moldova/partidul-sor-crestere-spectaculoasa-in-sondaje-2150972.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |url=https://deschide.md/ro/stiri/politic/100144/Sondaj--Trei-forțe-politice-ar-accede-în-viitorul-Parlament-PAS-depășit-de-BCS-în-preferințele-alegătorilor.htm |title=Sondaj // Trei forțe politice ar accede în viitorul Parlament. PAS, depășit de BCS în preferințele alegătorilor |website=Deschide.MD |accessdate=2022-02-08 |language=ro}}</ref>",
+                  "url": "https://deschide.md/ro/stiri/politic/100144/Sondaj--Trei-forțe-politice-ar-accede-în-viitorul-Parlament-PAS-depășit-de-BCS-în-preferințele-alegătorilor.htm",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\":6\">{{Cite web |url=https://cotidianul.md/2022/01/26/sondaj-partidele-care-au-sanse-de-a-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-anticipate/ |title=Sondaj: Partidele care au șanse de a accede în Parlament dacă duminica viitoare ar avea loc alegeri anticipate |website=Cotidianul |date=2022-01-26 |accessdate=2022-01-26}}</ref>",
+                  "url": "https://cotidianul.md/2022/01/26/sondaj-partidele-care-au-sanse-de-a-accede-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-anticipate/",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Sondaj iData/ Cum ar arăta configurația parlamentară dacă duminică ar avea loc alegeri parlamentare anticipate |date=22 December 2021 |url=https://www.zdg.md/importante/sondaj-idata-cum-ar-arata-configuraia-parlamentara-daca-duminica-ar-avea-loc-alegeri-parlamentare-anticipate/ |language=Romanian}}</ref>",
+                  "url": "https://www.zdg.md/importante/sondaj-idata-cum-ar-arata-configuraia-parlamentara-daca-duminica-ar-avea-loc-alegeri-parlamentare-anticipate/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Центр закрытой социологии западных стран постсоветского пространства (ЦЗСЗСПП) |url=https://t.me/tszszspp/38 |access-date=2024-04-04 |website=Telegram}}</ref>",
+                  "url": "https://t.me/tszszspp/38",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2021-12-20 |title=Sondaj de decembrie: PAS ar pierde majoritatea în Parlament, dacă duminică ar avea loc alegeri |url=https://unimedia.info/ro/news/26d76540902388e0/sondaj-mutari-rapide-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-anticipate-cate-voturi-ar-acumula-bcs-si-pas.html |access-date=2021-12-20 |website=Unimedia |language=ro}}</ref>",
+                  "url": "https://unimedia.info/ro/news/26d76540902388e0/sondaj-mutari-rapide-in-parlament-daca-duminica-viitoare-ar-avea-loc-alegeri-anticipate-cate-voturi-ar-acumula-bcs-si-pas.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Sondaj iData / Cum ar arăta noul Parlament de la Chișinău, dacă duminica viitoare ar avea loc alegeri parlamentare anticipate |date=29 November 2021 |url=https://www.zdg.md/stiri/stiri-sociale/sondaj-idata-cum-ar-arata-noul-parlament-de-la-chisinau-daca-duminica-viitoare-ar-avea-loc-alegeri-parlamentare-anticipate-2/ |language=Romanian}}</ref>",
+                  "url": "https://www.zdg.md/stiri/stiri-sociale/sondaj-idata-cum-ar-arata-noul-parlament-de-la-chisinau-daca-duminica-viitoare-ar-avea-loc-alegeri-parlamentare-anticipate-2/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Центр закрытой социологии западных стран постсоветского пространства (ЦЗСЗСПП) |url=https://t.me/tszszspp/34 |access-date=2024-04-04 |website=Telegram |language=Russian}}</ref>",
+                  "url": "https://t.me/tszszspp/34",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |title=sondaj IMAS |date=17 November 2021 |url=https://adevarul.ro/moldova/politica/sondaj-partidul-Sor-crescut-doua-sondaje-timp-patru-luni-1_619527035163ec4271a6d73e/index.html |language=Romanian}}</ref>",
+                  "url": "https://adevarul.ro/stiri-externe/republica-moldova/sondaj-partidul-sor-a-crescut-de-doua-ori-in-2133326.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |title=PowerPoint Presentation IRI 2021 Moldova poll |url=https://www.iri.org/wp-content/uploads/2022/02/IRI-2021-Moldova-Poll-Sep16-Nov1.pdf |language=English}}</ref>",
+                  "url": "https://www.iri.org/wp-content/uploads/2022/02/IRI-2021-Moldova-Poll-Sep16-Nov1.pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |title=Sondaj iData: Dacă duminica viitoare ar fi alegeri parlamentare anticipate 35 la sută dintre cetățenii R. Moldova ar vota cu PAS, iar circa 19 la sută – cu BCS |date=29 October 2021 |url=https://www.zdg.md/importante/sondaj-idata-daca-duminica-viitoare-ar-fi-alegeri-parlamentare-anticipate-35-la-suta-dintre-cetatenii-r-moldova-ar-vota-cu-pas-iar-circa-19-la-suta-cu-bcs/ |language=Romanian}}</ref>",
+                  "url": "https://www.zdg.md/importante/sondaj-idata-daca-duminica-viitoare-ar-fi-alegeri-parlamentare-anticipate-35-la-suta-dintre-cetatenii-r-moldova-ar-vota-cu-pas-iar-circa-19-la-suta-cu-bcs/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|title=Studiul de audiență. Studiul socio-politic iData. Septembrie 2021|url=https://idata.md/studiul-de-audienta-studiul-socio-politic-idata-septembrie-2021|language=Romanian}}</ref>",
+                  "url": "https://idata.md/studiul-de-audienta-studiul-socio-politic-idata-septembrie-2021/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Notes",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

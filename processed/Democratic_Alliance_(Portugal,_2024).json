@@ -24,7 +24,7 @@
                   "text": "<ref>{{cite web| url=https://www.legislativas2022.mai.gov.pt/resultados/globais| title=Resultados Globais| lang=pt| work=Ministry of Internal Administration (Portugal)|Ministry of Internal Administration| access-date=2 February 2022| archive-date=2 February 2022| archive-url=https://web.archive.org/web/20220202000000/https://web.archive.org/web/20220202070059/https://www.legislativas2022.mai.gov.pt/resultados/globais| url-status=live}}</ref>",
                   "url": "https://www.legislativas2022.mai.gov.pt/resultados/globais",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Cannot connect to host www.legislativas2022.mai.gov.pt:443 ssl:True [SSLCertVerificationError: (1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.legislativas2022.mai.gov.pt'. (_ssl.c:1010)\")]",
                   "type": "web"
                 }
               ]
@@ -44,30 +44,30 @@
               "text": "After the 2022 Portuguese legislative election|2022 legislative election and for the first time in history, CDS – People's Party|CDS–PP failed to win any seats and was wiped out of parliament. In December 2023, Luís Montenegro and Nuno Melo (politician)|Nuno Melo announced a coalition for the 2024 Portuguese legislative election|2024 legislative and 2024 European Parliament election in Portugal|European Parliament elections, including the Social Democratic Party (Portugal)|Social Democratic Party (PPD/PSD), the CDS – People's Party (CDS–PP) and some independent politicians under the name ''Democratic Alliance'' (AD). At first, the People's Monarchist Party (Portugal)|People's Monarchist Party (PPM) refused to join the alliance, citing the \"weakness\" and \"lack of vision\" of its leaders, but they later rescinded this position and joined the coalition. The agreement for the coalition was signed on 7 January 2024 between Luís Montenegro, Nuno Melo (politician)|Nuno Melo and Gonçalo da Câmara Pereira, with Miguel Guimarães, former President of the Ordem dos Médicos|Order of Physicians, representing the independents that are also present in the coalition.",
               "references": [
                 {
-                  "text": "<ref>{{Cite web |last=Lusa |first=Jornal Económico com |date=2023-12-21 |title=PSD e CDS-PP vão avançar com coligação pré-eleitoral para as legislativas e europeias |url=https://jornaleconomico.sapo.pt/noticias/psd-e-cds-pp-vao-avancar-com-coligacao-pre-eleitoral-para-as-legislativas-e-europeias/ |access-date=2023-12-21 |website=O Jornal Económico |language=pt-PT |archive-date=2023-12-21 |archive-url=https://web.archive.org/web/20231221190839/https://jornaleconomico.sapo.pt/noticias/psd-e-cds-pp-vao-avancar-com-coligacao-pre-eleitoral-para-as-legislativas-e-europeias/ |url-status=live }}</ref>",
+                  "text": "<ref>{{Cite web |agency=Lusa |date=2023-12-21 |title=PSD e CDS-PP vão avançar com coligação pré-eleitoral para as legislativas e europeias |url=https://jornaleconomico.sapo.pt/noticias/psd-e-cds-pp-vao-avancar-com-coligacao-pre-eleitoral-para-as-legislativas-e-europeias/ |access-date=2023-12-21 |website=O Jornal Económico |language=pt-PT |archive-date=2023-12-21 |archive-url=https://web.archive.org/web/20231221190839/https://jornaleconomico.sapo.pt/noticias/psd-e-cds-pp-vao-avancar-com-coligacao-pre-eleitoral-para-as-legislativas-e-europeias/ |url-status=live }}</ref>",
                   "url": "https://jornaleconomico.sapo.pt/noticias/psd-e-cds-pp-vao-avancar-com-coligacao-pre-eleitoral-para-as-legislativas-e-europeias/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
-                  "text": "<ref>{{Cite web |last=Mesquita |first=Henrique Pinto de |date=2023-12-21 |title=PPM rejeita integrar coligação pré-eleitoral com PSD e CDS, admitida por Montenegro |url=https://www.publico.pt/2023/12/21/politica/noticia/ppm-rejeita-integrar-coligacao-preeleitoral-psd-cds-2074520 |access-date=2023-12-21 |website=PÚBLICO |language=pt |archive-date=2023-12-21 |archive-url=https://web.archive.org/web/20231221180610/https://www.publico.pt/2023/12/21/politica/noticia/ppm-rejeita-integrar-coligacao-preeleitoral-psd-cds-2074520 |url-status=live }}</ref>",
+                  "text": "<ref>{{Cite web |last=de Mesquita |first=Henrique Pinto |date=2023-12-21 |title=PPM rejeita integrar coligação pré-eleitoral com PSD e CDS, admitida por Montenegro |url=https://www.publico.pt/2023/12/21/politica/noticia/ppm-rejeita-integrar-coligacao-preeleitoral-psd-cds-2074520 |access-date=2023-12-21 |website=PÚBLICO |language=pt |archive-date=2023-12-21 |archive-url=https://web.archive.org/web/20231221180610/https://www.publico.pt/2023/12/21/politica/noticia/ppm-rejeita-integrar-coligacao-preeleitoral-psd-cds-2074520 |url-status=live }}</ref>",
                   "url": "https://www.publico.pt/2023/12/21/politica/noticia/ppm-rejeita-integrar-coligacao-preeleitoral-psd-cds-2074520",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
-                  "text": "<ref>{{Cite web |last=Mesquita |first=Henrique Pinto de |date=2024-01-03 |title=Afinal, PPM junta-se ao PSD e CDS e integra a Aliança Democrática |url=https://www.publico.pt/2024/01/03/politica/noticia/afinal-ppm-juntase-psd-cds-integra-alianca-democratica-2075579 |access-date=2024-01-03 |website=PÚBLICO |language=pt |archive-date=2024-01-03 |archive-url=https://web.archive.org/web/20240103145453/https://www.publico.pt/2024/01/03/politica/noticia/afinal-ppm-juntase-psd-cds-integra-alianca-democratica-2075579 |url-status=live }}</ref>",
+                  "text": "<ref>{{Cite web |last=de Mesquita |first=Henrique Pinto |date=2024-01-03 |title=Afinal, PPM junta-se ao PSD e CDS e integra a Aliança Democrática |url=https://www.publico.pt/2024/01/03/politica/noticia/afinal-ppm-juntase-psd-cds-integra-alianca-democratica-2075579 |access-date=2024-01-03 |website=PÚBLICO |language=pt |archive-date=2024-01-03 |archive-url=https://web.archive.org/web/20240103145453/https://www.publico.pt/2024/01/03/politica/noticia/afinal-ppm-juntase-psd-cds-integra-alianca-democratica-2075579 |url-status=live }}</ref>",
                   "url": "https://www.publico.pt/2024/01/03/politica/noticia/afinal-ppm-juntase-psd-cds-integra-alianca-democratica-2075579",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
-                  "text": "<ref>{{Cite web |last=Martins |first=Miguel Santos Carrapatoso, Igor |title=Aliança Democrática entra em campo: Melo segura a direita, Montenegro tenta seduzir o centro |url=https://observador.pt/especiais/alianca-democratica-entra-em-campo-melo-segura-a-direita-montenegro-tenta-seduzir-o-centro/ |access-date=2024-01-07 |website=Observador |language=pt-PT |archive-date=2024-01-07 |archive-url=https://web.archive.org/web/20240107210510/https://observador.pt/especiais/alianca-democratica-entra-em-campo-melo-segura-a-direita-montenegro-tenta-seduzir-o-centro/ |url-status=live }}</ref>",
+                  "text": "<ref>{{Cite web |author1=Igor Martins |first=Miguel Santos Carrapatoso |title=Aliança Democrática entra em campo: Melo segura a direita, Montenegro tenta seduzir o centro |url=https://observador.pt/especiais/alianca-democratica-entra-em-campo-melo-segura-a-direita-montenegro-tenta-seduzir-o-centro/ |access-date=2024-01-07 |website=Observador |language=pt-PT |archive-date=2024-01-07 |archive-url=https://web.archive.org/web/20240107210510/https://observador.pt/especiais/alianca-democratica-entra-em-campo-melo-segura-a-direita-montenegro-tenta-seduzir-o-centro/ |url-status=live }}</ref>",
                   "url": "https://observador.pt/especiais/alianca-democratica-entra-em-campo-melo-segura-a-direita-montenegro-tenta-seduzir-o-centro/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -80,14 +80,14 @@
                 {
                   "text": "<ref>{{Cite web |title=Nuno Melo confirma que coligação garante pelo menos dois deputados ao CDS |url=https://www.dn.pt/2581061900/nuno-melo-confirma-que-coligacao-garante-pelo-menos-dois-deputados-ao-cds/ |access-date=2024-01-06 |website=Diário de Notícias |language=pt |archive-date=2024-01-06 |archive-url=https://web.archive.org/web/20240106230544/https://www.dn.pt/2581061900/nuno-melo-confirma-que-coligacao-garante-pelo-menos-dois-deputados-ao-cds/ |url-status=live }}</ref>",
                   "url": "https://www.dn.pt/2581061900/nuno-melo-confirma-que-coligacao-garante-pelo-menos-dois-deputados-ao-cds/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Antunes |first=Rui Pedro |title=PPM em lugar difícil de eleger na nova AD. Só há deputado monárquico se coligação chegar aos 19 deputados em Lisboa |url=https://observador.pt/2024/01/03/ppm-em-lugar-dificil-de-eleger-na-nova-ad-so-ha-deputado-monarquico-se-coligacao-chegar-aos-19-deputados-em-lisboa/ |access-date=2024-01-06 |website=Observador |language=pt-PT |archive-date=2024-01-05 |archive-url=https://web.archive.org/web/20240105035939/https://observador.pt/2024/01/03/ppm-em-lugar-dificil-de-eleger-na-nova-ad-so-ha-deputado-monarquico-se-coligacao-chegar-aos-19-deputados-em-lisboa/ |url-status=live }}</ref>",
                   "url": "https://observador.pt/2024/01/03/ppm-em-lugar-dificil-de-eleger-na-nova-ad-so-ha-deputado-monarquico-se-coligacao-chegar-aos-19-deputados-em-lisboa/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -107,21 +107,21 @@
                 {
                   "text": "<ref>{{Cite web |date=11 March 2024 |title=AD ganha, mas com berbicacho, PS e esquerda ficam na \"oposição\" |url=https://expresso.pt/politica/eleicoes/legislativas-2024/resultados/2024-03-11-AD-ganha-mas-com-berbicacho-PS-e-esquerda-ficam-na-oposicao-bcba5700 |access-date=12 March 2024 |website=Expresso |language=pt |archive-date=11 March 2024 |archive-url=https://web.archive.org/web/20240311111700/https://expresso.pt/politica/eleicoes/legislativas-2024/resultados/2024-03-11-AD-ganha-mas-com-berbicacho-PS-e-esquerda-ficam-na-oposicao-bcba5700 |url-status=live }}</ref>",
                   "url": "https://expresso.pt/politica/eleicoes/legislativas-2024/resultados/2024-03-11-AD-ganha-mas-com-berbicacho-PS-e-esquerda-ficam-na-oposicao-bcba5700",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite news |date=2 April 2024 |title=Presidente deu posse ao primeiro-ministro e ministros do XXIV Governo Constitucional |trans-title=President swears in the Prime Minister and ministers of the XXIV Constitutional Government |url=https://www.sapo.pt/noticias/atualidade/presidente-deu-posse-ao-primeiro-ministro-e_660c3efa708c9d4acd938c86 |archive-url=https://web.archive.org/web/20240402185229/https://www.sapo.pt/noticias/atualidade/presidente-deu-posse-ao-primeiro-ministro-e_660c3efa708c9d4acd938c86 |archive-date=2 April 2024 |access-date=2 April 2024 |work=Lusa |language=Portuguese |via=Sapo}}</ref>",
                   "url": "https://www.sapo.pt/noticias/atualidade/presidente-deu-posse-ao-primeiro-ministro-e_660c3efa708c9d4acd938c86",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
-                  "text": "<ref>{{Cite web |last=Expresso |date=2024-06-09 |title=Pedro Nuno canta vitória. Montenegro promete apoio a Costa para o Conselho Europeu. Siga aqui a noite eleitoral (com vídeo)  |url=https://expresso.pt/politica/eleicoes/europeias-2024/2024-06-09-europeias-projecao-sic-ps-e-ad-empatados-na-frente-il-sobe-e-apanha-chega-3ede791a |access-date=2024-06-09 |website=observador.pt |language=pt-PT}}</ref>",
+                  "text": "<ref>{{Cite web |date=2024-06-09 |title=Pedro Nuno canta vitória. Montenegro promete apoio a Costa para o Conselho Europeu. Siga aqui a noite eleitoral (com vídeo) |url=https://expresso.pt/politica/eleicoes/europeias-2024/2024-06-09-europeias-projecao-sic-ps-e-ad-empatados-na-frente-il-sobe-e-apanha-chega-3ede791a |access-date=2024-06-09 |website=Expresso |language=pt-PT}}</ref>",
                   "url": "https://expresso.pt/politica/eleicoes/europeias-2024/2024-06-09-europeias-projecao-sic-ps-e-ad-empatados-na-frente-il-sobe-e-apanha-chega-3ede791a",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -134,9 +134,60 @@
                 {
                   "text": "<ref>{{cite news |last1=Pinto |first1=Salomé |last2= |first2= |date=13 March 2025 |url=https://eco.sapo.pt/2025/03/13/e-oficial-marcelo-marca-eleicoes-para-18-de-maio/|title=É oficial. Marcelo marca eleições para 18 de maio |language=pt |newspaper=Eco|location=Lisbon |access-date=13 March 2025}}</ref>",
                   "url": "https://eco.sapo.pt/2025/03/13/e-oficial-marcelo-marca-eleicoes-para-18-de-maio/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "3.2",
+          "title": "Departure of PPM from the coalition",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "3.2.s1",
+                  "text": "On 26 March 2025, it was announced that the People's Monarchist Party (Portugal)|People's Monarchist Party (PPM) left the coalition because of disagreements regarding the lists for the May early election. PPM warned PSD and CDS–PP that the name of the coalition couldn't continue the same, and then a new designation was announced: ''AD – Democratic Alliance – PSD/CDS''. The Constitutional Court (Portugal)|Constitutional Court rejected this new designation and the coalition proposed a new one, ''AD – PSD/CDS coalition'', which was then accepted by the Court. The AD  – PSD/CDS coalition also signed a deal with the Earth Party (MPT), in which the party agrees to support the coalition and includes some environmental policies in the AD's electoral program, with MPT leader Pedro Soares Pimenta being a candidate on the 25th place of the list in Lisbon (Assembly of the Republic constituency)|Lisbon.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |date=26 March 2025 |url=https://sicnoticias.pt/especiais/crise-politica/2025-03-26-luis-montenegro-propoe-ao-conselho-nacional-coligacao-apenas-com-cds-pp-8ca4c871|title=Luís Montenegro propõe ao Conselho Nacional coligação apenas com CDS-PP |language=pt |newspaper=SIC Notícias|location=Lisbon |access-date=26 March 2025}}</ref>",
+                      "url": "https://sicnoticias.pt/especiais/crise-politica/2025-03-26-luis-montenegro-propoe-ao-conselho-nacional-coligacao-apenas-com-cds-pp-8ca4c871",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |date=28 March 2025 |url=https://sicnoticias.pt/especiais/eleicoes-legislativas/2025-03-28-solucao-sem-o-ppm-coligacao-de-montenegro-vai-chamar-se-ad---alianca-democratica---psd-cds-f8f24073|title=Solução sem o PPM: coligação de Montenegro vai chamar-se \"AD - Aliança Democrática - PSD/CDS\" |language=pt |newspaper=SIC Notícias|location=Lisbon |access-date=28 March 2025}}</ref>",
+                      "url": "https://sicnoticias.pt/especiais/eleicoes-legislativas/2025-03-28-solucao-sem-o-ppm-coligacao-de-montenegro-vai-chamar-se-ad---alianca-democratica---psd-cds-f8f24073",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |date=2 April 2025 |url=https://sicnoticias.pt/especiais/eleicoes-legislativas/2025-04-02-nao-alianca-democratica-mas-ad-psd-e-cds-arranjam-novo-nome-para-coligacao-b1f51a7f|title=Não “Aliança Democrática”, mas “AD”: PSD e CDS arranjam novo nome para coligação |language=pt |newspaper=SIC Notícias|location=Lisbon |access-date=2 April 2025}}</ref>",
+                      "url": "https://sicnoticias.pt/especiais/eleicoes-legislativas/2025-04-02-nao-alianca-democratica-mas-ad-psd-e-cds-arranjam-novo-nome-para-coligacao-b1f51a7f",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |date=3 April 2025 |url=https://observador.pt/2025/04/03/tribunal-constitucional-aprova-nova-designacao-da-ad/|title=Tribunal Constitucional aprova nova designação da AD |language=pt |newspaper=Observador|location=Lisbon |access-date=3 April 2025}}</ref>",
+                      "url": "https://observador.pt/2025/04/03/tribunal-constitucional-aprova-nova-designacao-da-ad/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |date=4 April 2025 |url=https://expresso.pt/politica/eleicoes/legislativas-2025/2025-04-04-ad-deixa-monarquicos-de-fora-mas-decidiu-juntar-o-partido-da-terra-9c89b47e|title=AD deixa monárquicos de fora, mas decidiu juntar o Partido da Terra |language=pt |newspaper=Expresso|location=Lisbon |access-date=5 April 2025}}</ref>",
+                      "url": "https://expresso.pt/politica/eleicoes/legislativas-2025/2025-04-04-ad-deixa-monarquicos-de-fora-mas-decidiu-juntar-o-partido-da-terra-9c89b47e",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
                 }
               ]
             }
@@ -150,6 +201,15 @@
       "content": [
         {
           "sentences": []
+        },
+        {
+          "id": "4.2",
+          "title": "Former members",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
         }
       ]
     },

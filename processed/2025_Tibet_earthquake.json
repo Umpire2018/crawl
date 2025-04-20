@@ -1,0 +1,752 @@
+{
+  "title": "2025_Tibet_earthquake",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "On 7 January 2025 at 09:05 China Standard Time|CST (UTC+8), an earthquake measuring {{M|w|7.1}} struck Tingri County, located in the Shigatse prefecture-level city of the Tibet Autonomous Region of Southwestern China. Between 126 and 400 people were killed{{efn|Tibetan sources estimate a higher death toll than officially reported by the Government of China|Chinese government due to many local sources being prohibited from spreading any information of casualties. It was caused by Fault (geology)#Normal faults|normal faulting and originated within the continental crust at {{cvt|10|km}} depth.<ref name=\"ANSS\"/>",
+              "references": [
+                {
+                  "text": "<ref name=\"ANSS\">{{cite anss|M 7.1 – 2025 Xizang, China Earthquake|2025|us6000pi9w}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "anss"
+                },
+                {
+                  "text": "<ref name=icft/> See ''2025 Tibet earthquake#Casualties|Casualties'' and ''2025 Tibet earthquake#Response|Response'' sections for details.}} and 338 were injured in the region. The earthquake also injured 13 people in Nepal and caused minor damage in North India|Northern India. Shaking was felt across South Asia. The earthquake was the largest in China since the 2021 Maduo earthquake|Maduo earthquake in May 2021 and the deadliest since the 2023 Jishishan earthquake|Jishishan earthquake in December 2023.<ref>{{cite web |title=Search Earthquake Catalog |url=https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000nyzk&extent=-22.26876,27.68555&extent=43.26121,132.45117&range=search&listOnlyShown=true&baseLayer=satellite&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%221000-01-01%2000:00:00%22,%22endtime%22:%222025-01-09%2023:59:59%22,%22minmagnitude%22:5.9,%22orderby%22:%22time%22%7D%7D |publisher=U.S. Geological Survey |access-date=8 January 2025}}</ref>",
+                  "url": "https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us6000nyzk&extent=-22.26876,27.68555&extent=43.26121,132.45117&range=search&listOnlyShown=true&baseLayer=satellite&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%221000-01-01%2000:00:00%22,%22endtime%22:%222025-01-09%2023:59:59%22,%22minmagnitude%22:5.9,%22orderby%22:%22time%22%7D%7D",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Kua1\">{{cite news |last1=Kua |first1=Isabel |title=Quake In China's Tibet Kills 32 With Tremors Felt In Nepal, India |url=https://www.barrons.com/news/quake-in-china-s-tibet-kills-32-with-tremors-felt-in-nepal-india-64de145a |access-date=7 January 2025 |work=Barron's |agency=Agence France-Presse |publisher=Barron's |date=7 January 2025}}</ref>",
+                  "url": "https://www.barrons.com/news/quake-in-china-s-tibet-kills-32-with-tremors-felt-in-nepal-india-64de145a",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Tectonic setting",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "2.s1",
+              "text": "The Tibetan plateau attains its high elevation due to crustal thickening caused by the collision of the Indian plate|Indian tectonic plate with the Eurasian plate, creating the Himalayas. Fault (geology)|Faulting within the plateau is associated with strike-slip and normal mechanisms. The Extensional tectonics|plateau extends in an east–west direction evidenced by north–south striking grabens, strike-slip faulting and GPS data. Seven north–south trending rifts and normal faults were first discovered in southern Tibet during the late 1970s and early 1980s using satellite imagery. They began formation when extension occurred some 4 to 8 million years ago.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite journal |last=Madden-Nadeau |first=Amber |date=2014 |title=Overview of the geology of the Himalayas |url=https://www.geolsoc.org.uk/~/media/shared/documents/Events/Past%20Meeting%20Resources/Himalaya%2014%20Geology%20of%20the%20Himalayas.pdf |journal=Geology for Global Development |archive-date=25 November 2023 |access-date=7 January 2025 |archive-url=https://web.archive.org/web/20231125141500/https://www.geolsoc.org.uk/~/media/shared/documents/Events/Past%20Meeting%20Resources/Himalaya%2014%20Geology%20of%20the%20Himalayas.pdf |url-status=live }}</ref>",
+                  "url": "https://www.geolsoc.org.uk/~/media/shared/documents/Events/Past%20Meeting%20Resources/Himalaya%2014%20Geology%20of%20the%20Himalayas.pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "journal"
+                },
+                {
+                  "text": "<ref name=\"Elliott10\" /> In the northern region, Strike-slip tectonics|strike-slip faulting constitutes the dominant style of tectonics while in the south, the dominant tectonic domain is east-west extension on north–south trending normal faults.<ref name=\"Craig12\">{{cite journal |last1=Craig |first1=Timothy J. |last2=Copley |first2=Alex |last3=Jackson |first3=James |title=Thermal and tectonic consequences of India underthrusting Tibet |journal=Earth and Planetary Science Letters |date=2012 |volume=353-354 |pages=231–239 |doi=10.1016/j.epsl.2012.07.010 |bibcode=2012E&PSL.353..231C |url=https://eprints.whiterose.ac.uk/92646/1/Manuscript_As_Accepted.pdf |archive-date=8 January 2025 |access-date=8 January 2025 |archive-url=https://web.archive.org/web/20250108002245/https://eprints.whiterose.ac.uk/92646/1/Manuscript_As_Accepted.pdf |url-status=live }}</ref>",
+                  "url": "https://eprints.whiterose.ac.uk/id/eprint/92646/1/Manuscript_As_Accepted.pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "journal"
+                },
+                {
+                  "text": "<ref name=\"Wu11\">{{cite journal |last1=Wu |first1=Zhong-hai |last2=Ye |first2=Pei-sheng |last3=Barosh |first3=Patrick J. |last4=Wu |first4=Zhen-han |title=The October 6, 2008 Mw 6.3 magnitude Damxung earthquake, Yadong-Gulu rift, Tibet, and implications for present-day crustal deformation within Tibet |journal=Journal of Asian Earth Sciences |date=2011 |volume=40 |issue=4 |pages=943–957 |doi=10.1016/j.jseaes.2010.05.003|bibcode=2011JAESc..40..943W }}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "journal"
+                }
+              ]
+            },
+            {
+              "id": "2.s2",
+              "text": "The largest earthquakes in Tibet, with magnitudes of 8.0 or similar, occur along strike-slip faults. Normal faulting earthquakes are smaller in magnitudes; in 2008, five normal faulting earthquakes with magnitudes of 5.9 to 7.1 occurred in various locations across the plateau. These earthquakes occurred on faults with dip angles of 40 to 50 degrees and extended to a depth of {{cvt|10|to|15|km}}.",
+              "references": [
+                {
+                  "text": "<ref name=\"Elliott10\" /> A 2010 study in ''Geophysical Journal International'' observed within the past 43 years that 85 percent of the seismic moment released during normal faulting earthquakes occurred in areas of more than {{cvt|4.5|to|5|km}} elevation. This may suggest normal faulting earthquakes are dependent on gravitational potential energy to trigger these ruptures.<ref name=\"Elliott10\">{{cite journal |last1=Elliott |first1=J. R. |last2=Walters |first2=R. J. |last3=England |first3=P. C. |last4=Jackson |first4=J. A. |last5=Li |first5=Z. |last6=Parsons |first6=B. |title=Extension on the Tibetan plateau: recent normal faulting measured by InSAR and body wave seismology |journal=Geophysical Journal International |date=2010 |volume=183 |issue=2 |pages=503–535 |doi=10.1111/j.1365-246X.2010.04754.x |doi-access=free |bibcode=2010GeoJI.183..503E}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "journal"
+                }
+              ]
+            },
+            {
+              "id": "2.s3",
+              "text": "Since 1949, 37 earthquakes of {{M|s}} 5.0–5.9, 7 of {{M|s}} 6.0–6.9, and 1 of {{M|s}} 7.0–7.9 have been recorded within {{cvt|200|km}} of the epicentre. It was the deadliest earthquake in the immediate area since a {{M|s|6.6}} event occurred in Yadong County on 20 November 1980. That earthquake had an epicenter {{cvt|176|km}} away and killed 3 people in the county. The 7 January 2025 earthquake was also the largest in the area since a {{M|s|7.1}} struck {{cvt|171|km}} to the south on List of aftershocks of the April 2015 Nepal earthquake|26 April 2015.",
+              "references": [
+                {
+                  "text": "<ref name=\"cdut1\">{{cite news|author1=State Key Laboratory of Geohazard Prevention and Geoenvironment Protection|title=西藏定日县6.8级地震诱发地质灾害预测|trans-title=Prediction of geological disasters induced by a magnitude 6.8 earthquake in Dingri County, Tibet|url=https://sklgp.cdut.edu.cn/info/1025/6928.htm|access-date=7 January 2025|publisher=Chengdu University of Technology|date=7 January 2025|language=zh}}</ref>",
+                  "url": "https://sklgp.cdut.edu.cn/info/1025/6928.htm",
+                  "status_code": 412,
+                  "reason": "Precondition Failed",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Earthquake",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "illustrating ground motion around the epicentre]]\nThe United States Geological Survey noted that the earthquake measured a moment magnitude ({{M|w}}) of 7.1, while the China Earthquake Networks Center documented its magnitude at {{M|s|6.8}}. The shock occurred at {{cvt|10|km}} depth, indicating it occurred within the continental crust that forms the Tibetan Plateau. It was caused by normal faulting with a minor strike-slip component.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=西藏日喀则市定日县发生6.8级地震 |trans-title=A 6.8-magnitude earthquake occurred in Dingri County, Shigatse City, Tibet |url=https://cbgc.scol.com.cn/news/5825133 |date=7 January 2025 |access-date=7 January 2025 |work=China Earthquake Network |language=zh}}</ref>",
+                  "url": "https://cbgc.scol.com.cn/news/5825133",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"CEA1\" /> Focal mechanism solutions indicate that the rupture occurred on a north-south striking fault, dipping moderately to either the east or west.<ref name=\"ANSS\"/> The epicentre was at Tsogo Township in Tingri County, an area with an average altitude of {{cvt|4500|m}}.<ref>{{Cite web |date=7 January 2025|title=Strong Xizang earthquake: What we know |url=https://english.news.cn/20250107/013f1f0775e041e592388b5cd381d473/c.html|access-date=7 January 2025|publisher=Xinhua News Agency|language=en}}</ref>",
+                  "url": "https://english.news.cn/20250107/013f1f0775e041e592388b5cd381d473/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "Modelling of the rupture by the United States Geological Survey revealed motion along a north–northeast striking fault dipping west–northwest or north–northwest striking fault dipping east–northeast. In both solutions, co-seismic slip occurred for about {{cvt|80|km}} along strike and extended to {{cvt|20|km}} depth. The maximum slip in these solutions were {{cvt|1.6|m}} and {{cvt|1.3|m}}, respectively. A earthquake rupture|rupture area of about {{cvt|80|km|mi}} x {{cvt|20|km|mi}} was estimated, extending from Ngamring County to southern Tingri County near the China–Nepal border|border with Nepal.",
+              "references": [
+                {
+                  "text": "<ref name=\"ANSS\" /> Seismologists at the China Earthquake Networks Center said the mainshock originated within the Lhasa terrane, a crustal block that forms part of the plateau.<ref name=\"j790\">{{cite web |title=专家解析西藏日喀则市定日县6.8级地震成因 |trans-title=Experts analyze the cause of the 6.8-magnitude earthquake in Dingri County, Shigatse City, Tibet |website=新闻频道_央视网(China Central Television) |date=7 January 2025 |url=https://news.cctv.com/2025/01/07/ARTI4hVvIsjpGDmxShZG2wey250107.shtml |language=zh |access-date=7 January 2025}}</ref>",
+                  "url": "https://news.cctv.com/2025/01/07/ARTI4hVvIsjpGDmxShZG2wey250107.shtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s3",
+              "text": "Interferometric synthetic-aperture radar|InSAR analysis of before and after images from the European Space Agency Sentinel 1A satellite shows evidence of subsidence to the west of the surface rupture and uplift to the east. Combined with the observed focal mechanism, these observations confirm that this earthquake was caused by normal faulting on a west-strike and dip|dipping fault. The causative fault has been identified as the Deng Me Cuo Fault.",
+              "references": [
+                {
+                  "text": "<ref name=\"Yu_etal_2025\">{{Cite journal |last1=Yu |first1=S. |last2=Zhang |first2=S. |last3=Luo |first3=J. |last4=Li |first4=Z. |last5=Ding |first5=J. |date=2025 |title=The tectonic significance of the Mw7.1 earthquake source model in Tibet in 2025 constrained by InSAR data |journal=Remote Sensing |volume=17 |issue=5 |pages=936 |doi=10.3390/rs17050936|doi-access=free }}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "journal"
+                }
+              ]
+            },
+            {
+              "id": "3.s4",
+              "text": "The China Earthquake Administration evaluated that the enture rupture occurred within 24 seconds, releasing a seismic moment estimated at 4.0469 × 10<sup>19</sup> Newton-metre|Nm. The greatest moment release occurred 14 seconds after the rupture initiated. The rupture propagated bilaterally along a normal fault, but most of it was directed northward. Remote sensing and ground surveys indicated a surface rupture of {{cvt|25–32|km}} and maximum displacement of {{cvt|3|m}}. About {{cvt|11|km}} of the rupture was along the eastern shore of Dengme Co Lake, where field surveysors discovered a {{cvt|100|m}} wide zone of fissures and some sinistral displacement. The remaining rupture continued towards the north of the lake. The Ministry of Natural Resources (China)|Ministry of Natural Resources projected a {{cvt|50|km}} rupture extending to {{cvt|16|km}} depth by using seismic inversion of InSAR data. Much of the coseismic slip occurred at {{cvt|1|to|5|km}} depth and a maximum slip of {{cvt|6|m}} was Inferred at {{cvt|1|to|2|km}} depth. In Changsuo Township vertical scarps of {{cvt|3|m}} were measured along a zone of ruptures nearly {{cvt|4|km}} long at {{cvt|5,300|to|5,500|m}} elevation.",
+              "references": [
+                {
+                  "text": "<ref name=\"CEA1\">{{cite web |title=2025年1月7日西藏日喀则市定日县6.8级 地震科技支撑简报|trans-title=Briefing on the scientific and technological support for the 6.8-magnitude earthquake in Dingri County, Shigatse City, Tibet on January 7, 2025 |url=https://www.cea-igp.ac.cn/kydt/280883.html |publisher=China Earthquake Administration |access-date=7 January 2025 |language=zh |date=7 January 2025}}</ref>",
+                  "url": "https://www.cea-igp.ac.cn/kydt/280883.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"XuNPJ1\">{{cite journal |last1=Xu |first1=Xiwei |last2=Wang |first2=Shiguang |last3=Cheng |first3=Jia |last4=Wu |first4=Xiyan |title=Shaking the Tibetan Plateau: Insights from the Mw 7.1 Dingri earthquake and its implications for active fault mapping and disaster mitigation |journal=npj Natural Hazards |date=2025 |volume=2 |issue=16 |doi=10.1038/s44304-025-00074-7|bibcode=2025npjNH...2...16X |doi-access=free }}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "journal"
+                },
+                {
+                  "text": "<ref name=\"Kai25\">{{cite news |last1=Kai |first1=Yu |title=卫星拍摄西藏定日震区：最大破裂位置较浅，最大位错量达6米 |language=zh|trans-title=Satellite images of the earthquake zone in Dingri, Tibet: the largest rupture is shallow, with the largest displacement reaching 6 meters |url=https://finance.sina.com.cn/jjxw/2025-01-08/doc-ineehmtv3889135.shtml |access-date=8 January 2025 |work=The Paper (newspaper)|The Paper |publisher=Sina Finance |date=8 January 2025}}</ref>",
+                  "url": "https://finance.sina.com.cn/jjxw/2025-01-08/doc-ineehmtv3889135.shtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=地质所四川局西藏局联合调查团队发现定日地震的同震垂直位错量达3m |trans-title=The joint investigation team of the Sichuan Bureau and the Tibet Bureau of the Institute of Geology found that the co-seismic vertical displacement of the Dingri earthquake reached 3m |url=https://www.eq-igl.ac.cn/zhxw/info/2025/38561.html |access-date=10 January 2025 |work=Institute of Geology, China Earthquake Administration |date=10 January 2025 |language=zh}}</ref>",
+                  "url": "https://www.eq-igl.ac.cn/zhxw/info/2025/38561.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "3.s5",
+              "text": "In a survey by the China Earthquake Administration, intensity VI or higher on the China seismic intensity scale was felt for more than {{cvt|23,986|km2}} along a general north–south trend. A {{cvt|411|km2}} area was assigned IX including Changsuo, Quluo, Cuoguo, Nixia and Jiacuo townships. Intensity VIII formed a band around the meizoseismal area for {{cvt|869|km2}} which encompassed 8 townships. Twenty townships across Tingri, Lhazi, Dinggye, Sakya and Angren counties were within the VII isoseismal band that was assigned to a {{cvt|5,350|km2}} area. At least 3,614 aftershocks followed the mainshock by 14 January.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |last1=Jupeng |first1=Wang |title=两部门发布西藏定日6.8级地震烈度图|trans-title=Two departments released the intensity map of the 6.8-magnitude earthquake in Tingri, Tibet |url=http://www.ce.cn/xwzx/gnsz/gdxw/202501/10/t20250110_39262840.shtml |access-date=10 January 2025 |work=China News Service |publisher=China Economic Net |date=10 January 2025 |language=zh}}</ref>",
+                  "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202501/10/t20250110_39262840.shtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"aftershock\">{{cite news |title=Over 3,600 aftershocks detected following 6.8-magnitude Xizang quake |language=en |url=https://english.news.cn/20250114/35fdaf853d5f47238b7606bf40402fcc/c.html |access-date=15 January 2025 |work=Xinhua News Agency |date=14 January 2025}}</ref>",
+                  "url": "https://english.news.cn/20250114/35fdaf853d5f47238b7606bf40402fcc/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Impact",
+      "content": [
+        {
+          "id": "4.1",
+          "title": "Casualties",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.1.s1",
+                  "text": "The death toll is heavily disputed, with the Government of China providing its current official figure of 126 deaths on 8 January, based on search operations in 27 villages comprising 6,900 people within {{cvt|20|km|mi|abbr=off}} of the earthquake epicenter. Due to the lack of revisions, transparency, and censorship by the government, Tibetans|local Tibetans heavily criticized this figure, instead estimating 265 fatalities. Chinese authorities refuted this figure as a rumor and imposed administrative punishment on some locals for spreading \"misinformation\" online. Voice of America|Voice of America Tibet put the death toll at 134, citing data received from Tibet and confirmed by reliable sources. On 11 January, Radio Free Asia reported more than 400 fatalities, an estimate they cited from staff working at morgues in Tingri and Lhatse counties.{{bsn|date=March 2025}}",
+                  "references": [
+                    {
+                      "text": "<ref name=icft>{{cite report|title=Tibet Earthquake: Tibetan resilience and future risks|url= https://savetibet.org/tibet-earthquake-tibetan-resilience-and-future-risks/ |date=24 January 2025|access-date=31 January 2025|publisher=International Campaign for Tibet}}{{self-published source|date=March 2025}}</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": "report"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.1.s2",
+                  "text": "At least 338 people were wounded, including 19 in serious condition. On 8 January, rescuers said an unknown number of people remained missing as Chinese officials had not provided a figure. Fatalities occurred in Tingri County|Tingri, Lhatse County|Lhatse and Sa'gya County|Sa'gya Counties.<ref name=\"36dead1\"/>",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news|title=Tibet hit by two powerful aftershocks of last week's earthquake|url=https://www.reuters.com/business/environment/earthquakes-hit-tibets-tingri-county-2025-01-13/|publisher=Reuters|date=13 January 2025|access-date=13 January 2025}}</ref>",
+                      "url": "https://www.reuters.com/business/environment/earthquakes-hit-tibets-tingri-county-2025-01-13/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"cna1\" /> Local officials attributed the casualties to the collapse of poorly constructed traditional buildings.<ref name=\"uca\">{{cite news |title=Dalai Lama urges compassion, solidarity after Tibet quake |url=https://www.ucanews.com/news/dalai-lama-urges-compassion-solidarity-after-tibet-quake/107523 |access-date=16 January 2025 |work=UCA News |date=8 January 2025}}</ref>",
+                      "url": "https://www.ucanews.com/news/dalai-lama-urges-compassion-solidarity-after-tibet-quake/107523",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"st1\" /> The following day, officials said that any remaining missing persons would have likely died of hypothermia beneath the rubble of destroyed homes.<ref>{{cite news|title=Search widens for Tibet quake survivors as tens of thousands moved to shelters|url=https://www.fbcnews.com.fj/world/search-widens-for-tibet-quake-survivors-as-tens-of-thousands-moved-to-shelters/|publisher=FBC News|date=9 January 2025|access-date=9 January 2025}}</ref>",
+                      "url": "https://www.fbcnews.com.fj/world/search-widens-for-tibet-quake-survivors-as-tens-of-thousands-moved-to-shelters/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Damage",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.2.s1",
+                  "text": "More than 27,200 buildings were damaged and 3,612 homes collapsed. In some villages, 80 to 90 percent of homes were razed. More than 1,000 homes collapsed in Tingri County, and five sections of national and provincial roads were damaged by landslides, collapses and subsidence. Altogether, 206 villages across 26 townships in five counties were affected. including two nuns due to a convent collapse and 30 more in Gurong village, In Lhatse County, debris covered streets and vehicles, and a hotel was damaged. More than 170 China Mobile stations were disabled by the earthquake, although mobile services were restored nine hours later. Cracks were discovered in five hydropower dams after they were inspected, and three were drained. At one dam in Tingri County, a tilted wall prompted 1,500 residents across six villages to evacuate.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"cna1\" /><ref name=\"ap126\">{{cite news |date=7 January 2025 |title=Strong earthquake kills at least 126 people in western China near Mount Everest |url=https://apnews.com/article/china-nepal-tibet-earthquake-himalayas-ca21bd4848209370b9eebcaf107208df |url-status=live |archive-url=https://web.archive.org/web/20250107064452/https://apnews.com/article/china-nepal-tibet-earthquake-himalayas-ca21bd4848209370b9eebcaf107208df |archive-date=7 January 2025 |access-date=7 January 2025 |publisher=Associated Press}}</ref>",
+                      "url": "https://apnews.com/article/china-nepal-tibet-earthquake-himalayas-ca21bd4848209370b9eebcaf107208df",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"mingshengbao\">{{cite news |title=西藏6.8级震塌屋数千 至少126死(组图)|trans-title=Tibet 6.8 earthquake collapses thousands of buildings, at least 126 dead (photos) |url=http://www.mingshengbao.com/tor/article.php?aid=944696 |access-date=9 January 2025 |publisher=Mingshengbao |work=Ming Pao News Network |date=8 January 2025 |language=zh}}</ref>",
+                      "url": "http://www.mingshengbao.com/tor/article.php?aid=944696",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Leplâtre1\">{{cite news |last1=Leplâtre |first1=Simon |title=Tibet earthquake: 'In the worst-hit villages, 80-90% of houses have collapsed' |url=https://www.lemonde.fr/en/environment/article/2025/01/08/tibet-earthquake-in-the-worst-hit-villages-80-90-of-houses-have-collapsed_6736830_114.html |access-date=9 January 2025 |work=Le Monde |date=8 January 2025}}</ref>",
+                      "url": "https://www.lemonde.fr/en/environment/article/2025/01/08/tibet-earthquake-in-the-worst-hit-villages-80-90-of-houses-have-collapsed_6736830_114.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"36dead1\">{{cite news |title=西藏6.8级地震已致36人遇难 |trans-title=6.8-magnitude earthquake in Tibet kills 36 people |url=https://m.163.com/news/article/JLA2FM3U0001899O.html |access-date=7 January 2025 |work=Nanfang Daily |date=7 January 2025}}</ref>",
+                      "url": "https://m.163.com/news/article/JLA2FM3U0001899O.html",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=西藏定日受损公路实现单幅通行 |trans-title=The damaged highway in Tibet's Dingri is now open to traffic |url=https://www.mot.gov.cn/jiaotongyaowen/202501/t20250108_4162197.html |access-date=8 January 2025 |work=China Traffic News Network |publisher=Ministry of Transport |date=8 January 2025 |language=zh}}</ref>",
+                      "url": "https://www.mot.gov.cn/jiaotongyaowen/202501/t20250108_4162197.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"cna1\" /> In Dramtso, 100 died,<ref name=\"RFA1\">{{cite news|title=At least 100 dead in one Tibetan township in wake of deadly earthquake|url=https://www.rfa.org/english/tibet/2025/01/10/earthquake-death-toll/|publisher=Radio Free Asia|date=11 January 2025|access-date=11 January 2025}}</ref>",
+                      "url": "https://www.rfa.org/english/tibet/2025/01/10/earthquake-death-toll/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"RFA\">{{cite news|title=Dalai Lama says no reason to be angry at China over Tibet quake|url=https://www.rfa.org/english/tibet/2025/01/09/earthquake-dalai-lama-prayer-ceremony/|publisher=Radio Free Asia|date=9 January 2025|access-date=10 January 2025}}</ref>",
+                      "url": "https://www.rfa.org/english/tibet/2025/01/09/earthquake-dalai-lama-prayer-ceremony/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"RFA1\"/> where all homes were damaged, half of them severely.<ref>{{cite news|title=定日县古荣村全村房屋几乎都受损幸存者已被妥善安置|url=https://www.chinanews.com.cn/sh/2025/01-08/10349537.shtml|access-date=8 January 2025|work=China News|date=8 January 2025}}</ref>",
+                      "url": "https://www.chinanews.com.cn/sh/2025/01-08/10349537.shtml",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"keyt\">{{cite news |date=7 January 2025 |title=Powerful earthquake rocks remote region of Tibet and parts of Nepal, killing more than 120 |url=https://keyt.com/news/national-world/cnn-world/2025/01/07/powerful-earthquake-rocks-remote-region-of-tibet-and-parts-of-nepal-killing-at-least-95// |access-date=7 January 2025 |publisher=KEYT-TV |language=en}}</ref>",
+                      "url": "https://keyt.com/news/national-world/cnn-world/2025/01/07/powerful-earthquake-rocks-remote-region-of-tibet-and-parts-of-nepal-killing-at-least-95/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=西藏6.8地震「大量房屋倒塌」已有人身亡「居民受困搶救中」 |url=https://www.ettoday.net/news/20250107/2887563.htm |access-date=7 January 2025 |publisher=Eastern Broadcasting Company |date=7 January 2025 |language=Zh}}</ref>",
+                      "url": "https://www.ettoday.net/news/20250107/2887563.htm",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Hongming1\">{{cite news |last1=Hongming |first1=Liu |last2=Xingxiang |first2=Qiu |title=西藏定日县地震已致126人遇难、188人受伤|trans-title=The earthquake in Dingri County, Tibet has caused 126 deaths and 188 injuries |url=https://www.stdaily.com/web/gdxw/2025-01/07/content_283628.html |access-date=7 January 2025 |publisher=Xinhua News Agency |work=Science and Technology Daily |date=7 January 2025 |language=zh}}</ref>",
+                      "url": "https://www.stdaily.com/web/gdxw/2025-01/07/content_283628.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"Woo1\">{{cite news |last1=Woo |first1=Ryan |title=China reports problems at five reservoirs in Tibet after earthquake |url=https://www.reuters.com/world/china/china-reports-problems-five-reservoirs-tibet-after-earthquake-2025-01-16/ |access-date=18 January 2025 |work=Reuters |date=16 January 2025}}</ref>",
+                      "url": "https://www.reuters.com/world/china/china-reports-problems-five-reservoirs-tibet-after-earthquake-2025-01-16/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.2.s2",
+                  "text": "In Nepal, 13 people were injured, including 11 in Bara District|Bara, and one each from Kavrepalanchok District|Kavrepalanchok and Kathmandu. Two homes were destroyed, and 12 others and a Nepal Police|police station were damaged across the country. Near the base camp of Mount Everest, a climber on the mountain's Nepalese side saw avalanches. In the Samastipur district of Bihar, India, several homes were slightly damaged. In Bhutan, two avalanches occurred above the Bechung glacier on a mountain in Lunana.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite news |title=भूकम्पका कारण सिन्धुपाल्चोकको फुल्पिङकट्टी चौकीमा क्षति |url=https://www.ratopati.com/story/466461 |access-date=7 January 2025 |publisher=Ratopati |date=7 January 2025 |language=ne}}</ref>",
+                      "url": "https://www.ratopati.com/story/466461",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=Powerful Tibet earthquake kills nearly 100, rattles Nepal |url=https://www.reuters.com/business/environment/china-reports-69-magnitude-earthquake-tibets-shigatse-city-2025-01-07/ |access-date=7 January 2025 |publisher=Reuters |date=7 January 2025 |language=en}}</ref>",
+                      "url": "https://www.reuters.com/business/environment/china-reports-69-magnitude-earthquake-tibets-shigatse-city-2025-01-07/",
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=भूकम्पबाट नेपालमा १३ जना घाइते |url=https://www.nayapatrikadaily.com/news-details/157405/2025-01-07 |access-date=7 January 2025 |publisher=Nayapatrika Daily |date=7 January 2025 |language=ne}}</ref>",
+                      "url": "https://www.nayapatrikadaily.com/news-details/157405/2025-01-07",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref name=\"st1\">{{cite news |title=Urgency mounts in search for survivors of powerful Tibet earthquake |url=https://www.straitstimes.com/asia/east-asia/urgency-mounts-in-search-for-survivors-of-powerful-tibet-earthquake |access-date=8 January 2025 |agency=Reuters |publisher=The Straits Times |date=8 January 2025}}</ref>",
+                      "url": "https://www.straitstimes.com/asia/east-asia/tibet-earthquake-urgency-mounts-in-the-search-for-survivors",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=शौचालय से आई चिटचिटाने की आवाज, बाहर निकला तो दीवारों पर दिखी दरारें, भूकंप के झटकों से दहला बिहार |url=https://hindi.news18.com/news/bihar/samastipur-earthquake-news-today-morning-samastipur-many-house-cracks-appeared-fear-people-local18-8944097.html#goog_rewarded |access-date=7 January 2025 |publisher=News 18 |date=7 January 2025 |language=hi}}</ref>",
+                      "url": "https://hindi.news18.com/news/bihar/samastipur-earthquake-news-today-morning-samastipur-many-house-cracks-appeared-fear-people-local18-8944097.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last1=Lhaden |first1=Yangyel |title=Tibet earthquake triggers avalanches in Lunana |url=https://kuenselonline.com/tibet-earthquake-triggers-avalanches-in-lunana/ |access-date=9 January 2025 |work=Kuensel Online |date=9 January 2025}}</ref>",
+                      "url": "https://kuenselonline.com/tibet-earthquake-triggers-avalanches-in-lunana/",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.2.s3",
+                  "text": "The earthquake was widely felt in much of South Asia. In Kathmandu, about {{cvt|400|km}} from the epicentre, residents fled their homes. Strong shaking was felt near Mount Everest, including Lobuche and Namche, Thimphu in Bhutan, and the North India|northern Indian states of Bihar, Assam, and West Bengal. Shaking was also felt in Dhaka, Bangladesh and other parts of the country.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=Sharma |first=Nonika |date=7 January 2025 |title=95 Dead After 7.1 Magnitude Earthquake Hits Tibet, Tremors Felt In Patna, Guwahati: Highlights |url=https://www.ndtv.com/india-news/earthquake-today-live-updates-tremors-felt-in-patna-guwahati-after-7-1-magnitude-earthquake-in-tibet-7416365 |access-date=7 January 2025 |website=NDTV |language=en}}</ref>",
+                      "url": "https://www.ndtv.com/india-news/earthquake-today-live-updates-tremors-felt-in-patna-guwahati-after-7-1-magnitude-earthquake-in-tibet-7416365",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{Cite web |date=7 January 2025 |title=Major earthquake jolts parts of Bangladesh |url=https://www.dhakatribune.com/bangladesh/370142/major-earthquake-jolts-parts-of-bangladesh |access-date=7 January 2025 |website=Dhaka Tribune |language=en}}</ref>",
+                      "url": "https://www.dhakatribune.com/bangladesh/370142/major-earthquake-jolts-parts-of-bangladesh",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "4.2.s4",
+                  "text": "On 13 January, two aftershocks measuring {{M|s|4.9}} and {{M|s|5.0}} caused some houses to collapse in Tingri County.",
+                  "references": [
+                    {
+                      "text": "<ref name=\"aftershock\"/><ref name=\"w960\">{{cite web | title=定日县6.8级地震｜西藏定日地震72小时余震超1600次-新华网 | website=Xinhua News Agency | date=2025-01-10 | url=http://www.news.cn/20250110/48846c6e8a0b4d01b98cc5c81c397555/c.html | language=zh | access-date=2025-03-18}}</ref>",
+                      "url": "http://www.news.cn/20250110/48846c6e8a0b4d01b98cc5c81c397555/c.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Response",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "]]\nFollowing the earthquake, more than 14,000 rescue personnel, 340 medical workers, 75 vehicles, four search dogs and 7,030 sets of equipment were dispatched to the epicentre. The China Meteorological Administration issued a level-three emergency alert for the area. To prevent further casualties during potential aftershocks, residents were evacuated. Local officials also allocated resources from the transport, water and village administrative departments to aid in rescue efforts. The {{ill|State Council's Earthquake Relief Command|zh|国务院抗震救灾指挥部}} and the Ministry of Emergency Management, in conjunction with the National Food and Strategic Reserves Administration, distributed 22,000 units of centralised relief supplies, including cotton tents, cotton coats, quilts, and folding beds, as well as specialised relief materials for high-cold and high-altitude regions to the affected areas. The national air force also participated in rescue efforts and sent drones to the area. Air cargo, medical services, ground forces, and helicopters of the Western Theater Command Air Force were deployed.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news|title=Hundreds rescued as search for quake survivors continues in Tibet|url=https://dailynews.co.tz/hundreds-rescued-as-search-for-quake-survivors-continues-in-tibet/|date=8 January 2025|access-date=8 January 2025|newspaper=Daily News (Tanzania)|Daily News}}</ref>",
+                  "url": "https://dailynews.co.tz/hundreds-rescued-as-search-for-quake-survivors-continues-in-tibet/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=95 dead, 130 injured in Xizang 6.8-magnitude quake |url=https://english.news.cn/20250107/7dd31fc56f9244e192e51142cd203769/c.html |access-date=7 January 2025 |publisher=Xinhua News Agency |date=7 January 2025 |language=en}}</ref>",
+                  "url": "https://english.news.cn/20250107/7dd31fc56f9244e192e51142cd203769/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"CECN\">{{cite news |title=西藏日喀则6.8级地震救援情况 震中有人员被困 |url=http://www.ce.cn/xwzx/gnsz/gdxw/202501/07/t20250107_39258845.shtml |language=zh |date=7 January 2025 |access-date=7 January 2025 |newspaper=Economic Daily}}</ref>",
+                  "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202501/07/t20250107_39258845.shtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Jiexi |first1=Su |date=7 January 2024 |title=中国气象局启动地震灾害气象服务三级应急响应 |trans-title=China Meteorological Administration launches Level 3 emergency response for earthquake disaster meteorological services |url=https://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xqxyw/202501/t20250107_6777662.html |access-date=7 January 2025 |work=China Meteorological Administration |language=zh}}</ref>",
+                  "url": "https://www.cma.gov.cn/2011xwzx/2011xqxxw/2011xqxyw/202501/t20250107_6777662.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=53 killed after 6.8-magnitude quake hits Xizang |url=https://kathmandupost.com/world/2025/01/07/53-killed-after-6-8-magnitude-quake-hits-xizang |access-date=7 January 2025 |work=Asia News Network |publisher=Kathmandu Post |date=7 January 2025}}</ref>",
+                  "url": "https://kathmandupost.com/world/2025/01/07/53-killed-after-6-8-magnitude-quake-hits-xizang",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"f813\">{{cite web |title=三部门紧急调拨2.2万件中央救灾物资 支援西藏定日县地震救灾救助-新华网 |website=Xinhua News Agency |date=7 January 2025 |url=http://www.news.cn/politics/20250107/79246ff7315a4f54be47f76c2a4e1245/c.html |language=zh |access-date=7 January 2025}}</ref>",
+                  "url": "http://www.news.cn/politics/20250107/79246ff7315a4f54be47f76c2a4e1245/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"Bicker1\">{{cite news |last1=Bicker |first1=Laura |last2=Ewe |first2=Koh |title=Tibet earthquake rescuers search for survivors in freezing temperatures |url=https://www.bbc.com/news/articles/c3rqg95n9n1o |access-date=7 January 2025 |work=BBC News |date=7 January 2025 |archive-date=7 January 2025 |archive-url=https://web.archive.org/web/20250107052106/https://www.bbc.com/news/articles/c3rqg95n9n1o |url-status=live }}</ref>",
+                  "url": "https://www.bbc.com/news/articles/c3rqg95n9n1o",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=西部战区空军无人机起飞！赴震中勘察情况|trans-title=Western Theater Command Air Force drone takes off to investigate the epicenter |url=https://www.cea.gov.cn/cea/dzpd/dzzt/5747821/5747822/5789672/index.html |access-date=7 January 2025 |work=Xinhua News Agency |date=7 January 2025 |language=zh}}</ref>",
+                  "url": "https://www.cea.gov.cn/cea/dzpd/dzzt/5747821/5747822/5789672/index.html",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "5.s2",
+              "text": "Temperatures in the area at the time of the earthquake were estimated to have been {{cvt|-8|C}}, and were expected to fall to {{cvt|-16|C}} by night. The China Center for Resources Satellite Data and Application deployed eight satellites to monitor the area. The Qomolangma National Park|Mount Qomolangma scenic area was temporarily closed and 530 visitors were evacuated.",
+              "references": [
+                {
+                  "text": "<ref name=\"Bicker1\"/> The Western Theater Command of the People's Liberation Army was also mobilised to assist in relief efforts.<ref>{{cite news |title=All-out rescue efforts underway following Xizang 6.8-magnitude quake |url=https://english.news.cn/20250107/23f216440c09469f9e38a899272b5bf8/c.html |access-date=7 January 2025 |publisher=Xinhua News Agency |date=7 January 2025}}</ref>",
+                  "url": "https://english.news.cn/20250107/23f216440c09469f9e38a899272b5bf8/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=China deploys satellites for Xizang 6.8-magnitude quake rescue efforts |url=https://english.news.cn/20250107/3b253cd234e84dd4a5891015cccef93d/c.html |access-date=7 January 2025 |publisher=Xinhua News Agency |date=7 January 2025}}</ref>",
+                  "url": "https://english.news.cn/20250107/3b253cd234e84dd4a5891015cccef93d/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Mount Qomolangma scenic area closed after 6.8-magnitude quake hit Xizang |url=https://english.news.cn/20250107/cec028b6e69c49f2937001e591867ab3/c.html |access-date=7 January 2025 |publisher=Xinhua News Agency |date=7 January 2025}}</ref>",
+                  "url": "https://english.news.cn/20250107/cec028b6e69c49f2937001e591867ab3/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news|title=Powerful earthquake rocks remote region of Tibet and parts of Nepal, killing more than 120|url=https://edition.cnn.com/2025/01/06/china/china-tibet-earthquake-intl-hnk/index.html|access-date=7 January 2025|publisher=CNN|date=7 January 2025|archive-date=7 January 2025|archive-url=https://web.archive.org/web/20250107075408/https://edition.cnn.com/2025/01/06/china/china-tibet-earthquake-intl-hnk/index.html|url-status=live}}</ref>",
+                  "url": "https://edition.cnn.com/2025/01/06/china/china-tibet-earthquake-intl-hnk/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "5.s3",
+              "text": "Xi Jinping, the General Secretary of the Chinese Communist Party, \"ordered all-out rescue efforts\". He urged the relevant bodies to treat the injured, repair damaged infrastructure, and relocate those displaced. The Government of China|Chinese government said it would allocate 100 million yuan ($13.6 million) for disaster relief.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Update: Xi orders all-out rescue efforts following heavy casualties in 6.8-magnitude Xizang quake |url=https://english.news.cn/20250107/d4fe7fceb1d4468bbdb7f77bc82eea16/c.html |access-date=7 January 2025 |publisher=Xinhua News Agency |date=7 January 2025}}</ref>",
+                  "url": "https://english.news.cn/20250107/d4fe7fceb1d4468bbdb7f77bc82eea16/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"ap126\"/> In Nepal, security forces were deployed to areas affected by the earthquake.<ref>{{cite news |title=Powerful earthquake kills more than 50 in Tibet |url=https://www.france24.com/en/asia-pacific/20250107-earthquake-tiibet-shigatse |access-date=7 January 2025 |publisher=France 24 |date=7 January 2025}}</ref>",
+                  "url": "https://www.france24.com/en/asia-pacific/20250107-earthquake-tiibet-shigatse",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "5.s4",
+              "text": "At 14:00 on 7 January, 30 officers and soldiers from the People's Armed Police|People's Armed Police Tibet Corps arrived in the earthquake-affected region of Shigatse, while 359 other officers and soldiers hastened to the disaster zone. By the evening, China Central Television reported that more than 400 people were rescued, 14 housing areas were established, and at least 30,400 were relocated. All damaged roads were also reopened. The initial consignment of over 5,800 cotton tents, garments, quilts, and other central relief supplies has reached the earthquake-affected regions of Tingri County, while the remaining more than 16,000 central relief items arrived in the disaster-impacted areas on 8 January. More than 748,000 tonnes of food aid were also delivered.",
+              "references": [
+                {
+                  "text": "<ref name=\"h811\">{{cite web |title=武警西藏总队先头救援力量已抵达震区-新华网 |website=Xinhua News Agency |date=7 January 2025 |url=http://www.news.cn/politics/20250107/89ba5b32e5c244e0ab368a91a271d26d/c.html |language=zh |access-date=7 January 2025}}</ref>",
+                  "url": "http://www.news.cn/politics/20250107/89ba5b32e5c244e0ab368a91a271d26d/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref name=\"z971\">{{cite web |title=武警西藏总队先头救援力量已抵达震区 |website=ce |date=7 January 2025 |url=http://www.ce.cn/xwzx/gnsz/gdxw/202501/07/t20250107_39259007.shtml |language=zh |access-date=7 January 2025}}</ref>",
+                  "url": "http://www.ce.cn/xwzx/gnsz/gdxw/202501/07/t20250107_39259007.shtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Qin |first1=Chen |title=西藏定日县地震已致126人遇难 188人受伤|trans-title=The earthquake in Dingri County, Tibet has caused 126 deaths and 188 injuries |url=http://www.ce.cn/xwzx/shgj/gdxw/202501/07/t20250107_39259301.shtml |access-date=7 January 2025 |work=China Central Television |publisher=Economic Daily |date=7 January 2025 |language=zh}}</ref>",
+                  "url": "http://www.ce.cn/xwzx/shgj/gdxw/202501/07/t20250107_39259301.shtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"i056\">{{cite web | title=首批中央救灾物资已运抵西藏日喀则地震灾区-中新网 | website=China News Service| date=7 January 2025 | url=https://www.chinanews.com.cn/sh/2025/01-07/10349272.shtml | language=zh | access-date=7 January 2025}}</ref>",
+                  "url": "https://www.chinanews.com.cn/sh/2025/01-07/10349272.shtml",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news |title=China ensures supply of daily necessities in quake-hit areas in Xizang |url=https://english.news.cn/20250109/9068b659fec4409c82149a35285eb0d7/c.html |access-date=10 January 2025 |publisher=Xinhua News Agency |date=9 January 2025 |language=en}}</ref>",
+                  "url": "https://english.news.cn/20250109/9068b659fec4409c82149a35285eb0d7/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            },
+            {
+              "id": "5.s5",
+              "text": "On 9 January, authorities concluded the first round of the search while prioritizing the displaced, Missing numbers were expected but unknown, but experts believed that the chances of survival for those still trapped in the high-elevation and harsh environment were very slim after 48 hours due to hypothermia. The second round of the search was initiated on 9 January. Authorities opened the La'ang Reservoir in Changsuo Township in Tingri County as a precaution, resulting in the evacuation of 1,500 people from six villages downstream. By 31 January, 7,733 makeshift houses and 9,941 tents had been built to house 47,787 affected residents.",
+              "references": [
+                {
+                  "text": "<ref name=\"reuter_0109\"/> which grew to 61,500 people.<ref name=\"cna1\">{{cite news |title=西藏強震災民增至6.15萬 3612間房屋倒塌|trans-title=Tibet earthquake victims increase to 61500, 3612 houses collapsed |url=https://www.worldjournal.com/wj/story/121474/8480437 |access-date=9 January 2025 |work=Central News Agency |date=9 January 2025 |language=zh}}</ref>",
+                  "url": "https://www.worldjournal.com/wj/story/121474/8480437",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"reuter_0109\">{{cite news |last1=Cash |first1=Joe |last2=Woo |first2=Ryan |title=Search widens for Tibet quake survivors as tens of thousands moved to shelters |url=https://www.reuters.com/business/environment/focus-shifts-tibet-earthquake-survivors-search-called-off-2025-01-09/ |access-date=9 January 2025 |website=Reuters |date=9 January 2025}}</ref>",
+                  "url": "https://www.reuters.com/business/environment/focus-shifts-tibet-earthquake-survivors-search-called-off-2025-01-09/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=China Focus: Tibetans hit by 6.8-magnitude quake kept warm, reservoir risks stemmed |url=https://english.news.cn/20250116/5cb762527f294c169559ed9b13ca4daf/c.html |access-date=16 January 2025 |publisher=Xinhua News Agency |date=16 January 2025 |language=en}}</ref>",
+                  "url": "https://english.news.cn/20250116/5cb762527f294c169559ed9b13ca4daf/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=China's Xizang completes transitional housing for quake-affected residents |url=https://english.news.cn/20250131/4c8e940f8c804b9f8536a196e224f84b/c.html |access-date=31 January 2025 |publisher=Xinhua News Agency |date=1 February 2025 |language=en}}</ref>",
+                  "url": "https://english.news.cn/20250131/4c8e940f8c804b9f8536a196e224f84b/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Reactions",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "The 11th Panchen Lama, Gyaincain Norbu, held a donation drive with around 900 monks from Tashi Lhunpo Monastery in Shigatse that raised nearly 1.5 million yuan ($208,660). Pieces of Generative artificial intelligence|AI-generated images circulated on Chinese social media, and one netizen from Qinghai was placed in Administrative detention#China|administrative detention for spreading AI image misinformation.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Panchen Rinpoche makes donation for quake-hit area in Xizang |url=https://english.news.cn/20250108/12daef20e290424da124c7cd21b9a5a1/c.html |access-date=16 January 2025 |work=Xinhua News Agency |date=8 January 2025}}</ref>",
+                  "url": "https://english.news.cn/20250108/12daef20e290424da124c7cd21b9a5a1/c.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://www.zaobao.com.sg/realtime/china/story20250111-5718285|title=用灾害博流量\"小男孩被埋图\"涉案网民被行拘|date=January 11, 2025|work=Lianhe Zaobao|language=zh-hans}}</ref>",
+                  "url": "https://www.zaobao.com.sg/realtime/china/story20250111-5718285",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "6.s2",
+              "text": "The 14th Dalai Lama, Tibet's exiled spiritual leader, said he was \"deeply saddened\" over the earthquake and offered prayers for the victims. He held a memorial service for the victims in India's Karnataka state on 9 January, while members of the Tibetan community also held a candle-light vigil in Dharamsala.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Dalai Lama 'Deeply Saddened' By Tibet Earthquake Deaths |url=https://www.barrons.com/news/dalai-lama-deeply-saddened-by-tibet-earthquake-deaths-5a6f994f |access-date=7 January 2025 |publisher=Barron's |date=7 January 2025}}</ref>",
+                  "url": "https://www.barrons.com/news/dalai-lama-deeply-saddened-by-tibet-earthquake-deaths-5a6f994f",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |title=Dalai Lama offers prayers for Tibet earthquake victims |url=https://www3.nhk.or.jp/nhkworld/en/news/20250109_18/ |access-date=16 January 2025 |work=NHK |date=9 January 2025}}</ref>",
+                  "url": "https://www3.nhk.or.jp/nhkworld/en/news/20250109_18/",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref name=\"uca\">{{cite news |title=Dalai Lama urges compassion, solidarity after Tibet quake |url=https://www.ucanews.com/news/dalai-lama-urges-compassion-solidarity-after-tibet-quake/107523 |access-date=16 January 2025 |work=UCA News |date=8 January 2025}}</ref>",
+                  "url": "https://www.ucanews.com/news/dalai-lama-urges-compassion-solidarity-after-tibet-quake/107523",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "See also",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "References",
+      "content": [
+        {
+          "id": "8.1",
+          "title": "Notes",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Citations",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "External links",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

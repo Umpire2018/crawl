@@ -1,10 +1,13 @@
-from pathlib import Path
-from models import DocPage, DocSection, DocBlock
-from pydantic import BaseModel
-from typing import List, Union
 import json
-from loguru import logger
 import re
+from pathlib import Path
+from typing import List, Union
+
+from loguru import logger
+from pydantic import BaseModel
+
+from models import DocBlock, DocPage, DocSection
+
 
 class DocSentenceProcessed(BaseModel):
     """Represents a sentence after processing references to a list of strings."""
@@ -58,9 +61,11 @@ def transform_content(content) -> Union[DocSectionProcessed, DocBlockProcessed, 
                     r"<ref[^>]*?/>|\{\{clear\}\}|\{\{Main.*?\|.*?\}\}",
                     "",
                     sentence.text,
-                    flags=re.DOTALL
+                    flags=re.DOTALL,
                 ).strip(),
-                references=[ref.url for ref in sentence.references if ref.status_code == 200],
+                references=[
+                    ref.url for ref in sentence.references if ref.status_code == 200
+                ],
             )
             for sentence in content.sentences
             if any(ref.status_code == 200 for ref in sentence.references)
@@ -94,7 +99,7 @@ def reorder_subsection_ids(section: DocSectionProcessed, parent_id: str):
                 sentence.id = f"{parent_id}.s{sentence_index}"  # ✅ Reorder sentences
 
 
-def process_page(page: DocPage) -> DocPageProcessed:
+def transform_page(page: DocPage) -> DocPageProcessed:
     """Processes an entire document page, applying transformations, removals, and ID reordering."""
     processed_sections = [transform_content(section) for section in page.content]
     processed_sections = [
@@ -109,53 +114,42 @@ def process_page(page: DocPage) -> DocPageProcessed:
     return processed_page
 
 
-def process_single_file(input_file: Path, output_dir: Path):
-    """
-    Processes a single JSON file, transforms content, and saves the result to `final/`.
-    """
-    output_file = output_dir / (input_file.stem.replace("_url_test", "") + ".json")
-
-    # **Avoid reprocessing already completed files**
-    if output_file.exists():
-        logger.info(
-            f"📌 Skipping {input_file.name} (already processed as {output_file.name})"
-        )
-        return
-
-    # Read JSON file
-    with open(input_file, "r", encoding="utf-8") as f:
-        doc_json = json.load(f)
-
-    # Parse JSON into DocPage model
-    doc_page = DocPage.model_validate(doc_json)
-
-    # Process content structure
-    processed_page = process_page(doc_page)
-
-    # Save transformed JSON
-    with open(output_file, "w", encoding="utf-8") as fw:
-        json.dump(processed_page.model_dump(), fw, indent=2, ensure_ascii=False)
-
-    logger.success(f"✅ Processed and saved: {output_file}")
-
-
-def process_json_files(
-    input_dir: Path = Path("processed"), output_dir: Path = Path("final")
+def transform_json_files(
+    source_dir: Path = Path("processed"), target_dir: Path = Path("final")
 ):
-    output_dir.mkdir(parents=True, exist_ok=True)  # Ensure output directory exists
+    target_dir.mkdir(parents=True, exist_ok=True)  # Ensure target directory exists
 
-    input_files = list(input_dir.glob("*url_test.json"))
+    json_files = list(source_dir.glob("*.json"))
 
-    if not input_files:
-        logger.warning("❌ No JSON files found in input directory.")
+    if not json_files:
+        logger.warning("❌ No JSON files found in source directory.")
         return
 
-    for input_file in input_files:
-        process_single_file(input_file, output_dir)
+    for file_path in json_files:
+        output_path = target_dir / file_path.name
 
-    logger.info("✅ Finished processing all JSON files.")
+        if output_path.exists():
+            continue
+
+        # Read JSON file
+        with open(file_path, "r", encoding="utf-8") as input_file:
+            page_data = json.load(input_file)
+
+        # Parse JSON into DocPage model
+        doc_page = DocPage.model_validate(page_data)
+
+        # Transform page content
+        transformed_page = transform_page(doc_page)
+
+        # Save transformed JSON
+        with open(output_path, "w", encoding="utf-8") as output_file:
+            json.dump(
+                transformed_page.model_dump(), output_file, indent=2, ensure_ascii=False
+            )
+
+    logger.info("✅ Finished transforming all JSON files.")
 
 
 # Example execution
 if __name__ == "__main__":
-    process_json_files()
+    transform_json_files()

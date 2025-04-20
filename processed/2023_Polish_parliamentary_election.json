@@ -1,0 +1,854 @@
+{
+  "title": "2023_Polish_parliamentary_election",
+  "content": [
+    {
+      "id": "1",
+      "title": "Preface",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "1.s1",
+              "text": "The United Right (Poland)|United Right alliance placed first for the third straight election and won a plurality of seats but fell short of a Sejm majority. The opposition, consisting of the Civic Coalition (Poland)|Civic Coalition, Third Way (Poland)|Third Way, and The Left (Poland)|The Left, achieved a combined total vote of 54%, managing to form a majority coalition government. In the Senate, the opposition electoral alliance Senate Pact 2023 won a plurality of the vote and a majority of seats. Voter turnout was 74.4%, the highest in contested elections and the highest since the fall of the communist Polish People's Republic, beating previous records set in 1989 and 2019.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |date=15 October 2023 |title=Opposition wins Polish election, according to exit poll |url=https://www.politico.eu/article/opposition-wins-polish-election-according-to-exit-poll-poland-kaczynski-duda-tusk-election-rule-of-law/ |access-date=15 October 2023 |website=POLITICO |archive-date=15 October 2023 |archive-url=https://web.archive.org/web/20231015191532/https://www.politico.eu/article/opposition-wins-polish-election-according-to-exit-poll-poland-kaczynski-duda-tusk-election-rule-of-law/ |url-status=live}}</ref>",
+                  "url": "https://www.politico.eu/article/opposition-wins-polish-election-according-to-exit-poll-poland-kaczynski-duda-tusk-election-rule-of-law/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |last=Picheta |first=Rob |date=15 October 2023 |title=Poland's opposition has path to oust populist ruling party, exit poll shows |url=https://www.cnn.com/2023/10/15/europe/poland-election-voting-intl/index.html |access-date=15 October 2023 |publisher=CNN |archive-date=15 October 2023 |archive-url=https://web.archive.org/web/20231015152206/https://www.cnn.com/2023/10/15/europe/poland-election-voting-intl/index.html |url-status=live}}</ref>",
+                  "url": "https://edition.cnn.com/2023/10/15/europe/poland-election-voting-intl/index.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Background",
+      "content": [
+        {
+          "sentences": []
+        },
+        {
+          "id": "2.2",
+          "title": "2019 Polish parliamentary election",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.2.s1",
+                  "text": "{{further|2019 Polish parliamentary election|Second Cabinet of Mateusz Morawiecki}}\nThe 2019 parliamentary election saw a record high turnout, with over 60% of registered electors participating. It also saw the centre-left, in the form of The Left (Poland)|Lewica, entering the Sejm after four years on the outside looking in. Conversely, the Far-right politics in Poland|far right united under the Confederation Liberty and Independence|Konfederacja (Kon) banner to enter one of the two chambers of parliament for the first time since the 2005 elections.",
+                  "references": [
+                    {
+                      "text": "<ref name=BBC>{{cite web|title=Poland election: Ruling Law and Justice party win poll|date=14 October 2019|url=https://www.bbc.co.uk/news/world-europe-50037654|work=BBC News|access-date=15 October 2023|archive-date=19 July 2023|archive-url=https://web.archive.org/web/20230719195831/https://www.bbc.co.uk/news/world-europe-50037654|url-status=live}}</ref>",
+                      "url": "https://www.bbc.co.uk/news/world-europe-50037654",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.2.s2",
+                  "text": "Right-wing politics|Right-wing parties, coalesced around the ruling National conservatism|national-conservative Law and Justice (Poland)|Law and Justice (PiS) within the United Right (Poland)|United Right (ZP) alliance, won the highest percentage of votes ever received since the complete return to democracy in 1991 Polish parliamentary election|1991, maintaining their majority in the Sejm, but losing it in the Senate of Poland|Senate. The PiS party president, Jarosław Kaczyński, thus saw his position as the country's strongman strengthened, despite occupying no governmental position. This result saw the second reelection of a majority government since the fall of the Eastern Bloc. Despite not defeating PiS, the main opposition party, the Liberalism in Poland|liberal Civic Platform (PO), itself within the Civic Coalition (Poland)|Civic Coalition (KO) alliance, progressed in the senate, though without winning a majority of seats on its own. The opposition altogether did win a majority of seats in the senate, thanks to Lewica, the Polish Coalition (PSL) and independent candidates' gains.",
+                  "references": [
+                    {
+                      "text": "<ref name=BBC/><ref name=WaPo>{{cite news|url=https://www.washingtonpost.com/politics/2019/10/18/polands-parliament-is-now-divided-what-does-this-mean-ruling-law-justice-party/|first1=Mary|last1=Stegmaier|first2=Kamil|last2=Marcinkiewicz|title=Poland's Parliament is now divided. What does this mean for the ruling Law and Justice party?|newspaper=The Washington Post |date=18 October 2019|access-date=15 October 2023|archive-date=13 March 2022|archive-url=https://web.archive.org/web/20220313173527/https://www.washingtonpost.com/politics/2019/10/18/polands-parliament-is-now-divided-what-does-this-mean-ruling-law-justice-party/|url-status=live}}</ref>",
+                      "url": "https://www.washingtonpost.com/politics/2019/10/18/polands-parliament-is-now-divided-what-does-this-mean-ruling-law-justice-party/",
+                      "status_code": null,
+                      "reason": "Timeout",
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.2.s3",
+                  "text": "One month after the vote, the incumbent Prime Minister of Poland|Prime Minister, Mateusz Morawiecki, formed his second government. Its composition showed the so-called \"moderate\" right strengthened, which Morawiecki was part of, alongside a weakening of the \"radical\" right, led by the Ministry of Justice (Poland)|Justice minister Zbigniew Ziobro. This strategy was mainly to appeal to the more moderate electorate for the 2020 Polish presidential election. Morawiecki's government received the Sejm's confidence on 19 November with 237 votes for, 214 against and three abstentions.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |language=fr |first=Jakub |last=Iwaniuk |title=En Pologne, l'opposition conquiert le Sénat et freine la \" révolution conservatrice \" du PiS |trans-title=In Poland, the opposition wins the Senate and slows PiS' \"conservative revolution\" |work=Le Monde |date=14 November 2019 |url=https://www.lemonde.fr/international/article/2019/11/14/en-pologne-l-opposition-conquiert-le-senat-et-freine-la-revolution-conservatrice-du-pis_6019165_3210.html |access-date=15 October 2023 |archive-date=1 June 2023 |archive-url=https://web.archive.org/web/20230601160102/https://www.lemonde.fr/international/article/2019/11/14/en-pologne-l-opposition-conquiert-le-senat-et-freine-la-revolution-conservatrice-du-pis_6019165_3210.html |url-status=live}}</ref>",
+                      "url": "https://www.lemonde.fr/international/article/2019/11/14/en-pologne-l-opposition-conquiert-le-senat-et-freine-la-revolution-conservatrice-du-pis_6019165_3210.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |title=Our goal is Polish prosperity state: PM |work=Telewizja Polska |date=19 November 2019 |url=https://polandin.com/45397689/our-goal-is-polish-prosperity-state-pm |access-date=15 October 2023 |archive-date=1 October 2020 |archive-url=https://web.archive.org/web/20201001124027/https://polandin.com/45397689/our-goal-is-polish-prosperity-state-pm |url-status=live}}</ref>",
+                      "url": "https://polandin.com/45397689/our-goal-is-polish-prosperity-state-pm",
+                      "status_code": null,
+                      "reason": "Cannot connect to host polandin.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)')]",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |title=New government receives vote of confidence |work=Telewizja Polska |date=20 November 2019 |url=https://polandin.com/45413891/new-government-receives-vote-of-confidence |access-date=15 October 2023 |archive-date=26 June 2020 |archive-url=https://web.archive.org/web/20200626232312/https://polandin.com/45413891/new-government-receives-vote-of-confidence |url-status=live}}</ref>",
+                      "url": "https://polandin.com/45413891/new-government-receives-vote-of-confidence",
+                      "status_code": null,
+                      "reason": "Cannot connect to host polandin.com:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)')]",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.3",
+          "title": "2020 presidential election",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.3.s1",
+                  "text": "{{further|2020 Polish presidential election}}\nThe 2020 presidential election saw the reelection of incumbent President of Poland|president Andrzej Duda, a former member of Law and Justice (Poland)|Law and Justice. Originally planned in May, the elections were very affected by the then ongoing COVID-19 pandemic in Poland|COVID-19 pandemic. The government's proposal to maintain the election in May but only through postal votes launched a strong polemic, with the opposition denouncing the unequal campaigning capacities of the incumbent president compared to other candidates within the context of the lockdown and quarantine measures. The election was then postponed to late June following a compromise within the ruling coalition and the opposition's approval, partly thanks to the latter's control of the Senate.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web |last=jk/pap |date=2015-05-26 |title=Andrzej Duda zrzekł się członkostwa w PiS |url=https://www.newsweek.pl/polska/andrzej-duda-zrzekl-sie-czlonkostwa-w-pis/3cnddk4 |access-date=2024-10-12 |website=Newsweek |language=pl}}</ref>",
+                      "url": "https://www.newsweek.pl/polska/andrzej-duda-zrzekl-sie-czlonkostwa-w-pis/3cnddk4",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref name=LaCroix>{{cite news |first=Jean-Baptiste |last=François |language=fr |title=En Pologne, la controverse du maintien de l'élection présidentielle |url=https://www.la-croix.com/Monde/Europe/En-Pologne-controverse-maintien-lelection-presidentielle-2020-03-27-1201086406 |work=la-croix.com |date=27 March 2020 |access-date=15 October 2023 |archive-date=11 April 2023 |archive-url=https://web.archive.org/web/20230411134646/https://www.la-croix.com/Monde/Europe/En-Pologne-controverse-maintien-lelection-presidentielle-2020-03-27-1201086406 |url-status=live}}</ref>",
+                      "url": "https://www.la-croix.com/Monde/Europe/En-Pologne-controverse-maintien-lelection-presidentielle-2020-03-27-1201086406",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.3.s2",
+                  "text": "Despite the pandemic, both rounds of voting saw higher turnouts, with Duda facing the Mayor of Warsaw|Mayor of Warsaw, Rafał Trzaskowski, a member of Civic Platform. Duda beat Trzaskowski, gathering 51% of the votes against the latter's 49%. These results were the most closely fought presidential elections since the return of democracy.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web|url=https://www.theguardian.com/world/2020/jul/13/incumbent-andrzej-duda-wins-polish-presidential-election-commission|title=Duda narrowly re-elected in Poland in boost for ruling nationalists|first=Shaun|last=Walker|work=The Guardian|date=13 July 2020|access-date=15 October 2023|archive-date=15 May 2023|archive-url=https://web.archive.org/web/20230515112714/https://www.theguardian.com/world/2020/jul/13/incumbent-andrzej-duda-wins-polish-presidential-election-commission|url-status=live}}</ref>",
+                      "url": "https://www.theguardian.com/world/2020/jul/13/incumbent-andrzej-duda-wins-polish-presidential-election-commission",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.3.s3",
+                  "text": "Duda's victory allows PiS take advantage from his presidential veto in case of an opposition victory in the legislative elections, with the opposition needing a three-fifths majority, which currently amounts to 276 seats, to override one.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |language=pl |title=Konwencja PO. Budka proponuje Koalicję 276. \"Tyle głosów potrzebnych do przejęcia władzy\" |trans-title=PO Convention, Budka proposes a coalition for 276: \"so many votes will be needed to get in power\" |url=https://wiadomosci.gazeta.pl/wiadomosci/7,114884,26762104,konwencja-po-276-glosow-potrzebnych-do-przejecia-wladzy.html |website=gazetapl |date=6 February 2021 |access-date=15 October 2023 |archive-date=19 July 2023 |archive-url=https://web.archive.org/web/20230719173530/https://wiadomosci.gazeta.pl/wiadomosci/7,114884,26762104,konwencja-po-276-glosow-potrzebnych-do-przejecia-wladzy.html |url-status=live}}</ref>",
+                      "url": "https://wiadomosci.gazeta.pl/wiadomosci/7,114884,26762104,konwencja-po-276-glosow-potrzebnych-do-przejecia-wladzy.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2.4",
+          "title": "2023 Polish protests",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "2.4.s1",
+                  "text": "{{main|2023 Polish protests}}\nIn May 2023, a law previously passed by the Sejm with the votes of the governing parties came into force, which provides for the establishment of a commission that can, without a court order, exclude politicians from public office for a period of ten years if, in their opinion, the politician was influenced by Russian interests. According to the law, the commission must examine whether this applies to Polish government politicians from 2007 (after PiS' defeat in the 2007 Polish parliamentary election|2007 election). According to critics, the law could have been used as an instrument to prohibit selected opposition politicians from taking part in the parliamentary elections. Polish media therefore spoke of a \"Lex Tusk\" – a law aimed at the opposition leader and former prime minister Donald Tusk (2007–2014), who could have been excluded from the parliamentary elections in October 2023 as the potentially most promising opposition candidate. PiS party circles repeatedly accused Tusk of making Poland dependent on energy imports from Russia during his term as head of government. The law drew strong criticism from the United States and the European Union, which expressed concern that the law jeopardized freedom and fairness in elections in Poland. President Duda then softened the law by introducing an amendment to the Sejm on 2 June 2023, which deprived the proposed commission of the previously planned right to impose a ban on political activity.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |url=https://www.tagesschau.de/ausland/europa/polen-gesetz-duda-100.html |title=Polen: Duda unterschreibt umstrittenes Gesetz zu Einflussnahme |work=tagesschau.de |date=29 May 2023 |language=de |access-date=30 May 2023 |archive-date=25 September 2023 |archive-url=https://web.archive.org/web/20230925150417/https://www.tagesschau.de/ausland/europa/polen-gesetz-duda-100.html |url-status=live}}</ref>",
+                      "url": "https://www.tagesschau.de/ausland/europa/polen-gesetz-duda-100.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url=https://www.tagesschau.de/ausland/europa/polen-protest-pis-100.html |title=Massenprotest gegen polnische Regierung |language=de |access-date=4 June 2023 |archive-date=25 September 2023 |archive-url=https://web.archive.org/web/20230925200421/https://www.tagesschau.de/ausland/europa/polen-protest-pis-100.html |url-status=live}}</ref>",
+                      "url": "https://www.tagesschau.de/ausland/europa/polen-protest-pis-100.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web|url=https://p.dw.com/p/4S7X2|title=Polens Präsident Andrzej Duda gibt klein bei|work=Deutsche Welle|date=2 June 2023|access-date=5 June 2023|language=de|archive-date=18 October 2023|archive-url=https://web.archive.org/web/20231018131550/https://www.dw.com/de/polens-pr%C3%A4sident-andrzej-duda-gibt-klein-bei/a-65807484|url-status=live}}</ref>",
+                      "url": "https://www.dw.com/de/polens-pr%C3%A4sident-andrzej-duda-gibt-klein-bei/a-65807484",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "2.4.s2",
+                  "text": "On 4 June 2023 (the anniversary of the 1989 Polish parliamentary election|first partially free elections in Poland in 1989) according to organizers, citing the city administration, half a million people took part in a \"Great March for Democracy\" organized by Tusk's Civic Platform in Warsaw to protest against the law. There were also protests with tens of thousands of participants in other cities, including Krakow, Szczecin and Częstochowa. The demonstration in Warsaw was joined by numerous civil rights movements, the Civic Platform spoke of the largest demonstration in Poland's history since the fall of communism in 1989. The protest march through the center of Warsaw was also led by the former Polish President Lech Wałęsa.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |author=Viktoria Großmann |url=https://www.sueddeutsche.de/politik/polen-donald-tusk-pis-1.5900446 |title=500000 Menschen protestieren gegen Polens Regierung |date=4 June 2023 |language=de |access-date=4 June 2023 |archive-date=5 June 2023 |archive-url=https://web.archive.org/web/20230605081645/https://www.sueddeutsche.de/politik/polen-donald-tusk-pis-1.5900446 |url-status=live}}</ref>",
+                      "url": "https://www.sueddeutsche.de/politik/polen-donald-tusk-pis-proteste-1.5900446",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite news |title=\"Europa, wir entschuldigen uns für die PiS\": Zehntausende demonstrieren in Warschau gegen Polens Regierung |newspaper=Der Tagesspiegel Online |issn=1865-2263 |url=https://www.tagesspiegel.de/internationales/europa-wir-entschuldigen-uns-fur-die-pis-zehntausende-demonstrieren-in-warschau-gegen-polens-regierung-9926291.html |access-date=4 June 2023 |language=de |archive-date=20 September 2023 |archive-url=https://web.archive.org/web/20230920004343/https://www.tagesspiegel.de/internationales/europa-wir-entschuldigen-uns-fur-die-pis-zehntausende-demonstrieren-in-warschau-gegen-polens-regierung-9926291.html |url-status=live}}</ref>",
+                      "url": "https://www.tagesspiegel.de/internationales/europa-wir-entschuldigen-uns-fur-die-pis-zehntausende-demonstrieren-in-warschau-gegen-polens-regierung-9926291.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url=https://www.stern.de/politik/ausland/demonstrationen--protest-in-warschau-gegen-polens-regierung--33527534.html |title=Protest in Warschau gegen Polens Regierung |date=4 June 2023 |language=de |access-date=4 June 2023 |archive-date=4 June 2023 |archive-url=https://web.archive.org/web/20230604170156/https://www.stern.de/politik/ausland/demonstrationen--protest-in-warschau-gegen-polens-regierung--33527534.html |url-status=live}}</ref>",
+                      "url": "https://www.stern.de/politik/ausland/demonstrationen--protest-in-warschau-gegen-polens-regierung--33527534.html",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Electoral system",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "3.s1",
+              "text": "{{Further|Elections in Poland}}\nThe President of Poland set the election day to be Sunday, 15 October 2023. This date was consistent with requirements posed in Article 98 Section 2 of the Constitution of Poland|Polish Constitution, whereby the election is to take place within the final 30 days of the 9th term Sejm and 10th term Senate of Poland|current term of Parliament (ending 11 November 2023). The vote ought to be held on a non-working day – a Sunday or a Public holidays in Poland|public holiday. Other possible dates included 22 October, 29 October, All Saints' Day#Poland|1 November, 5 November and National Independence Day (Poland)|11 November.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |title=Prezydent: podjąłem decyzję o zarządzeniu wyborów do Sejmu i Senatu na dzień 15 października 2023 roku |url=https://www.pap.pl/aktualnosci/news%2C1606184%2Cprezydent-podjalem-decyzje-o-zarzadzeniu-wyborow-do-sejmu-i-senatu-na |access-date=10 August 2023 |website=Polska Agencja Prasowa SA |language=pl |archive-date=9 August 2023 |archive-url=https://web.archive.org/web/20230809071130/https://www.pap.pl/aktualnosci/news,1606184,prezydent-podjalem-decyzje-o-zarzadzeniu-wyborow-do-sejmu-i-senatu-na |url-status=live}}</ref>",
+                  "url": "https://www.pap.pl/aktualnosci/news,1606184,prezydent-podjalem-decyzje-o-zarzadzeniu-wyborow-do-sejmu-i-senatu-na",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |url=https://polityka.se.pl/wiadomosci/wybory-2023-cztery-mozliwe-terminy-wyjasniamy-kiedy-wybory-parlamentarne-2023-moga-sie-odbyc-02-02-aa-FJMa-bZd5-BzER.html |title=Znamy cztery daty, kiedy wybory 2023 mogą się odbyć. \"Decyzję podejmie prezydent\" |access-date=2 February 2023 |archive-date=4 February 2023 |archive-url=https://web.archive.org/web/20230204025140/https://polityka.se.pl/wiadomosci/wybory-2023-cztery-mozliwe-terminy-wyjasniamy-kiedy-wybory-parlamentarne-2023-moga-sie-odbyc-02-02-aa-FJMa-bZd5-BzER.html |url-status=live}}</ref>",
+                  "url": "https://polityka.se.pl/wiadomosci/wybory-2023-cztery-mozliwe-terminy-wyjasniamy-kiedy-wybory-parlamentarne-2023-moga-sie-odbyc-02-02-aa-FJMa-bZd5-BzER.html",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s2",
+              "text": "The process of election for the Sejm is through party-list proportional representation via the D'Hondt method in multi-seat constituency|constituencies, with a 5% threshold for single party (KW) and citizen committees (KWW) and an 8% threshold for coalitions (KKW). National minority committees, such as the German minority in Poland|German minority, can apply to be exempt from the nation-wide threshold, and in such case participate in the d'Hondt seat distribution within their constituency, in this specific case 21st electoral district for the Sejm of the Republic of Poland|Opole, regardless of the national share of votes. Contrary to popular belief, minority committees are <em>not</em> guaranteed seats in the parliament.",
+              "references": [
+                {
+                  "text": "<ref name=\"electionresources\">{{cite web |url=http://electionresources.org/pl/ |title=Election Resources on the Internet: Elections to the Polish Sejm, Part I |publisher=electionresources.org |access-date=3 August 2014 |archive-date=24 February 2021 |archive-url=https://web.archive.org/web/20210224021334/http://electionresources.org/pl/ |url-status=live}}</ref>",
+                  "url": "http://electionresources.org/pl/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |url=https://demagog.org.pl/wypowiedzi/jaki-jest-prog-wyborczy-dla-mniejszosci-narodowych/ |title=Jaki jest próg wyborczy dla mniejszości narodowych? |date=1 February 2023 |language=pl |website=demagog.org.pl |access-date=31 October 2023 |archive-date=31 October 2023 |archive-url=https://web.archive.org/web/20231031170035/https://demagog.org.pl/wypowiedzi/jaki-jest-prog-wyborczy-dla-mniejszosci-narodowych/ |url-status=live }}</ref>",
+                  "url": "https://demagog.org.pl/wypowiedzi/jaki-jest-prog-wyborczy-dla-mniejszosci-narodowych/",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |last1=Ogiolda |first1=Krzysztof |title=Mniejszość niemiecka bez reprezentacji w Sejmie. Tego jeszcze nie było |url=https://opolska360.pl/mniejszosc-niemiecka-bez-reprezentacji-w-sejmie-tego-jeszcze-nie-bylo/ |website=Opolska360 |access-date=28 October 2023 |language=pl-PL |date=16 October 2023 |archive-date=28 October 2023 |archive-url=https://web.archive.org/web/20231028141523/https://opolska360.pl/mniejszosc-niemiecka-bez-reprezentacji-w-sejmie-tego-jeszcze-nie-bylo/ |url-status=live }}</ref>",
+                  "url": "https://opolska360.pl/mniejszosc-niemiecka-bez-reprezentacji-w-sejmie-tego-jeszcze-nie-bylo",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "3.s3",
+              "text": "Senate of Poland|Senators are elected by First-past-the-post voting|first-past-the-post method in List of constituencies for the Senate of the Republic of Poland|100 constituencies. Most of the opposition (Civic Coalition, New Left and Third Way) signed a so-called ''Senate Pact 2023|senate pact'', under which the parties agreed to enter one commonly accepted candidate in each district. This strategy has previously granted them 51 seats despite losing the Sejm.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |date=28 February 2023 |title=Opozycja zawarła pakt senacki. Co to konkretnie oznacza? |url=https://www.polityka.pl/tygodnikpolityka/kraj/2203490,1,opozycja-zawarla-pakt-senacki-co-to-konkretnie-oznacza.read |access-date=10 August 2023 |website=www.polityka.pl |language=pl |archive-date=10 August 2023 |archive-url=https://web.archive.org/web/20230810230359/https://www.polityka.pl/tygodnikpolityka/kraj/2203490,1,opozycja-zawarla-pakt-senacki-co-to-konkretnie-oznacza.read |url-status=live}}</ref>",
+                  "url": "https://www.polityka.pl/tygodnikpolityka/kraj/2203490,1,opozycja-zawarla-pakt-senacki-co-to-konkretnie-oznacza.read",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web |date=25 July 2023 |title=Pakt senacki. Politycy opozycji mają \"postawić kropkę nad i\" |url=https://wiadomosci.onet.pl/kraj/pakt-senacki-politycy-opozycji-maja-postawic-kropke-nad-i/pd3n15r |access-date=10 August 2023 |website=Onet Wiadomości |language=pl |archive-date=10 August 2023 |archive-url=https://web.archive.org/web/20230810230626/https://wiadomosci.onet.pl/kraj/pakt-senacki-politycy-opozycji-maja-postawic-kropke-nad-i/pd3n15r |url-status=live}}</ref>",
+                  "url": "https://wiadomosci.onet.pl/kraj/pakt-senacki-politycy-opozycji-maja-postawic-kropke-nad-i/pd3n15r",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Lists",
+      "content": [
+        {
+          "id": "4.1",
+          "title": "Electoral committees registered in all constituencies",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.1.s1",
+                  "text": "{| class=wikitable style=\"font-size:95%;\"\n! colspan=\"4\" rowspan=\"2\" | List\n! rowspan=\"2\"| Ideology\n! rowspan=\"2\"| Political position\n! rowspan=\"2\"| Leader(s)\n! rowspan=\"2\"| Parliamentary leader(s)\n! colspan=\"2\"| 2019 result\n! colspan=\"2\"| Seats before the election\n! colspan=\"2\"| Candidates\n|-\n! Votes (%)\n! Seats in Sejm\n! Sejm :pl:Posłowie na Sejm Rzeczypospolitej Polskiej IX kadencji|(list)\n! Senate :pl:Senatorowie X kadencji Senatu Rzeczypospolitej Polskiej|(list)\n! Sejm\n! Senate\n|-\n| style=\"background:{{party color|Nonpartisan Local Government Activists}};\" |\n| 1\n| style=\"text-align:center;\" | '''BS'''\n| Nonpartisan Local Government Activists<br />{{small|''Bezpartyjni Samorządowcy''}}\n| Regionalism (politics)|Regionalism<br>Localism (politics)|Localism\n| Centre-left\n| {{Ill|Robert Raczyński|lt=Robert Raczyński|pl}}\n| ''N/A''\n| style=\"text-align:center;\" | 0.8%\n| {{Composition bar|0|460|{{party color|Nonpartisan Local Government Activists}}}}\n| {{Composition bar|0|460|{{party color|Nonpartisan Local Government Activists}}}}\n| {{Composition bar|0|100|{{party color|Nonpartisan Local Government Activists}}}}\n| 902\n| 40\n|-\n| style=\"background:{{party color|Third Way (Poland)}};\" |\n| 2\n| style=\"text-align:center;\" | '''TD'''\n| Third Way (Poland)|Third Way<br />{{small|''Trzecia Droga''}}<br />{{Collapsible list\n| title = List\n| bullets = on\n| Polish People's Party (PSL)\n| Poland 2050 (PL2050)\n| Union of European Democrats (UED)\n| Agreement (political party)|Agreement for Democracy (PdD)\n| Centre for Poland (CdP)\n}}\n| Centrism<br />Christian democracy<br />Liberalism\n| Centrism|Centre to centre-right\n| Władysław Kosiniak-Kamysz<br />Szymon Hołownia\n| Władysław Kosiniak-Kamysz<br />Paulina Hennig-Kloska\n| style=\"text-align:center;\" | 8.6%\n| {{Composition bar|30|460|{{party color|Third Way (Poland)}}}}\n| {{Composition bar|33|460|{{party color|Third Way (Poland)}}}}\n| {{Composition bar|5|100|{{party color|Third Way (Poland)}}}}\n| 918\n| 28\n|-\n| style=\"background:{{party color|The Left (Poland)}};\" |\n| 3\n| style=\"text-align:center;\" | '''NL'''\n| New Left (Poland)|New Left<br />{{small|''Nowa Lewica''}}<br />{{Collapsible list\n| title = List\n| bullets = on\n| New Left (Poland)|New Left (NL)\n| Left Together (LR)\n| Polish Socialist Party (PPS)\n| Labour Union (Poland)|Labour Union (UP)\n| Social Democracy of Poland (SDPL)\n| Freedom and Equality (WiR)\n}}\n| Social democracy<br />Progressivism\n| Centre-left to left-wing\n| Włodzimierz Czarzasty<br />Robert Biedroń\n| Krzysztof Gawkowski<br />Marcelina Zawisza\n| style=\"text-align:center;\" | 12.6%\n| {{Composition bar|49|460|{{party color|The Left (Poland)}}}}\n| {{Composition bar|45|460|{{party color|The Left (Poland)}}}}\n| {{Composition bar|1|100|{{party color|The Left (Poland)}}}}\n| 912\n| 14\n|-\n| style=\"background:{{party color|Law and Justice}};\"|\n| 4\n| style=\"text-align:center;\" | '''PiS'''\n| Law and Justice (Poland)|Law and Justice<br />{{small|''Prawo i Sprawiedliwość''}}<br />{{Collapsible list\n| title = List\n| bullets = on\n| Law and Justice (Poland)|Law and Justice (PiS)\n| Sovereign Poland (SP)\n| The Republicans (Poland)|Republicans (R)\n| Kukiz'15 (K'15)\n| OdNowa RP|Renew PR (OdN)\n| Polish Affairs (PS)\n}}\n| National conservatism\n| Right-wing politics|Right-wing\n| Jarosław Kaczyński<br/>Mateusz Morawiecki (PM candidate)\n| Ryszard Terlecki\n| style=\"text-align:center;\"| 43.6%\n| {{Composition bar|235|460|{{party color|United Right (Poland)}}}}\n| {{Composition bar|235|460|{{party color|United Right (Poland)}}}}\n| {{Composition bar|46|100|{{party color|United Right (Poland)}}}}\n| 918\n| 96\n|-\n| style=\"background:{{party color|Confederation Liberty and Independence}};\" |\n| 5\n| style=\"text-align:center;\" | '''KON'''\n| Confederation Liberty and Independence<br />{{small|''Konfederacja Wolność i Niepodległość''}}<br />{{Collapsible list\n| title = List\n| bullets = on\n| National Movement (Poland)|National Movement (RN)\n| New Hope (Poland)|New Hope (NN)\n| Confederation of the Polish Crown (KKP)\n| Real Europe Movement|Real Europe Movement – Europa Christi (RPE)\n| Real Politics Union (UPR)\n| Right Wing of the Republic (PR)\n}}\n| Libertarian conservatism<br />Polish nationalism\n| Right-wing to far-right\n| Sławomir Mentzen<br />Krzysztof Bosak\n| Krzysztof Bosak\n| style=\"text-align:center;\" | 6.8%\n| {{Composition bar|11|460|{{party color|Confederation Liberty and Independence}}}}\n| {{Composition bar|11|460|{{party color|Confederation Liberty and Independence}}}}\n| {{Composition bar|0|100|{{party color|Confederation Liberty and Independence}}}}\n| 913\n| 65\n|-\n| style=\"background:{{party color|Civic Coalition (Poland)}};\" |\n| 6\n| style=\"text-align:center;\" | '''KO'''\n| Civic Coalition (Poland)|Civic Coalition<br />{{small|''Koalicja Obywatelska''}}<br />{{Collapsible list\n| title = List\n| bullets = on\n| Civic Platform (Poland)|Civic Platform (PO)\n| Modern (political party)|Modern (.N)\n| Polish Initiative (iPL)\n| Green Party (Poland)|The Greens (Z)\n| Good Movement (DR)\n| AGROunia (AU)\n| Yes! For Poland (T!DP)\n}}\n| Liberalism\n| Big tent\n| Donald Tusk\n| Borys Budka\n| style=\"text-align:center;\" | 27.4%\n| {{Composition bar|134|460|{{party color|Civic Coalition (Poland)}}}}\n| {{Composition bar|129|460|{{party color|Civic Coalition (Poland)}}}}\n| {{Composition bar|41|100|{{party color|Civic Coalition (Poland)}}}}\n| 919\n| 49\n|}",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |title=Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem) – Sejm Rzeczypospolitej Polskiej |url=https://www.sejm.gov.pl/sejm9.nsf/klubposlowie.xsp?klub=Lewica |website=www.sejm.gov.pl |access-date=27 September 2023 |archive-date=27 September 2023 |archive-url=https://web.archive.org/web/20230927102006/https://www.sejm.gov.pl/sejm9.nsf/klubposlowie.xsp?klub=Lewica |url-status=live}}</ref>",
+                      "url": "https://www.sejm.gov.pl/sejm9.nsf/klubposlowie.xsp?klub=Lewica",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.2",
+          "title": "Electoral committees registered in more than one constituency",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "4.3",
+          "title": "Electoral committees registered in a single constituency",
+          "content": [
+            {
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "id": "4.4",
+          "title": "Electoral committees with candidates only for the Senate",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.4.s1",
+                  "text": "{| class=wikitable style=\"font-size:95%;\"\n! colspan=\"3\" | List\n! Ideology\n! Political position\n! Leader\n! Candidates\n|-\n| style=\"background:#7a8fb4;\" |\n| style=\"text-align:center;\" | '''MP'''\n| Mirosław Piasecki Candidate for Senator RP<br />{{small|''Mirosław Piasecki Kandydat na Senatora RP''}}\n| Populism<br />Single-winner voting\n| Centre-right\n| Mirosław Piasecki\n| 2\n|-\n| style=\"background:#376FB6;\" |\n| style=\"text-align:center;\" | '''ND-T'''\n| New Democracy - Yes<br />{{small|''Nowa Demokracja – Tak''}}\n| Economic progressivism<br>Regionalism (politics)|Regionalism\n| Centre-left to left-wing\n| Marek Materek\n| 5\n|-\n| style=\"background:#3A5EB4;\" |\n| style=\"text-align:center;\" | '''PS'23'''\n| Senate Pact 2023|Senate Pact Independents<br />{{small|''Pakt Senacki 2023''}}\n| Pro-Europeanism<br />Localism (politics)|Localism\n| Big tent\n| ''N/A''\n| 6\n|-\n| style=\"background:#2b2d88;\" |\n| style=\"text-align:center;\" | '''PL 2050'''\n| Polska 2050{{efn|name=PL 2050|Not related to Poland 2050 of Szymon Hołownia.}}\n| Social liberalism<br />Pro-industry self-regulation\n| Centre-left\n| Włodzimierz Zydorczak\n| 3\n|-\n| style=\"background:#212120;\" |\n| style=\"text-align:center;\" | '''Piraci'''\n| Polish Pirate Party<br />{{small|''Polska Partia Piratów''}}\n| Pirate Party|Pirate politics<br>Freedom of information\n| Centrism|Centre\n| Janusz Wdzięczak\n| 1\n|-\n| style=\"background:#7085c2;\" |\n| style=\"text-align:center;\" | '''PO'''\n| Civic Agreement<br />{{small|''Porozumienie Obywatelskie''}}\n| Civic engagement\n| Centrism|Centre\n| Andrzej Dyszewski<br />Rafał Skiba\n| 2\n|-\n| style=\"background:#EDE427;\" |\n| style=\"text-align:center;\" | '''ŚR'''\n| Silesians Together<br />{{small|''Ślonzoki Razem''}}\n| Localism (politics)|Localism<br>Upper Silesia|Silesian Autonomism (political doctrine)|autonomism\n| Centre-left\n| Leon Swaczyna\n| 2\n|-\n| style=\"background:#D8261C;\" |\n| style=\"text-align:center;\" | '''WiS'''\n| Free and Solidary<br />{{small|''Wolni i Solidarni''}}\n| Solidarism<br>Conservatism\n| Right-wing\n| Jan Miller\n| 3\n|-\n| style=\"background:#35134F;\" |\n| style=\"text-align:center;\" | '''W'''\n| Wolnościowcy{{efn|Individual candidates running on Third Way (Poland)|Third Way and Confederation Liberty and Independence|Confederation lists.}}\n| Libertarianism<br>Minarchism\n| Right-wing\n| Artur Dziambor\n| 1\n|-\n| style=\"background:#ee151f;\" |\n| style=\"text-align:center;\" | '''Z'''\n| Action of Disappointed Retirees and Pensioners|United<br />{{small|''Zjednoczeni''}}\n| Solidarism<br>Economic nationalism\n| Left-wing\n| Wojciech Kornowski\n| 2\n|-\n| style=\"background:#0087BD;\" |\n| style=\"text-align:center;\" | '''ZChR'''\n| Union of Christian Families<br />{{small|''Zjednoczenie Chrześcijańskich Rodzin''}}\n| National conservatism<br>Political Catholicism\n| Far-right\n| Bogusław Rogalski\n| 5\n|-\n| style=\"background:{{party color|Slavic Union (Poland)}};\" |\n| style=\"text-align:center;\" | '''ZS'''\n| Slavic Union (Poland)|Slavic Union<br />{{small|''Związek Słowiański''}}\n| Agrarianism<br>Economic nationalism\n| Left-wing politics|Left-wing\n| Włodzimierz Rynkowski\n| 2\n|-\n| style=\"background:{{party color|Independent politician}};\" |\n| colspan=\"5\" | Other electoral committees with a single candidate\n| 21\n|}",
+                  "references": [
+                    {
+                      "text": "<ref name=\"piasecki\">{{cite web |url=https://plikoskop.polskapress.pl/OR/DODATKI/POZ_2019.PDF |title=Lokalny antysystemowiec |date=23 July 2020 |website=Głos Wielkopolski |language=pl |page=19 |access-date=30 September 2023 |archive-date=7 October 2023 |archive-url=https://web.archive.org/web/20231007091432/https://plikoskop.polskapress.pl/OR/DODATKI/POZ_2019.PDF |url-status=live}}</ref>",
+                      "url": "https://plikoskop.polskapress.pl/OR/DODATKI/POZ_2019.PDF",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url=https://srem.naszemiasto.pl/sremianin-wystartuje-w-wyborach-parlamentarnych/ar/c1-9440533 |title=Śremianin wystartuje w wyborach parlamentarnych. Przedsiębiorca z Lucin, Mirosław Piasecki będzie się ubiegać o mandat senatora |date=3 September 2023 |author=Tomasz Barylski |website=naszemiasto.pl |language=pl |access-date=30 September 2023 |archive-date=7 October 2023 |archive-url=https://web.archive.org/web/20231007091431/https://srem.naszemiasto.pl/sremianin-wystartuje-w-wyborach-parlamentarnych/ar/c1-9440533 |url-status=live}}</ref>",
+                      "url": "https://srem.naszemiasto.pl/sremianin-wystartuje-w-wyborach-parlamentarnych/ar/c1-9440533",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url=https://plikoskop.polskapress.pl/OR/DODATKI/POZ_2019.PDF |title=Lokalny antysystemowiec |date=23 July 2020 |website=Głos Wielkopolski |language=pl |page=19 |quote=\"Moje drogi z Ruchem Kukiz'15 się rozeszły, ale moje zaangażowanie oraz idee, z którymi działałem się nie zmieniły – dodaje.\" |trans-quote=\"My paths with the Kukiz'15 Movement have diverged, but my commitment and the ideas with which I acted have not changed,\" he adds.\" |access-date=30 September 2023 |archive-date=7 October 2023 |archive-url=https://web.archive.org/web/20231007091432/https://plikoskop.polskapress.pl/OR/DODATKI/POZ_2019.PDF |url-status=live}}</ref>",
+                      "url": "https://plikoskop.polskapress.pl/OR/DODATKI/POZ_2019.PDF",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |url=https://koscian.naszemiasto.pl/koscian-wlodzimierz-zydorczak-w-rzeszowie-wspiera/ar/c1-8271234 |title=Włodzimierz Zydorczak w Rzeszowie wspiera kandydatkę Polski 2050 na prezydenta miasta. Jest jednak problem z jej rejestracją |access-date=3 November 2023 |archive-date=3 November 2023 |archive-url=https://web.archive.org/web/20231103144850/https://koscian.naszemiasto.pl/koscian-wlodzimierz-zydorczak-w-rzeszowie-wspiera/ar/c1-8271234 |url-status=live }}</ref>",
+                      "url": "https://koscian.naszemiasto.pl/koscian-wlodzimierz-zydorczak-w-rzeszowie-wspiera/ar/c1-8271234",
+                      "status_code": 403,
+                      "reason": "Forbidden",
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4.5",
+          "title": "Electoral committees withdrawn before the election",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "4.5.s1",
+                  "text": "Liberal Poland – Entrepreneurs' Strike has registered electoral lists in 17 constituencies, however on 13 October 2023 the committee has announced its intention to withdraw from the race. The committee's candidates will appear on the ballot, although votes for them will be counted as invalid.",
+                  "references": [
+                    {
+                      "text": "<ref>{{Cite web|url=https://wiadomosci.dziennik.pl/polityka/artykuly/9321573,ten-komitet-nie-wystartuje-w-wyborach-nagla-decyzja-tuz-przed-wyboram.html|title=Ten komitet nie wystartuje w wyborach. Nagła decyzja tuż przed wyborami|date=13 October 2023 |access-date=13 October 2023|archive-date=14 October 2023|archive-url=https://web.archive.org/web/20231014021635/https://wiadomosci.dziennik.pl/polityka/artykuly/9321573,ten-komitet-nie-wystartuje-w-wyborach-nagla-decyzja-tuz-przed-wyboram.html|url-status=live}}</ref>",
+                      "url": "https://wiadomosci.dziennik.pl/polityka/artykuly/9321573,ten-komitet-nie-wystartuje-w-wyborach-nagla-decyzja-tuz-przed-wyboram.html",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Electoral committees",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "5.s1",
+              "text": "Within the stipulated deadline for submitting electoral committees, 94 committees were applied for registration, of which 85 were registered: two coalitions, 40 political parties and 43 voters. 46 committees declared running for both the Sejm and the Senate, three only for the Sejm and 36 only for the Senate.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|url=https://wybory.gov.pl/sejmsenat2023/statics/PKW_AKTUALNOSCI/uploaded_files/1693426364_wykaz-zawiadomien-33.pdf|title=Wykaz zawiadomień o utworzeniu komitetu wyborczego złożonych Państwowej Komisji Wyborczej w związku z wyborami do Sejmu Rzeczypospolitej Polskiej i do Senatu Rzeczypospolitej Polskiej zarządzonymi na dzień 15 października 2023 r.|access-date=1 September 2023|archive-date=30 August 2023|archive-url=https://web.archive.org/web/20230830184543/https://wybory.gov.pl/sejmsenat2023/statics/PKW_AKTUALNOSCI/uploaded_files/1693426364_wykaz-zawiadomien-33.pdf|url-status=live}}</ref>",
+                  "url": "https://sejmsenat2023.pkw.gov.pl/sejmsenat2023/statics/PKW_AKTUALNOSCI/uploaded_files/1693426364_wykaz-zawiadomien-33.pdf",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web|url=https://wybory.gov.pl/sejmsenat2023/pl/komitety|title=Komitety w wyborach do Sejmu i Senatu w 2023 r.|access-date=2 September 2023|archive-date=2 September 2023|archive-url=https://web.archive.org/web/20230902102422/https://wybory.gov.pl/sejmsenat2023/pl/komitety|url-status=live}}</ref>",
+                  "url": "https://sejmsenat2023.pkw.gov.pl/sejmsenat2023/pl/komitety",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Timeline",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "6.s1",
+              "text": "With the President setting the election date to be 15 October 2023, the following schedule was approved by the National Electoral Commission (Poland)|National Electoral Commission (PKW):",
+              "references": [
+                {
+                  "text": "<ref>{{cite web |title=Wybory do Sejmu i Senatu Rzeczypospolitej Polskiej w 2023 r. |url=https://wybory.gov.pl/sejmsenat2023/en/kalendarz |access-date=15 October 2023 |website=wybory.gov.pl |language=pl |archive-date=17 September 2023 |archive-url=https://web.archive.org/web/20230917123512/https://wybory.gov.pl/sejmsenat2023/en/kalendarz |url-status=live}}</ref>",
+                  "url": "https://sejmsenat2023.pkw.gov.pl/sejmsenat2023/en/kalendarz",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Opinion polls",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Results",
+      "content": [
+        {
+          "id": "8.1",
+          "title": "Sejm",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.1.s1",
+                  "text": "{{See also|List of Sejm members (2023–2027)}}\nPiS remained the largest party in the Sejm, but with about 35% of the vote, lost its majority and was unable to form a government. The three main opposition groups, Civic Coalition, Third Way and New Left, took 54% of the votes, winning enough seats to allow them to take power. According to the final vote count by the National Electoral Commission (Poland)|National Electoral Commission, Law and Justice won 194 seats, the Civic Coalition 157, the Third Way 65, The Left 26, and the Confederation Liberty and Independence 18.",
+                  "references": [
+                    {
+                      "text": "<ref name=AP>{{cite news |last1=Gera |first1=Vanessa |last2=Scislowska |first2=Monika |title=Polish election marks huge win for Donald Tusk as ruling conservatives lose to centrist coalition |url=https://apnews.com/article/poland-election-tusk-results-f687cf22fee9d395e92a08d2b6ab0f03 |work=AP News |date=17 October 2023 |access-date=17 October 2023 |archive-date=17 October 2023 |archive-url=https://web.archive.org/web/20231017140837/https://apnews.com/article/poland-election-tusk-results-f687cf22fee9d395e92a08d2b6ab0f03 |url-status=live}}</ref>",
+                      "url": "https://apnews.com/article/poland-election-tusk-results-f687cf22fee9d395e92a08d2b6ab0f03",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    },
+                    {
+                      "text": "<ref>{{cite news |last=Cienski |first=Jan |date=17 October 2023 |title=Poland election results: Opposition secures win, final count shows |url=https://www.politico.eu/article/poland-election-results-opposition-donald-tusk-wins-final-count-civic-platform-pis/ |work=Politico |location=Warsaw |access-date=17 October 2023 |archive-date=17 October 2023 |archive-url=https://web.archive.org/web/20231017075052/https://www.politico.eu/article/poland-election-results-opposition-donald-tusk-wins-final-count-civic-platform-pis/ |url-status=live}}</ref>",
+                      "url": "https://www.politico.eu/article/poland-election-results-opposition-donald-tusk-wins-final-count-civic-platform-pis/",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "news"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.1.s2",
+                  "text": "Although the German Minority Electoral Committee did win 5.37% of the vote in the Opole region in this election, they came 6th instead of the expected 5th place, falling 5,372 votes short. The Opole Voivodeship represents a total of 12 Sejm seats, and as the 5th place was taken by the far-right Confederation Liberty and Independence, the last 12th seat, which had previously been won by German Minority, went to them instead. As a result, the German Minority Electoral Committee failed to win any parliamentary seat for the first time in 32 years.",
+                  "references": [
+                    {
+                      "text": "<ref>{{cite web |author=Krzysztof Ogiolda |date=21 October 2023 |title=Mniejszość Niemiecka bez posła w Sejmie. Co poszło nie tak? |url=https://opolska360.pl/mniejszosc-niemiecka-bez-posla-w-sejmie-co-poszlo-nie-tak/ |website=opolska360.pl |language=pl |access-date=23 October 2023 |archive-date=24 October 2023 |archive-url=https://web.archive.org/web/20231024085649/https://opolska360.pl/mniejszosc-niemiecka-bez-posla-w-sejmie-co-poszlo-nie-tak/ |url-status=live }}</ref>",
+                      "url": "https://opolska360.pl/mniejszosc-niemiecka-bez-posla-w-sejmie-co-poszlo-nie-tak",
+                      "status_code": 200,
+                      "reason": null,
+                      "type": "web"
+                    },
+                    {
+                      "text": "<ref>{{cite web |date=17 October 2023 |title=German minority out of Polish parliament for the first time in 32 years |url=https://notesfrompoland.com/2023/10/17/german-minority-out-of-polish-parliament-for-the-first-time-in-32-years/}}</ref>",
+                      "url": "https://notesfrompoland.com/2023/10/17/german-minority-out-of-polish-parliament-for-the-first-time-in-32-years/}}</ref>",
+                      "status_code": 404,
+                      "reason": "Not Found",
+                      "type": "web"
+                    }
+                  ]
+                },
+                {
+                  "id": "8.1.s3",
+                  "text": "{{For|detailed results by constituency and party breakdown|Results breakdown of the 2023 Polish parliamentary election (Sejm)}}\ns]]\n\n{{Election results\n|image={{Switcher||Results by party||Results by coalition}}\n|alliance1=United Right (Poland)|United Right|aspan1=6\n|party1=Law and Justice (Poland)|Law and Justice|votes1=6286250|seats1=157|sc1=−30\n|party2=Sovereign Poland|votes2=465024|seats2=18|sc2=+8\n|party3=The Republicans (Poland)|The Republicans|votes3=99373|seats3=4|sc3=+3\n|party4=Kukiz'15{{efn|Kukiz'15 previously ran under Polish Coalition as independents. The result does not include Paweł Kukiz who is not a party member, but got elected with 43,292 votes.}}|votes4=74959|seats4=2|sc4=New\n|party5=Independents|votes5=715248|seats5=13|sc5=−8\n|atotal6=7640854|aseats6=194|sc6=−41\n|alliance7=Civic Coalition (Poland)|Civic Coalition|aspan7=8\n|party7=Civic Platform|votes7=4992932|seats7=122|sc7=+20\n|party8=Modern (political party)|Modern|votes8=375776|seats8=6|sc8=−2\n|party9=Polish Initiative|votes9=252021|seats9=3|sc9=+1\n|party10=The Greens (Poland)|The Greens|votes10=67392|seats10=3|sc10=0\n|party11=AGROunia|votes11=53571|seats11=1|sc11=New\n|party12=Good Movement|votes12=8254|seats12=0|sc12=New\n|party13=Independents{{efn|Two of the elected independents are also members of Yes! For Poland.}}|votes13=879645|seats13=22|sc13=+3|color13={{party color|Independent politician}}\n|atotal14=6629402|aseats14=157|sc14=+23\n|alliance15=Third Way (Poland)|Third Way|aspan15=6\n|party15=Poland 2050{{efn|Includes 233,917 votes and 2 seats for supported independents.}}|votes15=1561542|seats15=33|sc15=New\n|party16=Polish People's Party{{efn|Includes 23,051 votes and 1 seat for supported independents.}}|votes16=1189629|seats16=28|sc16=+9\n|party17=Centre for Poland|votes17=70117|seats17=3|sc17=+3\n|party18=Union of European Democrats|votes18=21056|seats18=0|sc18=−1\n|party19=Independents and others|votes19=268326|seats19=1|sc19=−9|color19={{party color|Independent politician}}\n|atotal20=3110670|aseats20=65|sc20=+35\n|alliance21=The Left (Poland)|The Left|aspan21=4\n|party21=New Left (Poland)|New Left|votes21=1199503|seats21=19|sc21=−19\n|party22=Left Together|votes22=453730|seats22=7|sc22=+1\n|party23=Independents and others|votes23=205785|seats23=0|sc23=−5|color23={{party color|Independent politician}}\n|atotal24=1859018|aseats24=26|sc24=−23\n|alliance25=Confederation Liberty and Independence|Confederation|aspan25=6\n|party25=New Hope (Poland)|New Hope|votes25=551901|seats25=6|sc25=+1|color25={{party color|KORWiN}}\n|party26=Confederation Liberty and Independence|Confederation{{efn|Confederation was registered as a party to circumvent the 8% electoral threshold for electoral coalitions. Five of its elected members are part of National Movement, one of New Hope and one of Confederation of the Polish Crown.}}|votes26=341188|seats26=7|sc26=+7\n|party27=National Movement (Poland)|National Movement|votes27=199149|seats27=0|sc27=−5\n|party28=Confederation of the Polish Crown|votes28=182573|seats28=2|sc28=+1\n|party30=Independents and others|votes30=268985|seats30=3|sc30=+3|color30={{party color|Independent politician}}\n|atotal31=1547364|aseats31=18|sc31=+7\n|alliance32=Nonpartisan Local Government Activists|votes32=401054|seats32=0|sc32=0\n|alliance33=There is One Poland|votes33=351099|seats33=0|sc33=New\n|alliance34=German Minority Electoral Committee|German Minority|votes34=25778|seats34=0|sc34=−1\n|alliance35=Prosperity and Peace Movement|votes35=24850|seats35=0|sc35=New|acolor35=#e41d22\n|alliance36=Normal Country|votes36=4606|seats36=0|sc36=New\n|alliance37=Anti-party|votes37=1156|seats37=0|sc37=New|acolor37=#E52522\n|alliance38=Repair Poland Movement|votes38=823|seats38=0|sc38=New\n|total_sc=0\n|valid=21596674\n|invalid=370217\n|electorate=29532595\n|source= National Electoral Commission,\n}}",
+                  "references": [
+                    {
+                      "text": "<ref>https://wybory.gov.pl/sejmsenat2023/en/sejm/wynik/pl</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": null
+                    },
+                    {
+                      "text": "<ref>https://wybory.gov.pl/sejmsenat2023/en/dane_w_arkuszach</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "8.1.2",
+              "title": "By constituency",
+              "content": [
+                {
+                  "sentences": [
+                    {
+                      "id": "8.1.2.s1",
+                      "text": "{| class=\"wikitable sortable\" style=\"text-align:right; font-size:95%\"\n|+ \n|- style=\"height:42px; text-align:center; background-color:#E9E9E9;\"\n! rowspan=\"3\" style=\"width:120px;\" | Constituency\n! colspan=\"2\" data-sort-type=\"number\" style=\"width:40px;\" | Law and Justice (Poland)|Law and Justice\n! colspan=\"2\" data-sort-type=\"number\" style=\"width:40px;\" | Civic Coalition (Poland)|Civic Coalition\n! colspan=\"2\" data-sort-type=\"number\" style=\"width:40px;\" | Third Way (Poland)|Third Way\n! colspan=\"2\" data-sort-type=\"number\" style=\"width:40px;\" | The Left (Poland)|The Left\n! colspan=\"2\" data-sort-type=\"number\" style=\"width:40px;\" | Confederation Liberty and Independence|Confederation\n! colspan=\"2\" data-sort-type=\"number\" style=\"width:40px;\" | Nonpartisan Local Government Activists\n! colspan=\"2\" data-sort-type=\"number\" style=\"width:40px;\" | There is One Poland\n! colspan=\"2\" data-sort-type=\"number\" style=\"width:40px;\" | Others\n|-\n! colspan=\"2\" style=\"background:{{party color|Law and Justice}};\"|\n! colspan=\"2\" style=\"background:{{party color|Civic Coalition (Poland)}};\"|\n! colspan=\"2\" style=\"background:{{party color|Third Way (Poland)}};\"|\n! colspan=\"2\" style=\"background:{{party color|The Left (Poland)}};\"|\n! colspan=\"2\" style=\"background:{{party color|Confederation Liberty and Independence}};\"|\n! colspan=\"2\" style=\"background:{{party color|Nonpartisan Local Government Activists}};\"|\n! colspan=\"2\" style=\"background:{{party color|There is One Poland}};\"|\n! colspan=\"2\"  style=\"background:{{party color|Other}};\"|\n|-\n!%\n!Seats\n!%\n!Seats\n!%\n!Seats\n!%\n!Seats\n!%\n!Seats\n!%\n!Seats\n!%\n!Seats\n!%\n!Seats\n|-\n| align=\"left\" | Legnica (parliamentary constituency)|1 – Legnica\n| style=\"font-weight:bold; background:#C0DBFC\" | 34.80\n| style=\"font-weight:bold; background:#C0DBFC\" | 5\n| 33.78\n| style=\"font-weight:bold; background:#FDDCB8\" | 5\n| 10.75\n| 1\n| 9.51\n| 1\n| 6.33\n| 0\n| 3.34\n| 0\n| 1.49\n| 0\n| –\n| –\n|-\n| align=\"left\" | Wałbrzych (parliamentary constituency)|2 – Wałbrzych\n| 33.34\n| 3\n| style=\"font-weight:bold; background:#FDDCB8\" | 37.17\n| style=\"font-weight:bold; background:#FDDCB8\" | 4\n| 12.13\n| 1\n| 7.98\n| 0\n| 6.02\n| 0\n| 1.80\n| 0\n| 1.57\n| 0\n| –\n| –\n|-\n| align=\"left\" | Wrocław (parliamentary constituency)|3 – Wrocław\n| 26.66\n| 4\n| style=\"font-weight:bold; background:#FDDCB8\" | 36.94\n| style=\"font-weight:bold; background:#FDDCB8\" | 6\n| 13.74\n| 2\n| 11.35\n| 1\n| 6.98\n| 1\n| 2.89\n| 0\n| 1.44\n| 0\n| –\n| –\n|-\n| align=\"left\" | Bydgoszcz (parliamentary constituency)|4 – Bydgoszcz\n| 30.45\n| 4\n| style=\"font-weight:bold; background:#FDDCB8\" | 35.01\n| style=\"font-weight:bold; background:#FDDCB8\" | 5\n| 15.06\n| 2\n| 9.92\n| 1\n| 6.42\n| 0\n| 1.67\n| 0\n| 1.47\n| 0\n| –\n| –\n|-\n| align=\"left\" | Toruń (parliamentary constituency)|5 – Toruń\n| style=\"font-weight:bold; background:#C0DBFC\" | 34.06\n| style=\"font-weight:bold; background:#C0DBFC\" | 5\n| 29.52\n| 4\n| 15.68\n| 2\n| 11.25\n| 1\n| 6.37\n| 1\n| 1.44\n| 0\n| 1.25\n| 0\n| 0.42{{efn|name=RDiP|Prosperity and Peace Movement}}\n| 0\n|-\n| align=\"left\" | Lublin (parliamentary constituency)|6 – Lublin\n| style=\"font-weight:bold; background:#C0DBFC\" | 45.48\n| style=\"font-weight:bold; background:#C0DBFC\" | 8\n| 20.32\n| 3\n| 15.87\n| 2\n| 5.72\n| 1\n| 8.38\n| 1\n| 1.60\n| 0\n| 2.30\n| 0\n| 0.35{{efn|name=RDiP}}\n| 0\n|-\n| align=\"left\" | Chełm (parliamentary constituency)|7 – Chełm\n| style=\"font-weight:bold; background:#C0DBFC\" | 50.75\n| style=\"font-weight:bold; background:#C0DBFC\" | 7\n| 17.40\n| 2\n| 13.04\n| 2\n| 5.62\n| 0\n| 7.79\n| 1\n| 2.08\n| 0\n| 2.83\n| 0\n| 0.48{{efn|name=RDiP}}\n| 0\n|-\n| align=\"left\" | Zielona Góra (parliamentary constituency)|8 – Zielona Góra\n| 27.76 \n| 4\n| style=\"font-weight:bold; background:#FDDCB8\" | 37.73\n| style=\"font-weight:bold; background:#FDDCB8\" | 5\n| 15.07\n| 2\n| 9.27\n| 1\n| 6.51\n| 0\n| 2.31\n| 0\n| 1.12\n| 0\n| 0.22{{efn|Anti-party}}\n| 0\n|-\n| align=\"left\" | Łódź (parliamentary constituency)|9 – Łódź\n| 26.82\n| 3\n| style=\"font-weight:bold; background:#FDDCB8\" | 41.07\n| style=\"font-weight:bold; background:#FDDCB8\" | 5\n| 11.89\n| 1\n| 12.22\n| 1\n| 5.57\n| 0\n| 1.23\n| 0\n| 1.20\n| 0\n| –\n| –\n|-\n| align=\"left\" | {{nowrap|Piotrków Trybunalski (parliamentary constituency)|10 – Piotrków Trybunalski}}\n| style=\"font-weight:bold; background:#C0DBFC\" | 46.60\n| style=\"font-weight:bold; background:#C0DBFC\" | 6\n| 21.69\n| 2\n| 13.73\n| 1\n| 6.39\n| 0\n| 7.62\n| 0\n| 2.17\n| 0\n| 1.38\n| 0\n| 0.43{{efn|name=RDiP}}\n| 0\n|-\n| align=\"left\" | Sieradz (parliamentary constituency)|11 – Sieradz\n| style=\"font-weight:bold; background:#C0DBFC\" | 41.46\n| style=\"font-weight:bold; background:#C0DBFC\" | 6\n| 25.89\n| 3\n| 14.50\n| 2\n| 7.73\n| 1\n| 6.82\n| 0\n| 1.62\n| 0\n| 1.45\n| 0\n| 0.52{{efn|name=RDiP}}\n| 0\n|-\n| align=\"left\" | Kraków I (parliamentary constituency)|12 – Kraków I\n| style=\"font-weight:bold; background:#C0DBFC\" | 42.86\n| style=\"font-weight:bold; background:#C0DBFC\" | 5\n| 24.24\n| 2\n| 14.97\n| 1 \n| 6.04\n| 0\n| 7.88\n| 0\n| 1.78\n| 0\n| 2.22\n| 0\n| –\n| –\n|-\n| align=\"left\" | Kraków II (parliamentary constituency)|13 – Kraków II\n| 30.68\n| style=\"font-weight:bold; background:#C0DBFC\" | 5\n| style=\"font-weight:bold; background:#FDDCB8\" | 30.73\n| style=\"font-weight:bold; background:#FDDCB8\" | 5\n| 16.86\n| 2\n| 11.04\n| 1\n| 7.71\n| 1\n| 1.51\n| 0\n| 1.47\n| 0\n| –\n| –\n|-\n| align=\"left\" | Nowy Sącz (parliamentary constituency)|14 – Nowy Sącz\n| style=\"font-weight:bold; background:#C0DBFC\" | 53.73\n| style=\"font-weight:bold; background:#C0DBFC\" | 6 \n| 16.10\n| 2\n| 11.58\n| 1\n| 3.18\n| 0\n| 8.73\n| 1\n| 2.49\n| 0\n| 4.18\n| 0\n| –\n| –\n|-\n| align=\"left\" | Tarnów (parliamentary constituency)|15 – Tarnów\n| style=\"font-weight:bold; background:#C0DBFC\" | 48.67\n| style=\"font-weight:bold; background:#C0DBFC\" | 5\n| 17.02\n| 2\n| 18.64\n| 2\n| 4.00\n| 0 \n| 7.99\n| 0\n| 1.38\n| 0\n| 2.30\n| 0\n| –\n| –\n|-\n| align=\"left\" | Płock (parliamentary constituency)|16 – Płock\n| style=\"font-weight:bold; background:#C0DBFC\" | 44.11\n| style=\"font-weight:bold; background:#C0DBFC\" | 5\n| 22.40\n| 3\n| 17.07\n| 2\n| 6.52\n| 0\n| 6.52\n| 0\n| 2.03\n| 0\n| 1.35\n| 0\n| –\n| –\n|-\n| align=\"left\" | Radom (parliamentary constituency)|17 – Radom\n| style=\"font-weight:bold; background:#C0DBFC\" | 48.68\n| style=\"font-weight:bold; background:#C0DBFC\" | 6\n| 20.96\n| 2\n| 13.98\n| 1\n| 5.34\n| 0\n| 7.31\n| 0\n| 1.71\n| 0\n| 1.53\n| 0\n| 0.50{{efn|name=RDiP}}\n| 0\n|-\n| align=\"left\" | Siedlce (parliamentary constituency)|18 – Siedlce\n| style=\"font-weight:bold; background:#C0DBFC\" | 48.62\n| style=\"font-weight:bold; background:#C0DBFC\" | 7\n| 18.71\n| 2\n| 15.51\n| 2\n| 4.85\n| 0\n| 8.21\n| 1\n| 1.86\n| 0\n| 1.90\n| 0\n| 0.35{{efn|Normal Country – 0.19, Repair Poland Movement – 0.15}}\n| 0\n|-\n| align=\"left\" | Warsaw I (parliamentary constituency)|19 – Warsaw I\n| 20.14\n| 4\n| style=\"font-weight:bold; background:#FDDCB8\" | 43.23\n| style=\"font-weight:bold; background:#FDDCB8\" | 9\n| 13.25\n| 3\n| 13.45\n| 3\n| 6.24\n| 1\n| 1.37\n| 0\n| 1.32\n| 0\n| –\n| –\n|-\n| align=\"left\" | Warsaw II (parliamentary constituency)|20 – Warsaw II\n| 31.74\n| style=\"font-weight:bold; background:#C0DBFC\" | 4\n| style=\"font-weight:bold; background:#FDDCB8\" | 35.23\n| style=\"font-weight:bold; background:#FDDCB8\" | 4\n| 15.06\n| 2\n| 7.06\n| 1\n| 7.06\n| 1\n| 2.27\n| 0\n| 1.59\n| 0\n| –\n| –\n|-\n| align=\"left\" | Opole (parliamentary constituency)|21 – Opole\n| 31.26\n| 4\n| style=\"font-weight:bold; background:#FDDCB8\" | 33.59\n| style=\"font-weight:bold; background:#FDDCB8\" | 5\n| 12.74\n| 1\n| 7.24\n| 1\n| 6.49\n| 1\n| 1.57\n| 0\n| 1.74\n| 0\n| 5.37{{efn|German Minority Electoral Committee|German Minority}}\n| 0\n|-\n| align=\"left\" | Krosno (parliamentary constituency)|22 – Krosno\n| style=\"font-weight:bold; background:#C0DBFC\" | 54.70\n| style=\"font-weight:bold; background:#C0DBFC\" | 7\n| 15.85\n| 2\n| 13.79\n| 1\n| 4.47\n| 0 \n| 8.62\n| 1\n| 2.07\n| 0\n| –\n| –\n| 0.50{{efn|name=RDiP}}\n| 0\n|-\n| align=\"left\" | Rzeszów (parliamentary constituency)|23 – Rzeszów\n| style=\"font-weight:bold; background:#C0DBFC\" | 51.60\n| style=\"font-weight:bold; background:#C0DBFC\" | 9\n| 17.70\n| 3\n| 12.42\n| 2\n| 4.87\n| 0\n| 9.48\n| 1\n| 1.53\n| 0\n| 2.40\n| 0\n| –\n| –\n|-\n| align=\"left\" | Białystok (parliamentary constituency)|24 – Białystok\n| style=\"font-weight:bold; background:#C0DBFC\" | 42.39\n| style=\"font-weight:bold; background:#C0DBFC\" | 7\n| 20.84\n| 3\n| 18.86\n| 3\n| 4.84\n| 0\n| 9.79\n| 1\n| 1.16\n| 0\n| 1.64\n| 0\n| 0.47{{efn|name=RDiP}}\n| 0\n|-\n| align=\"left\" | Gdańsk (parliamentary constituency)|25 – Gdańsk\n| 25.20\n| 3\n| style=\"font-weight:bold; background:#FDDCB8\" | 41.70\n| style=\"font-weight:bold; background:#FDDCB8\" | 6\n| 14.70\n| 2\n| 9.41\n| 1\n| 6.23\n| 0\n| 1.44\n| 0\n| 1.32\n| 0\n| –\n| –\n|-\n| align=\"left\" | Słupsk (parliamentary constituency)|26 – Słupsk\n| 29.24\n| 4\n| style=\"font-weight:bold; background:#FDDCB8\" | 37.91\n| style=\"font-weight:bold; background:#FDDCB8\" | 6\n| 13.59\n| 2\n| 8.33\n| 1\n| 7.21\n| 1\n| 1.62\n| 0\n| 2.10\n| 0\n| –\n| –\n|-\n| align=\"left\" | Bielsko-Biała I (parliamentary constituency)|27 – Bielsko-Biała I\n| style=\"font-weight:bold; background:#C0DBFC\" | 36.71\n| style=\"font-weight:bold; background:#C0DBFC\" | 4\n| 28.67\n| 3\n| 14.55\n| 1\n| 7.77\n| 0\n| 7.84\n| 1\n| 1.73\n| 0\n| 2.46\n| 0\n| 0.28{{efn|name=NK|Normal Country}}\n| 0\n|-\n| align=\"left\" | Częstochowa (parliamentary constituency)|28 – Częstochowa\n| style=\"font-weight:bold; background:#C0DBFC\" | 36.35\n| style=\"font-weight:bold; background:#C0DBFC\" | 3\n| 29.11\n| style=\"font-weight:bold; background:#FDDCB8\" | 3\n| 14.72\n| 1\n| 9.41\n| 0\n| 6.56\n| 0\n| 2.09\n| 0\n| 1.74\n| 0\n| –\n| –\n|-\n| align=\"left\" | Katowice I (parliamentary constituency)|29 – Katowice I\n| 30.16\n| 3\n| style=\"font-weight:bold; background:#FDDCB8\" | 36.06\n| style=\"font-weight:bold; background:#FDDCB8\" | 4\n| 13.34\n| 1\n| 9.21\n| 1\n| 6.95\n| 0\n| 1.90\n| 0\n| 2.38\n| 0\n| –\n| –\n|-\n| align=\"left\" | {{nowrap|Bielsko-Biała II (parliamentary constituency)|30 – Bielsko-Biała II}}\n| style=\"font-weight:bold; background:#C0DBFC\" | 38.06\n| style=\"font-weight:bold; background:#C0DBFC\" | 4\n| 29.98\n| 3\n| 12.45\n| 1\n| 6.84\n| 0\n| 8.00\n| 1\n| 2.27\n| 0\n| 2.40\n| 0\n| –\n| –\n|-\n| align=\"left\" | Katowice II (parliamentary constituency)|31 – Katowice II\n| 30.88\n| 4\n| style=\"font-weight:bold; background:#FDDCB8\" | 36.79\n| style=\"font-weight:bold; background:#FDDCB8\" | 5\n| 13.27\n| 1\n| 8.46\n| 1\n| 6.70\n| 1\n| 1.80\n| 0\n| 2.10\n| 0\n| –\n| –\n|-\n| align=\"left\" | Katowice III (parliamentary constituency)|32 – Katowice III\n| 29.74\n| style=\"font-weight:bold; background:#C0DBFC\" | 3\n| style=\"font-weight:bold; background:#FDDCB8\" | 30.30\n| style=\"font-weight:bold; background:#FDDCB8\" | 3\n| 9.85\n| 1\n| 21.60\n| 2\n| 5.69\n| 0\n| 1.45\n| 0\n| 1.37\n| 0\n| –\n| –\n|-\n| align=\"left\" | Kielce (parliamentary constituency)|33 – Kielce\n| style=\"font-weight:bold; background:#C0DBFC\" | 47.07\n| style=\"font-weight:bold; background:#C0DBFC\" | 8\n| 20.93\n| 4\n| 13.80\n| 2\n| 6.83\n| 1\n| 6.55\n| 1\n| 2.88\n| 0\n| 1.38\n| 0\n| 0.55{{efn|Prosperity and Peace Movement – 0.35, Normal Country – 0.20}}\n| 0\n|-\n| align=\"left\" | Elbląg (parliamentary constituency)|34 – Elbląg\n| style=\"font-weight:bold; background:#C0DBFC\" | 35.20\n| style=\"font-weight:bold; background:#C0DBFC\" | 4\n| 31.87\n| 3\n| 15.40\n| 1\n| 8.11\n| 0 \n| 6.54\n| 0\n| 1.44\n| 0\n| 1.12\n| 0\n| 0.33{{efn|name=NK}}\n| 0\n|-\n| align=\"left\" | Olsztyn (parliamentary constituency)|35 – Olsztyn\n| 32.33\n| style=\"font-weight:bold; background:#C0DBFC\" | 4\n| style=\"font-weight:bold; background:#FDDCB8\" | 33.07\n| style=\"font-weight:bold; background:#FDDCB8\" | 4\n| 16.11\n| 1\n| 8.09\n| 1\n| 6.93\n| 0\n| 1.98\n| 0\n| 1.48\n| 0\n| –\n| –\n|-\n| align=\"left\" | Kalisz (parliamentary constituency)|36 – Kalisz\n| style=\"font-weight:bold; background:#C0DBFC\" | 35.85\n| style=\"font-weight:bold; background:#C0DBFC\" | 5\n| 28.85\n| 4\n| 16.16\n| 2\n| 8.52\n| 1\n| 6.98\n| 0\n| 2.39\n| 0\n| 1.52\n| 0\n| –\n| –\n|-\n| align=\"left\" | Konin (parliamentary constituency)|37 – Konin\n| style=\"font-weight:bold; background:#C0DBFC\" | 38.69\n| style=\"font-weight:bold; background:#C0DBFC\" | 4\n| 23.99\n| 2\n| 16.63\n| 2\n| 9.48\n| 1\n| 6.97\n| 0\n| 2.35\n| 0\n| 1.38\n| 0\n| 0.51{{efn|name=RDiP}}\n| 0\n|-\n| align=\"left\" | Piła (parliamentary constituency)|38 – Piła\n| 29.11\n| 3\n| style=\"font-weight:bold; background:#FDDCB8\" | 34.87\n| style=\"font-weight:bold; background:#FDDCB8\" | 4\n| 17.66\n| 2\n| 7.84\n| 0\n| 6.87\n| 0\n| 1.91\n| 0\n| 1.74\n| 0\n| –\n| –\n|-\n| align=\"left\" | Poznań (parliamentary constituency)|39 – Poznań\n| 19.57\n| 2\n| style=\"font-weight:bold; background:#FDDCB8\" | 44.09\n| style=\"font-weight:bold; background:#FDDCB8\" | 5\n| 16.54\n| 2\n| 12.31\n| 1\n| 5.90\n| 0\n| 1.59\n| 0\n| –\n| –\n| –\n| –\n|-\n| align=\"left\" | Koszalin (parliamentary constituency)|40 – Koszalin\n| 31.36\n| 3\n| style=\"font-weight:bold; background:#FDDCB8\" | 38.69\n| style=\"font-weight:bold; background:#FDDCB8\" | 4\n| 12.35\n| 1\n| 8.72\n| 0\n| 6.02\n| 0\n| 1.63\n| 0\n| 1.24\n| 0\n| –\n| –\n|-\n| align=\"left\" | Szczecin (parliamentary constituency)|41 – Szczecin\n| 28.79\n| 4\n| style=\"font-weight:bold; background:#FDDCB8\" | 40.13\n| style=\"font-weight:bold; background:#FDDCB8\" | 6\n| 12.62\n| 1\n| 9.39\n| 1\n| 5.94\n| 0\n| 1.62\n| 0\n| 1.12\n| 0\n| 0.39{{efn|name=RDiP}}\n| 0\n|-class=sortbottom\n! Poland\n! style=\"font-weight:bold; background:#C0DBFC\" | 35.4\n! style=\"font-weight:bold; background:#C0DBFC\" | 194\n! 30.7\n! 157\n! 14.4\n! 65\n! 8.6\n! 26\n! 7.2\n! 18\n! 1.9\n! 0\n! 1.6\n! 0\n! 0.3\n! 0\n|}",
+                      "references": [
+                        {
+                          "text": "<ref>https://wybory.gov.pl/sejmsenat2023/en/sejm/wynik/pl National Electoral Commission]</ref>",
+                          "url": null,
+                          "status_code": null,
+                          "reason": null,
+                          "type": null
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8.2",
+          "title": "Senate",
+          "content": [
+            {
+              "sentences": [
+                {
+                  "id": "8.2.s1",
+                  "text": "{{For|detailed results by constituency and party breakdown|Results breakdown of the 2023 Polish parliamentary election (Senate)}}\n{{Election results\n|image={{Switcher||Results by party||Results by coalition}}\n|alliance1=Civic Coalition (Poland)|Civic Coalition|aspan1=3\n|party1=Civic Platform|votes1=5107360|seats1=36|sc1=+2\n|party2=Independents|votes2=1079935|seats2=5|sc2=−4\n|atotal3=6187295|aseats3=41|sc3=−2\n|alliance4=Third Way (Poland)|Third Way|aspan4=6\n|party4=Polish People's Party|votes4=1282952|seats4=4|sc4=+2\n|party5=Poland 2050{{efn|Includes 104,047 votes and 1 seat for supported independents.}}|votes5=726740|seats5=5|sc5=New\n|party6=Union of European Democrats|votes6=198074|seats6=1|sc6=0\n|party7=Centre for Poland|votes7=177158|seats7=1|sc7=New\n|party8=Independents|votes8=77436|seats8=0|sc8=New\n|atotal9=2462360|aseats9=11|sc9=+8\n|alliance10=The Left (Poland)|The Left|aspan10=6\n|party10=New Left (Poland)|New Left|votes10=659650|seats10=5|sc10=+4\n|party11=Left Together|votes11=294150|seats11=2|sc11=New\n|party12=Polish Socialist Party|votes12=59980|seats12=1|sc12=0\n|party13=Labour Union (Poland)|Labour Union|votes13=55372|seats13=1|sc13=+1\n|party14=Independents|votes14=62487|seats14=0|sc14=New\n|atotal15=1131639|aseats15=9|sc15=+7\n|alliance16=Senate Pact independents{{efn|Wadim Tyszkiewicz, Krzysztof Kwiatkowski, Bogusław Waksmundzki, Krzystof Borkowski, Zygmunt Frankiewicz and Andrzej Dziuba ran as independents officially supported by the Senate Pact 2023|Senate Pact. Additionally Wadim Tyszkiewicz is a member of Yes! For Poland.}}|votes16=573060|seats16=4|sc16=+1|acolor16={{party color|Independent politician}}\n|alliance17=''Senate Pact 2023 total''|acolor17=#3A5EB4|ivotes17=10354354|ipct17=48.38|iseats17=65|sc17=+14\n|alliance18=United Right (Poland)|United Right|aspan18=5\n|party18=Law and Justice (Poland)|Law and Justice|votes18=6352852|seats18=29|sc18=−9\n|party19=Sovereign Poland|votes19=131649|seats19=1|sc19=−1\n|party20=The Republicans (Poland)|The Republicans|votes20=64020|seats20=0|sc20=New\n|party21=Independents|votes21=901354|seats21=4|sc21=−2\n|atotal22=7449875|aseats22=34|sc22=−14\n|alliance23=Confederation Liberty and Independence|votes23=1443836|seats23=0|sc23=0\n|alliance24=Nonpartisan Local Government Activists|votes24=1049919|seats24=0|sc24=0\n|alliance25=New Democracy - Yes|votes25=95691|seats25=0|sc25=New\n|alliance26=Mirosław Piasecki Candidate for Senator RP|votes26=58102|seats26=0|sc26=0|acolor26=#7A8FB4\n|alliance27=There is One Poland|votes27=55418|seats27=0|sc27=New\n|alliance28=Union of Christian Families|votes28=51206|seats28=0|sc28=New\n|alliance29=Silesians Together|votes29=50274|seats29=0|sc29=0\n|alliance30=Free and Solidary|votes30=42956|seats30=0|sc30=New\n|alliance31=Civic Agreement|votes31=41592|seats31=0|sc31=New|acolor31=#7085C2\n|alliance32=Polska 2050{{efn|name=PL 2050}}|votes32=30763|seats32=0|sc32=New|acolor32=#2B2D88\n|alliance33=German Minority Electoral Committee|votes33=29390|seats33=0|sc33=0\n|alliance34=Polish Pirate Party|votes34=27286|seats34=0|sc34=New|acolor34=#000000\n|alliance35=Slavic Union (Poland)|Slavic Union|votes35=25802|seats35=0|sc35=0\n|alliance36=Prosperity and Peace Movement|votes36=20672|seats36=0|sc36=New|acolor36=#e41d22\n|alliance37=Repair Poland Movement|votes37=15236|seats37=0|sc37=New\n|alliance38=United Beyond Boundaries|United|votes38=13422|seats38=0|sc38=New|acolor38=#EE151F\n|alliance39=Wolnościowcy|votes39=4053|seats39=0|sc39=New\n|alliance40=Normal Country|votes40=2177|seats40=0|sc40=0\n|alliance41=Independents and other committees<br>with a single candidate|votes41=540974|seats41=1|sc41=−3|acolor41={{party color|Independent politician}}\n|total_sc=0\n|invalid=541886\n|electorate=29532595\n|source= National Electoral Commission\n}}",
+                  "references": [
+                    {
+                      "text": "<ref>https://wybory.gov.pl/sejmsenat2023/en/senat/wynik/pl</ref>",
+                      "url": null,
+                      "status_code": null,
+                      "reason": null,
+                      "type": null
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "8.2.2",
+              "title": "By constituency",
+              "content": [
+                {
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Electorate demographics",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "9.s1",
+              "text": "{| class=\"wikitable\" style=\"font-size:90%; text-align:center\"\n! colspan=2 rowspan=2 style=\"width:20%\" | Demographic\n! rowspan=2 style=\"width:5%\" | Turnout\n! style=\"width:10%\" | Law and Justice (Poland)|Law and Justice\n! style=\"width:10%\" | Civic Coalition (Poland)|Civic Coalition\n! style=\"width:10%\" | Third Way (Poland)|Third Way\n! style=\"width:10%\" | The Left (Poland)|The Left\n! style=\"width:10%\" | Confederation Liberty and Independence|Confederation\n! style=\"width:10%\" | Nonpartisan Local Government Activists\n! style=\"width:10%\" | There is One Poland\n! style=\"width:10%\" | Others\n|-\n! style=\"background:{{party color|Law and Justice}}\" |\n! style=\"background:{{party color|Civic Coalition (Poland)}}\" |\n! style=\"background:{{party color|Third Way (Poland)}}\" |\n! style=\"background:{{party color|The Left (Poland)}}\" |\n! style=\"background:{{party color|Confederation Liberty and Independence}}\" |\n! style=\"background:{{party color|Nonpartisan Local Government Activists}}\" |\n! style=\"background:{{party color|There is One Poland}}\" |\n! style=\"background:{{party color|Others}}\" |\n|-\n! colspan=2 | Total vote\n| ''73.9%''\n| style=\"background:#C0DBFC\" | '''36.1%'''\n| 31.0%\n| 14.0%\n| 8.6%\n| 6.8%\n| 2.0%\n| 1.3%\n| 0.2%\n|-\n! colspan=11 | Sex\n|-\n! colspan=2 | Men\n| ''73.1%''\n| style=\"background:#C0DBFC\" | '''36.3%'''\n| 29.4%\n| 13.9%\n| 6.8%\n| 10.2%\n| 2.0%\n| 1.2%\n| 0.2%\n|-\n! colspan=2 | Women\n| ''74.7%''\n| style=\"background:#C0DBFC\" | '''35.9%'''\n| 32.5%\n| 14.1%\n| 10.1%\n| 3.7%\n| 2.1%\n| 1.4%\n| 0.2%\n|-\n! colspan=11 | Age\n|-\n! colspan=2 | 18–29 years old\n| ''70.9%''\n| 14.4%\n| style=\"background:#FDDCB8\" | '''27.6%'''\n| 17.9%\n| 17.4%\n| 17.8%\n| 3.5%\n| 1.2%\n| 0.2%\n|-\n! colspan=2 | 30–39 years old\n| ''73.9%''\n| 25.7%\n| style=\"background:#FDDCB8\" | '''28.8%'''\n| 18.3%\n| 10.4%\n| 11.8%\n| 3.0%\n| 1.7%\n| 0.3%\n|-\n! colspan=2 | 40–49 years old\n| ''80.5%''\n| 31.6%\n| style=\"background:#FDDCB8\" | '''34.5%'''\n| 16.5%\n| 8.1%\n| 5.2%\n| 2.2%\n| 1.7%\n| 0.2%\n|-\n! colspan=2 | 50–59 years old\n| ''84.4%''\n| style=\"background:#C0DBFC\" | '''43.7%'''\n| 32.3%\n| 12.9%\n| 5.1%\n| 3.2%\n| 1.5%\n| 1.2%\n| 0.1%\n|-\n! colspan=2 | 60 or older\n| ''66.5%''\n| style=\"background:#C0DBFC\" | '''52.8%'''\n| 31.0%\n| 8.2%\n| 5.2%\n| 1.1%\n| 0.8%\n| 0.8%\n| 0.1%\n|-\n! colspan=11 | Occupation\n|-\n! colspan=2 | Company owner\n| ''n/a''\n| 20.3%\n| style=\"background:#FDDCB8\" | '''42.2%'''\n| 15.9%\n| 7.4%\n| 10.9%\n| 1.6%\n| 1.5%\n| 0.2%\n|-\n! colspan=2 | Manager/expert\n| ''n/a''\n| 18.4%\n| style=\"background:#FDDCB8\" | '''40.4%'''\n| 19.2%\n| 11.3%\n| 7.3%\n| 2.0%\n| 1.2%\n| 0.2%\n|-\n! colspan=2 | Admin/services\n| ''n/a''\n| 29.2%\n| style=\"background:#FDDCB8\" | '''31.6%'''\n| 17.2%\n| 10.7%\n| 7.1%\n| 2.5%\n| 1.5%\n| 0.2%\n|-\n! colspan=2 | Farmer\n| ''n/a''\n| style=\"background:#C0DBFC\" | '''66.6%'''\n| 9.5%\n| 11.5%\n| 3.0%\n| 5.3%\n| 2.2%\n| 1.5%\n| 0.4%\n|-\n! colspan=2 | Worker\n| ''n/a''\n| style=\"background:#C0DBFC\" | '''49.6%'''\n| 19.8%\n| 11.1%\n| 5.1%\n| 9.6%\n| 3.1%\n| 1.5%\n| 0.2%\n|-\n! colspan=2 | Student\n| ''n/a''\n| 11.0%\n| style=\"background:#FDDCB8\" | '''31.0%'''\n| 18.6%\n| 21.6%\n| 13.4%\n| 3.1%\n| 1.1%\n| 0.2%\n|-\n! colspan=2 | Unemployed\n| ''n/a''\n| style=\"background:#C0DBFC\" | '''45.2%'''\n| 21.4%\n| 11.8%\n| 7.7%\n| 9.0%\n| 3.1%\n| 1.5%\n| 0.3%\n|-\n! colspan=2 | Retired\n| ''n/a''\n| style=\"background:#C0DBFC\" | '''53.4%'''\n| 30.6%\n| 7.8%\n| 5.5%\n| 1.1%\n| 0.8%\n| 0.7%\n| 0.1%\n|-\n! colspan=2 | Others\n| ''n/a''\n| style=\"background:#C0DBFC\" | '''34.7%'''\n| 27.4%\n| 15.8%\n| 8.9%\n| 8.5%\n| 2.9%\n| 1.6%\n| 0.2%\n|-\n! colspan=11 | Agglomeration\n|-\n! colspan=2 | Rural\n| ''70.3%''\n| style=\"background:#C0DBFC\" | '''47.6%'''\n| 21.2%\n| 13.4%\n| 5.9%\n| 7.8%\n| 2.4%\n| 1.4%\n| 0.3%\n|-\n! colspan=2 | <50,000 pop.\n| ''74.1%''\n| style=\"background:#C0DBFC\" | '''33.7%'''\n| 33.4%\n| 14.7%\n| 8.3%\n| 6.5%\n| 2.1%\n| 1.2%\n| 0.1%\n|-\n! colspan=2 | 51,000 - 200,000 pop.\n| ''73.9%''\n| 29.7%\n| style=\"background:#FDDCB8\" | '''36.7%'''\n| 13.8%\n| 9.9%\n| 6.4%\n| 1.8%\n| 1.5%\n| 0.2%\n|-\n! colspan=2 | 201,000 – 500,000 pop.\n| ''82.6%''\n| 23.9%\n| style=\"background:#FDDCB8\" | '''41.4%'''\n| 15.8%\n| 10.7%\n| 5.4%\n| 1.8%\n| 0.8%\n| 0.2%\n|-\n! colspan=2 | >500,000 pop.\n| ''81.2%''\n| 21.1%\n| style=\"background:#FDDCB8\" | '''42.9%'''\n| 14.0%\n| 14.5%\n| 5.5%\n| 1.3%\n| 0.7%\n| 0.0%\n|-\n! colspan=11 | Education\n|-\n! colspan=2 | Elementary\n| ''n/a''\n| style=\"background:#C0DBFC\" | '''62.6%'''\n| 15.4%\n| 7.7%\n| 4.7%\n| 6.1%\n| 2.5%\n| 0.8%\n| 0.2%\n|-\n! colspan=2 | Vocational\n| ''n/a''\n| style=\"background:#C0DBFC\" | '''61.5%'''\n| 18.1%\n| 8.3%\n| 4.2%\n| 4.6%\n| 2.1%\n| 1.0%\n| 0.2%\n|-\n! colspan=2 | Secondary\n| ''n/a''\n| style=\"background:#C0DBFC\" | '''37.7%'''\n| 29.9%\n| 13.0%\n| 8.1%\n| 7.7%\n| 2.2%\n| 1.2%\n| 0.2%\n|-\n! colspan=2 | Higher\n| ''n/a''\n| 22.2%\n| style=\"background:#FDDCB8\" | '''38.6%'''\n| 17.8%\n| 11.1%\n| 6.8%\n| 1.8%\n| 1.5%\n| 0.2%\n|-\n! colspan=11 | Sejm vote in 2019\n|-\n! style=\"background:{{party color|Law and Justice}}\" |\n! Law and Justice (Poland)|Law and Justice\n| ''n/a''\n| style=\"background:#C0DBFC\" | '''87.7%'''\n| 2.0%\n| 3.5%\n| 1.1%\n| 2.8%\n| 1.4%\n| 1.4%\n| 0.1%\n|-\n! style=\"background:{{party color|Civic Coalition (Poland)}}\" |\n! Civic Coalition (Poland)|Civic Coalition\n| ''n/a''\n| 1.0%\n| style=\"background:#FDDCB8\" | '''73.6%'''\n| 16.1%\n| 7.2%\n| 1.1%\n| 0.7%\n| 0.2%\n| 0.1%\n|-\n! style=\"background:{{party color|The Left (Poland)}}\" |\n! The Left (Poland)|The Left\n| ''n/a''\n| 2.3%\n| 23.1%\n| 14.1%\n| style=\"background:#F5AAB3\" | '''57.3%'''\n| 1.0%\n| 1.7%\n| 0.4%\n| 0.1%\n|-\n! style=\"background:{{party color|Polish Coalition}}\" |\n! Polish Coalition\n| ''n/a''\n| 14.1%\n| 14.1%\n| style=\"background:#B3E5AA\" | '''57.8%'''\n| 7.0%\n| 2.7%\n| 3.3%\n| 1.0%\n| 0.0%\n|-\n! style=\"background:{{party color|Confederation Liberty and Independence}}\" |\n! Confederation Liberty and Independence|Confederation\n| ''n/a''\n| 6.8%\n| 8.9%\n| 11.1%\n| 3.0%\n| style=\"background:#CECECE\" | '''63.3%'''\n| 3.4%\n| 3.1%\n| 0.4%\n|-\n! style=\"background:{{party color|Others}}\" |\n! Others\n| ''n/a''\n| 6.7%\n| 19.0%\n| style=\"background:#B3E5AA\" | '''36.2%'''\n| 17.8%\n| 6.6%\n| 7.7%\n| 4.5%\n| 1.5%\n|-\n! colspan=2 | Didn't vote\n| ''n/a''\n| 14.7%\n| style=\"background:#FDDCB8\" | '''27.1%'''\n| 18.7%\n| 13.3%\n| 19.8%\n| 4.0%\n| 1.8%\n| 0.6%\n|-\n! colspan=2 | Don't remember\n| ''n/a''\n| 20.9%\n| style=\"background:#FDDCB8\" | '''26.1%'''\n| 24.6%\n| 12.4%\n| 8.8%\n| 4.3%\n| 2.3%\n| 0.6%\n|-\n! colspan=11 | Second-round president vote in 2020\n|-\n! style=\"background:{{party color|Law and Justice}}\" |\n! Andrzej Duda\n| ''n/a''\n| style=\"background:#C0DBFC\" | '''81.4%'''\n| 2.7%\n| 4.7%\n| 1.5%\n| 6.0%\n| 1.8%\n| 1.8%\n| 0.1%\n|-\n! style=\"background:{{party color|Civic Coalition (Poland)}}\" |\n! Rafał Trzaskowski\n| ''n/a''\n| 1.4%\n| style=\"background:#FDDCB8\" | '''60.7%'''\n| 19.8%\n| 13.7%\n| 2.8%\n| 1.1%\n| 0.3%\n| 0.2%\n|-\n! colspan=2 | Didn't vote\n| ''n/a''\n| 14.7%\n| style=\"background:#FDDCB8\" | '''27.1%'''\n| 18.7%\n| 13.3%\n| 19.8%\n| 4.0%\n| 1.8%\n| 0.6%\n|-\n! colspan=2 | Don't remember\n| ''n/a''\n| 20.9%\n| style=\"background:#FDDCB8\" | '''26.1%'''\n| 24.6%\n| 12.4%\n| 8.8%\n| 4.3%\n| 2.3%\n| 0.6%\n|-\n! colspan=11 | Source: Ipsos\n|}",
+              "references": [
+                {
+                  "text": "<ref>{{cite web|url=https://tvn24.pl/wybory-parlamentarne-2023/wyniki-sondazowe|title=Wyniki sondażowe|access-date=17 October 2023|archive-date=16 October 2023|archive-url=https://web.archive.org/web/20231016191551/https://tvn24.pl/wybory-parlamentarne-2023/wyniki-sondazowe|url-status=live}}</ref>",
+                  "url": "https://tvn24.pl/wybory-parlamentarne-2023/wyniki-sondazowe",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Analysis",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "10.s1",
+              "text": "Turnout was 74.7% among women and 73.1% among men, with both giving similar levels of support for the government and two leading opposition parties, Civic Coalition and Third Way. Analysts identified a \"youthquake\" in which voting by Poland's young voters had a disproportionate impact on the election outcome. Turnout for ages 18–29 reached 68.8%, compared to 46.4% in the previous elections of 2019; among these voters, support for the ruling party fell to 14.9% from 26.3% four years earlier.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | url=https://www.dw.com/en/were-women-key-to-voting-out-polands-ruling-conservatives/a-67214867 | title=Were women key to voting out Poland's ruling conservatives? – DW – 10/25/2023 | website=Deutsche Welle | access-date=26 October 2023 | archive-date=26 October 2023 | archive-url=https://web.archive.org/web/20231026042117/https://www.dw.com/en/were-women-key-to-voting-out-polands-ruling-conservatives/a-67214867 | url-status=live }}</ref>",
+                  "url": "https://www.dw.com/en/were-women-key-to-voting-out-polands-ruling-conservatives/a-67214867",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | url=https://notesfrompoland.com/2023/10/19/record-number-of-female-mps-in-polands-parliament-after-elections/ | title=Record number of female MPS in Poland's parliament after elections | date=19 October 2023 | access-date=24 October 2023 | archive-date=25 October 2023 | archive-url=https://web.archive.org/web/20231025171307/https://notesfrompoland.com/2023/10/19/record-number-of-female-mps-in-polands-parliament-after-elections/ | url-status=live }}</ref>",
+                  "url": "https://notesfrompoland.com/2023/10/19/record-number-of-female-mps-in-polands-parliament-after-elections/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | url=https://www.euronews.com/2023/10/18/no-country-for-old-men-how-young-voters-helped-swing-the-elections-in-poland | title=Young voters' turnout in Poland showed it's 'No country for Old Men' | date=18 October 2023 | access-date=24 October 2023 | archive-date=23 October 2023 | archive-url=https://web.archive.org/web/20231023191133/https://www.euronews.com/2023/10/18/no-country-for-old-men-how-young-voters-helped-swing-the-elections-in-poland | url-status=live }}</ref>",
+                  "url": "https://www.euronews.com/2023/10/18/no-country-for-old-men-how-young-voters-helped-swing-the-elections-in-poland",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Aftermath",
+      "content": [
+        {
+          "sentences": [
+            {
+              "id": "11.s1",
+              "text": "{{Infobox event\n| title                    = 2023 Polish government formation\n| image                    = Umowa Koalicyjna.jpg\n| image_size               =\n| image_upright            =\n| image_alt                =\n| caption                  = Leaders of the three opposition parties after signing the coalition agreement.\n| native_name              =\n| native_name_lang         =\n| english_name             =\n| time                     =\n| duration                 =\n| date                     = 24 October 2023 – 13 December 2023\n| venue                    =\n| location                 = Poland\n| coordinates              =\n| also_known_as            =\n| type                     = Parliamentary system|Parliamentary government formation\n| theme                    =\n| cause                    = 2023 Polish parliamentary election\n| participants             = PiS, Civic Coalition (Poland)|KO, Third Way (Poland)|TD (Polish People's Party|PSL, PL2050), The Left (Poland)|Lewica\n| outcome                  = \n* President Andrzej Duda designates Mateusz Morawiecki as Prime Minister and appoints the Third Cabinet of Mateusz Morawiecki|Third Morawiecki Cabinet\n* The Morawiecki cabinet fails a vote of confidence in the Sejm\n* The Sejm nominates Donald Tusk as its candidate for Prime Minister and passes a vote of confidence in his proposed cabinet\n* Formation of the Third Cabinet of Donald Tusk|Third Tusk Cabinet, which President Duda swears in\n}}\nPresident Andrzej Duda later announced that he would hold consultations separately with every parliamentary party leader on 24 and 25 October. On 24 October, leaders of the Civic Coalition (Poland)|Civic Coalition, the Polish People's Party, Poland 2050, and The Left (Poland)|The Left stated they are ready to form a government with Donald Tusk as their candidate for prime minister. However, Duda had a maximum of 30 days to call parliament into session, especially if he wanted the ruling Law and Justice party to try to build a government. Opposition parties had called on Duda to allow them to form a government as soon as possible and respect the will of the voters. Representatives of Duda stated that he would do so within the timeframe that the Constitution demands and allows.",
+              "references": [
+                {
+                  "text": "<ref>{{cite news |title=Poland's president to start consultations on forming new government |url=https://www.rfi.fr/en/international/20231020-poland-s-president-to-consult-with-party-leaders-on-forming-government |work=Radio France Internationale|RFI |date=20 October 2023 |access-date=23 October 2023 |archive-date=23 October 2023 |archive-url=https://web.archive.org/web/20231023080958/https://www.rfi.fr/en/international/20231020-poland-s-president-to-consult-with-party-leaders-on-forming-government |url-status=live }}</ref>",
+                  "url": "https://www.rfi.fr/en/international/20231020-poland-s-president-to-consult-with-party-leaders-on-forming-government",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite web | url=https://tvpworld.com/73661579/poland-president-concludes-consultations-with-party-leaders-on-forming-new-government | title=President met with all leaders of new parliament | access-date=26 October 2023 | archive-date=26 October 2023 | archive-url=https://web.archive.org/web/20231026040058/https://tvpworld.com/73661579/poland-president-concludes-consultations-with-party-leaders-on-forming-new-government | url-status=live }}</ref>",
+                  "url": "https://tvpworld.com/73661579/poland-president-concludes-consultations-with-party-leaders-on-forming-new-government",
+                  "status_code": 404,
+                  "reason": "Not Found",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | url=https://www.nwaonline.com/news/2023/oct/25/premier-hopeful-emerges-in-poland | title=Premier hopeful emerges in Poland &#124; Northwest Arkansas Democrat-Gazette | date=25 October 2023 | access-date=26 October 2023 | archive-date=26 October 2023 | archive-url=https://web.archive.org/web/20231026040039/https://www.nwaonline.com/news/2023/oct/25/premier-hopeful-emerges-in-poland/ | url-status=live }}</ref>",
+                  "url": "https://www.nwaonline.com/news/2023/oct/25/premier-hopeful-emerges-in-poland",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "11.s2",
+              "text": "On 6 November, Duda named Law and Justice's incumbent prime minister Mateusz Morawiecki as his prime ministerial nominee. This move was criticized by the opposition, as the United Right was 40 seats short of a majority and no other bloc had agreed to join them for coalition talks.",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |title=Prezydent Andrzej Duda wskazał, komu powierzy misję tworzenia rządu |url=https://wiadomosci.onet.pl/kraj/prezydent-andrzej-duda-wskazal-komu-powierzy-misje-tworzenia-rzadu/7rsnxbv |access-date=6 November 2023 |website=wiadomosci.onet.pl |date=6 November 2023 |language=pl |archive-date=6 November 2023 |archive-url=https://web.archive.org/web/20231106191818/https://wiadomosci.onet.pl/kraj/prezydent-andrzej-duda-wskazal-komu-powierzy-misje-tworzenia-rzadu/7rsnxbv |url-status=live }}</ref>",
+                  "url": "https://wiadomosci.onet.pl/kraj/prezydent-andrzej-duda-wskazal-komu-powierzy-misje-tworzenia-rzadu/7rsnxbv",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Prezydent wszystkich Polaków (którzy głosowali na PiS) |url=https://wiadomosci.onet.pl/opinie/prezydent-wszystkich-polakow-ktorzy-glosowali-na-pis/3web5ys |access-date=6 November 2023 |website=wiadomosci.onet.pl |date=6 November 2023 |language=pl |archive-date=6 November 2023 |archive-url=https://web.archive.org/web/20231106192156/https://wiadomosci.onet.pl/opinie/prezydent-wszystkich-polakow-ktorzy-glosowali-na-pis/3web5ys |url-status=live }}</ref>",
+                  "url": "https://wiadomosci.onet.pl/opinie/prezydent-wszystkich-polakow-ktorzy-glosowali-na-pis/3web5ys",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "11.s3",
+              "text": "On 10 November, Civic Coalition, Poland 2050, Polish People's Party and New Left signed a coalition agreement with Tusk as their candidate for prime minister. The opposition parties wanted to sign the agreement before the Sejm's first sitting in order to show that they stood ready to govern. Morawiecki was required to secure the Sejm's Motion of no confidence|confidence within two weeks of being sworn in. Under the Constitution, if Morawiecki failed to do so, the Sejm would then designate its own candidate for prime minister, and Duda would be required to appoint that candidate before 11 December. Most commentators expected Morawiecki to come up short of the support needed to govern, as no other party willing to go into coalition with PiS would give it enough support to command the confidence of the Sejm.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | url = https://www.bbc.com/news/world-europe-67381267.amp | title = Poland's Tusk-led pro-EU opposition signs deal and waits to govern | work = BBC | author = Easton, Adam | date = 10 November 2023 | access-date = 10 November 2023 | archive-date = 10 November 2023 | archive-url = https://web.archive.org/web/20231110171740/https://www.bbc.com/news/world-europe-67381267.amp | url-status = live }}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "11.s4",
+              "text": "On 13 November, the newly elected Sejm held its first session. Szymon Hołownia, leader of Poland 2050, was elected Marshal of the Sejm, winning over the incumbent Elżbieta Witek of PiS. Later that day, on the first meeting of the Senate, former Marshal of the Sejm Małgorzata Kidawa-Błońska of Civic Coalition was elected Marshal of the Senate of the Republic of Poland|Marshal of the Senate.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | url = https://www.politico.eu/article/poland-parliament-speaker-holownia-as-the-opposition-takes-power/ | title = New broom in Poland's parliament as the opposition takes power | author = Wojciech Kość | date = 13 November 2023 | work = Politico Europe | access-date = 17 November 2023 | archive-date = 17 November 2023 | archive-url = https://web.archive.org/web/20231117052437/https://www.politico.eu/article/poland-parliament-speaker-holownia-as-the-opposition-takes-power/ | url-status = live }}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web| url = https://www.rp.pl/polityka/art39396661-malgorzata-kidawa-blonska-wybrana-marszalkiem-senatu| title = Małgorzata Kidawa-Błońska wybrana marszałkiem Senatu| language = pl| date = 13 November 2023| access-date = 17 November 2023| work = Rzeczpospolita| archive-date = 17 November 2023| archive-url = https://web.archive.org/web/20231117143355/https://www.rp.pl/polityka/art39396661-malgorzata-kidawa-blonska-wybrana-marszalkiem-senatu| url-status = live}}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "11.s5",
+              "text": "On 27 November, Mateusz Morawiecki was sworn in by President Duda for an unprecedented Third Cabinet of Mateusz Morawiecki|third term as Prime Minister of Poland|Prime Minister. Third Cabinet of Mateusz Morawiecki|His cabinet had been mockingly dubbed the \"Two Weeks Government\" by Polish media due to its low likelihood of passing the confidence vote. Though the far-right Confederation Liberty and Independence had been suggested by commentators as a potential coalition partner, Krzysztof Bosak, leader of the Confederation component National Movement (Poland)|National Movement, told Politico Europe that \"there is no chance\" of Confederation supporting a PiS government. Even had Confederation supported PiS, the United Right would have still been well short of a majority in the Sejm. Former prime minister Leszek Miller joked that the Morawiecki government would not survive even as long as a house fly, saying on Twitter that \"Morawiecki's government will not even have time to pupate, let alone lay eggs.\"",
+              "references": [
+                {
+                  "text": "<ref>{{Cite web |date=2023-11-27 |title=Uroczystość powołania przez Prezydenta RP nowego rządu |url=https://www.prezydent.pl/aktualnosci/wydarzenia/uroczystosc-powolania-przez-prezydenta-rp-nowego-rzadu,77895 |access-date=2023-11-27 |website=Oficjalna strona Prezydenta Rzeczypospolitej Polskiej |language=pl}}</ref>",
+                  "url": "https://www.prezydent.pl/aktualnosci/wydarzenia/uroczystosc-powolania-przez-prezydenta-rp-nowego-rzadu,77895",
+                  "status_code": 403,
+                  "reason": "Forbidden",
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |title=Prezydent powoła \"rząd dwutygodniowy\" |url=https://wyborcza.pl/7,75398,30444513,prezydent-powola-rzad-dwutygodniowy.html |access-date=2023-11-27 |website=wyborcza.pl |language=pl |archive-date=28 November 2023 |archive-url=https://web.archive.org/web/20231128110129/https://wyborcza.pl/7,75398,30444513,prezydent-powola-rzad-dwutygodniowy.html |url-status=live }}</ref>",
+                  "url": "https://wyborcza.pl/7,75398,30444513,prezydent-powola-rzad-dwutygodniowy.html",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-11-27 |title=Rząd na dwa tygodnie może kosztować setki tysięcy złotych |url=https://tvn24.pl/biznes/z-kraju/rzad-morawieckiego-odprawy-dla-ministrow-ile-wyniosa-kto-je-dostanie-st7456598 |access-date=2023-11-27 |website=TVN24 Biznes |language=pl |archive-date=28 November 2023 |archive-url=https://web.archive.org/web/20231128110127/https://tvn24.pl/biznes/z-kraju/rzad-morawieckiego-odprawy-dla-ministrow-ile-wyniosa-kto-je-dostanie-st7456598 |url-status=live }}</ref>",
+                  "url": "https://tvn24.pl/biznes/z-kraju/rzad-morawieckiego-odprawy-dla-ministrow-ile-wyniosa-kto-je-dostanie-st7456598",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |last=Gotowalska-Wróblewska |first=Żaneta |date=2023-11-27 |title=Dwutygodniowy rząd (upokorzenia) kobiet |url=https://wiadomosci.wp.pl/dwutygodniowy-rzad-upokorzenia-kobiet-opinia-6967721128323968a |access-date=2023-11-28 |website=wiadomosci.wp.pl |language=pl |archive-date=28 November 2023 |archive-url=https://web.archive.org/web/20231128110128/https://wiadomosci.wp.pl/dwutygodniowy-rzad-upokorzenia-kobiet-opinia-6967721128323968a |url-status=live }}</ref>",
+                  "url": "https://wiadomosci.wp.pl/dwutygodniowy-rzad-upokorzenia-kobiet-opinia-6967721128323968a",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{Cite web |date=2023-11-27 |title=Poland's zombie government shuffles into being |url=https://www.politico.eu/article/poland-government-election-donald-tusk-mateusz-morawiecki-andrzej-duda/ |access-date=2023-11-28 |website=POLITICO |language=en |archive-date=27 November 2023 |archive-url=https://web.archive.org/web/20231127232443/https://www.politico.eu/article/poland-government-election-donald-tusk-mateusz-morawiecki-andrzej-duda/ |url-status=live }}</ref>",
+                  "url": "https://www.politico.eu/article/poland-government-election-donald-tusk-mateusz-morawiecki-andrzej-duda/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "web"
+                }
+              ]
+            },
+            {
+              "id": "11.s6",
+              "text": "On 11 December, Morawiecki's caretaker cabinet lost a vote of confidence in the Sejm by 190 votes to 266. Later that day, the Sejm nominated Tusk for prime minister, who was subsequently confirmed by 248 votes in favour and 201 against. Third Cabinet of Donald Tusk|Tusk's cabinet was sworn in on 13 December.",
+              "references": [
+                {
+                  "text": "<ref>{{cite web | url = https://www.reuters.com/world/europe/all-eyes-polish-parliament-tusk-set-become-pm-2023-12-11/ | title = Polish prime minister loses confidence vote, clearing way for Donald Tusk | work = Reuters | date = 2023-12-11 | access-date = 2023-12-11 | archive-date = 11 December 2023 | archive-url = https://web.archive.org/web/20231211160724/https://www.reuters.com/world/europe/all-eyes-polish-parliament-tusk-set-become-pm-2023-12-11/ | url-status = live }}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite web | url = https://www.bbc.co.uk/news/world-europe-67681940 | title = Donald Tusk nominated as Polish prime minister | work = British Broadcasting Cooperation|BBC | date = 2023-12-11 | access-date = 2023-12-11 | archive-date = 11 December 2023 | archive-url = https://web.archive.org/web/20231211155124/https://www.bbc.co.uk/news/world-europe-67681940 | url-status = live }}</ref>",
+                  "url": null,
+                  "status_code": null,
+                  "reason": null,
+                  "type": "web"
+                },
+                {
+                  "text": "<ref>{{cite news | url=https://www.reuters.com/world/europe/all-eyes-polish-parliament-tusk-set-become-pm-2023-12-11/ | title=Donald Tusk appointed Polish PM, setting stage for warmer EU ties | newspaper=Reuters | date=11 December 2023 | last1=Koper | first1=Anna | last2=Wlodarczak-Semczuk | first2=Anna | access-date=11 December 2023 | archive-date=11 December 2023 | archive-url=https://web.archive.org/web/20231211160724/https://www.reuters.com/world/europe/all-eyes-polish-parliament-tusk-set-become-pm-2023-12-11/ | url-status=live }}</ref>",
+                  "url": "https://www.reuters.com/world/europe/all-eyes-polish-parliament-tusk-set-become-pm-2023-12-11/",
+                  "status_code": 401,
+                  "reason": "HTTP Forbidden",
+                  "type": "news"
+                },
+                {
+                  "text": "<ref>{{cite news |last1=Cienski |first1=Jan |last2=Hülsemann |first2=Laura |title=Donald Tusk sworn in as Polish PM |url=https://www.politico.eu/article/donald-tusk-poland-sworn-in-prime-minister/ |access-date=18 December 2023 |work=POLITICO |agency=Politico |date=13 December 2023 |language=en |archive-date=17 December 2023 |archive-url=https://web.archive.org/web/20231217134005/https://www.politico.eu/article/donald-tusk-poland-sworn-in-prime-minister/ |url-status=live }}</ref>",
+                  "url": "https://www.politico.eu/article/donald-tusk-poland-sworn-in-prime-minister/",
+                  "status_code": 200,
+                  "reason": null,
+                  "type": "news"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Notes",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "title": "References",
+      "content": [
+        {
+          "sentences": []
+        }
+      ]
+    }
+  ]
+}

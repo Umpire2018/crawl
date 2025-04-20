@@ -14,7 +14,7 @@
                 {
                   "text": "<ref>{{Cite web|date=1 June 2023|title=Erdoğan's Next Fight|url=https://carnegieendowment.org/posts/2023/06/erdogans-next-fight?lang=en|author=Alper Coşkun|access-date=10 November 2023|work=Carnegie Endowment for International Peace|archive-date=4 June 2023|archive-url=https://web.archive.org/web/20230604131527/https://carnegieendowment.org/2023/06/01/erdo-s-next-fight-pub-89873|url-status=live}}</ref>",
                   "url": "https://carnegieendowment.org/posts/2023/06/erdogans-next-fight?lang=en",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -27,7 +27,7 @@
                 {
                   "text": "<ref name=\"auto\">{{Cite news|url=https://www.economist.com/europe/2024/03/31/turkeys-president-recep-tayyip-erdogan-suffers-an-electoral-disaster|title=Turkey's President Recep Tayyip Erdogan suffers an electoral disaster|newspaper=The Economist|access-date=1 April 2024|archive-date=1 April 2024|archive-url=https://web.archive.org/web/20240401145415/https://www.economist.com/europe/2024/03/31/turkeys-president-recep-tayyip-erdogan-suffers-an-electoral-disaster|url-status=live}}</ref>",
                   "url": "https://www.economist.com/europe/2024/03/31/turkeys-president-recep-tayyip-erdogan-suffers-an-electoral-disaster",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
@@ -35,7 +35,7 @@
                   "text": "<ref name=secaa>{{cite web| title=Seçim 2024| website=Anadolu Agency| access-date=2 April 2024| url=https://secim.aa.com.tr/| archive-date=14 May 2023| archive-url=https://web.archive.org/web/20230514223153/https://secim.aa.com.tr//| url-status=live}}</ref>",
                   "url": "https://secim.aa.com.tr/",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 }
               ]
@@ -47,7 +47,7 @@
                 {
                   "text": "<ref>{{Cite web |url=https://www.bta.bg/en/news/balkans/649633-meral-aksener-gives-up-good-party-leadership-following-defeat-in-local-elections |title=Archived copy |access-date=9 April 2024 |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409032037/https://www.bta.bg/en/news/balkans/649633-meral-aksener-gives-up-good-party-leadership-following-defeat-in-local-elections |url-status=live }}</ref>",
                   "url": "https://www.bta.bg/en/news/balkans/649633-meral-aksener-gives-up-good-party-leadership-following-defeat-in-local-elections",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -92,14 +92,14 @@
                     {
                       "text": "<ref>{{Cite web |last=Sabah |first=Daily |date=2023-06-30 |title=Kılıçdaroğlu set to remain at helm of CHP despite resignation calls |url=https://www.dailysabah.com/politics/elections/kilicdaroglu-set-to-remain-at-helm-of-chp-despite-resignation-calls |access-date=2024-09-25 |website=Daily Sabah |language=en-US}}</ref>",
                       "url": "https://www.dailysabah.com/politics/elections/kilicdaroglu-set-to-remain-at-helm-of-chp-despite-resignation-calls",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref name=\":1\">{{Cite web |date=2023-11-05 |title=Turkey's main opposition party elects Ozgur Ozel as new leader |url=https://apnews.com/article/chp-ozel-leadership-kilicdaroglu-turkey-opposition-election-c8fa993c831d7013a22e656002b8781b |access-date=2024-09-25 |website=AP News |language=en}}</ref>",
                       "url": "https://apnews.com/article/chp-ozel-leadership-kilicdaroglu-turkey-opposition-election-c8fa993c831d7013a22e656002b8781b",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -128,7 +128,7 @@
                     {
                       "text": "<ref>{{Cite web |date=2024-01-18 |title=Turgut Altınok: AKP'nin Keçiören'le özdeşleşen, 'A takımı' iddiaları ve Melih Gökçek'le tartışmalarıyla bilinen Ankara Büyükşehir Belediye Başkan Adayı |url=https://www.bbc.com/turkce/articles/cp939001n13o |access-date=2024-04-01 |website=BBC News Türkçe |language=tr |archive-date=30 January 2024 |archive-url=https://web.archive.org/web/20240130233915/https://www.bbc.com/turkce/articles/cp939001n13o |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/turkce/articles/cp939001n13o",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -160,14 +160,14 @@
                     {
                       "text": "<ref>{{cite web |access-date=24 September 2023 |archive-date=26 September 2023 |archive-url=https://web.archive.org/web/20230926132344/https://www.dha.com.tr/politika/aksener-ittifak-sistemini-reddediyoruz-2314142 |date=18 September 2023 |language=tr |title=Akşener: İttifak sistemini reddediyoruz |url=https://www.dha.com.tr/politika/aksener-ittifak-sistemini-reddediyoruz-2314142 |url-status=live |work=DHA {{!}} Demirören Haber Ajansı}}<!-- auto-translated from Turkish by Module:CS1 translator --></ref>",
                       "url": "https://www.dha.com.tr/politika/aksener-ittifak-sistemini-reddediyoruz-2314142",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2023-12-04 |title=İYİ Parti, CHP'nin seçim işbirliği önerisini neden reddetti? |url=https://www.bbc.com/turkce/articles/ce9p5v87ejno |access-date=2024-04-01 |website=BBC News Türkçe |language=tr |archive-date=4 December 2023 |archive-url=https://web.archive.org/web/20231204210414/https://www.bbc.com/turkce/articles/ce9p5v87ejno |url-status=live }}</ref>",
                       "url": "https://www.bbc.com/turkce/articles/ce9p5v87ejno",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -193,27 +193,27 @@
                   "text": "<ref>{{cite web |access-date=4 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103214101/https://www.resmigazete.gov.tr/eskiler/2024/01/20240102M1-2.pdf |date=2 January 2024 |publisher=resmigazete.gov.tr |title=YÜKSEK SEÇİM KURULU KARARI |url=https://www.resmigazete.gov.tr/eskiler/2024/01/20240102M1-2.pdf}}<!-- auto-translated from Turkish by Module:CS1 translator --></ref>",
                   "url": "https://www.resmigazete.gov.tr/eskiler/2024/01/20240102M1-2.pdf}}<!--",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |access-date=4 January 2024 |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103213715/https://www.yenicaggazetesi.com.tr/ysk-baskani-yerel-secime-girebilecek-partileri-acikladi-751161h.htm |date=2 January 2024 |language=tr |title=YSK Başkanı yerel seçime girebilecek partileri açıkladı |url=https://www.yenicaggazetesi.com.tr/ysk-baskani-yerel-secime-girebilecek-partileri-acikladi-751161h.htm |work=Yeniçağ Gazetesi}}<!-- auto-translated from Turkish by Module:CS1 translator --></ref>",
                   "url": "https://www.yenicaggazetesi.com.tr/ysk-baskani-yerel-secime-girebilecek-partileri-acikladi-751161h.htm",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":0\">{{cite web |access-date=23 January 2024 |archive-date=23 January 2024 |archive-url=https://web.archive.org/web/20240123132706/https://www.gazeteduvar.com.tr/amp/yenilik-partisi-yerel-secime-katilmayacak-haber-1661079 |date=11 January 2024 |title=Yenilik Partisi yerel seçime katılmayacak |url=https://www.gazeteduvar.com.tr/amp/yenilik-partisi-yerel-secime-katilmayacak-haber-1661079 |work=www.gazeteduvar.com.tr}}<!-- auto-translated from Turkish by Module:CS1 translator --></ref>",
                   "url": "https://www.gazeteduvar.com.tr/amp/yenilik-partisi-yerel-secime-katilmayacak-haber-1661079",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{cite web |access-date=28 January 2024 |archive-date=27 January 2024 |archive-url=https://web.archive.org/web/20240127194913/https://www.bbc.com/turkce/articles/cge7wzdgrk2o.amp |date=27 January 2024 |language=tr |title=Partilerin oy pusulasındaki yerleri belli oldu |url=https://www.bbc.com/turkce/articles/cge7wzdgrk2o |work=BBC News Türkçe}}<!-- auto-translated from Turkish by Module:CS1 translator --></ref>",
                   "url": "https://www.bbc.com/turkce/articles/cge7wzdgrk2o",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -227,13 +227,13 @@
                   "text": "<ref>{{Cite web |title=Faaliyette Olan Siyasi Partiler |trans-title=Active political parties |url=https://www.yargitaycb.gov.tr/kategori/108/faaliyette-olan-siyasi-partiler |website=:tr:Yargıtay Cumhuriyet Başsavcılığı (Türkiye) |language=tr |access-date=10 January 2024 |archive-date=13 February 2020 |archive-url=https://web.archive.org/web/20200213014933/https://www.yargitaycb.gov.tr/kategori/108/faaliyette-olan-siyasi-partiler |url-status=live }}</ref>",
                   "url": "https://www.yargitaycb.gov.tr/kategori/108/faaliyette-olan-siyasi-partiler",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Cannot connect to host www.yargitaycb.gov.tr:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')]",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |title=Türkiye Report 2023 – European Commission |url=https://neighbourhood-enlargement.ec.europa.eu/turkiye-report-2023_en |access-date=29 December 2023 |website=neighbourhood-enlargement.ec.europa.eu |language=en |quote=Regarding political associations, the 8th Administrative Court of Ankara found unlawful the stance of the Ministry of Interior, which prevented the establishment of the Green Party by not providing a ‘received’ certificate for the application and decided to stay the execution of the process. The Court of Appeal has since removed the stay of execution decision regarding the Ministry of Interior’s act, the Green Party is again prevented from being established and the case is still pending. The file for the establishment of the Humanity and Freedom Party is pending before the Constitutional Court. |archive-date=23 December 2023 |archive-url=https://web.archive.org/web/20231223163712/https://neighbourhood-enlargement.ec.europa.eu/turkiye-report-2023_en |url-status=live }}</ref>",
-                  "url": "https://neighbourhood-enlargement.ec.europa.eu/turkiye-report-2023_en",
-                  "status_code": null,
+                  "url": "https://enlargement.ec.europa.eu/turkiye-report-2023_en",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -256,7 +256,7 @@
                 {
                   "text": "<ref>{{Cite news |date=11 February 2024 |title=17 people detained after attack at Istanbul election campaign event, official says |url=https://apnews.com/article/turkey-istanbul-election-attack-ceae16a15eb2760c07a735ae32322af9 |work=Associated Press |access-date=10 March 2024 |archive-date=11 February 2024 |archive-url=https://web.archive.org/web/20240211122058/https://apnews.com/article/turkey-istanbul-election-attack-ceae16a15eb2760c07a735ae32322af9 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/turkey-istanbul-election-attack-ceae16a15eb2760c07a735ae32322af9",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -269,7 +269,7 @@
                 {
                   "text": "<ref>{{Cite news |date=10 March 2024 |title=Turkish police detain 33 people accused of plotting attacks ahead of local elections, official says |url=https://apnews.com/article/islamic-state-elections-sakarya-yerlikaya-23ff094b7d157277ebdd6c8fb70be6bf |work=Associated Press |access-date=10 March 2024 |archive-date=10 March 2024 |archive-url=https://web.archive.org/web/20240310153341/https://apnews.com/article/islamic-state-elections-sakarya-yerlikaya-23ff094b7d157277ebdd6c8fb70be6bf |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/islamic-state-elections-sakarya-yerlikaya-23ff094b7d157277ebdd6c8fb70be6bf",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -282,7 +282,7 @@
                 {
                   "text": "<ref name=\"apresult\">{{Cite news |date=1 April 2024 |title=In setback to Turkey's Erdogan, opposition makes huge gains in local election |url=https://apnews.com/article/turkey-local-elections-erdogan-popularity-test-8adc4df56cdbce24f78900e1d142ff21 |work=Associated Press |access-date=1 April 2024 |archive-date=1 April 2024 |archive-url=https://web.archive.org/web/20240401124501/https://apnews.com/article/turkey-local-elections-erdogan-popularity-test-8adc4df56cdbce24f78900e1d142ff21 |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/turkey-local-elections-erdogan-popularity-test-8adc4df56cdbce24f78900e1d142ff21",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -357,7 +357,7 @@
                 {
                   "text": "<ref name=\"apresult\" /> İYİ leader Meral Akşener called for an extraordinary party congress amid demands for her resignation.<ref>{{Cite web |date=2024-04-01 |title=Ağır hezimet sonrası Meral Akşener'den kongre kararı |url=https://www.sozcu.com.tr/agir-hezimet-sonrasi-meral-aksener-den-ilk-aciklama-p36536 |access-date=2024-04-02 |website=Sozcu.com.tr |language=tr |archive-date=2 April 2024 |archive-url=https://web.archive.org/web/20240402120311/https://www.sozcu.com.tr/agir-hezimet-sonrasi-meral-aksener-den-ilk-aciklama-p36536 |url-status=live }}</ref>",
                   "url": "https://www.sozcu.com.tr/agir-hezimet-sonrasi-meral-aksener-den-ilk-aciklama-p36536",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -379,8 +379,8 @@
               "references": [
                 {
                   "text": "<ref>{{cite web |access-date=17 April 2024 |language=tr |title=Türkiye’de tarihi sonuç: Türkiye ekonomisinin yüzde 80’i CHP’nin eline geçti |url=https://www.ilksesgazetesi.com/siyaset/turkiye-de-tarihi-sonuc-turkiye-ekonomisinin-yuzde-80-i-chp-nin-eline-gecti-261160 |work=www.ilksesgazetesi.com |archive-date=18 April 2024 |archive-url=https://web.archive.org/web/20240418014918/https://www.ilksesgazetesi.com/siyaset/turkiye-de-tarihi-sonuc-turkiye-ekonomisinin-yuzde-80-i-chp-nin-eline-gecti-261160 |url-status=live }}<!-- auto-translated from Turkish by Module:CS1 translator --></ref>",
-                  "url": "https://www.ilksesgazetesi.com/siyaset/turkiye-de-tarihi-sonuc-turkiye-ekonomisinin-yuzde-80-i-chp-nin-eline-gecti-261160",
-                  "status_code": null,
+                  "url": "https://ilkses.com.tr/siyaset/turkiye-de-tarihi-sonuc-turkiye-ekonomisinin-yuzde-80-i-chp-nin-eline-gecti-261160",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -393,14 +393,14 @@
                 {
                   "text": "<ref name=\"auto\" /> Given the scale of their victories, both İmamoğlu and Yavaş are widely seen as possible opposition candidates for the next Turkish presidential election,<ref>{{cite news | url=https://www.bloomberg.com/news/articles/2024-04-01/turkey-election-results-istanbul-mayor-ekrem-imamoglu-takes-fight-to-erdogan | title=Erdogan Nemesis Emerges as Top Rival After Istanbul Win | newspaper=Bloomberg | date=April 2024 | access-date=1 April 2024 | archive-date=1 April 2024 | archive-url=https://web.archive.org/web/20240401113718/https://www.bloomberg.com/news/articles/2024-04-01/turkey-election-results-istanbul-mayor-ekrem-imamoglu-takes-fight-to-erdogan | url-status=live }}</ref>",
                   "url": "https://www.bloomberg.com/news/articles/2024-04-01/turkey-election-results-istanbul-mayor-ekrem-imamoglu-takes-fight-to-erdogan",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://www.ekonomim.com/gundem/canli-erdogan-aciklama-yapiyor-haberi-736644|title=Erdoğan erken seçim kapısını kapattı: Önümüzde 4 yıl süre var...|date=4 January 2024|website=ekonomim.com|access-date=1 April 2024|archive-date=1 April 2024|archive-url=https://web.archive.org/web/20240401145648/https://www.ekonomim.com/gundem/canli-erdogan-aciklama-yapiyor-haberi-736644|url-status=live}}</ref>",
                   "url": "https://www.ekonomim.com/gundem/canli-erdogan-aciklama-yapiyor-haberi-736644",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -423,35 +423,35 @@
                 {
                   "text": "<ref>{{Cite web |date=3 April 2024 |title=Turkey replaces Kurdish mayor with government candidate two days after vote |url=https://www.euractiv.com/section/global-europe/news/turkey-replaces-kurdish-mayor-with-government-candidate-two-days-after-vote/ |access-date=3 April 2024 |website=Euractiv |archive-date=3 April 2024 |archive-url=https://web.archive.org/web/20240403054311/https://www.euractiv.com/section/global-europe/news/turkey-replaces-kurdish-mayor-with-government-candidate-two-days-after-vote/ |url-status=live }}</ref>",
                   "url": "https://www.euractiv.com/section/global-europe/news/turkey-replaces-kurdish-mayor-with-government-candidate-two-days-after-vote/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=barrons2april>{{Cite web|url=https://www.barrons.com/news/turkish-election-board-annuls-pro-kurdish-mayoral-candidate-s-win-93375c6e|title=Clashes After Turkey Annuls Pro-Kurdish Mayoral Candidate's Win|date=2 April 2024|website=Barron's|access-date=2 April 2024|archive-date=2 April 2024|archive-url=https://web.archive.org/web/20240402190420/https://www.barrons.com/news/turkish-election-board-annuls-pro-kurdish-mayoral-candidate-s-win-93375c6e|url-status=live}}</ref>",
                   "url": "https://www.barrons.com/news/turkish-election-board-annuls-pro-kurdish-mayoral-candidate-s-win-93375c6e",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=ap3april>{{Cite web|url=https://apnews.com/article/turkey-prokurdish-mayor-denied-office-9daf8f28e7205f1c4e2ce1fb32e77562|title=Turkey denies newly elected pro-Kurdish mayor the right to hold office in country's east|date=3 April 2024|website=Associated Press|access-date=3 April 2024|archive-date=3 April 2024|archive-url=https://web.archive.org/web/20240403050638/https://apnews.com/article/turkey-prokurdish-mayor-denied-office-9daf8f28e7205f1c4e2ce1fb32e77562|url-status=live}}</ref>",
                   "url": "https://apnews.com/article/turkey-prokurdish-mayor-denied-office-9daf8f28e7205f1c4e2ce1fb32e77562",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=barrons2april /> while the party referred to it as \"unlawful and illegitimate\".<ref>{{cite news |url=https://www.gazeteduvar.com.tr/dem-partiden-mazbata-aciklamasi-karar-gayri-mesrudur-vanda-darbe-var-haber-1681217 |title=DEM Parti'den mazbata açıklaması: Karar gayri meşrudur, Van'da darbe var |language=Turkish |work=Gazete Duvar |date=2024-04-02 |accessdate=2024-04-07 |archive-date=7 April 2024 |archive-url=https://web.archive.org/web/20240407145427/https://www.gazeteduvar.com.tr/dem-partiden-mazbata-aciklamasi-karar-gayri-mesrudur-vanda-darbe-var-haber-1681217 |url-status=live }}</ref>",
                   "url": "https://www.gazeteduvar.com.tr/dem-partiden-mazbata-aciklamasi-karar-gayri-mesrudur-vanda-darbe-var-haber-1681217",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web|url=https://apnews.com/article/turkey-prokurdish-mayor-mandate-664beac0ea24911a8b5f8af4dd1e6361|title=Turkey’s top election authority restores newly elected pro-Kurdish mayor’s right to hold office|date=3 April 2024|website=Associated Press|access-date=3 April 2024|archive-date=16 April 2024|archive-url=https://web.archive.org/web/20240416193501/https://apnews.com/article/turkey-prokurdish-mayor-mandate-664beac0ea24911a8b5f8af4dd1e6361|url-status=live}}</ref>",
                   "url": "https://apnews.com/article/turkey-prokurdish-mayor-mandate-664beac0ea24911a8b5f8af4dd1e6361",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

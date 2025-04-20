@@ -14,28 +14,28 @@
                 {
                   "text": "<ref name=\":0\">{{Cite web |date=2024-01-02 |title=President Will Not Seek Re-election |url=https://www.icelandreview.com/politics/president-will-not-seek-re-election/ |access-date=2024-02-29 |website=Iceland Review |language=en-US |archive-date=1 March 2024 |archive-url=https://web.archive.org/web/20240301150018/https://www.icelandreview.com/politics/president-will-not-seek-re-election/ |url-status=live }}</ref>",
                   "url": "https://www.icelandreview.com/politics/president-will-not-seek-re-election/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 202,
+                  "reason": "Accepted",
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |date=2024-01-01 |title=Icelandic president will not stand for re-election |url=https://news.yahoo.com/icelandic-president-not-stand-election-192843066.html |access-date=2024-02-29 |website=Yahoo News |language=en-US |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103082706/https://news.yahoo.com/icelandic-president-not-stand-election-192843066.html |url-status=live }}</ref>",
                   "url": "https://news.yahoo.com/icelandic-president-not-stand-election-192843066.html",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\":0\" /> Entrepreneur Halla Tómasdóttir was elected as his successor,<ref name=\"ruvhalla\">{{Cite web |last=Adam |first=Darren |date=2024-06-01 |title=Presidential Election 2024: Katrín concedes to Halla T |url=https://www.ruv.is/english/414491 |access-date=2024-06-02 |website=RÚV}}</ref>",
-                  "url": "https://www.ruv.is/english/414491",
-                  "status_code": null,
+                  "url": "https://www.ruv.is/english/2024-06-01-presidential-election-2024-halla-tomasdottir-will-be-the-next-president-of-iceland-414491",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref>{{Cite web |last=Kirka |first=Danica |date=2024-06-02 |title=Iceland elects businesswoman Halla Tomasdottir as president |url=https://apnews.com/article/iceland-election-women-tomasdottir-d21ac1e08025de61c74ce16413b1224f |access-date=2024-06-02 |website=Associated Press |archive-date=3 June 2024 |archive-url=https://web.archive.org/web/20240603053710/https://apnews.com/article/iceland-election-women-tomasdottir-d21ac1e08025de61c74ce16413b1224f |url-status=live }}</ref>",
                   "url": "https://apnews.com/article/iceland-election-women-tomasdottir-d21ac1e08025de61c74ce16413b1224f",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -58,14 +58,14 @@
                 {
                   "text": "<ref>{{cite news |title=Iceland's president re-elected with 92 percent of the vote |url=https://www.france24.com/en/20200628-iceland-s-president-easily-wins-re-election-with-90-percent-of-votes-partial-results-show |access-date=1 January 2024 |work=France 24 |agency=Agence France-Presse |date=28 June 2020 |archive-date=21 March 2022 |archive-url=https://web.archive.org/web/20220321165130/https://www.france24.com/en/20200628-iceland-s-president-easily-wins-re-election-with-90-percent-of-votes-partial-results-show |url-status=live }}</ref>",
                   "url": "https://www.france24.com/en/20200628-iceland-s-president-easily-wins-re-election-with-90-percent-of-votes-partial-results-show",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |author1=Gunnhildur Kjerúlf Birgisdóttir |title=Guðni býður sig ekki fram á ný |url=https://www.ruv.is/frettir/innlent/2024-01-01-gudni-bydur-sig-ekki-fram-a-ny-400999 |access-date=1 January 2024 |work=RÚV |date=1 January 2024 |language=Icelandic |archive-date=1 January 2024 |archive-url=https://web.archive.org/web/20240101131750/https://www.ruv.is/frettir/innlent/2024-01-01-gudni-bydur-sig-ekki-fram-a-ny-400999 |url-status=live }}</ref>",
                   "url": "https://www.ruv.is/frettir/innlent/2024-01-01-gudni-bydur-sig-ekki-fram-a-ny-400999",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -87,15 +87,15 @@
               "references": [
                 {
                   "text": "<ref>{{cite web|url=http://www.electionguide.org/elections/id/2598/|title=Republic of Iceland: Election for Icelandic Presidency|website=IFES Election Guide|access-date=3 November 2023|archive-date=6 August 2020|archive-url=https://web.archive.org/web/20200806005939/http://www.electionguide.org/elections/id/2598/|url-status=live}}</ref>",
-                  "url": "http://www.electionguide.org/elections/id/2598/",
-                  "status_code": null,
+                  "url": "https://www.electionguide.org/elections/id/2598/",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"constitution\">{{cite web |url=http://www.government.is/constitution/ |title=Constitution |website=Government Offices |access-date=3 November 2023 |archive-date=22 November 2017 |archive-url=https://web.archive.org/web/20171122180852/http://www.government.is/constitution |url-status=live }}</ref>",
-                  "url": "http://www.government.is/constitution/",
-                  "status_code": null,
+                  "url": "https://www.government.is/Publications/Legislation/Lex/?newsid=89fc6038-fd28-11e7-9423-005056bc4d74",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -108,7 +108,7 @@
                 {
                   "text": "<ref>{{cite web|url=https://apnews.com/article/iceland-presidential-election-4ac8b81737f8d6313addfe64e6335e35 |title=Voters in Iceland are picking the new president of the rugged island near the Arctic Circle |website=Associated Press |date=June 2024 |access-date=1 June 2024}}</ref>",
                   "url": "https://apnews.com/article/iceland-presidential-election-4ac8b81737f8d6313addfe64e6335e35",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -131,7 +131,7 @@
                 {
                   "text": "<ref name=\"ajelection\">{{cite web |url=https://www.aljazeera.com/news/2024/6/1/close-race-as-iceland-votes-to-elect-new-president |title=Close race as Iceland votes to elect new president |website=Al Jazeera |access-date=1 June 2024 |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602163219/https://www.aljazeera.com/news/2024/6/1/close-race-as-iceland-votes-to-elect-new-president |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/6/1/close-race-as-iceland-votes-to-elect-new-president",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -152,105 +152,105 @@
                     {
                       "text": "<ref>{{cite news|title=Arnar Þór býður sig fram til forseta|url=https://www.ruv.is/frettir/innlent/2024-01-03-arnar-thor-bydur-sig-fram-til-forseta-401099|access-date=3 January 2024|work=RÚV|date=3 January 2024|language=Icelandic|archive-date=3 January 2024|archive-url=https://web.archive.org/web/20240103151212/https://www.ruv.is/frettir/innlent/2024-01-03-arnar-thor-bydur-sig-fram-til-forseta-401099|url-status=live}}</ref>",
                       "url": "https://www.ruv.is/frettir/innlent/2024-01-03-arnar-thor-bydur-sig-fram-til-forseta-401099",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Jón Þór Stefánsson |title=Ísdrottningin safnar undirskriftum til að komast á Bessastaði |url=https://www.visir.is/g/20242544169d/isdrottningin-safnar-undirskriftum-til-ad-komast-a-bessastadi |access-date=18 March 2024 |work=Vísir.is |date=17 March 2024 |language=Icelandic |archive-date=18 March 2024 |archive-url=https://web.archive.org/web/20240318011134/https://www.visir.is/g/20242544169d/isdrottningin-safnar-undirskriftum-til-ad-komast-a-bessastadi |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242544169d/isdrottningin-safnar-undirskriftum-til-ad-komast-a-bessastadi",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web|title=Styður héraðsdómur þjóðarmorð?|url=https://www.visir.is/g/20232483427d/stydur-herads-domur-thjodar-mord-|work=Vísir.is|date=2 November 2023|access-date=18 March 2024|author=Ástþór Magnússon|archive-date=18 March 2024|archive-url=https://web.archive.org/web/20240318132819/https://www.visir.is/g/20232483427d/stydur-herads-domur-thjodar-mord-|url-status=live}}</ref>",
                       "url": "https://www.visir.is/g/20232483427d/stydur-herads-domur-thjodar-mord-",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=Ástþór Magnússon býður sig fram á ný |url=https://www.mbl.is/frettir/innlent/2024/01/03/astthor_magnusson_bydur_sig_fram_a_ny/ |access-date=2 January 2024 |work=Morgunblaðið |date=2 January 2024 |language=Icelandic |archive-date=3 January 2024 |archive-url=https://web.archive.org/web/20240103181420/https://www.mbl.is/frettir/innlent/2024/01/03/astthor_magnusson_bydur_sig_fram_a_ny/ |url-status=live }}</ref>",
                       "url": "https://www.mbl.is/frettir/innlent/2024/01/03/astthor_magnusson_bydur_sig_fram_a_ny/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Alexander Kristjánsson |title=Baldur Þórhallsson býður sig fram til forseta |url=https://www.ruv.is/frettir/innlent/2024-03-20-baldur-thorhallsson-bydur-sig-fram-til-forseta-407952 |access-date=21 March 2024 |work=RÚV |date=20 March 2024 |language=Icelandic |archive-date=20 March 2024 |archive-url=https://web.archive.org/web/20240320130055/https://www.ruv.is/frettir/innlent/2024-03-20-baldur-thorhallsson-bydur-sig-fram-til-forseta-407952 |url-status=live }}</ref>",
                       "url": "https://www.ruv.is/frettir/innlent/2024-03-20-baldur-thorhallsson-bydur-sig-fram-til-forseta-407952",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Sólrún Dögg Jósefsdóttir |title=Lifði af sjóslys og tekur nú forsetaslaginn |url=https://www.visir.is/g/20242552892d/lifdi-af-sjo-slys-og-tekur-nu-forsetaslaginn |access-date=6 April 2024 |work=Vísir.is |date=6 April 2024 |language=Icelandic |archive-date=6 April 2024 |archive-url=https://web.archive.org/web/20240406184115/https://www.visir.is/g/20242552892d/lifdi-af-sjo-slys-og-tekur-nu-forsetaslaginn |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242552892d/lifdi-af-sjo-slys-og-tekur-nu-forsetaslaginn",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Árni Sæberg |title=Halla Hrund býður sig fram |url=https://www.visir.is/g/20242552833d/halla-hrund-bydur-sig-fram |access-date=7 April 2024 |work=Vísir.is |date=7 April 2024 |language=Icelandic |archive-date=7 April 2024 |archive-url=https://web.archive.org/web/20240407105042/https://www.visir.is/g/20242552833d/halla-hrund-bydur-sig-fram |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242552833d/halla-hrund-bydur-sig-fram",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Ragnar Jón Hrólfsson |title=Halla Tómasdóttir býður sig fram til forseta |url=https://www.ruv.is/frettir/innlent/2024-03-17-halla-tomasdottir-bydur-sig-fram-til-forseta-407647 |access-date=17 March 2024 |work=RÚV |date=17 March 2024 |language=Icelandic}}</ref>",
                       "url": "https://www.ruv.is/frettir/innlent/2024-03-17-halla-tomasdottir-bydur-sig-fram-til-forseta-407647",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Andri Yrkill Valsson |title=Helga Þórisdóttir býður sig fram til forseta|url=https://www.ruv.is/frettir/innlent/2024-03-27-helga-thorisdottir-bydur-sig-fram-til-forseta-408731 |access-date=27 March 2024 |work=RÚV |date=27 March 2023 |language=Icelandic}}</ref>",
                       "url": "https://www.ruv.is/frettir/innlent/2024-03-27-helga-thorisdottir-bydur-sig-fram-til-forseta-408731",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Jón Gnarr ætlar á Bessastaði |url=https://www.visir.is/g/20242551168d/jon-gnarr-aetlar-a-bessa-stadi |language=Icelandic |access-date=2 April 2024 |archive-date=2 April 2024 |archive-url=https://web.archive.org/web/20240402200722/https://www.visir.is/g/20242551168d/jon-gnarr-aetlar-a-bessa-stadi |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242551168d/jon-gnarr-aetlar-a-bessa-stadi",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Katrín announces her candidacy for presidency |url=https://www.ruv.is/english/2024-04-05-katrin-announces-her-candidacy-for-presidency-409300 |access-date=2024-04-05 |website=RÚV |date=5 April 2024 |archive-date=7 April 2024 |archive-url=https://web.archive.org/web/20240407094652/https://www.ruv.is/english/2024-04-05-katrin-announces-her-candidacy-for-presidency-409300 |url-status=live }}</ref>",
                       "url": "https://www.ruv.is/english/2024-04-05-katrin-announces-her-candidacy-for-presidency-409300",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Iceland prime minister resigns to run for president|url=https://www.reuters.com/world/europe/icelands-prime-minister-resigns-will-run-president-2024-04-05/ |access-date=2024-04-07 |website=Reuters}}</ref>",
                       "url": "https://www.reuters.com/world/europe/icelands-prime-minister-resigns-will-run-president-2024-04-05/",
-                      "status_code": null,
-                      "reason": null,
+                      "status_code": 401,
+                      "reason": "HTTP Forbidden",
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Jakob Bjarnar Grétarsson |title=Steinunn Ólína komin á lista yfir forsetaefni |url=https://www.visir.is/g/20242551323d/steinunn-olina-komin-a-lista-yfir-forsetaefni |access-date=3 April 2024 |work=Vísir.is |date=3 April 2024 |language=Icelandic |archive-date=3 April 2024 |archive-url=https://web.archive.org/web/20240403112512/https://www.visir.is/g/20242551323d/steinunn-olina-komin-a-lista-yfir-forsetaefni |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242551323d/steinunn-olina-komin-a-lista-yfir-forsetaefni",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Jakob Bjarnar |title=Steinunn Ólína hálfu skrefi frá því að bjóða sig fram |url=https://www.visir.is/g/20242549281d/steinunn-o-lina-halfu-skrefi-fra-thvi-ad-bjoda-sig-fram |access-date=27 March 2024 |work=Vísir.is |date=27 March 2023 |language=Icelandic |archive-date=27 March 2024 |archive-url=https://web.archive.org/web/20240327172625/https://www.visir.is/g/20242549281d/steinunn-o-lina-halfu-skrefi-fra-thvi-ad-bjoda-sig-fram |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242549281d/steinunn-o-lina-halfu-skrefi-fra-thvi-ad-bjoda-sig-fram",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |last=Stefánsson |first=Jón Þór |date=2024-02-05 |title=Viktor Traustason verður í framboði |url=https://www.visir.is/g/20242565122d/viktor-trausta-son-verdur-i-fram-bodi |access-date=2024-05-02 |website=visir.is |language=is |archive-date=2 May 2024 |archive-url=https://web.archive.org/web/20240502171105/https://www.visir.is/g/20242565122d/viktor-trausta-son-verdur-i-fram-bodi |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242565122d/viktor-trausta-son-verdur-i-fram-bodi",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
@@ -273,77 +273,77 @@
                     {
                       "text": "<ref>{{cite news |author1=Magnús Jochum Pálsson |date=1 March 2024 |title=Nýr forsetaframbjóðandi stígur fram |url=https://www.visir.is/g/20242536801d/nyr-for-seta-fram-bjodandi-stigur-fram |access-date=2 March 2024 |work=Vísir.is |language=Icelandic |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602163201/https://www.visir.is/g/20242536801d/nyr-for-seta-fram-bjodandi-stigur-fram |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242536801d/nyr-for-seta-fram-bjodandi-stigur-fram",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Snæfellsjökul fyrir forseta {{!}} president |url=https://www.kjosumjokul.com/ |access-date=2024-03-17 |website=Kjósum jökul |language=en |archive-date=16 March 2024 |archive-url=https://web.archive.org/web/20240316143023/https://www.kjosumjokul.com/ |url-status=live }}</ref>",
                       "url": "https://www.kjosumjokul.com/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Jakob Bjarnar |date=2 January 2024 |title=Axel Pétur og Dóri DNA mættir til leiks sem forsetaframbjóðendur |url=https://www.visir.is/g/20242509737d/axel-petur-og-dori-dna-maettir-til-leiks-sem-for-seta-fram-bjod-endur |access-date=2 January 2024 |work=Vísir.is |language=Icelandic |archive-date=2 January 2024 |archive-url=https://web.archive.org/web/20240102111858/https://www.visir.is/g/20242509737d/axel-petur-og-dori-dna-maettir-til-leiks-sem-for-seta-fram-bjod-endur |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242509737d/axel-petur-og-dori-dna-maettir-til-leiks-sem-for-seta-fram-bjod-endur",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Magnús Jochum Pálsson |date=11 April 2024 |title=Guðbergur býður sig fram og hyggst nýta embættið betur |url=https://www.visir.is/g/20242555543d/gudbergur-bydur-sig-fram-og-hyggst-nyta-embaettid-betur |access-date=12 April 2024 |work=Vísir.is |language=Icelandic |archive-date=12 April 2024 |archive-url=https://web.archive.org/web/20240412013753/https://www.visir.is/g/20242555543d/gudbergur-bydur-sig-fram-og-hyggst-nyta-embaettid-betur |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242555543d/gudbergur-bydur-sig-fram-og-hyggst-nyta-embaettid-betur",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Árni Sæberg |date=3 April 2024 |title=Guðmundur Felix býður fram krafta sína |url=https://www.visir.is/g/20242551301d/gud-mundur-felix-bydur-fram-krafta-sina |access-date=3 April 2024 |work=Vísir.is |language=Icelandic |archive-date=3 April 2024 |archive-url=https://web.archive.org/web/20240403104937/https://www.visir.is/g/20242551301d/gud-mundur-felix-bydur-fram-krafta-sina |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242551301d/gud-mundur-felix-bydur-fram-krafta-sina",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"visir-march-3\">{{cite news |author1=Magnús Jochum Pálsson |date=3 March 2024 |title=Forsetaframbjóðendur skjóta upp kollinum eins og gorkúlur á haug |url=https://www.visir.is/g/20242537113d/forsetaframbjodendur-skjota-upp-kollinum-eins-og-gorkulur-a-haug |access-date=3 March 2024 |work=Vísir.is |language=Icelandic |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602163201/https://www.visir.is/g/20242537113d/forsetaframbjodendur-skjota-upp-kollinum-eins-og-gorkulur-a-haug |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242537113d/forsetaframbjodendur-skjota-upp-kollinum-eins-og-gorkulur-a-haug",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\":1\">{{Cite web |last=Daðason |first=Kolbeinn Tumi |date=2024-04-29 |title=Bein útsending: Hvaða forsetaframboð eru gild? - Vísir |url=https://www.visir.is/g/20242563417d/bein-ut-sending-hvada-forsetaframbod-eru-gild- |access-date=2024-04-29 |website=visir.is |language=is |archive-date=29 April 2024 |archive-url=https://web.archive.org/web/20240429111418/https://www.visir.is/g/20242563417d/bein-ut-sending-hvada-forsetaframbod-eru-gild- |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242563417d/bein-ut-sending-hvada-forsetaframbod-eru-gild-",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Vésteinn Örn Pétursson |title=Hætt við framboð og vonast eftir þjóðhollum og guðræknum forseta |url=https://www.visir.is/g/20242549649d/haett-vid-frambod-og-vonast-eftir-thjodhollum-og-gudraeknum-forseta |access-date=3 April 2024 |work=Vísir.is |date=28 March 2024 |language=Icelandic |archive-date=3 April 2024 |archive-url=https://web.archive.org/web/20240403032823/https://www.visir.is/g/20242549649d/haett-vid-frambod-og-vonast-eftir-thjodhollum-og-gudraeknum-forseta |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242549649d/haett-vid-frambod-og-vonast-eftir-thjodhollum-og-gudraeknum-forseta",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Sigríður Hrund hætt við framboð |url=https://www.ruv.is/frettir/innlent/2024-04-26-sigridur-hrund-haett-vid-frambod-411304 |date=26 April 2024 |language=Icelandic |access-date=26 April 2024 |archive-date=26 April 2024 |archive-url=https://web.archive.org/web/20240426102208/https://www.ruv.is/frettir/innlent/2024-04-26-sigridur-hrund-haett-vid-frambod-411304 |url-status=live }}</ref>",
                       "url": "https://www.ruv.is/frettir/innlent/2024-04-26-sigridur-hrund-haett-vid-frambod-411304",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Magnús Jochum Pálsson |title=Tómas Logi býður sig fram til forseta |url=https://www.visir.is/g/20242511346d |access-date=12 January 2024 |work=Vísir.is |date=12 January 2024 |language=Icelandic |archive-date=14 January 2024 |archive-url=https://web.archive.org/web/20240114081049/https://www.visir.is/g/20242511346d |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242511346d",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Árni Sæberg |title=Dregur framboðið til baka vegna fárra undirskrifta |url=https://www.visir.is/g/20242545921d/dregur-fram-bodid-til-baka-vegna-farra-undir-skrifta |access-date=20 March 2024 |work=Vísir.is |date=20 March 2024 |archive-date=20 March 2024 |archive-url=https://web.archive.org/web/20240320192051/https://www.visir.is/g/20242545921d/dregur-fram-bodid-til-baka-vegna-farra-undir-skrifta |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242545921d/dregur-fram-bodid-til-baka-vegna-farra-undir-skrifta",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -366,126 +366,126 @@
                     {
                       "text": "<ref>{{cite news |author1=Viðar Guðjónsson |title=Alma Möller: \"Íhuga að íhuga forsetaframboð\" |url=https://www.mbl.is/frettir/innlent/2024/02/27/alma_moller_ihuga_ad_ihuga_forsetaframbod/ |access-date=27 February 2024 |work=Morgunblaðið |date=27 February 2024 |language=Icelandic |archive-date=27 February 2024 |archive-url=https://web.archive.org/web/20240227190509/https://www.mbl.is/frettir/innlent/2024/02/27/alma_moller_ihuga_ad_ihuga_forsetaframbod/ |url-status=live }}</ref>",
                       "url": "https://www.mbl.is/frettir/innlent/2024/02/27/alma_moller_ihuga_ad_ihuga_forsetaframbod/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Atli Ísleifsson |title=Framboðshugleiðingar fóru ekkert lengra en að \"íhuga að íhuga\" |url=https://www.visir.is/g/20242553391d/fram-bods-hug-leidingar-foru-ekkert-lengra-en-ad-i-huga-ad-i-huga- |access-date=8 April 2024 |work=Vísir.is |date=8 April 2024 |language=Icelandic |archive-date=8 April 2024 |archive-url=https://web.archive.org/web/20240408103831/https://www.visir.is/g/20242553391d/fram-bods-hug-leidingar-foru-ekkert-lengra-en-ad-i-huga-ad-i-huga- |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242553391d/fram-bods-hug-leidingar-foru-ekkert-lengra-en-ad-i-huga-ad-i-huga-",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"Morgunblaðið-2024-01-02\">{{cite news |title=Samkvæmisleikurinn hafinn |url=https://www.mbl.is/frettir/innlent/2024/01/02/samkvaemisleikurinn_hafinn/ |access-date=2 January 2024 |work=Morgunblaðið |date=2 January 2024 |language=Icelandic |archive-date=3 June 2024 |archive-url=https://web.archive.org/web/20240603053057/https://www.mbl.is/frettir/innlent/2024/01/02/samkvaemisleikurinn_hafinn/ |url-status=live }}</ref>",
                       "url": "https://www.mbl.is/frettir/innlent/2024/01/02/samkvaemisleikurinn_hafinn/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Kristjana Arnarsdóttir |title=Björgvin Páll ætlar ekki í forsetaframboð að sinni |url=https://www.ruv.is/frettir?titill=2024-02-02-bjorgvin-pall-aetlar-ekki-i-forsetaframbod-ad-sinni-403912 |access-date=2 February 2024 |work=RÚV |date=2 February 2024 |language=Icelandic |archive-date=2 February 2024 |archive-url=https://web.archive.org/web/20240202103550/https://www.ruv.is/frettir?titill=2024-02-02-bjorgvin-pall-aetlar-ekki-i-forsetaframbod-ad-sinni-403912 |url-status=live }}</ref>",
                       "url": "https://www.ruv.is/frettir?titill=2024-02-02-bjorgvin-pall-aetlar-ekki-i-forsetaframbod-ad-sinni-403912",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
-                      "text": "<ref>{{Cite web |date=2024-01-03 |title=Karolinskas chef överväger att ställa upp i Islands presidentval: \"Positivt förvånad\" |url=https://www.dn.se/varlden/karolinskas-chef-overvager-att-stalla-upp-i-islands-presidentval-positivt-forvanad/ |access-date=2024-01-04 |website=DN.se |language=sv |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104005457/https://www.dn.se/varlden/karolinskas-chef-overvager-att-stalla-upp-i-islands-presidentval-positivt-forvanad/ |url-status=live }}</ref>",
+                      "text": "<ref>{{Cite web |date=2024-01-03 |title=Karolinskas chef överväger att ställa upp i Islands presidentval: \"Positivt förvånad\" |url=https://www.dn.se/varlden/karolinskas-chef-overvager-att-stalla-upp-i-islands-presidentval-positivt-forvanad/ |access-date=2024-01-04 |website=Dagens Nyheter |language=sv |archive-date=4 January 2024 |archive-url=https://web.archive.org/web/20240104005457/https://www.dn.se/varlden/karolinskas-chef-overvager-att-stalla-upp-i-islands-presidentval-positivt-forvanad/ |url-status=live }}</ref>",
                       "url": "https://www.dn.se/varlden/karolinskas-chef-overvager-att-stalla-upp-i-islands-presidentval-positivt-forvanad/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{cite news |title=Björn hvorki á leið heim né á Bessastaði |url=https://www.mbl.is/frettir/innlent/2024/01/22/bjorn_hvorki_a_leid_heim_ne_a_bessastadi/ |access-date=22 January 2024 |work=Morgunblaðið |date=22 January 2024 |language=Icelandic |archive-date=3 June 2024 |archive-url=https://web.archive.org/web/20240603053059/https://www.mbl.is/frettir/innlent/2024/01/22/bjorn_hvorki_a_leid_heim_ne_a_bessastadi/ |url-status=live }}</ref>",
                       "url": "https://www.mbl.is/frettir/innlent/2024/01/22/bjorn_hvorki_a_leid_heim_ne_a_bessastadi/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Dagur útilokar ekki framboð til Alþingis |url=https://www.mbl.is/frettir/innlent/2024/01/05/dagur_utilokar_ekki_frambod_til_althingis/ |access-date=5 January 2024 |work=Morgunblaðið |date=5 January 2024 |language=Icelandic |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602163050/https://www.mbl.is/frettir/innlent/2024/01/05/dagur_utilokar_ekki_frambod_til_althingis/ |url-status=live }}</ref>",
                       "url": "https://www.mbl.is/frettir/innlent/2024/01/05/dagur_utilokar_ekki_frambod_til_althingis/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Jón Þór Stefánsson |title=Ætlar ekki að bjóða sig fram aftur |url=https://www.visir.is/g/20242512279d/aetlar-ekki-ad-bjoda-sig-fram-aftur |access-date=8 January 2024 |work=Vísir.is |date=8 December 2023 |language=Icelandic |archive-date=8 January 2024 |archive-url=https://web.archive.org/web/20240108210958/https://www.visir.is/g/20242512279d/aetlar-ekki-ad-bjoda-sig-fram-aftur |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242512279d/aetlar-ekki-ad-bjoda-sig-fram-aftur",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |title=Guðni gefur ekki kost á sér |url=https://www.mbl.is/frettir/innlent/2024/01/01/gudni_gefur_ekki_kost_a_ser/ |access-date=9 April 2024 |work=Morgunblaðið |date=1 January 2024 |language=Icelandic |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409085437/https://www.mbl.is/frettir/innlent/2024/01/01/gudni_gefur_ekki_kost_a_ser/ |url-status=live }}</ref>",
                       "url": "https://www.mbl.is/frettir/innlent/2024/01/01/gudni_gefur_ekki_kost_a_ser/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Erla Hlynsdóttir |title=Gylfi Þór á leið undir feldinn |url=https://heimildin.is/grein/20299/ |access-date=9 April 2024 |work=Heimildin |date=2 January 2024 |language=Icelandic |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409085437/https://heimildin.is/grein/20299/ |url-status=live }}</ref>",
                       "url": "https://heimildin.is/grein/20299/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Atli Ísleifsson |title=Kröftum mínum betur varið þar, að minnsta kosti að sinni |url=https://www.visir.is/g/20242553532d/-kroftum-minum-betur-varid-thar-ad-minnsta-kosti-ad-sinni- |access-date=9 April 2024 |work=Vísir.is |date=8 April 2024 |language=Icelandic |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409020345/https://www.visir.is/g/20242553532d/-kroftum-minum-betur-varid-thar-ad-minnsta-kosti-ad-sinni- |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242553532d/-kroftum-minum-betur-varid-thar-ad-minnsta-kosti-ad-sinni-",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"Morgunblaðið-2024-01-02\"/>\n*Jakob Frímann Magnússon, musical artist and Althing|MP for the People's Party (Iceland)|People’s Party ''(endorsed Katrín Jakobsdóttir)''<ref>{{cite news|title=Mun ekki gefa kost á sér|url=https://www.mbl.is/frettir/innlent/2024/04/06/mun_ekki_gefa_kost_a_ser/|work=Morgunblaðið|date=6 April 2024|language=Icelandic|access-date=6 April 2024|archive-date=6 April 2024|archive-url=https://web.archive.org/web/20240406084531/https://www.mbl.is/frettir/innlent/2024/04/06/mun_ekki_gefa_kost_a_ser/|url-status=live}}</ref>",
                       "url": "https://www.mbl.is/frettir/innlent/2024/04/06/mun_ekki_gefa_kost_a_ser/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"Morgunblaðið-2024-01-02\"/>\n*Ólafur Jóhann Ólafsson, businessman and writer<ref>{{cite news |author1=Alexander Kristjánsson |title=Ólafur Jóhann býður sig ekki fram til forseta |url=https://www.ruv.is/frettir/innlent/2024-03-14-olafur-johann-bydur-sig-ekki-fram-til-forseta-407333 |work=Vísir |date=14 March 2024 |language=Icelandic |access-date=14 March 2024 |archive-date=14 March 2024 |archive-url=https://web.archive.org/web/20240314214248/https://www.ruv.is/frettir/innlent/2024-03-14-olafur-johann-bydur-sig-ekki-fram-til-forseta-407333 |url-status=live }}</ref>",
                       "url": "https://www.ruv.is/frettir/innlent/2024-03-14-olafur-johann-bydur-sig-ekki-fram-til-forseta-407333",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Kolbeinn Tumi Daðason |title=Veltir framboði til forseta fyrir sér |url=https://www.visir.is/g/20232505020d/veltir-frambodi-til-forseta-fyrir-ser |access-date=9 April 2024 |work=Vísir.is |date=18 December 2023 |language=Icelandic |archive-date=8 April 2024 |archive-url=https://web.archive.org/web/20240408145430/https://www.visir.is/g/20232505020d/veltir-frambodi-til-forseta-fyrir-ser |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20232505020d/veltir-frambodi-til-forseta-fyrir-ser",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Atli Ísleifsson |title=Guðni hafi \"skemmt\" hugmyndir um framboð |url=https://www.visir.is/g/20242553470d/gudni-hafi-skemmt-hugmyndir-um-frambod |access-date=9 April 2024 |work=Vísir.is |date=8 April 2024 |language=Icelandic |archive-date=9 April 2024 |archive-url=https://web.archive.org/web/20240409020710/https://www.visir.is/g/20242553470d/gudni-hafi-skemmt-hugmyndir-um-frambod |url-status=live }}</ref>",
                       "url": "https://www.visir.is/g/20242553470d/gudni-hafi-skemmt-hugmyndir-um-frambod",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Viðar Guðjónsson |title=Róbert Spanó tjáir sig um forsetaframboð |url=https://www.mbl.is/frettir/innlent/2024/03/09/robert_spano_tjair_sig_um_forsetaframbod/ |access-date=14 March 2024 |work=Morgunblaðið |date=9 March 2024 |language=Icelandic |archive-date=14 March 2024 |archive-url=https://web.archive.org/web/20240314214248/https://www.mbl.is/frettir/innlent/2024/03/09/robert_spano_tjair_sig_um_forsetaframbod/ |url-status=live }}</ref>",
                       "url": "https://www.mbl.is/frettir/innlent/2024/03/09/robert_spano_tjair_sig_um_forsetaframbod/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{cite news |author1=Viðar Guðjónsson |title=\"Enginn hefur komið að máli við mig\" |url=https://www.mbl.is/frettir/innlent/2024/02/28/enginn_hefur_komid_ad_mali_vid_mig/ |access-date=29 February 2024 |work=Morgunblaðið |date=28 February 2024 |language=Icelandic |archive-date=28 February 2024 |archive-url=https://web.archive.org/web/20240228164049/https://www.mbl.is/frettir/innlent/2024/02/28/enginn_hefur_komid_ad_mali_vid_mig/ |url-status=live }}</ref>",
                       "url": "https://www.mbl.is/frettir/innlent/2024/02/28/enginn_hefur_komid_ad_mali_vid_mig/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref name=\"Morgunblaðið-2024-01-02\"/>\n*Þórólfur Guðnason, doctor who serverd as the Chief Epidemiologist of the Icelandic Directorate of Health<ref>{{cite news |author1=Viðar Guðjónsson |title=\"Held að þetta djobb henti mér ekki\" |url=https://www.mbl.is/frettir/innlent/2024/02/28/held_ad_thetta_djobb_henti_mer_ekki/ |access-date=29 February 2024 |work=Morgunblaðið |date=28 February 2024 |language=Icelandic |archive-date=29 February 2024 |archive-url=https://web.archive.org/web/20240229075839/https://www.mbl.is/frettir/innlent/2024/02/28/held_ad_thetta_djobb_henti_mer_ekki/ |url-status=live }}</ref>",
                       "url": "https://www.mbl.is/frettir/innlent/2024/02/28/held_ad_thetta_djobb_henti_mer_ekki/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     }
@@ -510,7 +510,7 @@
                 {
                   "text": "<ref name=\"ajelection\"/> Halla Tómasdóttir ran her campaign on issues such as the effects of social media on the mental health of youth, tourism development and the role of artificial intelligence.<ref>{{cite web |url=https://www.aljazeera.com/news/2024/6/2/businesswoman-halla-tomasdottir-set-to-become-icelands-next-president |title=Businesswoman Halla Tomasdottir set to become Iceland's next president |website=Al Jazeera |access-date=2 June 2024 |archive-date=2 June 2024 |archive-url=https://web.archive.org/web/20240602163049/https://www.aljazeera.com/news/2024/6/2/businesswoman-halla-tomasdottir-set-to-become-icelands-next-president |url-status=live }}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/6/2/businesswoman-halla-tomasdottir-set-to-become-icelands-next-president",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -542,7 +542,7 @@
                 {
                   "text": "<ref>{{cite web |title=Kjöri forseta Íslands lýst |url=https://island.is/s/landskjorstjorn/frett/kjoeri-forseta-islands-lyst |date=2 June 2024 |access-date=5 July 2024 |language=Icelandic}}</ref>",
                   "url": "https://island.is/s/landskjorstjorn/frett/kjoeri-forseta-islands-lyst",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }

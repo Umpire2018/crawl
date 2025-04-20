@@ -13,8 +13,8 @@
               "references": [
                 {
                   "text": "<ref>{{Cite web |last=Hu |first=Caitlin Stephen |date=2024-03-12 |title=Haiti's leader to resign as gangs run rampant through country engulfed in crisis |url=https://www.cnn.com/2024/03/11/americas/haiti-pm-ariel-henry-resigns-gang-violence-intl-hnk/index.html |access-date=2024-03-12 |website=CNN |language=en}}</ref>",
-                  "url": "https://www.cnn.com/2024/03/11/americas/haiti-pm-ariel-henry-resigns-gang-violence-intl-hnk/index.html",
-                  "status_code": null,
+                  "url": "https://edition.cnn.com/2024/03/11/americas/haiti-pm-ariel-henry-resigns-gang-violence-intl-hnk/index.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -37,7 +37,7 @@
                 {
                   "text": "<ref name=\"4-Guardian\">{{cite news |publisher=Guardian News & Media |title=Kenya signs deal in attempt to rescue plan for deployment of 1,000 police officers to Haiti |url=https://www.theguardian.com/world/2024/mar/01/haiti-police-officers |access-date=4 March 2024 |work=The Guardian |date=1 March 2024}}</ref>",
                   "url": "https://www.theguardian.com/world/2024/mar/01/haiti-police-officers",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -60,14 +60,14 @@
                 {
                   "text": "<ref name=\"AP-4-2\">{{cite news |last=Coto |first=Dánica |date=4 March 2024 |title=There's chaos in Haiti. Powerful gangs are attacking key targets like prisons as alliances shift |url=https://apnews.com/article/haiti-violence-prison-break-curfew-6341d1cda5f02f6c66d351ad2d206e7b |url-status=live |archive-url=https://web.archive.org/web/20240304223409/https://apnews.com/article/haiti-violence-prison-break-curfew-6341d1cda5f02f6c66d351ad2d206e7b |archive-date=4 March 2024 |access-date=5 March 2024 |work=Associated Press}}</ref>",
                   "url": "https://apnews.com/article/haiti-violence-prison-break-curfew-6341d1cda5f02f6c66d351ad2d206e7b",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news |date=29 February 2024 |title=Haiti's capital paralysed by gunfire as gang boss threatens police chief and ministers |url=https://www.theguardian.com/world/2024/feb/29/haiti-capital-port-au-prince-gang-leader |url-status=live |archive-url=https://web.archive.org/web/20240304195454/https://www.theguardian.com/world/2024/feb/29/haiti-capital-port-au-prince-gang-leader |archive-date=4 March 2024 |access-date=5 March 2024 |work=The Guardian |agency=Associated Press}}</ref>",
                   "url": "https://www.theguardian.com/world/2024/feb/29/haiti-capital-port-au-prince-gang-leader",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -80,28 +80,28 @@
                 {
                   "text": "<ref name=\"24-jailbreak-bbc\">{{cite news |last1=Astier |first1=Henri |last2=Avagnina |first2=Gianluca |date=3 March 2024 |title=Haiti violence: Haiti gangs demand PM resign after mass jailbreak |url=https://www.bbc.com/news/world-latin-america-68462851 |url-status=live |archive-url=https://web.archive.org/web/20240304000712/https://www.bbc.com/news/world-latin-america-68462851 |archive-date=4 March 2024 |access-date=4 March 2024 |work=BBC News}}</ref>",
                   "url": "https://www.bbc.com/news/world-latin-america-68462851",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"AP-4-2\" /> Police were reported to be undermanned and outgunned by the gangs, with only 9,000 operating in Haiti at the time of the fighting.<ref name=\"AP 3/1\">{{cite news |date=1 March 2024 |title=Haitian police spokesman says new gang attacks overwhelmed officers: 'The city center was at war' |url=https://apnews.com/article/haiti-violence-police-killed-kenya-gangs-84eb8a827967238805827742bbd7bf69 |url-status=live |archive-url=https://web.archive.org/web/20240304174917/https://apnews.com/article/haiti-violence-police-killed-kenya-gangs-84eb8a827967238805827742bbd7bf69 |archive-date=4 March 2024 |access-date=5 March 2024 |work=Associated Press}}</ref>",
                   "url": "https://apnews.com/article/haiti-violence-police-killed-kenya-gangs-84eb8a827967238805827742bbd7bf69",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{Cite web |website=Insight Crime |url=https://insightcrime.org/haiti-organized-crime-news/400-mawozo/ | title=400 Mawozo | date=2022-03-23 }}</ref>",
                   "url": "https://insightcrime.org/haiti-organized-crime-news/400-mawozo/",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 429,
+                  "reason": "Too Many Requests",
                   "type": "web"
                 },
                 {
                   "text": "<ref name=\"24-jailbreak-guardian\">{{cite news |last=Jones |first=Sam |date=4 March 2024 |title=Haiti declares state of emergency after thousands of dangerous inmates escape |url=https://www.theguardian.com/world/2024/mar/04/haiti-mass-jailbreak-violence-port-au-prince-gangs |url-status=live |archive-url=https://web.archive.org/web/20240304014952/https://www.theguardian.com/world/2024/mar/04/haiti-mass-jailbreak-violence-port-au-prince-gangs |archive-date=4 March 2024 |access-date=4 March 2024 |work=The Guardian}}</ref>",
                   "url": "https://www.theguardian.com/world/2024/mar/04/haiti-mass-jailbreak-violence-port-au-prince-gangs",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -114,7 +114,7 @@
                 {
                   "text": "<ref name=\"24-jailbreak-AP\">{{cite news |last1=Sanon |first1=Evans |last2=Luxama |first2=Pierre-Richard |title=Haiti declares a curfew as it tries to restore order after weekend jailbreak, explosion of violence |url=https://apnews.com/article/haiti-prison-break-2788f145b0d26efc2aa199e923724e0f |access-date=4 March 2024 |work=Associated Press |date=3 March 2024}}</ref>",
                   "url": "https://apnews.com/article/haiti-prison-break-2788f145b0d26efc2aa199e923724e0f",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
@@ -122,13 +122,13 @@
                   "text": "<ref name=\"4-Guardian\" /> Many escaped gang leaders  joined the attacks,<ref name=\"Airport-MiamiHerald\">{{cite news |last=Charles |first=Jacqueline |author-link=Jacqueline Charles |title=Haiti has deployed its army; troops joined police to push back gang takeover of airport |url=https://www.miamiherald.com/news/nation-world/world/americas/haiti/article286242235.html |access-date=5 March 2024 |work=Miami Herald |date=4 March 2024}}</ref>",
                   "url": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article286242235.html",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"4-2-Guardian\">{{cite news |last=Taylor |first=Luke |date=4 March 2024 |title=Haiti's weekend of violence puts government future in doubt |url=https://www.theguardian.com/world/2024/mar/04/haiti-prison-break-ariel-henry |url-status=live |archive-url=https://web.archive.org/web/20240305004002/https://www.theguardian.com/world/2024/mar/04/haiti-prison-break-ariel-henry |archive-date=5 March 2024 |access-date=5 March 2024 |work=The Guardian}}</ref>",
                   "url": "https://www.theguardian.com/world/2024/mar/04/haiti-prison-break-ariel-henry",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -142,41 +142,41 @@
                   "text": "<ref name=\"Airport-MiamiHerald2\">{{cite news |last=Charles |first=Jacqueline |author-link=Jacqueline Charles |date=4 March 2024 |title=Haiti has deployed its army; troops joined police to push back gang takeover of airport |url=https://www.miamiherald.com/news/nation-world/world/americas/haiti/article286242235.html |url-status=live |archive-url=https://web.archive.org/web/20240305085324/https://www.miamiherald.com/news/nation-world/world/americas/haiti/article286242235.html |archive-date=5 March 2024 |access-date=5 March 2024 |work=Miami Herald}}</ref>",
                   "url": "https://www.miamiherald.com/news/nation-world/world/americas/haiti/article286242235.html",
                   "status_code": null,
-                  "reason": null,
+                  "reason": "Timeout",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"AP-4-2\" /> The attacks resulted in the closure of the airport and prevented Henry from entering the country.<ref>{{Cite news |url=https://www.bbc.com/news/world-latin-america-68478718 |last=Buschschlüter |first=Vanessa |title=Haiti gangs try to take over Port-au-Prince airport |website=BBC News |date=5 March 2024 |accessdate=28 April 2024}}</ref>",
                   "url": "https://www.bbc.com/news/world-latin-america-68478718",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"politico-washington\">{{cite news |last1=Berg |first1=Matt |last2=Toosi |first2=Nahal |last3=Ward |first3=Alexander |date=5 March 2024 |title='Catastrophic' fears in Washington as Haiti crisis worsens |url=https://www.politico.com/newsletters/national-security-daily/2024/03/05/catastrophic-fears-in-washington-as-haiti-crisis-worsens-00144923 |access-date=5 March 2024 |work=Politico}}</ref>",
                   "url": "https://www.politico.com/newsletters/national-security-daily/2024/03/05/catastrophic-fears-in-washington-as-haiti-crisis-worsens-00144923",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"4-Bloomberg\">{{cite news |last=Wyss |first=Jim |date=4 March 2024 |title=Violent Prison Break Sparks Murder, Mayhem in Haiti |url=https://www.bloomberg.com/news/articles/2024-03-04/prison-break-after-violent-gang-raid-sparks-emergency-in-haiti |url-status=live |archive-url=https://web.archive.org/web/20240304155355/https://www.bloomberg.com/news/articles/2024-03-04/prison-break-after-violent-gang-raid-sparks-emergency-in-haiti |archive-date=4 March 2024 |access-date=5 March 2024 |work=Bloomberg.com}}</ref>",
                   "url": "https://www.bloomberg.com/news/articles/2024-03-04/prison-break-after-violent-gang-raid-sparks-emergency-in-haiti",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"24-jailbreak-AP2\"/> and Bank of the Republic of Haiti|national bank<ref name=\"24-jailbreak-AP2\">{{cite news |last1=Sanon |first1=Evans |last2=Luxama |first2=Pierre-Richard |date=3 March 2024 |title=Haiti declares a curfew as it tries to restore order after weekend jailbreak, explosion of violence |url=https://apnews.com/article/haiti-prison-break-2788f145b0d26efc2aa199e923724e0f |url-status=live |archive-url=https://web.archive.org/web/20240303233812/https://apnews.com/article/haiti-prison-break-2788f145b0d26efc2aa199e923724e0f |archive-date=3 March 2024 |access-date=4 March 2024 |work=Associated Press}}</ref>",
                   "url": "https://apnews.com/article/haiti-prison-break-2788f145b0d26efc2aa199e923724e0f",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"AP-pmreturn\">{{cite news |last1=Sanon |first1=Evens |last2=Goodman |first2=Joshua |last3=Coto |first3=Dánica |date=5 March 2024 |title=Haitian prime minister lands in Puerto Rico as he tries to return home to quell gang violence |url=https://apnews.com/article/haiti-violence-prison-break-curfew-0116d2ebac1b14a587baa176818055cb |url-status=live |archive-url=https://web.archive.org/web/20240305192334/https://apnews.com/article/haiti-violence-prison-break-curfew-0116d2ebac1b14a587baa176818055cb |archive-date=5 March 2024 |access-date=5 March 2024 |work=Associated Press}}</ref>",
                   "url": "https://apnews.com/article/haiti-violence-prison-break-curfew-0116d2ebac1b14a587baa176818055cb",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -203,7 +203,7 @@
                 {
                   "text": "<ref name=\"aj-7\">{{cite news |title=Haiti extends state of emergency as violence and displacement soar |url=https://www.aljazeera.com/news/2024/3/7/haiti-extends-state-of-emergency-as-violence-and-displacement-soar |access-date=8 March 2024 |work=Al Jazeera English|Al Jazeera |date=7 March 2024}}</ref>",
                   "url": "https://www.aljazeera.com/news/2024/3/7/haiti-extends-state-of-emergency-as-violence-and-displacement-soar",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -215,29 +215,29 @@
               "references": [
                 {
                   "text": "<ref name=\"CNN-policenp\">{{cite news |last1=Rios |first1=Michael |last2=Roth |first2=Richard |last3=Akbarzai |first3=Sahar |last4=Lau |first4=Chris |title=Haiti crisis: Armed men attack police stations near National Palace as gang violence spirals |url=https://www.cnn.com/2024/03/08/world/haiti-gangs-attack-national-palace-intl-hnk/index.html |access-date=9 March 2024 |work=CNN |date=9 March 2024 |language=en}}</ref>",
-                  "url": "https://www.cnn.com/2024/03/08/world/haiti-gangs-attack-national-palace-intl-hnk/index.html",
-                  "status_code": null,
+                  "url": "https://edition.cnn.com/2024/03/08/world/haiti-gangs-attack-national-palace-intl-hnk/index.html",
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"abc-palaceattack\">{{cite news |last1=Rivers |first1=Matt |date=8 March 2024 |title=Gangs attack Haiti's national palace in Port-au-Prince: Source |url=https://abcnews.go.com/International/gangs-attack-haitis-presidential-palace-port-au-prince/story?id=107945093 |access-date=9 March 2024 |work=ABC News (United States)|ABC News}}</ref>",
                   "url": "https://abcnews.go.com/International/gangs-attack-haitis-presidential-palace-port-au-prince/story?id=107945093",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"bloomberg-intministry\">{{cite news |last1=Wyss |first1=Jim |title=Haitian Gangs Torch Ministry as Nation Descends Into Lawlessness |url=https://www.bloomberg.com/news/articles/2024-03-09/haitian-gangs-torch-ministry-as-nation-descends-into-lawlessness |access-date=9 March 2024 |work=Bloomberg News |date=9 March 2024 |language=en}}</ref>",
                   "url": "https://www.bloomberg.com/news/articles/2024-03-09/haitian-gangs-torch-ministry-as-nation-descends-into-lawlessness",
-                  "status_code": null,
-                  "reason": null,
+                  "status_code": 403,
+                  "reason": "Forbidden",
                   "type": "news"
                 },
                 {
                   "text": "<ref name=\"cooperativa-8\">{{cite news |title=Intensos tiroteos se registran en el entorno del Palacio Presidencial de Haití |url=https://www.cooperativa.cl/noticias/mundo/haiti/intensos-tiroteos-se-registran-en-el-entorno-del-palacio-presidencial-de/2024-03-09/004617.html |access-date=9 March 2024 |work=Cooperativa.cl |agency=EFE |language=Spanish}}</ref>",
                   "url": "https://www.cooperativa.cl/noticias/mundo/haiti/intensos-tiroteos-se-registran-en-el-entorno-del-palacio-presidencial-de/2024-03-09/004617.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 }
@@ -250,7 +250,7 @@
                 {
                   "text": "<ref>{{cite web |date=9 March 2024 |title=República Dominicana planea evacuar a sus funcionarios y de otros países de Haití |trans-title=Dominican Republic plans to evacuate its officials and other countries from Haiti |url=https://listindiario.com/las-mundiales/haiti/20240309/republica-dominicana-planea-evacuar-funcionarios-otros-paises-haiti_799201.html |language=es}}</ref>",
                   "url": "https://listindiario.com/las-mundiales/haiti/20240309/republica-dominicana-planea-evacuar-funcionarios-otros-paises-haiti_799201.html",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -263,21 +263,21 @@
                 {
                   "text": "<ref>{{cite news|url=https://www.nbcnews.com/news/world/haiti-suspected-gang-members-set-fire-conflict-spreads-capital-suburb-rcna144484|title=Suspected Haiti gang members set on fire as conflict spreads to capital suburb|newspaper=NBC News|date=21 March 2024}}</ref>",
                   "url": "https://www.nbcnews.com/news/world/haiti-suspected-gang-members-set-fire-conflict-spreads-capital-suburb-rcna144484",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite news|url=https://news.sky.com/story/prominent-haitian-gang-leader-shot-dead-by-police-as-political-groups-near-finalisation-of-transition-council-13099622|title=Prominent Haitian gang leader shot dead by police as political groups near finalisation of transition council|newspaper=Sky News|date=22 March 2024}}</ref>",
                   "url": "https://news.sky.com/story/prominent-haitian-gang-leader-shot-dead-by-police-as-political-groups-near-finalisation-of-transition-council-13099622",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "news"
                 },
                 {
                   "text": "<ref>{{cite web|url=https://www.arise.tv/violence-rises-in-haiti-gang-leader-killed-as-transition-council-close-to-being-established/|title=Violence Rises In Haiti, Gang Leader Killed As Transition Council Close To Being Established|website=Arise News|date=22 March 2024}}</ref>",
                   "url": "https://www.arise.tv/violence-rises-in-haiti-gang-leader-killed-as-transition-council-close-to-being-established/",
-                  "status_code": null,
+                  "status_code": 200,
                   "reason": null,
                   "type": "web"
                 }
@@ -304,42 +304,42 @@
                     {
                       "text": "<ref>{{Cite news |last=Jones |first=Sam |date=2024-03-04 |title=Haiti declares state of emergency after thousands of dangerous inmates escape |url=https://www.theguardian.com/world/2024/mar/04/haiti-mass-jailbreak-violence-port-au-prince-gangs |access-date=2024-06-14 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>",
                       "url": "https://www.theguardian.com/world/2024/mar/04/haiti-mass-jailbreak-violence-port-au-prince-gangs",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "news"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Haiti |url=https://www.state.gov/reports/2022-country-reports-on-human-rights-practices/haiti/ |access-date=2024-06-14 |website=United States Department of State |language=en-US}}</ref>",
                       "url": "https://www.state.gov/reports/2022-country-reports-on-human-rights-practices/haiti/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Haiti |url=https://www.state.gov/countries-areas/haiti/ |access-date=2024-06-14 |website=United States Department of State |language=en-US}}</ref>",
                       "url": "https://www.state.gov/countries-areas/haiti/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |date=2024-03-15 |title=High-Level CARICOM Meeting on Haiti – Office of the Prime Minister |url=https://opm.gov.jm/speech/high-level-caricom-meeting-on-haiti/ |access-date=2024-06-14 |language=en-US}}</ref>",
                       "url": "https://opm.gov.jm/speech/high-level-caricom-meeting-on-haiti/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |title=Canada is evacuating 'most vulnerable' citizens from Haiti: Joly - National {{!}} Globalnews.ca |url=https://globalnews.ca/news/10382485/canada-evacuating-citizens-from-haiti-joly/ |access-date=2024-06-14 |website=Global News |language=en-US}}</ref>",
                       "url": "https://globalnews.ca/news/10382485/canada-evacuating-citizens-from-haiti-joly/",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     },
                     {
                       "text": "<ref>{{Cite web |last=étrangères |first=Ministère de l'Europe et des Affaires |title=Haiti – Special flights for vulnerable French nationals wishing to leave Port-au-Prince (24 Mar. 2024) |url=https://www.diplomatie.gouv.fr/en/country-files/haiti/news/article/haiti-special-flights-for-vulnerable-french-nationals-wishing-to-leave-port-au |access-date=2024-06-14 |website=France Diplomacy - Ministry for Europe and Foreign Affairs |language=en}}</ref>",
                       "url": "https://www.diplomatie.gouv.fr/en/country-files/haiti/news/article/haiti-special-flights-for-vulnerable-french-nationals-wishing-to-leave-port-au",
-                      "status_code": null,
+                      "status_code": 200,
                       "reason": null,
                       "type": "web"
                     }
